@@ -1,0 +1,4 @@
+30274981
+2019 Feb 1
+Hepatocellular carcinoma (HCC) accounts for about 90% of all primary liver cancers and is the second leading cause of cancer-related deaths worldwide. The hypervascular nature of most HCC tumors underlines the importance of angiogenesis in the pathobiology of these tumors. Several angiogenic pathways have been identified as being dysregulated in HCC, suggesting they may be involved in the development and pathogenesis of HCC. These data provide practical targets for systemic treatments such as those targeting the vascular endothelial growth factor receptor and its ligand. However, the clinical relevance of other more recently identified angiogenic pathways in HCC pathogenesis or treatment remains unclear. Research into molecular profiles and validation of prognostic or predictive biomarkers will be required to identify the patient subsets most likely to experience meaningful benefit from this important class of agents.
+

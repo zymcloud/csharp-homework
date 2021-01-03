@@ -1,0 +1,4 @@
+26302933
+2015 Oct
+We previously showed that human beta defensin-3 (hBD-3) activates mDC via TLR1/2. Here we investigated the effects of hBD-3 on NK cell activation state and effector functions. We observed that hBD-3 activates PBMC to secrete IFN-γ and kill K562 and HUH hepatoma target cells in an NK dependent fashion, and both TLR1/2 and CCR2 are involved. TLR1, TLR2 and CCR2 were expressed on NK cells, and in purified NK culture experiments we observed hBD-3 to directly act on NK cells, resulting in CD69 upregulation and IFNγ secretion. We also observed mDC-hBD-3 enhanced NK cytolytic activity and IFNγ production. These results implicate hBD-3 in its ability to directly activate NK cells and increase NK cell effector function, as well as promote mDC-dependent NK activity. HBD-3 may therefore act as a mediator of innate cell interactions that result in bridging of innate and adaptive immunity.
+Defensin; Dendritic cell; Human; Immunity; Innate; Natural killer cell.

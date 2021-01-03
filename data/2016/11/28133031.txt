@@ -1,0 +1,4 @@
+28133031
+2016 Nov
+We developed a reliable prediction model for colorectal cancer(CRC)patients after surgically curative resection. Using clinicopathological factors, prediction models were constructed for liver metastasis-free survival(LMFS). Between January 2004 and December 2010, 528 CRC patients were investigated. On univariate analysis of clinicopathological factors, the following factors associated with LMFS: pathological tumor invasion, lymph node metastasis, lymphatic invasion, venous invasion, and preoperative serum CEA. Using these factors, a prediction model was constructed using a Cox regression model with a concordance index of 0.824 for LMFS. These individualized prediction models could help clinicians in the treatment of postoperative CRC patients.
+

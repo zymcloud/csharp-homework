@@ -1,0 +1,4 @@
+25482496
+2015 Mar
+The present study involved the isolation and characterization of canine tumor endothelial cells (TECs) from 2 malignancies. TECs were isolated using magnetic cell sorting following FITC labeling with UEA1 lectin, and they were characterized by measuring genetic and histopathological endothelial markers. Isolated TECs exhibited a cobblestone-like morphology and expressed both vascular endothelial growth factor receptor 2 (VEGFR2) and Von Willebrand factor (vWF). Further, both TECs and tumor cells derived from a seminoma exhibited increased C-X-C chemokine receptor type 7 (CXCR7) expression. However, CXCR7 expression was not detected in TECs and tumor cells derived from a hepatocellular carcinoma. Understanding TEC specific traits may be important in the development of more efficacious anti-angiogenic therapies that do not induce adverse effects.
+

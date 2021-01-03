@@ -1,0 +1,4 @@
+32568248
+2020 Jun 5
+HBV mainly infects human hepatocytes, but it has also been found to infect extrahepatic tissues such as kidney and testis. Nonetheless, cell-based HBV models are limited to hepatoma cell lines (such as HepG2 and Huh7) overexpressing a functional HBV receptor, sodium taurocholate co-transporting polypeptide (NTCP). Here, we used 293T-NE-3NRs (293T overexpressing human NTCP, HNF4α, RXRα and PPARα) and HepG2-NE (HepG2 overexpressing NTCP) as model cell lines. HBV infection in these cell lines was performed either by using concentrated HBV virus particles from HepG2.2.15 or co-culturing HepG2.2.15 with the target cell lines. HBcAg immunofluorescence for HBcAg was performed to confirm HBV infection. The two methods presented here will help us study HBV infection in non-hepatic cell lines.
+

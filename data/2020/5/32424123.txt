@@ -1,0 +1,4 @@
+32424123
+2020 May 18
+Currently, most diseases are diagnosed only after significant disease-associated transformations have taken place. Here, we propose an approach able to identify when systemic qualitative changes in biological systems happen, thus opening the possibility for therapeutic interventions before the occurrence of symptoms. The proposed method exploits knowledge from biological networks and longitudinal data using a system impact analysis. The method is validated on eight biological phenomena, three synthetic datasets and five real datasets, for seven organisms. Most importantly, the method accurately detected the transition from the control stage (benign) to the early stage of hepatocellular carcinoma on an eight-stage disease dataset.
+

@@ -1,0 +1,4 @@
+25008569
+2014 Oct
+Hepatocellular carcinoma (HCC) is one of the leading causes of cancer-related deaths worldwide. Increasing evidence suggests that microRNAs (miRNAs) are associated with HCC tumorigenesis. The present study was designed to define the role of miR-141 in HCC. The expression of miR-141 was significantly decreased in four HCC cell lines. Overexpression of miR-141 suppressed both the growth and the motility of HCC cells. Furthermore, we identified zinc finger E-box binding homeobox 2 (ZEB2) as a target of miR-141 and miR-141 functioned as a tumor suppressor via ZEB2 targeting in HCC. These data provide a novel potential therapeutic target for HCC treatment.
+

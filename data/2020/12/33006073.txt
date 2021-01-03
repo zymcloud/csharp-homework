@@ -1,0 +1,4 @@
+33006073
+2020 Dec
+Background:The prognosis of HCC depends in large measure on maximum tumor diameter (MTD).Aims:To examine characteristics of tumor aggressiveness over an MTD range of Methods:A large HCC database was examined retrospectively for trends in serum alpha-fetoprotein (AFP), and percent of patients with macroscopic portal vein thrombosis (PVT) or tumor multifocality.Results:There was a significant trend to increased serum AFP levels and percent of patients with PVT, for each, p Conclusions:Patterns of AFP and PVT increase can be discerned with increasing MTD, which are nonlinear. The greater fold increase in tumor aggressiveness factors compared with MTD suggests that HCCs may change with increasing size to a more aggressive phenotype. Baseline HCC biopsies might therefore be insufficient in future rational HCC management, and repeated liquid biopsies have potential in following HCC evolution and thus choices of therapies.
+Evolution; HCC; MTD; PVT.

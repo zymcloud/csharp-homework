@@ -1,0 +1,4 @@
+21104209
+2011 Feb
+Hepatocellular carcinoma (HCC) used to be considered a universally fatal disease. Today, however, we have tools to identify patients at risk for HCC with more accuracy. We are able to provide surveillance using ultrasonography that is sufficiently sensitive to detect small HCC lesions. Treatment of these lesions, whether by resection or by radiofrequency ablation, is highly effective. These advances mean that HCC is theoretically curable in the majority of patients, provided these tools are used. Microarray technology has been applied to the study of the genetic changes in HCC, and has defined several distinct genetic variants of this disease, as well as identifying gene signatures that predict poor outcome, and predict metastases. These techniques are now being used to identify new potential targets for therapy, and hold great promise for the future.
+

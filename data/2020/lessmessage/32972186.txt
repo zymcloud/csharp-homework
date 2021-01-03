@@ -1,0 +1,4 @@
+32972186
+Summer 2020
+Liver fibrosis is the excessive deposition of extracellular matrix in liver tissue resulting in structural and functional liver changes. The basis for these changes is the imbalance between fibrogenesis and fibrolysis, which arises in response to chronic liver damage, regardless of its aetiology. Advanced liver fibrosis leads to cirrhosis with its possible complications - portal hypertension, hepatocellular carcinoma, and liver failure. For patients with chronic liver disease, the development of liver fibrosis as well as its severity is the most important prognostic factor. Early diagnosis is a key to avoid above mentioned complications. Understanding the molecular mechanisms underlying liver fibrogenesis is fundamentally relevant to developing new antifibrotic treatments that are independent of the underlying aetiology.
+diagnosis of liver fibrosis; extracellular matrix; hepatic stellate cells; liver fibrosis; therapy of liver fibrosis.

@@ -1,0 +1,4 @@
+26809466
+2016 Mar
+Hepatocellular carcinoma (HCC) is a lethal liver malignancy worldwide. In this study, we reported that protein phosphatase magnesium-dependent 1δ (PPM1D) was highly expressed in the majority of HCC cases (approximately 59%) and significantly associated with high serum α-fetoprotein (AFP) level (P = 0.044). Kaplan- Meier and Cox regression data indicated that PPM1D overexpression was an independent predictor of HCCspecific overall survival (HR, 2.799; 95% CI, 1.346-5.818, P = 0.006). Overexpressing PPM1D promoted cell viability and invasion, whereas RNA interference-mediated knockdown of PPM1D inhibited proliferation, invasion, and migration of cultured HCC cells. In addition, PPM1D suppression by small interfering RNA decreased the tumorigenicity of HCC cells in vivo. Overall, results suggest that PPM1D is a potential prognostic marker and therapeutic target for HCC.
+PPM1D; hepatocellular carcinoma; prognosis; target therapy.

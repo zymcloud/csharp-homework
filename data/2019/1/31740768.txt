@@ -1,0 +1,4 @@
+31740768
+2020 Jan
+In contrast to traditional CRISPR-Cas9 homology-directed repair, base editing can correct point mutations without supplying a DNA-repair template. Here we show in a mouse model of tyrosinaemia that hydrodynamic tail-vein injection of plasmid DNA encoding the adenine base editor (ABE) and a single-guide RNA (sgRNA) can correct an A>G splice-site mutation. ABE treatment partially restored splicing, generated fumarylacetoacetate hydrolase (FAH)-positive hepatocytes in the liver, and rescued weight loss in mice. We also generated FAH+ hepatocytes in the liver via lipid-nanoparticle-mediated delivery of a chemically modified sgRNA and an mRNA of a codon-optimized base editor that displayed higher base-editing efficiency than the standard ABEs. Our findings suggest that adenine base editing can be used for the correction of genetic diseases in adult animals.
+

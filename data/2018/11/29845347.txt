@@ -1,0 +1,4 @@
+29845347
+2018 Nov
+Nivolumab has recently received approval by the Food and Drug Administration for treatment of advanced hepatocellular carcinoma (HCC) in patients previously treated with sorafenib. Nivolumabs' overall response rate of 20% (El-Khoueiry et al. in Lancet 389:2492-2502, 2017) is a step forward for these patients, but there is significant room for improvement. We describe a case of combining Y-90 radioembolization with nivolumab for treatment of angioinvasive HCC, which successfully bridged patient to partial hepatectomy. Surgical pathology showed negative margins with complete pathological response. With the introduction of immunotherapy for HCC, combining Y-90 radioembolization with immunotherapy may enhance the anti-tumoral immune response of checkpoint inhibitors.
+Checkpoint inhibitors; Hepatocellular carcinoma; Immunotherapy; Nivolumab; Radioembolization; Y-90.

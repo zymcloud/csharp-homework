@@ -1,0 +1,4 @@
+30509107
+2019 Mar 5
+A score model based on clinical characteristics in advanced hepatocellular carcinoma (HCC) patients treated with systemic chemotherapy of oxaliplatin-containing regimens was established to evaluate progression-free survival (PFS) and overall survival (OS). Thirty HCC patients eligible for radical resection were involved in the retrospective study, and these were divided into the good response group (complete response (CR)/partial response (PR) and the poor response group (stable disease (SD)/progression disease (PD). The median PFS and OS were compared in the two groups. PFS and OS combined with clinical characteristics were evaluated by univariate and multivariate analyses. The score model was defined with 1 score for each characteristic, and score model cut-off values were determined by the receiver operating characteristic curve (ROC) which describes treatment response. The median PFS was 10 and 2 months (p
+

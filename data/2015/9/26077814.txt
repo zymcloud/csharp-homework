@@ -1,0 +1,4 @@
+26077814
+2015 Sep
+Several copper complexes have been assessed as anti-tumor agents against cancer cells. In this work, a copper compound [Cu(H2O){OS(CH3)2}L](NO3)2 incorporating the ligand 4'-phenyl-terpyridine antiproliferative activity against human colorectal, hepatocellular carcinomas and breast adenocarcinoma cell lines was determined, demonstrating high cytotoxicity. The compound is able to induce apoptosis and a slight delay in cancer cell cycle progression, probably by its interaction with DNA and induction of double-strand pDNA cleavage, which is enhanced by oxidative mechanisms. Moreover, proteomic studies indicate that the compound induces alterations in proteins involved in cytoskeleton maintenance, cell cycle progression and apoptosis, corroborating its antiproliferative potential.
+

@@ -1,0 +1,4 @@
+20100608
+2010 Mar 30
+The molecular structure of the rhizobium exopolysaccharide (REPS) was analyzed by enzymolysis, periodate oxidation, and Smith degradation, and by IR and NMR spectroscopy. The results indicated that REPS was a beta-glucan with a backbone of beta-D-(1-->4)-linked glucose residues and branches of beta-D-(1-->6)-linked glucose residues. The branch was attached to the main chain at the 6-O-position. The molar ratio of 1-->4 and 1-->6 was 2:1. The terminal C3 of the (1-->6)-Glc branch had an O-acetyl group. The molecular weight was estimated to be 35 kDa by Sephadex G-100 column chromatography. The antitumor activity of REPS was evaluated in mice bearing sarcoma 180, hepatoma 22, and Ehrlich ascites carcinoma tumor, respectively. At doses of 10-60 mg/kg, it was observed that tumor formation decreased significantly (P
+

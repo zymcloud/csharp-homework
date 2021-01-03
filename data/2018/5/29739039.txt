@@ -1,0 +1,4 @@
+29739039
+2018 May 1
+Background:To explore the expression pattern and clinical significance of TEAD1 in hepatocellular carcinoma (HCC). The prognostic significance of TEAD-1 expression is also evaluated.Methods:TEAD1 expression was detected by the immunohistochemistry (IHC) method and western blot. The association between TEAD1 expression of HCC tissues and clinical variables was evaluated by Chi-squared test. Survival analysis was used to determine the prognosis effect of TEAD1.Results:Expression of TEAD1 is significantly increased in HCC tissues compared with adjacent normal liver tissues by IHC (p = 0.002) and western blot (p = 0.020). The difference for the ratio of low, medium, and high staining between HCC and normal tissues is significant (p Conclusions:TEAD1 expression is highly expressed in HCC. TEAD1 overexpression is involved in the growth and differentiation of HCC. TEAD1 expression is unable to act as an independent prognosis factor for HCC patients.
+

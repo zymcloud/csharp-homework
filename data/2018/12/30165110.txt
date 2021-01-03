@@ -1,0 +1,4 @@
+30165110
+2018 Dec
+We here report a case of Dysgonomonas mossii bacteremia with cholangitis. An 85-year-old male patient with recurrent hepatitis B surface antigen-negative/anti-hepatitis C virus-negative hepatocellular carcinoma came to our hospital in poor physical condition. Two sets of blood cultures revealed a positive result for D. mossii. As matrix-assisted laser desorption/ionization time-of-flight mass spectrometry failed to identify D. mossii, analysis of 16S rRNA gene sequencing was performed; however, this gene is not specific enough to distinguish between D. mossii and D. oryzarvi. Finally, D. mossii infection was confirmed by gyrB and recA sequencing. To our knowledge, this is the first report of D. mossii causing human infection, which was identified in culture and confirmed using a combination of 16S rRNA, gyrB, and recA sequencing.
+16S rRNA; Bacteremia; Dysgonomonas mossii; Hemin-dependent; gyrB; recA.

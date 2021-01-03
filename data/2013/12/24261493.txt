@@ -1,0 +1,4 @@
+24261493
+2013 Dec
+Researchers frequently use observational studies to compare outcomes of patients who undergo different treatments. However, as patients in these observational studies are not randomly assigned to a particular treatment group, unknown confounding variables may be present. Specifically, there may be major differences in numerous clinical variables between the treatment groups that may affect the outcomes being examined. Propensity score adjustment is an increasingly popular statistical method used to simultaneously balance these clinical variables and control for this confounder bias. Propensity score analysis can minimize the limitations of retrospective or prospective observational studies by simulating the randomization process of randomized controlled trials. In this review, an introduction to propensity score adjustment is provided by using the Takuma et al study published in this issue of Radiology as an example.
+

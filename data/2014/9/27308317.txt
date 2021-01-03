@@ -1,0 +1,4 @@
+27308317
+2014 Sep 2
+Viral infection may play a causative role in human cancers, for example hepatitis B virus (HBV) or hepatitis C virus (HCV) in liver cancer, human papilloma virus (HPV) in cervical cancer, and Epstein-Barr virus (EBV) in nasopharyngeal carcinoma. Virally infected cells express viral-encoded genes that are critical for oncogenesis. Some viruses also encode microRNA (miRNA) species. miRNAs are small noncoding RNA molecules that play an important role in cancer development and progression. Recent studies indicate an important interplay among viral oncoproteins, virus-encoded miRNAs, cellular miRNAs, and cellular genes. This review focuses on modulation of HBV-, HCV-, HPV-, and EBV-associated cancers by cellular and/or viral miRNA. An understanding of the mechanisms underlying the regulation of viral carcinogenesis by miRNAs may provide new targets for the development of specific viral therapies.
+cancer; gene expression; microRNA; virus.

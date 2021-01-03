@@ -1,0 +1,4 @@
+20346660
+2010 Apr 15
+Eight hydroxyl-substituted Schiff bases with the different number and position of hydroxyl group on the two asymmetric aromatic rings (A and B rings) were prepared by the reaction between the corresponding aromatic aldehyde and aniline. Their antioxidant effects against the stable galvinoxyl radical (GO(.)) in ethyl acetate and methanol, and 2,2'-azobis(2-amidinopropane hydrochloride) (AAPH)-induced DNA strand breakage, and their antiproliferative effects on human hepatoma HepG2 cells, were investigated. Structure-activity relationship analysis demonstrates that o-dihydroxyl groups on the aromatic A ring and 4-hydroxyl group attached to the aromatic B ring contribute critically to the antioxidant and antiproliferative activities.
+

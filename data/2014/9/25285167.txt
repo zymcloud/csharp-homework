@@ -1,0 +1,4 @@
+25285167
+2014 Sep 19
+Hepatitis B virus (HBV) infection is a global problem and a major risk factor for hepatocellular carcinoma (HCC). microRNAs (miRNAs) comprise a group of small noncoding RNAs regulating gene expression at the posttranslational level, thereby participating in fundamental biological processes, including cell proliferation, differentiation, and apoptosis. In this review, we summarize the roles of miRNAs in HBV infection, the recently identified mechanism underlying dysregulation of miRNAs in HBV-associated HCC, and their association with hepatocarcinogenesis. Moreover, we discuss the recent advances in the use of circulating miRNAs in the early diagnosis of HCC as well as therapies based on these aberrantly expressed miRNAs.
+Diagnosis; Hepatitis B virus; Hepatocellular carcinoma; MicroRNA; Therapy..

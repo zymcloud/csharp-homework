@@ -1,0 +1,4 @@
+25089503
+2014 Oct 1
+We report herein the development of a smart magnetic nanoparticle-aptamer probe, or theranostic nanoprobe, which can be used for targeted imaging and as a drug carrier for hepatocellular carcinoma treatment. The theranostic nanoprobe combines the delivery potential of a non-toxic cellulose derivative polymer, specific capability of cancer-specific molecule (DNA-based EpCAM aptamer) and the imaging capability of magnetic iron oxide nanoparticles. Our proof-of-concept design demonstrates efficient in vitro MR imaging of the cancer cells, and enhanced delivery of an anticancer drug into the cancer cells with comparable treatment efficacy.
+Drug delivery; EpCAM aptamer; MR imaging; Magnetic nanoparticles; Theranostic nanoplatform.

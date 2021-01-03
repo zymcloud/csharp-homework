@@ -1,0 +1,4 @@
+26704347
+2016 Apr
+Interferon (IFN)-α is a first-line therapy for chronic hepatitis B (CHB) patients but only initiates a response in a minority of patients. A genetic variant, rs7574865 in STAT4, was recently reported to be associated with risk of developing CHB and hepatitis B virus-related hepatocellular carcinoma. We aimed to determine whether this variant is associated with the response to IFNα treatment for hepatitis B e antigen (HBeAg)-positive CHB patients. We studied 466 HBeAg-positive CHB patients who received either IFNα-2b (n = 224) or pegylated IFNα-2a (n = 242) therapy for 48 weeks and were followed for an additional 24 weeks. The rate of sustained virologic response (SVR), defined as HBeAg seroconversion along with hepatitis B virus DNA level Conclusion:STAT4 rs7574865 is a reliable predictor of response to IFNα therapy for HBeAg-positive CHB patients and may be used for optimizing the treatment of CHB.
+

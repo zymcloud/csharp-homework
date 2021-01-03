@@ -1,0 +1,4 @@
+24022933
+2013 Jul
+Objective:To investigate the effect of Oxaliplatin (L-OHP) on cell cycle in hepatocellular carcinoma cell line HepG2 and the involved mechanism.Methods:Inhibitory effect of L-OHP on the proliferation of HepG2 cells was determined by MTT assay. Cell cycle distribution was shown by flow FCM. The expression levels of cyclinD1, CDK2, CDK4, p16, p21, p53 were detected by RT-PCR and Western blot.Results:MTT method revealed that L-OHP inhibited proliferation of hepatocellular carcinoma HepG2 cells in a dose- and time-dependent manner. L-OHP induced S cell cycle arrest in HepG2 cell; down-regulated the levels of CDK4, cyclinD1 and up-regulated the levels of p21, p53. There were no significant changes of CDK2 and p16 after L-OHP treatment.Conclusion:L-OHP inhibits the proliferation of HepG2 cells by blocking cell at S stage, which may be resulted from the activity of CDK4, CyclinD1 and p21.
+

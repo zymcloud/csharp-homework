@@ -1,0 +1,4 @@
+25684507
+2015
+Background:Studies indicate the immediate early response gene 3 (IER3) is involved in many biological processes. Recently, it was discovered that IER3 plays an important role in tumorigenesis and tumor progression. Thus it may be a valuable biomarker in tumor. This study was designed to investigate the expression status of IER3 in primary hepatocarcinoma (PHC) and correlation with clinicopathological parameters.Materials and methods:Real-time PCR was performed to evaluate the expression levels of IER3 in 62 pathologically diagnosed human PHC specimens.Results:A statistically significant association was disclosed between the expression of IER3 and P53 mutant protein (short for P53), Ki-67, EGFR and the biggest diameter, differentiation grade of tumor.Conclusions:This work is the first to shed light on the potential clinical usefulness of IER3, as an efficient tumor biomarker in PHC.
+

@@ -1,0 +1,4 @@
+25757957
+2015 Mar 11
+Dynamic metabolomics studies can provide a systematic view of the metabolic trajectory during disease development and drug treatment and reveal the nature of biological processes at metabolic level. To extract important information in a systematic time dimension rather than at isolated time points, a weighted method based on the means and variations along the time points was proposed and first applied to previously published rat model data. The method was subsequently extended and applied to prospective metabolomics data analysis of hepatocellular carcinoma (HCC). Permutation was employed for noise filtering and false discovery rate (FDR) was used for parameter optimization during the feature selection. Long-term elevated serum bile acids were identified as risk factors for HCC development.
+

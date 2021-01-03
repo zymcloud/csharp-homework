@@ -1,0 +1,4 @@
+25537770
+2015
+Cancer stem cells (CSCs) are a subset of cells within tumours that have the ability to selfrenew, differentiate and resist both chemotherapy and radiotherapy. Evidence has emerged in recent years to support liver cancer stem cells (LCSCs) as the key tumour initiating cells and major drivers of tumour progression in hepatocellular carcinoma (HCC). Currently the major approaches to targeting LCSCs are ablating the expression of LCSC markers, disruption of key LCSCs signaling pathways, micro-RNA or siRNA targeting, inducing differentiation of LCSCs and the disruption of chemoresistance of LCSCs. However, complex crosstalk amongst gene regulatory pathways in LCSCs provides a major barrier in implementing these approaches in a clinical setting. Given these findings a deeper understanding of the pathways that mediate LCSC tumourigenesis is imperative for developing new therapeutic strategies for HCC and to improve clinical outcomes.
+

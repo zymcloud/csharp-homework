@@ -1,0 +1,4 @@
+29669588
+2018 Apr 18
+The original article [1] contains an error in Fig. 5a whereby the Western blot bands representing CyclinD1 have mistakenly been duplicated over the Western blot bands intended to represent SGK.
+

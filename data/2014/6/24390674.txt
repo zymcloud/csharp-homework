@@ -1,0 +1,4 @@
+24390674
+2014 Jun
+microRNAs constitute a novel class of small, non-coding RNAs that negatively regulate gene expression via translational inhibition or mRNA degradation. Aberrant miRNA expression has been implicated in the initiation, progression, and metastasis of hepatocellular carcinoma (HCC). It is well-documented that miRNAs function as either tumor suppressor genes or oncogenes in the development and progression of HCC. Additionally, substantial evidence suggests that unique miRNA signatures can serve as valuable diagnostic and prognostic biomarkers for HCC. Interestingly, certain subsets of miRNAs have also been identified as potential therapeutic targets for HCC.
+

@@ -1,0 +1,4 @@
+32102993
+2020 Feb 26
+The membrane deforming dynamin family members MxA and MxB are large GTPases that convey resistance to a variety of infectious viruses. During viral infection, Mx proteins are known to show markedly increased expression via an interferon-responsive promoter to associate with nuclear pores. In this study we report that MxB is an inner mitochondrial membrane GTPase that plays an important role in the morphology and function of this organelle. Expression of mutant MxB or siRNA knockdown of MxB leads to fragmented mitochondria with disrupted inner membranes that are unable to maintain a proton gradient, while expelling their nucleoid-based genome into the cytoplasm. These findings implicate a dynamin family member in mitochondrial-based changes frequently observed during an interferon-based, anti-viral response.
+

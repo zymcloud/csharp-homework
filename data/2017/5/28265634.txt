@@ -1,0 +1,4 @@
+28265634
+2017 May 2
+Shikonin and its enantiomer alkannin, which are natural products, have been extensively studied in vitro and in vivo for, among others, their antitumor activity. The investigation of the molecular pathways involved in their action is of interest, since they are not yet clearly defined. Metabolic profiling in cells can provide a picture of a cell's phenotype upon intervention, assisting in the elucidation of the mechanism of action. In this study, the cytotoxic effect of shikonin on a human hepatocarcinoma cell line was studied. Huh7 cells were treated with shikonin at 5 μM, and it was found that shikonin markedly inhibited cell growth. Metabolic profiling indicated alterations in the metabolic content of the cells and the culture media upon treatment, detecting the metabolic response of the cells. This study demonstrates the potential of metabolomics to improve knowledge on the mechanisms involved in shikonin's antitumor action.
+

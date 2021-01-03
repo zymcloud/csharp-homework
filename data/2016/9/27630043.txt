@@ -1,0 +1,4 @@
+27630043
+2016 Sep 15
+Cirrhosis likely shares common pathophysiological pathways despite arising from a variety of liver diseases. A recent GWAS identified rs641738, a polymorphism in the MBOAT7 locus, as being associated with the development of alcoholic cirrhosis. Here we explore the role of this variant on liver inflammation and fibrosis in two cohorts of patients with chronic hepatitis C. In 2,051 patients, rs641738 associated with severe hepatic inflammation and increased risk of fibrosis, as well as fast fibrosis progression. At functional level, rs641738 associated with MBOAT7 transcript and protein levels in liver and blood, and with serum inflammatory, oxidative stress and macrophage activation markers. MBOAT7 was expressed in immune cell subsets, implying a role in hepatic inflammation. We conclude that the MBOAT7 rs641738 polymorphism is a novel risk variant for liver inflammation in hepatitis C, and thereby for liver fibrosis.
+

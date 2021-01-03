@@ -1,0 +1,4 @@
+26512611
+2015 Oct
+The purpose of this study is to identify dose-volumetric parameters that predict radiation-induced hepatic toxicity (RIHT) by analyzing the relationship between the biologically effective dose (BED) delivered to the normal liver and RIHT.The clinical and dosimetric data from 123 patients with unresectable hepatocellular carcinoma (HCC) treated with helical tomotherapy were analyzed. The median radiation dose was a 50 Gy in 4.5 Gy fractions (range, 30-60 Gy in 1.8-5.0 Gy fractions) to 95% of the planning target volume. RIHT was defined as a Child-Pugh score increase of at least 2 points within 3 months of helical tomotherapy completion.RIHT developed in 60 patients (48.7%). Multivariate logistic regression analysis showed that VBED20 (percentage of nontarget normal liver volume that received more than a BED of 20 Gy) was a significant parameter (P
+

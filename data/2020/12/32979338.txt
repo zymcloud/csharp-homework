@@ -1,0 +1,4 @@
+32979338
+2020 Dec
+Aims:The present study aimed to determine the prognostic significance of soluble Programmed Death-ligand 1 (sPD-L1) in hepatocellular carcinoma (HCC) patients undergoing transcatheter arterial chemoembolization (TACE).Methods:We treated 114 HCC patients with TACE from 2012 to 2013 and determined their sPD-L1 levels by enzyme-linked immunosorbent assay. We evaluated prognosis according to mRESIST criteria and analyzed prognostic values by Cox regression and Kaplan-Meier analysis. We further evaluated correlations between sPD-L1 level and inflammatory status, as well as immunosuppressive environment.Results:sPD-L1 levels were significantly increased in patients who developed HCC progression (P = 0.002) and death (P
+Hepatocellular carcinoma; Immunosuppression; Prognosis; Soluble programmed death-ligand 1; Transcatheter arterial chemoembolization.

@@ -1,0 +1,4 @@
+27130669
+2016 Jul 28
+Despite the great progress in the treatment of hepatocellular carcinoma, combination chemotherapy is still the main choice of treatment for patients with unresectable metastatic or recurrent hepatocellular cancer. Lentinan, which has been used as an immunomodulator in the treatment of cancer, possesses anti-tumor activities. However, the mechanisms by which Lentinan inhibits hepatocellular carcinoma remain unknown. Our study showed that Lentinan has a significantly synergistic anti-tumor effect with oxaliplatin against HepG2 cells in vitro and in H22 tumor-bearing mice through the mitochondria pathway and for the inhibition of NF-κB, Stat3 and survivin signaling. Moreover, Lentinan moderated side effects induced by oxaliplatin. These findings suggested that Lentinan may be an ideal agent for the combination therapy of oxaliplatin against hepatocellular carcinoma.
+Apoptosis; Hepatocellular carcinoma; Lentinan; Oxaliplatin; Polysaccharide.

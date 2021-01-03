@@ -1,0 +1,4 @@
+32489910
+2020 May 17
+Hepatocellular carcinoma (HCC) remains one of the most lethal malignant cancers worldwide. HCC mouse models are widely used to explore the molecular pathogenesis of HCC and to test novel drug candidates. The advantages of this mouse model are as follows:•This method developed a H11LNL-Myc knock-in HCC mouse model by crossing H11LNL-Myc heterozygous mice with (albumin (Alb))-cre transgenic mice to generate c-Myc/Alb-cre double positive mice.•The c-Myc/Alb-cre double-positive mice exhibited a typical HCC phenotype, and showed accelerated tumor initiation and rapid HCC progression. Early stage HCC tumors (2-3 mm in diameter) were observed in male mice at the age of 47 days and in female mice at the age of 60 days.•Approximately 3 months later, the HCC tumors had progressed to a late stage (> 1 cm in diameter), and 100% of the male and female mice had HCC.
+Hepatocellular carcinoma; Knock-in; Transgenic mouse model; c-Myc.

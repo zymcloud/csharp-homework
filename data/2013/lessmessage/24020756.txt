@@ -1,0 +1,4 @@
+24020756
+2013
+Hepatitis B virus (HBV) can be propagated in vitro in primary cultures of human hepatocytes and some stable hepatoma cell lines maintained under specific conditions. The lack of simple and non-neoplastic cell culture systems for HBV has hampered the analysis of virus life cycle and development of antiviral compounds. In this study, we succeeded in prolonging the lifespan of human hepatocytes in primary culture by transducing them with human telomerase reverse transcriptase (hTERT) gene. The transgenic cells expressed hTERT constitutively and propagated HBV up to 5x105 DNA copies/ml for 28 days.
+

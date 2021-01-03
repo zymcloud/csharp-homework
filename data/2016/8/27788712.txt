@@ -1,0 +1,4 @@
+27788712
+2016 Aug 20
+Hepatocellular carcinoma (HCC) commonly presents with high morbidity and mortality, and early staging diagnosis and timely treatment is pivotal to prolonging patients' survival time. Compared with traditional morphological imaging methods such as ultrasound, computed tomography (CT), and magnetic resonance imaging (MRI), functional imaging methods like single-photon emission computed tomography (SPECT) and positron emission tomography (PET) are playing an increasingly important role in the early diagnosis, efficacy assessment, prognostic evaluation, and treatment planning for HCC, thanks to their higher sensitivity at a molecular level by using various radiopharmaceuticals.
+

@@ -1,0 +1,4 @@
+23438193
+2013 Apr
+Liver cancer is one of the most common tumors worldwide and drug resistance is a major obstacle to successful therapy. The growing data show that cancer stem cells (CSCs), a rare subpopulation of cancer cells, might be an important mechanism of drug resistance. To explore the self-renewal ability and chemotherapy resistance in liver CSCs, we enriched CD90(+)CD133(+) hepatocellular carcinoma (HCC) CSCs using sphere formation, which was accomplished by cultivating HCC CSCs from established HCC cell lines (HepG2 line and Hep3B line). Cell proliferation capacity was detected using colony formation assays, and cell activity was detected using methyl thiazolyl tetrazolium (MTT) assays after doxorubicin treatment. Expression of CD90, CD133, Oct4, and ABCG2 mRNA and protein levels was detected by PCR and western blot, respectively, which showed that these genes were significantly overexpressed in liver CSCs compared to parental cells (p
+

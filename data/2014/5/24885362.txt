@@ -1,0 +1,4 @@
+24885362
+2014 May 7
+Hepatitis C virus (HCV) is a universal health issue and a significant risk factor leading to hepatocellular carcinoma. HCV has infected approximately 170 million individuals worldwide. It is a member of Flaviviridae with positive sense RNA genome. In the absence of any effective vaccine against HCV, pegylated interferon with ribavirin is the standard of treatment against HCV infection. In this study, sequence and structural analysis of envelope 2 (E2) protein was performed which was isolated from patients of HCV genotype 3a in Pakistan. Then, epitopes were predicted which were specific for both B-cells and T-cells. Later, conservancy of epitopes was checked with the HCV 3a and 1a sequences from different countries. A total of 6 conserved epitopes were found from extra-membranous regions of E2 protein. Presence of conserved epitopes in E2 protein generates the possibility that these epitopes can be used to elicit the immune response against HCV.
+

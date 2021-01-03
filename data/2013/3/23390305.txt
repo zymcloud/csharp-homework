@@ -1,0 +1,4 @@
+23390305
+2013 Mar
+Infection with hepatitis C virus (HCV) typically leads to persistent infection, with >170 million people estimated to be affected worldwide, putting them at risk for chronic hepatitis, liver cirrhosis, and hepatocellular carcinoma. Importantly, 20%-30% of individuals are able to control the virus spontaneously, usually within 6 months of exposure. This suggests that HCV vaccines and immunotherapies are a distinct possibility. We discuss here the role of T cells in controlling HCV, the gaps in our understanding of protective HCV immunity, and the recent introduction of a HCV T-cell vaccine into clinical trials.
+

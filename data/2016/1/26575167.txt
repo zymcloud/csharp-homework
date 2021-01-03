@@ -1,0 +1,4 @@
+26575167
+2016 Jan 19
+Bromodomain 4 (BRD4) is an epigenetic regulator that, when inhibited, has anti-cancer effects. In this study, we investigated whether BRD4 could be a target for treatment of human hepatocellular carcinoma (HCC). We show that BRD4 is over-expressed in HCC tissues. Suppression of BRD4, either by siRNA or using JQ1, a pharmaceutical BRD4 inhibitor, reduced cell growth and induced apoptosis in HCC cell lines while also slowing HCC xenograft tumor growth in mice. JQ1 treatment induced G1 cell cycle arrest by repressing MYC expression, which led to the up-regulation of CDKN1B (P27). JQ1 also de-repressed expression of the pro-apoptotic BCL2L11 (BIM). Moreover, siRNA knockdown of BIM attenuated JQ1-triggered apoptosis in HCC cells, suggesting an essential role for BIM in mediating JQ1 anti-HCC activity.
+BIM; BRD4; HCC; JQ1; MYC.

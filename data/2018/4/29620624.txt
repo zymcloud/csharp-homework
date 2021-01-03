@@ -1,0 +1,4 @@
+29620624
+2018 Apr
+The purpose of this study was to detect the expression of high-temperature requirement A2 (HtrA2) and its diagnostic value in the patients with hepatocellular carcinoma (HCC).The relative serum HtrA2 expression at mRNA and protein level was severally detected by quantitative real-time polymerase chain reaction and western blot analysis in 198 HCC patients and 48 healthy controls. And its association with clinicopathological features was analyzed by chi-square test. The diagnostic value of HtrA2 expression was estimated by establishing a receiver operating characteristic (ROC) curve.Serum HtrA2 was significantly higher in patients with HCC than that in healthy controls both at mRNA and protein levels (P
+

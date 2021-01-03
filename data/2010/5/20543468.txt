@@ -1,0 +1,4 @@
+20543468
+2010 May
+Objective:To investigate the effect of high mobility group box-1 protein (HMGB1) on the proliferative activity of human hepatoma cell line HepG2 and its potential regulating mechanism.Methods:The cultured HepG2 cells were treated with recombinant HMGB1 (0, 10, 50, and 100 ng/mL, respectively) for 24 h. Cell proliferation was observed by MTT analysis. Western blot and reverse transcriptase-polymerase chain reaction were used to detect the expression of proliferating cell nuclear antigen (PCNA) and cyclin D1 protein and mRNA, respectively.Results:Compared with the control group, HMGB1 at 10, 50, and 100 ng/mL obviously increased HepG2 cells proliferation, cyclin D1 and PCNA protein and mRNA expression after the treatment for 24 h, respectively (PConclusion:Proliferation of HMGB1 on HepG2 cells may be associated with increasing cyclin D1 and PCNA expression. Anti-HMGB1 may have a therapeutic effect on hepatocellular carcinoma.
+

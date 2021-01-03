@@ -1,0 +1,4 @@
+19540083
+2010 Jul
+Objective:To investigate the value of hepatocellular carcinoma pretreatment apparent diffusion coefficients (ADCs) and its ADCs changes after treatment in predicting and early monitoring the response after chemoembolization.Materials and methods:Twenty-five responding and nine nonresponding hepatocellular carcinoma lesions were prospectively evaluated with magnetic resonance diffusion-weighted imaging in 24 h before and in 48 h after chemoembolization. Quantitative ADC maps were calculated with images with b values of 0 and 500 s/mm(2).Results:Nonresponding lesions had a significantly higher pretreatment mean ADC than did responding lesions (1.726+/-0.323 x 10(-3) mm(2)/s vs.1.294+/-0.18510(-3) mm(2)/s, PConclusion:High pretreatment mean ADC value of hepatocellular carcinoma was predictive of poor response to chemoembolization. A significant increase in %ADC value was observed in lesions that responded to chemoembolization.
+

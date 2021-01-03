@@ -1,0 +1,4 @@
+24633222
+2014 Mar 14
+Hepatitis B viral infection-induced hepatocellular carcinoma is one of the major problems in the developing countries. One of the HBV proteins, HBx, modulates the host cell machinery via several mechanisms. In this study we hypothesized that HBV enhances cell proliferation via HBx-induced microRNA-21 in hepatocellular carcinoma. HBx gene was over-expressed, and miRNA-21 expression and cell proliferation were measured in Huh 7 and Hep G2 cells. miRNA-21 was over-expressed in these cells, cell proliferation and the target proteins were analyzed. To confirm the role of miRNA-21 in HBx-induced proliferation, Hep G 2.2.1.5 cells (a cell line that expresses HBV stably) were used for miRNA-21 inhibition studies. HBx over-expression enhanced proliferation (3.7- and 4.5-fold increase; n = 3; p
+

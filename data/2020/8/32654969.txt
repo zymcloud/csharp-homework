@@ -1,0 +1,4 @@
+32654969
+2020 Aug
+Virus infection is known to increase the risk of various cancers, including hepatocellular carcinoma (HCC). In a recent article in Cell, Liu et al. report a blood-based viral exposure signature (VES) based on a synthetic human virome to capture the history of virus exposure that is associated with future HCC occurrence.
+biomarker; hepatocellular carcinoma; viral exposure history.

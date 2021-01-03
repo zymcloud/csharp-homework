@@ -1,0 +1,4 @@
+25755779
+2015 Jan 1
+Lipids metabolism was involved in the process of many types of tumor and alkylglycerone phosphate synthase (AGPS) was considered implicated in tumor process. Benzyl isothiocyanate (BITC) showed the inhibitory effect of tumor and AGPS activity, therefore, we screened a group of small molecular compound based on BITC by computer-aid design targeting AGPS and the results showed that the derivants could suppress the proliferation, the expression of tumor related genes such as survivin and Bcl-2, and the level of ether lipids such as lysophosphatidic acid ether (LPAe) and platelet activating factor ether (PAFe); however, the activity of caspase-3/8 was improved in glioma U87MG and hepatic carcinoma HepG2 cells in vitro.
+Computer-aid drug design; alkylglycerone phosphate synthase; glioma; hepatic carcinoma.

@@ -1,0 +1,4 @@
+23943369
+2014 Jan
+Tumor necrosis factor alpha (TNF-α) has been suggested to play an important role in the development and liver cancer. TNF-α 238 G/A polymorphism was hypothesized to increase the risk of liver cancer, but findings from previous studies were controversial. To explore a more precise estimation of the relationship between TNF-α 238 G/A polymorphism and liver cancer, we performed a meta-analysis. PubMed, Embase, and China Biology Medicine databases were searched for all publications on this association through March 12, 2013. Odds ratios (ORs) with its 95% confidence intervals (CIs) were used to assess the strength of this association. Eleven studies with 1,406 liver cancer cases and 2,386 noncancer controls were included into this meta-analysis. Overall, there was a significant association between TNF-α 238 G/A polymorphism and increased risk of liver cancer under all three genetic models (A vs. G, OR 1.51, 95% CI 1.20-1.89, P
+

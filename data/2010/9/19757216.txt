@@ -1,0 +1,4 @@
+19757216
+2010 Sep
+Noncoding RNAs (ncRNAs) have been proven to actively participate in many diverse biologic processes. Some ncRNAs are strongly associated with tumorigenesis and could thus be regarded as tumor markers, or even as candidate therapeutic targets. In this study, we computationally analyzed the human UniGene dataset to predict potential tumor-specific ncRNAs, and then verified our predictions experimentally. We demonstrated that two of our predicted ncRNAs showed tumor-specific expression in non-small cell lung cancer and endometrial carcinoma, respectively. Genomic analysis of these two ncRNAs suggests that they might play significant roles in tumorigenesis and are therefore worthy of further investigation.
+

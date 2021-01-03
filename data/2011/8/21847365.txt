@@ -1,0 +1,4 @@
+21847365
+2011 Aug
+Glypican 3 (GPC3) is a valuable diagnostic marker and a potential therapeutic target in hepatocellular carcinoma (HCC). To evaluate the efficacy of targeting GPC3 at the translational level, we used RNA interference to examine the biologic and molecular effects of GPC3 suppression in HCC cells in vitro and in vivo. Transfection of Huh7 and HepG2 cells with GPC3-specific small interfering RNA (siRNA) inhibited cell proliferation (P
+

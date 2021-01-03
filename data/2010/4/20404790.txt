@@ -1,0 +1,4 @@
+20404790
+2010 Apr
+Background:Imaging of the liver is a key component in the detection, diagnosis, management, and follow-up of patients with hepatocellular carcinoma.Methods:The author uses his own experience as well as a review of pertinent literature to describe the capabilities and the limitations of the principal currently available imaging techniques for the liver.Results:Ultrasound is widely available, but sensitivity and specificity for small nodules are limited. Computed tomography effectively demonstrates extrahepatic lesions and can differentiate between cysts or hemangiomas and hepatocellular carcinomas. Magnetic resonance imaging better characterizes hepatic lesions, but positron emission tomography is of limited value.Conclusions:Cross-sectional imaging with ultrasound, CT, or MRI is critical for nodule characterization in the cirrhotic liver, surgical planning of HCC, and treatment response evaluation.
+

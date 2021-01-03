@@ -1,0 +1,4 @@
+32782369
+2020 Aug 11
+Conflicting results have been reported regarding which of entecavir (ETV) or tenofovir disoproxil fumarate (TDF) is associated with better outcomes. Chronic hepatitis B patients who started ETV or TDF between 2010 and 2015 were analysed. The primary outcomes were hepatocellular carcinoma and death and transplantation. The impact of the treatment on the primary outcomes was analysed using Cox proportional hazards models in the entire and propensity score-matched cohorts. A total of 404 patients (180 and 224 in the ETV and TDF groups, respectively) were analysed. The median duration of follow-up was significantly longer in the ETV group (64.0 vs. 49.1 months; P
+

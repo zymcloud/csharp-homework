@@ -1,0 +1,4 @@
+29449537
+2018 Feb 15
+Metformin has been demonstrated to prevent hepatocellular carcinoma (HCC). Metformin acts mainly by phosphorylation of AMPK. However, the phosphorylation status of AMPK and its role in the prediction and prevention of HCC in cirrhotic patients remains unclear. The phosphorylation status of AMPK (Thr172) was determined by immunostaining in tissue microarrays of 426 cirrhotic liver tissues. Low expression of p-AMPK was observed in 94 (22.1%) cases. The median follow-up time was 87 months. HCC occurrence probability at 1/3/5/10 years after Hassab procedure was 3.1/9.6/13.8/30.6% in patients with p-AMPK low expression and 0/0.3/0.3/8% in patients with p-AMPK high expression, respectively. HCC occurrence risk was significantly higher in patients with p-AMPK low expression in univariable analysis (HR, 6.25; 95% CI: 3.36-11.60; P
+

@@ -1,0 +1,4 @@
+26837049
+2016 Feb 26
+Aquaporin (AQP) 9, a member of the transmembrane water channel family, is defined as a water/glycerol transporting protein. Some AQPs including AQP3 and AQP8 have been recently found to transport hydrogen peroxide (H2O2). Here we show that AQP9 facilitates the membrane transport of H2O2 in human and mice cells. Enforced expression of human AQP9 in Chinese hamster ovary-K1 potentiated the increase in cellular H2O2 after adding exogenous H2O2. In contrast, AQP9 knockdown by siRNA in human hepatoma HepG2 cells reduced the import of extracellular H2O2. In addition, the uptake of extracellular H2O2 was suppressed in erythrocytes and bone marrow-derived mast cells from AQP9 knockout mice compared with wild-type cells. Coincidentally, H2O2-induced cytotoxicity was attenuated by AQP9 deficiency in human and mice cells. Our findings implicate the involvement of AQP9 in H2O2 transport in human and mice cells.
+Aquaporin 9; Hydrogen peroxide.

@@ -1,0 +1,4 @@
+29040993
+2017
+Background/aim:Balloon-occluded transcatheter arterial chemoembolization (B-TACE) using miriplatin (MPT) is anticipated as a new strategy for hepatocellular carcinoma (HCC). This study was aimed at evaluating the hemodynamic changes with/without balloon occlusion of the hepatic artery, correlation of cone-beam CT (CBCT) pixels, and CT value after B-TACE for HCC.Methods:A total of 52 patients with HCC, who underwent B-TACE using MPT in addition to the balloon-occluded CBCT hepatic arteriography, were studied.Results:After balloon occlusion, CBCT pixel values increased in 37 lesions, whereas it decreased in 15 lesions. Intratumoral CT values after B-TACE were lower with decreased CBCT pixel values than with increased CBCT pixel values.Conclusion:Hemodynamic changes on CBCT during balloon occlusion can be used to predict the efficacy of B-TACE using MPT.
+Balloon-occluded transcatheter arterial chemoembolization; CT value; Cone-beam CT; Miriplatin; Pixel.

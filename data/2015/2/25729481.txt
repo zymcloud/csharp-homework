@@ -1,0 +1,4 @@
+25729481
+2015 Feb 27
+In the Algorithm for Diagnosis and Treatment in the Japanese Evidence-Based Clinical Practice Guidelines for Hepatocellular Carcinoma, the treatment strategy is determined by three major factors: liver function and the number and size of tumors. The algorithm is quite simple, consisting of fewer components than the Barcelona-Clinic Liver Cancer staging system. In this article, we describe the roles of the treatment algorithm in hepatectomy and perioperative management of hepatocellular carcinoma.
+Guideline; Hepatocellular carcinoma; Liver resection; Treatment algorithm.

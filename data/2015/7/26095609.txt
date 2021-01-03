@@ -1,0 +1,4 @@
+26095609
+2015 Jul 14
+Frequent tumor relapse in hepatocellular carcinoma (HCC) has been commonly attributed to the presence of residual cancer stem cells (CSCs) after conventional treatments. We have previously identified and characterized CD133 to mark a specific CSC subset in HCC. In the present study, we found endogenous and secretory annexin A3 (ANXA3) to play pivotal roles in promoting cancer and stem cell-like features in CD133+ liver CSCs through a dysregulated JNK pathway. Blockade of ANXA3 with an anti-ANXA3 monoclonal antibody in vitro as well as in human HCC xenograft models resulted in a significant reduction in tumor growth and self-renewal. Clinically, ANXA3 expression in HCC patient sera closely associated with aggressive clinical features. Our results suggest that ANXA3 can serve as a novel diagnostic biomarker and that the inhibition of ANXA3 may be a viable therapeutic option for the treatment of CD133+ liver-CSC-driven HCC.
+

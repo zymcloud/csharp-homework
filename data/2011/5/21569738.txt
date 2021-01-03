@@ -1,0 +1,4 @@
+21569738
+2011 May
+Objective:To investigate the association between single nucleotide polymorphisms (SNPs) in cytokine IL-6, IL-10 genes and HBV-related hepatocellular carcinoma (HCC).Methods:A hospital-based case-control study was conducted in 381 cases with HBV-related HCC, 340 HBsAg carriers and 359 non-tumor controls. Genotypes of -572 site of IL-6 gene and -819, -592 sites of IL-10 gene were determined by real-time polymorphism chain reaction. Unconditional logistic regression was used to estimate the odds ratios (ORs) and 95 confidence intervals (CIs).Results:For the G/C alleles of -572 loci on IL-6 gene, there were significant differences between the three groups (P Conclusion:The SNPs in -572 site of IL-6 gene might be associated with the risk of HBV infection. The SNPs in -819 site of IL-10 gene increased the risk of HCC, but -592 site of IL-10 gene decreased the risk of HCC.
+

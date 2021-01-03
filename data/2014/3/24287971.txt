@@ -1,0 +1,4 @@
+24287971
+2014 Mar
+A rhodamine nitroxide probe was designed to detect the hydroxyl radical (·OH), which presented high selectivity for ·OH over other reactive oxygen species (ROS) and linear fluorescence response to ·OH produced by Fenton reaction. The product was detected by HPLC-MS, indicating that the main product of the reaction was O-methylhydroxylamine and the product peak areas measured by HPLC-UV/vis and HPLC-FLD both enhanced proportionally with the increase of ·OH concentration. The application of the probe in biological system was explored to trace the production of ·OH in cells under oxidative stress condition induced by rotenone which can inhibit the mitochondria respiratory chain complex I and we found that appropriate rotenone may induce the normal human liver cells (L02) and human hepatoma cells (HepG2) to produce ·OH at different degrees.
+Fluorescence; Hydroxyl radical; Nitroxide; Oxidative stress; Spin label.

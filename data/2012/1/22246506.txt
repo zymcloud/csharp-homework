@@ -1,0 +1,4 @@
+22246506
+2012 Jan 15
+The human ATP-binding cassette (ABC) transporter ABCB6 has been described as a mitochondrial porphyrin transporter essential for heme biosynthesis, but it is also suspected to contribute to anticancer drug resistance, as do other ABC transporters located at the plasma membrane. We identified ABCB6 as the genetic basis of the Lan blood group antigen expressed on red blood cells but also at the plasma membrane of hepatocellular carcinoma (HCC) cells, and we established that ABCB6 encodes a new blood group system (Langereis, Lan). Targeted sequencing of ABCB6 in 12 unrelated individuals of the Lan(-) blood type identified 10 different ABCB6 null mutations. This is the first report of deficient alleles of this human ABC transporter gene. Of note, Lan(-) (ABCB6(-/-)) individuals do not suffer any clinical consequences, although their deficiency in ABCB6 may place them at risk when determining drug dosage.
+

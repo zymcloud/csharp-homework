@@ -1,0 +1,4 @@
+31882167
+2020 Mar
+The aim of the study described here was to investigate whether ultrasound-mediated microbubble destruction (UTMD) of targeted microbubbles conjugated with an anti-vascular endothelial growth factor receptor 2 (anti-VEGFR2) antibody can enhance the therapeutic effect of doxorubicin (DOX) on a mouse hepatocellular carcinoma (HCC) model bearing HEP-G2-RFP tumors. The growth of liver tumors in mice was inhibited by using Visistar VEGFR2 plus ultrasound irradiation and by DOX alone. DOX plus UTMD had an inhibitory effect on tumor growth beginning on the seventh day of treatment, while Visistar VEGFR2 alone and DOX alone had inhibitory effects beginning on the 11th day. DOX + UTMD significantly decreased tumor volume and tumor weight compared with DOX alone (p
+Doxorubicin; Hepatocellular carcinoma; Targeted microbubble; Ultrasound-targeted microbubble destruction; Vascular endothelial growth factor receptor 2.

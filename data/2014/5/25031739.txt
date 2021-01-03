@@ -1,0 +1,4 @@
+25031739
+2014 May 25
+It has been reported that changes in Wnt5a expression are closely related to hepatocellular carcinoma (HCC) development, while decreased or abnormal β-catenin expression may promote the invasion and metastasis of tumor cells. In this study, the roles and clinical significance of Wnt-5a and β-catenin expression were analyzed in primary HCC. Real-time PCR (RT-PCR) analysis of Wnt-5a mRNA expression was performed in 26 fresh HCC samples and the corresponding para-carcinoma tissues. Wnt-5a and β-catenin protein expression was detected by immunohistochemical staining of paraffin-embedded tissues of 85 cases of HCC and corresponding para-carcinoma tissues and 15 cases of hepatic cirrhosis. Results showed that Wnt-5a mRNA levels were significantly higher in HCC tissue than in the para-carcinoma tissue (0.102 ± 0.159 and 0.020 ± 0.022, respectively; P
+Hepatocellular carcinoma; RT-PCR; Wnt-5a; immunohistochemistry; β-catenin.

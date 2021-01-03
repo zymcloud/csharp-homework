@@ -1,0 +1,4 @@
+25541684
+2014 Dec 26
+Background:The aim of this study was to compare the long-term outcome of patients with a solitary large (> 5 cm) hepatocellular carcinoma (HCC) in Barcelona Clinic Liver Cancer (BCLC) stage A who received liver resection (LR) or transarterial chemoembolization (TACE).Methods:Our study examined 128 patients treated by LR and 90 treated by TACE. To reduce bias in patient selection, we conducted propensity score analysis in the present study and 54 pairs of patients after propensity score matching were generated, their long-term survival was compared using the Kaplan-Meier method. Independent predictors of survival were identified by multivariate analysis.Results:Long-term survival was significantly better for the LR group by log-rank test (P Conclusion:Our propensity-score-matched study suggested that LR provided significantly better long-term survival than TACE for a solitary large HCC of the BCLC stage A, regardless of tumor size.
+

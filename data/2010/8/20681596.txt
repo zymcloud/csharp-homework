@@ -1,0 +1,4 @@
+20681596
+2010 Aug 24
+Many new drugs have low aqueous solubility and high therapeutic efficacy. Paclitaxel (PTX) is a classic example of this type of compound. Here we show that extremely small (<40 nm) hydrophilic carbon clusters (HCCs) that are PEGylated (PEG-HCCs) are effective drug delivery vehicles when simply mixed with paclitaxel. This formulation of PTX sequestered in PEG-HCCs (PTX/PEG-HCCs) is stable for at least 20 weeks. The PTX/PEG-HCCs formulation was as effective as PTX in a clinical formulation in reducing tumor volumes in an orthotopic murine model of oral squamous cell carcinoma. Preliminary toxicity and biodistribution studies suggest that the PEG-HCCs are not acutely toxic and, like many other nanomaterials, are primarily accumulated in the liver and spleen. This work demonstrates that carbon nanomaterials are effective drug delivery vehicles in vivo when noncovalently loaded with an unmodified drug.
+

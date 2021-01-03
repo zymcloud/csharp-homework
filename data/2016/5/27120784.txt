@@ -1,0 +1,4 @@
+27120784
+2016 May 24
+The miR-145-5p, which induces TP53-dependent apoptosis, is down-regulated in several tumors, including hepatocellular carcinomas (HCCs), but some HCCs show physiological expression of this miR. Here we demonstrate that in HCC cells carrying wild-type TP53 the steady activation of the miR-145 signaling selects clones resistant to apoptosis via up-regulation of the oncogenic miR-483-3p. Expression of the miR-145-5p and of the miR-483-3p correlated negatively in non-neoplastic liver (n=41; ρ=-0.342, P=0.028), but positively in HCCs (n=21; ρ=0.791, P
+HCC; PUMA; TP53; hsa-miR-145-5p; hsa-miR-483-3p.

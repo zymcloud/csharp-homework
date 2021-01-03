@@ -1,0 +1,4 @@
+26813566
+2016 Jul
+Chemokine receptor-like 1 (CCRL1) has the potential in creating a low level of CCL19 and CCL21 to hinder CCR7(+) cell tracking to tumor tissue. Previously, we found a tumor suppressive role of CCRL1 by impairing CCR7-related chemotaxis of tumor cells in human hepatocellular carcinoma (HCC). Here, we reported a contribution of CCR7(+) mononuclear cells in the tumor microenvironment to the progression of disease. Immunohistochemistry was used to investigate the distribution and clinical significance of CCR7(+) cells in a cohort of 240 HCC patients. Furthermore, the phenotype, composition, and functional status of CCR7(+) cells were determined by flow cytometry, immunofluorescence, and in vitro co-culture assays. We found that CCR7(+) mononuclear cells were dispersed around tumor tissue and negatively related to tumoral expression of CCRL1 (P
+CCR7; CCRL1; Treg-like; Tumor microenvironment.

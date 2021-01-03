@@ -1,0 +1,4 @@
+28529191
+2017 Aug
+Background:Increasing studies have suggested that surgical resection (SR) or liver transplantation (LT) could bring survival benefits for patients with hepacelluar carcinoma (HCC) beyond Milan criteria. This study compared the long-term survival of patients beyond the Milan criteria who received SR or LT.Material and methods:A total of 461 HCC patients were retrospectively collected. Analysis was performed using propensity score matching (PSM), the Kaplan-Meier method and the Cox proportional hazards model.Results:Prognosis was significantly better for the LT group than the SR group before (P Conclusion:Our propensity model suggested that LT provided significantly better long-term survival than SR for HCC beyond Milan criteria before and after PSM.
+Hepatocelluar carcinoma; Liver transplantation; Prognosis; Propensity scoring matching; Surgical resection.

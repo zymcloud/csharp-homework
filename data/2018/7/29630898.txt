@@ -1,0 +1,4 @@
+29630898
+2018 Jul
+We studied the effects of gut microbiome depletion by oral antibiotics on tumor growth in subcutaneous and liver metastases models of pancreatic cancer, colon cancer, and melanoma. Gut microbiome depletion significantly reduced tumor burden in all the models tested. However, depletion of gut microbiome did not reduce tumor growth in Rag1-knockout mice, which lack mature T and B cells. Flow cytometry analyses demonstrated that gut microbiome depletion led to significant increase in interferon gamma-producing T cells with corresponding decrease in interleukin 17A and interleukin 10-producing T cells. Our results suggest that gut microbiome modulation could emerge as a novel immunotherapeutic strategy.
+Gut Bacteria; Immune Regulation; Metastases; Tumor Promotion.

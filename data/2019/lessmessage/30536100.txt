@@ -1,0 +1,4 @@
+30536100
+2019
+Incorporation of bile drainage system into engineered liver tissue is an important issue to advance liver regenerative medicine. Our group reported that three-dimensional (3D) coculture of fetal liver cells (FLCs) and adult rat biliary epithelial cells (BECs) allows reconstruction of hepatic spheroids that possess bile ductular structures. In this chapter, we describe the detailed protocol to isolate FLCs and BECs and to generate the spheroids with bile drainage system using these two types of primary cells.
+3D culture; Bile ducts; Biliary epithelial cell; Fetal liver cell; Hetero-spheroid; Tissue engineering.

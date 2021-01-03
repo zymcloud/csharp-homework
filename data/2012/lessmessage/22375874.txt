@@ -1,0 +1,4 @@
+22375874
+2012
+Derivatives of oleanolic acid were synthesized and evaluated in vitro for their growth inhibition against human hepatocellular carcinoma cell line (HepG2) and colon cancer cell line (Col-02). Several derivatives exhibited moderate-to-good inhibitory activity, with 3 displaying the most promising inhibition [GI₅₀ = 1.75 μM (HepG2), 0.71 μM (Col-02)]. Structure-activity relationship analyses of these derivatives demonstrated that a 1-en-2-cyano-3-oxo in ring A and a nitro at C-17 were important in retention of the inhibition against HepG2 and Col-02 cells.
+

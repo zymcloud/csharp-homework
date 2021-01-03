@@ -1,0 +1,4 @@
+21540988
+2010 Jan 26
+Autophagy is a highly conserved intracellular degradation pathway by which bulk cytoplasm and superfluous or damaged organelles are enveloped by double membrane structures termed autophagosomes. The autophagosomes then fuse with lysosomes for degradation of their contents, and the resulting amino acids can then recycle back to the cytosol. Autophagy is normally activated in response to nutrient deprivation and other stressors and occurs in all eukaryotes. In addition to maintaining energy and nutrient balance in the liver, it is now clear that autophagy plays a role in liver protein aggregates related diseases, hepatocyte cell death, steatohepatitis, hepatitis virus infection and hepatocellular carcinoma. In this review, I discuss the recent findings of autophagy with a focus on its role in liver pathophysiology.
+Alcohol liver; Autophagy; Lipophagy; Mitophagy.

@@ -1,0 +1,4 @@
+24462277
+2014 Feb 14
+HCV Core plays a role in the development of hepatocellular carcinoma. Aberrant expression of NANOG has been observed in many types of human malignancies. However, relationship between Core and NANOG has not been clarified. In this study, we found that Core is capable of up-regulating NANOG expression. Core-induced NANOG expression was accompanied by enforced expression of phosphorylated stat3 protein and was attenuated by inhibition of stat3 phosphorylation. ChIP showed that phosphorylated stat3 directly binds to the NANOG promoter. Core-induced NANOG expression resulted in enhanced cell growth and cell cycle progression. Knockdown of NANOG blocked the cell cycle at the G0/G1 phases and inhibited the cyclin D1 expression. Our findings provide a new insight into the mechanism of hepatocarcinogenesis by HCV infection.
+Hepatitis C virus core protein; Hepatocellular carcinoma; NANOG; Stat3 pathway.

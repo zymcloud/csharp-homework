@@ -1,0 +1,4 @@
+22214905
+2011
+Use of hyperpolarized (13)C in magnetic resonance (MR) imaging is a new technique that enhances signal tens of thousands-fold. Recent in vivo animal studies of metabolic imaging that used hyperpolarized (13)C demonstrated its potential in many applications for disease indication, metabolic profiling, and treatment monitoring. We review the basic physics for dynamic nuclear polarization (DNP) and in vivo studies reported in prostate cancer research, hepatocellular carcinoma research, diabetes and cardiac applications, brain metabolism, and treatment response as well as investigations of various DNP (13)C substrates.
+

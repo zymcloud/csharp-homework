@@ -1,0 +1,4 @@
+25421655
+2015
+Liver cancer (hepatocellular carcinoma or HCC) is a major cancer worldwide. Research in this field is needed to identify biomarkers that can be used for early detection of the disease as well as new approaches to its treatment. Epigenetic biomarkers provide an opportunity to understand liver cancer etiology and evaluate novel epigenetic inhibitors for treatment. Traditionally, liver cirrhosis, proteomic biomarkers, and the presence of hepatitis viruses have been used for the detection and diagnosis of liver cancer. Promising results from microRNA (miRNA) profiling and hypermethylation of selected genes have raised hopes of identifying new biomarkers. Some of these epigenetic biomarkers may be useful in risk assessment and for screening populations to identify who is likely to develop cancer. Challenges and opportunities in the field are discussed in this chapter.
+

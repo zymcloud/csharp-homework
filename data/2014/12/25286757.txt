@@ -1,0 +1,4 @@
+25286757
+2014 Dec
+microRNAs (miRNAs) are evolutionarily conserved small non-coding RNAs, approximately 22 nucleotides (nts) in length, widely found in animals, plants, and viruses. Mature miRNAs control gene expression at a post-transcriptional level through blocking protein translation or inducing mRNA degradation. Many recent studies have shown that hepatitis B virus x protein (HBx), a viral protein with a crucial role in hepatogenesis, is associated with the regulation of miRNAs. This interaction impacts fundamental tumor processes, such as cell proliferation, differentiation, and apoptosis. In this review, we summarized the recent literature on the roles of HBx-regulated miRNAs in the pathogenesis of hepatocellular carcinoma.
+

@@ -1,0 +1,4 @@
+24289641
+2013
+Radio frequency ablation (RFA) is an effective means of achieving local control of liver cancer. It is a particularly suitable mode of therapy for small and favorably located tumors. However, local progression rates are substantially higher for large tumors (>3.0 cm). In the current study, we report on a mathematical model based on geometric optimization to treat large liver tumors. A database of mathematical models relevant to the configuration of liver cancer was also established. The specific placement of electrodes and the frequency of ablation were also optimized. In addition, three types of liver cancer lesion were simulated by computer guidance incorporating mathematical models. This approach can be expected to provide a more effective and rationale mechanism for employing RFA in the therapy of hepatic carcinoma.
+

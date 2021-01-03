@@ -1,0 +1,4 @@
+28389151
+2017 May 15
+Agelasine G (1), a known bromine-containing diterpene alkaloid, was isolated as a new type of protein tyrosine phosphatase (PTP) 1B inhibitor together with ageline B (2), an inactive debromo-derivative of 1, from the marine sponge Agelas nakamurai collected at Iriomote Island in Okinawa, Japan. Further biological evaluations revealed that compound 1 exhibited selective inhibitory activity against PTP1B over T-cell PTP and CD45 phosphatase. Compound 1 also enhanced the insulin-stimulated phosphorylation levels of Akt in Huh-7 cells more strongly than compound 2. The results obtained in this study suggest that compound 1 activates the insulin signaling pathway by inhibiting PTP1B activity.
+Agelasine G; Ageline B; Inhibitor; Marine sponge; Protein tyrosine phosphatase 1B.

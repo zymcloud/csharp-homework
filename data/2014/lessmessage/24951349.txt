@@ -1,0 +1,4 @@
+24951349
+Jul-Aug 2014
+Most methods define a limited number of "target" lesions to be measured and other "non-target" lesions to be evaluated qualitatively. RECIST criteria are the most widely used although other criteria have been proposed that are derived from them based on size alone, or size and attenuation. Modified RECIST (mRECIST) criteria only concern hepatocellular carcinoma and only take into account the viable portion (enhanced after injection during the arterial phase). Cheson criteria are more complex as target lesions are defined differently depending on the organ (lymph nodes, liver or spleen, other organs), and involve both CT and PET scans, as well as the clinical examination and bone marrow biopsy.
+CT; Hepatocellular carcinoma; MRI; RECIST criteria; Tumour.

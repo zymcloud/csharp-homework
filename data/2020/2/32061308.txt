@@ -1,0 +1,4 @@
+32061308
+2020 Feb
+Angiogenesis represents a hallmark of cancer. Several proteoglycans associate with cell surface receptors and regulate angiogenesis within the tumor microenvironment (TME). We highlight the recent discovery that the proteoglycan Agrin cross talks between the tumor and the endothelium to promote an angiogenesis privileged niche during cancer progression.
+VEGFR2; YAP/TAZ; agrin; angiogenesis; hepatocellular carcinoma; mechanotransduction; tumor microenvironment.

@@ -1,0 +1,4 @@
+23700371
+2013 May 14
+One of the most important molecules mediating the proliferation, growth, and metastasis of cancer cells is insulin-like growth factor (IGF), with its receptor IGF-1R. Here, we describe the potential of an IGF-1R monoclonal antibody, HX-1162, on liver cancer apoptosis in vitro and in vivo. We found that HX-1162 could induce the apoptosis of cultured liver cancer cells. Additionally, HX-1162 treatment inhibited the tumor growth after cancer cell grafting and enhanced the cell apoptosis inside the tumor tissue. We conclude that IGF-1R targeting therapy provides a new avenue toward treating liver cancer.
+IGF; IGF-1R; apoptosis; hepatocellular carcinoma.

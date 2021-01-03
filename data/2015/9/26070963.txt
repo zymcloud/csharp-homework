@@ -1,0 +1,4 @@
+26070963
+2015 Sep 1
+The oncogenic effects of autocrine human growth hormone (hGH) have been intensively investigated in estrogen receptor-positive mammary carcinoma (ER + MC) cells. We demonstrated herein that autocrine hGH promoted cancer stem cell (CSC)-like properties of estrogen receptor-negative mammary carcinoma (ER-MC) cells in vitro. In xenograft studies, autocrine hGH increased the tumor initiating capacity of ER-MC cells. We also observed that autocrine hGH promoted migration and invasion of ER-MC cells in vitro, and metastasis in vivo. Thus, inhibition of hGH is a potential therapeutic strategy to prevent tumor initiation and metastasis of ER-MC.
+Cancer stem cell; Human growth hormone; Mammary carcinoma; Metastasis; Tumor initiation.

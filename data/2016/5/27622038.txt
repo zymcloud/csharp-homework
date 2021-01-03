@@ -1,0 +1,4 @@
+27622038
+2016 May 13
+It is well known that the aberrant expression of programmed death ligand 1 (PD-L1) on tumor cells impairs antitumor immunity. To date, in hepatocellular carcinoma (HCC), the relationship between PD-L1 expression and host-tumor immunity is not well defined. Here, the expression levels of PD-L1 and CD8(+) T cell infiltration were analyzed by immunohistochemistry (IHC) in formalin fixed paraffin embedded (FFPE) specimens from 167 HCC patients undergoing resection. A significant positive association was found between PD-L1 expression and the presence of CD8(+) T cell (p
+Adaptive immune resistance; CD8+; INFγ; innate immune resistance; prognosis.

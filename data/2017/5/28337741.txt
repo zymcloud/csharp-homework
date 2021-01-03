@@ -1,0 +1,4 @@
+28337741
+2017 May
+Emergence of drug-resistant viruses, high cost and adverse side-effects associated with the standard therapy against hepatitis C virus (HCV) infection demonstrate the need for development of well tolerated and effective antivirals. We identified and chemically characterised the dehydrorotenoid boeravinone H, isolated from the herb Boerhavia diffusa, as a new inhibitor of HCV entry. The compound significantly inhibits the binding and entry of hepatitis C-like particles (HCV-LPs) in hepatoma cells in vitro with no apparent cytotoxicity. Boeravinone H inhibits the initial phase of HCV entry probably by acting directly on the viral particle. Importantly, the compound prevents HCV entry and infection in cell culture (ex vivo). Thus, boeravinone H is a potential antiviral agent for the prevention and control of HCV infection.
+antivirals; dehydrorotenoid; entry inhibitor; hepatitis C virus; phytochemicals; virus-like particles.

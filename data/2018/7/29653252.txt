@@ -1,0 +1,4 @@
+29653252
+2018 Jul
+The replacement of two consecutive histidine residues by alanine residues in the catalytic center of ceramide synthase 2 in a new transgenic mouse mutant (CerS2 H/A) leads to inactivation of catalytic activity and reduces protein level to 60% of the WT level. We show here by qRT-PCR and transcriptome analyses that several transcripts of genes involved in lipid metabolism and cell division are differentially regulated in livers of CerS2 H/A mice. Thus, very long chain ceramides produced by CerS2 are required for transcriptional regulation of target genes. The hepatocellular carcinomata previously described in old CerS2 KO mice were already present in 8-week-old CerS2 H/A animals and thus are caused by the loss of CerS2 catalytic activity already during early life.
+Cell division; Ceramide synthase 2; Hepatocellular carcinoma; Lipid metabolism; Sphingolipids; Transcriptional control.

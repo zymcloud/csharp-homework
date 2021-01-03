@@ -1,0 +1,4 @@
+26071008
+2015 Sep
+A liver bile acids transporter, sodium taurocholate cotransporting polypeptide (NTCP, encoded by SLC10A1) was recently identified as a functional receptor for hepatitis B virus (HBV) and its satellite hepatitis D virus (HDV). NTCP-complemented human hepatoma HepG2 cells (HepG2-NTCP) were shown to support infection of HBV and HDV in vitro, providing a much-needed and convenient cell culture system for the viruses. Identification of NTCP as a functional receptor for HBV has significantly advanced our understanding of the viral life cycle and opened new opportunities for developing anti-HBV interventions. This article forms part of a symposium in Antiviral Research on "An unfinished story: from the discovery of the Australia antigen to the development of new curative therapies for hepatitis B".
+Cell culture; Drug development; Hepatitis B virus; Hepatitis D virus; Receptor; Sodium taurocholate cotransporting polypeptide (NTCP).

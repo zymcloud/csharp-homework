@@ -1,0 +1,4 @@
+20159582
+2010 Mar
+Synthetic scaffolds support cell attachment in vitro. We prepared ultra-fine silicate fibers using the sol-gel process and electrospinning, heated the fibers to 500 degrees C and investigated their effects on the behavior of human hepatocellular carcinoma (HepG2) cells. Alterations in surface composition following heat treatment improved cell adhesion and influenced cell migration.
+

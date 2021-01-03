@@ -1,0 +1,4 @@
+29776974
+2018 Jun 21
+Hepatocellular carcinoma (HCC) accounts for a large proportion of cancer-associated mortality worldwide. The functional impact of long noncoding RNAs (lncRNAs) in human cancer is not fully understood. Here, we identified a novel oncogenic lncRNA termed as lncPARP1, which was significantly up-regulated in HCC. Increase in lncPARP1 expression was associated with age, α-fetoprotein (AFP) levels, tumor size, recurrence, and poor prognosis of HCC patients. Loss-of-function approaches showed that knockdown of lncPARP1 inhibited proliferation, migration, and invasion, while induced apoptosis in HCC cells. Moreover, mechanistic investigation demonstrated that PARP1 was an underlying target of lncPARP1 in HCC. In summary, we provide the first evidence that lncPARP1 exerts an oncogene to promote HCC development and progression, at least in part, by affecting poly (ADP-ribose) (PAR) polymerase 1 (PARP1) expression.
+PARP1; growth; invasion; prognosis.

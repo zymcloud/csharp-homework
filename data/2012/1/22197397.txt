@@ -1,0 +1,4 @@
+22197397
+2012 Jan 15
+Hepatitis C virus (HCV) infection has been recognized as the major cause of liver failure that can lead to hepatocellular carcinoma. Among all the HCV proteins, NS5B polymerase represents a leading target for drug discovery strategies. Herein, we describe our initial research efforts towards the identification of new chemotypes as allosteric NS5B inhibitors. In particular, the design, synthesis, in vitro anti-NS5B and in cellulo anti-HCV evaluation of a series of 1-oxo-1H-pyrido[2,1-b][1,3]benzothiazole-4-carboxylate derivatives are reported. Some of the newly synthesized compounds showed an IC(50) ranging from 11 to 23 μM, and molecular modeling and biochemical studies suggested that the thumb domain could be the target site for this new class of NS5B inhibitors.
+

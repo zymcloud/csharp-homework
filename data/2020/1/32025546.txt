@@ -1,0 +1,4 @@
+32025546
+2020 Jan 23
+Eukaryotic Elongation Factor complex 1 (EEF1) consists of six subunits namely EEF1A1, EEF1A2, EEF1B2, EEF1D, EEF1E1 and EEF1G. Recently we showed that EEF1 complex proteins might play critical roles in cancer [1]. This article provides data on genes that share similar expression patterns with EEF1 complex proteins in cancer by analyzing RNA expression data using GEPIA online tool. Correlation analysis was performed on selected genes in a pairwise manner and the Pearson coefficients were automatically calculated by the GEPIA online tool. These data can be useful for future studies directed towards understanding the mechanisms by which EEF1 complex proteins affect in cancer pathogenesis.
+Cancer; Data mining; EEF1 complex; Gene expression.

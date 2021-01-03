@@ -1,0 +1,4 @@
+30937868
+2019
+Liver pericytes, commonly named hepatic stellate cells (HSCs), reside in the space between liver sinusoidal endothelial cells (LSECs) and hepatocytes. They display important roles in health and disease. HSCs ensure the storage of the majority of vitamin A in a healthy body, and they represent the major source of fibrotic tissue in liver disease. Surrounding cells, such as LSECs, hepatocytes, and Kupffer cells, present a significant role in modulating HSC behavior. Therapeutic strategies against liver disease are being currently developed, where HSCs represent an ideal target. In this chapter, we will discuss HSC quiescence and activation in the context of healthy liver and diseases, such as fibrosis, steatohepatitis, and hepatocellular carcinoma.
+Fibrosis; Healthy liver; Hepatic stellate cells; Hepatocellular carcinoma; Hepatocytes; Kupffer cells; Liver; NAFLD; NASH; Pericytes; Regeneration; Sinusoidal endothelial cells.

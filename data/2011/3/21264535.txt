@@ -1,0 +1,4 @@
+21264535
+2012 Mar
+We investigated the role of XPD in cell apoptosis of hepatoma and its relationship with p53 during the regulation of hepatoma bio-behavior. RT-PCR and Western blot were used to detect the expression levels of XPD, p53, c-myc, and cdk2. The cell apoptosis and cell cycle were analyzed with flow cytometry. Compared with the control cells, XPD-transfected cells displayed a lower viability and higher apoptosis rate. A decreased expression of p53 gene was detected in XPD-transfected cells. In contrast, both c-myc and cdk2 showed increased expressions of mRNAs and proteins in the transfected cells. Our results indicate that XPD may play an important role in cell apoptosis of hepatoma by inducing an over-expression of p53, but suppressing expressions of c-myc and cdk2.
+

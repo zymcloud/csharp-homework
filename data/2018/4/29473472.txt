@@ -1,0 +1,4 @@
+29473472
+2018 Apr
+Hepatocellular carcinoma (HCC) is a worldwide common malignancy with poor prognosis. Several studies have aimed at identification of appropriate biomarkers for early detection of this cancer. Cancer-testis antigens (CTAs) as a novel group of tumor-associated antigens have been demonstrated to be expressed in HCC samples as well as peripheral blood samples from these patients but not in the corresponding adjacent noncancerous samples. Such pattern of expression has provided them an opportunity to be used as immunotherapeutic targets. The detection of spontaneous immune responses against CTAs in HCC patients has prompted design of CTA-based immunotherapeutic protocols in these patients. The results of some clinical trials have been promising in a subset of patients.
+biomarker; cancer-testis antigen; hepatocellular carcinoma; immunotherapy.

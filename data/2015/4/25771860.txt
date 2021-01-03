@@ -1,0 +1,4 @@
+25771860
+2015 Apr 13
+Rho-associated kinase 2 (Rock2) is known to promote tumorigenesis in hepatocellular carcinoma (HCC). CCAAT/enhancer-binding protein delta (CEBPD) functions as a tumor suppressor. In this study, we found that the expression of Rock2 and CEBPD are inversely correlated. Knockdown of Rock2 increased CEBPD expression and inhibited the proliferation of HCC cells in vitro and in vivo. Mechanistically, we found that Rock2 regulates CEBPD expression through the p-GSK3β/β-catenin pathway. Taken together, we identified a novel Rock2-p-GSK3β/β-catenin-CEBPD regulatory circuitry, the dysfunction of which may contribute to the tumorigenic characteristic of HCC.
+CCAAT/enhancer-binding protein delta; Hepatocellular carcinoma; Proliferation; Rho-associated kinase 2.

@@ -1,0 +1,4 @@
+32299493
+2020 Apr 16
+Objective:Uveal melanoma is a rare intraocular malignancy. Half of the patients diagnosed will develop metastases within 10 to 30 years, most commonly in the liver. Although there has been a significant development in the treatment of melanoma, no effective treatment to prevent or treat metastases of uveal melanoma is available. Oncolytic viruses are now being studied for various types of cancers and show promising results. Preclinical results show cytolytic activity of enteric cytopathic human orphan virus type 7 (ECHO-7) strain Rigvir in human melanoma, rhabdomyosarcoma, gastric adenocarcinoma, lung carcinoma and pancreas adenocarcinoma cell lines. The aim of this study was to test the possible cytolytic activity in human uveal melanoma cell lines.Results:The results suggest cytolytic activity of oncolytic ECHO-7 virus strain Rigvir in MP41, 92-1 and Mel-202 cell lines.
+ECHO-7; Oncolytic virus; Rigvir; Uveal melanoma.

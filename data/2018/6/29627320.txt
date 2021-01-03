@@ -1,0 +1,4 @@
+29627320
+2018 Jun 15
+Hepatocellular carcinoma (HCC) is one of the most common cancers diagnosed worldwide. However, the mechanism underlying HCC pathogenesis remains unknown. In the present study, TRIM24 was found increased in human HCC clinical samples and positively correlated with HCC tumor grade. Furthermore, TRIM24 knockdown inhibits proliferation and migration in a human HCC cell line in vitro while also inhibiting tumor growth in vivo. Mechanistically, TRIM24 appears to promote liver tumor development via AMPK signaling as AMPK knockdown alleviated the in vitro and in vivo effects of TRIM24 knockdown in a human HCC cell line. Taken together, these data enhance our understanding of HCC development in addition to highlighting TRIM24-regulated AMPK signaling as a potential therapeutic target for HCC treatment.
+AMPK; HCC; TRIM24; Tumor development.

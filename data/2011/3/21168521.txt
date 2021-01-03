@@ -1,0 +1,4 @@
+21168521
+2011 Mar 15
+Artesunate (ART), a semi-synthetic derivative of antimalarial artemisinin, kills cancer cells with uncertain mechanisms. Here, we report for the first time that ART may exert the anti-tumor activity by conjugating the prosthetic heme of hemoproteins in a hepatoma cell line, HepG2, which was evident by monitoring the shift of absorbance from heme (A₄₁₅) to the ART-heme adduct (A₄₇₆). Accordingly, a transient elevation of A₄₁₅ was observed with a synchronous burst of nitric oxide (NO) and a high rate of survival following incubation of HepG2 with 50 μM ART. In contrast, ART at above 100 μM led to an abrogation of NO generation and a decline of the survival rate in HepG2. These data implied that heme-containing nitric oxide synthase (NOS) may represent a major cellular target of ART in killing tumor cells.
+

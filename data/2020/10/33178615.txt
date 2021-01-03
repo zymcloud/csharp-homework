@@ -1,0 +1,4 @@
+33178615
+2020 Oct 15
+Although many approaches have been developed for the treatment of hepatocellular carcinoma (HCC) that has both high incidence and high mortality especially in Asian countries, the prognosis of HCC patients is still dismal. Immunotherapy, particularly immune checkpoint inhibitors show encouraging efficacy and have already been widely applied in clinic. However, in contrast to traditional therapies, immunotherapy brings many challenges when using in a real world, including biomarker discovery, response evaluation, adverse event treatment, etc. In this review, we proposed some important and intractable issues in current clinical practice regarding the strategy of immune checkpoint blockade, collected current evidence, and discuss the critical challenges and possible approaches to a bright future.
+adjuvant therapy; biomarker; immune checkpoint inhibitor; liver cancer; response evaluation.

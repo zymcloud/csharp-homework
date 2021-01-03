@@ -1,0 +1,4 @@
+23811300
+2013 Dec 15
+This paper describes comparative studies and protocols in (1) self-assembling of ultrasmall superparamagnetic iron oxide nanoparticle (NP), circular plasmid DNA, and branched polyethylenimine (PEI) composites; (2) magnetofection; (3) gene delivery, (4) magnetic resonance imaging (MRI), and (5) cytotoxicity of the composites toward hepatocellular carcinoma HepG2 cells.
+Cellular uptake; DMEM; Dulbecco’s modified Eagle medium; EDTA; FBS; FTIR; Fourier transform infrared; GFP; Gene delivery; MDCK; MRI; MTT; Madin–Darby Canine kidney; Magnetic resonance imaging; Magnetofection; NIB; NP; Nanoparticle; Neodymium–iron–boron; PBS; PEI; RLU; SPIO; Self-assembly; UV; ethylenediaminetetraacetic acid; fetal bovine serum; green fluorescence protein; magnetic resonance imaging; methylthiazolydiphenyl-tetrazolium bromide; nanoparticle; phosphate buffer saline; polyethylenimine; relative light unit; superparamagnetic iron oxide; ultraviolet.

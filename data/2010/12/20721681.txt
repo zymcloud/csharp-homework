@@ -1,0 +1,4 @@
+20721681
+2010 Dec
+Liver fatty acid-binding protein (L-FABP, FABP1) is a highly conserved key factor in lipid metabolism. This study was undertaken to verify whether the T94A mutation in the L-FABP gene affects fatty acid uptake and intracellular esterification into specific lipid pools. Candidate SNPs were recreated using site-directed mutagenesis and tested for physical function in stably transfected Chang liver cell lines. We found that the T94A mutant of L-FABP lowered FFA uptake but had no effect on FFA efflux. L-FABP T94A-expressing cells showed decreased triglyceride content and increased cholesterol accumulation compared to the wild-type control for cells incubated with an FFA mixture (oleate: palmitate, 2:1 ratio). In conclusion, our study provided additional indications of the functional relevance of the L-FABP T94A SNP in hepatic fatty acid and lipid metabolism in humans.
+

@@ -1,0 +1,4 @@
+27924482
+2017
+MicroRNAs (miRNAs) function as oncogenes or tumor suppressors and are dysregulated in cancer. miRNAs therefore represent promising therapeutic targets for cancer. Small molecules that could modulate the expression of miRNAs would thus have potential as anticancer agents. Library screening of small molecules targeting miRNAs is a useful technology platform for anticancer drug development. Here, we describe a hepatocellular carcinoma (HCC) cell-based luciferase reporter system which could be used to screen for small molecule modulators of tumor suppressor microRNA-34a.
+Cancer; Library screening; Small molecule; microRNA.

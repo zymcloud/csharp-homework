@@ -1,0 +1,4 @@
+26045783
+2015 Mar 1
+Lymph node metastasis is recognized as an important mode of liver cancer metastasis. Two hepatocarcinoma cell lines, Hca-F get high (75%) and Hca-P get low (25%) incidences of lymph node metastasis. Forkhead box M1 (FoxM1) is described as a major oncogenic transcription factor in tumor initiation, promotion, and progression. Ezrin is linked to aggressive tumor behavior by involving all stages of tumor metastasis. We firstly compared the expression of FoxM1 and Ezrin between two cells. Then we transiently transfected Hca-P cells with over-FoxM1 plasmid and Hca-F cells with sh-FoxM1 plasmid. We found that both FoxM1 and Ezrin expressed higher in Hca-F than Hca-P. We successfully down-regulated or up-regulated FoxM1 expression in Hca-F or Hca-P cells. And we found that FoxM1 had correlation with proliferation, invasion and migration in mouse hepatocellular carcinoma cell lines.
+FoxM1; ezrin; hepatocarcinoma; lymphatic metastasis.

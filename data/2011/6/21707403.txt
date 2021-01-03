@@ -1,0 +1,4 @@
+21707403
+2011 Jun
+Chronic infection by hepatitis C virus (HCV) often leads to severe liver disease including cirrhosis, hepatocellular carcinoma and liver failure. Despite it being more than 20 years since the identification of HCV, the current standard of care for treating the infection is based on aspecific therapy often associated with severe side effects and low-sustained virological response. Research is ongoing to develop new and better medications, including a broad range of allosteric NS5B polymerase inhibitors. This article reviews traditional computational methodologies and more recently developed in silico strategies aimed at identifying and optimizing non-nucleoside inhibitors targeting allosteric sites of HCV NS5B polymerase. The drug-discovery approaches reviewed could provide take-home lessons for general computer-aided research projects.
+

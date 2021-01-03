@@ -1,0 +1,4 @@
+32175119
+2020 Feb
+Proton beam therapy (PBT) delivers less dose to nearby normal organs compared to X-ray therapy (XRT), which is particularly relevant for treating liver cancers given that both mean and low liver dose are among the most significant predictors of radiation induced liver disease (RILD). High-dose PBT has been shown to achieve excellent long-term tumor control with minimal toxicity in hepatocellular carcinoma (HCC) patients. Increasing data support ablative PBT for patients with unresectable cholangiocarcinoma or liver metastases, especially those with larger tumors not suitable for XRT.
+Proton beam therapy (PBT); cholangiocarcinoma; hepatocellular carcinoma (HCC); liver metastases.

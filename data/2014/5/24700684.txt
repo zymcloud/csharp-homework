@@ -1,0 +1,4 @@
+24700684
+2015 May
+This study investigates the cellular response of murine hepatoma cells to the polycyclic aromatic hydrocarbon benzo[a]pyrene (B[a]P) using two-photon and confocal laser scanning microscopy. The intracellular distribution of B[a]P and the B[a]P/AhR complex was visualized time- and concentration-dependent for up to 48 h of exposure. B[a]P was predominantly found in lipid droplets, endoplasmic reticulum and lysosomes, where B[a]P is collected and forms large aggregates. Changes in mitochondrial membrane potential and bleb formation due to high B[a]P concentrations were observed. The imaging data presented in this study provide new insights into the systemic cellular regulation following B[a]P exposure.
+2-Photon; Benzo[a]pyrene; Confocal microscopy; Live cell imaging.

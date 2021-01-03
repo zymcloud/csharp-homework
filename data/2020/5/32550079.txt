@@ -1,0 +1,4 @@
+32550079
+2020 May 16
+Unresectable hepatocellular carcinoma has several different therapeutic options, including targeted agents as well as locoregional therapy. Yttrium-90 (Y90) radioembolization therapy is an established treatment for unresectable disease and has been compared to other locoregional options as well as different targeted therapies. Newer case series are also reporting a potential benefit to the addition of immunotherapy to Y90 radioembolization. Here we report a case of prolonged survival in a patient whose treatment course included Y90 radioembolization along with sorafenib and nivolumab.
+gi; hcc; hepatocellular carcinoma; hepatology; immunotherapy; oncology; sorafenib; y90; yttrium-90.

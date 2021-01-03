@@ -1,0 +1,4 @@
+32594100
+2020 Oct
+Chimeric antigen receptor (CAR)-T-cell is a safe and effective therapy of B-cell cancers but it is unknown if this is so in persons with prior hepatitis B virus (HBV) infection. We studied 70 subjects with advanced B-cell cancers receiving CAR-T-cell therapy, 12 of whom had chronic HBV-infection (HBsAg positive) and 29 with resolved HBV-infection (HBsAg negative and anti-HBc positive). Safety and efficacy were compared with 29 subjects without HBV-infection. HBV was reactivated in 2 subjects with chronic HBV-infection and 1 with resolved HBV-infection. There was no HBV-related hepatitis flare. Responses to CAR-T-cell therapy in the three cohorts were not significantly different. There was no significant difference in the incidence or severity of cytokine release syndrome (CRS) and neurologic toxicity between the cohorts. Our data suggest that chronic and resolved HBV-infection do not affect the safety and efficacy of CAR-T-cell therapy.
+

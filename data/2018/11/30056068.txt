@@ -1,0 +1,4 @@
+30056068
+2018 Nov
+Hepatocellular carcinoma (HCC) is the world's second leading cause of cancer death; 82.4% of patients die within 5 years. This grim prognosis is the consequence of a lack of effective early detection tools, limited treatment options, and the high frequency of HCC recurrence. Advances in the field of liquid biopsy hold great promise in improving early detection of HCC, advancing patient prognosis, and ultimately increasing the survival rate. In an effort to address the current challenges of HCC screening and management, several studies have identified and evaluated liver-cancer-associated molecular signatures such as genetic alterations, methylation, and noncoding RNA expression in the form of circulating biomarkers in body fluids and circulating tumor cells of HCC patients. In this review, we summarize the recent progress in HCC liquid biopsy, organized by the intended clinical application of the reported study.
+

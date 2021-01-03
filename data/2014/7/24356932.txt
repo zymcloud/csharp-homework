@@ -1,0 +1,4 @@
+24356932
+2014 Jul
+The established and adapted image biomarkers based on size for tumor burden measurement continue to be applied to hepatocellular carcinoma (HCC) as size measurement can easily be used in clinical practice. However, in the setting of novel targeted therapies and liver directed treatments, simple tumor anatomical changes can be less informative and usually appear later than biological changes. Functional magnetic resonance imaging (MRI) has a potential to be a promising technique for assessment of HCC response to therapy. In this review, we discuss various functional MRI biomarkers that play an increasingly important role in evaluation of HCC response after treatment.
+

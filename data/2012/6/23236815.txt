@@ -1,0 +1,4 @@
+23236815
+2012 Jun
+Objective:To investigate the effect of Gecko crude peptides (GCPS) on human liver carcinoma HepG2 cells and its mechanism.Methods:MTT assay was used to analyze the effect of the GCPS on the proliferation of HepG2 Cell; Nucleus change of HepG2 treated with GCP was observed by Hoechst33258 fluorescence staining, and BAX and BCL-2 were detected with western-blot assay.Results:GCPS could inhibit the proliferation of HepG2 Cell in a time and dosage dependent way, and its half-maximal inhibitory concentration (IC50) was 1.2 mg/mL; HepG2 pretreated with GCPS showed apoptotic morphological changes. GCPS (1.6 mg/mL, 0.8 mg/mL) could decrease the expression of BCL-2 protein, and increase the expression of BAX protein.Conclusion:GCPS can inhibit the proliferation of HepG2 cell. The mechanism may be related to the induction apoptosis of HepG2.
+

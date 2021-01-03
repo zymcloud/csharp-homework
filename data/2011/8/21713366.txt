@@ -1,0 +1,4 @@
+21713366
+2011 Aug
+Histone deacetylases (HDAC) are responsible for the transcriptional control of genes through chromatin remodeling and control tumor suppressor genes. In several tumors, their expression has been linked to clinicopathological factors and patient survival. This study investigates HDACs 1, 2, 3, and 7 expressions in hepatocellular carcinoma (HCC) and their correlation with clinical data and patient survival. Tissue microarrays of 170 surgically resected primary HCCs and adjacent uninvolved tissue were evaluated immunohistochemically for the expression of HDACs 1, 2, 3, 7, and Ki-67 and were analyzed with respect to clinicopathological data and patient survival. HDACs 1, 2, 3, and Ki-67 were expressed significantly higher in cancer cells compared to normal tissue (HDAC1: p = 0.034, HDACs 2 and 3 and Ki-67: p
+

@@ -1,0 +1,4 @@
+27239797
+2016 Jul
+Liver cancer stem cells (CSCs) may contribute to the high rate of recurrence and heterogeneity of hepatocellular carcinoma (HCC); however, the molecular mechanisms underlying their self-renewal and differentiation remain largely unknown. Through analysis of transcriptome microarray data, we identified a long noncoding RNA (lncRNA) called lnc-β-Catm, which is highly expressed in human HCC tumors and liver CSCs. We found that lnc-β-Catm is required for self-renewal of liver CSCs and tumor propagation in mice. lnc-β-Catm associates with β-catenin and the methyltransferase EZH2, thereby promoting β-catenin methylation. Methylation suppresses the ubiquitination of β-catenin and promotes its stability, thus leading to activation of Wnt-β-catenin signaling. Accordingly, the expression of lnc-β-Catm, EZH2 and Wnt-β-catenin targets is positively correlated with cancer severity and prognosis of people with HCC.
+

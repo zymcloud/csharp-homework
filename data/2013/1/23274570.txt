@@ -1,0 +1,4 @@
+23274570
+2013 Jan
+A series of novel spirolactone-type diterpenoid derivatives of oridonin (12a-j) were designed and synthesized. All the target compounds showed improved anti-proliferative activity against a panel of human cancer cell lines and the most effective compound 12j was more potent than positive control Taxol in K562 and Bel-7402 cells with IC(50) values of 0.39 μM and 1.39 μM, respectively. The cellular mechanisms showed that compound 12j induced apoptosis at low micromolar concentrations in human hepatoma Bel-7402 cells. These results demonstrate that the spirolactone-type diterpenoid derivatives of oridonin have optimized growth inhibitory activity against cancer cells and interesting apoptosis-inducing ability.
+

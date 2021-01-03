@@ -1,0 +1,4 @@
+25120059
+2014 Aug 12
+In order to improve the anticancer activity of isocorydine (ICD), ten isocorydine derivatives were prepared through chemical structure modifications, and their in vitro and in vivo activities were experimentally investigated. 8-Amino-isocorydine (8) and 6a,7-dihydrogen-isocorydione (10) could inhibit the growth of human lung (A549), gastric (SGC7901) and liver (HepG2) cancer cell lines in vitro. Isocorydione (2) could inhibit the tumor growth of murine sarcoma S180-bearing mice, and 8-acetamino-isocorydine (11), a pro-drug of 8-amino-isocorydine (8), which is instable in water solution at room temperature, had a good inhibitory effect on murine hepatoma H22-induced tumors. The results suggested that the isocorydine structural modifications at C-8 could significantly improve the biological activity of this alkaloid, indicating its suitability as a lead compound in the development of an effective anticancer agent.
+

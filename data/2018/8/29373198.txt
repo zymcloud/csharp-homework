@@ -1,0 +1,4 @@
+29373198
+2018 Aug
+Innate lymphoid cells (ILCs) are immune cells that lack specific antigen receptors but possess similar effector functions as T cells. Concordantly, ILCs express many transcription factors known to be important for T cell effector function. ILCs develop from lymphoid progenitors in fetal liver and adult bone marrow. However, the identification of ILC progenitor (ILCP) and other precursors in peripheral tissues raises the question of whether ILC development might occur at extramedullary sites. We discuss central and local generation in maintaining ILC abundance at peripheral sites.
+Central progenitors; Development; Homing; ILC distribution; Innate lymphoid cells; Peripheral ILC generation.

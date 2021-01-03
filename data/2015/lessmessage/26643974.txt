@@ -1,0 +1,4 @@
+26643974
+2016
+Context:C-reactive protein (CRP), a biomarker of inflammation, may correlate with prognosis in several malignancies.Objective:To investigate the prognostic impact of early postoperative peak serum levels of CRP on tumor-specific outcome in 106 liver transplant patients with hepatocellular carcinoma (HCC).Methods and results:In multivariate Cox regression analysis, a posttransplant elevated peak CRP level (>versus ≤ 3.5 mg/dl) was identified as an independent predictor of poor recurrence-free survival (p = 0.01; HR = 4.04; CI = 1.399-11.640).Conclusion:Early postoperative serum CRP may serve as a useful inflammation-based biomarker of outcome in liver transplant patients with HCC.
+Inflammation; Milan criteria; ischemia-reperfusion injury; liver transplantation; tumor recurrence.

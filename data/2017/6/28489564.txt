@@ -1,0 +1,4 @@
+28489564
+2017 Jun 20
+YY1 is a DNA-binding transcription factor and reported to be involved in cancer progression. Histone deacetylase inhibitor (HDACi) could inhibit proliferation and promote apoptosis of Hepatocellular carcinoma (HCC) cells. However, it is unclear about the roles of YY1 in the sensitivity of HCC cells to HDACi. In this study, firstly, we identified two drug-response profiles to HDACi in HCC cell lines, while our results showed that HDAC1 expression was positively correlated with YY1 in HCC cell lines and primary tumor tissues. Secondly, YY1 decreased the sensitivity of HCC cells to HDACi in vitro and in vivo. Furthermore, we found that YY1 promoted HDAC1 expression by binding to its promoter, while HDAC1 in turn up-regulated the expression of YY1. In conclusion, our results showed that YY1 could reduce the sensitivity of HCC cells to HDACi and might be a potential therapeutic target in HCC.
+HCC; HDAC inhibitor; HDAC1; YY1; drug sensitivity.

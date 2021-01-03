@@ -1,0 +1,4 @@
+25400040
+2015 Dec
+Oncoprotein p28(GANK), overexpressed in hepatocellular carcinomas (HCC), binds to RelA and retains NF-κB in the cytoplasm to suppress NF-κB transactivation. However, the mechanism has not yet been elucidated. In this study, we clarified the mechanism of NF-κB regulated by p28(GANK). p28(GANK) reduced TNF-α-induced nuclear translocation of RelA/NF-κB independent of HDAC3. p28(GANK) interacted with p300 to attenuate assembly of RelA with p300, which lessened acetylation of RelA on the lysine 310 sites. Moreover, overexpression of p28(GANK) attenuated the capability of NF-κB binding to the target gene IκBα promoter, but also weakened adriamycin-induced NF-κB pro-apoptotic gene Fas and FasL expression, which subsequently made p53-deficient tumor cells resistance to adriamycin. These results present mechanistic insight into the key role of p28(GANK) in post-translational regulation of RelA/NF-κB.
+NF-κB; hepatocellular carcinoma; p28GANK; p65.

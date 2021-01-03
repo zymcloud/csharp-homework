@@ -1,0 +1,4 @@
+27308419
+2014 Nov 11
+Squamous lung cancer is a subtype of non-small cell lung cancer with a poor overall prognosis. We have recently generated a mouse model of squamous lung carcinoma by overexpressing Sex-determining region Y-box 2 (Sox2) and deleting liver kinase B1 (Lkb1) using a lentiviral approach. This model recapitulates the human disease in terms of histopathology, biomarker expression, and signaling pathway activation, making it an excellent model for preclinical studies.
+Sox2; lung cancer; mouse models; squamous.

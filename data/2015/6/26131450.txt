@@ -1,0 +1,4 @@
+26131450
+2015 Jun 4
+Hepatocellular carcinoma (HCC) is a primary malignancy of the liver with poor prognosis and limited therapeutic options. Over the past few years, many studies have evaluated the role of non-coding RNAs (ncRNAs) in hepatocarcinogenesis and tumor progression. ncRNAs were shown to have diagnostic, prognostic, and therapeutic potential in HCC. In this manuscript, we review the latest major discoveries concerning microRNAs and long ncRNAs in HCC pathogenesis, and discuss the potentials and the limitations for their use in clinical practice.
+HCC; liver cancer; long non-coding RNA; microRNA; non-coding RNA.

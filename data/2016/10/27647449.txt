@@ -1,0 +1,4 @@
+27647449
+2016 Oct
+Aim:To develop salinomycin-loaded nanoliposomes (SLN), doxorubicin-loaded nanoliposomes (DLN) and nanoliposomes codelivering salinomycin and doxorubicin (SDLN) to target both liver cancer cells and cancer stem cells.Materials & methods:The characterization and antitumor activity of SLN, DLN and SDLN were evaluated.Results & conclusion:The doxorubicin/salinomycin sodium mole ratio of 1:1 had the best synergistic combination index value, and was chosen as the drug ratio in SDLN. SDLN could maintain the drug ratio between 1:1 and 3:1 in 12 h in vivo. SDLN and SLN + DLN showed the best tumor inhibitory rate, and could significantly decrease the percentage of liver cancer stem cells in vivo. SDLN and SLN + DLN may serve as an effective approach to treat liver cancer.
+cancer stem cells; combined therapy; doxorubicin; liver cancer; nanoliposomes; salinomycin.

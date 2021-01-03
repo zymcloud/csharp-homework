@@ -1,0 +1,4 @@
+31977876
+2020 Jan
+The goal of this study was to evaluate the contribution of ataxia telangiectasia mutated (ATM) gene promoter methylation to hepatocellular carcinoma (HCC) and the predictive value of radiotherapy outcome. ATM promoter methylation status was detected using methylation-specific PCR in 118 HCC, 50 adjacent liver, and 20 normal liver samples. PCR products were verified by bisulfite sequencing PCR. ATM expression was detected by quantitative PCR (qPCR) and immunohistochemistry (IHC) in 50 paired HCC and adjacent normal tissues and 68 locally advanced HCC biopsy tissues. Furthermore, radiotherapy outcomes in 68 locally advanced HCC patients were determined using European Association for the Study of Liver criteria and survival analysis. The results revealed that the methylation frequency of the ATM promoter was significantly higher in HCC tissues than in normal liver tissues (χ = 16.830, P
+

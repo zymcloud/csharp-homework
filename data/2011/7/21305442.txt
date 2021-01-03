@@ -1,0 +1,4 @@
+21305442
+2011 Jul
+Periinterventional Cone-Beam CT (CBCT) today is a valuable tool in complex radiological interventions. Only little experience exists about CBCT in transarterial chemoembolisations (TACE) of liver tumors. 25 patients underwent periinterventional CBCT. We used a C-arc DSA with 30 × 40 cm flat panel detector. Image data with axial, coronal and 3D-reconstruction were acquired by 217° rotation in 8 seconds. In all 25 cases CBCT had an influence on the TACE regarding the decision which vessels to catheterize, the amount of retention of the embolisation agent or an abort because of insufficient vascularisation. In comparison with DSA alone, CBCT allows a better visualisation of tumour vessels, simplifies selective catheterisation, the decision whether an embolisation is possible and enables a good visualisation of Lipiodol retention. Hence, CBCT is a helpful periinterventional tool but cannot substitute CT and MRI in follow up.
+

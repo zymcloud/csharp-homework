@@ -1,0 +1,4 @@
+29672518
+2018 Apr 19
+Aim:To evaluate the relationship between fibrosis and HCC after sustained virological response (SVR) to treatment for chronic hepatitis C (HCV).Methods:This single-center study retrospectively evaluated 196 patients who achieved SVR after HCV infection. The associations of risk factors with HCC development after HCV eradication were evaluated using univariate and multivariate Cox proportional hazards regression models.Results:Among the 196 patients, 8 patients (4.1%) developed HCC after SVR during a median follow-up of 26 months. Multivariate analyses revealed that HCC development was independently associated with age of ≥75 years (risk ratio [RR] = 35.16), α- fetoprotein levels of ≥6 ng/mL (RR = 40.30), and SWE results of ≥11 kPa (RR = 28.71).Conclusions:Our findings indicate that SWE may facilitate HCC surveillance after SVR and the identification of patients who have an increased risk of HCC after HCV clearance.
+

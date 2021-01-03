@@ -1,0 +1,4 @@
+29513882
+2018 Jan 23
+In the present study, we successfully developed a docetaxel (DTX) and thalidomide (TDD) co-delivery system based on low density lipoprotein (LDL) modified silica nanoparticles (LDL/SLN/DTX/TDD). By employing the tumor homing property of LDL and the drug-loading capability of silica nanoparticles, the prepared LDL/SLN/DTX/TDD was expected to locate and specifically deliver the loaded drugs (DTX and TDD) to achieve effective chemotherapy of liver cancer. In vitro analysis revealed that nano-sized LDL/SLN/DTX/TDD with decent drug loading capabilities was able to increase the delivery efficiency by targeting the low density lipoprotein receptors, which were overexpressed on HepG2 human hepatocellular liver carcinoma cell line, which exerted better cytotoxicity than unmodified silica nanoparticles and free drugs. In vivo imaging and anti-cancer assays also confirmed the preferable tumor-homing and synergetic anti-cancer effects of LDL/SLN/DTX/TDD.
+

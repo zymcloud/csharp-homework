@@ -1,0 +1,4 @@
+25622637
+2014 Nov 18
+Objective:To systemically explore the cellular adhesion signal transduction network of tumor necrosis factor-alpha (TNF-α)-induced hepatocellular carcinoma cells with bioinformatics tools.Methods:Published microarray dataset of TNF-α-induced HepG2, human transcription factor database HTRI and human protein-protein interaction database HPRD were used to construct and analyze the signal transduction network.Results:In the signal transduction network, MYC and SP1 were the key nodes of signaling transduction. Several genes from the network were closely related with cellular adhesion.Epidermal growth factor receptor (EGFR) is a possible key gene of effectively regulating cellular adhesion during the induction of TNF-α.Conclusion:EGFR is a possible key gene for TNF-α-induced metastasis of hepatocellular carcinoma.
+

@@ -1,0 +1,4 @@
+24816638
+2014 May 9
+Hepatocellular carcinoma (HCC) is one of the few cancers in which a continuous increase in incidence has been observed over several years. Drug resistance is a major problem in the treatment of HCC. In the present study, we used salinomycin (Sal) and 5-fluorouracil (5-FU) combination therapy on HCC cell lines Huh7, LM3 and SMMC-7721 and nude mice subcutaneously tumor model to study whether Sal could increase the sensitivity of hepatoma cells to the traditional chemotherapeutic agent such as 5-FU. The combination of Sal and 5-FU resulted in a synergistic antitumor effect against liver tumors both in vitro and in vivo. Sal reversed the 5-FU-induced increase in CD133(+) EPCAM(+) cells, epithelial-mesenchymal transition and activation of the Wnt/β-catenin signaling pathway. The combination of Sal and 5-FU may provide us with a new approach to reverse drug resistant for the treatment of patients with HCC.
+

@@ -1,0 +1,4 @@
+31646559
+2019 Oct
+Objective:Long non-coding RNAs (lncRNAs) have been confirmed to play important roles in the progression of different cancers. The aim of this study was to detect the expression level of lncRNA CEBPA-AS1 in liver cancer and to study its influence on cell proliferation, invasion and prognosis.Patients and methods:Quantitative Real Time-Polymerase Chain Reaction (qRT-PCR), MTT (3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyl tetrazolium bromide) assay, transwell assay, Western blot, Kaplan-Meier survival curve and Cox regression were used to evaluate lncRNA CEBPA-AS1 expression, cell proliferation, invasion, epithelial-mesenchymal transition (EMT)-related molecules expression and prognosis, respectively.Results:The expression of lncRNA CEBPA-AS1 increased significantly in liver cancer tissues (pConclusions:LncRNA CEBPA-AS1 acts as an oncogene in liver cancer, which may be a novel biomarker in liver cancer progression.
+

@@ -1,0 +1,4 @@
+26990031
+2016 Jul
+Fibrolamellar hepatocellular carcinoma (FL-HCC) has historically been classified as a rare subtype of HCC. However, unlike "classic" HCC, it occurs in children and young adults without underlying liver disease. The recent discovery of a deletion mutation in all FL-HCCs represented a major advancement in understanding the pathogenesis of this disease. This deletion results in the fusion of the genes encoding a heat shock protein (DNAJB1) and the catalytic subunit of protein kinase A (PKA, PRKACA), and overexpression of PRKACA and enhanced cAMP-dependent PKA activity. This review summarizes recent advancements in FL-HCC pathogenesis and characteristics of the HSP40-PKA C protein.
+carcinoma; fibrolamellar; hepatocellular; protein kinase A.

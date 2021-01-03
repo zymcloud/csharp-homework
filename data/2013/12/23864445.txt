@@ -1,0 +1,4 @@
+23864445
+2013 Dec
+The incidence of hepatocellular carcinoma (HCC) is higher in Asian Americans than in other ethnicities. While hepatitis B virus (HBV) is common, hepatitis C virus (HCV) is more prevalent in some subgroups. Our goal was to determine the etiology of liver disease associated with HCC in subgroups of Asian Americans. This was an analysis of 510 Asian HCC patients at a US medical center. Patients were identified using ICD9 diagnosis. Multivariate logistic regression was used to study predictors of HCV as the cause of HCC. Patients were Southeast Asian, Chinese, and Korean, with similar gender, age, and foreign-born status. Southeast Asians had a similar proportion of HBV- and HCV-related HCC, while Chinese and Korean patients had a higher proportion of HBV-related HCC. HCC was usually associated with HBV in Chinese and Korean patients, but both HCV and HBV were important associations in Southeast Asians.
+

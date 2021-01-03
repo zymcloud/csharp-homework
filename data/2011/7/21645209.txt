@@ -1,0 +1,4 @@
+21645209
+2011 Jul
+Aim:To generate a new score with improved accuracy compared with Milan criteria to select patients.Patients:The training cohort comprised 373 patients transplanted for hepatocellular carcinoma (HCC) between 1988 and 1998 (cohort 1). An algorithm was derived from the analysis of patient data by the proportional hazard Cox regression model. The area under the receiver operating characteristic (AUROC) was used to determine a cut-off value. The validation cohort comprised 140 patients transplanted between 1999 and 2001 (cohort 2).Results:Multivariate analysis identified three predictors of 5-year tumour-free survival: tumour differentiation (P=0.02), diameter (PConclusion:A novel score taking into account tumour differentiation shows higher accuracy than Milan criteria in predicting 5-year tumour-free survival following liver transplantation for HCC. Prospective studies should validate these findings.
+

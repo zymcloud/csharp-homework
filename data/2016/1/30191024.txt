@@ -1,0 +1,4 @@
+30191024
+2016 Jan
+Patients with liver disease have a risk of developing hepatocellular carcinoma (HCC), but the risk varies between different diseases and is also different according to several other variables, such as age, type of underlying liver disease and severity of disease. Several risk scores have been developed to more adequately quantitate HCC risk in individual patients. Each risk score is applicable to a specific population (chronic hepatitis B or C, patients on the transplant list, cirrhosis in general, and so on). Most publications on risk scores do not provide clear guidance as to what level of measured risk is sufficient to trigger surveillance.
+

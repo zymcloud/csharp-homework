@@ -1,0 +1,4 @@
+27186821
+2016 May 27
+Eight usnic acid derivatives, that is, usenamines A-F (1-6), usone (7), and isousone (8), together with the known (+)-usnic acid (9), were isolated from the lichen Usnea longissima. Their structures were elucidated using 1D and 2D NMR and MS data, and the absolute configurations of compounds 1 and 2 were defined by single-crystal X-ray diffraction analyses. Compounds 1, 2, and 8 showed inhibitory effects on the growth of human hepatoma HepG2 cells with IC50 values of 6.0-53.3 μM compared with methotrexate as the positive control, which had an IC50 value of 15.8 μM. Furthermore, 1 induced apoptosis of HepG2 cells in a dose-dependent manner at concentrations of 0-15.0 μM. The isolated compounds were also evaluated for their antifungal and antibacterial activities, with 7 and 8 exhibiting weak inhibitory effects on fungal Trichophyton rubrum spp. with an MIC value of 41.0 μM.
+

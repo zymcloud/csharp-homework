@@ -1,0 +1,4 @@
+31233763
+2019 Sep 5
+It is known that lncRNA PLAC2 can inhibit glioma. This study explored the function of PLAC2 in hepatocellular carcinoma (HCC). Our data showed that PLAC2 expression in HCC was not affect by HCV and HBV infection, while PLAC2 levels were significantly lower in HCC tissues comparing to non-cancer tissues. Low PLAC2 levels in HCC tissues were associated with low overall 5-year survival rate. P53 mRNA was also downregulated in HCC and positively correlated with PLAC2. PLAC2 overexpression caused upregulated p53 and increase cancer cell apoptosis. P53 overexpression failed to affect PLAC2. In addition, p53 silencing reduced the effects of PLAC2 overexpression. Therefore, PLAC2 upregulated p53 to mediate cancer cell apoptosis.
+Hepatocellular carcinoma; Survival; lncRNA PLAC2; p53.

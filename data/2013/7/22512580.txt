@@ -1,0 +1,4 @@
+22512580
+2013 Jul
+Hypoxia-inducible factor (HIF)-1α is over-expressed in hepatocellular carcinoma (HCC) and degraded by ubiquitin-proteasome pathways under normoxic conditions. Hepatocyte hypoxia enhances proliferation, angiogenesis, metastasis, chemoresistance, and radioresistance of HCC. The importance role of HIF-1α expression in HCC may improve the prognostic and therapeutic technique. This article reviews the HIF-1α expression and its gene during the rat HCC development, the level of HIF-1α expression in HCC patients, and the effect of silencing HIF-1α gene by miRNA on inhibition of HepG2 cell proliferation.
+

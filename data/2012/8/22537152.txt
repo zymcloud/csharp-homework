@@ -1,0 +1,4 @@
+22537152
+2012 Aug
+Objective:This study was undertaken to determine the role of cancerous inhibitor of protein phosphatase 2A (CIP2A) in predicting prognosis of hepatocellular carcinoma (HCC).Methods:CIP2A mRNA level of 136 pairs of tumor and nontumoral liver tissues of HCC patients after hepatectomy were investigated by quantitative real-time reverse transcription polymerase chain reaction.Results:Intratumoral CIP2A mRNA was not associated with patients' prognosis. However, nontumoral CIP2A mRNA, which was correlated with lack of tumor encapsulation, poor tumor differentiation, intrahepatic metastasis, and high tumor-node-metastasis stage was an independent risk factor for overall survival and recurrence-free survival.Conclusions:Nontumoral CIP2A mRNA expression might serve as a novel biomarker for HCC patients undergoing resection.
+

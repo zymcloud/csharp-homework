@@ -1,0 +1,4 @@
+23026137
+2012 Dec 1
+The Prolyl hydroxylase 1 (EGLN2) is known to affect tumorigenesis by regulating the degradation of hypoxia-inducible factor. Polymorphisms in EGLN2 may facilitate cancer cell survival under hypoxic conditions and directly associate with cancer susceptibility. Here, we examined the contribution of a 4-bp insertion/deletion polymorphism (rs10680577) within the distal promoter of EGLN2 to the risk of hepatocelluar carcinoma (HCC) in Chinese populations. The contribution of rs10680577 to HCC risk was investigated in 623 HCC cases and 1,242 controls and replicated in an independent case-control study consisting of 444 HCC cases and 450 controls. Logistic regression analysis showed that the deletion allele of rs10680577 was significantly associated with increased risk for HCC occurrence in both case-control studies [OR = 1.40; 95% confidence interval (CI) = 1.18-1.66, P
+

@@ -1,0 +1,4 @@
+23316374
+2012
+T helper 17 (T(H)17) is a novel subset of T helper cells that has recently been identified in the hepatocellular carcinoma (HCC) tumor environment. Its presence seems to be linked with HCC progression, possibly via facilitating angiogenesis. The origin of tumor-associated T(H)17 may be related to the gut, in which the differentiation of T cells, especially T(H)17 cells, is affected by microbiota. As T(H)17 may appear to be a new therapeutic target against tumor-promoting inflammation, strategies such as using probiotics to polarize the response away from T(H)17 may be beneficial to slow down tumor progression. This paper will attempt to discuss the potential linkage between HCC progression, T(H)17, and gut microbiota and the possible therapeutic implications of probiotics to modulate T(H)17-mediated response for tumor growth.
+

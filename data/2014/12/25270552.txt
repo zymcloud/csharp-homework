@@ -1,0 +1,4 @@
+25270552
+2014 Dec
+Hepatocellular carcinoma (HCC) is one of the leading causes of cancer death in the world. The gene glypican-3 (GPC3) is reported to be a potential therapeutic target for HCC. In this study, we use RNA interference with lentiviral vectors to explore the effect of GPC3 silencing on the biological behavior of HCC cells and the potential role of the GPC3 protein in the activation of epithelial-mesenchymal transition (EMT), which relates to HCC cell invasion and migration. Our data suggest that GPC3 silencing leads to a decrease in HCC cell proliferation and to an increase in apoptosis. We demonstrated that GPC3 silencing regulates cell invasion and migration, most probably through the activation of the EMT cellular program. In conclusion, GPC3 is associated with the HCC cell biological behavior, while the relationship between GPC3 and EMT in tumorigenesis of HCC deserves future investigation.
+

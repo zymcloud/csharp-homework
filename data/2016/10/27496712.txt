@@ -1,0 +1,4 @@
+27496712
+2016 Oct 1
+PAK4 kinase contributes to signaling pathways controlling cancer cell transformation, invasion, and survival, but its clinicopathological impact has begun to emerge only recently. Here we report that PAK4 overexpression in hepatocellular carcinoma (HCC) conveys aggressive metastatic properties. A novel nuclear splice isoform of PAK4 lacking exon 2 sequences was isolated as part of our studies. By stably overexpressing or silencing PAK4 in HCC cells, we showed that it was critical for their migration. Mechanistic investigations in this setting revealed that PAK4 directly phosphorylated p53 at S215, which not only attenuated transcriptional transactivation activity but also inhibited p53-mediated suppression of HCC cell invasion. Taken together, our results showed how PAK4 overexpression in HCC promotes metastatic invasion by regulating p53 phosphorylation. Cancer Res; 76(19); 5732-42. ©2016 AACR.
+

@@ -1,0 +1,4 @@
+25900241
+2015 Jun 20
+Our previous study reported that retinoic acid induced 16 (RAI16) could enhance tumorigenesis in hepatocellular carcinoma (HCC). However, the cellular functions of RAI16 are still unclear. In this study, by immunoprecipitation and tandem (MS/MS) mass spectrometry analysis, we identified that RAI16 interacted with the type II regulatory subunit of PKA (PKA-RIIα), acting as a novel protein kinase A anchoring protein (AKAP). In addition, RAI16 also interacted with heat shock protein 70 (HSP70) and 14-3-3θ. Further studies indicated that RAI16 mediated PKA phosphorylation of HSP70 at serine 486, resulting in anti-apoptosis events. RAI16 was also phosphorylated by the anchored PKA at serine 325, which promoted the recruitment of 14-3-3θ, which, in turn, inhibited RAI16 mediated PKA phosphorylation of HSP70. These findings offer mechanism insight into RAI16 mediated anti-apoptosis signaling in HCC.
+14-3-3θ; AKAP; Fam160B2; PKA-RIIα; RAI16.

@@ -1,0 +1,4 @@
+20973434
+2010 Sep
+Statistics Canada routinely produces cohort-based estimates for cancer survival; the most recent were based on cases diagnosed from 1992-2000. This report provides predicted survival estimates for cases diagnosed more recently. Using records from the Canadian Cancer Registry linked to the Canadian Vital Statistics Death Data Base, cancer- and age-specific estimates of relative survival have been calculated for 2004-2006. The five-year relative survival ratio (RSR) for all cancers combined was 62%, and ranged from 6% for pancreatic cancer to 98% for cancer of the thyroid. The RSR was typically higher at younger than older ages, with exceptions for some common cancers. From 1992-1994 to 2004-2006, the five-year RSR for a number of cancers increased--usually slightly, but in some cases, appreciably (for example, the age-standardized RSR for non-Hodgkin lymphoma rose from 51% to 63%; for leukemia, from 44% to 54%; and for liver, 9% to 17%).
+

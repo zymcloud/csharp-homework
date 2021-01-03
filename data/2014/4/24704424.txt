@@ -1,0 +1,4 @@
+24704424
+2014 Apr 25
+Previous research showed that microRNA-612 (miR-612) has inhibitory effects on cell proliferation, migration, invasion, and metastasis of hepatocellular carcinoma (HCC). AKT2 was confirmed to be a direct target of miR-612, through which the epithelial-mesenchymal transition (EMT) and metastasis of HCC were inhibited. Our present findings reveal that miR-612 is able to suppress the stemness of HCC by reducing the number and size of tumorspheres as well as clone formation in soft agar, and to relieve drug resistance to cisplatin and 5-fluorouracil. In addition, miR-612 hampered the capacity of tumorigenesis in NOD/SCID mice and redistributed the tumor invasive frontier of miR-612-modulating cells. Finally, our findings suggest that Wnt/β-catenin signaling is required in the regulation of EMT-associated stem cell-like traits by miR-612.
+Cancer stem cells; Hepatocellular carcinoma; Invasive frontier; Wnt/β-catenin; miR-612.

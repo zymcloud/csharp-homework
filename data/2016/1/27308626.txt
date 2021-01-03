@@ -1,0 +1,4 @@
+27308626
+2016 Jan 19
+Adeno-associated virus type 2 (AAV2) is a defective DNA virus that was previously considered to be non-pathogenic. We identified somatic AAV2 integration in a subset of 11 hepatocellular carcinomas (HCC) that mainly developed in normal liver without known etiology through recurrent insertional mutagenesis in cancer driver genes such as telomerase reverse transcriptase (TERT), cyclin A2 (CCNA2), cyclin E1 (CCNE1), tumor necrosis factor (ligand) superfamily, member 10 (TNFSF10), and lysine (K)-specific methyltransferase 2B (KMT2B).
+Adeno-associated virus type 2; TERT; gene therapy; hepatocellular carcinoma; insertional mutagenesis.

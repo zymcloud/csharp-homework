@@ -1,0 +1,4 @@
+32024616
+2019 Nov
+Four series of pyrazolobenzothiazine derivatives were evaluated for their anticancer activity against six different cancer cell lines i.e., KB (human oral carcinoma cells), MCF-7(human breast carcinoma cells), A549 (human alveolar adenocarcinoma cells), Hep-G2 (liver carcinoma cells), SGC-7901(human gastric carcinoma cells) and S1 (human colon carcinoma cells) using MTT assay. Among eighteen compounds tested, six compounds i.e., 1a, 1b, 1d, 4a, 4d and 4e were more active than 5-florouracil against human oral carcinoma cells (KB). Moreover, compounds 2b and 2c showed activity comparable to 5-FU against KB cell line. In addition, eight compounds were non-toxic to human PBM cells and thus exhibit selective anticancer activity.
+

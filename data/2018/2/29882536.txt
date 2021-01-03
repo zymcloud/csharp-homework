@@ -1,0 +1,4 @@
+29882536
+2018 Feb
+Hepatitis C virus (HCV) infection is responsible for liver diseases and hepatocellular carcinoma in chronically-infected patients. Owing to high sequence variability in HCV genome, numerous subtypes have emerged. This study determined HCV strains among patients with clinical hepatitis and blood donors in Ibadan. Blood samples were collected from consented 176 subjects who tested positive to HCV IgM antibodies, including 99 patients with clinical hepatitis and 77 apparently healthy blood donors. Viral RNA was extracted from blood samples, while presence of HCV was tested by amplifying the NS5B gene using polymerase chain reaction (PCR). The amplified NS5B gene was sequenced and sequences were aligned on MEGA 7.0. Phylogenetic tree was constructed with Neighbor-Joining method. Data were analyzed using descriptive statistics at P
+Blood donors; Genotypes; Hepatitis C Virus; Nigeria; Patients.

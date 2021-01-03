@@ -1,0 +1,4 @@
+32362534
+2020 Aug
+The bulk of the pancreas primarily comprises long-lived acinar cells that are not considered a bona fide source for stem cells. However, certain acinar subpopulations have a repopulating capacity during regeneration, raising the hypothesis as to the presence of regenerative progenitor-like populations in the adult pancreas. Here, we describe recent discoveries based on fate-mapping techniques that support the existence of progenitor-like acinar subpopulations, including active progenitor-like cells that maintain tissue homeostasis and facultative progenitor-like cells that drive tissue regeneration. A possible link between progenitor-like acinar cells and cancer initiators is proposed. Further analysis of these cellular components is needed, because it would help uncover possible cellular sources for regeneration and cancer, as well as potential targets for therapy.
+acinar; ancreatic progenitor-like population; cancer initiation; lineage tracing.

@@ -1,0 +1,4 @@
+25282270
+2014 Nov 24
+Synthetic protocols for the preparation of selenium analogues of raloxifene were elaborated. General aim of the current research is to improve the positive impact of selenium atom introduction in drug design. Antiproliferative activity on CCL-8 (mouse sarcoma), MDA-MB-435s (human melanoma), MES-SA (human uterus sarcoma), MCF-7 (human breast adenocarcinoma), HT-1080 (human fibrosarcoma), MG-22A (mouse hepatoma) tumor cell lines, and normal cell line NIH 3T3 (mouse fibroblasts) was studied. Influence of aminoethoxy "tail" and benzoyl group position on SAR was discussed. Results of in vivo studies on BALB/c female mice with 4T1 cell induced breast cancer model showed that selenium analogue of raloxifene is able to suppress estrogen-depending tumor growth.
+Breast; Cancer; Cytotoxic activity; Raloxifene; Selenium; Selenophene.

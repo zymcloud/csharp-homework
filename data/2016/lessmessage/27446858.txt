@@ -1,0 +1,4 @@
+27446858
+2016
+Nonalcoholic fatty liver disease (NAFLD) has been recognized as a major public health problem worldwide. Nonalcoholic steatohepatitis (NASH) is an advanced form of NAFLD that may progress to cirrhosis and hepatocellular carcinoma. The pathogenesis of disease progression from NAFLD to NASH has not been fully understood. Immunological mechanisms that have been increasingly recognized in the disease progression include defects in innate immunity, adaptive immunity, Toll-like receptor (TLR) signaling, and gut-liver axis. The NLRP3 inflammasome is an intracellular multiprotein complex involved in the production of mature interleukin 1-beta (IL-1β) and induces metabolic inflammation. NLRP3 inflammasome has been recently demonstrated to play a crucial role in the progression of NASH. This review highlights the recent findings linking NLRP3 inflammasome to the progression of NASH.
+

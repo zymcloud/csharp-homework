@@ -1,0 +1,4 @@
+21496456
+2011 May 6
+Transforming growth factor (TGF) β is the central cytokine in fibrotic liver diseases. We analyzed whether hepatoprotective adiponectin directly interferes with TGFβ1 signaling in primary human hepatocytes (PHH). Adiponectin induces the TGFβ decoy receptor BMP-and activin-membrane-bound inhibitor (BAMBI) in PHH. Overexpression of BAMBI in hepatoma cells impairs TGFβ-mediated phosphorylation of SMAD2 and induction of connective tissue growth factor. BAMBI is lower in human fatty liver with a higher susceptibility to liver fibrosis and negatively correlates with BMI of the donors. Hepatic BAMBI is reduced in rodent models of liver inflammation and fibrosis. In summary, the current data show that hepatoprotective effects of adiponectin include induction of BAMBI which is reduced in human fatty liver and rodent models of metabolic liver injury.
+

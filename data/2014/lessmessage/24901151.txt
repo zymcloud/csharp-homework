@@ -1,0 +1,4 @@
+24901151
+Mar-Apr 2014
+Background/aims:Resveratrol is known to have potent anti-inflammatory and antioxidant effects and to inhibit platelet aggregation and growth of a variety of cancer cells. In the paper, we investigated the effects of Resveratrol (Res) on expression ofVEGF gene in human hepatocarcinoma cell cells and cell proliferation.Methodology:HepG2 cells were treated with different concentrations of Res (0, 10, 20, 40 micromol/L) and rent time (24, 48, 72h). Cell proliferation was examined by MTT method and the expression of VEGF gene was analyzed by RT-PCR and Western blot.Results:Res could inhibit expression of VEGF gene, the inhibitory effect of Res increased with the increasing of concentration of Res and treatment time.Conclusions:Our results suggest that Res can significantly inhibit the proliferation of HepG2 cells and exerts an anti-tumor effect by repressing the expression of VEGF gene.
+

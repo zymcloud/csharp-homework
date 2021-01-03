@@ -1,0 +1,4 @@
+33137727
+2019 May 29
+Magnetic microrobots were developed for three-dimensional culture and the precise delivery of stem cells in vitro, ex vivo, and in vivo. Hippocampal neural stem cells attached to the microrobots proliferated and differentiated into astrocytes, oligodendrocytes, and neurons. Moreover, microrobots were used to transport colorectal carcinoma cancer cells to tumor microtissue in a body-on-a-chip, which comprised an in vitro liver-tumor microorgan network. The microrobots were also controlled in a mouse brain slice and rat brain blood vessel. Last, microrobots carrying mesenchymal stem cells derived from human nose were manipulated inside the intraperitoneal cavity of a nude mouse. The results indicate the potential of microrobots for the culture and delivery of stem cells.
+

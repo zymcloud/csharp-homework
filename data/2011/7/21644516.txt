@@ -1,0 +1,4 @@
+21644516
+2011 Jul 13
+We present the development of a new imaging technique for the early diagnosis of hepatocellular carcinoma that utilizes surface-modified gold nanoparticles in combination with X-ray imaging. Tissues labeled with these electron-dense particles show enhanced X-ray scattering over normal tissues, distinguishing cells containing gold nanoparticles from cells without gold in X-ray scatter images. Our results suggest that this novel approach could enable the in vivo detection of tumors as small as a few millimeters in size.
+

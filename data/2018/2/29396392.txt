@@ -1,0 +1,4 @@
+29396392
+2018 Feb 2
+Hepatocellular carcinoma (HCC) is the third most frequent cause of cancer-related death worldwide, and the molecular pathogenesis and development of HCC are largely unknown. In the present study, we found that KIF4A expression was upregulated in HCC (678 samples, P = 2.03E-8) based on a meta-analysis of Oncomine database. We further confirmed that both KIF4A mRNA and protein expressions were overexpressed in human HCC tumour tissues as well as cancer cell lines. Higher KIF4A expression was correlated with poorer overall survival (P
+

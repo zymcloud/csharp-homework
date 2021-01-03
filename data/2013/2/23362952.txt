@@ -1,0 +1,4 @@
+23362952
+2013 Feb
+Studies show that lysophosphatidic acid (LPA) reprogramming is associated with the development of hepatocellular carcinoma (HCC). This manuscript evaluates the MDR2(-/-) model of HCC as a tool to examine the role of LPA reprogramming in the initiation/progression of HCC and identify novel treatment targets. Hepatic tumors developed in MDR2(-/-) mice between 9-12 m and serum LPA levels were greater in MDR2(-/-) when compared to controls. Blocking LPA biosynthesis/signaling significantly reduced tumor burden. LPA biosynthesis/signaling plays an important role in murine MDR2(-/-) model and is potentially linked to regulation of TNFα or other cytokines that are relevant to high-risk patients.
+

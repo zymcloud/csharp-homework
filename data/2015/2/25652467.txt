@@ -1,0 +1,4 @@
+25652467
+2015 Feb
+Hepatocellular carcinoma (HCC) is a disease with a high incidence and mortality rate worldwide. However, the mechanisms underlying its pathogenesis are still elusive. In recent years, studies on functions of Krüppel-like factors (KLFs) in HCC have shed new light on this field. To date, five members (KLF4, KLF6, KLF8, KLF9, and KLF17) in the KLF family have been reported to function in the pathogenesis of HCC in multiple ways, which hold the potential of deepening and widening our understanding in the initiation and progression of HCC. In this review, we focus on the functions, roles, and regulatory networks of these five KLFs in HCC, summarize key pathways, and propose areas for further investigation, with the hope that this review will provide a reliable and concise reference for readers interested in this area.
+

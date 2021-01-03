@@ -1,0 +1,4 @@
+19910110
+2010 May 28
+NF-kappaB is activated in many types of cancer. Phosphorylation of p65 at serine 276 is required for the expression of a subset of NF-kappaB regulated genes, including vascular cell adhesion molecule-1 (VCAM-1) and interleukin-8 (IL-8). Thus, inhibition of serine 276 phosphorylation may prevent metastasis and angiogenesis in certain tumor types. Using in silico molecular docking, small molecules that are predicted to bind to a structural pocket near serine 276 were identified. One compound, NSC-127102, hinders serine 276 phosphorylation and the expression of IL-8 and VCAM-1. Small molecules such as NSC-127102 may be optimized for the future treatment of cancer.
+

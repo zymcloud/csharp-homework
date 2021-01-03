@@ -1,0 +1,4 @@
+21743491
+2012 Feb 16
+Microsomal prostaglandin E synthase-1 (mPGES-1) is a key enzyme that couples with cyclooxygenase-2 (COX-2) for the production of PGE(2). Although COX-2 is known to mediate the growth and progression of several human cancers including hepatocellular carcinoma (HCC), the role of mPGES-1 in hepatocarcinogenesis is not well established. This study provides novel evidence for a key role of mPGES-1 in HCC growth and progression. Forced overexpression of mPGES-1 in two HCC cell lines (Hep3B and Huh7) increased tumor cell growth, clonogenic formation, migration and invasion, whereas knockdown of mPGES-1 inhibited these parameters, in vitro. In a mouse tumor xenograft model, mPGES-1-overexpressed cells formed palpable tumors at earlier time points and developed larger tumors when compared with the control (P
+

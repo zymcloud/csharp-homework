@@ -1,0 +1,4 @@
+20153103
+2010 Aug 1
+Cucurbitacin B is an anti-cancer drug candidate and its efficacy has been demonstrated in hepatocellular carcinoma (HCC). To explore its mechanism against HCC, BEL-7402 cells were treated with cucurbitacin B in vitro. Treatment with cucurbitacin B induced S phase arrest and apoptosis. The growth inhibition effect was associated with cyclin D1 and cdc-2 down regulations. Western blotting analysis of cell signaling molecules indicated that cucurbitacin B inhibited c-Raf activation without affecting STAT3 phosphorylation. Moreover, in vivo study demonstrated that cucurbitacin B is effective against BEL-7402 xenograft when administrated orally.
+

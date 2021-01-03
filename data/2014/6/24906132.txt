@@ -1,0 +1,4 @@
+24906132
+2014 Jun 6
+Background/aim:Majority of patients with hepatocellular carcinoma (HCC) belonged to Child-Turcotte-Pugh (CTP) class A. We aimed to identify a new class of patients with very well-preserved liver function and analyze its impact on outcome prediction, tumor staging and treatment allocation.Methods:A total of 2654 HCC patients were retrospectively analyzed. The prognostic ability was compared by the Akaike information criterion (AIC).Results:The CTP class 0 was defined by fulfilling all criteria of albumin ≧4 g/dL, bilirubin ≦0.8 mg/dL, prothrombin time prolongation Conclusions:The proposal of CTP class 0 independently predicted better survival in HCC patients. Modification of tumor staging systems according to the modified CTP classification further enhances their prognostic ability.
+

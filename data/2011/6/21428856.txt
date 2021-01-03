@@ -1,0 +1,4 @@
+21428856
+2011 Jun
+Hepatocellular carcinomas (HCC) are the fifth most common tumor type and the third most common cause of cancer-related death worldwide. Some tumor markers for HCC, such as α-fetoprotein and des-γ-carboxyprothrombin, are used clinically. Recent advances in proteomics and glyco-proteomics might provide various types of novel tumor markers for HCC. While the clinical availability of these tumor markers is important, the molecular mechanisms underlying the production of tumor markers requires further clarification. Our group has investigated the glycobiology of tumor markers. In this review, we describe the impact of novel HCC markers and their possible implications for clinical use.
+

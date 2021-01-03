@@ -1,0 +1,4 @@
+31047840
+2019 Sep
+Cinematic rendering (CR) is a recently described three-dimensional (3D) rendering technique that generates photorealistic images based on a new lighting model. This review illustrates the potential application of CR in the evaluation of focal liver masses. CR shows promise in improving the visualization of enhancement pattern and internal architecture, local tumor extension, and global disease burden, which may be helpful in focal liver mass characterization and pretreatment planning.
+Cinematic rendering; Computed tomography (CT); Liver mass; Three-dimensional (3D) imaging.

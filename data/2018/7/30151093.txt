@@ -1,0 +1,4 @@
+30151093
+2018 Jul 6
+Naphthalenetetracarboxylic diimide (NDI) is widely used as a photoelectric material in the field of medicine. A series of asymmetric naphthalene diimide derivatives were synthesized and evaluated for their anticancer properties by various experimental assays. As the representative compound, 3c exerted significantly greater inhibitory effects on hepatoma cells SMMC-7721 and Hep G2 with an IC50 value of 1.48 ± 0.43 μM and 1.70 ± 0.53 μM, respectively, than normal hepatocytes QSG-7701 with an IC50 value of 7.11 ± 0.08 μM. Treatment with compound 3c (3 μM) for 48 h resulted in apoptosis of SMMC-7721 cells and Hep G2 cells with 52.1% and 67.8% apoptotic cells, respectively. Compound 3c induced autophagy and suppressed the migration of hepatoma cells in a concentration-dependent manner, resulting from the generation of reactive oxygen species (ROS). Based on its biological ability, compound 3c was considered as a potent anticancer agent.
+

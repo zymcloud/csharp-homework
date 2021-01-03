@@ -1,0 +1,4 @@
+28668723
+Nov-Dec 2017
+Purpose:To investigate whether bevacizumab compromises early response assessment after Transarterial Chemoembolization (TACE) in patients with hepatocellular carcinoma by 3D quantitative European Association for the Study of the Liver (qEASL) criteria in comparison to other imaging-based criteria.Materials and methods:Each of 14 patients receiving TACE and bevacizumab was matched with two patients receiving TACE alone. Baseline and Follow-up MRI was retrospectively analyzed regarding qEASL and other imaging-based criteria.Results:Percentage-based qEASL achieved significant separation in both therapy arms (p=0.046 and p=0.015). Response and Overall Survival showed similar association among treatment groups (p=0.749).Conclusions:Anti-angiogenic therapy with bevacizumab does not impede early response assessment by qEASL.
+Antiangiogenic agents; Bevacizumab; HCC; Quantitative imaging; TACE; qEASL.

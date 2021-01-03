@@ -1,0 +1,4 @@
+24582836
+2014 Mar 17
+The mutagenic effect of hepatitis B (HBV) integration in predisposing risk to hepatocellular carcinoma (HCC) remains elusive. In this study, we performed transcriptome sequencing of HBV-positive HCC cell lines and showed transcription of viral-human gene fusions from the site of genome integrations. We discovered tumor-promoting properties of a chimeric HBx-LINE1 that, intriguingly, functions as a hybrid RNA. HBx-LINE1 can be detected in 23.3% of HBV-associated HCC tumors and correlates with poorer patient survival. HBx-LINE1 transgenic mice showed heightened susceptibility to diethylnitrosamine-induced tumor formation. We further show that HBx-LINE1 expression affects β-catenin transactivity, which underlines a role in activating Wnt signaling. Thus, this study identifies a viral-human chimeric fusion transcript that functions like a long noncoding RNA to promote HCC.
+

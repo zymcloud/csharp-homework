@@ -1,0 +1,4 @@
+20637014
+2010 Sep
+Growth of colon carcinoma cells transfected with mucin 1 (MUC1) was effectively suppressed by vaccination with MUC1 cDNA. The suppression was dependent on the presence of Fas ligand (FasL) in the cecum, whereas it was independent of FasL in the spleen and in the liver, as revealed by the use of gld/gld mice as the recipients of vaccination, and transplantation of tumor cells expressing MUC1. CD4(+) T cells were transferred from mice immunized with MUC1 cDNA to naive gld/gld or C57BL/6 mice, and the suppression of colon carcinoma growth in the cecum was tested. The results clearly showed that FasL in the recipient played a significant role. In the cecum, FasL was associated with intratumoral CD11b(+) cells, which are likely to be responsible for vaccine-induced tumor suppression. The T cell response to MUC1 was not influenced by the gld/gld status.
+

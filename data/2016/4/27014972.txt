@@ -1,0 +1,4 @@
+27014972
+2016 Apr 19
+Cancer cell metastasis is a major cause of cancer fatality. But the underlying molecular mechanisms remain incompletely understood, which results in the lack of efficient diagnosis, therapy and prevention approaches. Here, we report a systematic study on the secretory proteins (secretome) and secretory N-glycoproteins (N-glycosecretome) of four human hepatocellular carcinoma (HCC) cell lines with different metastatic potential, to explore the molecular mechanism of metastasis and supply the clues for effective measurement of diagnosis and therapy. Totally, 6242 unique gene products (GPs) and 1637 unique N-glycosites from 635 GPs were confidently identified. About 4000 GPs on average were quantified in each of the cell lines, 1156 of which show differential expression (p
+N-glycoproteomics; OFFGEL fractionation; hepatocellular carcinoma; label-free quantitation; metastasis; secretome; zic-HILIC.

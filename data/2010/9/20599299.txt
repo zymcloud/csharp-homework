@@ -1,0 +1,4 @@
+20599299
+2010 Sep
+Novel derivatives of quinazoline (1-27) have been synthesized and tested for their antitumor activity against three tumor cell lines among these cell lines the human breast carcinoma cell line (MCF-7) in which EGFR is highly expressed. All tested compounds showed potent and selective activity against breast cancer (MCF-7) with IC(50) range of 3.35-6.81 microg/ml. With regarding broad-spectrum activity compounds 5, 9, 15, 18 and 20 exploited potent antitumor against human liver cell line (HEPG2), human breast cell line (MCF-7) and human cervix cell line (HELA) with IC(50) range of 3.35-5.59 microg/ml. Virtual screening was carried out through docking the designed compounds into the ATP binding site of epidermal growth factor receptor (EGFR) to predict if these compounds have analogous binding mode to the EGFR inhibitors.
+

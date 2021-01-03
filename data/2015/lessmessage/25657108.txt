@@ -1,0 +1,4 @@
+25657108
+2015
+Celastrol is a natural terpenoid isolated from Tripterygium wilfordii, a well-known Chinese medicinal herb that presents anti-proliferative activities in several cancer cell lines. Here, we investigated whether celastrol induces apoptosis on hepatocellular carcinoma Bel-7402 cells and further explored the underlying molecular mechanisms. Celastrol caused a dose- and time-dependent growth inhibition and apoptosis of Bel-7402 cells. It increased apoptosis through the up-regulation of Bax and the down-regulation of Bcl-2 in Bel-7402 cells. Moreover, celastrol induced the release of cytochrome c and increased the activation of caspase-3 and caspase-9, suggesting that celastrol-induced apoptosis was related to the mitochondrial pathway. These results indicated that celastrol could induce apoptosis in Bel-7402 cells, which may be associated with the activation of the mitochondria-mediated pathway.
+Apoptosis; Celastrol; Mitochondria-mediated pathway.

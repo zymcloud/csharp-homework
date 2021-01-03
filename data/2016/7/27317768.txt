@@ -1,0 +1,4 @@
+27317768
+2016 Jul 19
+To establish serum microRNA profiles as prognostic biomarkers in hepatocellular carcinoma patients (HCCs), we used deep sequencing to screen serum microRNAs in a discovery set .Twelve up-regulated serum miRNAs were selected for qPCR analysis in a training set. MiR-192-5p and miR-29a-3p were identified and associated with HCC prognosis. HCCs with high concentrations of miR-192-5p and miR-29a-3p had poorer overall survival (OS) and progression-free survival (PFS) than those with low concentrations. We calculated a prognostic index (PI) score and classified patients into low-, medium- and high-risk groups. OS and PFS among the 3 groups from the training set were significantly different (all P
+biomarkers; deep sequencing; hepatocellular carcinoma; prognosis; serum microRNA.

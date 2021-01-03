@@ -1,0 +1,4 @@
+21575459
+2011 Jan
+Objective:To detect the cell-surface-expressed nucleolin and investigate its tumor suppressing effect on the growth of hepatocellular carcinoma cells.Methods:To detect cell-surface-expressed nucleolin in the hepatocellular carcinoma cells by immunofluorescence and flow cytometry. To down-regulate the nucleolin expression level in hepatocellular carcinoma cells by RNA interference. The tumor-suppressing effect of cell-surface nucleolin on hepatocellular carcinoma cells was assessed by MTT and transwell chamber assays.Results:Nucleolin was expressed in the nuclei, cytoplasm and on the cell surface of hepatocellular carcinoma cells. ShRNA markedly decreased the nucleolin expression level in the cytoplasm and on the cell surface (P Conclusion:The results of this study show that downregulation of cell-surface nucleolin expression inhibits the growth of hepatocellular carcinoma cells in vitro.
+

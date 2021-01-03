@@ -1,0 +1,4 @@
+26357615
+2014 Mar
+Hepatocellular carcinoma is one of the leading causes of death by cancer worldwide. Prognosis of hepatocellular carcinoma is determined by characteristics of the tumor and the surrounding cirrhotic liver. Several molecular signatures reflecting tumor biology and derived from tumor analyses predict early tumor recurrence and survival. In contrast, molecular signatures from cirrhotic non-tumor samples are enriched in immunity/inflammation related genes and could predict late tumor recurrence. Moreover, combination of clinical, pathological, and molecular features may refine prognosis prediction in these patients. Finally, molecular signatures from both tumor and non-tumor tissues will be helpful in the future to guide treatments in different clinical settings.
+Cirrhosis; Hepatocellular carcinoma; Liver resection; Microarray; Molecular signature; Prognosis.

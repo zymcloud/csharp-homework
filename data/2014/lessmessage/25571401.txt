@@ -1,0 +1,4 @@
+25571401
+2014
+Ultrasound imaging is used extensively in diagnosis and image-guidance for interventions of human diseases. However, conventional 2D ultrasound suffers from limitations since it can only provide 2D images of 3-dimensional structures in the body. Thus, measurement of organ size is variable, and guidance of interventions is limited, as the physician is required to mentally reconstruct the 3-dimensional anatomy using 2D views. Over the past 20 years, a number of 3-dimensional ultrasound imaging approaches have been developed. We have developed an approach that is based on a mechanical mechanism to move any conventional ultrasound transducer while 2D images are collected rapidly and reconstructed into a 3D image. In this presentation, 3D ultrasound imaging approaches will be described for use in image-guided interventions.
+

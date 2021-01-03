@@ -1,0 +1,4 @@
+26097591
+2015 Apr 1
+To evaluate erythropoietin (Epo) and erythropoietin receptor (EpoR) expression, its relationship with vasculogenic mimicry (VM) and its prognostic value in human hepatocellular carcinoma (HCC), we examined Epo/EpoR expression and VM formation using immunohistochemistry and CD31/PAS (periodic acid-Schiff) double staining on 92 HCC specimens. The correlation between Epo/EpoR expression and VM formation was analyzed using two-tailed Chi-square test and Spearman correlation analysis. Survival curves were generated using Kaplan-Meier method. Multivariate analysis was performed using Cox regression model to assess the prognostic values. Results showed positive correlation between Epo/EpoR expression and VM formation (P
+Erythropoietin; erythropoietin receptor; hepatocellular carcinoma; prognosis; vasculogenic mimicry.

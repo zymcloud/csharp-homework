@@ -1,0 +1,4 @@
+29782647
+2018 Jun
+SAMHD1 inhibits Hepatitis B virus (HBV) replication by reducing the intracellular dNTP levels. However, how SAMHD1 phosphorylation is regulated to abrogate its restriction of HBV replication in hepatoma cells is poorly understood. Here, we show that HBV replication and SAMHD1 phosphorylation levels are significantly reduced by knocking down cyclin-dependent kinase (CDK) 2 expression or in the presence of a CDK2 inhibitor. SAMHD1 binds to CDK2 in hepatocarcinoma cells, and this interaction does not require the HBV core protein. Furthermore, cyclin E2 participates in regulating viral replication through the CDK2/SAMHD1 phosphorylation pathway in an HBV infection system. Collectively, our results provide evidence that CDK2 has a greater role in regulating SAMHD1 phosphorylation and HBV replication than CDK1 or CDK6.
+CDK2; SAMHD1; hepatitis B virus; phosphorylation.

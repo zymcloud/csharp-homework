@@ -1,0 +1,4 @@
+28849004
+2017 Oct
+Forkhead box protein M1 (FoxM1) is aberrantly expressed in several types of human malignancy, and serves an important role in tumor metastasis. Epithelial‑mesenchymal transition (EMT) of cancer cells has been associated cancer metastasis; however, the implication of FoxM1 in EMT and its putative roles in the regulation of cancer metastasis remain to be elucidated. In the present study, the expression of FoxM1, Snai1 and E‑cadherin in hepatocellular carcinoma (HCC) cell lines with various metastatic potentials, and in normal liver cells, was investigated using western blot analysis and reverse transcription‑quantitative polymerase chain reaction. The effects of FoxM1 on the invasive and migratory capabilities of HCC cells were evaluated using wound healing and Transwell migration assays. The present results demonstrated that FoxM1 expression was significantly upregulated in HCC cells compared with in normal hepatocytes (P
+

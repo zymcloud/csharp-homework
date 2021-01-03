@@ -1,0 +1,4 @@
+22086699
+Sep-Oct 2011
+Background/aims:The aim of this study was to investigate the effect of expression of siRNA β- catenin silent gene on cell cycle and apoptosis of different hepatoma cells.Methodology:The effect of the β-catenin-siRNA recombinant plasmid on the growth of different hepatoma cells was observed by MTT assays; and the effect of the recombinant plasmid on proliferation and apoptosis of different hepatoma cells was detected through flow cytometry.Results:Transfection of the β-catenin-siRNA recombinant plasmid into hepatoma cells significantly inhibited β-catenin expression at protein and mRNA levels (pConclusions:Inhibition of β-catenin in hepatoma cells can inhibit growth and promote apoptosis, and there was difference in the effect on proliferation and apoptosis between different hepatoma cells.
+

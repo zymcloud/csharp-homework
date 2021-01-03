@@ -1,0 +1,4 @@
+20112426
+2010 Apr
+Hepatocellular carcinoma (HCC) is a common cause of death from solid organ malignancy worldwide. Extracellular signal-regulated/mitogen-activated protein kinase kinase (MEK) signaling is a critical growth regulatory pathway in HCC. Targeting MEK with a novel small molecule inhibitor, PD0325901, may inhibit HCC tumorigenesis. PD0325901 (0.01-100 nM) inhibited growth and MEK activity in vitro in immortalized murine transforming growth factor alpha (TGF-alpha) transgenic hepatocyte (TAMH) cells, derived from the livers of TGF-alpha transgenic mice. Treatment of athymic mice bearing TAMH flank tumors with vehicle or PD0325901 (20 mg/kg) revealed a significant reduction of MEK activity ex vivo 24 hours after a single PD0325901 dose. The growth rate of TAMH flank tumors over 16 days was reduced threefold in the treatment arm (1113 +/- 269% versus 3077 +/- 483%, P
+

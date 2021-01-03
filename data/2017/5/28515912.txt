@@ -1,0 +1,4 @@
+28515912
+2017 May
+The long-term prognosis following resection of hepatocellular carcinoma (HCC) remains unsatisfactory as a result of a high incidence of recurrence. Prevention of recurrence is the most important strategy to improve the long-term survival results. The role of hepatectomy itself, as an accelerator of carcinogenesis, has not been adequately evaluated in HCC patients. Studies in animal models have revealed a link between liver regeneration under chronic inflammation and hepatic tumorigenesis. Inhibiting different signal transduction pathways during liver regeneration without compromising the ability of the liver to regenerate appears to be a rational strategy and may decrease HCC development and recurrence. If this hypothesis is proven using animal models, this strategy could be evaluated in future clinical trials in humans.
+hepatectomy; hepatocellular carcinoma; inflammation; signal transducer and activator of transcription 3; sorafenib.

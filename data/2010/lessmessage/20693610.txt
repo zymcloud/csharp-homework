@@ -1,0 +1,4 @@
+20693610
+2010
+High-throughput genomic technologies are increasingly being used to identify therapeutic targets and risk factors for specific diseases. Using 116 independent liver samples, we identified 793 probe sets that demonstrated a significant association in the frequency of absent calls as tissues progressed from normal to pre-neoplastic to neoplastic, followed by a bioinformatic approach which identified that 78.9% of the significant probe sets contained at least one CpG island in the gene promoter region compared with 58.9% of the remaining genes examined. Our results indicate that further high-throughput methylation studies to more fully characterize molecular events involved in hepatocarcinogenesis are warranted.
+

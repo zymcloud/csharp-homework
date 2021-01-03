@@ -1,0 +1,4 @@
+27259277
+2016 Jul 12
+Hepatocellular carcinoma (HCC) is the second leading cause of cancer-related death worldwide, and the mechanisms underlying the development of HCC remain to be elucidated. Forkhead box N3 (FOXN3) is an important member of the FOX family of transcription factors that plays an essential role in several cancers but has not been investigated in HCC. In this study, we demonstrate that FOXN3 is downregulated in human primary HCC tissues compared with their matched adjacent liver tissues. Functional tests of FOXN3 demonstrated that FOXN3 inhibits the proliferation of HCC cells in vitro and in vivo. Additionally, FOXN3 repressed the mRNA and protein expression of E2F5, a reported potential oncogene, by inhibiting the promoter activity of E2F5. Collectively, our findings indicate that FOXN3 functions as a tumor suppressor in HCC by downregulating the expression of E2F5.
+E2F5; FoxN3/CHES1; hepatocellular carcinoma.

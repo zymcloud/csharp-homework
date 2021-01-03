@@ -1,0 +1,4 @@
+30691162
+2019 Jan 26
+Glioblastoma is a highly lethal adult brain tumor with no effective treatments. In this review, we discuss the potential to target cholesterol metabolism as a new strategy for treating glioblastomas. Twenty percent of cholesterol in the body is in the brain, yet the brain is unique among organs in that it has no access to dietary cholesterol and must synthesize it de novo. This suggests that therapies targeting cholesterol synthesis in brain tumors might render their effects without compromising cell viability in other organs. We will describe cholesterol synthesis and homeostatic feedback pathways in normal brain and brain tumors, as well as various strategies for targeting these pathways for therapeutic intervention.
+blood–brain barrier; brain; cholesterol; glioblastoma; liver; liver X receptor (LXR); low-density lipoprotein receptor (LDLR); metabolism; sterol regulatory element binding protein (SREBP).

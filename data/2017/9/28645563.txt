@@ -1,0 +1,4 @@
+28645563
+2017 Sep 10
+Hepatocellular carcinoma (HCC) is known for high mortality and limited available treatments. Aberrant activation of the Wnt and Notch signaling pathways is critical to liver carcinogenesis and progression. Here, we identified a small molecule, bruceine D (BD), as a Notch inhibitor, using an RBP-Jκ-dependent luciferase-reporter system. BD significantly inhibited liver tumor growth and enhanced the therapeutic effects of sorafenib in various murine HCC models. Mechanistically, BD promotes proteasomal degradation of β-catenin and the depletion of its nuclear accumulation, which in turn disrupts the Wnt/β-catenin-dependent transcription of the Notch ligand Jagged1 in HCC. Our findings provide important information about a novel Wnt/Notch crosstalk inhibitor that is synergistic with sorafenib for treatment of HCC, and therefore have high clinical impact.
+BD; Hepatocellular carcinoma; Jagged1; Sorafenib; Wnt/Notch crosstalk; β-catenin.

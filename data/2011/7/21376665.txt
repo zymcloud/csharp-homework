@@ -1,0 +1,4 @@
+21376665
+2011 Jul
+Metabolism of glucose through the pentose phosphate pathway (PPP) influences the development of diverse pathologies. Hemolytic anemia due to deficiency of PPP enzyme glucose 6-phosphate dehydrogenase is the most common genetic disease in humans. Recently, inactivation of another PPP enzyme, transaldolase (TAL), has been implicated in male infertility and fatty liver progressing to steatohepatitis and cancer. Hepatocarcinogenesis was associated with activation of aldose reductase and redox-sensitive transcription factors and prevented by N-acetylcysteine. In this paper, we discuss how alternative formulations of the PPP with and without TAL reflect cell type-specific metabolic control of oxidative stress, a crucial source of inflammation and carcinogenesis. Ongoing studies of TAL deficiency will identify new molecular targets for diagnosis and treatment in clinical practice.
+

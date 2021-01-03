@@ -1,0 +1,4 @@
+28951673
+2017 Sep
+A series of new coumarin containing compounds were synthesized from 4-bromomethylcoumarin derivatives 2a, b and different heteroaromatic systems 4a-e, 6a-d, 8, 10via methylene thiolinker. Twenty-four compounds were screened biologically against two human tumor cell lines, breast carcinoma MCF-7 and hepatocellular carcinoma HePG-2, at the national cancer institute, Cairo, Egypt using 5-fluorouracil as standard drug. Compounds 5h, 7d, 7h, 9a, 13a and 13d showed strong activity against both MCF-7 and HepG-2 cell lines with being compound 13a is the most active with IC50 values of 5.5 µg/ml and 6.9 µg/ml respectively. Docking was performed with protein 1KE9 to study the binding mode of the designed compounds.
+Anticancer; Coumarin; Oxadiazole; Thiadiazole; Triazole.

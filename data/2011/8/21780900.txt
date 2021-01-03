@@ -1,0 +1,4 @@
+21780900
+2011 Aug
+Liver transplantation is a successful treatment for hepatocellular carcinoma (HCC). However, advanced stages are not selected for transplant, based on the United Network for Organ Sharing selection criteria's. Nowadays, molecular biology-based techniques constitute an excellent option to better understand HCC origin differentiation and biological behavior. Moreover, microarray technology is a powerful tool to address a variety of tumor tissues at molecular level and is actively used for the discovery of biomarkers in cancer research. This article will discuss published data in the field of HCC origin differentiation and its potential impact on outcomes following liver transplantation. Although preliminary results are presented, these findings encourage the use of gene-expression profiling microarrays for studying HCC biology and behavior and ultimately optimizing treatment success.
+

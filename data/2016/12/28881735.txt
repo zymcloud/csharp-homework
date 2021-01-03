@@ -1,0 +1,4 @@
+28881735
+2016 Dec 22
+The clinical value of SIRT1 in hepatocellular carcinoma (HCC) remains controversial. This meta-analysis was performed to investigate the prognostic and clinicopathological significance of the histone deacetylase SIRT1 in HCC. Pooled hazard ratios (HRs) for survival outcomes and pooled odds ratios (ORs) for clinical parameters associated with SIRT1 were calculated in nine studies using Review Manager. Meta-analysis showed that increased SIRT1 expression is associated with poor overall survival (OS) (HR=1.82, 95% confidence interval (CI): 1.49-2.22, P
+HCC; clinical value; hazard ratio; meta-analysis; prognosis.

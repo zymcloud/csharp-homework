@@ -1,0 +1,4 @@
+21951853
+2011 Oct 22
+Senescence marker protein 30 (SMP30)/regucalcin (RGN) is known to be related to aging, hepatocyte proliferation and tumorigenesis. However, expression and function of non-mammalian SMP30/RGN is poorly understood. We found that zebrafish SMP30/RGN mRNA expression decreases with aging, partial hepatectomy and thioacetamide-induced acute liver injury. SMP30/RGN expression was also greatly decreased in a zebrafish liver cell line. In addition, we induced liver tumors in adult zebrafish by administering diethylnitrosamine. Decreased expression was observed in foci, hepatocellular carcinomas, cholangiocellular carcinomas and mixed tumors as compared to the surrounding area. We thus showed the importance of SMP30/RGN in liver proliferation and tumorigenesis.
+

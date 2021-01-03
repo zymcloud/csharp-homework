@@ -1,0 +1,4 @@
+26530158
+2016 Jan
+Recently, chloroquine (CQ) has been widely used to improve the efficacy of different chemotherapy drugs to treat tumors. However, the effects of single treatment of CQ on liver cancer have not been investigated. In the present study, we examined the effects of CQ on the growth and viability of liver cancer cells in vitro and in vivo, and revealed that CQ treatment triggered G0/G1 cell cycle arrest, induced DNA damage and apoptosis in a dose- and time-dependent manner in liver cancer cells. Moreover, administration of CQ to tumor-bearing mice suppressed the tumor growth in an orthotopic xenograft model of liver cancer. These findings extend our understanding and suggest that CQ could be repositioned as a treatment option for liver cancer as a single treatment or in combination.
+

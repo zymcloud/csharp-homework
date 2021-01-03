@@ -1,0 +1,4 @@
+27766389
+2016 Dec
+Hepatocellular carcinoma is a lethal cancer with high recurrence ratio and lacks effective therapeutics. In the past few years, it has been reported that increased intake of vegetables and fruits could reduce the cancer incidence, which suggests dietary agents might possess anticancer effects. Eriocitrin is a flavonoid isolated from lemon, which is known as a strong antioxidant agent. We here for the first time demonstrated that eriocitrin could inhibit the proliferation of hepatocellular carcinoma cell lines by arresting cell cycle in S phase through up-regulation of p53, cyclin A, cyclin D3 and CDK6. Furthermore, we found that eriocitrin could trigger apoptosis by activating mitochondria-involved intrinsic signaling pathway. Thus, eriocitrin might be regarded as a potential chemopreventive natural product to inhibit the early malignant transformation of hepatocellular carcinoma.
+Apoptosis; Cell cycle arrest; Eriocitrin; Hepatocellular carcinoma.

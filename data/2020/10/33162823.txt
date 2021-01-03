@@ -1,0 +1,4 @@
+33162823
+2020 Oct 17
+Alcoholic liver disease (ALD) is the most prevalent type of chronic liver disease worldwide with a wide spectrum of liver pathologies ranging from simple steatosis to steatohepatitis, cirrhosis, and even hepatocellular carcinoma. It has been demonstrated that ALD is mediated in whole or in part by a central signaling molecule sirtuin 1 (SIRT1), a conserved class III histone deacetylase.SIRT1 plays beneficial roles in regulating hepatic lipid metabolism, inhibiting hepatic inflammation, controlling hepatic fibrosis and mediating hepatocellular carcinoma in ALD. However, underlying molecular mechanisms are complex and remain incompletely understood. The aim of this review was to highlight the latest advances in understanding of SIRT1 regulatory mechanisms in ALD and discuss their unique potential role as novel therapeutic target for ALD treatment.
+Alcoholic liver disease; Fibrosis; Hepatocellular carcinoma; Inflammation; SIRT1.

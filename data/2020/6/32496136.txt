@@ -1,0 +1,4 @@
+32496136
+2020 Jun 4
+Bioactivity-guided fractionation of the CHCl3-soluble extract of the roots of Paramignya trimera was carried out to obtain a new acridone alkaloid, paratrimerin I. Its structure was elucidated based on NMR spectroscopic data interpretation. Paratrimerin I showed noteworthy cytotoxicity against the HepG2 human hepatocellular and MCF-7 human breast carcinoma cell lines, with the submicromolar IC50 values of 0.43 and 0.26 µM, respectively. The N-methyl, C-4 methoxy, and C-5 hydroxy groups in the acridone skeleton can be proposed as a structural feature for good cytotoxicity.
+Paramignya trimera; acridone; alkaloid; cytotoxicity.

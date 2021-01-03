@@ -1,0 +1,4 @@
+27518624
+2016
+Metabolically competent, inexpensive, and robust in vitro cell models are needed for studying liver drug-metabolizing enzymes and hepatotoxicity. Human hepatoma HuH-7 cells develop into a differentiated in vitro model resembling primary human hepatocytes after a 2-week dimethyl sulfoxide (DMSO) treatment. DMSO-treated HuH-7 cells express elevated cytochrome P450 3A4 (CYP3A4) enzyme gene expression and activity compared to untreated HuH-7 cells. This cell model could be used to study CYP3A4 inhibition by reversible and time-dependent inhibitors, including drugs, food-related substances, and environmental chemicals. The DMSO-treated HuH-7 model is also a suitable tool for investigating hepatotoxicity. This chapter describes a detailed methodology for developing DMSO-treated HuH-7 cells, which are subsequently used for CYP3A4 inhibition and hepatotoxicity studies.
+CYP3A4; DMSO; Hepatotoxicity; HuH-7; Inhibition.

@@ -1,0 +1,4 @@
+24334461
+2013 Dec 11
+Purpose:To evaluate the diagnostic value of computed tomography perfusion (CTP) in the distinction of hepatocellular carcinomas (HCCs) from metastatic liver tumors.Materials and methods:CTP data from 90 liver tumors (HCC 38, metastasis 52) in 31 patients (16 men and 15 women; mean age 60.3 years) were studied. CTP was performed on a 16/64 multidetector-row CT scanner using a 30-s duration cine acquisition after rapid bolus injection (5-7 ml/s) of 50-70 ml of iodinated contrast medium. The CTP data were analyzed using a deconvolution model. Metastatic tumors were grouped into hypovascular (n = 36) and hypervascular (n = 16) tumors.Results and conclusion:The hypovascular metastases showed a significantly lower blood flow (BF) and blood volume (BV), and higher mean transit time (MTT) than HCC (all P
+

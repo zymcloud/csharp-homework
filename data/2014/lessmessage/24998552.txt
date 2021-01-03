@@ -1,0 +1,4 @@
+24998552
+2014
+Background:Glutathione S-transferase M1 (GSTM1) have been reported to be associated with hepatocellular carcinoma. However, the effect of the GSTM1 null genotype was divergent in the literature and we therefore performed the present meta-analysis to explore the relationship in detail.Materials and methods:Reported studies were searched from 1990 to March 1, 2014 in PubMed and Wanfang Med Online. The total odds oatio (OR) and 95% CI were calculated and analyzed by Review Manager 5.1 and STATE 12.Results:Total OR was calculated from 26 articles with 3,769 cases and 5,517 controls and the association proved significant (OR [95%CI]=1.50 [1.25, 1.80], PConclusions:The GSTM1 deletion polymorphism might not have a significant effect on the susceptibility of hepatocellular carcinoma overall.
+

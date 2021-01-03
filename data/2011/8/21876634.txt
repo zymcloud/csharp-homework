@@ -1,0 +1,4 @@
+21876634
+2011 Aug 7
+Aim:To investigate the relationship between late SV40 factor (LSF) and Notch signaling in the development and progress of hepatocellular carcinoma (HCC).Methods:Liver cancer tissue specimens from 25 patients were analyzed for Notch-1 and LSF expression by immunohistochemistry. The correlation between expression and the biological effects of Notch-1 and LSF were analyzed using genetic and pharmacological strategies in HCC cell lines and human normal cell lines, including hepatic stellate cells (HSC) and human embryonic kidney epithelial cells (HEK).Results:Immunohistochemistry showed that both Notch-1 and LSF were significantly upregulated in HCC samples (76%, 19/25, P Conclusion:LSF is a key mediator of the Notch signaling pathway, suggesting that it might be a novel therapeutic target for the treatment of HCC.
+Hepatocellular carcinoma; Late SV40 factor; Notch receptor; Signal transduction.

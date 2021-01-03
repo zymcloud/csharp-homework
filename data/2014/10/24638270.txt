@@ -1,0 +1,4 @@
+24638270
+2014 Oct
+Purpose:The aim of this work was to evaluate the clinical efficacy and safety of simultaneous integrated boost-intensity modulated radiation therapy (SIB-IMRT) in patients with inoperable hepatocellular carcinoma (HCC).Methods and materials:A total of 53 patients with inoperable HCC underwent SIB-IMRT using two dose-fractionation schemes, depending on the proximity of gastrointestinal structures. The 41 patients in the low dose-fractionation (LD) group, with internal target volume (ITV) Results:Overall, treatment was well tolerated, with no grade > 3 toxicity. The LD group had larger sized tumors (median: 6 vs. 3.4 cm) and greater frequencies of vascular invasion (80.6 vs. 16.7 %) than patients in the HD group (p Conclusion:SIB-IMRT is feasible and safe for patients with inoperable HCC.
+

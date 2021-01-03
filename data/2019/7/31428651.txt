@@ -1,0 +1,4 @@
+31428651
+2019 Jul 25
+Background:Numerous studies have shown that hepatocellular carcinoma (HCC) without microvascular invasion (MVI) may have better outcomes. This study established a preoperative MVI risk nomogram mainly incorporating three related risk factors of MVI in BCLC 0/A HCC after surgery.Methods:Independent predictors for the risk of MVI were investigated, and an MVI risk nomogram was established based on 60 patients in the training group who underwent curative hepatectomy for BCLC 0/A HCC and validated using a dataset in the validation group.Results:Univariate analysis in the training group showed that hepatitis viral B (HBV) DNA (P=0.034), tumor size (PConclusions:The proposed nomogram consisting of tumor size, CT value in the delayed phase, and peritumoral enhancement was associated with MVI risk in BCLC 0/A HCC following curative hepatectomy.
+

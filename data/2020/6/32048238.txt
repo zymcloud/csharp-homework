@@ -1,0 +1,4 @@
+32048238
+2020 Jun
+Background and objective:Experience of the use of lenvatinib (LEN) in the clinical setting remains limited. We conducted this study to elucidate the factors associated with progression-free survival (PFS) in patients with advanced HCC treated with LEN.Methods:In this multicenter retrospective study, we analyzed data on patient characteristics, treatment outcomes, and adverse events (AEs) for 77 patients with advanced hepatocellular carcinoma (HCC). We also analyzed PFS and factors that influence PFS.Results:The response rate to LEN was 29.9% and the disease control rate was 77.9%. Patients who achieved relative dose intensities of more than 70% had better outcomes (response rate 45.2% vs. 11.4%, P Conclusions:Thyroid dysfunction and appetite loss after the administration of LEN were independent factors associated with shorter PFS, so these AEs should be carefully managed after administering LEN.
+

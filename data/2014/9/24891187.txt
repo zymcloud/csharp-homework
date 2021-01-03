@@ -1,0 +1,4 @@
+24891187
+2014 Sep
+Non-small cell lung cancer (NSCLC) is one of the most common causes of cancer-related death worldwide. MicroRNAs (miRNAs) play critical roles in the development and progression of NSCLC. miR-195 acts as a tumor suppressor in several cancers, however, its role in NSCLC is not well understood. Herein, we found that miR-195 was significantly decreased in both NSCLC tissues and cell lines. Forced expression of miR-195 significantly suppressed proliferation, migration, and invasion of NSCLC cells. Hepatoma-derived growth factor (HDGF) was identified as a target of miR-195 in NSCLC cells. Overexpression of HDGF dramatically abolished the tumor suppressive role of miR-195 in NSCLC cells. Our results demonstrated a tumor suppressive role of miR-195 in NSCLC, and suggested a potential therapeutic target for NSCLC.
+

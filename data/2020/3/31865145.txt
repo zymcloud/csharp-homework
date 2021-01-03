@@ -1,0 +1,4 @@
+31865145
+2020 Mar
+SOX2OT is a long non-coding RNA that is highly expressed in embryonic stem cells. The SOX2OT gene is comprised of 10 exons and more than two transcription start sites. Dysregulation of SOX2OT is observed in various tumors, including lung cancer, gastric cancer, esophageal cancer, breast cancer, hepatocellular carcinoma, ovarian cancer, pancreatic ductal adenocarcinoma, laryngeal squamous cell carcinoma, cholangiocarcinoma, osteosarcoma, nasopharyngeal carcinoma, and glioblastoma, wherein it typically functions as an oncogene and possibly as a tumor suppressor gene. The mechanisms underlying the effects of SOX2OT are complex and involve multiple factors and signaling pathways. In this review, we describe the current evidence regarding the role and potential clinical utility of SOX2OT in human cancers.
+Diagnostic biomarker; Long non-coding RNA; SOX2OT; Therapeutic target.

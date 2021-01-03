@@ -1,0 +1,4 @@
+23559534
+2013 Jul
+Liver cancer is a leading cause of cancer death. Most patients are treated by arterial injection of chemoembolizing agents, providing a convenient avenue for local treatment by novel therapies, including gene therapy. Poly(beta-amino ester)s (PBAEs) were synthesized and used to form nanoparticles for non-viral transfection of buffalo rat hepatoma (MCA-RH7777) and hepatocyte (BRL-3A) lines with eGFP and luciferase DNA. Hepatoma cells were transfected with up to (98 ± 0.4)% efficacy with no measurable cytotoxicity. Hepatocytes were transfected with as high as (73 ± 0.4)% efficacy with (10 ± 4)% non-specific cytotoxicity. In contrast, positive controls (branched polyethylenimine, Lipofectamine™ 2000, and X-tremeGENE(®) DNA HP) caused 30-90% toxicity in BRL-3A cells at doses required for >50% transfection. Of the 21 optimized PBAE-DNA formulations tested, 12 showed significant specificity for hepatoma cells over hepatocytes in monoculture (p
+

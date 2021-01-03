@@ -1,0 +1,4 @@
+22977303
+2012
+The main obstacles for cationic polyplexes in gene delivery are in vivo instability and low solid-tumor accumulation. Safe vectors with high transfection efficiency and in vivo tumor accumulation are therefore highly desirable. In this study, the amphiphilic block copolymer poly(n-butyl methacrylate)-b-poly(N-acryloylmorpholine) was synthesized by reversible addition-fragmentation chain-transfer (RAFT) radical polymerization. The corresponding well-defined vesicles with narrow size distribution were tailored by finely regulating the packing parameter (β) of copolymer (1/2
+block copolymer; gene transfection; intra-tumor accumulation; nano vesicle; serum stability.

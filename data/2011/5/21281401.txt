@@ -1,0 +1,4 @@
+21281401
+2011 May
+Glypican-3 (GPC3) is an onco-fetal antigen that is overexpressed in human hepatocellular carcinoma (HCC), and is only expressed in the placenta and embryonic liver among normal tissues. Previously, we identified an HLA-A2-restricted GPC3(144-152) (FVGEFFTDV) peptide that can induce GPC3-reactive CTLs without inducing autoimmunity in HLA-A2 transgenic mice. In this study, we carried out a phase I clinical trial of HLA-A2-restricted GPC3(144-152) peptide vaccine in 14 patients with advanced HCC. Immunological responses were analyzed by ex vivo γ-interferon enzyme-linked immunospot assay. The frequency of GPC3(144-152) peptide-specific CTLs after vaccination (mean, 96; range, 5-441) was significantly larger than that before vaccination (mean, 6.5; range, 0-43) (P
+

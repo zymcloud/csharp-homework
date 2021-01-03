@@ -1,0 +1,4 @@
+31115237
+2019 May 1
+Background:Hepatocellular carcinoma (HCC) is the most common primary liver cancer and accounts for over 90% of all primary liver cancers. Increasing evidence suggests that microRNAs (miRNAs) mediate signaling pathways by gene expression regulation.Methods:In this study, we evaluated the role of miR-29a-3p in HCC progression. MiR-29a-3p was found significantly down-regulated in HCC tissues compared to adjacent non-tumor tissues. Meantime, PTEN expression was up-regulated in HCC tissues. Moreover, NF-κB activity was decreased following PTEN up-regulation.Results:In vitro assays in the HCC cell line BEL7402 demonstrated that miR-29a-3p suppresses cell proliferation.Conclusions:miR-29a-3p participates in the HCC progression by regulation of NF-κB pathway via targeting PTEN.
+

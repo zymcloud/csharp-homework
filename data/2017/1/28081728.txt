@@ -1,0 +1,4 @@
+28081728
+2017 Jan 2
+Aristaless-like homeobox-4 (ALX4), a member of the Aristaless-like homeobox family, has been found to be involved in tumor cell proliferation, migration, and invasion. However, the role of ALX4 in hepatocellular carcinoma (HCC) remains largely unclear. Therefore, in this study we investigated the effects of ALX4 on HCC. The study results indicated that the expression of ALX4 was downregulated in HCC tissues and cell lines. Furthermore, we demonstrated that overexpression of ALX4 inhibited the proliferation, invasion, and epithelial-mesenchymal transition (EMT) in HCC cells. We also found that ALX4 had an inhibitory effect on the sonic hedgehog (Shh) signaling pathway. Taken together, the results suggest that ALX4 may be a promising target for HCC treatment.
+

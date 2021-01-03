@@ -1,0 +1,4 @@
+25345948
+2014 Oct
+Objective:To investigate the expression of miR-126/miR-126* in hepatocellular carcinoma (HCC) tissues and its clinical significance.Methods:The expressions of miR-126/miR-126* in the tumor tissues and non-cancer tissues from 74 HCC cases were detected using real-time quantitative PCR. The correlation between miR-126/miR-126* expression and the clinicopathological features of the patients was analyzed.Results:Compared with the non-cancer tissues, HCC tissues showed significantly lowered expression levels of miR-126/miR-126*. A positive correlation was found between the expressions of miR-126 and miR-126* in the tumor tissues. Lower expressions of miR-126/miR-126* were significantly correlated with tumor recurrence and poor survival of the HCC patients.Conclusion:The down-regulation of miR-126/miR-126* may play an important role in HCC metastasis and contributes to poor survival of HCC patients.
+

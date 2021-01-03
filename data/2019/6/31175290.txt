@@ -1,0 +1,4 @@
+31175290
+2019 Jun 7
+Metastasis-associated recurrence is the major cause of poor prognosis in hepatocellular carcinoma (HCC), however, the underlying mechanisms remain largely elusive. In this study, we report that expression of choroideremia-like (CHML) is increased in HCC, associated with poor survival, early recurrence and more satellite nodules in HCC patients. CHML promotes migration, invasion and metastasis of HCC cells, in a Rab14-dependent manner. Mechanism study reveals that CHML facilitates constant recycling of Rab14 by escorting Rab14 to the membrane. Furthermore, we identify several metastasis regulators as cargoes carried by Rab14-positive vesicles, including Mucin13 and CD44, which may contribute to metastasis-promoting effects of CHML. Altogether, our data establish CHML as a potential promoter of HCC metastasis, and the CHML-Rab14 axis may be a promising therapeutic target for HCC.
+

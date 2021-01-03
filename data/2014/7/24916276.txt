@@ -1,0 +1,4 @@
+24916276
+2014 Jul
+Hypoxia-inducible factor-1 (HIF-1) is a key heterodimeric transcription factor for the cellular adaptive response to hypoxia, a common feature of the microenvironment in solid tumors. The transcriptional activity, protein stabilization, protein-protein interactions and cellular localization of HIF-1α, an oxygen-sensitive subunit of HIF-1, are mainly modulated by various post-translational modifications. Recently, we reported that polycomb chromobox 4 (Cbx4) governs the transcriptional activity of HIF-1α by enhancing its sumoylation at K391 and K477, through which Cbx4 potentiates angiogenesis of hepatocellular carcinoma. This review summarizes the current knowledge of HIF-1α sumoylation and its roles in the pathogenesis of cancer.
+

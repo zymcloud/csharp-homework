@@ -1,0 +1,4 @@
+21459134
+2011 Jul
+The effects of neriifolin, a cardiac glycoside from Cerbera manghas L. on various end-points of oncologic relevance (cell growth, cell cycle regulation, and apoptosis in HepG2 cells) were investigated. Neriifolin reduced viability of HepG2 cells, induced S and G2/M phase arrests of the cell cycle, and stimulated apoptosis of HepG2 cells. Stimulation of HepG2 cells with neriifolin induced activation of caspase-3, -8, and -9, and up-regulated expression of Fas and FasL proteins. Based on these results, neriifolin could be considered a candidate for the treatment of hepatocellular carcinoma.
+

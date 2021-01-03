@@ -1,0 +1,4 @@
+24967750
+2014 Nov 15
+An electronically active and spectral sensitive fluorescent "turn-on" chemosensor (BTP-1) based on the benzo-thiazolo-pyrimidine unit was designed and synthesized for the highly selective and sensitive detection of Fe(3+) from aqueous medium. With Fe(3+), the sensor BTP-1 showed a remarkable fluorescence enhancement at 554 nm (λex = 314 nm) due to the inhibition of photo-induced electron transfer. The sensor formed a host-guest complex in 1:1 stoichiometry with the detection limit down to 0.74 nM. Further, the sensor was successfully utilized for the qualitative and quantitative intracellular detection of Fe(3+) in two liver cell lines i.e., HepG2 cells (human hepatocellular liver carcinoma cell line) and HL-7701 cells (human normal liver cell line) by a confocal imaging technique.
+Benzo-thiazolo-pyrimidine; Fe(3+); Fluorescent “turn-on” sensor; ICT; Live cells imaging.; PET.

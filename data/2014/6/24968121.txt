@@ -1,0 +1,4 @@
+24968121
+2014 Jun 26
+Background:Recently, more and more studies investigated the association of inflammation parameters such as the Platelet Lymphocyte Ratio (PLR) and the prognosis of various cancers. However, the prognostic role of PLR in cancer remains controversial.Methods:We conducted a meta-analysis of published studies to evaluate the prognostic value of PLR in various cancers. In order to investigate the association between PLR and overall survival (OS), the hazard ratio (HR) and its 95% confidence interval (CI) were calculated.Results:A total of 13,964 patients from 26 studies were included in the analysis. The summary results showed that elevated PLR was a negative predictor for OS with HR of 1.60 (95%CI: 1.35-1.90; Pheterogeneity Conclusion:The meta-analysis demonstrated that PLR could act as a significant biomarker in the prognosis of various cancers.
+

@@ -1,0 +1,4 @@
+22132374
+2011
+Statins are inhibitors of 3-hydroxy-3-methylglutaryl-CoA reductase (HMGR), the key enzyme of the sterol biosynthesis pathway. Statin therapy is commonly regarded as well tolerated. However, serious adverse effects have also been reported, especially during high-dose statin therapy. The aim of our study was to investigate the effect of statins on gene expression profiles in human hepatoma HepG2 cells using Affymetrix Human Genome U133 Plus 2.0 arrays. Expression of 102, 857 and 1091 genes was changed substantially in HepG2 cells treated with simvastatin, fluvastatin and atorvastatin, respectively. Pathway and gene ontology analysis showed that many of the genes with changed expression levels were involved in a broad range of metabolic processes. The presented data clearly indicate substantial differences between the tested statins.
+

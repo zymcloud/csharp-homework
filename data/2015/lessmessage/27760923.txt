@@ -1,0 +1,4 @@
+27760923
+2015
+Chronic hepatitis C virus (HCV) infection is a major threat to global public health, because it is significantly correlated with the development of severe liver diseases including cirrhosis and hepatocellular carcinomas. Host molecules as well as viral factors are promising targets for anti-HCV preventive and therapeutic strategies. Multiple host factors such as CD81, SRBI, claudin-1, and occludin are involved in HCV entry into hepatocytes. In this paper, I first introduce our anti-HCV strategy targeting for host tight junction protein claudin-1. And this review also summarizes developments of other entry inhibitors to prevent initiation of HCV infection and spread. Entry inhibitors might be useful in blocking primary infections, such those as after liver transplantation, and in combination therapies with other anti-HCV agents such as direct-acting antivirals.
+

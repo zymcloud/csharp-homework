@@ -1,0 +1,4 @@
+27191260
+2016 Jun 21
+HEY2, a bHLH transcription factor, has been implicated in the progression of human cancers. Here, we showed that HEY2 expression was markedly increased in HCC, compared with the adjacent nontumorous tissues. High HEY2 expression was closely correlated with tumor multiplicity, tumor differentiation and TNM stage. Kaplan-Meier analyses revealed that HEY2 expression was significantly associated with poor overall and disease-free survival in a training cohort of 361 patients with HCC. The prognostic implication of HEY2 was validated in another cohort of 169 HCC patients. Multivariate Cox regression model indicated HEY2 as an independent factor for overall survival in HCC (Hazard ratio = 1.645, 95% confident interval: 1.309-2.067, P
+HEY2; cell growth; hepatocellular carcinoma; miR-137; prognosis.

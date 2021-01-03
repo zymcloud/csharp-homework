@@ -1,0 +1,4 @@
+22525471
+2012
+Patients with hepatocellular carcinoma (HCC) complicated by portal vein tumor thrombus (PVTT) have an extremely poor prognosis. It is important to select adequate therapeutic options based on reliable prognostic factors using imaging studies and clinical data. Prognostic factors were analyzed in patients with HCC with PVTT in the first branch or main trunk of the portal vein. From 2000 to 2007, 107 consecutive patients with HCC with PVTT in the major portal vein were reviewed, and diagnostic images and clinical characteristics were retrospectively observed. Thirty-eight possible prognostic factors for survival were analyzed by the log-rank test and multivariate analysis using Cox's proportional hazards model. Median overall survival was 14 months following PVTT diagnosis. Survival rates at 6 months, 1, 2, and 3 years were 72.1%, 52.6%, 32.6%, and 29.6%, respectively. Independent prognostic factors for longer survival included:patient age
+

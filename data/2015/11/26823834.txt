@@ -1,0 +1,4 @@
+26823834
+2015 Nov 1
+Our previous study has demonstrated that RNF43 could regulate the cell cycle in a p53-dependent manner in HCC. In this study, we aimed to access whether RNF43 could interact with cell cycle proteins involved in p53 pathway, including pRB, Cyclin D1 and MDM2. Totally, 123 paired HCC tissues and corresponding noncancerous tissues from HCC patients were included, and the expression of Cyclin D1, pRB and MDM2 was analyzed using tissue microarray. Our results showed the expression level of RNF43 in HCC was positively correlated with that of MDM2, Cyclin D1 and pRB-S780. There was no significant correlation between the expression of RNF43 and pRB-S807/S811. Indicating that RNF43 effected cell cycling by regulating the expression of pRB, Cyclin D1 and MDM2 proteins, and pRB-S780 but not pRB-S807/S811, was participated in RNF43 regulated cell cycling.
+HCC; RNF43; cell cycling; p53; tissue microarray.

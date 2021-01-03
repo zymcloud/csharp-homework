@@ -1,0 +1,4 @@
+28858692
+2017 Aug
+Hepatitis viruses cause chronic liver diseases such as fibrosis, cirrhosis and hepatocellular carcinomas that are difficult to treat and constitute a global health problem. Species-specific viral tropism has limited the usefulness of small animal models to study the impact of viral hepatitis. Immunodeficient mice grafted with human hepatocytes are susceptible to hepatitis viruses B, C, D and E (HBV, HCV, HDV and HEV), developing full viral life cycles, and delivering a means to investigate virus-host interactions and antiviral treatments. These chimeric humanized mouse models have been further grafted with humanized immune systems to decipher immune responses following hepatotropic viral infections, the ensuing pathophysiology, and to test novel therapeutic strategies.
+

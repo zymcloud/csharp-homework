@@ -1,0 +1,4 @@
+30839396
+2019 Jan
+Background:To assess long-term prognoses of patients with solitary hepatocellular carcinoma (HCC) Methods:We retrospectively enrolled 271 patients with BCLC stage 0 HCC who had undergone RFA at Taipei Veterans General Hospital from 2002 to 2016. Factors determining poor overall survival (OS) and recurrence after RFA were analyzed by Cox proportional hazards model.Results:After a median follow-up duration of 43.4 months, 76 patients had died. The cumulative 5- and 10-year OS rates were 67.1% and 56.4%, respectively. Multivariate analysis disclosed age > 65 years (hazard ratio [HR] 1.608, 95% confidence interval, [CI] 1.015-2.545; p = 0.043), platelet count Conclusion:For patients with BCLC stage 0 HCC, RFA could provide a long-term outcome with a 10-year overall survival rate of 56.4%. Moreover, the ALBI grade can discriminate prognosis in such patients.
+

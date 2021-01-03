@@ -1,0 +1,4 @@
+22525504
+2011 Dec
+Objective:To identify the role of p38 MAPK- NF-kB signaling pathway in TNF-α induced IL-8 production in human hepatocellular carcinoma cells.Methods:The concentrations of IL-8 from MHCC-97H cells were measured by an enzyme-linked immunosorbent assay (ELISA). The phosphorylation of p38 MAPK was analyzed by Western blot and immunofluorescence. NF-kB p65 protein nuclear translocation was determined by non-radioactive NF-kB p50 / p65 transcription factor activity kit and immunofluorescence.Results:The IL-8 production from MHCC-97H cells challenged with TNFa significantly increased in a time-dependent (F = 144.04, P Conclusion:TNF-α could increase the production of IL-8 in MHCC-97H cells and p38 MAPK- NF-kB pathways seem to play a central role in the regulation of IL-8 production.
+

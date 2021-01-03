@@ -1,0 +1,4 @@
+29857822
+2018 Jun
+Optogenetics is a new and emerging field that involves techniques of optics and genetic engineering to influence cellular functionality. In this work, we have successfully incorporated a non-selective cationic channel channelrhodopsin-2 (ChR2) into human hepatocellular carcinoma (HepG2) cells. A plasmid construct AAV-CAG-ChR2-GFP was used for liposomal transfection into the cells. ChR2 is a light sensitive membrane channel that opens upon illumination with blue light. Plasmid DNA isolation from E. coli XL 10 gold bacteria by alkaline lysis method resulted in a DNA concentration of 1150 μg/mL. A significant difference (p
+Channelrhodopsin-2; HepG2; Optogenetics; Plasmid; Transfection.

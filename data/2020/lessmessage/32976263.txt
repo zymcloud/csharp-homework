@@ -1,0 +1,4 @@
+32976263
+Nov/Dec 2020
+Objective:The aim of the study was to evaluate the performance of texture analysis for discriminating the histopathological grade of hepatocellular carcinoma (HCC) on magnetic resonance imaging.Methods:Preoperative magnetic resonance imaging data from 101 patients with HCC, including T2-weighted imaging, arterial phase, and apparent diffusion coefficient mapping, were analyzed using texture analysis software (TexRAD). Differences among the histological groups were analyzed using the Mann-Whitney U test. The performance of texture features was evaluated using receiver operating characteristic analysis.Results:Entropy was the most significantly relevant texture feature for distinguishing each histological grade group of HCC (P Conclusions:Magnetic resonance imaging texture analysis demonstrated potential for predicting the histopathological grade of HCCs.
+

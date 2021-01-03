@@ -1,0 +1,4 @@
+20602420
+2010 Oct 8
+In this report, we developed a simple and green process of simultaneous formation of doxorubicin-BSA-dextran nanoparticles in aqueous solution and high-effective encapsulation of doxorubicin. In the presence of BSA-dextran conjugates, which were produced by Maillard reaction, a binding of doxorubicin with BSA can suppress the self-aggregation of unprotonated doxorubicin. After a heat treatment, the gelation of BSA results in a formation of the nanoparticles and the doxorubicin was fixed inside the nanoparticles. The dextran shell makes the nanoparticles dispersible in solution. The nanoparticles have a spherical morphology and a hydrodynamic radius of about 90 nm. Importantly, the nanoparticles can significantly prolong the life of murine ascites hepatoma H22 tumor-bearing mice.
+

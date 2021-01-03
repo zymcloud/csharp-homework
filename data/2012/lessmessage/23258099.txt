@@ -1,0 +1,4 @@
+23258099
+2012
+We have developed a novel insertion method, a non-trocar technique (NTT), for laparoscopic radiofrequency ablation, whereby an ablation needle, guided by a 14.8-mm echo probe (PVM-787LA; Toshiba, Tokyo, Japan), accurately and easily punctures the target tumor in the liver. By existing methods, an ablation needle is inserted into the abdominal cavity through a puncture hole away from the echo probe because of the presence of a 15-mm trocar. Under such circumstances, fitting and sliding an ablation needle along the groove of the probe into the abdominal cavity is difficult because of the longitudinal dissociation between the needle and the probe. To avoid this dissociation, an echo probe is inserted directly through the small incision from which the 12-mm trocar is withdrawn and an ablation needle is introduced directly into the abdominal cavity through a puncture hole adjacent to and slid along the groove of the probe.
+

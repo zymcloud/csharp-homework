@@ -1,0 +1,4 @@
+32651603
+2020 Nov
+Background:This study aimed to evaluate the impact of the age-adjusted Charlson comorbidity index (ACCI) on outcomes after hepatic resection for hepatocellular carcinoma (HCC).Methods:We assessed 763 patients who underwent hepatic resection for HCC. The ACCI scores were categorized as follows: ACCI ≤ 5, ACCI = 6, and ACCI ≥ 7.Results:A multivariate analysis showed that the odds ratios for postoperative complications in ACCI = 6 and ACCI ≥ 7 groups, with reference to ACCI ≤ 5 group, were 0.71 (p = 0.41) and 4.15 (p Conclusions:The ACCI predicted the short-term and long-term outcomes after hepatic resection of HCC. These findings will help physicians establish a treatment strategy for HCC patients with comorbidities.
+

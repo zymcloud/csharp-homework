@@ -1,0 +1,4 @@
+20380799
+2010 Mar
+Objective:To investigate the effects of PHI on histone acetylation and methylation in hepatocellular carcinoma line SMMC-7721 cells.Methods:Apoptosis was measured by TUNNEL assay. Histone methylation and acetylation were detected by Western blot.Results:PHI inhibited cells growth and induced apoptosis. PHI treatment resulted in increased acetylation of histone H3 and H4 , elevated level of histone H3 lysine 4 methylation, and decreased level of histone H3 lysine 9 methylation.Conclusions:PHI can modulate both histone acetylation and methylation, which could remodel chromatin structure. PHI may be a novel anticancer drug.
+

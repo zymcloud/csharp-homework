@@ -1,0 +1,4 @@
+24642660
+2014
+MicroRNAs regulate gene expression by binding to the 3'-untranslated region (UTR) of target messenger RNAs (mRNAs). The importance of microRNAs has been shown for several liver diseases, for example, viral hepatitis. MicroRNA-122 is highly abundant in the liver and is involved in the regulation of lipid metabolism. MicroRNA-122 is also an important host factor for the HCV and promotes HCV replication. In contrast to HCV, microRNA-122 inhibits replication of the HBV. MicroRNA-122 acts as a tumour suppressor and reduced levels of microRNA-122 are associated with hepatocellular carcinoma. MicroRNAs other than microRNA-122 have been linked to viral hepatitis, fibrosis and inflammation. In this review, we discuss function and clinical implications of microRNA-122 and other microRNAs in liver diseases, especially viral hepatitis.
+

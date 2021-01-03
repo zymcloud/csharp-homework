@@ -1,0 +1,4 @@
+29456110
+2018 Mar 1
+Two new photoactive compounds (1 and 2) derived from the 9-amidoacridine chromophore have been synthesized and fully characterized. Their abilities to produce singlet oxygen upon irradiation have been compared. The synthesized compounds show very different self-aggregating properties since only 1 present a strong tendency to aggregate in water. Biological assays were conducted with two cell types: hepatoma cells (Hep3B) and human umbilical vein endothelial cells (HUVEC). Photodynamic therapy (PDT) studies carried out with Hep3B cells showed that non-aggregating compound 2 showed photoxicity, ascribed to the production of singlet oxygen, being aggregating compound 1 photochemically inactive. On the other hand suspensions of 1, characterized as nano-sized aggregates, have notable antiproliferative activity towards this cell line in the dark.
+9-Amidoacridine; Organic nanoparticles; Photodynamic therapy; Self-aggregation; Singlet oxygen.

@@ -1,0 +1,4 @@
+29316508
+2018 Apr
+In this study, a series of novel naphthalimide-polyamine conjugates modified by alkylation at the terminal of the polyamine chain were synthesized. These novel conjugates were evaluated for their anti-cancer activities. The results revealed that the length of the polyamine chain and the terminal alkyl group had influences on anticancer activities. Compound 3g was chosen to further study the anti-cancer mechanism and evaluate the anti-tumor efficacy in vivo. It induced intrinsic apoptosis and suppressed migration of hepatoma cells. The preliminary studies of compound 3gin vivo showed that it might be a promising candidate for cancer therapy.
+Alkylation; Apoptosis; Metastasis; Naphthalimide-polyamine conjugates; P53 pathway.

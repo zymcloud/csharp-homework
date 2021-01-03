@@ -1,0 +1,4 @@
+21683248
+2011
+In the classical form of alpha-1-antitrypsin (AT) deficiency, a mutant protein accumulates in the endoplasmic reticulum of liver cells, causing hepatic fibrosis and hepatocellular carcinoma by a gain-of-toxic function mechanism. Autophagy is specifically activated by the accumulation of mutant AT, and the autophagy plays a key role in intracellular degradation of this mutant protein. Our recent study indicates that an autophagy enhancer drug can decrease the hepatic load of mutant AT and reduce hepatic fibrosis in a mouse model of AT deficiency. In this chapter, we discuss what is known about autophagy in AT deficiency and methods for characterizing autophagy in cell lines and animal models.
+

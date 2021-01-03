@@ -1,0 +1,4 @@
+25145640
+2015 Mar
+Ornithine aminotransferase (OAT) and γ-aminobutyric acid aminotransferase (GABA-AT) are classified under the same evolutionary subgroup and share a large portion of structural, functional, and mechanistic features. Therefore, it is not surprising that many molecules that bind to GABA-AT also bind well to OAT. Unlike GABA-AT, OAT had not been viewed as a potential therapeutic target until recently; consequently, the number of therapeutically viable molecules that target OAT is very limited. In this review the two enzymes are compared with respect to their active-site structures, catalytic and inactivation mechanisms, and selective inhibitors. Insight is offered that could aid in the design and development of new selective inhibitors of OAT for the treatment of cancer.
+gamma-aminobutyric acid aminotransferase (GABA-AT); hepatocellular carcinoma (HCC); irreversible enzyme inhibition; ornithine aminotransferase (OAT).

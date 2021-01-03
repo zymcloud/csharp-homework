@@ -1,0 +1,4 @@
+21829024
+2011
+Objective:The purpose of this study was to evaluate the role of des-γ-carboxyprothrombin (DCP) as a marker for the efficacy of sorafenib therapy for hepatocellular carcinoma (HCC).Methods:Patients with advanced HCC treated with sorafenib were retrospectively evaluated, focusing on DCP levels and clinical characteristics.Results:50 patients with advanced HCC were treated with sorafenib alone. In 25 of these patients, the serum levels of DCP were evaluated twice (pretreatment and within 2 weeks after starting therapy). The time to progression was significantly longer in patients in whom the DCP level at 2 weeks after starting sorafenib was ≥2-fold higher than the pretreatment levels, as compared with patients without an increase in DCP (p = 0.0296).Conclusions:The serum level of DCP is a surrogate marker for tissue hypoxia and can be a predictive marker to assess the tumor response to sorafenib therapy.
+

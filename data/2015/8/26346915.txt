@@ -1,0 +1,4 @@
+26346915
+2015 Aug 26
+We present a method of enhanced laser thermal ablation of HepG2 cells based on a simple gold nanoparticle (GNP) carrier system such as serum albumin (Alb), and demonstrate its selective therapeutic efficacy compared with normal hepatocyte cells. HepG2 or hepatocytes were treated with Alb-GNPs at various concentrations and various incubation times, and further irradiated using a 2 W, 808 nm laser. Darkfield microscopy and immunochemical staining was used to demonstrate the selective internalization of Alb-GNPs inside the HepG2 cells via Gp60 receptors targeting. The postirradiation apoptotic rate of HepG2 cells treated with Alb-GNPs ranged from 25.8% (for 5 μg/mL) to 48.2% (for 50 μg/mL) at 60 seconds, while at 30 minutes the necrotic rate increased from 35.7% (5 μg/mL) to 52.3% (50 μg/mL), P-value
+HepG2 cells; albumin; functionalization; gold nanoparticles; laser irradiation; liver cancer.

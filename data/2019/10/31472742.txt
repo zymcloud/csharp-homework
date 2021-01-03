@@ -1,0 +1,4 @@
+31472742
+2019 Oct
+Recent research into the efficacy of radioembolization has brought this field to an interesting position, in which fluorodeoxyglucose (FDG)-PET/CT is being used extensively for prognosis and response assessment, as well as a tool to define viable tumor volumes for the use in dosimetry. As such, there is an overlap with existing techniques used in radiotherapy; however, many are very specific to the radioembolization paradigm. This article describes the current state-of-the-art of the use of FDG-PET/CT for patient selection, prognosis, treatment evaluation, and as a research tool into absorbed dose-response relationships in radioembolization.
+Dose–response; FDG-PET; Metabolic response assessment; Radioembolization.

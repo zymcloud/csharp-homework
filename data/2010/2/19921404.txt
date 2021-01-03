@@ -1,0 +1,4 @@
+19921404
+2010 Feb
+This study aims to determine the sensitivity, specificity and accuracy of epidermal growth factor receptor monoclonal antibody (EGFRmAb) modified poly(lactic acid-co-l-lysine) nanoparticles (PLA-PLL-EGFRmAb) NPs delivery system to EGFR positive cancer cells. In the study, a new PLA-PLL-EGFRmAb NPs was prepared. The cellular cytotoxicity, cellular uptake, and the targeted effect for hepatocellular carcinoma of PLA-PLL-EGFRmAb NPs were investigated. In vitro, the findings of Flow cytometry and Confocal Laser scanning Biological Microscopy showed that PLA-PLL-EGFRmAb NPs can bind to hepatocellular carcinoma cells and were uptaken effectively. In vivo in the SMMC-7721 xenograft mouse model, PLA-PLL-EGFRmAb NPs could target to the tumor effectively, which demonstrated a better targeting. These results showed that the PLA-PLL-EGFRmAb NPs have the potential to be used as a target delivery carrier for tumor therapies.
+

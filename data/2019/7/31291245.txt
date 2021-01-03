@@ -1,0 +1,4 @@
+31291245
+2019 Jul 10
+Nonalcoholic steatohepatitis (NASH) is a chronic liver disease that can lead to cirrhosis, liver transplant, and even hepatocellular carcinoma. While liver biopsy remains the reference standard for disease diagnosis, analytical and clinical development of non-invasive soluble biomarkers of NASH are of great importance to advance the field. To this end, we performed analytical and clinical validation on a series of pro-inflammatory cytokines and chemokines implicated hepatic inflammation; IL-6, CRP, TNFα, MCP-1, MIP-1β, eotaxin, VCAM-1. Biomarker assays were validated for accuracy and precision. Clinical performance was evaluated in a random sample of 52 patients with biopsy-proven NAFLD/NASH. Patients were categorized into three groups according to their fibrosis stage; advanced (F3-F4), mild (F1-2) and no (F0) fibrosis. Serum IL-6 was increased in patients with advanced fibrosis (2.71 pg/mL; 1.26 pg/mL; 1.39 pg/mL p
+

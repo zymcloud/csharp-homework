@@ -1,0 +1,4 @@
+21707514
+2011 Oct
+Hepatocellular carcinoma (HCC) is the fifth most common cancer worldwide, with a poor prognosis and limited therapeutic options. Due to its overexpression in the majority of HCCs, alpha-fetoprotein (AFP) represents one of the most useful markers for hepatocarcinomas and for monitoring patients' response to therapy. Although it was earlier reported that AFP has immunosuppressive properties, it has been recently demonstrated that AFP induces spontaneous T and B cells responses in HCC patients. The characterization of AFP-immunogenic epitopes gives the opportunity to design AFP-based cancer vaccines for human HCC. The activity of AFP-based vaccines has been investigated in HCC mouse models in order to develop novel strategies to treat patients with HCC. This review will discuss the rationale for using the AFP-based vaccination strategy and recent results corroborating the usefulness of AFP vaccines as a potential tool for cancer therapy.
+

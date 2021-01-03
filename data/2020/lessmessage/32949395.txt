@@ -1,0 +1,4 @@
+32949395
+2020
+Hypermethylation can downregulate many tumor suppressor gene expressions. Aplasia Ras homologue member I (ARHI, DIRAS3) is one of the maternally imprinted tumor suppressors in the RAS superfamily. This chapter overviewed the importance of ARHI methylation and expression phenomes in various types of cancers, although the exact mechanisms remain unclear. As an imprinted gene, aberrant DNA methylation of the paternal allele of ARHI was identified as a primary inhibitor of ARHI expression. The role of methylation in the CpG islands of the ARHI promoter region vary among ovarian cancers, breast cancers, hepatocellular carcinoma, colon cancers, pancreatic cancer osteosarcoma, glial tumors, follicular thyroid carcinoma, or lung cancers. The methylation of ARHI provides a new insight to understand molecular mechanisms of tumorigenesis and progression of cancers.
+ARHI; Cancer; Disease; Inhibitor; Methylation.

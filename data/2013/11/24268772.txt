@@ -1,0 +1,4 @@
+24268772
+2013 Nov 27
+Elevated bile acid levels increase hepatocellular carcinoma by unknown mechanisms. Here, we show that mice with a severe defect in bile acid homeostasis due to the loss of the nuclear receptors FXR and SHP have enlarged livers, progenitor cell proliferation, and Yes-associated protein (YAP) activation and develop spontaneous liver tumorigenesis. This phenotype mirrors mice with loss of hippo kinases or overexpression of their downstream target, YAP. Bile acids act as upstream regulators of YAP via a pathway dependent on the induction of the scaffold protein IQGAP1. Patients with diverse biliary dysfunctions exhibit enhanced IQGAP1 and nuclear YAP expression. Our findings reveal an unexpected mechanism for bile acid regulation of liver growth and tumorigenesis via the Hippo pathway.
+

@@ -1,0 +1,4 @@
+31026719
+2019 Jul
+Both c-Met and VEGFR-2 were important targets for cancer therapies. In order to develop reversible and non-covalent c-Met and VEGFR-2 dual inhibitors, a series of [1,4]dioxino[2,3-f]quinazoline derivatives were designed and synthesized. The enzyme assay demonstrated that most target compounds had inhibition potency on both c-Met and VEGFR-2 with IC50 values in nanomolar range especially compounds 7m and 7k. Based on further cell proliferation assay in vitro, compound 7k showed significantly anti-tumor activity in vivo on a hepatocellular carcinoma (MHCC97H cells) xenograft mouse model. We docked the compound 7m with c-Met and VEGFR-2 kinases, and interpreted the SAR of these analogues. All results indicated that the target compounds were dual inhibitors of c-Met and VEGFR-2 kinases that held promising potential in cancer therapy.
+Antiproliferative effect; Cancer therapy; Quinazoline derivatives; VEGFR-2; c-Met.

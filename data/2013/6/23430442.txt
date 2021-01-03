@@ -1,0 +1,4 @@
+23430442
+2013 Jun
+Sox2 is a major transcription factor essential to the stemness characteristics and is associated with various types of cancers. In this study, we investigated the expressions and functional roles of Sox2 in hepatocellular carcinoma (HCC). Our data show that high level of Sox2 expression correlates with metastasis and low survival rate in HCC. HCC cells overexpressing Sox2 are characterized by active epithelial-mesenchymal transition and exhibit increased ability of transwell invasion, soft agar colonization, and sphere formation. We also found Sox2 expression was correlated with the transcription activity of SLUG promoter region. These results present novel mechanistic insight into an important role of Sox2 in HCC and suggest a potential application of Sox2 in HCC prognosis and treatment.
+

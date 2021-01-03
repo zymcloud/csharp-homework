@@ -1,0 +1,4 @@
+21554208
+2011 Jul
+Nuclear receptors (NRs) are ligand-activated transcription factors that are important to life by regulating a wide variety of physiological and pathological functions. There are three classes of NRs defined by ligands and heterodimer partners. The Class II NRs are involved in a broad range of pathophysiological functions in the liver, including cholesterol and bile acid homeostasis; lipid and glucose metabolism; inflammation; liver regeneration and hepatocellular carcinogenesis. Due to highly complicated molecular mechanisms in the development and progression of hepatocellular carcinoma (HCC), HCC is still one of the most common malignancies in the world. Given the pivotal functions of the Class II NRs in the liver, the roles of these NRs in hepatocellular carcinogenesis are emerging. This review summarizes the roles of Class II NRs in liver carcinogenesis and their potential application in the prevention and treatment of HCC.
+

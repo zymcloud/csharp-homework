@@ -1,0 +1,4 @@
+30846159
+2019 Apr
+"Endoscopic ultrasound (EUS)-guided ablative therapies have advanced significantly and have led to experimental applications in locations that have been difficult to image and/or reach with percutaneous approaches, such as the caudate and left lobe of the liver. EUS-guided treatments of the liver are under development. The literature has shown that many percutaneous ablative techniques are readily adaptable for EUS. In this review, the authors discuss the current developments on EUS-guided ablation of liver tumors, including injection of sclerosants, thermal therapy, and EUS-guided portal injection of chemotherapy."
+EUS-guided ablation; EUS-guided fine needle injection (EUS-FNI); EUS-guided portal injection chemotherapy (EPIC); Hepatic metastases; Hepatocellular carcinoma; High-intensity focused ultrasound (HIFU); Irreversible electroporation (IRE); Radiofrequency ablation (RFA).

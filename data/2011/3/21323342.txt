@@ -1,0 +1,4 @@
+21323342
+2011 Mar 15
+We developed a novel on-chip assay using protein arrays for quantitative and rapid analysis of blood coagulation factor XIII (FXIII) activity in human plasma. FXIII is activated by concerted action of thrombin and Ca(2+) and plays essential roles in hemostasis, angiogenesis, and wound healing. We fabricated protein arrays by immobilizing fibrinogen onto the 3-aminopropyltrimethoxysilane layer of well-type arrays and determined FXIII activity by analyzing biotinylated fibrinogen with Cy3-conjugated streptavidin. We determined optimal concentrations of Ca(2+), thrombin, and 5-(biotinamido)pentylamine (BAPA) for the on-chip activity assay, and the detection limit was 0.01 Lowey U/mL (9.9 pM). Using the on-chip activity assay, hepatocellular carcinoma patients (n = 24), but not hepatitis (n = 24) or liver cirrhosis patients (n = 41), had significantly lower FXIII activities (p
+

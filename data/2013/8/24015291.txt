@@ -1,0 +1,4 @@
+24015291
+2013 Aug 27
+Background:CYP2C19 encodes a member of the cytochrome P450 superfamily of enzymes, which play a central role in activating and detoxifying many carcinogens and endogenous compounds thought to be involved in the development of cancer. In the past decade, two common polymorphisms among CYP2C19 (CYP2C19*2 and CYP2C19*3) that are responsible for the poor metabolizers (PMs) phenotype in humans and cancer susceptibility have been investigated extensively; however, these studies have yielded contradictory results.Methods and results:To investigate this inconsistency, we conducted a comprehensive meta-analysis of 11,554 cases and 16,592 controls from 30 case-control studies. Overall, the odds ratio (OR) of cancer was 1.52 [95% confidence interval (CI): 1.23-1.88, PConclusions:Our meta-analysis suggests that the CYP2C19 PMs genotypes most likely contributes to cancer susceptibility, particularly in the Asian populations.
+

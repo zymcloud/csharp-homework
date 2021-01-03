@@ -1,0 +1,4 @@
+33204660
+2020 Oct 28
+Purpose:Clinical evidence of the radiation-enhancing effects of nanoparticles has emerged.Materials and methods:We searched the literature in English and French on PubMed up to October 2019. The search term was "nanoparticle" AND "radiotherapy", yielding 1270 results.Results:The two main NP used in clinical trials were hafnium oxide and gadolinium involving a total of 229 patients. Hafnium oxide NP were used in three phase 1/2 trials on sarcoma, head and neck squamous cell carcinoma or liver cancer and one phase 2/3 trial. There are six ongoing phase 1/2 clinical trials to evaluate the combination of gadolinium-based NP and RT for the treatment of brain metastases and cervical cancer.Conclusion:So far, intratumoral hafnium oxide nanoparticles were safe and improved efficacy in locally advanced sarcoma.
+Cancer; Nanoparticles; Radiotherapy.

@@ -1,0 +1,4 @@
+26616145
+2015
+Context:The evaluation of the liver condition, based on serum enzymatic activity and biopsies, is insufficient. Therefore, it is a priority to find a correlation between circulating RNAs and liver damage.Methods:Publications were retrieved by the search terms "circulating RNA AND liver".Results:Although differences exist between studies, a profile of RNAs that repeatedly appeared as indicators of liver damage was identified.Discussion:We highlight those circulating RNAs useful to diagnostic, and discuss the transport mechanisms.Conclusion:Several studies have proven that circulating RNAs are useful to establish a diagnostic and a prognosis of liver diseases.
+Blood; extracellular vesicles; hepatic diseases; miRNA.

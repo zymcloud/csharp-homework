@@ -1,0 +1,4 @@
+27038038
+2016 Apr
+The complex role of NOTCH receptors and their ligands in the development of hepatoblastoma, cholangiocarcinoma and hepatocellular carcinoma by Borja Gil-García and Victoriano Baladrón, Biol. Cell 2016, Vol 108, pages 29–40. DOI: 10.1111/boc.201500029. In the following sentence on page 5 of this article a wrong reference was given: "Gramantieri et al. (2007) showed that the NOTCH1 receptor causes growth inhibition and apoptosis of cell lines derived from HCC." This sentence should read: "Giovannini et al. (2012) showed that the downregulation of NOTCH1 receptor causes growth inhibition and induces senescence of cell lines derived from HCC." The correct reference is: Giovannini, C., Gramantieri, L., Minguzzi, M., Fornari, F., Chieco, P., Grazi, G.L., Bolondi, L. (2012) CDKN1C/P57 is regulated by the Notch target gene Hes1 and induces senescence in human hepatocellular carcinoma. Am. J. Pathol. 181, 413–422
+

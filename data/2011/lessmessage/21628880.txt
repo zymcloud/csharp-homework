@@ -1,0 +1,4 @@
+21628880
+2011
+Tubeimoside I (TBMS I), an extract from Chinese herbal medicine Bolbostemma paniculatum (MAXIM.) FRANQUET (Cucurbitaceae) has been shown as a potent anti-tumor agent for a variety of human cancers, but yet to be evaluated for hepatoma that is highly prevalent in Eastern Asian countries including China. Here, we examined in vitro the cytotoxic effects of TBMS I on human hepatoma (HepG2) and normal liver (L-02) cell lines. We also investigated TBMS I-induced molecular events related to apoptosis in HepG2 cells. The results show that TBMS I inhibited the proliferation of both HepG2 and L-02 cells in a dose- and time-dependent manner, but HepG2 cells appeared more sensitive to the agent. When exposed to TBMS I for 24, 48 and 72 h, IC₅₀ for HepG2 cells versus L-02 cells were 15.5 vs. 23.1, 11.7 vs. 16.2, 9.2 vs. 13.1 (µM, p
+

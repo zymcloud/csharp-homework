@@ -1,0 +1,4 @@
+27840983
+2017 Jan
+Regulatory factor X-5 (RFX5) was previously characterized as an essential and highly specific regulator of major histocompatibility class II (MHCII) gene expression in the immune system. We found that RFX5 is significantly upregulated in hepatocellular carcinoma (HCC) tumors and cell lines compared with non-tumor tissues in mRNA expression levels, but it fails to induce the expression of MHCII. However, RFX5 can strongly bind to the tripeptidyl peptidase 1 (TPP1) promoter region and then increase its transcriptional activity. We also found that manipulation the expression of RFX5 can significantly affect the expression of TPP1 in HepG2, which suggested that RFX5 can transcriptionally activate TPP1 in HCC. Moreover, TPP1 is overexpressed in HCC tissues and significantly correlated with poor prognosis of HCC patients, suggesting that it may have potential biological implications in HCC.
+

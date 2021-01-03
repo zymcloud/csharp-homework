@@ -1,0 +1,4 @@
+25260319
+2014 Oct
+Hepatocellular carcinoma is related to various etiologies including hepatitis B, hepatitis C, high alcohol intake, aflatoxin B1 and metabolic syndrome. Most of the time HCC developed on cirrhosis. Consequently, the mechanisms of carcinogenesis of these different risk factors are difficult to separate from the events leading to cirrhosis. In contrast, aflatoxin B1 and hepatitis B have a clear direct oncogenic role through point mutations in the TP53 tumour suppressor gene and insertional mutagenesis respectively. Finally, next-generation sequencing and transcriptome analysis will refine our knowledge of the relationship between aetiology and the genetic events that draw the mutational landscape of hepatocellular carcinoma.
+Aetiology; Genetic; Hepatitis B; Hepatitis C; Hepatocellular carcinoma.

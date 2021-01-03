@@ -1,0 +1,4 @@
+20368112
+2010 Apr
+Aim:To study the effect of the activation of cannabinoid receptor on the proliferation and apoptosis of hepatoma HepG2 cells.Methods:HepG2 cells were treated with different doses of the activator of cannabinoid receptor-WIN-55, 212-2(WIN), MTT was used to detect the effects of WIN on HepG2 cells; Flow cytometry (FCM) was used to examine the effects of WIN on the apoptosis of HepG2 cells. Caspase 3 and c-myc proteins were determined by Western blot assay, and caspase 3, 8, 9 activity was measured using a colorimetric method.Results:WIN could inhibit HepG2 cell proliferation and induce cell apoptosis dose-dependently. WIN increased caspase 3 protein levels and caspase 3, 8, 9 activity.Conclusion:WIN can induce apoptosis, the effect might be associated with up-regulating expression of caspases protein and down-regulating expression of c-myc protein.
+

@@ -1,0 +1,4 @@
+31112925
+2019 Aug
+A bioassay-guided chemical investigation on the ethyl acetate extract of the stems of Herpetospermum pedunculosum led to the isolation and identification of 22 lignans including 6 previously undescribed ones, herpetosiols A-F. Their structures including stereochemistries were elucidated by analysis of NMR, HRMS and ECD data. The in vitro cytotoxic activities of all isolates were studied against human gastric carcinoma SGC7901, lung carcinoma A549, breast carcinoma MDA-MB-231 and hepatocellular carcinoma HepG2 cell lines. Among them, eight lignans exhibited anti-proliferative effects against four tumor cell lines with IC50 ranging from 1.7 ± 0.1 to 32.6 ± 1.1 μM. Hedyotol-B displayed potent inhibitory effect with IC50 values of 1.7 ± 0.1 μM against SGC7901 and 6.1 ± 0.5 μM against A549, respectively.
+Cytotoxicity; Herpetosiols A-F; Herpetospermum pedunculosum (cucurbitaceae); Lignans.

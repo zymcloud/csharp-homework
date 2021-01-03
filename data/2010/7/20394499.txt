@@ -1,0 +1,4 @@
+20394499
+2010 Jul
+Tumor necrosis factor-related apoptosis-inducing ligand (TRAIL) is currently under clinical development as a cancer therapeutic because it can induce apoptosis selectively in cancer cells. The vast majority of hepatocellular carcinomas (HCC), however, are resistant to TRAIL. In search of cancer therapeutics that can overcome TRAIL resistance, we show here that celecoxib and camptothecin can sensitize TRAIL-resistant HCC cell lines, HepG2 and Hep3B, to TRAIL-induced apoptosis through downregulation of cellular Fas-associated death domain-like interleukin-1beta-converting enzyme-inhibitory protein (c-FLIP) and cleavage of caspase-8 and caspase-3 in the HCC cells. The study suggests a framework for TRAIL-based combination treatment of HCC.
+

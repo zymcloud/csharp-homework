@@ -1,0 +1,4 @@
+20227281
+2010 Apr 1
+An easy and efficient route for the synthesis of some tetrazolo[1,5-a]-pyrimidine derivatives was described through the reaction of sodium salts of formyl cycloalkanones with 5-aminotetrazole monohydrate. The derivative 6,7,8,9-tetrahydrotetrazolo[1,5-a]quinazoline (6b) has profound anti-tumor cytotoxic effects against Ehrlich ascites carcinoma (EAC) both in vivo and in vitro and against hepatocellular carcinoma (HepG2) cell line in vitro. These anti-tumor effects may be mediated via stimulation of cell cycle arrest and apoptosis through down-regulation of Bcl-2 and up-regulation of p53 transcription factors.
+

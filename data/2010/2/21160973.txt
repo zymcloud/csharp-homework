@@ -1,0 +1,4 @@
+21160973
+2010 Feb 27
+The development of proteomics technologies has lead to a great deal of effort being focused on the identification of biomarkers for cancers. Although many papers have reported candidate biomarkers for hepatocellular carcinomas (HCCs) in particular, so far none of these candidate biomarkers have been used either for diagnosis or therapy intreating patients. The question remains: Can proteomics identify real biomarkers for HCCs?
+Biomarker; Hepatocellular carcinoma; Mass spectrometry; Proteomics; Two-dimensional polyacrylamide gel electrophoresis.

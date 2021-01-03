@@ -1,0 +1,4 @@
+30448539
+2019 Feb 5
+Multidrug-resistance (MDR) has been shown to play a critical role in the development of many diseases. In this study, we used metabolomic method to evaluate the MDR in hepatocellular carcinoma, and investigate regulatory of annonaceous acetogenins on MDR of hepatocellular carcinoma. Multivariate statistical analysis revealed that the MDR of SMMC 7721 together with changes in glutathione metabolism, arginine and proline metabolism, sphingolipid metabolism. Annonaceous acetogenins impact these metabolism pathways. Metabolic pathway analysis coupled with stoichiometry analysis can be an effective tool to understand MDR mechanism and to potentially find new MDR reversal agents.
+Annonaceous acetogenins; Hepatocellular carcinoma; Metabolomics; Multidrug resistance.

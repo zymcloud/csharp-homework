@@ -1,0 +1,4 @@
+28036048
+2016 Dec 28
+The Notch signaling pathway is a very conserved system that controls embryonic cell fate decisions and the maintenance of adult stem cells through cell to cell communication. Accumulating evidence support the relevance of Notch signaling in different human diseases and it is one of the most commonly activated signaling pathways in cancer. This review focuses mainly on the role of Notch3 signaling in hepatocellular carcinoma and its potential therapeutic applications against this malignancy. In this regard, the crosstalk between Notch and p53 may play an important role.
+Notch; hepatocellular carcinoma (HCC); p53.

@@ -1,0 +1,4 @@
+22449972
+2012 Mar 23
+The human PHD finger protein 20 (PHF20) is a putative transcription factor. While little is known about its cognate cellular role, antibodies against PHF20 are present in sera from patients with hepatocellular carcinoma, glioblastoma and childhood medulloblastula. PHF20 comprises two N-terminal Tudor domains, a central C2H2-link zinc finger domain and a C-terminal zinc-binding PHD domain, and is a component of some MLL methyltransferase complexes. Here, we report the crystal structures of the N-terminal Tudor domains of PHF20 and highlight the novel structural features of each domain. We also confirm previous studies suggesting that the second Tudor domain of PHF20 exhibits preference for dimethylated histone substrates.
+

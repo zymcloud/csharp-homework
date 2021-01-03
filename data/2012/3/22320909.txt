@@ -1,0 +1,4 @@
+22320909
+2012 Mar
+Liver and pancreatic cancers are both highly lethal diseases with limited to no therapeutic options for patients. Recent studies suggest that deregulated autophagy plays a role in the pathogenesis of these diseases by perturbing cellular homeostasis and laying the foundation for disease development. While accumulation of p62 upon impaired autophagy has been implicated in hepatocellular carcinoma, its role in pancreatic ductal adenocarcinoma remains less clear. This review will focus on recent studies illustrating the role of autophagy in liver and pancreatic cancers. The relationships between autophagy, nuclear factor-κB signaling and obesity in hepatocellular carcinoma will be discussed, as well as the dual role of autophagy in pancreatic ductal adenocarcinoma.
+

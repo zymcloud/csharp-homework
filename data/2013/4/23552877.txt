@@ -1,0 +1,4 @@
+23552877
+2013 Apr 3
+Agents capable of inducing phase II enzymes such as quinone reductase 1 (QR1) are known to have the potential of mediating cancer chemopreventive activity. As part of a program to discover novel phase II enzyme-inducing molecules, we identified a marine-derived actinomycete strain (CNJ-878) that exhibited activity with cultured Hepa 1c1c7 cells. Based on this activity, a new macrolide, juvenimicin C (1), as well as 5-O-α-L-rhamnosyltylactone (2), were isolated from the culture broth of a Micromonospora sp. Compound 1 enhanced QR1 enzyme activity and glutathione levels by two-fold with CD values of 10.1 and 27.7 μM, respectively. In addition, glutathione reductase and glutathione peroxidase activities were elevated. This is the first reported member of the macrolide class of antibiotics found to mediate these responses.
+

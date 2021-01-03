@@ -1,0 +1,4 @@
+30018002
+2018 Oct
+Using various chromatographic separations, seventeen steroids including seven new compounds, verrucorosteroids A-F (1-6) and verrucorosterone (7), were isolated from the Vietnamese gorgonian Verrucella corona. Their structures were elucidated by spectroscopic analysis, including HR QTOF MS, 1D and 2D NMR. Among isolates, verrucorosterone (7), 5,6α-epoxy-3β-hydroxy-(22E)-ergosta-8,22-dien-7-one (14), and 5,6α-epoxy-3β-hydroxy-(22E)-ergosta-8(14),22-dien-7-one (15) showed significant cytotoxicity (IC50 values ranging from 12.32 ± 1.47 to 33.77 ± 1.28 μM) against eight human cancer cell lines as LNCaP (prostate cancer), HepG2 (hepatoma cancer), KB (epidermoid carcinoma), MCF-7 (breast cancer), SK-Mel2 (melanoma), HL-60 (acute leukemia), LU-1 (lung cancer), and SW480 (colon adenocarcinoma).
+Cytotoxic activity; Gorgonian; Steroids; Verrucella corona.

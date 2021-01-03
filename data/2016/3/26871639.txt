@@ -1,0 +1,4 @@
+26871639
+2016 Mar
+Aim:Transcatheter arterial chemoembolization is currently the standard treatment in hepatocellular carcinoma patients with Barcelona Clinic Liver Cancer stage B. Genomic variants of GALNT14 were recently identified as effective predictors for chemotherapy responses in Barcelona Clinic Liver Cancer stage C patients.Methods:We investigated the prognosis predictive value of GALNT14 genotypes in 327 hepatocelluar carcinoma patients treated by transcatheter arterial chemoembolization.Result:Cox proportional hazards model analysis showed that the genotype 'TT' was associated with shorter time-to-response (multivariate p Conclusion:GALNT14 genotypes were significantly associated with clinical outcomes of transcatheter arterial chemoembolization. The differential status of extrinsic apoptotic signaling between cancerous and non-cancerous tissues might underlie the clinical association.
+O-glycosylation; apoptosis; death receptor; sorafenib.

@@ -1,0 +1,4 @@
+26782643
+2016 Apr
+Hepatocellular carcinoma (HCC) is the second leading cause of cancer-related mortalities in China. Although advances have been made in treatments, the prognosis of HCC patients has not improved significantly. MicroRNAs (miRNA) play important roles in all stage of the progress of HCC. miR-4782-3p takes part in the pathogenesis of non-small cell lung cancer (NSCLC). However, the role of miR-4782-3p in HCC remains unknown. In the present study, we found that miR-4782-3p had low expression in HCC tissues. The low expression of miR-4782-3p indicated shorter survival of HCC patients. Moreover, the low expression of miR-4782-3p promoted HCC cells growth and inhibited cell apoptosis. We confirmed that USP14 was targeted by miR-4782-3p in HCC cells.
+

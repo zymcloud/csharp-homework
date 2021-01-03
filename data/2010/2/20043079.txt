@@ -1,0 +1,4 @@
+20043079
+2010 Feb
+Xanthohumol, the major prenylated chalcone found in hops, is well known to exert anti-cancer effects, but information regarding the impact on hepatocellular carcinoma (HCC) cells and potential adverse effects on non-tumorous hepatocytes is limited. Here, we show that xanthohumol at a concentration of 25 microM induced apoptosis in two HCC cell lines (HepG2 and Huh7). Furthermore, xanthohumol repressed proliferation and migration, as well as TNF induced NF-kappaB activity and interleukin-8 expression in both cell lines at even lower concentrations. In contrast, xanthohumol concentrations up to 100 microM did not affect viability of primary human hepatocytes in vitro. In summary, our data showed that xanthohumol can ameliorate different pro-tumorigenic mechanisms known to promote HCC progression, indicating its potential as promising therapeutic agent that selectively affects cancer cells.
+

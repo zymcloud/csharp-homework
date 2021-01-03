@@ -1,0 +1,4 @@
+20825717
+2010 Aug
+Objective:To investigate the effect of siRNA-mediated inhibition of NF-κB on apoptosis of hepatocarcinoma cells.Methods:Specific small interfering RNA Targeting NF-κB gene was synthesized and transfected into HepG2 cells by liposomes. Nested RT-PCR and quantitative RT-PCR were used to detect the mRNA expression of NF-κB. Immunohistochemistry, enzyme-linked immunosorbent assay and Western blot were performed to examine the protein expression of NF-κB. Annexin V-FITC was used to test cell apoptosis.Results:The expression of NF-κB in HepG2 cells (1.13+/-0.03) was significantly higher (t=27.02, PConclusions:NF-κB is abnormally active in HepG2 cells and NF-κB inhibition mediated by siRNA promotes HepG2 cells apoptosis. It suggested that NF-κB could be a potential target for HCC prevention gene therapy.
+

@@ -1,0 +1,4 @@
+23712328
+2013 Jul
+The primary objective of this trial was to establish the maximum tolerated dose (MTD) of oxaliplatin 130 mg/m² preceded by escalating doses of docetaxel 60 mg/m² (75, 90, 100 mg/m²) administered every 3 weeks. A total of 11 patients were entered; 10 evaluable for response: 4 stable disease (liver, ovary and esophagus) and 1 partial remission (esophagus). At dose level 1, there was 1 dose-limiting toxicity (DLT) (grade 3 allergic reaction). At dose level 2, there were 3 DLTs (3 grade 4 neutropenia, grade 3 gastritis, diarrhea, hypophosphatemia, neuro-mood). The MTD is docetaxel 60 mg/m² with oxaliplatin 130 mg/m².
+

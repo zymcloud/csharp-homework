@@ -1,0 +1,4 @@
+26484443
+2015 Dec
+Advanced hepatocellular carcinoma (HCC) is a serious therapeutic challenge and targeted therapies only provide a modest benefit in terms of overall survival. Novel approaches are urgently needed for the treatment of this prevalent malignancy. Evidence demonstrating the antigenicity of tumour cells, the discovery that immune checkpoint molecules have an essential role in immune evasion of tumour cells, and the impressive clinical results achieved by blocking these inhibitory receptors, are revolutionizing cancer immunotherapy. Here, we review the data on HCC immunogenicity, the mechanisms for HCC immune subversion and the different immunotherapies that have been tested to treat HCC. Taking into account the multiplicity of hyperadditive immunosuppressive forces acting within the HCC microenvironment, a combinatorial approach is advised. Strategies include combinations of systemic immunomodulation and gene therapy, cell therapy or virotherapy.
+

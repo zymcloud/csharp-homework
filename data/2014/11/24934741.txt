@@ -1,0 +1,4 @@
+24934741
+2014 Nov 15
+This paper presents a 40-GHz RF biosensor that involves using a microwave coplanar waveguide (CPW) transmission line for the dielectric characterization of cancer cells (Hepatoma G2, HepG2). In the past, conventional resonator-based biosensors were designed to operate at a specific resonant peak; however, the dielectric sensitivity of the cells was restricted to a narrow bandwidth. To provide a very wide bandwidth (1-40 GHz), biosensors were based on a microwave CPW transmission line. The proposed biosensor can rapidly measure two frequency-dependent cell-based dielectric parameters of HepG2 cells, microwave attenuation (α(f)cell) and the dielectric constant (εr(f)cell), while removing the microwave parasitic effects (including the cultured medium and substrate materials). The proposed biosensor can be applied in postoperative cancer diagnosis.
+Biosensor; Coplanar waveguide (CPW); Dielectric characterization; HepG2 cells; Microwave.

@@ -1,0 +1,4 @@
+24486741
+2014 May 28
+The present study aimed to investigate the anti-cancer effects of hydroxytyrosol (HT) in human hepatocellular carcinoma (HCC) cells. Our results show that HT could inhibit proliferation, induce G2/M cell cycle arrest and apoptosis in human HCC cells. Mechanically, we found that HT could suppress the activation of AKT and nuclear factor-kappa B (NF-κB) pathways. HT also significantly inhibited the tumor growth, angiogenesis and the activation of AKT and NF-κB pathways in an orthotopic model of human HCC in vivo. These data suggest that HT may be a promising candidate agent for the treatment of HCC.
+AKT; Hepatocellular carcinoma; Hydroxytyrosol; Mice; Nuclear factor-κB.

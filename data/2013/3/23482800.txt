@@ -1,0 +1,4 @@
+23482800
+2013 Mar
+Background and aims:We examined the prognostic value of pre-treatment C-reactive protein (CRP) after surgical resection (SR) for hepatocellular carcinoma (HCC).Patients and methods:A total of 298 patients with HCC who underwent SR were analyzed. They were categorized into a CRP-positive group (group A: CRP >0.2 mg/dl, n=130) and a CRP-negative group (group B: CRP Results:The 1- and 3-year cumulative OS rates were 87.0% and 68.3% in group A and 95.9% and 81.1% in group B (p=0.194). The corresponding RFS rates were 61.6% and 30.3% in group A and 77.2% and 44.9% in group B (p=0.004). In multivariate analysis, the pre-treatment CRP level was a significant prognostic factor linked to RFS (p=0.046).Conclusion:Pre-treatment CRP levels may be a useful predictor of recurrence after SR for HCC.
+

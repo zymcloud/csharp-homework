@@ -1,0 +1,4 @@
+30153957
+2018 Oct
+Objective:This study was aimed to explore the potential roles of miR-130b for the efficacy of radiofrequency ablation (RFA) in patients with primary hepatocellular carcinoma (PHC).Methods:The serum sample of 110 PHC patients, which underwent RFA treatment, was collected on 1d pre-operation (Pre 1), 7d (POD 7) and 14d post-operation (POD 14). qRT-PCR was used to detect miR-130b expression. The relationship between miR-130b expression and clinicopathological features, postoperative recurrence and survival rate were analyzed.Results:The liver function of PHC patients was improved after RFA treatment. The level of alpha fetoprotein (AFP) was gradually reduced on POD 7 and POD 14 (all P Conclusion:Our study provided evidence that serum miR-130b level may be used as an ideal marker for monitoring the recurrence and prognosis of PHC after RFA treatment.
+Primary hepatocellular carcinoma; Prognosis; Radiofrequency ablation; Recurrence; miR-130b.

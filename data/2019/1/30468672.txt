@@ -1,0 +1,4 @@
+30468672
+2019 Jan 1
+Hepatocellular Carcinoma (HCC) is a leading cause of cancer related death worldwide with a relatively poor survival rate. Aside from liver resection and subsequent transplant, the most effective and leading curative measure for HCC is the chemotherapeutic, sorafenib, a multi-kinase inhibitor used for treatment of late stage HCC. However, the effects of sorafenib are short lived due to the liver's rapid acquisition of Multi-Drug Resistance (MDR). MicroRNAs (miRNAs) have emerged as critical regulatory molecules for almost every biochemical pathway in an organism. The development and progression of HCC and acquired MDR are critically influenced by miRNAs through regulation of key genes in cell regulatory pathways. This review explores the involvement of miRNAs in development of HCC and their role in key signaling pathways for MDR in HCC.
+

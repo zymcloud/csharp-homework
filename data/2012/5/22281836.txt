@@ -1,0 +1,4 @@
+22281836
+2012 May 9
+It has been shown that bridging integrator 1 (BIN1) can interact with c-myelocytomatosis (c-Myc) oncoprotein in cancer. However, the role of BIN1 in hepatocellular carcinoma (HCC) is not clear. In the present study, we investigated the expression and prognostic role of BIN1 in primary HCC and evaluated the function of BIN1 in hepatocarcinogenesis. Using real-time polymerase chain reaction and Western blot analysis, we found significantly decreased expression of BIN1 in primary HCC tumor tissues (n = 42) compared with adjacent normal tissues and in HCC cell lines. Immunohistochemistry analysis also found decreased BIN1 expression in HCC tumor tissues (n = 117). In clinicopathological analysis, loss of BIN1 expression correlated significantly (P
+

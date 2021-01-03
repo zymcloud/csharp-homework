@@ -1,0 +1,4 @@
+25086684
+2014 Sep 1
+Using our recently developed assay system for full-genome-length hepatitis C virus (HCV) RNA replication in human hepatoma-derived Li23 cells (ORL8), we identified 4-(1,1,1,3,3,3-hexafluoro-2-hydroxy-2-propyl)aniline analog 1a as a novel HCV inhibitor. Structural modifications of 1a provided a series of sulfonamides 7 with much more potent HCV RNA replication-inhibitory activity than ribavirin. Compound 7a showed an additive anti-HCV effect in combination with standard anti-HCV therapy (IFN-α plus ribavirin). Since 7a generated reactive oxygen species (ROS) in the ORL8 system and its anti-HCV activity was blocked by vitamin E, its anti-HCV activity may be mediated at least in part by ROS.
+Anti-HCV agent; Full genome length; HCV RNA replication; Hepatitis C virus; ORL8.

@@ -1,0 +1,4 @@
+20653444
+2010 Sep 1
+Recent studies have identified the presence of methylation in the hepatitis B virus (HBV) genome and have suggested that it may be an important mechanism regulating transcription and replication of the HBV virus. However, it remains unclear whether this phenomenon is associated with occult hepatitis. Here, we performed a detailed analysis of DNA methylation in the HBV genome in liver samples of patients at different stages of hepatocarcinoma development and in in vitro infected hepatocytes and found discrete CpG sites in the HBV genome that are recurrently hypermethylated in cancer but not in chronic hepatitis tissue.
+

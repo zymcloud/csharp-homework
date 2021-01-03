@@ -1,0 +1,4 @@
+21833635
+2011 Oct
+Late diagnosis of hepatocarcinoma (HCC) is one of the most primary factors for the poor survival of patients. Thereby, identification of sensitive and specific biomarkers for HCC early diagnosis is of great importance in biological medicine to date. In the present study, serum metabolites of the HCC patients and healthy controls were investigated using the improved liquid chromatography-mass spectrometry (LC/MS). A wavelet-based method was utilized to find and align peaks of LC-MS. The characteristic peaks were selected by performing a two-sample t test statistics (p value
+

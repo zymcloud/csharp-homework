@@ -1,0 +1,4 @@
+24808418
+May-Jun 2014
+Diffuse liver disease, including chronic liver disease, affects tens of millions of people worldwide, and there is a growing need for diagnostic evaluation as treatments become more readily available, particularly for viral liver diseases. Magnetic resonance imaging (MRI) provides unique capabilities for noninvasive characterization of the liver tissue that rival or surpass the diagnostic utility of liver biopsies. There has been incremental improvement in the use of standardized MRI sequences, acquired before and after administration of a contrast agent, for the evaluation of diffuse liver disease and the study of the liver parenchyma and blood supply. More recent developments have led to methods for quantifying important liver metabolites, including lipids and iron, and liver fibrosis, the hallmark of chronic liver disease. Here, we review the MRI techniques and diagnostic features associated with acute and chronic liver disease.
+

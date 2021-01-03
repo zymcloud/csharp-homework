@@ -1,0 +1,4 @@
+27528029
+2016 Sep 13
+Hepatocellular carcinoma (HCC) is characterized by alterations in multiple genes. High expression of CD147 on the surface of HCC cells promotes proliferation. The monoclonal antibody HAb18 recognizes CD147. We constructed an oncolytic adenoviral vector to express HAb18 (ZD55-HAb18) in HCC cells. Interleukin 24 (IL24) was co-expressed through the use of an F2A linker. ZD55-HAb18-IL24 decreased HCC cell viability to a greater degree than either ZD55-HAb18 or ZD55-IL24 alone. ZD55-HAb18-IL24 also induced apoptosis and autophagy in PLC/PRF/5 HCC cells. Intratumoral injection of ZD55-HAb18-IL24 repressed tumor growth in a PLC/PRF/5 xenograft model. Our results suggest that antibody-antitumor gene conjugation elicited a stronger antitumor effect than the antibody alone, and that this strategy could broaden the applications of antibody-based therapies in HCC.
+CD147; HAb18; hepatocellular carcinoma; interleukin 24; oncolytic adenovirus.

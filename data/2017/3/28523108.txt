@@ -1,0 +1,4 @@
+28523108
+2017 Mar 31
+A series of 2-aminopyrimidine derivatives were designed and synthesized as highly selective FGFR4 inhibitors. One of the most promising compounds 2n tightly bound FGFR4 with a Kd value of 3.3 nM and potently inhibited its enzymatic activity with an IC50 value of 2.6 nM, but completely spared FGFR1/2/3. The compound selectively suppressed proliferation of breast cancer cells harboring dysregulated FGFR4 signaling with an IC50 value of 0.38 μM. Furthermore, 2n exhibited extraordinary target specificity in a Kinome-wide screen against 468 kinases, with S(35) and S(10) selectivity scores of 0.01 and 0.007 at 1.0 μM, respectively.
+Selective FGFR4 inhibitor; breast cancer; hepatocellular carcinoma; targeted therapy.

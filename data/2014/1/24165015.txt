@@ -1,0 +1,4 @@
+24165015
+2014 Jan
+Previous economic analyses of liver transplantation have focused on the cost of the transplant and subsequent care. Accurate characterization of the pretransplant costs, indexed to severity of illness, is needed to assess the economic burden of liver disease. A novel data set linking Medicare claims with transplant registry data for 15,710 liver transplant recipients was used to determine average monthly waitlist spending (N = 249,434 waitlist months) using multivariable linear regression models to adjust for recipient characteristics including Model for End-Stage Liver Disease (MELD) score. Characteristics associated with higher spending included older age, female gender, hepatocellular carcinoma, diabetes, hypertension and increasing MELD score (p
+Allocation; economic analysis; liver transplantation.

@@ -1,0 +1,4 @@
+28199696
+2017 May 5
+Germline mutations in SPRTN cause Ruijs-Aalfs syndrome (RJALS), a disorder characterized by genome instability, progeria and early onset hepatocellular carcinoma. Spartan, the protein encoded by SPRTN, is a nuclear metalloprotease that is involved in the repair of DNA-protein crosslinks (DPCs). Although Sprtn hypomorphic mice recapitulate key progeroid phenotypes of RJALS, whether this model expressing low amounts of Spartan is prone to DPC repair defects and spontaneous tumors is unknown. Here, we showed that the livers of Sprtn hypomorphic mice accumulate DPCs containing Topoisomerase 1 covalently linked to DNA. Furthermore, these mice exhibited DNA damage, aneuploidy and spontaneous tumorigenesis in the liver. Collectively, these findings provide evidence that partial loss of Spartan impairs DPC repair and tumor suppression.
+

@@ -1,0 +1,4 @@
+30115444
+2018 Sep
+Positron emission tomography (PET)/computed tomography (CT) with 2-deoxy-2-[18F]fluoro-d-glucose (FDG) has become the standard of care for the initial staging and subsequent treatment response assessment for numerous gastrointestinal malignancies. However, it is often supplemented by magnetic resonance imaging (MRI) for local tumor staging. Hybrid PET/MRI scanners, which acquire PET data and MRI data simultaneously, have the potential to provide accurate whole-body staging in a single examination. Furthermore, to address certain limitations of FDG, many new PET tracers have been developed to probe distinctive aspects of tumor biology.
+Colorectal cancer; Hepatocellular carcinoma; Neuroendocrine tumor; PET/MRI; Pancreatic cancer.

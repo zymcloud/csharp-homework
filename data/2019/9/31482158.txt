@@ -1,0 +1,4 @@
+31482158
+2019 Sep 19
+We report on a dual ratiometric two-photon fluorescent probe for in situ sensing of mitochondrial CE activity and pH. Using the probe it is possible to visualize the CE-mediated acidification of hepatoma cells and hepatic tissues during medication with antipyretic anti-inflammatory drugs.
+

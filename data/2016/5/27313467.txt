@@ -1,0 +1,4 @@
+27313467
+2016 May 30
+Background:The ability to evaluate the prognosis of hepatocellular carcinoma (HCC) following hepatectomy using biological markers is of great importance.Materials and methods:In this study, we collected samples from 54 patients with HCC after hepatectomy. Immunohistochemistry was used to detect the expression of Sema3C and MFN2 in the HCC samples.Results:Immunohistochemistry results showed that Sema3C and MFN2 co-expression was significantly associated with tumor size. In addition, a significant association between high Sema3C and low MFN2 levels and shorter overall survival was noted, when Sema3C and MFN2 co-expression was analyzed.Conclusion:The results suggest that the correlative expression level of Sema3C and MFN2 has a strong value in the prognosis of patients with HCC following hepatectomy.
+MFN2; Sema3C; hepatocellular carcinoma (HCC); prognosis; survival analysis.

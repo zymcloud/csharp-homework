@@ -1,0 +1,4 @@
+24038869
+2013 Dec
+We characterized the pharmacokinetics and dynamics of dichloroacetate (DCA), an investigational drug for mitochondrial diseases, pulmonary arterial hypertension, and cancer. Adult Beagle dogs were orally administered 6.25 mg/kg q12h DCA for 4 weeks. Plasma kinetics was determined after 1, 14, and 28 days. The activity and expression of glutathione transferase zeta 1 (GSTZ1), which biotransforms DCA to glyoxylate, were determined from liver biopsies at baseline and after 27 days. Dogs demonstrate much slower clearance and greater inhibition of DCA metabolism and GSTZ1 activity and expression than rodents and most humans. Indeed, the plasma kinetics of DCA in dogs is similar to humans with GSTZ1 polymorphisms that confer exceptionally slow plasma clearance. Dogs may be a useful model to further investigate the toxicokinetics and therapeutic potential of DCA.
+Drug Development; Mitochondrial Diseases; Pharmacodynamics; Pharmacokinetics.

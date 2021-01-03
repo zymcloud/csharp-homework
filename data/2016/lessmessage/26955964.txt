@@ -1,0 +1,4 @@
+26955964
+2016
+Hepatocellular carcinoma (HCC) is one of the most common malignant tumors worldwide. However, the inherent limitations of traditional surgery and insensitivity to radiation and chemotherapy result in failing treatment and poor prognosis. In recent years, the development and advances of nanotechnology has brought new hope for the diagnosis and treatment of HCC. This article reviews the development of nanoparticles used for cancer detection, diagnosis and treatment due to their large specific surface area and unique optical, electronic and magnetic properties. Moreover, studies have shown that after intended surface modification, nano-carriers can achieve active targeting effect, which improves the efficiency of chemotherapeutic drugs and decreases their side effects. In this review, we provide an overview of these studies results, patents about novel nanomaterials and conclude with a discussion about future development.
+

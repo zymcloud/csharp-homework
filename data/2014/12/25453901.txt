@@ -1,0 +1,4 @@
+25453901
+2014 Dec 8
+Molecular mechanisms responsible for hepatocellular carcinoma (HCC) remain largely unknown. Using genetically engineered mouse models, we show that hepatocyte-specific expression of unconventional prefoldin RPB5 interactor (URI) leads to a multistep process of HCC development, whereas its genetic reduction in hepatocytes protects against diethylnitrosamine (DEN)-induced HCC. URI inhibits aryl hydrocarbon (AhR)- and estrogen receptor (ER)-mediated transcription of enzymes implicated in L-tryptophan/kynurenine/nicotinamide adenine dinucleotide (NAD(+)) metabolism, thereby causing DNA damage at early stages of tumorigenesis. Restoring NAD(+) pools with nicotinamide riboside (NR) prevents DNA damage and tumor formation. Consistently, URI expression in human HCC is associated with poor survival and correlates negatively with L-tryptophan catabolism pathway. Our results suggest that boosting NAD(+) can be prophylactic or therapeutic in HCC.
+

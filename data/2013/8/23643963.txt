@@ -1,0 +1,4 @@
+23643963
+2013 Aug 23
+Background:Glypican-3 (GPC3) is a novel histochemical marker of hepatocellular carcinoma (HCC). However, its utility as a serologic marker for HCC is not conclusive.Methods:A total of 1037 subjects, including 155 patients with HCC, 180 with chronic hepatitis, 124 with liver cirrhosis, 442 with non-HCC cancer and 136 healthy controls, were analyzed for serum GPC3 (sGPC3) by an ELISA constructed with 2 monoclonal antibodies.Results:The average level of sGPC3 in HCC patients was 99.94±267.2ng/ml, which was significantly higher than in patients with chronic hepatitis (10.45±46.02ng/ml, PConclusion:Serum GPC3 is a potential marker for HCC. However, the presence of sGPC3 in patients with lung cancer and thyroid cancer might limit its application as a single marker in the diagnosis of HCC.
+

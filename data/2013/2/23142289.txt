@@ -1,0 +1,4 @@
+23142289
+2013 Feb 1
+The multikinase-inhibition action of sorafenib provides strong rationales for its combination use with radiotherapy. We investigated the in vitro and in vivo effect of sorafenib combined with irradiation on hepatocellular carcinoma (HCC). Sorafenib enhanced radiosensitivity of human HCC cell lines in a schedule-dependent manner. Sorafenib selectively inhibited radiation-induced activation of vascular endothelial growth factor receptor-2 (VEGFR2) and downstream extracellular signal-regulated kinase (ERK) pathway, induced DNA damage and suppressed DNA repair capacity, decreased radiation-activated NF-κB and increased radiation-induced apoptosis. In xenograft experiments, combination treatment produced marked tumor growth delay in both concurrent and sequential schedules. These results suggest that sorafenib could potentiate irradiation effect in HCC, which warrants further investigation for its potential clinical applications.
+

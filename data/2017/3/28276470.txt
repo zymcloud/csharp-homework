@@ -1,0 +1,4 @@
+28276470
+2017 Mar 9
+Ten to twenty percent of the hepatocellular carcinoma (HCC) patients fulfilling the Milan criteria (MC) recurred within three years after orthotopic liver transplantation (OLT). We therefore utilize a training cohort to develop an improved prognostic model for predicting the recurrence in these patients. By univariate and multivariate analysis, AFP level [cut-off value: 321 ng/mL, area under the curve (AUC) = 0.724, 95% confidence interval (CI) = 0.604-0.843, P
+

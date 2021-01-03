@@ -1,0 +1,4 @@
+30934578
+2019 Mar 25
+Inspired by the potent inhibition activity of the c-Met (mesenchymal-epithelial transition factor) inhibitor Tepotinib, a series of new Tepotinib derivatives were synthesized and evaluated for their ability to act as antiproliferative agents to find the leading compounds with good activity and limited side effects. Among them, compound 31e exhibited potent antiproliferative activity (IC50 (50% inhibitory concentration) = 0.026 μΜ) against hepatic carcinoma 97H (human liver cancer cell) cells and, importantly, had very low inhibitory activity against normal cells. A mechanism study demonstrated that 31e induced G1 phase (First growth phase or G indicating gap) arrest, inhibited the phosphorylation of c-Met and its downstream signaling component, Akt (Protein Kinase B), and also inhibited the migration of hepatic carcinoma 97H cells.
+97H cells; antiproliferative agents; c-Met inhibitor; low toxicity.

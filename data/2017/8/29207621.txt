@@ -1,0 +1,4 @@
+29207621
+2017 Aug 3
+Lung cancer remains the leading cause of cancer-related deaths throughout the world. In spite of great effort for the research of carcinogenesis, the molecular mechanisms of lung cancer remain unclear. In current study, we investigated the possible association between susceptibility of lung cancer and GAS5 rs145204276, which showed contradictory roles in carcinogenesis of colorectal cancer and hepatocellular carcinoma. We found that the del allele was significantly associated with 21% decreased risk of lung cancer (OR=0.79; 95% CI=0.66-0.93; P value = 0.006). Compared with the genotype ins/ins, both the genotype ins/del (OR=0.78; 95% CI=0.62-0.99) and del/del (OR=0.59;95% CI=0.39-0.89) showed decreased susceptibility of lung cancer. Real-time PCR analysis found that the expression levels of lncRNA GAS5 in lung cancer tissues were significantly lower than those in the corresponding normal tissues (P
+GAS5; lncRNA; lung cancer; susceptibility.

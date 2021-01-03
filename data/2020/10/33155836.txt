@@ -1,0 +1,4 @@
+33155836
+2020 Oct
+Aim: The aim was to systematically investigate the miRNA biomarkers for early diagnosis of hepatocellular carcinoma (HCC). Materials & methods: A systematic review and meta-analysis of miRNA expression in HCC were performed. Results: A total of 4903 cases from 30 original studies were comprehensively analyzed. The sensitivity and specificity of miR-224 in discriminating early-stage HCC patients from benign lesion patients were 0.868 and 0.792, which were superior to α-fetoprotein. Combined miR-224 with α-fetoprotein, the sensitivity and specificity were increased to 0.882 and 0.808. Prognostic survival analysis showed low expression of miR-125b and high expression of miR-224 were associated with poor prognosis. Conclusion: miR-224 had a prominent diagnostic efficiency in early-stage HCC, with miR-224 and miR-125b being valuable in the prognostic diagnosis.
+biomarkers; early stage; hepatocellular carcinoma; miR-224; microRNA.

@@ -1,0 +1,4 @@
+21050047
+2010 Oct
+The X-box binding protein-1(XBP-1) is a 29 kDa protein belonging to the basic region/leucine zipper (bZIP) family of transcription factors. Previous studies showed that XBP-1 mediated a wide range of responses in B-cell differentiation, unfolded protein response (UPR), and tumorigenesis. For these reasons, it is believed that XBP-1 would be a novel therapeutic target in some pathogenic processes. In this study, a set of XBP-1 MAbs were raised and cloned. Then it was proven that some clones among them could be used in Western blot analysis, immunocytochemistry, or immunohistochemistry. Therefore, the obtained MAbs not only provided new powerful tools for investigation of expression profile and functions of XBP-1 protein, but also provided the possibility of generating gene engineering antibodies specific for targeting XBP-1.
+

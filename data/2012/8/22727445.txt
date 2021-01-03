@@ -1,0 +1,4 @@
+22727445
+2012 Aug
+A series of novel anthranilic diamides derivatives containing aryl-isoxazoline moiety were designed and synthesized as a part of our ongoing search for potential anticancer agents. Their structures were confirmed by (1)H NMR, (13)C NMR and ESI-MS analyses. The preliminary assays showed that some of the compounds displayed moderate to good antitumor activities against human lung cancer (NCI-H460), hepatocellular liver carcinoma (HepG2), gastric cancer (SGC-7901 and BGC-823) and breast epithelial adenocarcinoma (MCF-7) cell lines at μM level, which might be developed as novel lead scaffold for potential anticancer agents.
+

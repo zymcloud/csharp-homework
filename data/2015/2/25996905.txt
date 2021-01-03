@@ -1,0 +1,4 @@
+25996905
+2016 Feb
+The Liver Imaging Reporting and Data System (LI-RADS) is an American College of Radiology (ACR)-endorsed diagnostic system of standardized terminology, interpretation, and reporting for imaging examinations of the liver in patients at high risk for hepatocellular carcinoma (HCC). LI-RADS assigns a category to observations in the liver indicating the likelihood of benignity or HCC. LI-RADS categories include LR-1: Definitely Benign, LR-2: Probably Benign, LR-3: Intermediate Probability for HCC, LR-4: Probably HCC, LR-5: Definite HCC, LR-5V: Definite HCC with Tumor in Vein, LR-Treated: Treated HCC, LR-M Probable Malignancy, not specific for HCC. This article reviews the types of nodules seen in the cirrhotic liver, examines core LI-RADS concepts and definitions, and utilizes the LI-RADS v2014 algorithm to categorize representative observations depicted at magnetic resonance imaging in a case-based approach.
+ACR; HCC; LI-RADS.

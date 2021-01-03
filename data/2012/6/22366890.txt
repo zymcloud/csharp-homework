@@ -1,0 +1,4 @@
+22366890
+2012 Jun
+Recent studies have demonstrated that natural antisense transcripts, which are complementary sequences to messenger RNA, have important cellular functions such as the stabilization and silencing of mRNA. However, the possible contribution of antisense transcripts in hepatocellular carcinoma (HCC) development has not been described. Therefore, we simultaneously investigated the sense and antisense transcripts of HCC and non-cancerous tissues to explore the possible contribution of antisense transcripts to HCC progression. RNA was prepared from 15 HCV-associated HCCs and from 6 corresponding non-cancerous tissues and was subjected to expression profile analysis of sense and antisense transcripts using a human custom microarray. Differential expression of 161 sense and 25 antisense transcripts was observed with more than 2-fold between HCC and non-cancerous tissue (p
+

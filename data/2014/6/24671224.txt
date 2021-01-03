@@ -1,0 +1,4 @@
+24671224
+2014 Jun
+Purpose:To elucidate the clinicopathological significance and the role of Jun Activation Domain-Binding Protein 1 (JAB1), Ser10-phosphorylated p27 (p27S10), and total p27 in human hepatocellular carcinoma (HCC) prognosis.Methods:We evaluated the expression of JAB1 and p27S10 in tissues by immunohistochemical and immunoblot analyses. p27 Ser10 phosphorylation and Ser10 phosphorylation-dependent p27-JAB1 interaction were demonstrated in proliferating Huh7 cells following transfection of pEGFP-p27WT/p27S10A/p27S10D plasmids and pcDNA3.1-p27WT/p27S10A/p27S10D-Myc plasmids. Univariate and multivariate analysis were used to determine their role in HCC prognosis.Results:JAB1 and p27S10 are overexpressed in HCC samples compared with paired normal tissues. There was a strong correlation between JAB1 and p27S10 expression (P Conclusions:This study revealed that combined JAB1, p27S10, and total p27 expression may serve as a prognostic marker for HCC.
+

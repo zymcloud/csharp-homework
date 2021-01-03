@@ -1,0 +1,4 @@
+25320021
+2015 Apr
+Aims:CD155 is an important ligand in triggering tumour rejection by immune cells. However, the expression of CD155 and its clinical significance in hepatocellular carcinoma (HCC) remains unknown.Methods and results:We examined the expression level of CD155 in 174 HCC tissue samples by immunohistochemical staining and in HCC cell lines by flow cytometry; 63.8% (111 of 174) of HCC tissue samples showed negative CD155 expression. When compared with adjacent peritumour tissues, HCC tissues exhibited a significantly lower expression of CD155 (P Conclusions:Our findings suggest that loss of CD155 expression may play an important role in the immune escape of HCC cells and thus CD155 may serve as a prognostic marker as well as a potential therapeutic target for HCC.
+CD155; hepatocellular carcinoma; immunohistochemistry; prognosis.

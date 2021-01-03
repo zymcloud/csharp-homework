@@ -1,0 +1,4 @@
+31476400
+2019 Oct
+Five new guaiane-type sesquiterpenoids were obtained from the roots of Daphne genkwa. Their gross structures were established by extensive spectroscopic analyses. Attempts on the assignment of the relative configurations were unsuccessful when based on the NOESY correlations. Therefore, NMR chemical shift calculations based on the gauge independent atomic orbital (GIAO) method in combination with the statistical method DP4+ were employed to establish their relative configurations. Furthermore, the absolute configurations were determined by comparing the experimental and calculated electronic circular dichroism (ECD) using time-dependent density functional theory (TDDFT). The isolated compounds were screened for their cytotoxicity in vitro against two human hepatocellular carcinoma, HepG2 and Hep3B cell lines.
+Calculated ECD; DP4+; Daphne genkwa; NMR calculations; Sesquiterpenoids.

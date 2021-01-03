@@ -1,0 +1,4 @@
+22576797
+2012 Jul
+Hepatoma-derived growth factor (HDGF) has been shown to correlate with increased malignancy of different types of tumors and could be an independent prognostic index for human cancers. We previously found that HDGF is overexpressed in glioma tissues and that its expression level may correlate with the clinical pathological grade. In the present study, we investigated the effects of HDGF downregulation on the biological behaviors of U87 glioma cells. Our results showed that HDGF knockdown significantly inhibited the malignant phenotype of U87 cells, including the colony formation, migration and invasion in vitro, as well as tumorigenesis in vivo. Our data also suggest that hepatocyte growth factor/scatter factor (HGF/SF) may contribute to the HDGF-associated aggressive behavior of glioma cells.
+

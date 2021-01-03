@@ -1,0 +1,4 @@
+23140577
+2013 Sep
+Hepatitis C virus (HCV) is a Hepacivirus that causes chronic liver disease, leading to hepatocellular carcinoma, cirrhosis, and chronic hepatitis in about 3% of the world population. In this study, novel HCV NS3 serine protease inhibitors based on 93 boceprevir analogs were studied by QSAR analyses using thermodynamic, structural and topological descriptors, including E-state descriptors. Novel compounds were proposed using the QSAR models. Both models were highly predictive, with calibration, leave-one-out validation and external validation R2 of 0.66, 0.65 and 0.52, respectively. The most promising structures were docked into the HCV NS3 serine protease active site demonstrating, then, the high affinity of some new structures.
+

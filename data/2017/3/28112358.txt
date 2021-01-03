@@ -1,0 +1,4 @@
+28112358
+2017 Mar
+Thiosemicarbazones display significant antitumor activity and their copper complexes also exhibit enhanced biological activities in most situations, but the underlying mechanism is poorly understood. Therefore, investigation of the mechanism involved in the change upon chelation is required to extend our understanding of the effects of thiosemicarbazones. In the present study, the inhibitory effect of 2-pyridinecarboxaldehyde thiosemicarbazone (PCT) and its copper complex (PCT-Cu) on cell proliferation was investigated. The copper chelate exhibited a 3- to 10-fold increase in antitumor activity (with an IC50
+

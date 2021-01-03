@@ -1,0 +1,4 @@
+27780254
+2016 Oct 25
+Targeting immune cells or factors are effective for patients with solid tumors. Myeloid-derived suppressor cells (MDSCs) are known to have immunosuppressive functions, and the levels of MDSCs in patients with solid tumor are assumed to have prognostic values. This meta-analysis aimed at evaluating the relationship between MDSCs and the prognosis of patients with solid tumors. We searched articles in PUBMED and EMBASE comprehensively, updated to March 2016. Eight studies with 442 patients were included in the meta-analysis. We analyzed pooled hazard ratios (HRs) for overall survival (OS), disease-free survival (DFS) and progression-free survival (PFS). The results showed that MDSCs were associated with poor OS (HR, 1.94; 95% confidence interval [CI], 1.42-2.66; P
+

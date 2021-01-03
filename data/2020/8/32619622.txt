@@ -1,0 +1,4 @@
+32619622
+2020 Aug
+Introduction:A typical feature of hepatocellular carcinoma (HCC) is growth with metastasis to distant organs, which is associated with poor survival. Whether tumor size can predict distant metastases in HCC remains unclear.Methods:We identified 29,170 HCC patients with or without distant metastases between 2010 and 2016 in the Surveillance, Epidemiology and End Results database. According to an optimal cutoff value of tumor size (58 mm) for predicting distant metastases using Youden's index, patients were categorized into groups of tumor size ≤30 cm, 30-58 mm, and ≥58 mm.Results:Tumor size had a significantly positive correlation with distant metastases (r = 0.245, P Conclusions:Tumor size ≥58 mm is significantly associated with HCC distant metastases. In clinical practice, patients with tumors ≥58 mm may benefit from timely identification of distant metastases.
+Bone and bones; Brain; Hepatocellular carcinoma; Lung; Neoplasm metastasis.

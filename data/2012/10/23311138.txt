@@ -1,0 +1,4 @@
+23311138
+2012 Oct
+To establish an orthotopic transplant mouse model of hepatocellular carcinoma (HCC) labeled with secretary luciferase and to study its response to anti-tumor treatment with interferon-beta gene therapy. We labeled the murine hepatoma Hepal-6 cells with secretary Gaussia princeps luciferase (Gluc), and then injected Gluc labeled Hepal-6 cells intrasplenically in C57BL/6 mice. We monitored blood Glue to evaluate the tumor development and anti-tumor effects of hydrodynamic injection with interferon-beta expressing plasmid. We successfully established the orthotopic mouse model of HCC by intrasplenic injection of Glue labeled Hepal-6 cells. The Glue blood assay could reflect the amount of cancer cells in vivo, tumor progression, as well as anti-tumor effect of interferon-beta gene therapy. In conclusion, Gluc labeled orthotopic transplant mouse model of HCC can ex vivo real-time monitor the tumor development and tumor response to treatments.
+

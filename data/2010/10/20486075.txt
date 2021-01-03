@@ -1,0 +1,4 @@
+20486075
+2010 Oct
+Investigation of a Chinese folk medicine, Artemisia dubia (syn. Artemisia subdigitata), has resulted in the isolation of eight new guaianolides (artemdubolides A-H, 1-8), and nineteen known sesquiterpene lactones. Their structures were elucidated primarily on the basis of spectroscopic methods, including extensive 2D NMR experiments. The cytotoxic activities of compounds 1-8 were evaluated against A549 (human lung adenocarcinoma), Colo205 (human colon carcinoma), HepG2 (human hepatoma), and MDA-MB-435 (human melanoma) cell lines. Compounds 2 and 5 showed weak cell growth inhibition of Colo205 and MDA-MB-435 cells.
+

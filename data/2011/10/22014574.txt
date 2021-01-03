@@ -1,0 +1,4 @@
+22014574
+2011 Oct 18
+Members of sirtuin family regulate multiple critical biological processes, yet their role in carcinogenesis remains controversial. To investigate the physiological functions of SIRT2 in development and tumorigenesis, we disrupted Sirt2 in mice. We demonstrated that SIRT2 regulates the anaphase-promoting complex/cyclosome activity through deacetylation of its coactivators, APC(CDH1) and CDC20. SIRT2 deficiency caused increased levels of mitotic regulators, including Aurora-A and -B that direct centrosome amplification, aneuploidy, and mitotic cell death. Sirt2-deficient mice develop gender-specific tumorigenesis, with females primarily developing mammary tumors, and males developing more hepatocellular carcinoma (HCC). Human breast cancers and HCC samples exhibited reduced SIRT2 levels compared with normal tissues. These data demonstrate that SIRT2 is a tumor suppressor through its role in regulating mitosis and genome integrity.
+

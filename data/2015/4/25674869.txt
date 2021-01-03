@@ -1,0 +1,4 @@
+25674869
+2015 Apr
+Biodistribution and dosimetric aspects are important issues in the preparation realization of radionuclide therapies and thus play an emerging role in radioembolization of liver malignancies. Biodistribution assessment of liver selective internal radiotherapy (SIRT) has been shown feasible using PET/CT PET/magnetic resonance (MR). Whereas prospective dosimetry using 99mTc macroaggregated albumin SPECT/CT is discussed controversially, retrospective 90Y PET/CT has been shown feasible for dosimetry of SIRT in recent studies. Considering the advantages of PET/MR with regard to lesion detection radiation dose reduction compared to PET/CT, especially when repeated scanning is intended, we investigated the use of PET/MR for dosimetry of liver SIRT.
+

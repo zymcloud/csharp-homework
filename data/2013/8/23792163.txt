@@ -1,0 +1,4 @@
+23792163
+2013 Aug 19
+WSB-1 is involved in DNA damage response by targeting homeodomain-interacting protein kinase 2 (HIPK2) for ubiquitination and degradation. Here, we report that hypoxia significantly up-regulates the expression of WSB-1 in human hepatocellular carcinoma (HCC) cells. We also provide evidence that WSB-1 is a target of hypoxia-inducible factor 1 (HIF-1). Silencing the expression of HIF-1α in HCC cells by RNA interference abolishes hypoxia-induced WSB-1 expression. Using chromatin immunoprecipitation and luciferase reporter assays, we identified a HRE of the WSB-1 gene. Moreover, silencing the expression of WSB-1 by RNA interference rescues HIPK2 expression in hypoxic HCC cells and promotes etoposide-induced cell death in hypoxic HCC cells. Taken together, these data shed light on the mechanisms underlying hypoxia-induced chemoresistance in HCC cells.
+Chemoresistance; HIF-1; HIPK2; Hypoxia; WSB-1.

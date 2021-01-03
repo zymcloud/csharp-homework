@@ -1,0 +1,4 @@
+25857360
+2015 May
+The zinc-fingers and homeoboxes (ZHX) family is a group of nuclear homodimeric transcriptional repressors that interact with a subunit of nuclear factor-Y (NF-YA) and contain two C2H2-type zinc fingers and five homeobox DNA-binding domains. The members of ZHX family form homodimers or heterodimers with other members or a subunit of NF-YA to repress transcription. ZHX family members function in hematopoietic cell development and differentiation, and neural progenitor maintenance. Dysfunction of ZHX family members correlates with the development and progression of various diseases, including hepatocellular carcinoma (HCC), hematological diseases, neurological diseases and glomerular diseases. Furthermore, low expression of ZHX is associated with poor prognosis in malignancies. This review provides an update on the role of ZHX family in development and its function in cancer, with special emphasis on HCC and hematological malignant diseases.
+

@@ -1,0 +1,4 @@
+20690796
+2010 Dec
+Nucleophosmin (NPM1) is frequently upregulated and mutated in various tumor cells. To investigate the mechanism of induced differentiation of tumor cells, the nuclear matrix of human hepatocarcinoma SMMC-7721 cells induced by hexamethylene bisacetamide (HMBA) was selectively extracted and subjected to proteomic methodologies. We confirmed that NPM1 existed in nuclear matrix proteins and downregulated after HMBA treatment. By using immunogold electromicroscopy, we found that NPM1 was localized on nuclear matrix-intermediate filaments. Our study also revealed the colocalization between NPM1 and products of oncogenes or tumor suppressor genes including c-Fos, c-Myc, p53, and Rb by using laser scanning confocal microscopy in SMMC-7721 cells.
+

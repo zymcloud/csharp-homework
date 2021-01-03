@@ -1,0 +1,4 @@
+26422541
+2015 Oct 1
+In the last decade there has been a focus on biomarkers that play a critical role in understanding molecular and cellular mechanisms which drive tumor initiation, maintenance and progression of cancers. Characterization of genomes by next-generation sequencing (NGS) has permitted significant advances in gastrointestinal cancer care. These discoveries have fueled the development of novel therapeutics and have laid the groundwork for the development of new treatment strategies. Work in colorectal cancer (CRC) has been in the forefront of these advances. With the continued development of NGS technology and the positive clinical experience in CRC, genome work has begun in esophagogastric, pancreatic, and hepatocellular carcinomas as well.
+Tumor profiling; colorectal carcinoma; esophagogastric carcinoma; hepatocellular carcinoma; pancreatic carcinoma.

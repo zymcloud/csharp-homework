@@ -1,0 +1,4 @@
+21418039
+2011 Aug
+Poly I:C (polyinosinic acid:polycytidylic acid), an analogue of dsRNA (double-stranded RNA), can lead to apoptosis in human cancer cells and has been used as an adjuvant to treat cancer patients. ATO (arsenic trioxide) is used effectively in the treatment of HCC (hepatocellular carcinoma). We sought to evaluate whether Poly I:C could enhance the potentiation of ATO in HCC. Combination of Poly I:C and ATO synergistically inhibited the growth of SMMC-7721 cells. Treatment with Poly I:C alone or combined with ATO-activated TLR3 (Toll-like receptor 3) pathway, increased ROS (reactive oxygen species) generation and mitochondrial dysfunction. The combined treatment also caused caspase-3, -8, -9 activation. Moreover, the combined therapy caused Bcl-2 and survivin down-regulation, Bax up-regulation and Bid activation. In conclusion, the Poly I:C and ATO combination is potentially a novel and effective approach for the treatment of HCC.
+

@@ -1,0 +1,4 @@
+23668930
+2013 Aug
+The prognosis of patients diagnosed with hepatocellular carcinoma (HCC) is often dismal, mainly due to late presentation, high recurrence rate, and frequent resistance to chemotherapy and radiotherapy. Accumulating evidence on the differential microRNA (miRNA) expression patterns between non-tumor and HCC tissues or between liver cancer stem cells (CSCs) and non-CSC subsets and the significant clinical implications of these differences suggest that miRNAs are a promising, non-invasive marker for the prognosis and diagnosis of the disease. This perspective article summarizes the current knowledge of miRNAs in liver CSCs and highlights the need for further investigations of the role of miRNAs in regulating liver CSC subsets for possible future clinical applications.
+

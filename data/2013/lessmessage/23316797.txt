@@ -1,0 +1,4 @@
+23316797
+2013
+RhoGTPases are defined as a family of 20 small G proteins playing important roles in almost every cellular process. RhoGTPases are guanine nucleotide-binding proteins existing in two forms: the active form which is GTP bound and the inactive one that being GDP bound. RhoGTPase-activating proteins known as RhoGAPs constitute one of the major classes of regulators of RhoGTPases. They act as negative regulators of the RhoGTPases by enhancing their slow intrinsic GTPase activity. STARD13, a GTPase activating protein (GAP) for RhoGTPases, has been described as a tumor suppressor in hepatocellular carcinoma. In the present review, we discuss the family of RhoGTPases, their regulation and their RhoGAPs, focusing mainly on STARD13.
+

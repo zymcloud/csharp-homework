@@ -1,0 +1,4 @@
+23643089
+2013 Mar
+Objective:To investigate the expression of P300/CBP-associated factor (PCAF) in hepatocellular carcinoma (HCC) and its clinical significance.Methods:Immunohistochemistry was performed to evaluate the expression of PCAF in HCC tissues and adjacent normal liver tissues of 35 HCC patients. We analyzed the correlation between the expression of PCAF and clinical data using chi-square test, and then anaylzed the factors which affected survival by Kaplan-Meier Log-rank test and multivariate Cox regression model.Results:The expression of PCAF in the HCC tissues was significantly different from that in the adjacent liver tissues (PConclusion:PCAF expression is down-regulated in HCC and constitutes a promising biomarker for the prognosis after curative liver resection.
+

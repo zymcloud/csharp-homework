@@ -1,0 +1,4 @@
+27086854
+2016 Jun 3
+Increased activity of prenyl transferases is observed in pathological states of insulin resistance, diabetes, and obesity. Thus, functional inhibitors of farnesyl transferase (FTase) and geranylgeranyl transferase (GGTase) may be promising therapeutic treatments. We previously identified insulin responsive genes from a rat H4IIE hepatoma cell cDNA library, including β-actin, EGR1, Pip92, c-fos, and Hsp60. In the present study, we investigated whether acute treatment with FTase and GGTase inhibitors would alter insulin responsive gene initiation and/or elongation rates. We observed differential regulation of insulin responsive gene expression, suggesting a differential sensitivity of these genes to one or both of the specific protein prenylation inhibitors.
+Gene expression; Immediate early genes; Insulin; Prenylation; Transcription.

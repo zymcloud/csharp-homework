@@ -1,0 +1,4 @@
+23341104
+2013 Apr
+In our study, we used the GSE17967 series to identify differentially expressed genes between cirrhosis and hepatocellular carcinoma, aiming to analyse the mechanism of the progression of cirrhosis to hepatocellular carcinoma and identify the sub-pathways closely related to this progression, and find the small molecule drugs to interfere this progression. From the result of our study, we find that many small molecule drugs closely related with carcinoma have been linked by our method. We also find some new small molecule drugs related to this progression. It is demonstrated that bioinformatics analysis is useful in identification of the candidate drugs in hepatocellular carcinoma.
+

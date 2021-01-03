@@ -1,0 +1,4 @@
+23979886
+2013 Jul 24
+The malaria treatment recommended by the World Health Organization involves medicines derived from artemisinin, an active compound extracted from the plant Artemisia annua, and some of its derivatives, such as artesunate. Considering the lack of data regarding the genotoxic effects of these compounds in human cells, the objective of this study was to evaluate the cytotoxicity and genotoxicity, and expressions of the CASP3 and SOD1 genes in a cultured human hepatocellular liver carcinoma cell line (HepG2 cells) treated with artemisinin and artesunate. We tested concentrations of 2.5, 5, 7.5, 10, and 20 μg/mL of both substances with a resazurin cytotoxicity assay, and the concentrations used in the genotoxicity experiments (2.5, 5, and 10 μg/mL) and gene expression analysis (5 μg/mL) were determined. The results of the comet assay in cells treated with artemisinin and artesunate showed a significant dose-dependent increase (P
+

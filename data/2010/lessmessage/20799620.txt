@@ -1,0 +1,4 @@
+20799620
+2010
+We studied N-acetylcysteine (NAC) ability to change the phenotype properties of several transformed and embryonic cells. We examined human epidermoid carcinoma A431 cells, murine hepatoma MH22a cells, and murine embryonic fibroblasts (MEFs) in terms of the sensitivity to natural killer (NK) recognition and abolishment. We have demonstrated that treatment with NAC (10 mM) results in a loss of susceptibility to NK cell activity by transformed A431 and MH22a cells similar to 3T3-SV40 transformed cells whose partial reversion caused by NAC was revealed by us before. We have shown that MEFs are also sensitive to NK activity and abolished by NK cells as well as transformed cells. MEFs pretreated with 10 mM NAC as well as transformed cells lose their susceptibility to NK cell activity. The loss of cell sensitivity to NK cytolytic activity was accompanied by a reorganization of the actin cytoskeleton and the appearance of well-pronounced stress-fibers.
+

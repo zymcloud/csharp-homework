@@ -1,0 +1,4 @@
+22521415
+2012 May
+Hepatitis C virus (HCV) infection is the primary cause of liver cirrhosis and hepatocellular carcinoma. HCV is the leading cause of liver transplantation in the USA, and more than 200 million people worldwide are infected with HCV. Before the introduction of NS3 protease inhibitors, the standard of care was treatment with peg-interferon and ribavirin. Recent developments in virology have identified many novel targets in the HCV genome, allowing the development of direct-acting antivirals. In this article, I outline the discovery and development of boceprevir, the first HCV NS3/4A protease inhibitor approved for treatment of genotype 1 HCV infection. Boceprevir greatly improves the sustained virologic response (SVR) and provides new hope for treating genotype 1 infections.
+

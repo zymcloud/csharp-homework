@@ -1,0 +1,4 @@
+26080848
+2015 Mar 17
+Objective:To analyze the clinical value of the detection of serum desgamma carboxy prothrombin (DCP), golgi glycoprotein 73 (GP73), heat-shock protein 70 (HSP70) in primary hepatic carcinoma (PHC) diagnosis.Methods:Enzyme-1inked immunosorbent assay and electrochemiluminescence immunoassay were used to detect the serum DCP, GP73, HSP70 and α-fetoprotein (AFP) levels in 35 PHC patients and 35 healthy controls.Results:AFP, DCP and GP73 levels in PHC patients were 13.780 (1.140-8 487.000)µg/L, 3 213.953 (2.510-53 994.602)pg/ml and 76.838 (24.500-232.875)ng/ml respectively, significantly higher than those in healthy controls (1.240 (0.605-5.310)µg/L, 104.610 (0.000-4 138.770)pg/ml and 30.770 (16.343-87.453)ng/ml, U value were 134.50, 258.00 and 168.00, all P Conclusion:GP73, DCP are new effective markers in the diagnosis of PHC, and the combined detection of GP73, DCP and AFP can improve the diagnosis value of PHC.
+

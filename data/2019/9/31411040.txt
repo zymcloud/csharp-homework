@@ -1,0 +1,4 @@
+31411040
+2019 Sep
+Aim: Natural killer cell receptor group 2D (NKG2D) plays an important role in the immune regulation of tumors. We speculate that DNA methylation are involved in the regulation of NKG2D gene. Methods: We investigated the methylation status of the NKG2D promoter in peripheral blood mononuclear cells of hepatocellular carcinoma (HCC) patients, chronic hepatitis B patients and healthy controls by methylation-specific PCR and the mRNA expression level was examined by real-time quantitative PCR. Results: The methylation frequency of NKG2D promoter in HCC patients was higher than that of chronic hepatitis B patients and healthy controls. NKG2D promoter methylation has a good predictive value for HCC diagnosis. Conclusion: NKG2D promoter methylation can be used as a noninvasive marker for detecting HCC.
+DNA methylation; NKG2D; hepatocellular carcinoma.

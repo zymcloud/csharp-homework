@@ -1,0 +1,4 @@
+23954293
+2013 Sep 17
+MicroRNAs play important roles in the development and progression of non-small cell lung cancer (NSCLC). miR-16 functions as a tumor-suppressor and is inhibited in several malignancies. Herein, we validated that miR-16 is downregulated in NSCLC tissue samples and cell lines. Ectopic expression of miR-16 significantly inhibited cell proliferation and colony formation. Moreover, miR-16 suppressed cell migration and invasion in NSCLC cells. Hepatoma-derived growth factor (HDGF) was found to be a direct target of miR-16 in NSCLC cell lines. Rescue experiments showed that the suppressive effect of miR-16 on cell proliferation, colony formation, migration, and invasion is partially mediated by inhibiting HDGF expression. This study indicates that miR-16 might be associated with NSCLC progression, and suggests an essential role for miR-16 in NSCLC.
+Growth; HDGF; Invasion; Migration; Non-small cell lung cancer; miR-16.

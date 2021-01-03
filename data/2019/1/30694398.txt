@@ -1,0 +1,4 @@
+30694398
+2019 Jan 29
+Liver cirrhosis and hepatocellular carcinoma (HCC) constitute one of the major causes of morbidity, mortality, and high health care costs worldwide. Multiple treatment options are available for HCC depending on the clinical status of the patient, size and location of the tumor, and available techniques and expertise. Locoregional treatment options are multiple. The most challenging part is how to assess the treatment response by different imaging modalities, but our scope will be assessing the response to locoregional therapy for HCC by MRI. This will be addressed by conventional MR methods using LI-RADS v2018 and by functional MR using diffusion-weighted imaging, perfusion, and highlighting the value of the novel intravoxel incoherent motion (IVIM).
+Hepatocellular carcinoma; LI-RADS v2018; Locoregional treatment; Magnetic resonance imaging; Treatment response of HCC.

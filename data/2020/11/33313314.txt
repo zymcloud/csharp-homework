@@ -1,0 +1,4 @@
+33313314
+2020 Nov 27
+Metastasis is the prominent cause of death in patients with hepatocellular carcinoma (HCC); however, the mechanisms behind HCC metastasis are not well understood. MicroRNAs (miRs) can regulate gene expression and affect HCC metastasis. Exosomes can transport miRs and other cargoes to and from different cells, thus being associated with tumour-distant metastasis. Exosomal miRs involve different processes of HCC metastasis through their functional effects, such as their induction of epithelial-to-mesenchymal transition, angiogenesis, and distant niche. In this review, data from the literature were analysed and summarised, with a focus on the evidence extraction of exosomal miRs in HCC metastasis with the purpose of increasing the understanding of the mechanisms behind HCC metastasis and acquiring implications for application.
+

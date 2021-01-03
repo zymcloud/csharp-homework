@@ -1,0 +1,4 @@
+26380927
+2015 Sep 18
+Recent studies have shown that circulating microRNAs are a potential biomarker in various types of malignancies. The aim of this study was to investigate the feasibility of using serum exosomal microRNAs as novel serological biomarkers for hepatocellular carcinoma (HCC) in patients with chronic hepatitis B (CHB). We measured the serum exosomal microRNAs and serum circulating microRNAs in patients with CHB (n=20), liver cirrhosis (LC) (n=20) and HCC (n=20). Serum exosomal microRNA was extracted from 500 μl of serum using an Exosome RNA Isolation kit. The expression levels of microRNAs were quantified by real-time PCR. The expression levels of selected microRNAs were normalized to Caenorhabditis elegans microRNA (Cel-miR-39). The serum levels of exosomal miR-18a, miR-221, miR-222 and miR-224 were significantly higher in patients with HCC than those with CHB or LC (P
+

@@ -1,0 +1,4 @@
+26656342
+2015 Dec
+Conflicting results about the prognostic value of Glasgow Prognostic Score (GPS) in hepatocellular carcinoma (HCC) patients have been reported. We searched the available articles and performed the meta-analysis to clarify the predictive value of GPS in HCC patients' outcome.A systematic literature search was conducted using PubMed (Medline), Embase, Cochrane Library, Web of Science, ChinaInfo, and Chinese National Knowledge Infrastructure for all years up to September 2015. Studies analyzing the relationship of GPS and survival outcome were identified. Hazard ratio (HR) with 95% confidence interval (CI) was calculated to assess the risk.A total of 10 studies were finally enrolled in the meta-analysis. The pooled estimates demonstrated a significant relationship between elevated GPS and inferior overall survival in patients with HCC (HR = 2.156, 95% CI: 1.696-2.740, P
+

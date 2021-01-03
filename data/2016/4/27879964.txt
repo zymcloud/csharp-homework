@@ -1,0 +1,4 @@
+27879964
+2017 Apr
+Background:MicroRNAs (miRNAs) play key roles in tumor development and progression. The aim of this study was to explore the expression levels of miR-34a and miR-217 in hepatocellular carcinoma (HCC) and to further investigate the clinicopathological and prognostic value of miR-34a and miR-217.Methods:The expression levels of miR-34a and miR-217 were evaluated using quantitative real-time PCR (qRT-PCR). Associations between these miRNAs expression and clinicopathological features were analyzed. Survival rate was determined with Kaplan-Meier and statistically analyzed with the log-rank method between groups.Results:We found that miR-34a expression was significantly downregulated in HCC tissues (PConclusions:Our data showed that downregulation of miR-34a and miR-217 was associated with HCC progression and both of them may act as tumor suppressor in HCC.
+

@@ -1,0 +1,4 @@
+20548352
+2010 Jun 15
+We develop light-driven optoelectronic tweezers based on the organic photoconductive material titanium oxide phthalocyanine. These tweezers function based on negative dielectrophoresis (nDEP). The dynamic manipulation of a single microparticle and cell patterning are demonstrated by using this light-driven optoelectronic DEP chip. The adaptive light patterns that drive the optoelectronic DEP onchip are designed by using Flash software to approach appropriate dynamic manipulation. This is also the first reported demonstration, to the best of our knowledge, for successfully patterning such delicate cells from human hepatocellular liver carcinoma cell line HepG2 by using any optoelectronic tweezers.
+

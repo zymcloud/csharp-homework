@@ -1,0 +1,4 @@
+28674078
+2017 Sep 1
+Identifying critical factors involved in the metastatic progression of hepatocellular carcinoma (HCC) may offer important therapeutic opportunities. Here, we report that the proapoptotic stress response factor TP53INP1 is often selectively downregulated in advanced stage IV and metastatic human HCC tumors. Mechanistic investigations revealed that TP53INP1 downregulation in early-stage HCC cells promoted metastasis via DUSP10 phosphatase-mediated activation of the ERK pathway. The DUSP10 promoter included putative binding sites for p73 directly implicated in modulation by TP53INP1. Overall, our findings show how TP53INP1 plays a critical role in limiting the progression of early-stage HCC, with implications for developing new therapeutic strategies to attack metastatic HCC. Cancer Res; 77(17); 4602-12. ©2017 AACR.
+

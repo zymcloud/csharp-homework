@@ -1,0 +1,4 @@
+32781040
+2020 Aug 10
+In this issue of Cancer Cell, Kudo et al. identify a novel tumor suppressor role for PKCλ/ι in hepatocellular carcinoma. Loss of PKCλ/ι in obesity-driven liver cancer results in cellular metabolic reprogramming that induces two reciprocally sustainable processes, oxidative phosphorylation and autophagy, which promote liver-tumor aggressiveness in an NRF2-dependent manner.
+

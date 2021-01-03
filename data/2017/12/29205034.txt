@@ -1,0 +1,4 @@
+29205034
+2017 Dec 14
+The most common solid tumors show intrinsic multidrug resistance (MDR) or inevitably acquire such when treated with anticancer drugs. In this work, we describe the discovery of a peripherally restricted, potent, competitive NMDA receptor antagonist 1l by a structure-activity study of the broad-acting ionotropic glutamate receptor antagonist 1a. Subsequently, we demonstrate that 1l augments the cytotoxic action of sorafenib in murine hepatocellular carcinoma cells. The underlying biological mechanism was shown to be interference with the lipid signaling pathway, leading to reduced expression of MDR transporters and thereby an increased accumulation of sorafenib in the cancer cells. Interference with lipid signaling pathways by NMDA receptor inhibition is a novel and promising strategy for reversing transporter-mediated chemoresistance in cancer cells.
+

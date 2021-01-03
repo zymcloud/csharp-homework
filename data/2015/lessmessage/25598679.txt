@@ -1,0 +1,4 @@
+25598679
+Jan-Feb 2015
+With the advent of C-arm cone-beam computed tomography (CBCT), minimally-invasive procedures in the angiography suite made a new leap beyond the limitations of 2-dimensional (D) angiography alone. C-arm CBCT can help interventional radiologists in several ways with the treatment of hepatocellular carcinoma (HCC); visualization of small tumors and tumor-feeding arteries, identification of occult lesion and 3D configuration of tortuous hepatic arteries, assurance of completeness of chemoembolization, suggestion of presence of extrahepatic collateral arteries supplying HCCs, and prevention of nontarget embolization. With more improvements in the technology, C-arm CBCT may be essential in all kinds of interventional procedures in the near future.
+C-arm cone-beam CT; Chemoembolization; Hepatocellular carcinoma.

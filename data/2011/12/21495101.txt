@@ -1,0 +1,4 @@
+21495101
+2011 Dec
+Nine flavonoids isolated from the ethyl acetate extract of Pycnanthus angolensis were assayed for their potential apoptosis induction activities in human hepatoma HuH-7 cells. These flavonoids include eight isoflavones, namely irilone (1), tectorigenine (2), formononetin (3), genistein (4), 2'-hydroxybiochanin A (5), mixture of biochanin A (6) and prunetin (7), and 4',7-dihydroxy-2'-methoxyisoflavan (8), and the flavanone liguiritigentin (9). Their chemical structures were characterized by spectroscopic methods including 2D NMR experiments. Methodology for cell death detection included the LDH assay, Hoechst staining, TUNEL staining and general caspase-3-like activity assay. The compounds tested showed higher apoptosis induction profiles in HuH-7 cells compared with the control. Caspase activity assays confirmed the apoptosis inducing activity of these flavonoids.
+

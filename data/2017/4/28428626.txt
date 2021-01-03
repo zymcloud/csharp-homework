@@ -1,0 +1,4 @@
+28428626
+2017 Apr 20
+Complement component 1q subcomponent binding protein (C1QBP) is a ubiquitously expressed cellular protein and can be upregulated or activated in a variety of malignant tumors, including those from thyroid, colon and breast, but its role remains unclear in renal cell carcinoma (RCC). In this study, C1QBP knockdown in RCC cell influenced expression of multiple genes associated with cell adhesion, among which L1 cell adhesion molecule (L1CAM) was significantly higher upon a reduction of C1QBP. In turn, cell adhesion and invasion abilities were significantly increased with increased metastasis to lung and liver in vivo. C1QBP may regulate RCC cell adhesion and invasion through influencing the p-GSK3/β-Catenin/L1CAM expression. Over all, our study demonstrated that C1QBP could regulate RCC metastasis by regulating the GSK3/β-Catenin/L1CAM signaling pathway.
+

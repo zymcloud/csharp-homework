@@ -1,0 +1,4 @@
+20826049
+2010 Dec 28
+Both vascular endothelial growth factor A (VEGF) and osteopontin (OPN) can directly induce tumor angiogenesis, which is essential for the growth and metastasis of solid tumors. Here we engineered a bispecific antibody (VEGF/OPN-BsAb) using the anti-VEGF-A antibody bevacizumab and the anti-OPN antibody hu1A12. Compared with hu1A12 alone and bevacizumab alone, VEGF/OPN-BsAb was significantly more effective in inhibiting tumor angiogenesis in a highly metastatic human hepatocellular carcinoma nude mouse model. Further study demonstrated that VEGF/OPN-BsAb could effectively suppress primary tumor growth and metastasis to lungs, suggesting that it might be a promising therapeutic agent for treatment of metastatic cancer.
+

@@ -1,0 +1,4 @@
+26457704
+2015 Oct 6
+MiR-302b is a member of miR-302-367 cluster. The miR-302-367 cluster played important roles in maintaining pluripotency in human embryonic stem cells (hESCs) and has been proved to be capable of suppressing cell growth in several types of cancer cell lines including Hepatocellular Carcinoma (HCC) Cell lines. However, the role that miR-302b plays in the 5-Fluorouracil (5-FU) sensitivity of HCC has not been known. This study showed that miR-302b could enhance the sensitivity to 5-FU in HCC cell lines and verified its two putative targeted genes responsible for its 5-FU sensitivity.
+5-Fluorouracil (5-FU); hepatocellular carcinoma cell lines; miR-302b; sensitivity.

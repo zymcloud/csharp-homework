@@ -1,0 +1,4 @@
+27401384
+2016 Apr
+Background:Hepatocellular carcinoma (HCC) has a high morbidity and mortality. Single nucleotide polymorphisms (SNPs) of microRNA (miRNA) may be associated with the susceptibility to develop certain malignant tumors.Aim:To study the association between SNPs of miRNA and hepatocellular carcinoma in peripheral blood samples.Material and methods:Three SNPs in miRNA were studied in peripheral blood samples of 498 patients with HCC and 520 controls.Results:A significant association was observed between rs13299349 in miRNA3152 and HCC. AA genotype or A allele were significantly associated with increased risk of HCC. A allele was associated with the size and number of tumor foci. There was also a relationship between rs10061133 in miRNA449b and HCC. The G allele was significantly associated with increased risk of HCC compared with A allele.Conclusions:This study links rs13299349 in miRNA3152 and rs10061133 in miRNA449b with the risk of developing HCC.
+

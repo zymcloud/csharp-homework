@@ -1,0 +1,4 @@
+29422116
+2018 Oct 17
+The direct roles of miR-139-3p on hepatocellular carcinoma (HCC) cell growth and metastasis remain poorly understood. We attempted to demonstrate the regulatory role of miR-139-3p in HCC progression and its underlying mechanisms. Here we showed that miR-139-3p expression was significantly reduced in the HCC tissues compared to paratumor tissues. Exogenous overexpression of miR-139-3p inhibited the migration and invasion of HCC cells, whereas downregulation of miR-139-3p was able to induce HCC HepG2 and SNU-449 cell migration and invasion. In addition, miR-139-3p inhibited HCC growth and lung metastasis in an in vivo mouse model, which is mainly regulated by annexin A2 receptor (ANXA2R). Finally, we identified that the expression of miR-139-3p was inversely correlated with ANXA2R expression in human HCC tissue. All these results demonstrated that miR-139-3p inhibited the metastasis process in HCC by downregulating ANXA2R expression.
+

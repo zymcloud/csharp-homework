@@ -1,0 +1,4 @@
+21776675
+2011 Apr
+In this report, we describe the effect of conjugating o-carborane-C(1)C(2)-dicarboxylic acid (o-C2B10H10-C2O4H2, denoted as Cbac2) to cadmium telluride quantum dots (CdTe QDs) capped with cysteamine on the photophysics and cytotoxicity of the QDs. Cbac2 quenches the fluorescence intensity and induces a red shift of the fluorescence emission peak. Meanwhile, studies with a real time cell electronic sensing (RT-CES) system and the 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyl (MTT) assay indicate that the combination of the carborane carboxylic acid derivative Cbac2 with relevant QDs can efficiently improve the inhibition efficiency for target cancer cells when compared with a single ligand or the CdTe QDs alone. This study raises the possibility for the labeling of the important pharmacophore with QDs and the design of new promising anticancer agents containing the carborane pharmacophores for cancer therapy.
+

@@ -1,0 +1,4 @@
+32057364
+2020 Apr 16
+Moesin has been proved to be implicated in invasiveness and metastasis in many other cancers, but unclear in HCC. Thus, this study was performed to investigate the clinical significance of moesin and its biological functions in HCC. The results showed that moesin was significantly up-regulated in HCC tissues and was an independent prognostic factor for predicting the recurrence of HCC patients, postoperatively. Furthermore, we also demonstrated that moesin promoted the migration and invasion of HCC cells in vitro and in vivo. And the mechanism studies indicated that moesin overexpression increased the formation of invadopodia and improved the activation of β-catenin/MMP9 axis. Taken together, our findings revealed that moesin acted as an important onco-protein participating in the metastasis of HCC.
+Hepatocellular carcinoma; Invadopodia; Metastasis; Moesin; Recurrence; β-catenin.

@@ -1,0 +1,4 @@
+21461564
+Jan-Feb 2011
+Resistance or insensitivity to radiation therapy is one of the hallmarks of hepatocellular carcinoma. Sensitizing radioresistant cancer by combining radiation with other therapeutics to induce apoptosis has been widely investigated. Our previous study showed that chicken anaemia virus-derived apoptin protein induced the apoptosis of hepatic carcinoma HepG2 cells. In the present study, we demonstrated that apoptin sensitizes cells to radiation-induced apoptosis using a lentivirus-apoptin expression system in hepatic carcinoma HepG2 cells. Combination therapy with radiation and apoptin dramatically induced mitochondrial cytochrome c release and the cleavage of caspases -9, -3 and -7. Our findings are also the first to show that the combination of radiation and apoptin up-regulates p53 expression. Thus, apoptin treatment represents a potential method for enhancing the effectiveness of radiotherapy in poorly responding hepatocellular carcinoma.
+

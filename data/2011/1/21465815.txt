@@ -1,0 +1,4 @@
+21465815
+2011 Jan
+Polyamidoamine-polyethylene glycol (PAMAM-PEG) copolymers were synthesized using IPDI as coupling reagent by two-step method. The copolymers were characterized by IR spectrum and 1H NMR spectrum, and the PEG conjugating ratios of the copolymers were calculated equal to 10% and 30% separately. MTT assay indicated that after PEGylation a lower cytotoxicity of the copolymers could be found, and with increasing PEG conjugating ratio the cytotoxicity decreased obviously. Agarose gel retardation assay demonstrated that PAMAM-PEG copolymers could be combined with DNA and PAMAM-PEG/DNA complexes were prepared by self-assembly. DLS measurement showed that when N/P > or = 50, the particle size of copolymer/ gene complexes was in a range of 150-200 nm, and the zeta potential was in a range of 10-25 mV. In vitro gene transfection illustrated that when N/P
+

@@ -1,0 +1,4 @@
+27022837
+2016 Apr 28
+We report a series of novel O-(substituted benzyl) phosphoramidate prodrugs of 5-fluoro-2'-deoxyuridine for the treatment of hepatocellular carcinoma. Through structure optimization, the o-methylbenzyl analog (1t) was identified as an orally bioavailable and liver-targeted lead compound. This lead prodrug is well-tolerated at a dose up to 3 g/kg in Kuming mice via oral administration. An efficacy study demonstrated that it possesses good inhibitory effect (61.67% and 72.50%, respectively) on tumor growth in a mouse xenograft model. A metabolism study in Sprague-Dawley rats suggested that 1t can release the desired 5'-monophosphate in the liver with high liver-targeting index.
+

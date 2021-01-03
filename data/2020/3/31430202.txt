@@ -1,0 +1,4 @@
+31430202
+2020 Mar
+Proton radiotherapy has clear dosimetric advantages over photon radiotherapy. In contrast to photons, which are absorbed exponentially, protons have a finite range dependent on the initial proton energy. Protons therefore do not deposit dose beyond the tumor, resulting in great conformality, and offers the promise of dose escalation to increase tumor control while minimizing toxicity. In this review, we discuss the rationale for using proton radiotherapy in the treatment of upper abdominal tumors-hepatocellular carcinomas, cholangiocarcinomas and pancreatic cancers. We also review the clinical outcomes and technical challenges of using proton radiotherapy for the treatment of these malignancies. Finally, we discuss the ongoing clinical trials implementing proton radiotherapy for the treatment of primary liver and pancreatic tumors.
+

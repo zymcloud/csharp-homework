@@ -1,0 +1,4 @@
+28512032
+2017 Jul 1
+Using various chromatographic separation techniques, eight triterpene diglycosides (1-8), including four new compounds namely stichorrenosides A-D (1-4), were isolated from a methanol extract of the Vietnamese sea cucumber S. horrens. Their structures were elucidated based on spectroscopic analyses, including HR ESI MS, 1D and 2D NMR. Their in vitro cytotoxic activity against five human cancer cell lines, Hep-G2 (hepatoma cancer), KB (epidermoid carcinoma), LNCaP (prostate cancer), MCF7 (breast cancer), and SK-Mel2 (melanoma), was evaluated using SRB methods. Stichorrenoside D (4), stichoposide A (5), and 3β-O-[β-d-xylopyranosyl-(1→2)-β-d-xylopyranosyl]-23S-acetoxyholost-7-ene (7) showed strong cytotoxicity on all five tested cancer cell lines, whereas significant effect was observed for stichorrenoside C (3) and stichoposide B (6).
+Cytotoxicity; Stichopodidae; Stichopus horrens; Triterpene glycoside.

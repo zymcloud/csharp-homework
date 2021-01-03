@@ -1,0 +1,4 @@
+24852278
+2014 Jun 23
+Three new cembranoids: sarcophytolol (1), sarcophytolide B (2), and sarcophytolide C (3), along with three known metabolites: 10(14)aromadendrene (4), deoxosarcophine (5), and sarcophine (6) were obtained from the soft bodied coral Sarcophyton glaucum. The structures were determined based on spectroscopic measurements (NMR, UV, IR and MS). Compounds 1, 3, and 4 had similar significant cytotoxic effects towards HepG2 (Human hepatocellular liver carcinoma; IC50 = 20 μM). 2 and 3 showed activity against MCF-7 (Human breast adenocarcinoma; IC50 25 ± 0.0164 and 29 ± 0.030 μM, respectively). Finally, 4 showed potent activity towards PC-3 (Prostate cancer; IC50 9.3 ± 0.164 μM). The antiproliferative activity of 1, 3 and 4, can be attributed, at least partly, to their ability to induce cellular apoptosis.
+Antiproliferative; Cembranes; HepG2; PC-3; Sarcophyton.

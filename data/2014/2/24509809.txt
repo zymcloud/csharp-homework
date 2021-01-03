@@ -1,0 +1,4 @@
+24509809
+2014 Feb 6
+Hepatitis C Virus (HCV) infection is a global public health problem affecting over 160 million individuals worldwide. Its symptoms include chronic hepatitis, liver cirrhosis and hepatocellular carcinoma. HCV is an enveloped RNA virus mainly targeting liver cells and for which the initiation of infection occurs through a complex multistep process involving a series of specific cellular entry factors. This process is likely mediated through the formation of a tightly orchestrated complex of HCV entry factors at the plasma membrane. Among HCV entry factors, the tetraspanin CD81 is one of the best characterized and it is undoubtedly a key player in the HCV lifecycle. In this review, we detail the current knowledge on the involvement of CD81 in the HCV lifecycle, as well as in the immune response to HCV infection.
+

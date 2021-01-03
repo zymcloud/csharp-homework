@@ -1,0 +1,4 @@
+28518144
+2017 May 18
+Hepatocellular carcinoma (HCC) is a malignant tumor and threatens human life worldwide, whereas the etiology and pathogenesis of HCC have not been fully determined. In the past few years, many microRNAs (miRNAs) have been proved to have important roles in tumorigenesis of HCC. In this study, we found that miR-23b was significantly upregulated in tumor tissues of HCC patients. Functional tests showed that miR-23b could promote HCC cell proliferation and metastasis in vitro and in vivo. Then, mechanistic investigations suggested that ST7L was a direct target of miR-23b and involved in the promotion effects of miR-23b on HCC tumorigenesis and metastasis. Furthermore, our study indicated that ST7L could interact with the carboxyl terminal region of AKT and suppress AKT/GSK3β/β-catenin pathway in HCC cells. In conclusion, our study revealed important roles of miR-23b and ST7L in progression of HCC.
+

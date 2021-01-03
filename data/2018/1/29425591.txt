@@ -1,0 +1,4 @@
+29425591
+2018 Jan
+Two cyclopeptides, celogentin L (1) and its epimer lyciumin A (2) were firstly isolated from Celosia argentea L.. The planar structures of the two compounds were fully determined by spectroscopic data, including 1D-, 2D-NMR, and HR-ESI/MS. The absolute configurations of amino acid components were assigned via chiral-phase HPLC analyses after acid hydrolysis. Furthermore, the configuration of C-N linkage at the glycine Cα was elucidated by extensive analyses of 2D-NMR and comparison of the experimental and calculated electronic circular dichroism (ECD) spectra. Cytotoxicity of the two compounds against human alveolar epithelial A549, hepatocellular carcinoma HepG2, and cervical cancer Hela cell lines was assayed. Although both of them were inactive in these cells, the present findings add new facets for the chemistry of Celosia argentea.
+Absolute configuration; Celogentin L; Celosia argentea; Cyclopeptides; Lyciumin A.

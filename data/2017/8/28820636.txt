@@ -1,0 +1,4 @@
+28820636
+2017 Aug
+Objective:This study aims to explore the clinical efficacy of CpG-based therapy for treating hepatocellular carcinoma (HCC) by skewing polarization toward M1 macrophage from M2.Methods:Pulmonary metastasis rate, overall survival time, and remission rate of 10 patients with HCC treated with transcatheter arterial chemoembolization (TACE) combined with CpG therapy and 10 age-, gender-, and TNM0-matched patients treated with TACE (control group) were compared.Results:No pulmonary metastasis rate was 70% in the combined treatment group and 40% in the control group, respectively; and the differences between the two groups were statistically significant (p 0.05).Conclusion:Compared with TACE, CpG combined with TACE can decrease the pulmonary metastasis rate. This combined therapy can also improve the overall survival time of patients.
+CpG; M1; M2; hepatocellular carcinoma; macrophage.

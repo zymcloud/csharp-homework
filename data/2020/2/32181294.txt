@@ -1,0 +1,4 @@
+32181294
+2020 Feb 23
+This data article contains data related to the research article entitled "α-Humulene inhibits hepatocellular carcinoma (HCC) cell proliferation and induces apoptosis through the inhibition of Akt signaling" (Chen et al., 2019) [1]. The article focuses on the antiproliferation of α-Humulene (HML) and the mechanisms involved in HCC cells inhibition. In this data, cytotoxicity of HML in several HCC cell lines are reported, together with the changes in proteins involving in p53 and Akt downstream. Weight curve, blood biochemical parameters and organ indices from HepG2-bearing nude mouse model are also provided, suggesting the potential side effects in HML administration.
+Akt; Cytotoxicity; Hepatocellular carcinoma; Side effects; α-Humulene.

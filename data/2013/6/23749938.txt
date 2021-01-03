@@ -1,0 +1,4 @@
+23749938
+2013 Jun
+Background:Glycine N-methyltransferase (GNMT) is a tumor suppressor of hepatocellular carcinoma (HCC). High proportions of GNMT knockout mice developed HCC. We previously identified a potential novel marker from Gnmt knockout mice, FK506 binding protein 11 (FKBP11). Here, we determined the clinical usefulness of FKBP11.Patients and methods:FKBP11 expression levels were analyzed in 123 paired tumor and tumor-adjacent non-tumorous (TA) tissue samples from patients with HCC and in 29 benign liver samples from patients with hemangioma using quantitative real-time polymerase-chain-reaction.Results:FKBP11 was expressed at a higher level in tumor tissues compared to TA tissues (pConclusion:These results suggest a progressively elevated expression of FKBP11 during the development of HCC and FKBP11 has the potential to be an early marker for HCC.
+FK506 binding protein; FKBP11; FKBP19; GNMT; HCC.

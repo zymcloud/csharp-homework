@@ -1,0 +1,4 @@
+24307972
+2012 Dec
+We have previously identified several biomarkers of hepatocellular carcinoma (HCC). The levels of three of these biomarkers were analyzed individually and in combination with the currently used marker, alpha fetoprotein (AFP), for the ability to distinguish between a diagnosis of cirrhosis (n=113) and HCC (n=164). We have utilized several novel biostatistical tools, along with the inclusion of clinical factors such as age and gender, to determine if improved algorithms could be used to increase the probability of cancer detection. Using several of these methods, we are able to detect HCC in the background of cirrhosis with an AUC of at least 0.95. The use of clinical factors in combination with biomarker values to detect HCC is discussed.
+Hepatitis B virus; Hepatocellular Carcinoma; biomarkers; classification and regression trees; logistic regression; penalized logistic regression.

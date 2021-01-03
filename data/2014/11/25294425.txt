@@ -1,0 +1,4 @@
+25294425
+2014 Nov
+Activating transcription factor 5 (ATF5) is a member of the ATF/CREB family involved in diverse physiological functions, ranging from metabolite homeostasis to cellular differentiations and regulation of the cell cycle. However, the clinical significance of ATF5 expression in patients with hepatocellular carcinoma (HCC) is unknown. We investigated ATF5 mRNA expression in tumors and adjacent non-tumor hepatic tissues from 119 HCC patients using quantitative real-time PCR. Association between the ATF5 mRNA expression level and clinical and pathological parameters, including recurrence-free survival (RFS) and overall survival, were also evaluated using appropriate statistical methods. ATF5 was downregulated significantly (P
+

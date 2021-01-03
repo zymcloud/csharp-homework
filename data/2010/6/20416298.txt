@@ -1,0 +1,4 @@
+20416298
+2010 Jun 3
+Catalase, which decomposes reactive oxygen species (ROS), is reduced in hepatocellular carcinoma (HCC); however, the reasons are poorly defined. In this study, it is demonstrated that prolonged exposure to ROS induced methylation of CpG island II on the catalase promoter and downregulated catalase expression at the transcriptional level in HCC cell lines. In addition, hypermethylation of CpG island II was also observed in tumor tissues, together with a decrease in catalase mRNA and protein expression levels when compared to non-tumor tissues. From these data, we suggest that ROS may downregulate catalase through the methylation of promoter during the development of HCC.
+

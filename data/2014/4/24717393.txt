@@ -1,0 +1,4 @@
+24717393
+2014 Apr 10
+The development of antitumor chemotherapy drugs remains a key goal for oncologists, and natural products provide a vast resource for anti-cancer drug discovery. In the current study, we found that the flavonoid dihydromyricetin (DHM) exhibited antitumor activity against liver cancer cells, including primary cells obtained from hepatocellular carcinoma (HCC) patients. In contrast, DHM was not cytotoxic to immortalized normal liver cells. Furthermore, DHM treatment resulted in the growth inhibition and remission of xenotransplanted tumors in nude mice. Our results further demonstrated that this antitumor activity was caused by the activation of the p53-dependent apoptosis pathway via p53 phosphorylation at serine (15Ser). Moreover, our results showed that DHM plays a dual role in the induction of cell death when administered in combination with cisplatin, a common clinical drug that kills primary hepatoma cells but not normal liver cells.
+

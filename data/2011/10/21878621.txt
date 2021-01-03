@@ -1,0 +1,4 @@
+21878621
+2011 Oct 21
+Betaine-homocysteine S-methyltransferase (BHMT) uses betaine to catalyze the conversion of homocysteine (Hcy) to methionine. There are common genetic polymorphisms in the BHMT gene in humans that can alter its enzymatic activity. We generated the first Bhmt(-/-) mouse to model the functional effects of mutations that result in reduced BHMT activity. Deletion of Bhmt resulted in a 6-fold increase (p
+

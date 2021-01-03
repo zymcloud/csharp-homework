@@ -1,0 +1,4 @@
+23764965
+2013 Aug 7
+In this study, we developed a novel method for fabricating microwell arrays constructed from alginate gels, and the alginate gel microwells were used for three-dimensional (3D) cell culture. The alginate gel microwells were fabricated on a patterned ITO electrode using alginate gel electrodeposition. Embryonic stem (ES) cells or hepatocellular carcinoma cells (HepG2) were cultured in the alginate gel microwells containing 3T3 cells. During the culture, embryoid bodies (EBs) or HepG2 spheroids were successfully fabricated in the alginate gel microwells. The oxygen consumption of the EBs indicated that they were successfully cultured. Liver-specific gene expressions of the HepG2 spheroids apparently increased by performing 3D co-culture in the microwell arrays with 3T3 cells. These results show that the alginate gel microwells are a useful 3D culture system.
+

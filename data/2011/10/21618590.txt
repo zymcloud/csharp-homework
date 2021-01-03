@@ -1,0 +1,4 @@
+21618590
+2011 Oct
+Hepassocin (HPS) is a specific mitogenic active factor for hepatocytes, and inhibits growth by overexpression in hepatocellular carcinoma (HCC) cells. However, the mechanism of HPS regulation on growth of liver-derived cells still remains largely unknown. In this study, we found that HPS was expressed and secreted into the extracellular medium in cultured L02 human hepatic cells; conditional medium of L02 cells promoted proliferation of L02 cells and this activity could be blocked by anti-HPS antibody. Moreover, we identified the presence of receptor for HPS on L02 cells and HepG2 human hepatoma cells. Overproduction of truncated HPS, which signal peptide was deleted, significantly inhibited the proliferation of HCC cells and induced cell cycle arrest. These findings suggest that HPS promotes hepatic cell line L02 cells proliferation via an autocrine mechanism and inhibits HCC cells proliferation by an intracrine pathway.
+

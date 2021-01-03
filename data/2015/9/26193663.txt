@@ -1,0 +1,4 @@
+26193663
+2016 Sep 1
+The ubiquitin-proteasome system (UPS) is a complicated tightly controlled system in charge of degrading 80-90% of proteins, and is central to regulating cellular function and keeping protein homeostasis. Therefore, the components of UPS attract considerable attention as potential targets for hepatocellular carcinoma (HCC) therapy. The clinical success of bortezomib in multiple myeloma and mantle cell lymphoma patients has set the precedent for therapeutically targeting this pathway. This review will provide an overview of the UPS in HCC and the current status of therapeutic strategies.
+Hepatocellular carcinoma; Inhibitor; Treatment; Ubiquitin–proteasome system.

@@ -1,0 +1,4 @@
+31894797
+2020 Jan 28
+An HCBP1 peptide-ruthenium conjugate (Ru-β-Ala-FQHPSFI) as a potential candidate for targeted therapy of hepatoma was synthesized. Ru-β-Ala-FQHPSFI shows drastically enhanced cytotoxicity and high selectivity for hepatoma cells versus noncancer liver cells. Raman imaging shows that this peptide-based drug can be taken up well by the hepatoma cells compared with the bare ruthenium complex (Ru) and the opposite sequence peptide-ruthenium conjugate (Ru-β-Ala-IFSPHQF). This study presents a new strategy for the construction of tumor-targeting metal-based anticancer therapeutics.
+

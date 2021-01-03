@@ -1,0 +1,4 @@
+29517284
+2018 Mar
+Aim:To compare overall survival (OS) and liver cancer-specific survival (LCSS) in patients with localized hepatocellular carcinoma treated with surgical resection (SR) or thermal ablation (TA) using the Surveillance, Epidemiology and End Results database.Materials & methods:Kaplan-Meier, competing risk and Cox regression analyses were performed after identifying patients. Propensity score matching was then applied.Results:There was significantly better OS in the SR group and significantly lower probability of LCSS in the TA group. After matching, there was significantly longer OS in the SR group and a lower probability of LCSS in the TA group.Conclusion:SR offered a significant survival benefit over TA for localized hepatocellular carcinoma.
+cryoablation; hepatocellular carcinoma; radiofrequency ablation; surgical resection; survival; thermal ablation.

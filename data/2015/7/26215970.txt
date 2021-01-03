@@ -1,0 +1,4 @@
+26215970
+2015 Jul 28
+Background:Chronic hepatitis B virus (HBV) infection is a known major etiological factor for hepatocellular carcinoma (HCC) development. Alpha-fetoprotein (AFP) is widely used to detect primary HCC, whereas its sensitivity and specificity are not satisfying. Recently, circulating microRNAs (miRNAs) have been reported to be promising biomarkers for diagnosing and monitoring cancers. This study was conducted to detect the application of serum miR-150 in the diagnosis and prognosis of HBV-related HCC.Methods:The expression of miR-150 was evaluated using a real-time quantitative RT-PCR in 350 serum samples (120 samples from controls, 110 from chronic hepatitis B (CHB) patients and 120 samples from HCC patients.Results:Serum miR-150 levels were significantly reduced in HCC patients, compared with healthy controls (P Conclusions:Serum miR-150 can serve as a non-invasive biomarker for the diagnosis and prognosis of HCC patients.
+

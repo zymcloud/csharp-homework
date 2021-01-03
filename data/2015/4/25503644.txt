@@ -1,0 +1,4 @@
+25503644
+2015 Apr
+The ganglioside GM3 exerts its different effects via various growth factor receptors. The present study investigated and comparatively analyzed the opposing effects exerted by GM3 on the migration of mouse hepatocellular carcinoma Hepa1‑6 cells via epidermal growth factor receptor (EGFR) and hepatocyte growth factor receptor (HGFR/cMet). The results demonstrated that GM3 inhibited EGF‑stimulated motility, but promoted HGF‑stimulated motility of the Hepa1‑6 cells via phosphatidylinositol 3‑kinase/Akt‑mediated migration signaling. It is well established that the main cytokines modulating cell proliferation, invasion and metastasis are different in different types of tumor. This difference may, at least in part, explain why GM3 exerted its actions in a tumor‑type specific manner.
+

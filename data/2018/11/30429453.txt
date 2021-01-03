@@ -1,0 +1,4 @@
+30429453
+2018 Nov 14
+Recent findings from The Cancer Genome Atlas project have provided a comprehensive map of genomic alterations that occur in hepatocellular carcinoma (HCC), including unexpected mutations in apolipoprotein B (APOB). We aimed to determine the clinical significance of this non-oncogenetic mutation in HCC. An Apob gene signature was derived from genes that differed between control mice and mice treated with siRNA specific for Apob (1.5-fold difference; P
+

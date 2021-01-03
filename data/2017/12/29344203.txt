@@ -1,0 +1,4 @@
+29344203
+2017 Dec
+Mucin 1 (MUC1) is aberrantly overexpressed in numerous human cancer types, including hepatocellular carcinoma (HCC) and contributes to chemoresistance of tumor cells. The aim of the present study was to evaluate the possible implication of MUC1 in radioresistance of HCC cells and the underlying mechanisms. It was demonstrated that MUC1 was significantly upregulated in HCC cells following irradiation exposure, which was coupled with increased phosphorylation of signal transducer and activator of transcription 3 (STAT3). Enforced expression of MUC1 significantly (P60% reduction in apoptosis induced by irradiation, as determined by Annexin-V/propidium iodide double staining and flow cytometry analysis. Furthermore, overexpression of MUC1 significantly (P
+Mucin 1; apoptosis; hepatocellular carcinoma; radioresistance; signal transducer and activator of transcription 3 signaling.

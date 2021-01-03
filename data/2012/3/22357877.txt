@@ -1,0 +1,4 @@
+22357877
+2012 Mar
+In this basic research study, Ganapathy-Kanniappan et al advance our understanding of how to block the glycolytic pathway to inhibit tumor progression by using image guided procedures (1). This was accomplished by demonstrating their ability to perform molecular targeting of glyceraldehyde-3-phosphate dehydrogenase (GAPDH) in human hepatocellular carcinoma (HCC) by using percutaneous injection of either inhibitor--3-bromopyruvate (3-BrPA) or short hairpin RNA (shRNA). They take the critical step of providing further rationale for potentially advancing this therapy into clinical trials by demonstrating that GAPDH expression strongly correlates with c-jun, a proto-oncogene involved in liver tumorigenesis in human HCC (2).
+

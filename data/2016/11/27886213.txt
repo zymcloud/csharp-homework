@@ -1,0 +1,4 @@
+27886213
+2016 Nov 25
+The effects of Bone morphogenetic protein 2 (BMP-2) on the angiogenesis of hepatocellular carcinoma have not yet been observed and its molecular mechanisms is not clear. We first constructed the recombinant lentivirus vectors expressing small hairpin RNA against BMP-2 gene (LV-SH-BMP2) and the recombinant lentivirus vectors over-expressing BMP-2 (overexpression-LV-BMP2), and then the two recombinant lentivirus vectors were respectively transfected into Hep G2 cells. The Hep G2 cells transfected with LV-SH-BMP2 or overexpression-LV-BMP2 were respectively co-cultured with human umbilical vein endothelial cells (HUVECs) to observe the effects of BMP-2 on HUVECs. The effect of BMP-2 on tumor microvessel density (MVD) was examined. The abilities of proliferation, migration and angiogenesis were significantly inhibited in the HUVECs co-cultured with BMP-2 knockdown Hep G2 (all P
+

@@ -1,0 +1,4 @@
+29355529
+2018 Feb 5
+The gene therapy of cancer, due to the limit of its efficiency and safety, has not been widely used in clinical. Recently, bacterial magnetic particles (BMPs), which are membrane-bound nanocrystals found in magnetotactic bacteria, have been exploited as a new gene delivery system. However, its application on gene therapy remains to be explored. In our previous study, we found that a combination of cecropin B (ABPs) and apoptin (VP3) could serve as an effective gene therapeutic agent. Thus, in this study, we used BMPs to deliver the co-expression plasmid of these two gene, namely pVAX1-VA, and evaluated its therapeutic effect on human hepatocellular carcinoma (HepG2). Our results showed that BMPs significantly improved the efficiency of gene transfection (almost 3-fold than Lipofectamine 2000 at 48 h, P
+Bacterial magnetic particles; Gene therapy; Hepatocellular carcinoma.

@@ -1,0 +1,4 @@
+30190945
+2014 Jan
+Chronic liver damage and inflammation are strong promoters of hepatocellular carcinoma (HCC) formation. HCC cells communicate with inflammatory and stromal cells via cytokine/chemokine signals. These heterotypic interactions inhibit immunologic anticancer activities and promote protumorigenic activities, such as angiogenesis or invasiveness. STAT3 mediates several reciprocal interactions between liver cancer cells and stromal cells and modulates preconditions of tumor formation such as chronic inflammation. Therefore, activation of STAT3 is considered as a tumor-promoting event in HCC formation. However, the oncogenic role of STAT3 in cancers has been challenged by several reports that suggest a tumor-suppressive activity. Here we discuss tumor-promoting and tumor-suppressive effects of cytokine-activated STAT3 in HCC.
+

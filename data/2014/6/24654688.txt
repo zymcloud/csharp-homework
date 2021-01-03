@@ -1,0 +1,4 @@
+24654688
+2014 Jun
+There is an increasing trend of patients with hepatocellular carcinoma (HCC) and non-alcoholic fatty liver disease undergoing liver transplantation in the US. Our study utilized data from the 2002 to 2012 United Network for Organ Sharing registry to evaluate model for end-stage liver disease era trends in US liver transplantations focused on patients with non-alcoholic steatohepatitis (NASH), hepatitis C (HCV), alcoholic liver disease (ALD), and HCC. Survival outcomes were stratified by liver disease etiology and compared across time periods using Kaplan-Meier and Cox proportional hazards models. Patients with NASH were more likely to be women, had higher body mass index (BMI), and had higher prevalence of diabetes and cardiac disease. However, overall long-term survival was significantly higher in patients with NASH and ALD (p
+hepatitis C; hepatocellular carcinoma; model for end-stage liver disease; non-alcoholic steatohepatitis.

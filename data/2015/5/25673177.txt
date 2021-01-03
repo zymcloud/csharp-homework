@@ -1,0 +1,4 @@
+25673177
+2015 May
+Reactive oxygen species (ROS) are important contributors to tumor cell invasion. ROS enhanced by reactive oxygen species modulator 1 (Romo1) expression has been reported to increase invasive potential and constitutive activation of nuclear factor-κB (NF-κB) in hepatocellular carcinoma (HCC). Therefore, we investigated whether constitutive NF-κB activation due to Romo1 expression is associated with breast cancer tumor cell invasion. In this study, we show that oxidative stress-induced invasion is mediated by Romo1 expression. The Romo1-induced increase of invasive activity was blocked by an inhibitor of κB kinase (IKK). These results demonstrate that tumor cell invasion in response to oxidative stress is associated with Romo1 expression and the NF-κB signaling pathway. Romo1 is therefore a promising therapeutic target for diseases characterized by NF-κB deregulation.
+

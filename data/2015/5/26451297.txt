@@ -1,0 +1,4 @@
+26451297
+2015 May 27
+Immunotherapy has shown great promise to transform solid cancer treatment. The challenge is to optimally incorporate novel immunotherapeutics, such as immune checkpoint blockers, with standard therapies. This is well exemplified by multimodal therapies recently developed for liver cancer in which immunomodulation using CXCR4 inhibition prevented immunosuppression and enhanced sorafenib and anti-PD-1 therapeutic outcome.
+CXCR4 hepatocellular carcinoma; PD-1; combination therapy; immune checkpoint blockade; immunosuppression.

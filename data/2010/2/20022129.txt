@@ -1,0 +1,4 @@
+20022129
+2010 Feb
+NF-kappaB is a dimeric transcription factor that has emerged as an important regulator of liver homeostasis and is mechanistically implicated in a variety of liver pathologies including hepatitis, steatosis, fibrosis, and hepatocellular carcinoma. The question remains as to whether NF-kappaB can really be exploited for the development of therapeutics for these pathologies in the diseased human liver. This review casts a critical eye on the experimental evidence gathered to date and in particular questions the rationale for the current focus on components of the upstream IKK complex as therapeutic targets. We make the argument that translation of NF-kappaB biology to new therapies is more likely to emerge from a re-focus of basic research back to the NF-kappaB/Rel subunit functions and the complexities of their post-translational modifications and context-dependent co-regulator interactions.
+

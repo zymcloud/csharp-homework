@@ -1,0 +1,4 @@
+31816404
+2020 Jan
+SALL4 and OCT4, along with other pluripotency-associated transcription factors, play critical roles in maintaining embryonic stem cell pluripotency and self-renewal. Ku80 is a component of the protein complex called DNA-dependent protein kinase, which mainly involved in DNA double-strand break repair. In this study, we show evidence that Ku80 physically interacted with SALL4. The interaction competitively disrupts the SALL4-OCT4 complex and result in OCT4 lysosomal degradation. Finally, Ku80 inhibits self-renewal and metastasis of hepatocellular carcinoma cells through breaking the SALL4-OCT4 interactions and down-regulating the expression of OCT4. Our study reveal novel function of Ku80 in stemness maintaining of cancer stem cells via its interaction with SALL4 and highlight the double-sidedness of Ku80 as an anti-cancer target.
+Ku80; Lysosomal degradation; OCT4; SALL4; Stemness.

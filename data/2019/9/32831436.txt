@@ -1,0 +1,4 @@
+32831436
+2019 Sep
+Mass spectrometry (MS) plays an important role in seeking biomarkers for disease detection. High-quality quantitative data is needed for accurate analysis of metabolic perturbations in patients. This article describes recent developments in MS-based non-targeted metabolomics research with applications to the detection of several major common human diseases, focusing on study cohorts, MS platforms utilized, statistical analyses and discriminant metabolite identification. Potential disease biomarkers recently discovered for type 2 diabetes, cardiovascular disease, hepatocellular carcinoma, breast cancer and prostate cancer through metabolomics are summarized, and limitations are discussed.
+Disease biomarkers; data analysis; mass spectrometry; non-targeted metabolomics.

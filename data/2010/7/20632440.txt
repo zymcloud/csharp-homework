@@ -1,0 +1,4 @@
+20632440
+2010 Jul 21
+Aim:To investigate whether the apoptotic activities of 8-bromo-7-methoxychrysin (BrMC) involve reactive oxygen species (ROS) generation and c-Jun N-terminal kinase (JNK) activation in human hepatocellular carcinoma cells (HCC).Methods:HepG2, Bel-7402 and L-02 cell lines were cultured in vitro and the apoptotic effects of BrMC were evaluated by flow cytometry (FCM) after propidium iodide (PI) staining, caspase-3 activity using enzyme-linked immunosorbent assay (ELISA), and DNA agarose gel electrophoresis. ROS production was evaluated by FCM after dichlorodihydrofluorescein diacetate (DCHF-DA) probe labeling. The phosphorylation level of JNK and c-Jun protein was analyzed by Western blotting.Results:FCM after PI staining showed a dose-dependent increase in the percentage of the sub-G1 cell population (P Conclusion:BrMC induces apoptosis of HCC cells by ROS generation and sustained JNK activation.
+

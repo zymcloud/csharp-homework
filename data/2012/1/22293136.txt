@@ -1,0 +1,4 @@
+22293136
+2012 Jan 31
+Epigenetic alterations, such as aberrant DNA methylation, are a hallmark of cancer. DNA hypermethylation of the promoter region affects, for example, the expression of tumor suppressor genes and is associated with their transcriptional silencing in tumors. A recent report has provided evidence for epigenetic silencing of the multispecific organic cation transporter SLC22A1 in hepatocellular carcinoma. Given the role of this transporter in the cellular uptake of several anticancer drugs, the study provided a novel mechanism to explain the substantial variability in treatment response, and it might provide a new strategy for optimization of pharmacotherapy of hepatocellular carcinoma.See research article http://www.genomemedicine.com/content/3/12/82.
+

@@ -1,0 +1,4 @@
+23525980
+2014 Jan
+Positron emission tomography (PET) is widely available and its application with 2-[(18)F] fluoro-2-deoxy-D-glucose ((18)F-FDG) in oncology has become one of the standard imaging modalities in diagnosing and staging of tumors, and monitoring the therapeutic efficacy in hepatic malignancies. Recently, investigators have measured glucose utilization in liver tumors using (18)F-FDG and positron emission tomography/computer tomography (PET/CT) in order to establish a diagnosis of tumors, assess their biologic characteristics and predict therapeutic effects on hepatic malignancies. The PET/CT with (18)F-FDG may further enhance the hepatic malignancy diagnostic algorithm by accurate diagnosis, staging, restaging and evaluating its biological characteristics, which can benefit the patients suffering from primary and metastatic hepatic tumors such as hepatocellular carcinoma (HCC), cholangiocarcinoma (CCC), and metastatic liver tumor.
+

@@ -1,0 +1,4 @@
+22873217
+2012 Nov 1
+In this review, the role of nuclear factor-κB (NF-κB) in hepatocarcinogenesis is examined. The administration of several hepatic tumor promoters leads to the activation of NF-κB in the liver of rats and mice. Many studies support the hypothesis that the activation of NF-κB in the liver is inhibited by antioxidants. The role of NF-κB in hepatocarcinogenesis has been examined using NF-κB overexpression and knockout models. The role of NF-κB in liver carcinogenesis is complex; some models show that NF-κB contributes to carcinogenesis whereas others see no effect or an inhibition. Overall, although hepatic tumor promoting agents can activate NF-κB and this activation can be inhibited by antioxidants, the significance of this activation is unclear.
+

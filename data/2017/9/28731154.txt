@@ -1,0 +1,4 @@
+28731154
+2017 Sep
+Hepatocellular carcinoma (HCC) is the second leading cause of cancer mortality worldwide, which is mainly due to relapse and metastasis. Synaptophysin-like 1 (SYPL1), a member of SYP family proteins, exerts complicated functions, which prompted us to wonder whether SYPL1 contributed to HCC progress. Herein, we performed integrative experiments of quantitative real-time polymerase chain reaction (qRT-PCR), western blot analysis and immunohistochemistry (IHC), and found that SYPL1 overexpression in HCC tissues was closely correlated with several malignant clinicopathologic features of HCC. The results from IHC in serial sections of HCC tissues further indicated that SYPL1 expression was associated with epithelial-mesenchymal transition (EMT) biomarkers of HCC cells. Additionally, Kaplan-Meier survival analysis showed that SYPL1 overexpression was significantly associated with reduced overall survival (OS) (p
+

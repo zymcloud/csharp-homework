@@ -1,0 +1,4 @@
+24824184
+2014 Jun 20
+PFTK1 is a Cdc2-related protein kinase that is frequently upregulated in human hepatocellular carcinoma (HCC) where it correlates with metastatic features and motile phenotypes. To understand the modulated pathway underlining the PFTK1 action, here we show a physical interaction between PFTK1 and cyclin Y (CCNY) in promoting noncanonical Wnt signaling. In HCC cells, we found PFTK1 forms a direct complex with CCNY, and together readily upregulate key components of Wnt signaling (Dvl2 and Naked1). Exogenous expression of PFTK1 and CCNY activated Rho GTPases, which are known targets of the noncanonical path. In line with Rho GTPases activation, we also found marked actin polymerizations in cells with PFTK1-CCNY co-expressions. Our findings highlight a PFTK1-CCNY complex in activating noncanonical Wnt signaling in HCC cells.
+Cell motility; Cyclin Y; Hepatocellular carcinoma; PFTK1; Wnt pathway.

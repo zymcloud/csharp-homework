@@ -1,0 +1,4 @@
+30109320
+2018 Aug 28
+A novel supramolecular hybrid material ZIF-8@DOX@WP6@G constructed from the host-guest complexation between carboxylated pillar[6]arene (WP6) and a galactose derivative (G), and doxorubicin (DOX)-loaded ZIF-8 has been synthesized for targeted drug delivery. The results showed that ZIF-8@DOX@WP6@G not only maintained the pH-sensitive drug release properties of ZIF-8 but also exhibited excellent water dispersibility and selective toxicity for hepatoma cancer cells due to the assembly of WP6 and G. The strategy used in this study opens up a new avenue for constructing multifunctional supramolecular hybrid materials for therapeutic applications in cancer treatment.
+

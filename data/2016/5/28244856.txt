@@ -1,0 +1,4 @@
+28244856
+2017 May 24
+The tripartite motif-containing protein 11 (TRIM11), a member of the TRIM protein family, has attracted much attention because of its involvement in the development of the central nervous system. It has gained renewed focus because of its newly found function in promoting tumors. However, little is known about its role in hepatocellular carcinoma (HCC). In the present study, we found TRIM11 to be overexpressed in HCC tissues and cell lines. Downregulation of TRIM11 inhibited HCC cell proliferation and invasion in vitro and in vivo as well as suppressed the epithelial-mesenchymal transition (EMT) process. In addition, downregulation of TRIM11 decreased the protein expression levels of p-PI3K and p-Akt in HCC cells and thus inhibited activation of the PI3K/Akt signaling pathway. Based on these results, we suggest the importance of TRIM11 in HCC progression and the potential of TRIM11 as a therapeutic target for HCC.
+

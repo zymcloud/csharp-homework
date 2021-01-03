@@ -1,0 +1,4 @@
+22066458
+2011 Aug
+Objective:To study the antiproliferative effects of beta-sitosterul and its mechanism in hepatoma HepG2 cells.Method:Cell proliferation was assessed by MTT assay. Cell cycle distribution, apoptosis and mitochondrial membrane potential were measured by high content screening (HCS). The protein expression of caspase-3, caspase-8, caspase-9, Bcl-2, Bax, tBid and cytochrome c in the HepG2 cells were evaluated by Western Blots.Result:beta-Sitosterul exerted significant antiproliferative effects in HepG2 cells. Furthermore, beta-sitosterul also induced HepG2 cells apoptosis, lost mitochondrial membrane potential, activated caspase-3, caspase-8 and caspase-9, up-regulate Bax, tBid protein, down-regulation Bcl-2 protein. However, beta-sitosterul had hardly any effects on QSG7701 cells.Conclusion:beta-Sitosterul exerted antiproliferative effects and induced HepG2 cells apoptosis via mitochondrial pathway and membrane death receptor pathway.
+

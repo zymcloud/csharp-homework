@@ -1,0 +1,4 @@
+23055200
+2013 Feb
+The aim of this study was to evaluate the association between activating enhancer binding protein 4 (AP-4) tissue expression and patient prognosis in hepatocellular carcinoma (HCC). The levels of AP-4 mRNA and protein in tumor and para-tumor tissue were evaluated in 30 HCC cases by quantitative real-time polymerase chain reaction (qRT-PCR) and Western blot. Additionally, AP-4 protein expression in 112 HCC was analyzed by immunohistochemistry. The correlation of AP-4 expression and patients' clinicopathological parameters was evaluated. Survival analysis was performed using the Kaplan-Meier method and Cox's proportional hazards model. By RT-PCR and Western blot, the levels of AP-4 mRNA and protein were significantly higher in HCC, compared to that in para-tumor tissue (p
+

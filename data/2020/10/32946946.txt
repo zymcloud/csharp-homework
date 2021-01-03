@@ -1,0 +1,4 @@
+32946946
+2020 Oct
+Four new indole alkaloids, daturametelindoles A-D (1-4) were isolated from the EtOAc soluble partition of the ethanol extract of the Datura metel seeds. The structures of the new compounds were determined based on spectroscopic evidence, including their 1D- and 2D-NMR spectra and mass spectrometry. In particular, compounds 1-4 were all racemes, confirmed by the optical rotations and CD spectra. Unfortunately, the chiral monomers were not obtained due to the amount, but the developments of their chiral separation and chiral resolution were completed. All isolated compounds were evaluated for cytotoxic effects against human gastric adenocarcinoma cells (SGC-7901), human hepatoma (Hepg2), and human breast cancer (MCF-7).
+Cytotoxic; Datura metel; Indole alkaloids; Solanaceae.

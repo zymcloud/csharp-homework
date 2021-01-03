@@ -1,0 +1,4 @@
+32206301
+2019 Aug 30
+In this article, three organotin complexes formulated as [(Me)2Sn(H2L1)] (1), [(Ph)2Sn(H2L1)]·MeOH (2) and [(Me)2Sn(HL2)(OAc)]4(Me)2O (3) (H4L1 = bis(2-hydroxybenzaldehyde) thiocarbohydrazone and H2L2 = bis(2-acetylpyrazine) thiocarbonohydrazone) have been synthesized and structurally characterized. Growth inhibition assays indicated that both the proligands and the three complexes are capable of showing anticancer activity against the human hepatocellular carcinoma HepG2 cells with H2L2 and complex 3 showing much higher cytotoxic potential. Subsequent toxicity studies on normal QSG7701cells showed that complex 3 has the highest tumor cell selectivity, and its IC50 value on QSG7701 cells is 8.48 fold higher than that in HepG2 cells. In acute toxicity experiments, complex 3 produces a dose-dependent effect in NIH mice with a LD50 value of 17.2 mg kg-1.
+

@@ -1,0 +1,4 @@
+31799686
+2019 Nov
+The curative hepatocellular carcinoma (HCC) therapy was traditionally based on surgical or loco-regional ablation approach. However, HCC is a solid tumor characterized by a highest level of vascularization; therefore, angiogenesis inhibitor could play a pivotal role in the pharmacological therapeutic approach. Despite the low number of approved drugs, a wide range of multi-kinase and MET inhibitor is currently being evaluated in phase II and III study. In this review, we described all the drugs that have shown efficacy in recently and ongoing trials. Moreover, the immunotherapy represents a recent challenge in the HCC treatment. The strategy based on the production of multi-epitope, multi-HLA peptide vaccine naturally processed and presented on primary tumor tissues of HCC patients. A further upgrade of cancer vaccine could be represented by the combination of metronomic chemotherapy and checkpoint inhibitors.
+

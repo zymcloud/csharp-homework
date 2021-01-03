@@ -1,0 +1,4 @@
+29872158
+2018 Jun 5
+Liver cirrhotic patients suffer from a seemingly unpredictable risk of hepatocellular carcinoma (HCC). Here, an HCC risk score R (0 ≦ R ≦ 1) was derived from commonly tested haematological and biochemical parameters. In the score-derivation Taiwanese cohort (144 cirrhosis versus 48 HCC-remission patients), the score had an area-under-the-curve (AUC) of 0.70 (95% confidence interval [CI], 0.61-0.78, P
+

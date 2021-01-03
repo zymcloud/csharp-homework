@@ -1,0 +1,4 @@
+20116377
+2010 Mar 5
+The tumor suppressor Kruppel-like factor 6 (KLF6) is frequently inactivated in hepatocellular carcinoma (HCC). To unearth downstream transcriptional targets of KLF6, cDNA microarray analysis of whole liver was compared between KLF6+/+ and KLF6+/- mice. Pituitary tumor transforming gene 1 (PTTG1), an oncogene, was the most up-regulated transcript in KLF6+/- liver. In human HCCs, KLF6 mRNA was significantly decreased, associated with increased PTTG1. In HepG2, KLF6 transcriptionally repressed PTTG1 by direct promoter interaction. Whereas KLF6 downregulation by siRNA increased HepG2 proliferation, siRNA to PTTG1 was anti-proliferative. PTTG1 downregulation represents a novel tumor suppressor pathway of KLF6.
+

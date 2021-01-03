@@ -1,0 +1,4 @@
+20731853
+2010 Aug 23
+Background:To define the clinical target volume (CTV) for radiotherapy in patients with hepatocellular carcinoma (HCC).Methods:A prospective study was conducted to histologically evaluate the presence and the distance of microscopic extension (ME) for resected HCC on the basis of examination of whole-mount preparations of carcinoma tissue sections.Results:A total of 380 whole-mount slides prepared from tumor samples of 76 patients with HCC were examined. Patients with elevated pretreatment AFP levels exhibited higher risk of ME as compared to those with normal pretreatment AFP levels (93.9% vs. 69.8%, P Conclusions:The CTV margins for tumor Grades 1, 2, and 3 HCC, are recommended to be 0.2 mm, 4.5 mm, and 8.0 mm beyond the gross tumor margin, respectively, to account for possible ME of the tumors in all patients.
+

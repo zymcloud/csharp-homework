@@ -1,0 +1,4 @@
+22266285
+2012 Jul
+Liver Receptor Homolog-1 (LRH-1; NR5A2) belongs to the orphan nuclear receptor superfamily, and plays vital roles in early development, cholesterol homeostasis, steroidogenesis and certain diseases, including cancer. It is expressed in embryonic stem cells, adult liver, intestine, pancreas and ovary. It binds to DNA as a monomer and is regulated by various ligand-dependent and -independent mechanisms. Recent work identified synthetic ligands for LRH-1; such compounds may yield useful therapeutics for a range of pathologic conditions associated with aberrant expression and activity of LRH-1.
+

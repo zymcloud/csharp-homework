@@ -1,0 +1,4 @@
+33205459
+2020 Nov 18.</span
+We have read the remarkable report by Rich N et al. and would like to propose that the tumor growth model of hepatocellular carcinoma (HCC) should be based on a distributed algorithm that includes damping factors and not on a simple exponential function. We would like to share some of our views on growth model of Hepatocellular carcinoma (HCC) that may differ from the valuable report by Rich N and colleagues.
+Liver cancer; biomathematics; model; tumor doubling time; tumor growth rate.

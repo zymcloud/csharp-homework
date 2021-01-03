@@ -1,0 +1,4 @@
+22647938
+Jan-Feb 2012
+Epithelial cell adhesion molecule EpCAM is expressed on a subset of normal epithelia and overexpressed on malignant cells from a variety of different tumor entities. This overexpression is even more pronounced on so-called tumor-initiating cells (TICs) of many carcinomas. Taking this rather ubiquitous expression of EpCAM in carcinomas and TICs into account, the question arises how EpCAM can serve as a reliable marker for tumor-initiating cells and what might be the advantage for TICs to express this molecule. Furthermore, several approaches for therapeutic strategies targeting exclusively EpCAM on cancer cells were undertaken over the past decades and have recently been transferred to pre-clinical attempts to eradicate TICs. In the present review, we will depict potential functions of EpCAM in tumor cells with a special focus on TICs and therapeutic implications.
+

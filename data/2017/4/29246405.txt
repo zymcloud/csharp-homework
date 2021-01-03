@@ -1,0 +1,4 @@
+29246405
+2018 Apr
+Background:Rat liver epithelial (RLE) cells could inhibit the proliferation and invasiveness of hepatoma cells in vitro. This study is to understand the tropism and the effect of RLE cells on mouse hepatoma cells both in vitro and in vivo.Methods:RLE cells were isolated from new-born rats and characterized their stem cell markers. Co-culture and HCC mouse model was established to detect therapeutic effect of RLE cells.Results:RLE cells (including Thy-1+ RLE cells, Thy-1- RLE cells, RLE cells) displayed a selective tropism toward ML-1 hepatoma cells both in vitro and in vivo. They altered the gene expression of some cancer stem cell markers in the liver tumor.Conclusion:Liver epithelial cells have a selective tropism toward HCC in vitro and in vivo. They could alter the gene expression of cancer stem cells.
+Rat liver epithelial; Stem cells; Tropism.

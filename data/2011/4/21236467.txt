@@ -1,0 +1,4 @@
+21236467
+2011 Apr
+p53-Induced ring-H2 protein (Pirh2), a recently identified ubiquitin-protein ligase, interacts with p27(Kip1) to promote ubiquitination of p27(Kip1) independently of p53. High Pirh2 and low p27(Kip1) immunoreactivity are associated with a poor prognosis in several cancers, including resistant phenotypes. In the present study, we investigated the role of Pirh2 and p27(Kip1) in human hepatocellular carcinoma (HCC) progression. Immunohistochemical analysis was performed on formalin-fixed paraffin sections of 87 specimens. Statistical analysis showed that expression of Pirh2 was negatively related to p27(Kip1) expression (r = 0.787; P
+

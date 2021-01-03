@@ -1,0 +1,4 @@
+21994866
+2011
+Targeted biological therapies for hepatocellular cancer have shown minimal improvements in median survival. Multiple pathways to oncogenesis leading to rapid development of resistance to such therapies is a concern. Non-invasive radiofrequency field-induced targeted hyperthermia using nanoparticles is a radical departure from conventional modalities. In this paper we underscore the need for innovative strategies for the treatment of hepatocellular cancer, describe the central paradigm of targeted hyperthermia using non-invasive electromagnetic energy, review the process of characterization and modification of nanoparticles for the task, and summarize data from cell-based and animal-based models of hepatocellular cancer treated with non-invasive RF energy. Finally, future strategies and challenges in bringing this modality from bench to clinic are discussed.
+

@@ -1,0 +1,4 @@
+28179330
+2017 Feb
+Background/aim:RASA1 (p120RasGAP), encodes Ras GTPase-activating protein 1 and, is a potent tumor suppressor gene that is frequently inactivated in several human cancer types. However, its precise role in hepatocellular carcinoma (HCC) has been blurred.Materials and methods:We hypothesized that RASA1 plays a crucial role in tumor pathogenesis and progression of HCC. RASA1 expression levels were analyzed in 226 cases of HCC by immunohistochemistry.Results:It was found that 38.68% (41/106) of the high-grade HCC samples and 54.17% (65/120) of the low-grade HCC samples expressed RASA1 protein. The difference between RASA1 expression in high-grade and low-grade HCC was statistically significant (p=0.02). Additionally, RASA1 high expression was inversely associated with larger tumor size (pConclusion:These data support that RASA1 could serve as an independent prognostic marker for HCC patients.
+Liver cancer; RAS-GAP; RASA1; overall survival.

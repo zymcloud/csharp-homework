@@ -1,0 +1,4 @@
+25074528
+2014 Dec
+The present study was undertaken to quantitatively evaluate the association between rs3746444 polymorphism and HCC risk. In this analysis with 667 cancer cases and 1,006 control subjects, we summarized 4 eligible case-control studies by searching databases of PubMed, EMBASE, and CNKI. The strength of the association was assessed by calculating odds ratios (ORs) with 95 % confidence intervals (CIs) with the fixed-effects model. We found that neither the allele frequency nor genotype distribution of this polymorphism was associated with risk of HCC in any genetic model. Similarly, no associations were suggested either in subgroup analyses by ethnicity or by source of control. Our research suggested that rs3746444 polymorphism may not be a risk factor for HCC. However, well-designed studies with a larger sample size are needed to confirm these findings.
+

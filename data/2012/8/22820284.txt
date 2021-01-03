@@ -1,0 +1,4 @@
+22820284
+2012 Aug
+In this issue of JCI, two independent groups describe the effects of germline and liver-specific deletion of Mir122a, the predominant liver miRNA. Their findings reveal a critical role for miR-122 in fat and cholesterol metabolism but suggest that other metabolic actions of the liver are independent of miR-122. Knockout mice also displayed hepatic inflammation, fibrosis, and a high incidence of hepatocellular carcinoma, suggesting that miR-122 has a tumor suppressor role in hepatocytes.
+

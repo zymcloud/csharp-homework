@@ -1,0 +1,4 @@
+28273410
+2017 Sep
+To evaluate the cost-effectiveness of ledipasvir/sofosbuvir (LDV/SOF) in treatment-naïve patients with chronic hepatitis C (CHC) genotype 1 (GT1) in the absence or mild fibrosis (F0-F1) versus advanced fibrosis (F2-F4), from the perspective of the Spanish Health System. A Markov model was developed to simulate disease progression, estimating costs and outcomes [life years gained (LYG) and quality-adjusted life years (QALY)] derived from starting with LDV/SOF in patients with F0-F1 compared with F2-F4. Therapy duration was 8 weeks in noncirrhotic patients with viral load
+cost-effectiveness; genotype 1; hepatitis C; treatment.

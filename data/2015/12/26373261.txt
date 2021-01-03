@@ -1,0 +1,4 @@
+26373261
+2015 Dec
+A galactose-appended drug delivery system released camptothecin (CPT) to lysosomes of HepG2 hepatoma cells, resulting in the cell resistance to the anticancer drug. We found that the resistance to CPT is caused by alteration of the drug release from the prodrug in lysosomes, emphasizing that the final delivery locations may critically influence drug efficacy.
+anticancer drugs; camptothecin; cancer; drug delivery; galactose.

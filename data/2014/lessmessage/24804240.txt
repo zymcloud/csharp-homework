@@ -1,0 +1,4 @@
+24804240
+2014
+As the fifth most common cancer in men and the eighth most common cancer in women, hepatocellular carcinoma (HCC) is the leading cause of cancer-related deaths worldwide, with standard chemotherapy and radiation being minimally effective in prolonging survival. Virus hepatitis, particularly HBV and HCV infection is the most prominent risk factor for HCC development. Mammalian target of rapamycin (mTOR) pathway is activated in viral hepatitis and HCC. mTOR inhibitors have been tested successfully in clinical trials for their antineoplastic potency and well tolerability. Treatment with mTOR inhibitor alone or in combination with cytotoxic drugs or targeted therapy drug scan significantly reduces HCC growth and improves clinical outcome, indicating that mTOR inhibition is a promising strategy for the clinical management of HCC.
+

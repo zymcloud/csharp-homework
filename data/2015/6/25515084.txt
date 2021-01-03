@@ -1,0 +1,4 @@
+25515084
+2015 Jun
+A parallel microfluidic cytometer (PMC) is based on a one-dimensional (1D) scanning detector, a parallel array of flow channels, and new multiparameter analysis algorithms that operate on low-pixel-count 1D images. In this article, we explore a series of image-based live- and fixed-cell screening assays, including two NF-kB nuclear translocations and T-cell capping. We then develop a new multiparametric linear weighted classifier that achieves a Z' factor sufficient for scaled pharmaceutical discovery with Jurkat cells in suspension. We conclude that the PMC should have the throughput and statistical power to permit a new capability for image-based high-sample-number pharmaceutical screening with suspension samples.
+HCA; high-content; high-throughput; imaging; live-cell assay; microfluidic; receptor capping; screening.

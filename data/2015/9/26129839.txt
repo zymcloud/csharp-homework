@@ -1,0 +1,4 @@
+26129839
+2015 Sep
+Ubiquitin specific peptidase 7 (UPS7) has a critical role in the development and progression of cancer, at least in part, through its regulation of p53 protein stability. However, its molecular determinants remain to be elucidated. In the present study, it was identified that microRNA‑205 (miR‑205) may negatively regulate UPS7 protein levels through targeting its 3'‑untranslated region in hepatocellular carcinoma (HCC) cells. As a result, miR‑205 mimics inhibited USP7 protein levels while antisense miR‑205 enhanced USP7 protein levels, thereby modulating the p53 signaling pathway and cell proliferation levels. In conclusion, the data presents a novel molecule for the dysregulated expression of USP7 in HCC, which may assist in elucidating mechanisms underlying the tumorigenesis of HCC.
+

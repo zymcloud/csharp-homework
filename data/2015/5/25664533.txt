@@ -1,0 +1,4 @@
+25664533
+2015 May
+Emerging evidence indicates that Cullin 4B (CUL4B), a major component of ubiquitin ligase complexes, is over-expressed in diverse cancer types with pro-tumourigenic effects. In this issue of the Journal of Pathology, Yuan and colleagues [6] elucidated the oncogenic activity of CUL4B in hepatocellular carcinoma (HCC) and delineated its role in driving Wnt/β-catenin signalling. In addition to the stabilization of β-catenin protein against proteasomal degradation, CUL4B also acts in concert with enhancer of Zeste homologue 2 (EZH2) to concordantly silence multiple Wnt inhibitors. These findings provide significant mechanistic insights into the epigenetic activation of the Wnt/β-catenin pathway in HCC and shed light on the functional importance of ubiquitination in this intricate regulatory system.
+CUL4B; EZH2; Wnt antagonists; hepatocellular carcinoma; ubiquitination; β-catenin.

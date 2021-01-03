@@ -1,0 +1,4 @@
+22204909
+2012 Jan 15
+Hepatitis C virus (HCV) infection is a main cause of chronic liver disease, leading to liver cirrhosis and hepatocellular carcinoma (HCC). The objective of our research was to develop effective agents against viral replication. Here, we have synthesized a series of anilinoquinoline derivatives. Based on a cell-based HCV replicon system, we observed that 2-(3'-nitroanilino)quinoline (18) exhibited anti-HCV activity with a 50% effective concentration (EC(50)) value of 7μM and a selective index (SI) value of 10. In addition, compound 18 possessed the inhibitory effect on HCV NS3/4A protease activity. Therefore, we concluded that the compound 18 possessed a potent activity against HCV replication and could provide as a new lead compound as anti-HCV inhibitor.
+

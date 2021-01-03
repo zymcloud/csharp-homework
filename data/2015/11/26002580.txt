@@ -1,0 +1,4 @@
+26002580
+2015 Nov
+microRNAs play an important role in the progression of hepatocellular carcinoma (HCC). In this study, we found that miR-582-5p expression was downregulated in hepatoma tissues and HCC cell lines. Upregulation of miR-582-5p reduced colony number, inhibited cellular proliferation, and arrested cell cycle in G0/G1 phase. When miR-582-5p was inhibited, the colony number was increased and cellular proliferation and cell cycle were promoted. Further studies showed that miR-582-5p regulated the progression of HCC through directly inhibiting the expression of CDK1 and AKT3, and indirectly inhibiting the expression of cyclinD1.
+AKT3; CDK1; CyclinD1; Hepatocellular carcinoma; miR-582-5p.

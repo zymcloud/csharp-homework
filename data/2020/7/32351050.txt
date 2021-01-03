@@ -1,0 +1,4 @@
+32351050
+2020 Jul
+Hepatocellular carcinoma (HCC) is a common malignancy with poor prognosis and high mortality. To identify key genes associated with HCC and the underlying mechanisms, we performed weighted correlation network analysis (WGCNA) of potential key genes of HCC. We identified 17 key genes closely related to HCC by yellow module combined with PPI analysis. Verification of the role of these genes revealed that SPC25 knockdown results in a significant decrease in proliferation and metastasis of HCC cells and increased protein levels of components of the p53 pathway in vitro. In summary, we identified that SPC25 is a potential tumor-promoting factor in HCC and may act via the p53 pathway.
+SPC25; WGCNA; hepatocellular carcinoma; metastasis; p53; proliferation.

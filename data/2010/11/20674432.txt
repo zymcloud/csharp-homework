@@ -1,0 +1,4 @@
+20674432
+2010 Nov
+Hepatitis B virus (HBV) is a major cause of liver cirrhosis and hepatocellular carcinoma (HCC). Eight different HBV genotypes have been identified with distinct geographical distributions. Different genotyping methods exist including sequencing, INNO-LiPA, restriction fragment polymorphism (RFLP), multiplex PCR, serotyping, oligonucleotide microarray chips, reverse dot blot, restriction fragment mass polymorphism (RFMP), invader assay, and real-time PCR. Several investigators have studied the influence of HBV genotypes on clinical outcomes in chronic HBV patients. This review describes the current genotyping techniques, as well as their advantages and limitations. It also presents the clinical evidence that correlates HBV genotypes to clinical outcomes including disease severity, HCC development, response to therapy, disease chronicity, transplantation outcomes, and occult infection.
+

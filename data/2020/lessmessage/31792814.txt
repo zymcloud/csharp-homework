@@ -1,0 +1,4 @@
+31792814
+2020
+Mucosal-associated invariant T (MAIT) cell infiltration has been demonstrated in colorectal and hepatocellular carcinoma, and their ability to produce Th1- and Th17-associated cytokines, as well as their cytotoxic function, suggests that MAIT cells may have important functions in both reducing and promoting protective tumor immunity. Here, we describe enzymatic methods to isolate intraepithelial and lamina propria lymphocyte single cell suspensions from colon tissue and tumors containing viable MAIT cells, which can be used for further purification, flow cytometry analysis, or culture.
+CD161; Colon cancer; Cytokines; Cytotoxicity; Intraepithelial lymphocytes; Lamina propria lymphocytes; MAIT cell.

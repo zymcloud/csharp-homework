@@ -1,0 +1,4 @@
+25511513
+2015
+Hepatocellular carcinoma (HCC) is one of the most common and rapidly fatal malignancies worldwide with poor prognosis. Most of the HCC patients died quickly because of the rapid tumor progression with no effective therapy except for liver resection or transplantation. Recently, microRNAs (miRNAs) have emerged as key factors involved in a series of biological processes ranging from embryogenesis to programmed cell death with aberrant expression profiles, potentially attractive diagnosis, prognosis or therapeutic applications for related-diseases. Accumulating evidences have indicated the roles of miRNAs as tumor suppressor in hepatocyte malignant transformation including development, differentiation, proliferation and tumorigenesis. This article reviews that the recent progress underlies the development of novel miRNA-based HCC therapeutic strategies in the coming future.
+

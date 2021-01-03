@@ -1,0 +1,4 @@
+27755965
+2016 Sep
+Fucosylated glycans play a critical role in cell biology processes during the occurrence and development of tumor, such as cell signal transduction, cellular differentiation, ligand-receptor interactions, and metastasis formation. Fucosylated haptoglobin (Hp) was reported to be increased in hepatocellular carcinoma (HCC). In this study, we aimed to develop a convenient and sensitive AAL@Magbeads-based Hp ELISA assay to rapidly detect fucosylated Hp in 270 serum samples from HCC patients and normal controls. Fucosylated Hp exhibited an area under the ROC curve (AUC) of 0.818 with sensitivity of 72.59% and specificity of 79.26% as well as accuracy of 75.93% in distinguishing HCC patients from healthy controls. For 40 AFP- HCC (AFP
+

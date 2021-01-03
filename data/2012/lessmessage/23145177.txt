@@ -1,0 +1,4 @@
+23145177
+2012
+Deregulation of imprinted genes is an important molecular mechanism contributing to the development of cancer in humans. However, knowledge about imprinting defects in human hepatocellular carcinoma (HCC), the third leading cause of cancer mortality worldwide, is still limited. Therefore, a systematic meta-analysis of the expression of 223 imprinted loci in human HCC was initiated. This screen revealed that the DLK1-MEG3 locus is frequently deregulated in HCC. Deregulation of DLK1 and MEG3 expression accompanied by extensive aberrations in DNA methylation could be confirmed experimentally in an independent series of human HCC (n = 40) in more than 80% of cases. Loss of methylation at the DLK1-MEG3 locus correlates linearly with global loss of DNA methylation in HCC (r(2) = 0.63, p
+

@@ -1,0 +1,4 @@
+20188954
+2010 Apr 15
+Fluorophore-labeled bioprobes are the key for fluorescent-labeled imaging technology. In the present work, mouse liver hepatoma cell line BNL 1ME A.7R.1 (MEAR)-specific ssDNA aptamer TLS9a was used to fabricate quantum dot-labeled aptamer bioprobe (QD-Apt), which was obtained by conjugating streptavidin-modified quantum dots (SA-QDs) with biotin-derived aptamer via the interaction between biotin and streptavidin. The QD-Apt was of monodispersity and excellent fluorescence properties. When the optimum ratio of SA-QDs to aptamer, which is 1:16, was used in the preparation of the QD-Apt, the resultant QD-Apt was of satisfactory bioactivity. They could specifically recognize MEAR cells and could not recognize BNL cells and Hela cells. Particularly, the growth and viability of QD-Apt bound MEAR cells were not affected by QD-Apt within 84 h compared to control cells, indicating that the probe was biocompatible and suitable for live cell imaging.
+

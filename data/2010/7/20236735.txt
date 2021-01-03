@@ -1,0 +1,4 @@
+20236735
+2010 Jul
+A new series of quinoxaline 1,4-di-N-oxides was synthesized and evaluated for antitumor and hypoxic-selective cytotoxic activities. Antitumor activity against liver carcinoma (Hepg2) and brain tumor (U251) human cell lines were evaluated, among the tested compounds, 5b and 9b exhibited potential cytotoxic effect against Hepg2 with IC50 values of 0.77 and 0.50 microg/mL respectively, whereas, all the tested compounds lack antitumor activity against U251 human cell line. Moreover, compound 4 was the most potent hypoxia selective-cytotoxin on EAC cell line; IC50 2.5 microg/mL, potency 22 microg/mL, and was approximately 5.4-times more selective cytotoxin (HCR>40) than 3-amino-2-quinoxalinecarbonitrile1,4-dioxide (standard, HCR>7.4). Compounds 8b and 9b were more selective than the standard.
+

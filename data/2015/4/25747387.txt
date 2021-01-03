@@ -1,0 +1,4 @@
+25747387
+2015 Apr 2
+To investigate TRAIL resistance mechanisms in hepatocellular carcinoma (HCC), we isolated a stable TRAIL-resistant sub-population of the HCC cell line LH86, designated LH86-TR. Differential activation of AKT was not responsible for acquisition of TRAIL resistance. Cells with both congenital and acquired resistance to TRAIL exhibited increased Msi1 expression, which conferred TRAIL resistance by activating ERK. Forced expression of Msi1 decreased the sensitivity of HCC cells to TRAIL both in vitro and in vivo. Conversely, shRNA-mediated depletion of Msi1 enhanced TRAIL efficacy. SiRNA-mediated depletion of ERK overcame TRAIL resistance. Hence, we conclude that Msi1 is a mediator of TRAIL resistance in HCC cells.
+Drug resistance; ERK; Hepatocellular carcinoma; Msi1; Tumor necrosis factor-related apoptosis-inducing ligand.

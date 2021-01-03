@@ -1,0 +1,4 @@
+30367175
+2019 Feb
+Curvulaide A (1), a new bicyclic polyketide, together with its known congener preussilide D, were produced by solid-state fermentation with Curvularia sp. IFB-Z10. The structure of 1 was elucidated using a combination of spectral methods, including extensive one-dimensional (1D) and two-dimensional (2D) nuclear magnetic resonance (NMR) data, high resolution electrospray ionization mass spectrometry (HRESIMS), experimental and calculated electronic circular dichroism (ECD) spectra. Curvulaide A (1) exhibited moderate anti-anaerobic bacteria activity against periodontal pathogen Porphyromonas gingivalis with the MIC value of 62.5 μM, and showed moderate cytotoxicity against human hepatoma cell lines BEL7402/5-Fu with IC50 values of 12.46 μM.
+

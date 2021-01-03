@@ -1,0 +1,4 @@
+23412833
+2013
+The characteristics of surface antigens in canine hepatocellular carcinoma (cHCC) have not been clarified. The objective of this study was to investigate surface antigens, which are considered as stem/progenitor or cancer cell markers, in cHCC cell lines. Expression of various antigens including CD29, CD34, CD44, CD90, CD133 and Dlk-1 was assessed in four cHCC cell lines by flow cytometry. CD44, CD133 and Dlk-1 expression was detectable in all cell lines, and three cell lines expressed CD29. These results indicate that CD29, CD44, CD133 and Dlk-1 have potential as suitable markers in cHCC identification, suggesting that these findings will contribute to the establishment of an early diagnostic tool for the identification of hepatocellular maturation processes.
+

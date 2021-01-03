@@ -1,0 +1,4 @@
+29274707
+2018 Mar
+Purpose:In this study, we aimed to assess the association between MYBL2 expression/transcription regulatory activity (TRA) and overall survival (OS) in patients with primary hepatocellular carcinoma (HCC) and to explore the factors related to B-Myb TRA.Materials and methods:Bioinformatic analysis was performed based on data from the cancer genome atlas-liver hepatocellular carcinoma (TCGA-LIHC) and the human protein atlas (HPA).Results:The death group in TCGA-LIHC had significantly higher MYBL2 RNA and exon expression than the censor group. The high MYBL2 RNA and exon expression groups had significantly worse OS (PConclusion:High MYBL2 expression/TRA are associated with inferior OS in patients with primary HCC. Increased expression of MYBL2, LIN9, LIN52 and FOXM1 are related to higher TRA of B-Myb in HCC.
+Hepatocellular carcinoma; MYBL2; Overall survival; Prognosis; Transcription regulatory activity.

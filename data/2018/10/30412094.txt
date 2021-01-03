@@ -1,0 +1,4 @@
+30412094
+2018 Oct
+This meta-analysis aims to clarify the clinical impacts of allogeneic blood transfusion (ABT) on hepatectomy outcome in hepatocellular carcinoma (HCC) patients. A systematic literature search was performed for relevant articles in international and Chinese databases up to May 2018. Random- or fixed-effect meta-analysis was used to pool the effect estimates. Publication bias was assessed by Egger's and Peters's test. Heterogeneity was assessed using the I statistic. The strength of evidence was rated by the Grading of Recommendations Assessment, Development, and Evaluation system. A total of 29 studies met the eligibility criteria. Meta-analysis showed HCC patients in ABT group had lower survival rate at 1, 3, 5, and 10 years after radical hepatectomy than those in no blood transfusion (NBT) group (RR = 0.9, 95%CI: 0.87-0.93, P
+

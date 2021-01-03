@@ -1,0 +1,4 @@
+29138848
+2018 Jan
+Friend leukemia virus integration 1 (Fli‑1) is a newly identified ETS protein, and has critical roles in many malignancies. However, the physiological characters and potential mechanisms of Fli‑1 in hepatocellular carcinoma (HCC) progression remains unclear. In the present study, Fli‑1 was highly expressed in HCC samples and tumor cell lines. knockdown of Fli‑1 with small interfering (si)RNAs significantly reduced the colony formation and metastasis capacity of HCC cell lines in vitro. Subsequent investigation identified that Fli‑1 functioned as an oncogene in HCC carcinogenesis and it exerted its promoting metastatic effect primarily by modulating the matrix metalloproteinase (MMP)2 signaling pathway. Collectively, these data provide a novel insight into the mechanism of Fli‑1/MMP2 signaling pathway in the pathogenesis of HCC, and Fli‑1 may serve as a novel therapeutic target for HCC.
+

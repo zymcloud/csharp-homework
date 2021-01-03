@@ -1,0 +1,4 @@
+26513311
+2016 Apr
+Background and aim:We aimed to subclassify hepatocellular carcinoma (HCC) using Barcelona Clinic Liver Cancer intermediate and advanced stages, which include a highly heterogeneous population.Methods:From two registries ("random" and "voluntary" cohorts in the Korean Liver Cancer Study Group), patients who were newly diagnosed as HCC with intermediate or advanced stage between 2003 and 2005 were considered eligible. Overall survival (OS) was analyzed using Kaplan-Meier method with comparison by log-rank test.Results:Patients with intermediate-stage HCC (n = 994) were subclassified according to tumor size and Child-Pugh class. Patients with tumor size Conclusion:Subclassification of Barcelona Clinic Liver Cancer intermediate and advanced stages might be useful for determining patient prognosis and guiding treatment strategies for HCC.
+Barcelona Clinic Liver Cancer stage; hepatocellular carcinoma; overall survival; prognosis; subclassification.

@@ -1,0 +1,4 @@
+32515016
+2020 Aug
+Although experimental studies have reported that hepatic ischemia-reperfusion injury promotes tumor growth and metastases, the impact of graft hemodynamics on the recurrence of hepatocellular carcinoma (HCC) after liver transplantation (LT) is unclear. To investigate the association between graft hemodynamics and HCC recurrence after LT, we conducted a retrospective analysis of 279 patients who underwent LT for HCC. Graft hemodynamics including portal vein flow (PVF), hepatic artery flow (HAF), and total hepatic flow (THF) was analyzed as a predictor of HCC recurrence, using competing risk regression analyses. The cutoff values of PVF, HAF, and THF were set at the lower quartile of distribution. A cumulative recurrence curve demonstrated that low THF (
+graft hemodynamics; hepatocellular carcinoma; ischemia-reperfusion injury; liver transplantation; recurrence.

@@ -1,0 +1,4 @@
+31517128
+2019 Sep 6
+In this study, we report our contribution to the application of the copper-catalyzed azide-alkyne cycloaddition (CuAAC) reaction for the synthesis of β-keto-1,2,3-triazole derivatives 3a-f from ethinylestradiol and their application in the inhibition of two human cancer cells lines: human breast adenocarcinoma (MCF-7) and human hepatocellular carcinoma (HepG2). The β-keto-1,2,3-triazole derivates 3a-f exhibited moderate cytotoxic activity for the HepG2 cells with IC50 values of 29.7 μM (3a), 16.4 μM (3b), 17.8 μM (3c), 20.4 μM (3d), 28.1 μM (3e) and 28.2 μM (3f). The semi-synthetic β-keto-1,2,3-triazoles derivatives 3a-f were all characterized by FT-IR, NMR, HRMS and [α]D.
+Breast adenocarcinoma; Click reaction; Ethinylestradiol; Hepatocellular carcinoma; Organic chemistry; Pharmaceutical chemistry; Toxicology; β-keto-1,2,3-triazoles.

@@ -1,0 +1,4 @@
+23132390
+2013 Apr
+Objective:With major efforts being made to reduce radiation exposure in CT, one area of practice that requires additional improvement is limiting the number of acquisitions for body CT imaging. This review article defines best MDCT practice in terms of tailored abdominal CT protocols, designed to maximize lesion detection while limiting radiation exposure.Conclusions:The literature defines optimal acquisitions for a range of abdominal CT indications, with precontrast and delayed acquisitions being least commonly indicated.
+

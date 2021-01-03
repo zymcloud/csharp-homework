@@ -1,0 +1,4 @@
+22644844
+2012 May
+A series of naphthoquinones fused benzazepines, 5,6,8,13-tetrahydro-7H-naphtho[2,3-a][3]-benzazepine-8,13-diones, were synthesized and evaluated for their anticancer activity against four cell lines; human breast carcinoma cell line, human cervix carcinoma cell line, human hepatocellular carcinoma cell line and human keratinocyte cell line. The results showed that 5,6,8,13-tetrahydro-2,3,4,9-tetramethoxy-7H-naphtho[2,3-a][3]benzazepine-8,13-dione 4g and 5,6,8,13-tetrahydro-2,3,9-trimethoxy-7H-naphtho[2,3-a][3]benzazepine-8,13-dione 4h have significant cytotoxicity against a hepatocellular carcinoma cell line with IC(50) = 3.5 μg/mL and 3.0 μg/mL, respectively.
+

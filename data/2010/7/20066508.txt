@@ -1,0 +1,4 @@
+20066508
+2010 Jul
+Hepatitis C virus (HCV) infects over 170 million people worldwide and is a leading cause of cirrhosis and hepatocellular carcinoma. Approximately 20% [corrected] of those acutely infected clear the infection, whereas the remaining 80% [corrected] progress to chronic infection. Hepatitis C thus provides a model in which successful and unsuccessful responses can be compared to better understand the human response to viral infection. Our laboratory studies the strategies by which HCV evades the adaptive immune response. This review describes the impact of viral mutation on T cell recognition, the role of cell surface inhibitory receptors in recognition of HCV, and the development of antibodies that neutralize HCV infection. Understanding what constitutes an effective immune response in the control of HCV may enable the development of prophylactic and therapeutic vaccines for HCV and other chronic viral infections.
+

@@ -1,0 +1,4 @@
+22847784
+2012 Dec
+The interstitial chromosome (chr.) 1q21-q22 region is frequently amplified in human cancers, where it has been reported to carry prognostic significance for patients. We attempted to delineate chr. 1q21-q22 for affected gene(s) in hepatocellular carcinoma (HCC) by array-CGH and detected copy number gains of ρ-guanine nucleotide exchange factor-H1 (GEF-H1) as most significant event. Gene expression evaluation in the HCC cohort indicated common up-regulations of GEF-H1 in 64% tumours compared to adjacent non-tumoural liver (64/100; paired t-test p
+EMT; GEF-H1; RhoA; hepatocellular carcinoma; oncogene.

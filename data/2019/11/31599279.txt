@@ -1,0 +1,4 @@
+31599279
+2019 Nov 14
+This paper deals with the combination of a proline-based moiety with biologically active gold centers in the oxidation states +1 and +3. In particular, six Au(i)/(iii)-proline dithiocarbamato (DTC) complexes with general formulae [Au(DTC)2] and [AuIIIX2(DTC)] (X = Cl, Br) are reported here. After the synthesis of the ligand and the complexes, all derivatives were characterized via several techniques and tested for their stability in DMSO/water media. This study was focused on the demonstration of a peculiar behavior of Au(iii)-DTC species in solution. Finally, the complexes were screened for their antiproliferative activity against 2 human cancer cell lines, namely HepG2 and HepG2/SB3, taken as models of hepatocellular carcinoma. The latter, chosen for its aggressiveness due to the upregulation of the anti-apoptotic protein SerpinB3, was selectively inhibited in terms of growth by some Au(iii)-DTC complexes.
+

@@ -1,0 +1,4 @@
+25362514
+2015 Apr
+Background/aims:Epithelial-mesenchymal transition (EMT) plays an important role in hepatocellular carcinoma (HCC) dissemination. Bromodomain PHD-finger transcription factor (BPTF) could regulate embrogenesis and stem cell differentiation, and it may be involved in tumor progression and EMT. In this study, we aimed to determine BPTF, E-cadherin and vimentin expression in tumor tissues and the clinical significance in relation to HCC.Methods:The BPTF, vimentin and E-cadherin expression of 106 HCC tissue samples was examined by immunohistochemical staining.Results:BPTF and vimentin showed high expression and E-cadherin showed low expression in HCC. BPTF is associated with the tumor number, vascular invasion, Edmondson-Steiner grade, TNM stage and recurrence (P Conclusion:High BPTF expression may be an independent marker for survival prediction in HCC patients and is probably involved in EMT.
+

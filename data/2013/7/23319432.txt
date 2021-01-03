@@ -1,0 +1,4 @@
+23319432
+2013 Jul 15
+Although alpha-fetoprotein (AFP) is currently the major serologic biomarker for hepatocellular carcinoma (HCC), it cannot efficiently distinguish this cancer from other forms of liver disease in early diagnosis due to its low sensitivity. The aim of this study is to compare sensitivity and specificity of human carboxylesterase 1 (hCE1) and AFP biomarker. Antibody-based assays for hCE1 and AFP were used to test both biomarkers with respect to diagnostic efficiency, Youden's index and the area under the curve (AUC) through receiver operating characteristic (ROC) analysis in plasma from 208 patients with HCC (n=57), liver cirrhosis (n=27), chronic hepatitis (n=37), cholangiocarcinoma (n=22), gastric cancer (n=31) and pancreatic cancer (n=34), along with 52 healthy donors (HDs). The levels of hCE1 were significantly higher in patients with HCC than HDs and the other diseases (p
+

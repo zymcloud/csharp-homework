@@ -1,0 +1,4 @@
+33014852
+2020 Sep 8
+Sirtuin 2 (SIRT2) is a member of the sirtuin protein family. It is a Class III histone deacetylase (HDACs) and predominantly localized to the cytosol. SIRT2 deacetylates histones and a number of non-histone proteins and plays a pivotal role in various physiologic processes. Previously, SIRT2 has been considered indispensable during carcinogenesis; however, there is now a significant controversy regarding whether SIRT2 is an oncogene or a tumor suppressor. The purpose of this review is to summarize the physiological functions of SIRT2 and its mechanisms in cancer. We will focus on five malignancies (breast cancer, non-small cell lung cancer, hepatocellular carcinoma, colorectal cancer, and glioma) to describe the current status of SIRT2 research and discuss the clinical evaluation of SIRT2 expression and the use of SIRT2 inhibitors.
+HDACs; oncogene; sirtuin 2; sirtuins; tumor suppressor.

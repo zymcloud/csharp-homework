@@ -1,0 +1,4 @@
+29313453
+2018
+Macroautophagy/autophagy plays a dual role in cancer depending on the stage of tumorigenesis. Autophagy prevents tumor initiation by suppressing chronic tissue damage, inflammation, accumulation of damaged organelles and genome instability. Autophagy can also sustain tumor metabolism and provide nutrients for tumor growth and survival via nutrient recycling. Moreover, autophagy is required for benign tumors to progress to malignant tumors. Emerging evidence indicates that autophagy or mitophagy can inactivate tumor suppressors such as TP53/TRP53/p53 to promote tumor progression once carcinogenesis has been initiated.
+Autophagy; hepatocellular carcinoma; mitophagy; p53; tumorigenesis.

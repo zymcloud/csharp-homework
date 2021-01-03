@@ -1,0 +1,4 @@
+19643530
+2010 Feb 28
+We investigated the molecular effects of 3,4,2',4'-tetrahydroxychalcone (butein) treatment in two human hepatoma cancer cell lines-HepG2 and Hep3B. Butein treatment inhibited cancer cell growth by inducing G(2)/M phase arrest and apoptosis. Butein-induced G(2)/M phase arrest was associated with increased ATM, Chk1, and Chk2 phosphorylations and reduced cdc25C levels. Additionally, butein treatment enhanced inactivated phospho-Cdc2 levels, reduced Cdc2 kinase activity, and generated reactive oxygen species (ROS) that was accompanied by JNK activation. The extent of butein-induced G(2)/M phase arrest significantly decreased following pretreatment with N-acetyl-l-cysteine or glutathione and following JNK phosphorylation reduction by SP600125. Both N-acetyl-l-cysteine and glutathione also decreased butein-mediated apoptosis. Taken together, these results imply a critical role of ROS and JNK in the anticancer effects of butein.
+

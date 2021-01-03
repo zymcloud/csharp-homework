@@ -1,0 +1,4 @@
+30362091
+2018
+HCC is a rapidly increasing cancer worldwide. Most HCC rises in the setting of chronic and advanced liver disease caused by viral hepatitis, alcohol use, non-alcoholic liver disease or their combination. We found that in the mouse model, alcohol alone does not induce HCC, however, it can promote HCC development after a carcinogen exposure. Multiple mechanisms are involved in carcinogenesis and alcohol affects many of those including epithelial-mesenchymal transition, cancer stem marker expression and inflammation as evidenced in our HCC model.
+Alpha fetoprotein; Biliary cyst; DEN; Hypoxia-inducible factor-1alpha; Inflammation; Macrophage polarization; Neutrophil leukocyte; Stemness; miR-122.

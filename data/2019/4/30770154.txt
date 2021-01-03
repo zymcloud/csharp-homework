@@ -1,0 +1,4 @@
+30770154
+2019 Apr 1
+Nutrient-deprivation autophagy factor-1 (NAF-1, miner1; gene cisd2) is part of the [2Fe-2S]-containing protein family which includes mitoNEET (gene cisd1) and MiNT (miner2; gene cisd3). These proteins are redox active and are thought to play an important role in cellular energy homeostasis with NAF-1 playing a critical role in calcium regulation and aging. To date, no studies have investigated potential ligand interaction with NAF-1. Here we show that the thiazolidinediones pioglitazone and rosiglitazone along with the mitoNEET ligand, NL-1, bind to NAF-1 with low micromolar affinities. Further, we show that overexpression of NAF-1 in hepatocellular carcinoma (HepG2) cells reduces inhibition of mitochondrial respiration by pioglitazone. Our findings support the need for further efforts of the rational design of selective NAF-1 ligands.
+CDGSH; CISD' miner1; Glitazones; Wolfram syndrome; Zinc-finger.

@@ -1,0 +1,4 @@
+31760568
+2020 Jun
+Purposes:Programmed death ligand 1 (PD-L1) is a key target for the treatment of several malignancies. The present study was conducted to clarify the role of serum PD-L1 in hepatocellular carcinoma (HCC).Methods:Serum PD-L1 (sPD-L1) was examined by an enzyme-linked immunosorbent assay in 153 patients with HCC who underwent curative hepatectomy at Kumamoto University in 2011-2016. The expression of PD-L1 in tissue (tPD-L1) was investigated by immunohistochemistry. The clinical roles of the PD-L1 expression in both serum and tissue were examined.Results:The sPD-L1 was significantly elevated in HCC patients compared to patients without any malignant or inflammatory disease (234 vs. 93 pg/mL, p Conclusion:PD-L1-expressing cells in the background liver, but not in the tumor tissue, appeared to contribute to the sPD-L1 level. The sPD-L1 level may thus not indicate the tumor burden in patients with HCC.
+Hepatocellular carcinoma; Prognosis; Serum PD-L1.

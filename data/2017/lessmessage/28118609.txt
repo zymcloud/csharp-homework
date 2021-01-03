@@ -1,0 +1,4 @@
+28118609
+2017 Mar 14
+
+NEAT1; clinical value; digestive system malignancies; lncRNA; microarray and RNA-seq datasets.

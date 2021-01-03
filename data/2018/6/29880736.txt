@@ -1,0 +1,4 @@
+29880736
+2018 Jun 7
+Lectins play diverse roles in physiological processes as biological recognition molecules. In this report, a gene encoding Tachypleus tridentatus Lectin (TTL) was inserted into an oncolytic vaccinia virus (oncoVV) vector to form oncoVV-TTL, which showed significant antitumor activity in a hepatocellular carcinoma mouse model. Furthermore, TTL enhanced oncoVV replication through suppressing antiviral factors expression such as interferon-inducible protein 16 (IFI16), mitochondrial antiviral signaling protein (MAVS) and interferon-beta (IFN-β). Further investigations revealed that oncoVV-TTL replication was highly dependent on ERK activity. This study might provide insights into a novel way of the utilization of TTL in oncolytic viral therapies.
+ERK; TTL; oncolytic vaccinia virus; viral replication.

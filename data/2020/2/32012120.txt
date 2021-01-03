@@ -1,0 +1,4 @@
+32012120
+2020 Feb 3
+Upregulated ubiquitin-conjugating enzyme E2M (UBE2M) is associated with poor prognosis in malignancies; However, the phenotype and mechanism of action of UBE2M in hepatocellular carcinoma (HCC) remain elusive. Here, we report that UBE2M is overexpressed and correlated with poor prognosis in HCC patients. The UBE2M level is an independent prognostic factor for HCC patients. UBE2M knockdown inhibits HCC cell proliferation, migration, and invasion, whereas its overexpression has an opposite effect. Mechanistically, upregulated UBE2M exerts oncogenic effects by translocation of accumulated β-catenin from the cytoplasm to the nucleus, thus activating downstream β-catenin/cyclin D1 signaling. In summary, our study demonstrates a notable role of UBE2M in promoting the growth of HCC, providing a novel strategy for HCC prevention and treatment.
+hepatocellular carcinoma; prognosis; proliferation; ubiquitin-conjugating enzyme E2M; β-catenin.

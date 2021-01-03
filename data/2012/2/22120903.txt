@@ -1,0 +1,4 @@
+22120903
+2012 Feb
+Hypoxia has been shown to have a role in the pathogenesis of several forms of liver disease. The hypoxia inducible factors (HIFs) are a family of evolutionarily conserved transcriptional regulators that affect a homeostatic response to low oxygen tension and have been identified as key mediators of angiogenesis, inflammation, and metabolism. In this review we summarize the evidence for a role of HIFs across a range of hepatic pathophysiology. We describe regulation of the HIFs and review investigations that demonstrate a role for HIFs in the development of liver fibrosis, activation of innate immune pathways, hepatocellular carcinoma, as well as other liver diseases in both human disease as well as murine models.
+

@@ -1,0 +1,4 @@
+27349376
+2016 Aug
+NEK2 has been estimated to play an important role in cancer progression. However, its relevance in hepatocellular carcinoma (HCC) has not yet been explored. Immunohistochemistry revealed NEK2 expression was upregulated in HCC. NEK2-positive hepatocellular carcinoma patients were associated with poor prognosis after surgery compared with NEK2-negative patients based on Kaplan-Meier curves. Deletion of NEK2 reduced self-renewal properties and chemotherapeutic resistance, and decreased the stemness associated genes in cell lines. NEK2 was associated with unfavorable outcomes in HCC patients, and was revealed to regulate self-renewal property by means of Wnt/β-catenin signaling, and chemotherapeutic resistance by preferential regulation of the expression of ABCG2 and ALDH1A1 in HCC cells.
+

@@ -1,0 +1,4 @@
+24200959
+2014 Jan
+Using cholesterol, stigmasterol and sitosterol as starting materials, some 4,6-diaza-A,B-dihomo-steroid bilactams were synthesized via two different synthetic routes by oxidation, reduction, oximation, Beckman rearrangement, etc. The cytotoxic activity of the synthesized compounds against SGC 7901 (human ventriculi carcinoma), Bel-7404 (human liver carcinoma), HeLa (human cervical carcinoma) and HT-29 (colonic carcinoma) cancer cells were investigated. The results showed that compounds 2 and 7b displayed a good cytotoxic activity to the SGC 7901, Bel 7404 and HeLa tumor cell lines with the IC50 values of 11.6, 16.4, 13.9 and 13.1, 21.8, 13.1 μmol/L, respectively. Their cytotoxic activity is almost same as cisplatin to these cells. The information obtained from the studies may be useful for the design of novel chemotherapeutic drugs.
+4,6-Diaza-A,B-dihomo-steroid bilactams; Cholesterol; Cytotoxicity; Sitosterol; Stigmasterol.

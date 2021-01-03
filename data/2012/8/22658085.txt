@@ -1,0 +1,4 @@
+22658085
+2012 Aug
+A series of pyrazoline derivatives (1a-15a) was synthesized by cyclization of chalcones (1-15) with 2-[5-(4-methoxyphenyl)-1H-tetrazol-1-yl]acetohydrazide under basic conditions and were screened in vitro, to find out effect on the growth of HM1: IMSS strain of Entamoeba histolytica. The compounds 3a, 4a, 11a, 13a and 14a showed encouraging results with IC(50) value in the range of 0.86-1.28 μM. However compound 13a showed most promising results with IC(50) = 0.86 μM which is half of the metronidazole, the standard drug used for protozoal infection. Cell viability test in human hepatocellular carcinoma cell line (HepG2) revealed non-toxic nature of new synthesized compounds. Safety index calculations prevailed compound 13a as highly antiamoebic and least cytotoxic (S.I. = >116.28), almost twice than metronidazole.
+

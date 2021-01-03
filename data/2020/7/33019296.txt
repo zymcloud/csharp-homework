@@ -1,0 +1,4 @@
+33019296
+2020 Jul
+Hepatocellular carcinoma (HCC) is the most common type of primary liver cancer and the fourth most common cause of cancer-related death worldwide. Understanding the underlying gene mutations in HCC provides great prognostic value for treatment planning and targeted therapy. Radiogenomics has revealed an association between non-invasive imaging features and molecular genomics. However, imaging feature identification is laborious and error-prone. In this paper, we propose an end-to-end deep learning framework for mutation prediction in APOB, COL11A1 and ATRX genes using multiphasic CT scans. Considering intra-tumour heterogeneity (ITH) in HCC, multi-region sampling technology is implemented to generate the dataset for experiments. Experimental results demonstrate the effectiveness of the proposed model.
+

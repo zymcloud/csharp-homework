@@ -1,0 +1,4 @@
+31695090
+2019 Nov 6
+Fully elucidating the molecular mechanisms of non-coding RNAs (ncRNAs), including micro RNAs (miRNAs) and long non-coding RNAs (lncRNAs), underlying hepatocarcinogenesis is challenging. We characterized the expression profiles of ncRNAs and constructed a regulatory mRNA-lncRNA-miRNA (MLMI) network based on transcriptome sequencing (RNA-seq) of hepatocellular carcinoma (HCC, n = 9) patients. Of the identified miRNAs (n = 203) and lncRNAs (n = 1,090), we found 16 significantly differentially expressed (DE) miRNAs and three DE lncRNAs. The DE RNAs were highly enriched in 21 functional pathways implicated in HCC (p
+

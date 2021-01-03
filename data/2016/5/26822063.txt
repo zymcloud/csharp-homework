@@ -1,0 +1,4 @@
+26822063
+2016 May
+Sterol regulatory element-binding proteins (SREBPs) are a family of transcription factors that regulate lipid homeostasis by controlling the expression of genes involved in fatty acid and cholesterol synthesis. In this study, we used a stable cell line that expresses a luciferase reporter gene driven by an SRE-containing fatty acid synthase promoter to identify allyl isothiocyanate (AITC), one of the major isothiocyanates in cruciferous vegetables, as a novel SREBP inactivator. We found that AITC downregulated the proteolytic processing of SREBPs and the expression of their target genes in human hepatoma Huh-7 cells. Furthermore, AITC reduced the de novo synthesis of both fatty acids and cholesterol. Our results indicate a novel physiological function of AITC in lipid metabolism regulation.
+SREBP; allyl isothiocyanate; cholesterol; fatty acid.

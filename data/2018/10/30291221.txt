@@ -1,0 +1,4 @@
+30291221
+2018 Oct 6
+BACKGROUND The aim of this study was to explore the influence of ubiquitin associated protein 2-like (UBAP2L) on the growth and metastasis of hepatocellular carcinoma (HCC) and its potential underlying mechanism. MATERIAL AND METHODS UBAP2L gene was knocked down in SMMC-7721 by RNA interference and cell function experiments were performed. A subcutaneous xenograft tumor model was constructed to examine the effect of UBAP2L silence on HCC growth. Finally, the whole genomic microarrays were used to screen the potential mechanism of UBAP2L in regulating the biological function of HCC. RESULTS Compared with those in the control group, the cell proliferation and clone formation were significantly reduced, cell cycle was arrested in G2/M phase, the number of apoptotic cells was remarkably increased, and the abilities of vascular formation and cell migration and metastasis were dramatically weakened in the shUBAP2L group (All P
+

@@ -1,0 +1,4 @@
+28646470
+2017 Jun
+APOBEC3 protein families, a DNA cytidine deaminase, were up-regulated in multiple tumors. However, the relationship between Hepatocellular carcinoma (HCC) and APOBEC3B (A3B) remains unknown. It has been confirmed that interleukin-6 (IL-6) has significant impacts on oncogenesis of HCC. Here, we reported that the expression of IL-6 was substantially up-regulated by A3B in HepG2 cells. A3B induced IL-6 expression through relocating HuR to enhance the IL-6 mRNA stability. Further analysis indicated that IL-6 also increased the expression of A3B through JAK1/STAT3 signaling pathway, which formed a positive feedback to maintain the continuous expression of A3B and IL-6, and thereby promoted the prolonged non-resolving inflammation. Collectively, these findings suggest that A3B is essential for oncogenesis of HCC, and is a potential target for preventive intervention.
+APOBEC3B; HuR; hepatitis; hepatocellular carcinoma; interleukin-6.

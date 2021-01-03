@@ -1,0 +1,4 @@
+28703624
+2017 Sep
+Despite clinical studies with different mechanisms of action, no new systemic therapies were approved for hepatocellular carcinoma (HCC) between sorafenib in 2007 and regorafenib in 2017. This is an area of interest to improve outcomes and quality of life. Cabozantinib is oral, small-molecule tyrosine kinase inhibitor that primarily targets MET, VEGFR2, AXL and RET, with additional effect on KIT and FLT3. Cabozantinib is approved for progressive metastatic medullary thyroid cancer and previously treated renal cell carcinoma, and is in development for multiple solid tumors. Given positive results from a Phase II study, cabozantinib is under evaluation in a Phase III randomized controlled trial for patients with advanced HCC previously treated with sorafenib. It has been granted orphan drug status in the USA for this indication. This review summarizes the development of cabozantinib in HCC.
+cabozantinib; drug development; hepatocellular carcinoma.

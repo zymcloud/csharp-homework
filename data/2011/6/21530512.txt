@@ -1,0 +1,4 @@
+21530512
+2011 Jun 23
+Hepatocellular carcinoma (HCC) is a complex and heterogeneous tumor with poor prognosis. Sorafenib, a multikinase inhibitor, has been widely used to treat patients with advanced HCC in clinic. We postulated that microRNAs (miRNA) might be involved in HCC target-chemotherapy with sorafenib. MiRNA profile of HepG2 was evaluated after cells were treated with vehicle or sorafenib and alterations in miRNA expression occurred with 14 miRNAs. MiR-1274a, which is up-regulated by sorafenib, could significantly repress expression of ADAM9, a protease that is involved in sorafenib target-therapy of HCC, in HCC cells. Taken together, our data emphasizes a new miRNA-based mechanism of sorafenib antitumor therapy.
+

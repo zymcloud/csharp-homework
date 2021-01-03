@@ -1,0 +1,4 @@
+28883415
+2017 Sep 7
+Cancer may arise from dedifferentiation of mature cells or maturation-arrested stem cells. Previously we reported that definitive endoderm from which liver was derived, expressed Globo H, SSEA-3 and SSEA-4. In this study, we examined the expression of their biosynthetic enzymes, FUT1, FUT2, B3GALT5 and ST3GAL2, in 135 hepatocellular carcinoma (HCC) tissues by qRT-PCR. High expression of either FUT1 or B3GALT5 was significantly associated with advanced stages and poor outcome. Kaplan Meier survival analysis showed significantly shorter relapse-free survival (RFS) for those with high expression of either FUT1 or B3GALT5 (P = 0.024 and 0.001, respectively) and shorter overall survival (OS) for those with high expression of B3GALT5 (P = 0.017). Combination of FUT1 and B3GALT5 revealed that high expression of both genes had poorer RFS and OS than the others (P
+

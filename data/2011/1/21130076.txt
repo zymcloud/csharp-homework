@@ -1,0 +1,4 @@
+21130076
+2011 Jan 7
+Deleted in liver cancer 1 (DLC1), a tumor suppressor gene identified in a primary human hepatocellular carcinoma, encodes a Rho GTPase-activating protein (RhoGAP). Although DLC1 expression has been studied at the transcriptional level, little is known about its regulation at the protein level. Here we show that DLC1 is an unstable protein that is degraded by the 26S proteasome in human hepatocellular carcinoma Hep3B cells. In addition, five putative PEST motifs were identified in the N-terminus of DLC1. Unexpectedly, the N-terminus of DLC1 appeared to be stable. Furthermore, deletion of any one of the five PEST motifs except PEST2 decreased the stability of the N-terminus of DLC1, which suggests that the PEST motifs may play an unrevealed role in maintaining the stability of DLC1. These data indicated that the intracellular stability of DLC1 is regulated by the 26S proteasome via its PEST motifs.
+

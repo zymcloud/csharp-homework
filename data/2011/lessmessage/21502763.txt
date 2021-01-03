@@ -1,0 +1,4 @@
+21502763
+2011
+Aim:To analyze the relationship between hepatitis B virus (HBV) and hepatocellular carcinoma (HCC) recurrence in orthotopic liver transplantation (OLT) patients.Methods:340 HBV patients with OLT were included in the study; among them were 148 patients with HBV-associated HCC.Results:HCC recurrence rates at 1, 3 and 5 years were 21, 29, and 46%, respectively. Exceeding Milan criteria (hazard ratio, HR = 12.35; 95% confidence interval, CI, 2.80-54.49; p = 0.001), HBV DNA level >5 log(10) copies/ml before transplant (HR = 2.45; 95% CI 1.10-5.45; p = 0.03) and HBV recurrence (HR = 2.27; 95% CI 1.10-4.75; p = 0.03) were significant independent predictors of HCC recurrence. HBV DNA >5 log(10) copies/ml before transplant (HR = 8.65; 95% CI 3.40-21.98; p Conclusions:There is a close relationship between HBV and HCC recurrence after transplant. High HBV DNA levels before transplant are associated with HCC recurrence after transplant.
+

@@ -1,0 +1,4 @@
+31664799
+
+Although there has been tremendous progress in the treatment of hepatocellular carcinoma over the past decades, multidrug resistance to chemotherapy and targeted therapy remains a major hindrance in its successful management. Multidrug resistance, whether intrinsic or extrinsic, is a multifactorial process that includes enhanced drug efflux, decreased drug uptake, intracellular sequestration, metabolic alterations, aberrant apoptotic and autophagic signaling, changes in tumor microenvironment, and acquisition of stem cell-like properties by the cancer cells. Although many experimental strategies have been developed to overcome drug resistance, translation of the knowledge to the clinic has not been crowned with success. This chapter provides an overview of the role of multidrug resistance in hepatocellular carcinoma and the potential approaches to overcome this obstacle.
+

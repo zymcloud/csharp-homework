@@ -1,0 +1,4 @@
+21328447
+2011 Mar
+Runt-related transcription factor 3 (RUNX3) is reported as a tumor suppressor gene for gastric cancer, and may be important in the development of hepatocellular carcinoma (HCC). RUNX3 expression is frequently lost or decreased by hemizygous deletion or hypermethylation of its promoter lesion in HCC. The significance of decreased expression of RUNX3 in HCC has not been fully elucidated, but is likely related to dysfunction of cell cycle regulation, decrement of apoptosis, enhancement of angiogenesis, and development of epithelial-mesenchymal transition. RUNX3 is a promising candidate as a tumor suppressor gene for HCC.
+

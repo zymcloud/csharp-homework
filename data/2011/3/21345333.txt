@@ -1,0 +1,4 @@
+21345333
+2011 Mar 18
+Accumulation of mutations and single nucleotide polymorphisms (SNPs) in the displacement loop (D-loop) of mitochondrial DNA (mtDNA) might be associated with cancer risk and disease outcome. We investigated the prediction power of D-loop SNPs in hepatocellular carcinoma (HCC) patients. No mutation in these HCC patients has prediction power for post-operational survival, whereas two SNP sites (nucleotides 146 T/C and 150 C/T) were identified by the log-rank test for statistically significant prediction of HCC survival. In an overall multivariate analysis, allele 146 was identified as an independent predictor of HCC outcome. The length of survival of patients with allele 146C was significantly shorter than that of patients with allele 146T (relative risk, 2.781; 95% CI, 1.127-6.859; p=0.026). The analysis of genetic polymorphisms in the mitochondrial D-loop can help identify patient subgroups at high risk of a poor disease outcome.
+

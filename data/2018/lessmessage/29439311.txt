@@ -1,0 +1,4 @@
+29439311
+2018
+In China, hepatocellular carcinoma (HCC) is the most commonly diagnosed cancer and the leading cause of cancer death in men, followed by lung and stomach cancer. There was an urgent need to identify novel prognostic biomarkers for HCC. We explored the expression pattern of m6A related proteins in HCC tissues by using TCGA in this study. We found that the m6A 'reader' YTHDF1 was significantly upregulated in HCC and was positive correlated with pathology stage. Kaplan-Meier analysis showed that Lower YTHDF1 expression level was associated with better survival of HCC patients. Furthermore, we performed GO and KEGG pathway analysis of YTHDF1 co-expressed genes and found YTHDF1 played an important role in regulating HCC cell cycle progression and metabolism. We believed that this study will provide a potential new therapeutic and prognostic target for HCC.
+HCC; YTHDF1; biomarker; m6A; prognostic.

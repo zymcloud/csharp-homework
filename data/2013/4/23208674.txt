@@ -1,0 +1,4 @@
+23208674
+2013 Apr
+The ability to distinguish tumor cells from normal cells is vital to allow the immune system to selectively destroy tumor cells. In order to find an effective marker, we used enzyme-linked immunosorbent assay, immunocytochemistry, immunofluorescence, and flow cytometry to investigate the effects of heat stress on the amount of heat shock protein 70 on the surface of tumor cells (Hep G2 cells). Heat shock protein 70 is the major stress-induced heat shock protein found on the surface of tumor cells. Our results indicate that the percentage of Hep G2 cells with a detectable level of heat shock protein 70 on their cell surface increased significantly (P 0.05). The increase in the level of heat shock protein 70 on the surface of tumor cells following heat stress could provide a basis for finding novel immunotoxins as targets for drug action and may have application to be used in conjunction with hyperthermia in the treatment of tumors.
+

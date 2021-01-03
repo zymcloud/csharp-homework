@@ -1,0 +1,4 @@
+32886898
+2020 Sep
+Background:It remains unknown to what extent hepatocellular carcinomas (HCCs) are detected very early (T1 stage; ie, unifocal Methods:Patients with HCC diagnosed from 2004 through 2014 were identified from the National Cancer Database. Logistic regression was used to identify factors associated with T1 HCC detection, and Cox proportional hazard analyses identified factors associated with overall survival among patients with T1 HCC.Results:Of 110,182 eligible patients, the proportion with T1 HCC increased from 2.6% in 2004 to 6.8% in 2014 (PConclusions:Despite increases over time,
+

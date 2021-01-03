@@ -1,0 +1,4 @@
+30916406
+2019 Aug
+The aberrant expression of long noncoding RNAs (lncRNAs) has drawn increasing attention in the field of hepatocellular carcinoma (HCC) biology. In the present study, we obtained the expression profiles of lncRNAs, microRNAs (miRNAs), and messenger RNAs (mRNAs) in 371 HCC tissues and 50 normal tissues from The Cancer Genome Atlas (TCGA) and identified hepatocarcinogenesis-specific differentially expressed genes (DEGs, log fold change ≥ 2, FDR
+ceRNA; hepatocellular carcinoma; lncRNA; overall survival; risk score.

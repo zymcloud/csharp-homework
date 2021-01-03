@@ -1,0 +1,4 @@
+23895038
+2013 Aug 7
+A new biological activity of falcarindiol isolated from Japanese parsley (Oenanthe javanica) using the mutant yeast YNS17 strain (zds1Δ erg3Δ pdr1Δ pdr3Δ) was discovered as an inhibitor of glycogen synthase kinase-3β (GSK-3β). Falcarindiol inhibited GSK-3β in an ATP noncompetitive manner with a Ki value of 86.9 μM using a human enzyme and luminescent kinase assay platform. Falcarindiol also both suppressed gene expression of glucose-6-phosphatase (G6Pase) in rat hepatoma H4IIE cells and protected mouse neuroblastoma HT22 cells from glutamate-induced oxidative cell death at 10 μM. During an oral glucose tolerance test (OGTT), the blood glucose level was significantly decreased in the rats treated with oral administration of O. javanica extract containing falcarindiol (15 mg/kg). These findings indicate that Japanese parsley could be a useful food ingredient against type-2 diabetes and Alzheimer's disease.
+

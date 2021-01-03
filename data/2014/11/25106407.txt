@@ -1,0 +1,4 @@
+25106407
+2014 Nov
+Sox17, an antagonist of canonical Wnt/β-catenin signaling, inhibits several malignant carcinogenesis and progression. However, little is known about Sox17 in hepatocellular carcinoma (HCC). Here, we found that Sox17 is downregulated in HCC tissue. Furthermore, Sox17 inhibits cell proliferation and migration in HCC. KIF14, a member of kinesin superfamily protein (KIFs), is an oncogene in a variety of malignant tumors including HCC. We demonstrated that Sox17 is negatively related to KIF14 expression in HCC tissue and Sox17 inhibits HCC cell proliferation and migration by transcriptional downregulation of KIF14 expression. Our results may provide a strategy for blocking HCC carcinogenesis and progression.
+

@@ -1,0 +1,4 @@
+23213040
+2013 Jul
+Chronic hepatitis B virus (HBV) infection leads to cirrhosis and hepatocellular carcinoma (HCC). Antiviral agents are thought to reduce HCC development, but agents such as lamivudine (LAM) have a high rate of drug resistance. We compared the incidence of HCC in 472 entecavir (ETV)-treated patients and 1,143 nontreated HBV patients (control group). Propensity score matching eliminated the baseline differences, resulting in a sample size of 316 patients per cohort. The drug mutation resistance was 0.8% (4/472) in the ETV group. The cumulative HCC incidence rates at 5 years were 3.7% and 13.7% for the ETV and control groups, respectively (P Conclusion:Long-term ETV treatment may reduce the incidence of HCC in HBV-infected patients. The treatment effect was greater in patients at higher risk of HCC.
+

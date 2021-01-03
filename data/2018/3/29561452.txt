@@ -1,0 +1,4 @@
+29561452
+2018 Mar
+Minimal information is available concerning platelet-albumin-bilirubin (PALBI) grades in patients with hepatocellular carcinoma (HCC) following liver resection. This study aimed to investigate the predictive ability of PALBI grades in patients with a Child-Pugh class A score and hepatitis B virus-related (HBV-related) HCC after liver resection.The data of patients with HBV-related HCC who underwent liver resection from 2010 to 2017 at our center were reviewed (n = 785). Cox regression was used to determine factors independently associated with postoperative recurrence and mortality. The area under the receiver operating characteristic curve (AUC) was used to estimate the predictive accuracy of different tools.During the follow-up period, 505 (64.3%) patients experienced recurrence, and 374 (47.6%) patients died. Multivariate analysis revealed that the tumor-node-metastasis (TNM) stage (HR = 1.591, 95%CI = 1.414-1.789, P
+

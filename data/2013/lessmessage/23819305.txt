@@ -1,0 +1,4 @@
+23819305
+Mar-Apr 2013
+Cytotoxic activity of gaillardin, a sesquiterpene lactone isolated from Inula oculus-christi L. (Asteraceae), was assessed in the human breast adenocarcinoma cell line MCF-7, human hepatocellular carcinoma cell line HepG-2, human non-small cell lung carcinoma cell line A-549, and human colon adenocarcinoma cell line HT-29, resulting in IC50 values of 6.37, 6.20, 4.76, and 1.81 microg/mL, respectively, in the microculture tetrazolium-formazan MTT assay. In vitro apoptosis-inducing properties of gaillardin were also evaluated in MCF-7 cells with the terminal deoxynucleotidyl transferase-mediated deoxyuridine triphosphate nick-end labeling (TUNEL) assay. The results suggest gaillardin as a candidate for further studies in cancer therapy
+

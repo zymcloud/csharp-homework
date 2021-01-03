@@ -1,0 +1,4 @@
+28272708
+2017 Feb
+Objective:MiR-655-3p has been reported to play important roles in tumor initiation, development, and metastasis in several cancers. This study aimed to assess the potential role of miR-655-3p in the pathogenesis of hepatocellular carcinoma (HCC).Patients and methods:The expression levels of miR-655-3p in HCC tissues were detected by qPCR. The relationship between clinicopathologic characteristics and miR-655-3p was analyzed by chi-square test. Kaplan-Meier curves and multivariate Cox proportional models were used to study the impact on clinical outcome.Results:miR-655-3p was significantly down- regulated in HCC tissues compared to normal adjacent liver tissues (p Conclusions:Our data showed that low expression of miR-655-3p was associated with significant characteristics of patients with HCC, and it could function as a potential unfavorable prognostic biomarker.
+

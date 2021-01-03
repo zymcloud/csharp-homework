@@ -1,0 +1,4 @@
+27182434
+2016 May 11
+Molecular characterization of individual patients' tumor cells is becoming increasingly important in offering effective treatment for patients in clinical practice. Recent advances in the field have indicated that circulating tumor DNA (ctDNA) has huge potential to serve as a biomarker for early detection and precision treatment as well as prognosis of hepatocellular carcinoma (HCC). As ctDNA in HCC patients harbors the molecular characteristics of HCC tumor cells, ctDNA analysis in the blood may be sufficient for convenient, non-invasive and accurate detection, providing information for HCC diagnosis, treatment and prognosis. In this review, we will summarize and discuss current trends and challenges of ctDNA application in HCC.
+Biomarker; Cell free DNA; Circulating tumor DNA; Hepatocellular carcinoma; Liquid biopsy.

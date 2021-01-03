@@ -1,0 +1,4 @@
+23583031
+2013 May 15
+Two series of peptidomimetics were designed, prepared and evaluated for their anti-HCV activity. One series possesses a C-terminal carboxylate functionality. In the other series, the electrophilic vinyl sulfonate moiety was introduced as a novel class of HCV NS3/4A protease inhibitors. In vitro based studies were then performed to evaluate the efficacies of the inhibitors using Human hepatoma cells, with the vinyl sulfonate ester (10) in particular, found to have highly potent anti-HCV activity with an EC(50) = 0.296 μM. Finally, molecular modeling studies were performed through docking of the synthesized compounds in the HCV NS3/4A protease active site to assess their binding modes with the enzyme and gain further insight into their structure-activity relationships.
+

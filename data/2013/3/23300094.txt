@@ -1,0 +1,4 @@
+23300094
+2013 Mar
+The interaction of glycan-binding proteins (GBPs) and glycans plays a significant biological role that ranges from cell-cell recognition to cell trafficking, and glycoprotein targeting. The anomalies of GBPs related to the types and/or quantities were not clearly known in cancer incidence. It is imperative to identify and annotate the GBPs related with the canceration. Here the mannose-binding proteins (MBPs) from the clinical sera were isolated and identified by the mannose-magnetic particle conjugates and the high-accuracy MS analysis. Seventy-five MBPs from normal donors' sera and 79 MBPs from hepatocellular carcinoma patients' sera were identified and annotated. By using the stringent criteria of exponentially modified protein abundance index (emPAI) quantification, 12 MBPs were estimated to be significantly upregulated (emPAI ratio > 4) and nine MBPs were estimated to be significantly downregulated (emPAI ratio
+

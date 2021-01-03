@@ -1,0 +1,4 @@
+27902355
+2016 Dec
+In this study we investigated if human umbilical cord blood serum (CBS) is a suitable replacement for foetal bovine serum (FBS) in cultures of human hepatoma cell line Huh7.5, particularly regarding its capacity to maintain high growth rates, differentiation status and its ability to support robust hepatitis C virus (HCV) infection. Generally, CBS-cultured Huh7.5 cells remained comparable to FBS-cultured cells, and proliferated equally well. Albumin secretion, a hepatocyte differentiation marker, had increased 8x in CBS; however, most other hepatocyte markers we tested had not changed. Surprisingly, CBS-cultured cells were able to sustain very high levels of HCV production, and HCV infection in CBS-cultured cells did not induce cell lysis, which is typically seen in HCV-infected cells cultured in FBS. We discuss some of the differences between CBS, adult human serum and FBS that may explain the differences observed.
+

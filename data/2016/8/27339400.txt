@@ -1,0 +1,4 @@
+27339400
+2016 Aug
+Astrocyte-elevated gene-1 (AEG-1) positively regulates tumor progression and metastasis. Here, we document that AEG-1 upregulates transcription of the membrane protein tetraspanin 8 (TSPAN8). Knocking down TSPAN8 in AEG-1-overexpressing human hepatocellular carcinoma (HCC) cells markedly inhibited invasion and migration without affecting proliferation. TSPAN8 knockdown profoundly abrogated AEG-1-induced primary tumor and intrahepatic metastasis in an orthopic xenograft model in athymic nude mice. Coculture of TSPAN8 knockdown cells with human umbilical vein endothelial cells (HUVEC) markedly inhibited HUVEC tube formation indicating that inhibition of angiogenesis might cause reduction in primary tumor size. TSPAN8 inhibition might be a potential therapeutic strategy for metastatic HCC.
+angiogenesis; astrocyte-elevated gene-1; invasion; metastasis; tetraspanin 8.

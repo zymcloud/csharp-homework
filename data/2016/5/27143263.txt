@@ -1,0 +1,4 @@
+27143263
+2016 May
+In various studies, metastasis associated with colon cancer 1 (MACC1) has been frequently reported to be abnormally highly expressed in human lung cancer, colon cancer, and hepatocellular carcinoma. Our study focuses on the association of MACC1 expression with gastric cancer (GC). During our experiment, the MACC1 expression was tested in 105 GC samples using an immunohistochemical (IHC) method. The clinical characteristics and prognosis of these patients were summarized. During analysis, MACC1 distribution in GC samples with distant metastasis was higher than that in normal samples and in tumors with no dissemination. Subsequently, a lower 5-year survival rate had a strong correlation with high MACC1 expression. As a consequence, the present results suggest that MACC1 is more frequently expressed in a poor prognosis phenotype of GC and acts as a promising prognostic prediction parameter for GC.
+Gastric cancer; MACC1; Metastasis; Prognosis.

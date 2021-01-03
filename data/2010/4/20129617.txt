@@ -1,0 +1,4 @@
+20129617
+2010 Apr 15
+High quality water-soluble semiconductor CdSe quantum dots (QDs) were prepared by a phase transfer method, in which amphiphilic oligomers (polymaleic acid aliphatic alcohol ester) was used as surface coating agents. The as-prepared aqueous QDs were high fluorescent and extremely stable. Fourier transform infrared spectroscopy, thermogravimetric analysis, and transmission electron microscopy all indicated that the surfaces of the QDs were coated with amphiphilic oligomers. Alkyl chain length of the amphiphilic oligomers could dramatically affect the phase transfer efficiency. It was found that the use of polymaleic acid n-hexadecanol ester had the best result. A biocompatible test has been carried out and such prepared water-soluble QDs were used to target tumor cells and found that the oligomer-functionalized QDs were excellent fluorescence labels for detecting the human hepatoma cells.
+

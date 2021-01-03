@@ -1,0 +1,4 @@
+26622849
+2015 Oct
+In the present study, two oxidative stress parameters, reactive oxygen species (ROS) and mitochondrial respiratory complex II, were evaluated in the mitochondria of hepatocellular carcinoma (HCC) cells to determine the association between these parameters and the carcinogenesis and clinical outcome of HCC. High levels of ROS and low levels of complex II were found to be associated with reduced post-operative survival in HCC patients using the log-rank test. Furthermore, multivariate analysis confirmed that the levels of ROS [relative risk (RR)=2.867; 95% confidence interval (CI), 1.062-7.737; P=0.038] and complex II (RR=5.422; 95% CI, 1.273-23.088; P=0.022) were independent predictors for the survival of patients with HCC. Therefore, the analysis of ROS and complex II levels may provide a useful research and therapeutic tool for the prediction of HCC prognosis and treatment.
+complex II; hepatocellular carcinoma; outcome; reactive oxygen species.

@@ -1,0 +1,4 @@
+20035538
+2010 Feb 1
+Background:Optimal management of large (>5 cm) hepatocellular carcinoma (HCC) remains controversial. We sought to determine the factors associated with recurrence and survival for patients with large HCC following hepatectomy.Methods:An analysis of a combined prospective database from two tertiary care centers was performed on consecutive patients who underwent hepatectomy for HCC > 5 cm. Univariate and multivariate analyses were performed to determine factors associated with recurrence, disease-free (DFS) and overall survival (OS).Results:Seventy-eight patients were identified: 32 (41%) had hepatic fibrosis. Forty-six patients (59%) underwent a major hepatectomy with a morbidity rate of 41% and a mortality rate of 13%. Fibrosis was associated with male gender (P = 0.045), hepatitis C (P = 0.003), higher Child-Pugh (P Conclusions:For patients with HCC larger than 5 cm, tumor-related factors predict outcomes and survival.
+

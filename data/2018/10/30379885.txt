@@ -1,0 +1,4 @@
+30379885
+2018 Oct 31
+Patients with liver cirrhosis and hepatocellular carcinoma (HCC) are often ineligible for resection or local ablation therapy due to poor liver function and/or difficult location. The aim of this study is to evaluate therapeutic outcomes of stereotactic body radiotherapy (SBRT) combined with transarterial chemoembolization (TACE) compared with TACE alone for HCC measuring less than 5 cm. From March 2011 to December 2016, 85 patients underwent SBRT with TACE (SBRT-TACE group) and 114 underwent TACE (TACE group) at 4 tertiary hospitals. Local control rate (LCR), progression-free survival (PFS) and overall survival (OS) were compared after propensity-score matching (1:1 ratio). The SBRT-TACE group showed significantly higher 1- and 3-year LCR than the TACE group (91.1% and 89.9%, respectively vs 69.9% and 44.8%, respectively; P
+

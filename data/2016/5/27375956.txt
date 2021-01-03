@@ -1,0 +1,4 @@
+27375956
+2016 May 27
+The importance of stroma as a rich diagnostic region in tissue biopsies is growing as there is an increasing understanding that disease processes in multiple organs can affect the composition of adjacent connective tissue regions. This may be especially true in the liver, since this organ's central metabolic role exposes it to multiple disease processes. We use quantum cascade laser infrared spectroscopic imaging to study changes in the chemical status of hepatocytes and fibrotic regions of liver tissue that result from the progression of liver cirrhosis to hepatocellular carcinoma and the potentially confounding effects of diabetes mellitus.
+(170.3880) Medical and biological imaging; (170.6510) Spectroscopy, tissue diagnostics; (300.6340) Spectroscopy, infrared.

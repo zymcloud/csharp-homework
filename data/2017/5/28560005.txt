@@ -1,0 +1,4 @@
+28560005
+2017 May 15
+Transmembrane protein 100 (TMEM100) was first identified as a transcript from the mouse genome. Recent studies have demonstrated that TMEM100 is involved in hepatocellular carcinoma (HCC) malignancy. However, the distribution and clinical significance of TMEM100 in non-small-cell lung carcinoma (NSCLC) remains poorly understood. This study aims to explore the significance of TMEM100 expression in NSCLC. We found that TMEM100 expression was significantly reduced in NSCLC tissues when compared with that in adjacent normal lung tissues (P
+TMEM100; non-small-cell lung cancer (NSCLC); prognosis; signaling pathway; tumor necrosis factor (TNF).

@@ -1,0 +1,4 @@
+28968981
+2017 Jun 28
+Aberrant enzymatic activities or expression profiles of epigenetic regulations are therapeutic targets for cancers. Among these, histone 3 lysine 9 methylation (H3K9Me2) and global de-acetylation on histone proteins are associated with multiple cancer phenotypes including leukemia, prostatic carcinoma, hepatocellular carcinoma and pulmonary carcinoma. Here, we report the discovery of the first small molecule capable of acting as a dual inhibitor targeting both G9a and HDAC. Our structure based design, synthesis, and screening for the dual activity of the small molecules led to the discovery of compound 14 which displays promising inhibition of both G9a and HDAC in low micro-molar range in cell based assays.
+G9a inhibitors; HDAC inhibitors; dual inhibitors; epigenetics; pharmacophore.

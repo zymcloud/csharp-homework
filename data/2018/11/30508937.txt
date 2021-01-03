@@ -1,0 +1,4 @@
+30508937
+2018 Nov
+To explore the role of quantitative digital subtraction angiography (QDSA) in the diagnosis of small hepatocellular carcinoma (HCC).Between November 2015 and November 2017, all patients who underwent chemoembolization for HCC were retrospectively reviewed. Patients with tumors measuring more than 5 cm or evident post-processing imaging artifacts were excluded. Images were post-processed using the QDSA technique. Regions of interest were manually drawn on proper hepatic artery (as a reference), target HCC and peritumoral liver. Time-concentration curves and flow parameters of the peak ratio, subtracted time-to-peak (TTP), and area under the curve (AUC) ratio was obtained and analyzed.A total of 146 HCCs (mean diameter, 1.6 cm) of 71 cirrhotic patients (54 men, 17 women; mean age, 67.7 years) were enrolled. Compared with liver parenchyma, HCCs showed an increased and more rapid flow (peak ratio, AUC ratio, subtracted TTP, and wash-in slope; all P
+

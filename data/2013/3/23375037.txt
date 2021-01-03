@@ -1,0 +1,4 @@
+23375037
+2013 Mar
+Objective:To investigate the expression and potential roles of G protein-coupled receptor kinase 6 (GRK6) in hepatocellular carcinoma (HCC) patients.Methods:Immunohistochemistry and Western blot was performed to determine GRK6 expression in 73 HCC samples. And the correlation with clinicopathological features was also analyzed.Results:GRK6 expression was significantly higher in HCC than that in normal hepatic tissue. GRK6 was positively correlated with proliferation marker Ki-67, clinical stage, metastasis and survival time.Conclusions:Our results suggested that GRK6 overexpression plays an important role in HCC. Monitoring the expression of GRK6 maybe helpful in early diagnosis and prognosis of HCC.
+

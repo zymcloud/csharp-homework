@@ -1,0 +1,4 @@
+26357614
+2014 Mar
+Proteomics has evolved into a powerful and widely used bioanalytical technique in the study of cancer, especially hepatocellular carcinoma (HCC). In this review, we provide an up to date overview of feasible proteome-analytical techniques for clinical questions. In addition, we present a broad summary of proteomic studies of HCC utilizing various technical approaches for the analysis of samples derived from diverse sources like HCC cell lines, animal models, human tissue and body fluids.
+Animal models; Biomarker; Cell lines; Hepatocellular carcinoma; Proteomics; Quantitative analysis; Tissue samples.

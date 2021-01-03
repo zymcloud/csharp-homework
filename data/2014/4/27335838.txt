@@ -1,0 +1,4 @@
+27335838
+2014 Apr 1
+To evaluate diagnostic performance of real-time tissue elastography (RTE) with a low frequency convex array probe for distinguishing benign from malignant hepatic tumors through trans-abdominal examination, elasticity images of 210 liver tumors were obtained by EUB-7500 (Hitachi Medical Systems and 3.5 MHz probe) and eventually 121 liver tumors were analyzed in the study. Elasticity images were classified into four types, from type a to d. Regarding type a or b as benign tumors and type c or d as malignant ones, sensitivity, specificity, and accuracy were calculated and the consistency between the findings of RTE and the pathohistological diagnosis was evaluated. The sensitivity, specificity, and accuracy were separately 97.2%, 88.0%, and 93.4% (P
+

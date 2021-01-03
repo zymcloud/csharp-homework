@@ -1,0 +1,4 @@
+31797589
+2020
+Non-alcoholic fatty liver disease (NAFLD) is a complex heterogeneous disease which affects more than 20% of the population worldwide. Some subtypes of NAFLD have been clinically identified using hypothesis-driven methods. In this study, we used data mining techniques to search for subtypes in an unbiased fashion. Using electronic signatures of the disease, we identified a cohort of 13,290 patients with NAFLD from a hospital database. We gathered clinical data from multiple sources and applied unsupervised clustering to identify five subtypes among this cohort. Descriptive statistics and survival analysis showed that the subtypes were clinically distinct and were associated with different rates of death, cirrhosis, hepatocellular carcinoma, chronic kidney disease, cardiovascular disease, and myocardial infarction. Novel disease subtypes identified in this manner could be used to risk-stratify patients and guide management.
+

@@ -1,0 +1,4 @@
+20204428
+2010 Apr
+Hepatitis C virus (HCV) is the main causative agent of chronic liver disease, which may develop into liver cirrhosis and hepatocellular carcinoma. By using a recently developed reporter assay system in which genome-length HCV RNA replicates efficiently, we found that hydroxyurea (HU), a DNA synthesis inhibitor, inhibited HCV RNA replication. Moreover, we demonstrated that the anti-HCV activity of the combination of IFN-alpha and HU was higher than that of IFN-alpha alone. These results suggest that HU may be an effective anti-HCV reagent that can be used not only singly but also in combination with IFN-alpha to treat chronic hepatitis C.
+

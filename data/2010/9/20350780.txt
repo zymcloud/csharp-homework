@@ -1,0 +1,4 @@
+20350780
+2010 Sep 28
+Hypoxia induces survival signals in hepatocellular carcinoma (HCC). We attempted to find a hypoxia-induced signal that could be used for modulating HCC cell death. Cellular retinoic acid binding protein-II (CRABP-II) expression was significantly increased in hypoxic HCC cells. Treatment with retinoic acid (RA), a ligand for CRABP-II, induced HCC cell apoptosis more effectively in hypoxia than in normoxia, whereas hypoxia-induced CRABP-II expression attenuated RA-induced apoptosis. Inhibition of CRABP-II enhanced RA-induced apoptosis and sensitized RA-resistant HCC cells to RA cytotoxicity by attenuating p42/44 MAPK and Akt activation. Therefore, RA/CRABP-II signal modulation is therapeutically implicated in infiltrative HCCs exposed to hypoxia.
+

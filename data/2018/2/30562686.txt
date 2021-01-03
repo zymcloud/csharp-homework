@@ -1,0 +1,4 @@
+30562686
+2019 Feb
+Objective:To clarify the associations between the IL-17A rs2275913 and IL-17F rs763780 polymorphisms and the risk of digestive system neoplasms.Methods:An internet search was used to identify relevant articles from CNKI, Wanfang, VIP, PubMed, EMBASE and Elsevier up to December 2017. The meta-analysis was performed using Stata 11.0 software.Results:Twenty-three studies were included. Among these, 21 studies with 6978 cases and 8000 controls were related to IL-17A rs2275913, while 18 studies that included 5073 cases and 6040 controls were related to IL-17F rs763780. The meta-analysis results demonstrated that the overall effects of the two polymorphisms were significantly different (P Conclusions:The IL-17A rs2275913 and IL-17F rs763780 polymorphisms were associated with susceptibility to digestive system neoplasms.
+Digestive neoplasms; IL-17A rs2275913; IL-17F rs763780; Meta-analysis; Polymorphisms.

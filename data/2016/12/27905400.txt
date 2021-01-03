@@ -1,0 +1,4 @@
+27905400
+2016 Dec 1
+Liver cancer stem cells (CSCs) may contribute to the high rate of recurrence and heterogeneity of hepatocellular carcinoma (HCC). However, the biology of hepatic CSCs remains largely undefined. Through analysis of transcriptome microarray data, we identify a long noncoding RNA (lncRNA) called lncBRM, which is highly expressed in liver CSCs and HCC tumours. LncBRM is required for the self-renewal maintenance of liver CSCs and tumour initiation. In liver CSCs, lncBRM associates with BRM to initiate the BRG1/BRM switch and the BRG1-embedded BAF complex triggers activation of YAP1 signalling. Moreover, expression levels of lncBRM together with YAP1 signalling targets are positively correlated with tumour severity of HCC patients. Therefore, lncBRM and YAP1 signalling may serve as biomarkers for diagnosis and potential drug targets for HCC.
+

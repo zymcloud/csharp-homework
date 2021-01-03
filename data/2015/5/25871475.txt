@@ -1,0 +1,4 @@
+25871475
+2015 May 10
+Pygopus-2 over-expression has been reported in several malignancies, such as ovarian, breast, lung and liver cancers. Here we demonstrated that down-regulation of Pygopus-2 by shRNA inhibited hepatic carcinoma cell invasion in vitro and metastasis in xenograft tumor models, which were promoted when Pygopus-2 was over-expressed. Pygopus-2 increased hepatic carcinoma cell invasion and metastasis, by decreasing E-cadherin. Pygopus-2 could bind to the E-cadherin promoter, increasing its methylation, and also indirectly decreased zeb2 expression. In turn these effects caused down-regulation of E-cadherin, potentiating invasion and metastasis. We suggest that targeting Pygopus-2 may potentially inhibit metastasis of hepatic carcinoma.
+E-cadherin; hepatic carcinoma; invasion; metastasis; pygopus-2.

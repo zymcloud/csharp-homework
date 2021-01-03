@@ -1,0 +1,4 @@
+28116284
+2016 Dec 30
+Immunotherapy targeting programmed death receptor 1 and programmed death ligand 1 (PD-L1) has shown impressive antitumor efficacy in several solid cancers, including advanced hepatocellular carcinoma (HCC). Since response rates of various cancers to such immunotherapy appear to correlate with PD-L1 expression levels, several studies have examined whether PD-L1 expression correlates with HCC pathology and patient prognosis. In this paper, we analyzed the strength and limitations of a recent meta-analysis of associations of PD-L1 with HCC characteristics and patient prognosis.
+hepatic resection; hepatocellular carcinoma; prognoses; programmed death ligand 1.

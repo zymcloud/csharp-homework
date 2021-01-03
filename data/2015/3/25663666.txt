@@ -1,0 +1,4 @@
+25663666
+2015 Mar
+Acquired radioresistance of cancer cells interferes with radiotherapy and increases the probability of cancer recurrence. HepG2-8960-R, which is one of several clinically relevant radioresistant (CRR) cell lines, has a high tolerance to the repeated clinically relevant doses of X-ray radiation. In this study, HepG2-8960-R had slightly lower cell proliferation ability than HepG2 in the presence of FBS. In particular, epidermal growth factor (EGF) hardly enhanced cell proliferation and DNA synthesis in HepG2-8960-R. Additionally, EGF could not induce the activation of Erk1/2, because the expression of EGF receptor (EGFR) protein decreased in HepG2-8960-R in accordance with the methylation of the EGFR promoter region. Therefore, cetuximab did not inhibit HepG2-8960-R cell proliferation. Our study showed that HepG2-8960-R had radioresistant and cetuximab-resistant abilities.
+cetuximab; hepatocellular carcinoma; radiation; radioresistance.

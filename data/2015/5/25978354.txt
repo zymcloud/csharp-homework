@@ -1,0 +1,4 @@
+25978354
+2015 May 15
+Inhibition of VEGFR2 activity has been proposed as an important strategy for the clinical treatment of hepatocellular carcinoma (HCC). In this study, we identified corosolic acid (CA), which exists in the root of Actinidia chinensis, as having a significant anti-cancer effect on HCC cells. We found that CA inhibits VEGFR2 kinase activity by directly interacting with the ATP binding pocket. CA down-regulates the VEGFR2/Src/FAK/cdc42 axis, subsequently decreasing F-actin formation and migratory activity in vitro. In an in vivo model, CA exhibited an effective dose (5 mg/kg/day) on tumor growth. We further demonstrate that CA has a synergistic effect with sorafenib within a wide range of concentrations. In conclusion, this research elucidates the effects and molecular mechanism for CA on HCC cells and suggests that CA could be a therapeutic or adjuvant strategy for patients with aggressive HCC.
+

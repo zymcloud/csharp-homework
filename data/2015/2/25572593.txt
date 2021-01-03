@@ -1,0 +1,4 @@
+25572593
+2015 Feb 12
+Liver cancer represents the second most deadly human malignancy. The major histological subtype called hepatocellular carcinoma (HCC) arises by chronic inflammation-triggered regenerative responses of normally quiescent hepatocytes and progenitors, respectively. Such regenerative stress accelerates the accumulation of genetic and epigenetic changes (Yamashita & Wang, 2013), while detailed mechanisms remain uncertain. In this issue of The EMBO Journal, Nikolaou et al present a novel HCC model that facilitates both isolation and molecular characterization of self-renewing, HCC-propagating cancer stem cells that could instruct future interventions (Nikolaou et al, 2014).
+

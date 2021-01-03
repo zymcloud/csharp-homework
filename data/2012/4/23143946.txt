@@ -1,0 +1,4 @@
+23143946
+2013 Apr
+Aim:This study was designed to explore the genetic polymorphism of IL-10 (-1082A/G, -592A/C, -819T/C), TNF-α (-308G/A) with susceptibility to docetaxel-induced liver injury (DILI) in Chinese breast cancer patients.Methods:The targeted genetic polymorphisms of IL10-1082G/A, IL10-592A/C, IL10-819T/C, TNF-308G/A from 40 patients with DILI were assayed by matrix-assisted laser desorption/ionization-time of flight of Sequenom.Results:AA genotype of IL10-592 and TT of IL10-819 significantly increased incidence of DILI (P = 0.005, OR = 3.137). No differences of TNF gene polymorphism between the two groups were seen.Conclusion:The genetic polymorphism of the IL10-592A/C AA genotype and IL10-819T/C TT genotype was predominantly conferred to the incidence of docetaxel-induced liver injury.
+

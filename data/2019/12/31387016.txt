@@ -1,0 +1,4 @@
+31387016
+2019 Dec
+Liver cancer, hepatocellular carcinoma (HCC) in particular, is one of the deadliest cancers worldwide. Although the etiologies for liver oncogenesis are relatively well defined, the exact mechanisms leading to cancer development remain elusive. The Hippo signaling pathway, an evolutionarily conserved signaling module, plays critical roles in organ size control and tumorigenesis. The aberrant activation of the transcriptional coactivator YAP or TAZ, downstream effectors of the Hippo signaling pathway, has been implicated in several human cancers including HCC. YAP/TAZ therefore have emerged as an attractive target for cancer therapeutics. In this review, we summarize the recent findings regarding the role of YAP/TAZ in HCC development, and discuss the multifarious mechanisms regulating their activities and their potential contribution to human liver tumorigenesis.
+

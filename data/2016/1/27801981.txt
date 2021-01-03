@@ -1,0 +1,4 @@
+27801981
+2017 Jan
+We report the case of a 37-year-old male non-small cell lung cancer patient with an active epidermal growth factor receptor (EGFR) mutation who received gefitinib as first-line treatment. After 13.7 months, the patient experienced disease progression and was treated with platinum-based doublet chemotherapy plus gefitinib for 5.4 months. A subsequent lung biopsy showed cMET overexpression; therefore, the patient received a cMET inhibitor with the gefitinib. The response in the different lesions of several organs was diverse. Stable disease was achieved in the lung lesion; however, the liver metastases enlarged. A liver biopsy found T790M mutation in EGFR exon 20, thus, third generation EGFR-tyrosine kinase inhibitors were used and a partial response was achieved.
+EGFR; TKI; heterogeneity; lung cancer.

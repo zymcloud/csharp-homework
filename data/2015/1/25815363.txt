@@ -1,0 +1,4 @@
+25815363
+2015 Jan 6
+CXCR4, stromal cell-derived factor-1α(SDF 1α) receptor, stimulates growth and metastasis of hepatocellular carcinoma (HCC). Alpha-fetoprotein(AFP) governs the expression of some metastasis-related genes. Here we report that AFP and CXCR4 levels correlated in HCC tissues. AFP-expressing vectors induced CXCR4. In agreement, AFP depletion by siRNA decreased CXCR4. AFP co-localized and interacted with PTEN, thus inducing CXCR4 by activating AKT(Ser473) phosphorylation. In turn, phospho-mTOR(Ser2448) entered the nucleus and bound the CXCR4 gene promoter. Thus, AFP promoted migration of HCC cells. In concusion, AFP induced CXCR4 by activating the AKT/mTOR signal pathway.
+AKT/mTOR signal; Alpha fetoprotein; CXCR4; Hepatocellular carcinoma; Metastasis.

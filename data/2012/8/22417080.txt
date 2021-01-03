@@ -1,0 +1,4 @@
+22417080
+2013 Aug
+The increasing presence of ZnO nanoparticles (NPs) in consumer products may be having a dramatic impact in aquatic environments. The evaluation of ZnO NP toxicity represents a great challenge. This study aimed at evaluating the cytotoxic effect of micro- and nanosized ZnO in a fish and a mammalian hepatoma cell line. A detailed characterisation of the particles in exposure media showed that ZnO NPs formed large aggregates. ZnO cytotoxicity was evaluated with a battery of in vitro assays including LUCS, a new approach based on DNA alteration measurements. In fish cells, ZnO NP aggregates contributed substantially to the cytotoxic effects whereas toxicity in the human cells appeared to be mainly produced by the dissolved fraction. ROS production did not contribute to the observed cytotoxicity. This work also showed that measuring concentrations of NPs is essential to understand the mechanisms underlying their toxicity.
+

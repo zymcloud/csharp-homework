@@ -1,0 +1,4 @@
+19634065
+2010 Apr
+Small organic dyes have been applied widely in fluorescence imaging techniques for biomedical research. We investigated the cytotoxicity of a novel fluorescent dye, trans-4-(N-2-hydroxyethyl-N-ethyl amino)-4'-(dimethyl amino) stilbene (DMAHAS), on human hepatocellular carcinoma (HepG2) cells using methyl thiazolyl tetrazolium(MTT), a neutral red assay, a Coomassie brilliant blue assay, and flow cytometric analysis. Our results showed that DMAHAS had live cell permeability, stable cytosolic localization and no significant cytotoxicity to HepG2 cells. We explored its application further for tumor cell tracking in a human liver tumor xenograft mouse model. Tumor xenografts were examined by fluorescence imaging and conventional histological methods. In addition, a method based on DMAHAS release was developed for tumor-specific cytotoxicity analysis. Our study indicated that DMAHAS is a reliable probe for tumor tracking and fluorescence imaging.
+

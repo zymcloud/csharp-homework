@@ -1,0 +1,4 @@
+30408066
+2018 Nov 8
+Conflicting results have been obtained regarding the association between X-ray repair cross complementation group 1 (XRCC1) and susceptibility to hepatocellular carcinoma (HCC). In this study, associations between HCC and three polymorphisms (Arg194Trp, Arg280His, and Arg399Gln) were evaluated using a meta-analysis approach. PubMed, Web of Science, Cochrane Library, the Chinese National Knowledge Infrastructure, and the Wanfang standard database were systematically searched to identify all relevant case-control studies published through March 2018. A total of 32 case-control studies, including 13 that evaluated Arg194Trp, 14 that evaluated Arg280His, and 26 that evaluated Arg399Gln, were analyzed. In the entire study population, XRCC1 Arg399Gln was significantly associated not only with overall risk of HCC (homozygous model, OR = 1.61, 95% CI: 1.40-1.85, P
+

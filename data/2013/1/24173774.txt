@@ -1,0 +1,4 @@
+24173774
+2014 Jan
+Liver cancer in men is the fifth most frequently diagnosed cancer worldwide. Human Krüppel-like factor (KLF9) gene, localized on human chromosome 9q13, has been implicated in mediating a diverse range of biological processes including stem cell maintenance and differentiation of T- and B-lymphocytes. In this study, we confirmed that the levels of KLF9 mRNA and protein were lower in hepatocellular carcinoma (HCC) tissue compared to normal tissue. In addition, we confirmed that upregulation of KLF9 inhibited cell proliferation and mobility and induce apoptosis in HepG2 cells depending on programmed cell death protein 5 (PDCD5) expression. However, no interaction was found between KLF9 and PDCD5 using fluorescence resonance energy transfer (FRET) and co-immunoprecipitation (co-IP). We confirmed that PDCD5 overexpression stimulated the promoter activities of KLF9 by luciferase reporter assays.
+

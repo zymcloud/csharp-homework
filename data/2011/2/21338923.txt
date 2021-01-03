@@ -1,0 +1,4 @@
+21338923
+2011 Feb 25
+The uncoupling proteins (UCPs) are mitochondrial carriers that modulate the energetic efficiency and, as a result, can lower superoxide levels. Here, we describe the discovery of a small-molecule inhibitor of the UCPs. Screening of potential UCP1 regulators led to the identification of chromane derivatives that inhibit its proton conductance. Members of the UCP family can act as a defense against oxidative stress and, thus, UCP2 plays a protective role in tumor cells. High UCP2 levels have been associated with chemoresistance. We demonstrate that chromanes also inhibit UCP2 and, in HT-29 human carcinoma cells, cause oxidative stress. The chromane derivatives can act synergistically with chemotherapeutic agents; for instance, they increase the toxicity of arsenic trioxide in HT-29 cells. These findings open a promising line in the development of novel anticancer agents.
+

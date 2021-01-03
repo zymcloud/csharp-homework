@@ -1,0 +1,4 @@
+21920019
+2011 Nov
+Model for End-stage Liver Disease (MELD)-based allocation of deceased donor livers allows exceptions for patients whose score may not reflect their true mortality risk. We hypothesized that organ procurement organizations (OPOs) may differ in exception practices, use of exceptions may be increasing over time, and exception patients may be advantaged relative to other patients. We analyzed longitudinal MELD score, exception and outcome in 88 981 adult liver candidates as reported to the United Network for Organ Sharing from 2002 to 2010. Proportion of patients receiving an HCC exception was 0-21.4% at the OPO-level and 11.9-18.8% at the region level; proportion receiving an exception for other conditions was 0.0%-13.1% (OPO-level) and 3.7-9.5 (region-level). Hepatocellular carcinoma (HCC) exceptions rose over time (10.5% in 2002 vs. 15.5% in 2008, HR = 1.09 per year, p
+

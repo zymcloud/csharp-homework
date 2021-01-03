@@ -1,0 +1,4 @@
+21093415
+2010 Dec 17
+The Ras-related tumor suppressor gene aplasia Ras homolog member I (ARHI) is frequently downregulated in many types of cancer, including hepatocellular carcinoma (HCC). In this study, we sought to explore the therapeutic implications of ARHI reconstitution in the treatment of HCC. We generated stable cell lines overexpressing ARHI in Hep3B and SK-Hep1 cells, both of which lack endogenous ARHI. The effects of ARHI reexpression on tumor growth and angiogenesis were assessed. Given the key role of mammalian target of rapamycin (mTOR) signaling in HCC progression, we also tested whether ARHI overexpression affected the mTOR pathway. Forced expression of ARHI resulted in a significant inhibition of the proliferation of both Hep3B and SK-Hep1 cells compared to control cells (P
+

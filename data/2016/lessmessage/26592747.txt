@@ -1,0 +1,4 @@
+26592747
+2016
+A novel synthetic method of 4-substituted aryl-1H-1,2,3-triazoles from arylglyoxaldoxime semicarbazone with sodium dithionite and O2 was found to be safer than the Huisgen azide- alkyne dipolar cycloaddition. A total of 17 new structures of 4-substituted aryl-1H-1,2,3- triazoles were characterized by 1H NMR, 13C NMR, ESI-MS. Subsequently, their in vitro antihepatoma activities were evaluated on human hepatoma QGY-7703, Bel-7402 and SMMC-7721 cell lines and mouse fibroblast cells L-929 by MTS assay. Among them, 5k exhibited excellent activity against QGY-7703 (GI50 = 0.0232 μM), while 5p and 5q displayed good activity (GI50 = 0.103 μM and GI50 = 0.182 μM) against the growth of SMMC-7721 cell lines. Furthermore, 5k, 5p and 5q showed slight selectivity of inhibition on hepatoma cell lines over normal cell line L-929.
+

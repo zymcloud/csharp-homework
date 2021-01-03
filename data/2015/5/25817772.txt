@@ -1,0 +1,4 @@
+25817772
+2015 May 5
+To identify novel multi-target-directed drug candidates for the treatment of cancer, a series of benzoselenazole-stilbene hybrids were synthesised by combining the pharmacophores of resveratrol and ebselen. The biological assay indicated that all of the hybrids exhibited antiproliferative activities against four human cancer cell lines and demonstrated good TrxR inhibitory activities. The mechanism of cell apoptosis was investigated in G2/M cell cycle arrest induced by compound 6e and the apoptosis of the human liver carcinoma Bel-7402 cell line. The significant increase in intracellular ROS confirmed that compound 6e was capable of causing oxidative stress-induced apoptosis in cancer cells. Our results support the potential of compound 6e as a candidate for further studies examining the development of novel drugs for cancer treatment.
+Antiproliferative activity; Apoptosis; Benzoselenazole-stilbene hybrids; G(2)/M cell cycle arrest; ROS; TrxR.

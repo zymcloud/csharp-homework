@@ -1,0 +1,4 @@
+24101971
+2013 Aug
+(-)-Deguelin is a rotenoid natural product that possesses significant potential as a chemopreventive and chemotherapeutic agent. While several racemic syntheses of deguelin have been reported, a formal evaluation of the anticancer activity of both the natural and unnatural enantiomers remains lacking. We describe herein the successful application of a flexible and selective thiourea-catalyzed cyclization strategy toward the enantioselective total synthesis of deguelin, which allows access to either stereoisomer for biological studies. The synthesis was completed in six steps (longest linear) with no protecting groups. The evaluation of both enantiomers of the natural product demonstrated potent inhibition of several cancer cell lines by these compounds, but interestingly showed that the unnatural (+)-deguelin preferentially inhibited the growth of MCF-7 breast cancer and HepG2 liver carcinoma cells when compared to the natural product.
+

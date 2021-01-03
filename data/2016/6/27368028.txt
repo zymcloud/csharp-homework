@@ -1,0 +1,4 @@
+27368028
+2016 Jun
+The objective is to explore the value of preoperative magnetic resonance (MR) histogram analyses in predicting microvascular invasion (MVI) of hepatocellular carcinoma (HCC).Fifty-one patients with histologically confirmed HCC who underwent diffusion-weighted and contrast-enhanced MR imaging were included. Histogram analyses were performed and mean, variance, skewness, kurtosis, 1th, 10th, 50th, 90th, and 99th percentiles were derived. Quantitative histogram parameters were compared between HCCs with and without MVI. Receiver operating characteristics (ROC) analyses were generated to compare the diagnostic performance of tumor size, histogram analyses of apparent diffusion coefficient (ADC) maps, and MR enhancement.The mean, 1th, 10th, and 50th percentiles of ADC maps, and the mean, variance. 1th, 10th, 50th, 90th, and 99th percentiles of the portal venous phase (PVP) images were significantly different between the groups with and without MVI (P
+

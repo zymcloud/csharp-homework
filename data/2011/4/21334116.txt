@@ -1,0 +1,4 @@
+21334116
+2011 Apr
+Caged 4-oxa-tricyclo[4.3.1.0(3,7)]dec-2-one structural motifs are found in Garcinia natural products that demonstrate anti-tumor activity. Gambogic acid (GA, 1), the most abundant caged Garcinia xanthones, has been reported to be a promising anti-cancer agent. To identify the essential pharmacophore for its anti-tumor activity, a series of GA analogues that address potential key structural features for biological activity were synthesized, among which compound 11a displayed comparable in vitro anti-tumor activity as GA. Mechanistic studies on 11a determined that the compound induces apoptosis as well as arrests the G2/M phase of the cell cycle in HepG2 cells. The determination of the essential part of the scaffold found in GA to maintain anti-tumor effects, and the SAR based on the caged pharmacophore are reported and will provide key information for future anti-cancer drug development studies.
+

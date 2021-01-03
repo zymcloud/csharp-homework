@@ -1,0 +1,4 @@
+26234139
+2015 May
+N-Benzyl matrinol was obtained by hydrolysis, benzylation and reduction reaction from matrine. A series of hybrids (8a-8n) from (phenylsulfonyl)furoxan and N-benzyl matrinol were synthesized and biologically evaluated as anti-hepatocellular carcinoma agents. All target compounds were evaluated for anti-proliferative activity against human hepatocellular Bel-7402, SMMC-7721, Bel-7404, and HepG2 cells in vitro by MTT method. The results indicated that all of these compounds had potent anti-proliferative activity which were more potent than their parent compound and 5-FU, especially 8a-8h and 8j showed the strongest anti-HCC HepG2 cell activity with IC50 values of 0.12-0.93 μmol x L(-1).
+

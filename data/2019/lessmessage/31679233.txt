@@ -1,0 +1,4 @@
+31679233
+2019
+Hepatocellular carcinoma is the sixth most common liver cancer worldwide and the third leading cause of cancer mortality. For these reasons, early diagnostic, prognostic, and therapeutic biomarkers are extremely urgent. MicroRNAs are small noncoding single-stranded RNA molecules that are reported to be involved in a variety of physiological and pathological processes during carcinogenesis. In this study, the expression characteristics, functions, and validated targets of microRNAs in HCC were summarized and potential microRNA biomarkers were confirmed from clinical specimens. Multiple-scales integrative analysis was used to predict the diagnostic, prognostic, and therapeutic potential of microRNAs in blood and tissue of HCC patients, providing novel insight into HCC diagnosis and treatment using microRNA biomarkers.
+

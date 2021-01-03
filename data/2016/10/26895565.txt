@@ -1,0 +1,4 @@
+26895565
+2016 Oct
+We performed a phase I study of GTI-2040, an antisense oligonucleotide against ribonucleotide reductase mRNA, on a novel dosing schedule of days 1-4 and 15-18 by continuous infusion to examine efficacy and tolerability in patients with leukemia. A dose of 11 mg/kg/d was safely reached. Dose-limiting toxicities (DLTs) at the higher levels included elevated troponin I and liver function enzymes. There were no objective responses to GTI-2040 in this study; 7/24 patients were able to complete the predetermined three infusion cycles. Pharmacokinetic and pharmacodynamic studies were performed, indicating a trend towards increasing intracellular drug levels and decreasing RRM2 gene expression with increasing doses. This dose schedule may be considered if appropriate combinations are identified in preclinical studies.
+Acute leukemia; GTI-2040; intermittent infusion; pharmacodynamics; pharmacokinetics; phase I trial; ribonucleotide reductase.

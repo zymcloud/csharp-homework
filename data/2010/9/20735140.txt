@@ -1,0 +1,4 @@
+20735140
+2010 Sep 23
+6,6,8-Triethyldesmosdumotin B (2) was discovered as a MDR-selective flavonoid with significant in vitro anticancer activity against a multidrug resistant (MDR) cell line (KB-VIN) but without activity against the parent cells (KB). Additional 2 analogues were synthesized and evaluated to determine the effect of B-ring modifications on MDR-selectivity. Analogues with a B-ring Me (3) or Et (4) group had substantially increased MDR selectivity. Three new disubstituted analogues, 35, 37, and 49, also had high collateral sensitivity (CS) indices of 273, 250, and 100, respectively. Furthermore, 2-4 also displayed MDR selectivity in an MDR hepatoma-cell system. While 2-4 showed either no or very weak inhibition of cellular P-glycoprotein (P-gp) activity, they either activated or inhibited the actions of the first generation P-gp inhibitors verapamil or cyclosporin, respectively.
+

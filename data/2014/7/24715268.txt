@@ -1,0 +1,4 @@
+24715268
+2014 Jul
+FXYD6, FXYD domain containing ion transport regulator 6, has been reported to affect the activity of Na(+)/K(+)-ATPase and be associated with mental diseases. Here, we demonstrate that FXYD6 is up-regulated in hepatocellular carcinoma (HCC) and enhances the migration and proliferation of HCC cells. Up-regulation of FXYD6 not only positively correlates with the increase of Na(+)/K(+)-ATPase but also coordinates with the activation of its downstream Src-ERK signaling pathway. More importantly, blocking FXYD6 by its functional antibody significantly inhibits the growth potential of the xenografted HCC tumors in mice, indicating that FXYD6 represents a potential therapeutic target toward HCC. Altogether, our results establish a critical role of FXYD6 in HCC progression and suggest that the therapy targeting FXYD6 can benefit the clinical treatment toward HCC patients.
+

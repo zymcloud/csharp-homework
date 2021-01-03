@@ -1,0 +1,4 @@
+31267557
+2019 Aug 1
+The IGF1R signaling is important in the malignant progression of cancer. However, overexpression of IGF1R has not been properly assessed in HCC. Here, we revealed that GSTZ1-1, the enzyme in phenylalanine/tyrosine catabolism, is downregulated in HCC, and its expression was negatively correlated with IGF1R. Mechanistically, GSTZ1-1 deficiency led to succinylacetone accumulation, alkylation modification of KEAP1, and NRF2 activation, thus promoting IGF1R transcription by recruiting SP1 to its promoter. Moreover, inhibition of IGF1R or NRF2 significantly inhibited tumor-promoting effects of GSTZ1 knockout in vivo. These findings establish succinylacetone as an oncometabolite, and GSTZ1-1 as an important tumor suppressor by inhibiting NRF2/IGF1R axis in HCC. Targeting NRF2 or IGF1R may be a promising treatment approach for this subset HCC.
+GSTZ1-1; IGF1R; KEAP1; NRF2; succinylacetone.

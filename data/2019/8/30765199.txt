@@ -1,0 +1,4 @@
+30765199
+2019 Aug
+Background:We aimed to study outcomes in HIV + patients with HCC in the US following Liver Transplantation (LT) using the UNOS dataset.Methods:The database was queried from 2003 to 2016 for patients undergoing LT with HCC, HIV+, and HCC/HIV+.Results:Out of 17,397 LT performed for HCC during the study period, 113 were transplanted for HCC with HIV infection (91 isolated livers). Patients transplanted for HCC/HIV+ were younger (55.54 ± 5.89 vs 58.80 ± 7.37, p Conclusions:Our analysis suggests that excellent outcomes can be achieved in selected patients with HCC/HIV+.
+

@@ -1,0 +1,4 @@
+26540029
+2016 Feb 1
+Advanced hepatocellular carcinoma (HCC) carries a dismal prognosis and the current treatment is limited to sorafenib, an agent with modest benefit. Preclinical data have indicated that several immunologic mechanisms are at play to promote HCC development and growth while impairing effective antitumor immune surveillance. Several novel approaches geared toward manipulating the immune response to HCC have suggested a therapeutic benefit in early-stage clinical trials, indicating a real potential to augment tumor-specific immunity and improve outcomes in patients with this disease. In the current study, the authors reviewed the barriers to an effective immune response against HCC and contemporary clinical investigations that may be "primed" to alter the natural history of HCC.
+checkpoint inhibitors; hepatocellular carcinoma; immune evasion; immunotherapy.

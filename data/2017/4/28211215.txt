@@ -1,0 +1,4 @@
+28211215
+2017 Apr
+There is increasing evidence that circular RNA (circRNA) are involved in cancer development, but the regulation and function of human circRNA remain largely unknown. In this study, we demonstrated that ZKSCAN1, a zinc finger family gene, is expressed in both linear and circular (circZKSCAN1) forms of RNA in human hepatocellular carcinoma (HCC) tissues and cell lines. Here, we analyzed a cohort of 102 patients and found that expression of both ZKSCAN1mRNA and circZKSCAN1 was significantly lower (P
+HCC; RNA-seq; ZKSCAN1; circular RNA; qRT-PCR.

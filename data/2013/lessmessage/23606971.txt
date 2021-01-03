@@ -1,0 +1,4 @@
+23606971
+2013
+Under normal physiological conditions, the hepatocyte growth factor (HGF) and its receptor, the MET transmembrane tyrosine kinase (cMET), are involved in embryogenesis, morphogenesis, and wound healing. The HGF-cMET axis promotes cell survival, proliferation, migration, and invasion via modulation of epithelial-mesenchymal interactions. Hepatocellular cancer (HCC) is the third most common cause of worldwide cancer-related mortality; advanced disease is associated with a paucity of therapeutic options and a five-year survival rate of only 10%. Dysregulation of the HGF-cMET pathway is implicated in HCC carcinogenesis and progression through activation of multiple signaling pathways; therefore, cMET inhibition is a promising therapeutic strategy for HCC treatment. The authors review HGF-cMET structure and function in normal tissue and in HCC, cMET inhibition in HCC, and future strategies for biomarker identification.
+

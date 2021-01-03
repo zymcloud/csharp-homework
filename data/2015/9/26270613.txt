@@ -1,0 +1,4 @@
+26270613
+2015 Sep
+The aim of this study is to evaluate organ and tissue absorbed doses to patients undergoing hepatic chemoembolization procedures performed in two hospitals in the city of Recife, Brazil. Forty eight patients undergoing fifty hepatic chemoembolization procedures were investigated. For the 20 cases with PA projection only, organs and tissues dose to KAP conversion coefficients were calculated using the mesh-based anthropometric phantom series FASH and MASH coupled to the EGSnrc Monte Carlo code. Clinical, dosimetric and irradiations parameters were registered for all patients. The maximum organ absorbed doses found were 2.4 Gy, 0.85 Gy, 0.76 Gy and 0.44 Gy for skin, kidneys, adrenals and liver, respectively.
+

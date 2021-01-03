@@ -1,0 +1,4 @@
+30304569
+2019 Jan
+Uridine-cytidine kinases (encoded by UCK1, UCKL1, and UCK2) catalyze the phosphorylation of uridine and cytidine to uridine monophosphate (UMP) and cytidine monophosphate (CMP). In this study, using data from the Cancer Genome Atlas (TCGA), we analyzed the expression profile of uridine-cytidine kinase genes in hepatocellular carcinoma (HCC), their prognostic value, and the epigenetic alterations associated with their dysregulation. Results showed that UCKL1 and UCK2, but not UCK1 were significantly upregulated in HCC tissues than in adjacent normal tissues. Only UCK2 was significantly upregulated in the deceased group and the recurrence group, compared to the control groups. Multivariate analysis confirmed that increased UCK2 expression was an independent prognostic indicator of shorter overall survival (OS) (HR: 1.760, 95% CI: 1.398-2.216, P
+UCK2; hepatocellular carcinoma; methylation; prognosis.

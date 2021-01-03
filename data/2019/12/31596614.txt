@@ -1,0 +1,4 @@
+31596614
+2019 Dec
+Background: It is known that LINC00974 is an oncogenic long noncoding RNA in liver cancer. Results: The authors observed in this study that LINC00974 was upregulated in gastric cancer (GC) and positively correlated with CDK6. Survival analysis showed that high levels of LINC00974 and CDK6 predicted poor survival. In GC tissues, LINC00974 and CDK6 were positively correlated. In GC cells, LINC00974 overexpression led to upregulated, whereas LINC00974 siRNA silencing led to downregulated CDK6. Analysis of cell cycle progression and proliferation showed that LINC00974 and CDK6 overexpression promoted and siRNA silencing inhibited G1-S transition and cell proliferation. Conclusion: Therefore, LINC00974 upregulates CDK6 to promote cell cycle progression in GC.
+CDK6; G1 arrest; LINC00974; gastric cancer.

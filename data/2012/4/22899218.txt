@@ -1,0 +1,4 @@
+22899218
+2013 Apr
+The primary goal of this study was to ascertain the reduction in radiation dose when conducting low-kilovoltage liver computed tomography (CT) examinations using multidetector row CT (MDCT). Fifty patients under follow-up who were diagnosed with liver cancer were examined using a 16-slice MDCT scanner and volume CT dose index (CTDI(vol)) measured according to the methods of examination, which were based on a three-phase CT scan conducted in the previous year and a four-phase CT scan was done a year later. Scanning parameters were 120 kVp-140 mA s, 120 kVp-120 mA s and 80 kVp-280 mA s. The CTDI(vol) was decreased to ∼47% at 80 kVp -280 mA s. The results indicate that low-kilovoltage liver CT is a useful means of reducing radiation doses.
+

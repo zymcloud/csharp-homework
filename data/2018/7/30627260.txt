@@ -1,0 +1,4 @@
+30627260
+2018 Jul 16
+The Liver Imaging-Reporting and Data System (LI-RADS or LR) is a classification system for reading and reporting imaging studies in patients with high risk for hepatocellular carcinoma (HCC). One of its main goals is to improve communication between specialties, especially radiologists, hepatologists, surgeons, and pathologists. LI-RADS defines imaging features of the lesions and stratifies the risk of HCC into categories. It is the most comprehensive and highly specific system; however, its seeming complexity prevents many radiologists from using it in everyday practice. This article is a detailed review of the latest version of LI-RADS (v. 2017), which should be helpful for radiologists who are not very familiar with the system and its latest update.
+HCC; LI-RADS; hepatocellular carcinoma; liver imaging.

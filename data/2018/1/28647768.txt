@@ -1,0 +1,4 @@
+28647768
+2018 Jan
+The Liver Imaging Reporting and Data System (LI-RADS) uses an algorithm to assign categories that reflect the probability of hepatocellular carcinoma (HCC), non-HCC malignancy, or benignity. Unlike other imaging algorithms, LI-RADS utilizes ancillary features (AFs) to refine the final category. AFs in LI-RADS v2017 are divided into those favoring malignancy in general, those favoring HCC specifically, and those favoring benignity. Additionally, LI-RADS v2017 provides new rules regarding application of AFs. The purpose of this review is to discuss ancillary features included in LI-RADS v2017, the rationale for their use, potential pitfalls encountered in their interpretation, and tips on their application.
+Ancillary features; Benignity; Hepatocellular carcinoma; Imaging features; Malignancy; Review article.

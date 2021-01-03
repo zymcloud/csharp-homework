@@ -1,0 +1,4 @@
+28537676
+2017 May
+Objective:The involvement of microRNAs in cancer and their potential as biomarkers of prognosis are becoming increasingly appreciated. The aim of this study was to evaluate the clinical importance and prognostic value of miR-342-3p in hepatocellular carcinoma (HCC).Patients and methods:RT-PCR was used to detect the expression of miR-342-3p. The association with clinicopathologic features was analyzed. Kaplan-Meier survival analysis and Cox proportional hazards analysis were used to compare the overall survival between HCC patients with high miR-342-3p expression and those with low miR-342-3p expression.Results:We found that miR-342-3p expression was significantly decreased in HCC tissues compared with paired adjacent non-tumor tissues (p Conclusions:miR-342-3p may serve as a tumor suppressor during HCC progression, and its low expression may be a potential biomarker for poor prognosis of HCC.
+

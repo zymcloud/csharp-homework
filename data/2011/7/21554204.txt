@@ -1,0 +1,4 @@
+21554204
+2011 Jul
+Glypican-3 (GPC3) is a developmentally-regulated oncofetal protein that has been established as a clinically-relevant biomarker for early hepatocellular carcinoma (HCC). It is one of the first transcripts to appear during malignant hepatocyte transformation, and is expressed at the protein level in approximately half of high-grade dysplastic macronodules in cirrhotic liver. Several studies show it is expressed in most (75 to 100%) of HCCs confirmed by histopathology. The protein is anchored to the hepatocyte membrane by a glycosyl-phosphatidylinositol (GPI) anchor and shows consistent membrane immunostaining pattern, making it a viable target for immunotherapeutic approaches. Targeting GPC3 for therapeutic intervention is a promising approach for the clinical management of HCC and selected other tumors that express the marker.
+

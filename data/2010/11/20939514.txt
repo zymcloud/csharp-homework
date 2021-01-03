@@ -1,0 +1,4 @@
+20939514
+2010 Nov 23
+Diamond nanoparticles (DNPs) obtained by explosive detonation have become commercially available. These commercial DNPs can be treated under Fenton conditions (FeSO(4) and H(2)O(2) at acidic pH) to obtain purer DNP samples with a small average particle size (4 nm) and a large population of surface OH groups (HO-DNPs). These Fenton-treated HO-DNPs have been used as a support of gold and platinum nanoparticles (≤2 nm average size). The resulting materials (Au/HO-DNP and Pt/HO-DNP) exhibit a high antioxidant activity against reactive oxygen species induced in a hepatoma cell line. In addition to presenting good biocompatibility, Au/HO- and Pt/HO-DNP exhibit about a two-fold higher antioxidant activity than glutathione, one of the reference antioxidant systems. The most active material against cellular oxidative stress was Au/HO-DNP.
+

@@ -1,0 +1,4 @@
+27251011
+2016 Aug 7
+A novel turn-on fluorescent 8-amino BODIPY-based probe carrying a thiourea unit as the mercury ion recognition unit has been developed. Due to the cascade reaction processes, consecutive color changes reflecting the electronic absorption and emission responses were observed upon addition of increased concentrations of mercury(ii) ions. The likely sensing mechanism was proposed as mercury ion-promoted cyclization and subsequent hydrolysis. The probe displayed a selective response to mercury ions over other metal ions. Additionally, experiments with living Human Hepatoma SMMC-7721 cells to visualize intracellular mercury ions in biological systems were carried out with the probe.
+

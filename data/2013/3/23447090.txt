@@ -1,0 +1,4 @@
+23447090
+2013 Mar
+This study presents the synthesis of nineteen 1-(substitutedbenzoyl)-4-benzhydrylpiperazine and 1-[(substitutedphenyl)sulfonyl]-4-benzhydrylpiperazine derivatives. In vitro cytotoxic activities of the compounds were screened against hepatocellular (HUH-7), breast (MCF-7) and colorectal (HCT-116) cancer cell lines by sulphorhodamine B assay. Among the test compounds, benzamide derivatives had high cytotoxic activity whereas sulfonamide derivatives showed variable 50% growth inhibition (GI50).
+

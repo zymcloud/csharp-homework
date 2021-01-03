@@ -1,0 +1,4 @@
+32894800
+2020 Sep 7.</span
+We thank the authors for their interest in our study, that aimed at building deep learning-based models for the prediction of survival after resection of hepatocellular carcinoma (HCC).(1) They raise the potential issue of adjuvant treatment as a source of bias.
+

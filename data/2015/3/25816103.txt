@@ -1,0 +1,4 @@
+25816103
+2015 Mar 27
+Nanoparticles have attracted a great deal of attention as carriers for drug delivery to cancer cells. However, reports on their potential cytotoxicity raise questions of their safety and this matter needs attentive consideration. In this paper, for the first time, the cytotoxic effects of two carbon based nanoparticles, diamond and graphite, on glioblastoma and hepatoma cells were compared. First, we confirmed previous results that diamond nanoparticles are practically nontoxic. Second, graphite nanoparticles exhibited a negative impact on glioblastoma, but not on hepatoma cells. The studied carbon nanoparticles could be a potentially useful tool for therapeutics delivery to the brain tissue with minimal side effects on the hepatocytes. Furthermore, we showed the influence of the nanoparticles on the stable, fluorescently labeled tumor cell lines and concluded that the labeled cells are suitable for drug cytotoxicity tests.
+

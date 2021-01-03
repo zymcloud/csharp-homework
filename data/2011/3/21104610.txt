@@ -1,0 +1,4 @@
+21104610
+2011 Mar
+Four new (1-4) and two known compounds (5, 6) were isolated from the aerial parts of Araucaria cunninghamii. By analysis of UV, IR, MS, and NMR, the new compounds were identified as ENT-19-(Z)-coumaroyloxylabda-8(17),13(16),14-triene (1), ENT-19-( E)-coumaroyloxylabda-8(17),13(16),14-triene (2), shikimic acid N-butyl ester (3), and 5-(Z)-coumaroyloxyquinic acid N-butyl ester (4). Compounds 1 and 6 exhibited inhibitory activity against Escherichia coli, and compound 1 also exhibited moderate activity against human leukemia cells (HL-60) and human hepatoma cells (SMMC-7721) with IC₅₀ values of 8.90 and 11.53 µM, respectively.
+

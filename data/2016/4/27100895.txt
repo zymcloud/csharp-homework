@@ -1,0 +1,4 @@
+27100895
+2016 Apr 21
+Galectin-1 (Gal-1) is involved in several pathological activities associated with tumor progression and chemoresistance, however, the role and molecular mechanism of Gal-1 activity in hepatocellular carcinoma (HCC) epithelial-mesenchymal transition (EMT) and sorafenib resistance remain enigmatic. In the present study, forced Gal-1 expression promoted HCC progression and sorafenib resistance. Gal-1 elevated αvβ3-integrin expression, leading to AKT activation. Moreover, Gal-1 overexpression induced HCC cell EMT via PI3K/AKT cascade activation. Clinically, our data revealed that Gal-1 overexpression is correlated with poor HCC survival outcomes and sorafenib response. These data suggest that Gal-1 may be a potential therapeutic target for HCC and a biomarker for predicting response to sorafenib treatment.
+

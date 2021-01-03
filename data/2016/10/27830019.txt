@@ -1,0 +1,4 @@
+27830019
+2016 Oct 15
+Protein tyrosine kinase 6 (PTK6) is a nonreceptor tyrosine kinase that plays a crucial role in some tumors. However, the role of PTK6 is still unknown in hepatocellular carcinoma (HCC). In this study, we demonstrated that the PTK6 expression was upregulated in HCC tissues compared with adjacent normal tissues. Moreover, PTK6 was upregulated in the HCC cell lines (Bel7402, Hep3B, SMMC7721 and HepG2) compared with the normal liver epithelial cell line (THLE3). Ectopic expression of PTK6 promoted SMMC7721 cell proliferation, colony formation and invasion. Moreover, inhibition PTK6 expression suppressed the SMMC7721 cell proliferation, colony formation and invasion. Overexpression of PTK6 suppressed ERK1/2 phosphorylated expression. These data suggested that PTK6 played an oncogene role in the development of HCC.
+ERK1/2; Hepatocellular carcinoma; PTK6.

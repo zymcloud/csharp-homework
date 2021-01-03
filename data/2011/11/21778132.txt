@@ -1,0 +1,4 @@
+21778132
+2011 Nov
+Hepatocellular carcinoma (HCC) is the third most common cause of cancer-related death worldwide. However, targeted therapies are still at their beginning for the treatment of this poor-prognosis tumor. Among the signaling cascades deregulated in HCC, the Wnt/β-catenin signaling pathway plays a key role in hepatic oncogenesis. Although it has been shown, using HCC cell lines, that inhibition of the β-catenin signaling has anti-tumoral effect, no molecules targeting the Wnt pathway are currently tested in clinical trials for the treatment of HCC. Here we review our current knowledge about the role of the Wnt/β-catenin pathway in hepatocellular carcinoma pathogenesis and the benefits and limits of targeting this pathway in HCC.
+

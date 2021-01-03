@@ -1,0 +1,4 @@
+20516727
+2010
+Objective:To investigate the fate of human hepatocellular carcinoma (HCC) in the livers of newborn mice and the resulting cellular rejection.Methods:Two HCC cell lines (HepG2 and HCCLM3) labeled with DMAHAS were orthotopically transplanted to newborn and adult mice with or without low-dose cyclosporin A (CsA) treatment (10 mg/kg). The fate of tumor xenografts was examined and the resulting cellular response was investigated.Results:Tumor xenografts survived in newborn mice for > 4 weeks, with a delayed lymphocyte infiltration mediated by CD4+ T, CD8+ T and NK1.1+ cells. In contrast, the xenografts survived in adults Conclusion:Our data suggest that the livers of newborn mice were more suitable for the survival of xenografts than those of adult mice. Cell-mediated tumor xenorejection in newborn mice was different from that in adults, and hepatic NKT cells may play an important role in early tumor xenorejection.
+

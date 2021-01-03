@@ -1,0 +1,4 @@
+31797046
+2020 Feb
+In previous study, we designed novel α-pinene derivatives based on theories of bioalkylating agents using α-pinene as lead compound and patented these compounds, in which compound α-pinene derivative GY-1 (6,6-dimethylbicyclo[3.1.1]hept-2-en-2-yl)methyl-4-methylbenzenesulfonat) showed strongest inhibition on hepatoma carcinoma cell BEL-7402. In this study, we investigated effect of GY-1 on hepatocellular carcinoma in vitro and in vivo, and explored its mechanism of anti-hepatoma. The results showed that GY-1 showed good anti-liver cancer activity with the IC50 of 84.7 μmol/L in vitro, inhibited tumor growth in vivo with dose-dependent, and GY-1 could arrest the growth of hepatoma cells in the S phase and induced apoptosis in hepatoma cells, down-regulated the expression of C-myc, CDK2 and CyclinE, and up-regulate p53.
+Anti-hepatoma activity; Anti-hepatoma mechanism; Apoptosis; Cell cycle; α-Pinene derivative.

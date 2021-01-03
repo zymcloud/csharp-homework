@@ -1,0 +1,4 @@
+28410211
+2017 Jul 4
+Circular RNAs (circRNAs), a class of long-time-ignored noncoding RNA, have been revealed as multifunctional RNAs in recent years. However, the diagnostic values and the mechanism of most circRNAs in hepatocellular carcinoma (HCC) remain unknown. In this study, we revealed that the expression level of hsa_circ_0005986 in HCC was significantly lower than that in adjacent non-tumorous tissues (P
+biomarker; circular RNA; hepatocellular carcinoma; hsa_circ_0005986; miR-129-5p.

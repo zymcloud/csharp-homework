@@ -1,0 +1,4 @@
+31266063
+2020 Feb
+Tumor heterogeneity in hepatocellular carcinomas (HCC) occurs at different levels. On conventional imaging modalities, the spectrum of tumor heterogeneity is evident in the dynamic enhancement pattern, where the characteristic wash-in and wash-out is present in only 60% of small HCCs. In larger HCCs, heterogeneity within the tumor, known as the mosaic pattern, can reflect the presence of different grades of HCC differentiation. The advent of functional imaging techniques has not improved the diagnostic sensitivity of imaging techniques for the diagnosis of HCC. However, the combination of conventional and functional imaging techniques potentially allows the identification of heterogeneity in tumor vascularity, cellularity, and molecular expression.
+

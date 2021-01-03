@@ -1,0 +1,4 @@
+26776075
+2016 Feb
+Hepatocellular carcinoma (HCC) is one of the most aggressive cancers and is the third leading cause of all cancer-related death. Limited noninvasive biomarkers are available for HCC detection. Early detection is the key in improving the survival of HCC patients. In this study, we tested the hypothesis that serum miRNAs can be used as a potential biomarker for HCC. Quantitative RT-PCR for miRNA analysis was performed using 70 serum samples. Receiver operating characteristic analysis was performed to measure the prognostic power of the miRNAs. The miRNA expression level was also measured from liver biopsy samples. Our study revealed that two miRNAs, miR-30e and miR-223, were expressed at significantly lower levels (P
+

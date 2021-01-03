@@ -1,0 +1,4 @@
+28179311
+2017 Feb
+Background:Telomere length (TL) measured in peripheral blood leucocytes (PBL) might be a useful biomarker to identify elevated cancer risk.Patients and methods:A case-control study which included 268 newly-diagnosed HCC cases and 536 matched controls, was conducted. Absolute TL in PBL was analyzed by quantitative real-time PCR.Results:The overall median length of TL was not statistically shorter in HCC cases compared to healthy controls. However, we found a significant synergistic effect of longer TL and HCV infection to increase HCC risk with a relative excess risk of 6.86 (95% CI: 2.14-11.58). Among HCC cases, significant shorter TLs were observed for 10 years prior to diagnosis.Conclusion:Shorter PBL TL alone was not significantly associated with increased HCC risk. Among HCC cases, significant shorter TLs were observed for
+HCC; nested case-control study; quantitative PCR; telomere length.

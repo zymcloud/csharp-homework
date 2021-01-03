@@ -1,0 +1,4 @@
+22994783
+2012
+Hepatocellular carcinoma (HCC), the most common primary hepatic tumor, is highly prevalent in the Asia-Pacific region, including Thailand. Many genetic and epigenetic alterations in HCC have been elucidated. The aim of this study was to determine whether aberrant methylation of the suppressor of cytokine signaling 1 gene (SOCS1) occurs in HCCs. Methylation specific-PCR assays were performed to identify the methylation status of SOCS1 in 29 tumors and their corresponding normal liver tissues. An abnormal methylation status was detected in 17 (59%), with a higher prevalence of aberrant SOCS1 methylation significantly correlating with HCC treated without chemotherapy (OR=0.04, 95%CI=0.01-0.31; P=0.001). This study suggests that epigenetic aberrant SOCS1 methylation may be a predictive marker for HCC patients.
+

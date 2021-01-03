@@ -1,0 +1,4 @@
+32544548
+2020 Sep
+We aim to characterize the expression of RNA panel in HCC. We assessed the expression of HCC-associated mRNA, miRNA and lncRNA network by real time PCR in sera and tissue samples. In a proof-of-principle approach, CRISPR cas9 mediated knock out for lncRNA- RP11-156p1.3 was performed in HEPG2 cell line to validate the role of the chosen RNA in HCC pathogenesis. The differential expression of RFTN1 mRNA, lncRNA- RP11-156p1.3 and miRNA-4764-5p was statistically different among the studied groups. After CRISPR cas9 mediated knockout of lncRNA- RP11-156p1.3 in HEPG2 cells, there was significant decrease in cell count and viability with reversal of the expression of the chosen RNAs. The chosen RNAs play a significant role in HCC pathogenesis and may be potential diagnostic and therapeutic targets.
+CRISPR cas9,Diagnosis; Hepatocellular carcinoma; Therapy; lncRNA; miRNA.

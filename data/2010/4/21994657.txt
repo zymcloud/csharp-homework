@@ -1,0 +1,4 @@
+21994657
+2010 Apr
+Hepatitis C virus (HCV) represents a major health burden, with an estimated 180 million chronically infected individuals worldwide. These patients are at increased risk of developing liver cirrhosis and hepatocellular carcinoma. Infection with HCV is the leading cause of liver transplantation in the Western world. Currently, the standard of care (SoC) consists of pegylated interferon alpha (pegIFN-α) and ribavirin (RBV). However this therapy has a limited efficacy and is associated with serious side effects. Therefore more tolerable, highly potent inhibitors of HCV replication are urgently needed. Both Specifically Targeted Antiviral Therapy for HCV (STAT-C) and inhibitors that are believed to interfere with the host-viral interaction are discussed.
+HCV; new antivirals; review.

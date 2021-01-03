@@ -1,0 +1,4 @@
+29596884
+2018 Jul 1
+Wnt/beta-catenin signaling is frequently activated in hepatocellular carcinoma (HCC). Better understanding the mechanism for its over-activation would help the therapy. In this study, we have shown that the stress-induced phosphoprotein 1 (STIP1) is up-regulated in the HCC tissues. Functional studies showed that STIP1 promoted the growth, colony formation and migration of cancer cells. However, knocking down the expression of STIP1 inhibited the growth, colony formation and migration of cancer cells. Molecular mechanism study showed that STIP1 interacted with Axin, enhanced the interaction between Axin and DVL2, thus activated beta-catenin/TCF signaling. Taken together, our study demonstrated the oncogenic roles of STIP1 in the progression of HCC, and suggested that STIP1 might be a therapeutic target.
+Cell growth and migration; Hepatocellular carcinoma; STIP1; Wnt/beta-catenin signaling.

@@ -1,0 +1,4 @@
+20798464
+2010 Sep 24
+Development of RNA interference (RNAi) technology utilizing short interfering RNA sequences (siRNA) has focused on creating methods for delivering siRNAs to cells and for enhancing siRNA stability in vitro and in vivo. Here, we describe a novel approach for siRNA cellular delivery using siRNA coiling into carboxyl-functionalized single-wall carbon nanotubes (SWCNTs). The CNT-siRNA delivery system successfully demonstrates nonspecific toxicity and transfection efficiency greater than 95%. This approach offers the potential for siRNA delivery into different types of cells, including hard-to-transfect cells, such as neuronal cells and cardiomyocytes. We also tested the CNT-siRNA system in a non-metastatic human hepatocellular carcinoma cell line (SKHep1). In all types of cells used in this work the CNT-siRNA delivery system showed high efficiency and apparent no side effects for various in vitro applications.
+

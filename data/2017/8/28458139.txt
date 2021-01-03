@@ -1,0 +1,4 @@
+28458139
+2017 Aug
+Curative treatment of patients with hepatocellular carcinoma (HCC) is poor. There is an urgent need to develop more effective strategies for the chemoprevention of HCC. Chlorogenic acid (CGA), a type of polyphenol present in the diet, especially from coffee, has many biological activities. Patients with viral hepatitis who drank coffee everyday experienced a reduction in the incidence of HCC. In the present study, we evaluated the effects of CGA on HCC. CGA inhibited the proliferation of HepG2 cells in vitro and the progression of HepG2 xenograft in vivo. CGA induced the inactivation of ERK1/2 and suppressed the expression of MMP-2 and MMP-9 in HepG2 xenograft tissue. These data demonstrate that CGA can prevent the progression of HCC through multiple pathways. CGA appears to be an effective chemopreventive agent for hepatocellular carcinoma.
+Chemoprevention; Chlorogenic acid; Chlorogenic acid (PubChem CID

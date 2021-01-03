@@ -1,0 +1,4 @@
+31068611
+2019 May 8
+Hepatocellular carcinoma (HCC) remains a severe health issue worldwide, especially in Asia. To date, molecular classifications proposed for the overall survival (OS) or recurrence-free survival (RFS) prediction of Asian HCC patients after hepatectomy are quite few and limited in clinical practice. Here, we established a molecular subtyping system for Asian HCC to facilitate prognosis evaluation. Firstly, differentially expressed genes (DEGs) (FDR [false discovery rate]
+

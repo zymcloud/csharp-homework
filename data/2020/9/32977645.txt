@@ -1,0 +1,4 @@
+32977645
+2020 Sep 23
+Chromatin remodelers are found highly mutated in cancer including hepatocellular carcinoma. These mutations frequently occur in ARID (AT-rich Interactive Domain) genes, encoding subunits of the ATP-dependent SWI/SNF remodelers. The increasingly prevalent complexity that surrounds the functions and specificities of the highly modular BAF (BG1/BRM-associated factors) and PBAF (polybromo-associated BAF) complexes, including ARID1A/B or ARID2, is baffling. The involvement of the SWI/SNF complexes in diverse tissues and processes, and especially in the regulation of gene expression, multiplies the specific outcomes of specific gene alterations. A better understanding of the molecular consequences of specific mutations impairing chromatin remodelers is needed. In this review, we summarize what we know about the tumor-modulating properties of ARID2 in hepatocellular carcinoma.
+ARID2; SWI/SNF; cancer; chromatin; hepatocellular carcinoma.

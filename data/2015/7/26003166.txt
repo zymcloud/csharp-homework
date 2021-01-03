@@ -1,0 +1,4 @@
+26003166
+2015 Jul 10
+Hepatocellular carcinoma (HCC) is one of the most common lethal human malignancies worldwide and its advanced status is frequently resistant to conventional chemotherapeutic agents and radiation. We evaluated the cytotoxic effect of the orally bioavailable dual PI3K/mTOR inhibitor, NVP-BGT226, on a panel of HCC cell lines, since hyperactivated PI3K/Akt/mTOR signaling pathway could represent a biomolecular target for Small Inhibitor Molecules in this neoplasia. We analyzed the drug activity in both normoxia and hypoxia conditions, the latter playing often a relevant role in the induction of chemoresistance and angiogenesis.In normoxia NVP-BGT226 caused cell cycle arrest in the G0/G1 phase of the cell cycle, induced apoptosis and autophagy at low concentrations. Interestingly the drug inactivated p-Akt and p-S6 at
+NVP-BGT226; PI3K/Akt signaling; hepatocellular carcinoma; hypoxia; targeted therapies.

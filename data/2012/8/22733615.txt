@@ -1,0 +1,4 @@
+22733615
+2012 Aug
+Aflatoxin B(1) (AFB(1) ) is a potent mutagen and an important risk factor for hepatocellular carcinoma (HCC) in humans. Transgenic mouse strains and cells in culture have been used to detect different types of mutations caused by AFB(1) and investigate the molecular determinants of their location and frequency. The AFB(1) mutational spectrum in the gpt gene was markedly different in AS52 cells compared with the liver in gpt delta B6C3F1 transgenic mice. The results demonstrate the importance of metabolism, chromosomal location, transcription and selection conditions on mutational spectra.
+

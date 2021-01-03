@@ -1,0 +1,4 @@
+32349210
+2020 Apr 27
+Multidrug resistance (MDR), of the innate and acquired types, is one of major problems in treating tumor diseases with a good chance of success. In this review, we examine the key role of nuclear factor-kappa B (NF-κB) to induce MDR in three tumor models characterized precisely by innate or acquired MDR, in particular triple negative breast cancer (TNBC), hepatocellular carcinoma (HCC), and acute myeloid leukemia (AML). We also present different pharmacological approaches that our group have employed to reduce the expression/activation of this transcriptional factor and thus to restore chemo-sensitivity. Finally, we examine the latest scientific evidence found by other groups, the most significant clinical trials regarding NF-κB, and new perspectives on the possibility to consider this transcriptional factor a valid drug target in neoplastic diseases.
+MDR; NF-κB; cancer; drug target.

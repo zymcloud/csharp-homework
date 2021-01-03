@@ -1,0 +1,4 @@
+30154449
+2019 May
+The expression of the long noncoding RNA HOTAIR (HOX Transcript Antisense Intergenic RNA) is largely deregulated in epithelial cancers and positively correlates with poor prognosis and progression of hepatocellular carcinoma and gastrointestinal cancers. Furthermore, functional studies revealed a pivotal role for HOTAIR in the epithelial-to-mesenchymal transition, as this RNA is causal for the repressive activity of the master factor SNAIL on epithelial genes. Despite the proven oncogenic role of HOTAIR, its transcriptional regulation is still poorly understood. Here hepatocyte nuclear factor 4-α (HNF4α), as inducer of epithelial differentiation, was demonstrated to directly repress HOTAIR transcription in the mesenchymal-to epithelial transition. Mechanistically, HNF4α was found to cause the release of a chromatin loop on HOTAIR regulatory elements thus exerting an enhancer-blocking activity.
+

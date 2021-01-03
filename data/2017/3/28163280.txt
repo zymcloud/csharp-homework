@@ -1,0 +1,4 @@
+28163280
+2017 Mar 24
+Background:Patients with liver cirrhosis (LC) have a higher risk for cardiac surgery, but population-based long-term follow-up studies are lacking. The aim of this study was therefore to validate the long-term outcome of cardiac surgery in patients with LC.Methods and Results:Data were obtained from Taiwan's National Health Insurance Database, 1997-2011. This study included 1,040 LC patients and 1,040 matched controls without LC. The actuarial survival rate at 1, 5 and 10 years in the LC cohort was 68%, 50% and 41%: significantly lower than that of the control cohort at 81%, 68% and 62% at 1, 5 and 10 years after cardiac surgery. Compared with the matched control cohort, the LC group had a higher risk of liver and heart failure readmission (PConclusions:Even after successful cardiac surgery, long-term outcome is unsatisfactory in LC patients because of the progressive deterioration of liver function.
+

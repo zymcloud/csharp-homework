@@ -1,0 +1,4 @@
+22056881
+2012 Jul 12
+MicroRNAs (miRNAs) are believed to have fundamental roles in tumorigenesis and have great potential for the diagnosis and treatment of cancer. However, the roles of miRNAs in hepatocellular carcinogenesis are still not fully elucidated. We investigated the aberrantly expressed miRNAs involved in hepatoma by comparison of miRNA expression profiles in cancerous hepatocytes with normal primary human hepatocytes, and 37 dysregulated miRNAs were screened out by twofold change with a significant difference (P
+

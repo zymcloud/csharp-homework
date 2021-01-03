@@ -1,0 +1,4 @@
+22402625
+2012 May
+Suicide gene therapy using the herpes simplex virus thymidine kinase/ganciclovir (HSV-tk/GCV) system combined with monocyte chemoattractant protein-1 (MCP-1) provides significant antitumor efficacy. The current study was designed to evaluate the antitumor immunity of a newly developed membrane-bound form of MCP-1 (mMCP-1) in an immunocompetent mouse model of hepatocellular carcinoma (HCC). A recombinant adenovirus vector (rAd) harboring the human MCP-1 gene and the membrane-spanning domain of the CX3CL1 gene was used. Large amounts of MCP-1 protein were expressed and accumulated on the tumor cell surface. The growth of subcutaneous tumors was markedly suppressed when tumors were treated with mMCP-1, as compared with soluble MCP-1, in combination with the HSV-tk/GCV system (P
+

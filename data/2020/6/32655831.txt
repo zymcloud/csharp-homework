@@ -1,0 +1,4 @@
+32655831
+2020 Jun 15
+The role of autophagy in tumor development is complicated. More signaling mechanisms of bone morphogenetic protein 4 (BMP4) involving in hepatocellular carcinoma (HCC) are needed to be clarified. The present study aimed to identify whether BMP4 contributes to the regulation of autophagy in the progression of HCC. We found that increased BMP4 expression was significantly correlated with TNM stage and metastasis. BMP4 treatment promoted HCC cells invasion and induced autophagy. Blocking autophagy by 3-MA or silenced Beclin1 attenuated BMP4-induced autophagy and cell invasion. Further study revealed that JNK/Beclin1 pathway participated in the process of autophagy and JNK inhibitor SP600125 could attenuate autophagy and reduce the invasive ability of HCC cells induced by BMP4. In a word, BMP4-induced autophagy facilitates invasion of HCC by JNK/Beclin1 signaling pathway.
+BMP4; Beclin1; autophagy; hepatocellular carcinoma.

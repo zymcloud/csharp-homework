@@ -1,0 +1,4 @@
+27853514
+2016 Aug 22
+Tomasetti and Vogelstein argued that 2/3 of human cancers are due to 'bad luck' and that "primary prevention measures [against cancer] are not likely to be very effective". We demonstrate that their calculations for hepatocellular carcinomas overlooked a major subset of these cancers proven to be preventable through vaccination. The problem, which is not limited to hepatocellular carcinoma, arises from the general reliance of their analysis on average incidences in the United States and the omission of incidences in specific risk groups.
+Cancer incidence; cancer etiology; cancer prevention; cancer risk.

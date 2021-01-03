@@ -1,0 +1,4 @@
+30183165
+2017
+Hepatocellular carcinoma (HCC) is one of the aggressive and resistant to drug therapy cancer. It is believed that the development of HCC is correlated with dysregulation of programmed cell death. So, the search for effective inducers of HCC cell death is very important. The aim of the work was to identify structural changes leading to HCC cell death when exposed to nanoscale and original forms of lithium salts. Using light and electron microscopy and flow cytometry, structural features of autophagy and apoptosis in HCC cells after their incubation with various forms of lithium salts has been revealed. It is shown that a more pronounced effect on HCC-29 cells have nanoscale forms of lithium carbonate and lithium citrate. At the same time, nanoscale lithium citrate mainly induced apoptosis, and nanosized form of lithium carbonate, along with apoptosis, induced autophagic death of HCC-29cells.
+

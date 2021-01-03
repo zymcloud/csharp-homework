@@ -1,0 +1,4 @@
+28884886
+2017 Oct 23
+A gram-scale synthesis of psiguadial B, a purported inhibitor of human hepatoma cell growth, has been achieved in one step by a biomimetic three-component coupling of caryophyllene, benzaldehyde, and diformylphloroglucinol. This cascade reaction is catalyzed by N,N'-dimethylethylenediamine, and proceeds at ambient temperature to generate four stereocenters, two rings, one C-O bond, and three C-C bonds. Combined computational and experimental investigations suggest the biosynthesis of the natural product is non-enzyme mediated, and is the result of a Michael addition between caryophyllene and a reactive ortho-quinone methide, followed by two sequential intramolecular cationic cyclization events.
+biomimetic synthesis; cyclization; natural products; terpenoids; total synthesis.

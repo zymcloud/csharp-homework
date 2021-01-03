@@ -1,0 +1,4 @@
+27467182
+2017 Mar
+Context and objective:Human hepatocellular carcinoma (HCC) is a severe malignant disease, and accurate and reliable diagnostic markers are still needed. This study was aimed for the discovery of novel marker candidates by quantitative proteomics.Methods and results:Proteomic differences between HCC and nontumorous liver tissue were studied by mass spectrometry. Among several significantly upregulated proteins, translocator protein 18 (TSPO) and Ras-related protein Rab-1A (RAB1A) were selected for verification by immunohistochemistry in an independent cohort. For RAB1A, a high accuracy for the discrimination of HCC and nontumorous liver tissue was observed.Conclusion:RAB1A was verified to be a potent biomarker candidate for HCC.
+Proteomics; RAB1A; TSPO; immunohistochemistry; liver cancer; tandem mass tags.

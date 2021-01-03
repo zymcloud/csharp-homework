@@ -1,0 +1,4 @@
+19783500
+2010 Feb
+This paper describes a fast and fully automatic method for liver vessel segmentation on computerized tomography scan preoperative images. The basis of this method is the introduction of a 3-D geometrical moment-based detector of cylindrical shapes within the minimum-cut/maximum-flow energy minimization framework. This method represents an original way to introduce a data term as a constraint into the widely used Boykov's graph cuts algorithm, and hence, to automate the segmentation. The method is evaluated and compared with others on a synthetic dataset. Finally, the relevancy of our method regarding the planning of a necessarily accurate percutaneous high-intensity focused ultrasound surgical operation is demonstrated with some examples.
+

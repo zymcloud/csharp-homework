@@ -1,0 +1,4 @@
+25798247
+2015 Mar
+Our previous study revealed that serum deprivation upregulated human alkaline ceramidase 2 (haCER2) activity and mRNA in HeLa cells, but the mechanism remains unknown. In the present study, serum deprivation also upregulated haCER2 activity in HepG2 human hepatoma cell line cells due to an increase in haCER2 mRNA, in which mRNA transcription, not mRNA stability, is involved. Furthermore, p38 mitogen-activated protein kinase (MAPK)/activator protein-1 (AP-1) signaling pathway is involved in haCER2 mRNA upregulation by serum deprivation, and this mechanism may explain why haCER2 is upregulated in human liver cancer. In conclusion, p38 MAPK, AP-1 or haCER2 may be used as targets in liver cancer therapy.
+HepG2 cells; activator protein-1; gene regulation; human alkaline ceramidase 2; mitogen-activated protein kinases; p38; serum deprivation.

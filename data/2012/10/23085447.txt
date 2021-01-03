@@ -1,0 +1,4 @@
+23085447
+2012 Oct
+Background and aims:Hepatitis C virus (HCV) has emerged as the major pathogen of liver disease worldwide. The aim of this study was to quantitate and evaluate the performance of HCV-NS4 antigen as an alternative approach for confirmation of viremia.Methods:Detection of HCV-NS4 was assessed in 883 patients with chronic hepatitis C. Areas under the ROC curves (AUC) were used to assess and compare diagnostic accuracy of ELISA for HCV-NS4 with quantitative HCV-RNA as a gold standard.Results:HCV-NS4 was identified at 27 kDa using Western blot. AUC for HCV-NS4 detection was 0.95 for all patients with different liver pathologies: 0.93 for liver fibrosis (LF), 0.95 for liver cirrhosis (LC) and 0.98 for hepatocellular carcinoma (HCC). The mean ± SD (μg/mL) of HCV-NS4 in LF was 94.2 ± 55.6; in LC was 99.3 ± 64.8 and in HCC was 124.9 ± 70.3.Conclusions:HCV-NS4 antigen detection using ELISA is a reliable test in the confirmation of HCV infection.
+

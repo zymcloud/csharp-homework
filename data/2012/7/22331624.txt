@@ -1,0 +1,4 @@
+22331624
+2012 Jul
+Elucidation of the molecular events underlying hepatic stellate cell (HSC) activation is an essential step toward understanding the biological properties of HSC and clarifying the potential roles of HSCs in liver fibrosis and other liver diseases, including hepatocellular carcinoma. High-throughput comparative proteomic analysis based on isobaric tags for relative and absolute quantitation (iTRAQ) labeling combined with online two-dimensional nanoscale liquid chromatography and tandem mass spectrometry (2D nano-LC-MS/MS) were performed on an in vitro HSC activation model to obtain a comprehensive view of the protein ensembles associated with HSC activation. In total, 2,417 proteins were confidently identified (false discovery rate Conclusion:The present study provided the most comprehensive proteome profile of rat HSCs and some novel insights into HSC activation, especially the suppressed immune response.
+

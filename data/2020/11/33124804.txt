@@ -1,0 +1,4 @@
+33124804
+2020 Nov 17
+As a malignant disease that seriously threatens human health, hepatocellular carcinoma (HCC) lacks effective early screening and prognostic assessment methods. Herein, we developed a method for efficient capture and multiphenotype analysis of circulating tumor cells (CTCs) of hepatocellular carcinoma. The anti-ASGPR antibody and the anti-EpCAM antibody were modified in parallel on a deterministic lateral displacement (DLD)-patterned microfluidic Synergetic-Chip to enhance capture efficiency by a complementary effect. CTCs were detected in 45 out of 45 (100%) HCC patients, with a sensitivity and specificity of 97.8 and 100%, respectively. Patients with more total CTCs and nonepithelial CTCs were in later stages of HCC and had more malignant progression. This strategy proposes a feasible approach for early diagnosis and prognosis of hepatocellular carcinoma.
+

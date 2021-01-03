@@ -1,0 +1,4 @@
+26612965
+2015
+miRNA-20b has been shown to be aberrantly expressed in several tumor types. However, the clinical significance of miRNA-20b in the prognosis of patients with hepatocellular carcinoma (HCC) is poorly understood, and the exact role of miRNA-20b in HCC remains unclear. The aim of the present study was to investigate the association of the expression of miR-20b with clinicopathological characteristics and overall survival of HCC patients analyzed by Kaplan-Meier analysis and Cox proportional hazards regression models. Meanwhile, the HIF-1α and VEGF targets of miR-20b have been confirmed. We found not only miR-20b regulation of HIF-1α and VEGF in normal but also regulation of miR-20b in hypoxia. This mechanism would help the tumor cells adapt to the different environments thus promoting the tumor invasion and development. The whole study suggests that miR-20b, HIF-1α, and VEGF serve as a potential therapeutic agent for hepatocellular carcinoma.
+

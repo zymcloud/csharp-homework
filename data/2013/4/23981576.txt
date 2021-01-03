@@ -1,0 +1,4 @@
+23981576
+2014 Apr 10
+Many factors are considered to contribute to hepatitis B virus (HBV) associated hepatocellular carcinoma (HCC), including products of HBV, HBV integration and mutation, and host susceptibility. HBV X protein (HBx) can interfere with several signal pathways that associated with cell proliferation and apoptosis, and the impact of HBx C-terminal truncation in the development of HCC has been implicated. Recent studies by advanced sequencing technologies have revealed recurrent HBV DNA integration sites in hepatoma cells and susceptible genes/SNPs play an important role in the pathogenesis of liver cancer. Epigenetic changes, immune and inflammatory factors are also important contributing factors for liver cancer. This mini-review provides an overview on the recent development of HBV induced HCC.
+Carcinogenesis; HBV; HBVx; HCC.

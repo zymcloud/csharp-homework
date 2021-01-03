@@ -1,0 +1,4 @@
+29777955
+2018 Jun
+The latest generation of nucleo(t)side analogs (NAs) provide robust virus suppression with high barrier to resistance. Long term NAs treatment is associated with a partial restoration in HBV-specific T-cell functions, regression of fibrosis, no disease progression and a reduction of HCC risk but rarely lead to cure and life-long treatments is often required. New insights into the hepatitis B viral life cycle and the host immune response have expanded the potential targets for drug therapies with interesting antiviral candidates and novel immunotherapeutic approaches in early stage development. Here we review the mode of action of current drugs (NAs and PEG IFN) and new classes of anti-HBV compounds, focusing on the possible role of nucleo(t)side analogs in future combination therapies.
+

@@ -1,0 +1,4 @@
+27882800
+2017 Jan
+​Introduction: Clinical markers to predict the benefit from sorafenib in patients diagnosed with hepatocellular carcinoma (HCC) are lacking. A meta-analysis exploring the impact of development of sorafenib-related side effects on survival was conducted. Areas covered: Eligible studies included all clinical studies reporting on the survival/toxicity relationship in sorafenib-treated HCC patients. Data sources included Pub-Med, the Cochrane Controlled Trials Register, and Google scholar. After exclusion of ineligible studies, 16 studies were included in the analysis. Pooled hazard ratio (HR) for overall survival (OS) for patients developing diarrhoea vs. patients who did not was 0.42 (95% confidence interval (CI): 0.30-0.60; p
+HCC; HFS; diarrhoea; hypertension; sorafenib.

@@ -1,0 +1,4 @@
+21188169
+2011
+Because cell turnover occurs in all adult organs, stem/progenitor cells within the stem-cell niche of each tissue must be appropriately mobilized and differentiated to maintain normal organ structure and function. Tissue injury increases the demands on this process, and thus may unmask defective regulation of pathways, such as Hedgehog (Hh), that modulate progenitor cell fate. Hh pathway dysregulation has been demonstrated in many types of cancer, including pancreatic and liver cancers, in which defective Hh signaling has been linked to outgrowth of Hh-responsive cancer stem-initiating cells and stromal elements. Hence, the Hh pathway might be a therapeutic target in such tumors.
+

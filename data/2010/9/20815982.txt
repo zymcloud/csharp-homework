@@ -1,0 +1,4 @@
+20815982
+2010 Sep
+Aim:To investigate the effect of HCV DF (Double-shift F) protein on the expression p16 and p21 in HepG(2); cells.Methods:DF gene was amplificated from the whole HCV 1b genome, and cloned into pCDNA3.0 vecter. The recombinant plasmid (pCDNA3.0/HCV-DF) and empty vector were transfected into HepG(2); cells. Screening was performed with G418. p16 and p21 mRNA were detected by semi-quantitative RT-PCR, and protein by Western blot.Results:Stable expression of the recombinant plasmid was found in HCV DF protein. The expression of p16 and p21 in HepG();2 cells transfected with pCDNA3.0/HCV-DF were lower than those with blank plasmid.Conclusion:HCV DF protein inhibits expression of p16 and p21 in HepG(2); cells. This suggested that HCV DF protein may participate in the progress of hepatocellular carcinoma.
+

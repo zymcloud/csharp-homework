@@ -1,0 +1,4 @@
+20401390
+2010 May 7
+Ribavirin and 2'-O-methylcytidine 5'-phosphoramidates derived from L-alanine methyl ester bearing either an O-phenyl or a biodegradable O-[3-(acetyloxy)-2,2-bis(ethoxycarbonyl)propyl] or O-[3-(acetyloxymethoxy)-2,2-bis(ethoxycarbonyl)propyl] protecting group were prepared. The kinetics of the deprotection of these pro-drugs by porcine liver esterase and by a whole cell extract of human prostate carcinoma was studied by HPLC-ESI-MS/MS. The 3-(acetyloxymethoxy)-2,2-bis(ethoxycarbonyl)propyl and 3-(acetyloxy)-2,2-bis(ethoxycarbonyl)propyl groups were readily removed releasing the l-alanine methyl ester phosphoramidate nucleotide, the deprotection of the 3-(acetyloxymethoxy) derivative being approximately 20 times faster. The chemical stability of the 2'-O-methylcytidine pro-drugs was additionally determined over a pH range from 7.5 to 10.
+

@@ -1,0 +1,4 @@
+23291714
+2013 Mar
+The histone-lysine N-methyltransferase, enhancer of zeste homologue 2 (EZH2), functions as a transcriptional repressor and plays an important role in the development of various types of cancer. In this study, we observed the increased EZH2 expression in the Bel/FU multidrug-resistant hepatocellular carcinoma (HCC) cell line. The RNA interference (RNAi)-mediated depletion of EZH2 expression in the Bel/FU cells led to decreased multidrug resistance protein 1 (MDR1) expression, which resulted in increased apoptosis and sustained G1/S phase arrest. Moreover, siRNA targeting EZH2 sensitized Bel/FU cells to 5-fluorouracil treatment. These findings suggest that EZH2 plays a role in the development of multidrug resistance and may represent a novel therapeutic target for multidrug-resistant HCC.
+

@@ -1,0 +1,4 @@
+22382024
+2012 Mar 23
+Hepatocellular carcinoma (HCC) is one of the most common internal malignant tumors. Glypican-3 (GPC3) is involved in the biological and molecular events in the tumorigenesis of HCC. We used RNA interference to evaluate the molecular effects of GPC3 suppression at the translational level and demonstrated for the first time that GPC3 silencing results in a significant elevation of the Bax/Bcl-2 ratio, the release of cytochrome c from mitochondria and the activation of caspase-3. The results suggest that GPC3 regulates cell proliferation by enhancing the resistance to apoptosis through the dysfunction of the Bax/Bcl-2/cytochrome c/caspase-3 signaling pathway and therefore plays a critical role in the tumorigenesis of HCC. Thus, the knockdown of GPC3 should be further investigated as an attractive novel approach for the targeted gene therapy of HCC.
+

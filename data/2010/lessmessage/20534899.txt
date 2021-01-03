@@ -1,0 +1,4 @@
+20534899
+2010
+Chronic hepatitis increases the risk of hepatocellular carcinoma (HCC). To test whether circulating proteins reflect hepatic carcinogenesis, sera from patients and controls were albumin depleted, enriched for glycoproteins, digested with trypsin, and subjected to reverse phase chromatography and tandem mass spectrometry. Alpha-fetoprotein enhancer binding protein (AFPebp), a tumor suppressor, was repeatedly identified in sera from chronic HBV hepatitis patients. We independently identified and quantified AFPebp with a deuterated, phenylisocyanate-labeled synthetic peptide standard. Elevated AFPebp levels in sera from chronic HBV hepatitis patients decreased as cancer developed. These data suggest that rising AFPebp levels in chronic HBV hepatitis may be protective, while falling levels may contribute to HCC development.
+

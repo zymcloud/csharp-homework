@@ -1,0 +1,4 @@
+21466709
+2011 Apr 6
+Hepatitis C virus (HCV) is a major cause of chronic liver diseases including steatosis, cirrhosis and hepatocellular carcinoma. Currently, there is no vaccine available for prevention of HCV infection due to high degree of strain variation. The current treatment of care, Pegylated interferon α in combination with ribavirin is costly, has significant side effects and fails to cure about half of all infections. The development of in-vitro models such as HCV infection system, HCV sub-genomic replicon, HCV producing pseudoparticles (HCVpp) and infectious HCV virion provide an important tool to develop new antiviral drugs of different targets against HCV. These models also play an important role to study virus lifecycle such as virus entry, endocytosis, replication, release and HCV induced pathogenesis. This review summarizes the most important in-vitro models currently used to study future HCV research as well as drug design.
+

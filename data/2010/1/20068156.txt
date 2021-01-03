@@ -1,0 +1,4 @@
+20068156
+2010 Jan 15
+The E2F family member of transcription factors includes the atypical member E2F8, which has been little studied in cancer. We report that E2F8 is strongly upregulated in human hepatocellular carcinoma (HCC), where it was evidenced to contribute to oncogenesis and progression. Ectopic overexpression of E2F8 promoted cell proliferation, colony formation, and tumorigenicity, whereas E2F8 knockdown inhibited these phenotypes, as documented in Huh-7, Focus, Hep3B, and YY-8103 HCC cell lines. Mechanistic analyses indicated that E2F8 could bind to regulatory elements of cyclin D1, regulating its transcription and promoting accumulation of S-phase cells. Together, our findings suggest that E2F8 contributes to the oncogenic potential of HCC and may constitute a potential therapeutic target in this disease.
+

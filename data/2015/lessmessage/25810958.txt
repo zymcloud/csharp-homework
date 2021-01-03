@@ -1,0 +1,4 @@
+25810958
+Jan-Mar 2015
+This investigation aims to assess whether the hepatocellular carcinoma cell line, HepG2, is an appropriate model to assess the role of poly (ADP-ribose) polymerase (PARP) during acute ethanol toxicosis. HepG2 cells were dosed with graded concentrations of ethanol, ranging from 100 mM to 800 mM, for 6 hours to assess PARP activity induction, while another parallel experiment examined cellular damage via medium aspartate aminotransferase activity and cellular viability via MTT reduction. Aspartate aminotransferase activity was significantly elevated at 600 mM ethanol (FOLD; P
+CYP2E1; Ethanol; HepG2; Hepatotoxicity; In vitro; Poly (ADP-Ribose) Polymerase.

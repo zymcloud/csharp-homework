@@ -1,0 +1,4 @@
+21931995
+2011 Nov
+Hepatocellular carcinoma (HCC) is one of the most frequent and lethal tumors worldwide. Thus, there is an urgent need to elucidate its molecular pathogenesis in order to develop novel diagnostic, preventive and therapeutic strategies for this deadly disease. Mounting evidence implies a pivotal role of proteins involved in lipid biosynthesis in the development and progression of human HCC. This review summarizes the data available on the pathogenetic relevance of lipogenic proteins in the growth of liver cancer cells, the mechanisms responsible for unrestrained lipid biosynthesis in HCC and the possible clinical implications arising from these discoveries. Altogether the data implicate the AKT-mTORC1-RPS6 signaling pathway as the main inducer of aberrant lipid synthesis in HCC and are indicative of therapeutic strategies aimed at inhibiting de novo lipogenesis for the treatment of human liver cancer.
+

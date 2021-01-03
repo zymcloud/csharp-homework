@@ -1,0 +1,4 @@
+26191271
+2015 May 1
+We explored microRNA301 diagnosis value in hepatocellular cancer (HCC), attempting to provide novel insights for early detection, effective prevention, and timely treatment. 42 patients with HCC and 38 controls composed of 9 liver cirrhosis (LC), 9 chronic hepatitis B (CHB) and 20 healthy individuals were investigated in the study. Serum microRNA301 expression levels were detected using fluorescent quantitative polymerase chain reaction (FQ-PCR) technology. ROC curve was performed to evaluate diagnosis value of microRNA301. Meanwhile, the correlations of microRNA301 levels with clinical characteristics were also analyzed. Significantly up-regulated expression of serum microRNA301 was seen in HCC patients compared with the controls (P
+Hepatocellular cancer; MicroRNA301; diagnosis.

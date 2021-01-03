@@ -1,0 +1,4 @@
+28852111
+2017 Aug 29
+Glypican-3 (GPC3) is a promising new marker for hepatocellular carcinoma, but the reported values for serum GPC3 differ markedly between currently available kits. Here we isolated Affimer non-antibody binding proteins against GPC3 by phage display and developed a new sandwich chemiluminescence immunoassay (CLIA) combining an Affimer with a monoclonal antibody (Affimer-MAb CLIA). The proposed CLIA assay demonstrated a wide linear range 0.03-600 ng/mL) with a good linear correlation coefficient (0.9999), a high detection limitation (0.03 ng/mL) and specificity (0-0.002%) for detection of GPC3. The accuracy, hook effect and stability were demonstrated to be satisfactory. The mean level of GPC3 in serum was higher (>8.5 fold, P
+

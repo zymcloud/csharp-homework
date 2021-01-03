@@ -1,0 +1,4 @@
+32210805
+2020 Mar 6
+Cancer stem cells (CSCs) are subpopulations of cells with stem cell characteristics that produce both cancerous and non-tumorigenic cells in tumor tissues. The literature reports that CSCs are closely related to the development of hepatocellular carcinoma (HCC) and promote the malignant features of HCC such as high invasion, drug resistance, easy recurrence, easy metastasis, and poor prognosis. This review discusses the origin, molecular, and biological features, functions, and applications of CSCs in HCC in recent years; the goal is to clarify the importance of CSCs in treatment and explore their potential value in HCC-targeted therapy.
+cancer; cancer stem cells; hepatocellular carcinoma; signaling pathway; targeted therapy.

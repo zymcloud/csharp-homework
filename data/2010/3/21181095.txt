@@ -1,0 +1,4 @@
+21181095
+2011 Mar
+Bufalin, a major bioactive component of the Chinese medicine Chansu, has been reported to exhibit significant antitumor activity against various cancer cell lines. However, the exact mechanism remains unclear. In this study, we demonstrated that bufalin inhibited the growth of hepatocellular carcinoma (HCC) cells in a dose-dependent manner, which correlated with the expression level of Na+/K+-ATPase α3 in HCC cells. The IC50 of bufalin markedly increased when Na+/K+-ATPase α3 was silenced by RNA interference. Furthermore, we show that bufalin increased the phosphorylation of Akt and ERK1/2 while inhibited FoxO3a expression. Thus, our study suggests that Na+/K+-ATPase α3 might serve as a therapeutic target for bufalin in HCC, and its expression status may help predict sensitivity of HCC cells to bufalin treatment.
+

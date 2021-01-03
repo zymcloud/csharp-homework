@@ -1,0 +1,4 @@
+20169563
+2010 Mar
+The hypoxic environment of solid tumor causes the tumor cells survive and which could protect them from death by facilitating resistance to therapy. Here, we provide evidence that hypoxia can increase tumor cell viability and proliferation through an Egr-1-dependant pathway. Hypoxia protected the microtubules from disassembly, and Egr-1 was colocalized with microtubules in different cell cycle stages. Knockdown of Egr-1 with its siRNA overcame the protection effect of hypoxia and increased the sensitivity of tumor cells to vinblastine under hypoxic conditions. Our results suggest a novel approach for increasing the sensitivity of tumor cells to chemotherapeutics that target microtubule assembly.
+

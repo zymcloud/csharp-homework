@@ -1,0 +1,4 @@
+21965752
+2011 Oct
+Background:Wilson's disease is caused by a genetic defect in P-type Cu(2+)-ATPase (Atp7b), resulting in Cu(2+) accumulation in the liver, toxicity, and hepatocellular carcinoma. Exposure of HepG2 cells, and livers of Atp7b mutant mice to toxic Cu(2+) resulted in oxidation, (KGDH) and (PDH) enzyme inhibition, and death that was attenuated by thiamine.Materials and methods:The effect of oral thiamine supplementation (2%) on hepatocellular carcinoma induced by Cu(2+) accumulation in the livers of Atp7b animals at 4, 6, 9, 12, 16, and 21 months was demonstrated using gross morphology and multi-nucleate analysis.Results:By 16 months of age, untreated Atp7b animals became moribund, their livers were >180% the weight of controls and >75% of their liver was cancerous. At 16 months the livers of thiamine treated Atp7b mice were Conclusion:This study suggests that thiamine may constitute a prophylactic for Wilson's disease-induced hepatocellular carcinoma.
+

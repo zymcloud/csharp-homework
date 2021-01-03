@@ -1,0 +1,4 @@
+28886327
+2017 Aug 30
+Some studies investigated the association between platelet-to-lymphocyte ratio (PLR) and the survival of hepatocellular carcinoma (HCC). However, the results remained inconclusive. Thus, we performed this meta-analysis. Published studies were searched in PubMed and EMBASE. The strength of association was assessed by calculating odds ratios (OR) and 95% confidence interval (CI). In total, 6 studies with 1446 HCC patients were included in this meta-analysis. HCC with higher PLR showed an increased death risk (OR = 1.59; 95%CI, 1.15-2.20; P < 0.0001). However, the heterogeneity was high (I2=89.2%). When the study by Li et al. was excluded, the heterogeneity decreased (I2=20%). Further, the result was still positive (OR = 1.70; 95%CI, 1.42-2.04; P < 0.00001). In conclusion, this meta-analysis suggested that PLR was significantly associated with the OS of HCC.
+Hepatocellular carcinoma; Platelet-to-lymphocyte ratio; Survival..

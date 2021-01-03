@@ -1,0 +1,4 @@
+28901304
+2017
+Objectives:The objective of this study is to compare the therapeutic efficacy of radiofrequency ablation (RFA) and hepatic resection (HR) for the treatment of hepatocellular carcinoma (HCC).Materials and methods:A literature search was performed for comparative studies reporting outcomes of both RFA and HR for HCC. Pooled odds ratios (ORs) with 95% confidence intervals (95% CIs) were calculated.Results:A total of 4812 patients with HCC were included, with 2419 in the RFA group and 2393 in the HR group. The 3- and 5-year overall survival rates in the HR group were significantly higher than those in the RFA group (OR: 0.68, 95% CI: 0.58-0.79, P Conclusion:RFA gets promising clinical outcomes for HCC treatments but is not yet comparable to surgery. HR is still the first-line treatment for HCC.
+

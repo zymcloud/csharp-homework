@@ -1,0 +1,4 @@
+28343896
+May-Jun 2017
+Purpose:This study aims to determine how the albumin-bilirubin (ALBI) score compares with the Child-Pugh (CP) score for assessing liver function following stereotactic body radiation therapy (SBRT).Methods and materials:In total, 60 patients, 40 with hepatocellular carcinoma (HCC) and 20 with cholangiocarcinoma (CCA), were treated with SBRT. Liver function panels were obtained before and at 1, 3, 6, and 12 months after SBRT. Laboratory values were censored after locoregional recurrence, further liver-directed therapies, or liver transplant.Results:A significant decline in hepatic function occurred after SBRT for HCC patients only (P = .001 by ALBI score; P Conclusions:ALBI score was similarly able to predict hepatic function decline compared with CP score, and both systems correlated with survival.
+

@@ -1,0 +1,4 @@
+28786067
+2017 Aug
+The differential expression of genes in HepG2 cells caused by UC001kfo RNAi was investigated using RNA-seq. HepG2 cells were infected by Lenti-shUC001kfo lentivirus particles. The expression of UC001kfo mRNA in the HepG2-shUC001kfo cell line was detected by real-time PCR. RNA-seq technology was used to identify the difference in the expression of genes regulated by lncRNA UC001kfo in the HepG2 cell line. Gene ontology and signaling pathway analysis were performed to reveal the biological functions of the genes encoding of significantly different mRNAs. The results showed that mRNAs were differentially expressed between the HepG2-shUC001kfo cell line and the HepG2 cell line. The UC001kfo mRNA was significantly down-regulated in the stable cell line HepG2-shUC001kfo (P
+HepG2-shUC001kfo cell line; RNA-seq technology; gene ontology and pathway analysis; hepatocellular carcinoma; lncRNAs.

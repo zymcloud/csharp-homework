@@ -1,0 +1,4 @@
+20528121
+2010 Jun
+Hepatocellular carcinoma (HCC) represents the third most common cause of cancer-related death worldwide and efficient treatment options are urgently needed. Based on its pathogenesis, in addition to a number of correlative studies, immunotherapy represents a potential therapeutic option for patients with HCC. However, tumors have also evolved numerous immune escape mechanisms, including the generation of cells with immune suppressor functions, such as Tregs and myeloid-derived suppressor cells. It has been shown that these suppressor cells mask tumor-specific immune responses in patients with HCC. Different immunotherapeutic approaches including peptide- and dendritic cell-based therapies have demonstrated promising results in patients with HCC. However, we propose that any of these immunotherapeutic approaches needs to be combined with a therapy specifically targeting suppressor cells in HCC.
+

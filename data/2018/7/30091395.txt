@@ -1,0 +1,4 @@
+30091395
+2018 Jul 1
+Aim: The diagnosis and treatment of hepatocarcinoma (HCC) is believed to be improved due to the development of specific targeting probes by molecular imaging methods. GPC3, which is a hepatocellular carcinoma (HCC)-specific tumor marker, anchors at most HCC cells. To target this cell membrane protein, we developed a novel nanoparticle by conjugating WS2-Ga3+-PEG and a short peptide with favorable specificity and affinity to the GPC3 protein. Materials & methods: In in vitro assay, several physical properties of the novel probe were evaluated. In in vivo assay, MRI, photoacoustic imaging and photothermal therapy were performed in the subcutaneous HepG2-bearing mice with the novel probe. Results & conclusion: The effect of imaging and photothermal therapy was significant. We revealed that the novel nanosheet WS2-Ga3+-PEG-peptide is promising to detect and treat HCC-expressing GPC3.
+hepatocellular carcinoma; imaging-guided; photothermal therapy.

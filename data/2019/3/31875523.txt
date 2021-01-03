@@ -1,0 +1,4 @@
+31875523
+2020 Mar 31
+Hepatocellular carcinoma (HCC) is the third leading cause of death from cancer globally. Indeed, there is a single drug approved as first-line systemic therapy in advanced unresectable HCC, providing a very limited survival benefit. In earlier stages, 5-year survival rates after surgical and loco-regional therapies are extremely variable depending on the stage of disease. Nevertheless, HCC is considered an immunogenic tumor arising in chronically inflamed livers. In such a scenario, immunotherapy strategies for HCC, in particular combinations including cancer vaccines, may represent a key therapeutic tool to improve clinical outcome in HCC patients. However, a lot of improvement is needed given the disappointing results obtained so far.
+Cancer vaccine; Checkpoint inhibitors; Epigenetic drugs; Immunotherapy; Liver cancer.

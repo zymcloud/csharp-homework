@@ -1,0 +1,4 @@
+25961544
+2015 Jun 1
+Hepatocellular carcinoma (HCC) is the fifth most common cancer and the third leading cause of cancer related death worldwide. HCC develops through a multistep process that involves genetic and epigenetic changes. In addition to genetic and epigenetic mechanisms, recent studies have shown that microRNAs (miRNAs) play essential roles in hepatocellular carcinogenesis through the post-transcriptional regulation of tumor associated-genes. In this review, we summarize the role of miRNAs in HCC and its microenvironment, and discuss the implications for HCC therapy.
+

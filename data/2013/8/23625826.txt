@@ -1,0 +1,4 @@
+23625826
+2013 Aug
+Smad7 is a principal inhibitor of the TGFβ-Smad signalling pathway. We have investigated the functional significance of Smad7 in hepatocellular carcinoma (HCC). Smad7 knockout (KO) and wild-type (WT) mice were injected with diethylnitrosamine (DEN) to induce HCC. The effects of Smad7 on cellular features were examined in HCC cells, using a Smad7 over-expression or deletion approach. Signalling pathway components modulated by Smad7 in HCC were evaluated using luciferase reporter assay and co-immunoprecipitation. Smad7 was down-regulated in human HCCs compared with the adjacent normal tissues (p
+Smad7; animal model; hepatocellular carcinoma; tumour suppressor.

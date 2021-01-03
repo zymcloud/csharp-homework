@@ -1,0 +1,4 @@
+24857986
+2014 Jul 11
+We previously identified hepatoma-derived growth factor-related protein-3 (HRP-3) as a radioresistant biomarker in p53 wild-type A549 cells and found that p53-dependent induction of the PUMA pathway was a critical event in regulating the radioresistant phenotype. Here, we found that HRP-3 knockdown regulates the radioresistance of p53-null H1299 cells through a distinctly different molecular mechanism. HRP-3 depletion was sufficient to cause apoptosis of H1299 cells by generating substantial levels of reactive oxygen species (ROS) through inhibition of the Nrf2/HO-1 antioxidant pathway. Subsequent, ROS-dependent and p53-independent NF-κB activation stimulated expression of c-Myc and Noxa proteins, thereby inducing the apoptotic machinery. Our results thus extend the range of targets for the development of new drugs to treat both p53 wild-type or p53-null radioresistant lung cancer cells.
+H1299 cells; HRP-3; Myc/Noxa signaling; NF-κB; ROS.

@@ -1,0 +1,4 @@
+26662415
+2015 Dec 8
+We aimed to evaluate dendritic cell (DC) tumor vaccines for preventing liver cancer recurrence and metastasis. DCs were induced from mononuclear cells in the peripheral blood with recombinant human granulocyte macrophage colony stimulating factor (rhGM-CSF) and recombinant human interleukin 4 (rhIL-4), followed by sensitization with lysis of autologous liver cancer cells. One hundred and sixty patients with hepatocellular carcinoma were randomly divided into two groups of 80. One group was treated postoperatively with six cycles of the DC tumor vaccine. The other group was treated postoperatively with six cycles of FOLFOX 6, beginning 1 week after surgery. After treatment with DC tumor vaccines, the levels of CD3+, CD4+, and CD8+, the ratio of CD4+ to CD8+ DC, and the serum levels of IL-12 and IFN-γ were significantly increased both in comparison to the pre-treatment levels (P
+

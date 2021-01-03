@@ -1,0 +1,4 @@
+22146135
+2011
+A novel protease with a molecular mass of 15 kDa was purified from fresh fruiting bodies of the wild mushroom Amanita farinosa. The purification protocol entailed anion exchange chromatography on DEAE-cellulose, affinity chromatography on Affi-gel blue gel, cation exchange chromatography on SP-Sepharose, and gel filtration by fast protein liquid chromatography on Superdex 75. The protease was unadsorbed on DEAE-cellulose but adsorbed on Affi-gel blue gel and SP-Sepharose. It demonstrated a single 15-kDa band in sodium dodecyl sulfate-polyacrylamide gel electrophoresis (SDS/PAGE) and a 15-kDa peak in gel filtration. The optimal pH and optimal temperature of the protease were pH 8.0 and 65 °C, respectively. Proliferation of human hepatoma HepG2 cells was inhibited by the protease with an IC(50) of 25 µM. The protease did not have antifungal or ribonuclease activity.
+

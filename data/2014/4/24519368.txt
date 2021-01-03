@@ -1,0 +1,4 @@
+24519368
+2014 Apr 7
+A novel, simple, and efficient method for the synthesis of 4,5-dihydropyrazole derivatives has been developed. The reaction proceeded through the base-induced isomerization of easily accessible propargyl alcohols followed by cyclization of α,β-unsaturated hydrazones. Furthermore, selected compounds 3ab and 3ac exhibited good activities against Bel-7404 (human hepatoma cancer), HepG2 (human liver cancer), NCI-H460 (human lung cancer) and SKOV3 (human ovarian cancer) cell lines with IC50 in the range of 22-46 μmol L(-1).
+

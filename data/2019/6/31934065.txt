@@ -1,0 +1,4 @@
+31934065
+2019 Jun 1
+Objective:To investigate the expression and clinical significance of Shh, Gli1, FAK, p-FAK and p-AKT in HCC.Methods:Immunohistochemistry was used to measure Shh, Gli1, FAK, p-FAK, and p-AKT expressions in 50 cases of HCC and paracancerous tissues. The Shh, Gli1, and FAK mRNA levels were determined by qRT-PCR in 20 HCCs. The correlations between the expressions of these target genes and the clinicopathological factors were analyzed in HCC.Results:The immunohistochemical results showed that the expressions of Shh, Gli1, FAK, p-FAK, and p-AKT in 50 HCC tissues were significantly higher than those of the paracancerous tissues (P Conclusion:In HCC, the Hh and PI3K-AKT signaling pathways are both abnormally activated, and Shh, Gli1, FAK, p-FAK and p-AKT can serve as indicators to predict the prognosis of liver cancer.
+FAK; Gli1; Hepatocellular carcinoma; Shh; p-AKT; p-FAK.

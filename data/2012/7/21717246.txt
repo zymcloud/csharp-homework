@@ -1,0 +1,4 @@
+21717246
+2012 Jul
+Purpose:The aim of this study was to investigate the roles of renal tumor antigen (RAGE) in the progression and clinical outcome of hepatocellular carcinoma (HCC).Methods:RAGE mRNA levels in 350 cases of HCC were investigated by quantitative real-time reverse transcription polymerase chain reaction. We analyzed the relationship of RAGE mRNA level with clinicopathologic parameters and clinical outcome. To identify the possible role of RAGE on cellular invasion, we performed in vitro analyses using small interfering RNAs (siRNAs).Results:RAGE mRNA level was significantly higher in HCC than in noncancerous hepatic tissues (P Conclusions:Our results suggest that RAGE may be important in tumor invasion and could be a potential predictor for the prognosis of HCC patients.
+

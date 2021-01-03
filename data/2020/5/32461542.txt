@@ -1,0 +1,4 @@
+32461542
+2020 May 28
+BACKGROUND The first-line therapy for early-stage hepatocellular carcinoma (HCC) is unclear. This study was conducted to assess and compare survival after surgery vs. after radiofrequency ablation (RFA) for early-stage HCC. MATERIAL AND METHODS Data from HCC patients with a single tumor measuring 31-50 mm were extracted from the Surveillance, Epidemiology, and End Results (SEER) database from 2004 to 2015. Overall survival (OS) and cancer-specific survival (CSS) were assessed and compared between surgery and RFA treatment. Propensity score matching was performed. Multiple imputations were used to create 5 sets of complete data. Fine and Gray competing risk multivariate regression models were used to control biases. RESULTS This study included 839 patients: 339 (40.41%) received RFA and 500 (59.59%) underwent surgery. Surgery improved the 5-year OS (63.95% vs. 37.13%, p
+

@@ -1,0 +1,4 @@
+24278103
+2013 Nov 20
+Objective:Many studies have shown that magnetic fields (MF) inhibit tumor growth and influence the function of immune system. However, the effect of MF on mechanism of immunological function in tumor-bearing mice is still unclear.Methods:In this study, tumor-bearing mice were prepared by subcutaneously inoculating Balb/c mice with hepatocarcinoma cell line H22. The mice were then exposed to a low frequency MF (0.4 T, 7.5 Hz) for 30 days. Survival rate, tumor growth and the innate and adaptive immune parameters were measured.Results:MF treatment could prolong survival time (n = 28, pConclusion:The inhibitory effect of MF on tumor growth was related to the improvement of immune function in the tumor-bearing mice.
+

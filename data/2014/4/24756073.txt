@@ -1,0 +1,4 @@
+24756073
+2014 Apr 23
+Accurate prediction of a particular cancer can be achieved by measuring multiplex biomarkers. Traditional methods for multi-biomarkers detection are either multi-spots assay with chip or multi-label assay with one detection spot. However, the detection throughput of these two approaches is limited by the substrate area and the numbers of available label respectively. To solve this problem, in the present study, an immunoassay was firstly prepared by combining multi-label strategy and multi-spot assay with a novel array electrode for simultaneous detection of six biomarkers for hepatocellular carcinoma (HCC). The detection throughput of the proposed method was doubled in comparison with traditional multi-spots assay (one target protein was detected on each analytic spot), which could greatly enhance the sensitivity and specificity of HCC diagnosis. This detection model may serve as the starting point for high throughput of multianalyte assay.
+

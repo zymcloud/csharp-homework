@@ -1,0 +1,4 @@
+25433287
+2015 Jan 22
+The upregulation of miR-221 has been reported in variety of cancer, including HCV associated HCC, the mechanism of upregulation of miR-221 however remains unclear. In this study, it was found that miR-221 was significantly upregulated in serum of patients with HCV associated chronic hepatitis (cHCV), which suggested the possible biological significance of miR-221 in HCV infection. Important, the upregulated miR-221 was positive correlation with serum miR-122, alanine aminotransferase (ALT) and aspartate transaminase (AST), which are reported as biomarkers for liver injuries. Further studies indicated that HCVcc infection activated nuclear factor-kappa B (NF-κB) and the upregulation of miR-221 by HCVcc infection could totally blocked by NF-κB inhibitor (pyrrolidine dithiocarbamate, PDTC). In conclusion, HCVcc infection could upregulate the expression of miR-221 in NF-κB dependent manner.
+HCV; NF-κB; miR-221.

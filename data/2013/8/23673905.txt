@@ -1,0 +1,4 @@
+23673905
+2013 Aug
+Health economic models rely on data from trials to project the risk of events (e.g., death) over time beyond the span of the available data. Parametric survival analysis methods can be applied to identify an appropriate statistical model for the observed data, which can then be extrapolated to derive a complete time-to-event curve. This paper describes the properties of the most commonly used statistical distributions as a basis for these models and describes an objective process of identifying the most suitable parametric distribution in a given dataset. The approach can be applied with both individual-patient data as well as with survival probabilities derived from published Kaplan-Meier curves. Both are illustrated with analyses of overall survival from the Sorafenib Hepatocellular Carcinoma Assessment Randomised Protocol trial.
+

@@ -1,0 +1,4 @@
+21631109
+2011 Aug 5
+The study aims to develop novel clinical immunohistochemical biomarkers for distinguishing small hepatocellular carcinoma (sHCC) from dysplastic nodules (DN). iTRAQ-2DLC-ESI-MS/MS technique was used to screen immunohistochemical biomarkers between precancerous lesions (liver cirrhosis and DN) and sHCC. A total of 1951 proteins were quantified, including 52 proteins upregulated in sHCC and 95 proteins downregulated in sHCC by at least 1.25- or 0.8-fold at p
+

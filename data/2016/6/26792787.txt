@@ -1,0 +1,4 @@
+26792787
+2016 Jun
+Hepatitis B (HBV) and C (HCV) viruses cause many liver diseases. To move beyond statistical interaction, we aimed to assess the coordinated effect of the two viruses on mortality using mediation analyses. A prospective cohort study of 3837 residents in Taiwan examined participants seropositive for hepatitis B, of which 181 subjects (4.7 %) were co-infected by HCV and 589 died during follow-up. Mediation analyses for cause-specific mortality were performed using Cox proportional hazards model. Follow-up HBV viral load was inversely correlated with baseline HCV viral load (r(2) = -0.074; P
+Hepatitis B virus; Hepatitis C virus; Mediation analyses; Mortality; Viral interaction; Viral load.

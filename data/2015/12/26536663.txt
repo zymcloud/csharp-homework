@@ -1,0 +1,4 @@
+26536663
+2015 Dec 1
+Despite the substantial data supporting the oncogenic role of Ack1, the predictive value and biologic role of Ack1 in hepatocellular carcinoma (HCC) metastasis remains unknown. In this study, both correlations of Ack1 expression with prognosis of HCC, and the role of Ack1 in metastasis of HCC were investigated in vitro and in vivo. Our results showed that Ack1 was overexpressed in human HCC tissues and cell lines. High Ack1 expression was associated with HCC metastasis and determined as a significant and independent prognostic factor for HCC after liver resection. Ack1 promoted HCC invasion and metastasis in vitro and in vivo. Mechanistically, we confirmed that Ack1 enhanced invasion and metastasis of HCC via EMT by mediating AKT phosphorylation. In conclusion, our study shows Ack1 is a novel prognostic biomarker for HCC and promotes metastasis of HCC via EMT by activating AKT signaling.
+Ack1; hepatocellular carcinoma; metastasis; prognosis.

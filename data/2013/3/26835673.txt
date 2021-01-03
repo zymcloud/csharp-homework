@@ -1,0 +1,4 @@
+26835673
+2013 Mar 15
+Hepatocellular carcinoma (HCC) is the most common form of liver cancer and is the third leading cause of cancer-related deaths worldwide. Treatment options for HCC are very limited, as it is often diagnosed at a late stage. Recent studies have demonstrated that microRNAs (miRNAs), a class of non-coding RNAs, are aberrantly expressed in HCC. Some of these were shown to be functionally involved in carcinogenesis and tumor progression, suggesting that miRNAs can serve as novel molecular targets for HCC therapy. Several promising studies have recently demonstrated the therapeutic potential of miRNAs in animal models and in reducing the viral load in hepatitis C patients. In this review, these advances and strategies for modulating miRNAs for in vivo therapeutic delivery and replacement therapy are discussed.
+animal model; liver cancer; microRNA; replacement therapy.

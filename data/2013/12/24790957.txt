@@ -1,0 +1,4 @@
+24790957
+2013 Dec 5
+Silver nanoparticles, AgNPs, are widely used in our daily life, mostly due to their antibacterial, antiviral, and antifungal properties. However, their potential toxicity remains unclear. In order to unravel this issue, emissive AgNPs were first synthetized using an inexpensive photochemical method, and then their permeation was assessed in vivo in goldfish and in vitro in human hepatoma cells (HepG2). In addition, the oxidative stress caused by AgNPs was assessed in enzymes such as glutathione-S-transferase (GST), catalase (CAT), and in lipid peroxidation (LPO). This study demonstrates that the smallest sized AgNPs@3 promote the largest changes in gold fish livers, whereas AgNPs@1 were found to be toxic in HEPG2 cells depending on both the size and functionalized/stabilizer ligand.
+cytotoxicity; fluorescence; goldfish; human hepatoma cells; silver nanoparticles.

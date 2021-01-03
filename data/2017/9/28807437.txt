@@ -1,0 +1,4 @@
+28807437
+2017 Sep 15
+The synthesis of several aminosquaraine cationic dyes displaying strong absorption within the so-called phototherapeutic window (650-850nm) is described. Their cytotoxicity, under dark and illuminated conditions, was tested against several human tumor cell lines (breast, lung, cervical and hepatocellular carcinomas) and non-tumor porcine liver primary cells. All compounds showed to inhibit the growth of the tumor cells upon irradiation more than in the absence of light, in more or less extension, clearly exhibiting photodynamic activity. The photosensitizing ability against some cell lines, together with the low toxicity for the non-tumor primary PLP2 cells displayed by some of the compounds synthetized, turns them into potential candidates as photosensitizers for PDT.
+Cancer; Photodynamic therapy; Photosensitizer; Squaraine dyes.

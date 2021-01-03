@@ -1,0 +1,4 @@
+29144743
+2017 Dec 22
+Two new unusual dimeric selaginellins, diselaginellins A and B (1 and 2), along with two known derivatives, selaginellin (3) and selaginellin B (4), were isolated from Selaginella pulvinata. Their structures were elucidated by extensive NMR and high-resolution ESIMS data analysis. Compound 2 displayed apoptosis-inducing and antimetastatic activities against the human hepatocellular carcinoma cell line SMMC-7721. A microarray analysis revealed that genes related to metabolism, angiogenesis, and metastasis were altered by 2. The up- and down-regulation of the mRNA levels of related genes was confirmed by RT-qPCR. Metabolism modulation and metastasis inhibition might be the mechanisms of the antitumor properties of diselaginellin B (2).
+

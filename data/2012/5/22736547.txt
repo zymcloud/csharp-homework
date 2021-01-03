@@ -1,0 +1,4 @@
+22736547
+2013 May
+Many studies showed that RhoC-GTPases are central molecules in oncogenic transformation. The expression of RhoC is significantly increased in hepatocellular carcinoma (HCC). HBV is the major risk factor for HCC. However, it is unknown whether HBV regulating RhoC expression. In this study, we showed the RhoC expression was significantly higher in HepG2.2.15 than that in HepG2 cells. HBV could up-regulate RhoC expression through enhancing the activity of its promoter, and HBs and HBx may involve in this process. After silencing HBs and HBx expressions by using RNA interference, the expression of RhoC in HepG2.2.15 cells could be obviously inhibited. These results would provide useful information for understanding mechanism of HCC induced by HBV infection.
+

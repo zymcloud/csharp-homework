@@ -1,0 +1,4 @@
+27784014
+2016
+Objective:We examined early predictors of the outcome in hepatocellular carcinoma (HCC) patients after transarterial chemoembolization (TACE).Methods:We analyzed 116 patients with unresectable HCC treated with initial TACE. α-Fetoprotein (AFP) or des-γ-carboxy prothrombin (DCP) response was assessed in patients who had baseline AFP levels ≥200 ng/ml or DCP ≥60 mAU/ml; a positive response was defined as a reduction of >50% compared to baseline 1 month after TACE.Results:A baseline AFP level ≥200 ng/ml was associated with a poor overall survival (OS) (29.4 vs. 6.1 months; p Conclusions:The combination of the baseline AFP level and mRECIST is useful for the early prediction of the OS in HCC patients who underwent TACE.
+

@@ -1,0 +1,4 @@
+20691734
+2010 Oct
+The persistence of covalently closed circular DNA (cccDNA) of hepatitis B virus (HBV) in hepatocytes plays a key role in viral persistence and resistance to therapy. Therefore, quantitative cccDNA measurement is of clinical importance for evaluating the efficacy of antiviral drugs, selecting an appropriate treatment strategy, and predicting the prognosis. Current established methods for measurement of cccDNA need further improvement. A modified method was developed using digestion with restriction endonucleases that do not recognize sites in the HBV DNA and plasmid-safe ATP-dependent DNase (PSAD), and using a cccDNA-specific primer set in a real-time PCR reaction. The cccDNA-specific primer has a similar amplification efficiency as a commercial kit. Treatment of samples with restriction endonuclease followed by PSAD digestion increased significantly the specificity of a cccDNA-selective primer set compared with other treatments (P
+

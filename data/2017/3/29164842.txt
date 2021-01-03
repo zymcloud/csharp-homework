@@ -1,0 +1,4 @@
+29164842
+2018 Mar
+MicroRNAs (miRNAs) are non-coding RNAs of around 20-25 nucleotides in length with highly conserved characteristics. They moderate post-transcriptional silencing by precisely combining with 3' untranslated regions (UTRs) of target mRNAs at a complementary site. miR‑503, an associate of the "canonical" miRNA-16 family, is expressed in numerous types of tumors such as breast cancer, prostate cancer, lung cancer, colorectal cancer, hepatocellular carcinoma, glioblastoma and several others. There is convincing evidence to show that miR‑503 functions as a tumor suppressor gene through its effects on target genes that regulate cell proliferation, migration, and invasion in tumor cells. In this current assessment, we discuss the biology and tumor suppressor role of miR‑503 in different cancers and elaborate on its mechanism of action.
+

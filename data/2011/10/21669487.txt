@@ -1,0 +1,4 @@
+21669487
+2011 Oct 1
+We analyzed hepatocellular carcinoma (HCC) with progenitor cell features using hepatic stem/progenitor cell marker neural cell adhesion molecule (NCAM). Approximately 8.3% of the operated HCC cases expressed NCAM, and 22.3% of the HCC patients had soluble NCAM levels >1000ng/ml (the "highly soluble" NCAM group). Soluble NCAM status was a significant independent factor predictive of long-term survival in patients with HCC, and high levels of soluble NCAM were significantly related to intrahepatic metastasis. The 140-kDa NCAM isoform was specifically detected in the "highly soluble" NCAM group of HCC patients andits related signals are potential drug targets for NCAM+ HCC.
+

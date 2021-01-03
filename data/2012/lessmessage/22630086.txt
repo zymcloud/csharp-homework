@@ -1,0 +1,4 @@
+22630086
+2012
+In this review we will report on recent advanced in polyelectrolyte capsules for targeted drug delivery (eg of growth factor inhibitor) against epatocarcinoma. Degradable polyelectrolyte multilayers capsules (PMCs) are of particular interest for cancer therapy since under physiological conditions they can be enzymatically degraded upon cell interaction. Small bioactive molecules such as TGF-Beta inhibitors can be incorporated inside them. Nano-to-microscale delivery systems can enhance efficacy at single cell level for targeted therapy. Layer-by-layer (LbL) self-assembled capsules are novel carriers maximizing drug administration and improving antimetastatic activity of TGF-Beta inhibitors in Hepatocellular Carcinoma (HCC).
+

@@ -1,0 +1,4 @@
+23184753
+2012 May
+Mesoporous silica nanoparticle-supported lipid bilayers, or "protocells", exhibit a high loading capacity, enhanced colloidal stability, and peptide-directed, cell-specific uptake, making them especially well-suited for targeted delivery of protein toxins to cancer. Protocells loaded with ricin toxin A-chain (RTA) and targeted to hepatocellular carcinoma cause complete cell death at 30 pM of RTA without affecting the viability of control hepatocytes.
+

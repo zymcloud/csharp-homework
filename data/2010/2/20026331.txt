@@ -1,0 +1,4 @@
+20026331
+2010 Feb 19
+Hepcidin is a small acute phase peptide that regulates iron absorption. It is induced by inflammation and infection, but is repressed by anaemia and hypoxia. Here we further reveal that hepcidin transcription also involves interactions between functional metal response elements (MREs) in its promoter, and the MRE-binding transcription factor-1. Analysis of hepcidin mRNA and protein levels in hepatoma cells suggests that its expression may be regulated by divalent metal ions, with zinc inducing maximal effects on hepcidin levels. These data suggest that this peptide may be a pleiotropic sensor of divalent metals, some of which are xenobiotic environmental toxins.
+

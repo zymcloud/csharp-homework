@@ -1,0 +1,4 @@
+26945969
+2016 May 28
+The p300-CBP-associated factor (PCAF), other than its histone acetyltransferase (HAT) activity, possesses an intrinsic ubiquitination activity that is involved in various transcriptional regulators, including the transcription factor glioma-associated oncogene 1 (Gli1), a well-known regulator of epithelial-mesenchymal transition (EMT) in cancer. In present research, we detected that PCAF was down-regulated in hepatocellular carcinoma (HCC) tissues compared with the adjacent non-tumor tissues and significantly associated with malignant portal vein invasion (p Conclusion:PCAF is an anti-oncogene that plays an important role in the development of HCC by suppressing HCC cell metastasis and EMT by targeting Gli1, which indicates the potential therapeutic value of PCAF for suppression of metastasis of HCC.
+EMT; Gli1; Hepatocellular carcinoma; PCAF; Tumor invasion.

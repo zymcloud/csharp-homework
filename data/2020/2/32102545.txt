@@ -1,0 +1,4 @@
+32102545
+2020 Feb 26
+Four new alkaloids (1-4) and one known alkaloid were isolated from the stems of Picrasma quassioides. The structures of these isolated compounds were elucidated by spectroscopic analyses, a combination of computer-assisted structure elucidation software (ACD/Structure Elucidator) and gauge-including atomic orbital (GIAO) calculation of 1 D NMR data. All compounds were evaluated for their cytotoxic activities against hepatocellular carcinoma HepG2 and Hep3B cells. However, they did not show obvious inhibitory activities.[Figure: see text].
+ACD/Structure Elucidator; NMR calculations; Picrasma quassioides; Simaroubaceae; alkaloids.

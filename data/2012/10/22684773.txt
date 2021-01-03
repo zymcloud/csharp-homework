@@ -1,0 +1,4 @@
+22684773
+2012 Oct
+Abnormal expression of insulin-like growth factor II (IGF-II) is associated with the hepatocyte malignant transformation and hepatocellular carcinoma (HCC) progress. In this study, specific IGF-II miRNA plasmids were constructed and transfected to HepG2 cells to knockdown IGF-II expression for observing effects on the cell proliferation, survival, apoptosis, angiogenesis, and anchorage-independent colony formation. IGF-II mRNA was evaluated by quantitative real-time polymerase chain reaction, and the level of IGF-II or vascular endothelial growth factor (VEGF) was quantitatively analyzed by ELISA. Our data shown that downregulation of IGF-II expression resulted in the viability alteration, proliferation inhibition, and apoptosis occurrence of HepG2 cells. The level of VEGF expression in the supernatant of HepG2 cells in the IGF-II-miRNA-transfected group was significantly decreasing (P
+

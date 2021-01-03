@@ -1,0 +1,4 @@
+26239319
+2016 Jan 2
+Chronic infection with hepatitis B virus (HBV) is a major risk for development of hepatocellular carcinoma (HCC), which is the fifth most common cancer and a leading global cause of mortality. Long noncoding RNAs (lncRNAs) are regulators of complex biological processes and their functional disruption is implicated in the etiology of many cancers including HCC. Several lncRNAs have been shown to have oncogenic or tumor suppressive roles and have recently become the focus of intense investigation. However, the contributions of lncRNAs to HBV-related HCC remain to be fully elucidated. In this review we concentrate on the functional roles of various lncRNAs in HBV-associated HCC. Their involvement in viral replication, the specific association of certain lncRNAs with HBV-related HCC, potential utility as therapeutic targets and diagnostic markers are discussed.
+HBV; HBx; HBx-LINE1; HCC; lncRNA.

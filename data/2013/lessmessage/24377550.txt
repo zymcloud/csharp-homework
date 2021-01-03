@@ -1,0 +1,4 @@
+24377550
+2013
+We investigated the cancer screening rates for five types of cancer (stomach, liver, colorectal, breast, and cervix uteri) using data from the Korean National Cancer Screening Survey (KNCSS), which is a nationwide, annual cross-sectional survey. The eligible study population included cancer-free men 40 years of age and older and women 30 years of age and older. The lifetime screening rate and screening rate with recommendation were calculated. The lifetime screening rates for gastric, liver, colorectal, breast, and cervical cancers were 77.9%, 69.9%, 65.8%, 82.9%, and 77.1%, respectively. The screening rates with recommendation were 70.9%, 21.5%, 44.7%, 70.9%, and 67.9%, respectively. The most common reason for all types of cancer was "no symptoms, " followed by "lack of time" and "fear of the examination procedure. " Efforts to facilitate participation in liver and colorectal cancer screening among Korean men and women are needed.
+

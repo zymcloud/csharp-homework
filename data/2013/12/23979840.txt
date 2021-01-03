@@ -1,0 +1,4 @@
+23979840
+2013 Dec
+Human hepatocellular carcinoma (HCC) is the fifth most common cancer in the world. Currently, surgical resection is the only effective treatment for HCC if the tumor is resectable. Small molecule, biologics and siRNA anti-cancer drugs have been explored for the treatment of HCC. Selective targeting to tumor tissue rather than normal liver in HCC patients is still a challenge. Galactosamine-mediated targeting delivery of anti-cancer drugs in the liver has been tested because its receptor, asialoglycoprotein receptor 1 (ASGPR1), is expressed in the liver and not in other human tissues. We examined ASGPR1 expression levels by immunohistochemistry in HCC with different grades. Guidance for a targeting delivery strategy for anti-cancer drugs to HCC is suggested in this report.
+ASGPR; galactosamine; galactose; human hepatocellular carcinoma (HCC); immunohistochemistry; targeting delivery.

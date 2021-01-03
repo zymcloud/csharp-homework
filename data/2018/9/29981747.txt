@@ -1,0 +1,4 @@
+29981747
+2018 Sep 15
+Over-activation of beta-catenin/TCF signaling is very common in the progression of hepatocellular carcinoma (HCC). The molecular mechanisms leading to the aberrant activation of beta-catenin/TCF signaling are not fully understood. In this study, it was found that CDK7 was up-regulated in HCC tissues and its expression inversely correlated with the survival of HCC patients. Functional study showed that CDK7 promoted the growth and migration of HCC cells, and knocking down the expression of CDK7 inhibited the growth of HCC cells in both liquid culture and soft agar. Mechanistically, CDK7 interacted with beta-catenin, enhanced the interaction between beta-catenin and TCF4, and activated beta-catenin/TCF signaling. Taken together, this study demonstrated the oncogenic roles of CDK7 in HCC and suggested that CDK7 might be a promising therapeutic target.
+Beta-catenin/TCF signaling; CDK7; Cell growth and migration; Hepatocellular carcinoma.

@@ -1,0 +1,4 @@
+31676847
+2019 Nov 1
+Hepatocellular carcinomas(HCC) consisted of heterogeneous subtypes with different recurrence probabilities after liver transplantation(LT). Our study aimed to develop an improved model for predicting the recurrence of solitary HCC after LT. In this retrospective study, 151 solitary HCC patients who received orthotopic LT over a period of 10 consecutive years were included. All recipients received graft from deceased donors. The first eligible 50 patients were used as validation cohort and others were utilized to construct the model. A two-tailed P
+

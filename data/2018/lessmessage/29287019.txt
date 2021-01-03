@@ -1,0 +1,4 @@
+29287019
+May/Jun 2018
+Objective:To compare the utility of high-precision computed diffusion-weighted imaging (hc-DWI) and conventional computed DWI (cc-DWI) for the diagnosis of hepatocellular carcinoma (HCC) at 3 T.Methods:We subjected 75 HCC patients to DWI (b-value 150 and 600 s/mm). To generate hc-DWI we applied non-rigid image registration to avoid the mis-registration of images obtained with different b-values. We defined c-DWI with a b-value of 1500 s/mm using DWI with b-value 150 and 600 s/mm as cc-DWI, and c-DWI with b-value 1500 s/mm using registered DWI with b-value 150 and 600 s/mm as hc-DWI. A radiologist recorded the contrast ratio (CR) between HCC and the surrounding hepatic parenchyma.Results:The CR for HCC was significantly higher on hc- than cc-DWIs (median 2.0 vs. 1.8, P Conclusion:The CR of HCC can be improved with image registration, indicating that hc-DWI is more useful than cc-DWI for the diagnosis of HCC.
+

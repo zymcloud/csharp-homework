@@ -1,0 +1,4 @@
+24754730
+2014 May 20
+Specific drug delivery to solid tumors remains one of the challenges in cancer therapy. The aim of this study was to combine three drug-targeting strategies, polymer-drug conjugate, ligand presentation and ultrasound treatment, to enhance the efficacy and selectivity of doxorubicin (DXR) to hepatoma cells. The conjugation of DXR to γ-poly(glutamic acids) (γ-PGA) decreased the cytotoxicity of DXR, while the conjugation of galactosamine (Gal) to the γ-PGA-DXR conjugate restored the cytotoxic efficacy of DXR on hepatoma cells due to increased uptake of DXR. Furthermore, low-intensity ultrasound treatment increased the cell-killing ability of γ-PGA-DXR conjugates by 20%. The in vitro results showed the potential of the γ-PGA-DXR-Gal conjugate for future clinical applications.
+

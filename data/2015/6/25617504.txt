@@ -1,0 +1,4 @@
+25617504
+2015 Jun
+Background & aims:Altered expression of dual specificity phosphatase 1 (DUSP1) is common in tumors including hepatocellular carcinoma (HCC), and is predictive of tumor progression and poor prognosis. However, the tumor suppressive role of DUSP1 has yet to be clearly elucidated.Methods:The molecular mechanisms of tumor suppression that were investigated were induction of apoptosis, cell cycle inhibition, and regulation of p53. Additionally, the antitumor effect of DUSP1 was assessed using a mouse model. Associated signaling pathways in HCC cells and tissues were examined.Results:Downregulation of DUSP1 expression was significantly correlated with poor differentiation (pConclusions:Our results revealed that disruption of a positive regulatory loop between DUSP1 and p53 promoted HCC development and progression, providing a rationale for a therapeutic agent that restores DUSP1 in HCC.
+DUSP1; HSP27; Hepatocellular carcinoma; p38 MAPK; p53.

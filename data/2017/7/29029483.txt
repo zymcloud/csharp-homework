@@ -1,0 +1,4 @@
+29029483
+2017 Jul 26
+Emerging evidence shows that the Hedgehog pathway and the long noncoding RNA TUG1 play pivotal roles in cell proliferation, migration, and invasion in tumors. However, the mechanism underlying the effect of TUG1 and the Hedgehog pathway in hepatoma remains undefined. In the present study, we showed that the expression of TUG1 was negatively correlated with that of microRNA (miR)-132, and depletion of TUG1 inhibited the activation of the Hedgehog pathway in vitro and in vivo. We showed that TUG1 functions as a competing endogenous (ceRNA) by competing with miR-132 for binding to the sonic hedgehog protein in HCC, thereby suppressing the activation of Hedgehog signaling and its tumorigenic effect. These data indicate that targeting the TUG1-miR132-Hedgehog network could be a new strategy for the treatment of HCC.
+Hedgehog; TUG1; hepatocellular carcinoma; miR-132.

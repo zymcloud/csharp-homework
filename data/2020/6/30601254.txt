@@ -1,0 +1,4 @@
+30601254
+2020 Jun
+Objective:To assess the potential influence of replacing Milan criteria with simple risk scores on outcomes of hepatocellular carcinoma (HCC) patients undergoing liver transplantation.Summary background data:Several risk scores combining morphological and biological features were recently proposed for precise selection of HCC patients for transplantation.Methods:This retrospective study included 282 HCC liver transplant recipients. Recurrence-free survival (RFS), the primary outcome measure, was evaluated according to Metroticket 2.0 model and French AFP model with Milan criteria serving as benchmark.Results:Patients were well stratified with respect to RFS by Milan criteria, Metroticket 2.0 criteria, and AFP model cut-off ≤2 points (all P Conclusion:Utilization of simple risk scores for liver transplant eligibility assessment leads to selection of patients at higher risk of posttransplant HCC recurrence.
+

@@ -1,0 +1,4 @@
+30987040
+2019 Apr 2
+A phytochemical investigation of the roots of Swietenia macrophylla led to the isolation of seven polyacetylenes, including five new compounds (1-5) and two known ones (6-7). Their structures were elucidated by extensive spectroscopic analysis and detailed comparison with reported data. All the isolates were tested for their cytotoxicity against the human hepatocellular carcinoma cell line BEL-7402, human myeloid leukemia cell line K562, and human gastric carcinoma cell line SGC-7901. Compounds 1 and 6 showed moderate cytotoxicity against the above three human cancer cell lines with IC50 values ranging from 14.3 to 45.4 μM. Compound 4 displayed cytotoxicity against the K562 and SGC-7901 cancer cell lines with IC50 values of 26.2 ± 0.4 and 21.9 ± 0.3 μM, respectively.
+Swietenia macrophylla; cytotoxicity; polyacetylene; roots.

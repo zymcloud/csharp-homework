@@ -1,0 +1,4 @@
+22231120
+Sep-Oct 2011
+TRIM24 (TIF1α), TRIM28 (TIF1β) and TRIM33 (TIF1γ) are related cofactors defining a subgroup of the tripartite motif (TRIM) superfamily comprising an N-terminal RING finger E3 ligase and a C-terminal PHD-Bromodomain chromatin interacting module. Increasing evidence highlights the important roles of these proteins as modulators of multiple signaling pathways during normal development and as tumor suppressors. The finding that they interact to form a multiprotein complex suggests new mechanisms to integrate multiple signaling pathways for tumor suppression.
+

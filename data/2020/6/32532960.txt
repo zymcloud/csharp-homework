@@ -1,0 +1,4 @@
+32532960
+2020 Jun 10
+Sorafenib is a multikinase inhibitor capable of facilitating apoptosis, mitigating angiogenesis and suppressing tumor cell proliferation. In late-stage hepatocellular carcinoma (HCC), sorafenib is currently an effective first-line therapy. Unfortunately, the development of drug resistance to sorafenib is becoming increasingly common. This study aims to identify factors contributing to resistance and ways to mitigate resistance. Recent studies have shown that epigenetics, transport processes, regulated cell death, and the tumor microenvironment are involved in the development of sorafenib resistance in HCC and subsequent HCC progression. This study summarizes discoveries achieved recently in terms of the principles of sorafenib resistance and outlines approaches suitable for improving therapeutic outcomes for HCC patients.
+

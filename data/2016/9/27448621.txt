@@ -1,0 +1,4 @@
+27448621
+2016 Sep
+Introduction:The liver is an important organ in humans. Hepatocellular carcinoma (HCC) is one of the deadliest cancers in the world. Progress in the Human Liver Proteome Project (HLPP) has improved understanding of the liver and the liver cancer proteome.Areas covered:Here, we summarize the recent progress in liver proteome modification profiles, proteomic studies in liver cancer, proteomic study in the search for novel liver cancer biomarkers and drug targets, and progress of the Chromosome Centric Human Proteome Project (CHPP) in the past five years in the Institutes of Biomedical Sciences (IBS) of Fudan University. Expert commentary: Recent advances and findings discussed here provide great promise of improving the outcome of patients with liver cancer.
+Liver; biomarker; glycosylation; liver cancer; metastasis; proteomics.

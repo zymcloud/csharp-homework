@@ -1,0 +1,4 @@
+31750247
+2019 Nov 5
+As the first oral multi-target anti-tumor drug proved for the treatment of patients with advanced liver cancer in 2007, sorafenib has changed the landscape of advanced hepatocellular carcinoma (HCC) treatment. However, drug resistance largely hinders its clinical application. Non-coding RNAs (ncRNAs), including microRNAs (miRNAs), and long non-coding (lncRNAs), have recently been demonstrated playing critical roles in a variety of cancers including HCC, while the mechanisms of ncRNAs in HCC sorafenib resistance have not been extensively characterized yet. Herein, we summarize the mechanisms of recently reported ncRNAs involved in sorafenib resistance and discuss the potential strategies for their application in the battle against HCC.
+hepatocellular carcinoma (HCC); long non-coding RNAs (lncRNAs); microRNAs (miRNAs); non-coding RNAs (ncRNAs); sorafenib resistance.

@@ -1,0 +1,4 @@
+22720211
+2012 Jan 1
+Current therapies for advanced hepatocellular carcinoma (HCC) are marginally effective and exacerbate underlying liver disease. The ability of immunotherapy to elicit nontoxic, systemic, long-lived anti-tumor activity makes it particularly well-suited for use in the setting of HCC. While therapeutic benefit has been achieved in early clinical trials, the efficacy of immune-based therapies is limited by several unique properties of HCC, most notably the inherently tolerogenic character of the liver in both healthy and diseased (chronically-infected or tumor-bearing) states. Therapeutic regimens that both counteract these immunosuppressive mechanisms and amplify tumor-specific immunity are expected to profoundly improve clinical outcomes for HCC patients.
+

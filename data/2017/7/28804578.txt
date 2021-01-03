@@ -1,0 +1,4 @@
+28804578
+2017 Jul
+One of the most important types of liver cancer is hepatocellular carcinoma (HCC). HCC is the fifth most common cancer, and its correct diagnosis is very important. For the quick diagnosis of HCC, the use of nanoparticles is helpful. The major applications of nanoparticles are in medicine for organ imaging. Two methods of liver imaging are X-ray computed tomography (CT) and magnetic resonance imaging (MRI). In this review, we attempt to summarize some of the contrast agents used in imaging such as superparamagnetic iron oxide nanoparticles (SPIONs) and iron oxide nanoparticles (IONPs), various types of enhanced MRI for the liver, and nanoparticles like gold (AuNPs), which is used to develop novel CT imaging agents.
+Computed X-ray Tomography; Hepatocellular Carcinoma; Magnetic Nanoparticles; Nanoparticles.

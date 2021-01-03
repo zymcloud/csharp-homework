@@ -1,0 +1,4 @@
+23200676
+2013 Apr 30
+Hepatocellular carcinoma (HCC) is associated with hepatitis B virus (HBV) chronicity and dietary exposure to aflatoxin, a mutagen targeting codon 249 of tumor suppressor TP53 (R249S mutation). Based on a case-control in Thailand, we have measured R249S and the status of HBX gene in plasma DNA of 176 cases and 133 referents. Detection of HBX complete sequences was associated with R249S in HCC with no documented prior cirrhosis but not in HCC developing in a context of cirrhosis or in non-cancer chronic liver diseases. Thus, R249S may specifically cooperate with HBX in a pathway to HCC that bypasses cirrhosis.
+

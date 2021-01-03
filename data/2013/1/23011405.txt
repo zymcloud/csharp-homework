@@ -1,0 +1,4 @@
+23011405
+2013 Jan
+A recent study showed that miR-26a is downregulated in hepatocellular carcinoma tissues and that this downregulation is an independent predictor of survival. Interestingly, the same study also reported that miR-26a downregulation causes a concomitant elevation of IL-6 expression. Because miR-26a expression was found to be transcriptionally downregulated by oncogene c-Myc in various cancers, and the expression of c-Myc was increased by IL-6 stimulation, we hypothesized that IL-6 contributes to reduction of miR-26a in hepatocellular carcinoma. Serum IL-6 was measured by ELISA and miR-26a was detected by qRT-PCR. The data of 30 patients with hepatocellular carcinoma who had undergone surgical tumor resection revealed that serum IL-6 could be considered to be a predictor of survival up to 5 years for hepatocellular carcinoma patients (log-rank test, P
+

@@ -1,0 +1,4 @@
+25132742
+2014 Aug 14
+Hepatocellular carcinoma (HCC) is one of the most frequent tumors worldwide and accounts for approximately one-third of all malignancies. In the past decade, advances have been made to improve the prognosis of HCC, including improvement in the clinical diagnosis of early-stage HCC using molecular biomarkers and molecular-targeted therapy to treat advanced HCC. However, the diagnosis, pathogenesis and targeted therapy of HCC are not completely independent, and should be comprehensively studied. For example, a number of tumor markers provide useful clinical information not only for prognosis, but also in pathogenesis and treatment efficacy. Therefore, this review will focus on the role of several specific biomarkers implicated in the pathogenesis of HCC and several promising molecular-targeted drugs that target the biomarkers of HCC.
+Biomarkers; Hepatocellular carcinoma; MicroRNAs; Pathogenesis; Targeted therapy.

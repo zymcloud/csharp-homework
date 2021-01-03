@@ -1,0 +1,4 @@
+27300349
+2016 Sep
+Hepatocellular carcinomas (HCC) are commonly diagnosed at an advanced stage with unresectable tumors. Although numerous non-surgical approaches have been developed to treat HCC, the prognosis of patients with HCC is still poor. This study investigated the expression of miR-149 and PARP-2 in HCC tumor tissues and their roles in sensitizing chemo/radiotherapy. The expression of miR-149 was measured by real-time PCR, and PARP-2 protein was measured by immunohistochemistry and Western blot. The xenograft HCC mouse model was established by inoculating Hep G2 cells. Increased PARP-1 and decreased miR-149 expression was observed in HCC tissues compared to peritumoral tissues. Positive PARP-2 and low miR-149 expression correlated with larger tumor mass size (P
+Chemotherapy; Hepatocellular carcinoma; PARP-2; Prognosis; Radiotherapy; miR-149.

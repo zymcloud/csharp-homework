@@ -1,0 +1,4 @@
+26981334
+2016
+An effective strategy has been developed for synthesis of radionuclide immune albumin nanospheres ((131)I-antiAFPMcAb-GCV-BSA-NPs). In vitro as well as in vivo targeting of (131)I-antiAFPMcAb-GCV-BSA-NPs to AFP-positive hepatoma was examined. In cultured HepG2 cells, the uptake and retention rates of (131)I-antiAFPMcAb-GCV-BSA-NPs were remarkably higher than those of (131)I alone. As well, the uptake rate and retention ratios of (131)I-antiAFPMcAb-GCV-BSA-NPs in AFP-positive HepG2 cells were also significantly higher than those in AFP-negative HEK293 cells. Compared to (131)I alone, (131)I-antiAFPMcAb-GCV-BSA-NPs were much more easily taken in and retained by hepatoma tissue, with a much higher T/NT. Due to good drug-loading, high encapsulation ratio, and highly selective affinity for AFP-positive tumors, the (131)I-antiAFPMcAb-GCV-BSA-NPs are promising for further effective radiation-gene therapy of hepatoma.
+

@@ -1,0 +1,4 @@
+28269075
+2016 Aug
+Non-alcoholic fatty liver disease (NAFLD) is defined as an excessive accumulation of fat in the liver in the absence of excessive drinking of alcohol. Initially considered as benign and self-limited, NAFLD may progress to the malignant stage of non-alcoholic steatohepatitis (NASH) characterized by degenerate hepatocellular ballooning and lobular inflammation. NASH can lead to hepatic fibrosis and ultimately to cirrhosis and hepatocellular carcinoma. Unfortunately, the transition from NAFLD to NASH is difficult to detect so far. In this paper, we propose to evaluate the characterization of NASH using mid infrared fiber evanescent wave spectroscopy on blood serum. We used an heuristic variable selection method and a generalized linear model to classify NAFLD and NASH spectra. The obtained results proved that this technique is a promising non-invasive and simple diagnosis tool for NASH.
+

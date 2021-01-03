@@ -1,0 +1,4 @@
+20861773
+Sep-Oct 2010
+Objective:To retrospectively compare portal venous phase (PVP) and delayed phase (DP) for the detection of tumor washout at gadobenate dimeglumine-enhanced liver magnetic resonance imaging (MRI) in cirrhotic patients with hypervascular hepatocellular carcinoma (HCC).Methods:Thirty-three patients with 55 HCCs underwent 1.5-T MRI by means of fat-suppressed T1-weighted sequence obtained before and after gadobenate dimeglumine administration, during early and late arterial phases, PVP (70 seconds), and DP (180 seconds). Detection rates of contrast washout of hypervascular HCCs and tumor-to-liver contrast on PVP and DP were measured and compared.Results:Among 54 hypervascular HCCs, washout was present in 24 (44%) of 54 tumors on PVP and in 44 (82%) of 54 on DP (P Conclusions:Delayed phase is superior to PVP for the washout detection of hypervascular HCC at gadobenate dimeglumine-enhanced MRI of cirrhotic liver.
+

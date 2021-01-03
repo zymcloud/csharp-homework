@@ -1,0 +1,4 @@
+22374805
+2012 Jul
+MicroRNAs are a class of macromolecules of rapidly emerging significance for the pathogenesis of numerous human diseases, including cancer. Moreover, many of them hold great promise as valid biomarkers because of their high extracellular stability. Chromosome 19 harbours the largest cluster of microRNA genes known so far, which has developed in a very short time during mammalian evolution. Thus, in terms of evolution, gain of this cluster is an apparent success story. Nevertheless, we know very little about how functions of its microRNAs have contributed to this success and apparently, at least some of them can turn from Jekyll into Hyde and contribute to tumourigenesis. Recent work published in the Journal of Pathology by Fornari and colleagues, addressed here, reveals how members of that cluster are involved in the molecular pathogenesis of hepatocellular carcinomas.
+

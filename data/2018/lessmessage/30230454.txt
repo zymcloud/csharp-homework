@@ -1,0 +1,4 @@
+30230454
+Aug-Sep 2018
+Chronic infection by hepatitis B virus (HBV) is a major public health problem with more than 250 millions of people chronically infected worldwide who have a high risk to develop cirrhosis and hepatocellular carcinoma. Available treatments reduce viremia but do not eradicate the virus from hepatocytes. Therefore, there is an urgent need to develop new classes of antiviral molecules and the viral capsid protein, Core, constitutes a new favored target. Core protein Allosteric Modulators (CAMs) targeting its assembly functions are in clinical development. In addition, investigation of Core regulatory functions may lead to the development of compounds targeting cellular factors (HTA) that could be used in combined therapies aiming to achieve a better control of HBV replication.
+

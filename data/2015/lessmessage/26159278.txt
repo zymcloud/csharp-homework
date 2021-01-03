@@ -1,0 +1,4 @@
+26159278
+2015
+The heterogeneous nature of hepatocellular carcinoma (HCC) poses a challenge to effective therapy. Significant strides have been made in molecular profiling. Telomerase promoter mutations are now known to represent early events in linear carcinogenesis. However, the translation of these advances into clinical practice has been limited. Although further work is needed to extrapolate genetic information to patient care, progress has been made in using genetics and stratification for HCC therapy. Targeted therapies for patients with c-MET overexpression, VEGF-A amplification and Wnt β-catenin-driven tumors offer promise.
+

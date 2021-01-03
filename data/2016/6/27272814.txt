@@ -1,0 +1,4 @@
+27272814
+2016 Jun
+Backgroung/Aim: Breast cancer resistance protein [BCRP/ATP-binding cassette subfamily G member 2 (ABCG2)] is a member of the ATP-binding cassette transporter family, used as a maker of cancer stem cells (CSCs) and thought to be responsible for drug resistance by pumping them out of cells. However, its precise role in various cancer types has been controversial, and the aim of this study was to investigate the expression of ABCG2 in hepacellular carcinoma (HCC) and relate the results to established prognostic factors.Patients and methods:We conducted analysis of 181 HCC and paired-match adjacent normal liver tissue by immunohistochemistry from tissue array of slides.Results:The mean score for ABCG2 expression was higher in tumor than in adjacent normal liver tissue of HCC patients (pConclusion:ABCG2 can be used as a target for the development of novel therapies in HCC.
+ABCG2; elderly patients; hepatocellular carcinoma; poor prognosis.

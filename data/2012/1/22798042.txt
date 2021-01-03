@@ -1,0 +1,4 @@
+22798042
+2013 Jan
+A novel polysaccharide, MEP-II, isolated from the fermentation broth of Morchella esculenta inhibited the proliferation of human hepatoma cell line (HepG2) through an apoptotic pathway. After HepG2 cells were treated with 150-600 μg MEP-II/ml, typical apoptotic characteristics including externalization of phosphatidylserine residues on the cell surface, nuclear fragmentation, chromatin condensation and cytoplasm shrinkage were observed. Furthermore, reactive oxygen species (ROS) burst and the collapse of mitochondrial membrane potential (Δψm) also occurred in HepG2 cells after incubation of 150-600 μg MEP-II/ml. The antioxidant, 1 mM N-acetyl-L-cysteine inhibited MEP-II-induced apoptosis, suggesting that ROS are the key mediators for MEP-II-induced apoptosis. MEP-II is therefore a potential anti-tumor agent that induces apoptosis of HepG2 cells through ROS generation.
+

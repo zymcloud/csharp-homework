@@ -1,0 +1,4 @@
+25073402
+2014 Jul
+Adenovirus vector-mediated herpes simplex virus-thymidine kinase/ganciclovir (ADV.tk/GCV) system is a promising approach for cancer gene therapy. This study aimed to investigate the anti-tumor efficacy and the underlying mechanisms of ADV.tk/GCV system in orthotopic hepatocellular carcinoma (HCC) model. A total of 132 female nude mice orthotopic HCC models were established and tumors were directly injected with ADV.tk (5.0 x 10(6) vector particles/kg) or saline solution, 24 h later the animals were intraperitoneally administrated by ganciclovir (30 mg/kg) or saline solution for 7 consecutive days. We observed that ADV.tk/GCV resulted in a significant regression of tumor growth and a significant prolongation of survival of the mice. At each given time point, the percentages of cleaved caspae-3, caspase-9 and TUNEL positive cells were significantly higher in the ADV.tk + GCV group than saline group (P
+

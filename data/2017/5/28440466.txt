@@ -1,0 +1,4 @@
+28440466
+2017 May
+Microvesicle biogenesis is a highly regulated process. Aberrant release of microvesicles from cancer cells have been associated with their invasiveness and prognosis. However, the mechanism of aberrant release remains poorly understood. Herein, we found that hepatocellular carcinoma cells shed more microvesicles than normal hepatocytes and miR-200a were shown to inhibit the release of microvesicles in hepatocellular carcinoma cells. Then, we confirmed that miR-200a might target Gelsolin and change cytoskeleton to regulate microvesicles secretion. Further miR-200a may inhibit the proliferation of adjacent cells by inhibiting the release of microvesicles. Collectively, our findings indicate that miR-200a regulated the microvesicle biogenesis involved in the hepatocellular carcinoma progression.
+

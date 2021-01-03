@@ -1,0 +1,4 @@
+19865790
+2010 Jul
+Liver function reserve estimation is important for selecting the appropriate patients for hepatectomy or ablation of tumors. Many liver function tests have been devised, but the indocyanine green (ICG) clearance test remains the most popular for its simplicity and perhaps accuracy. Compared with the Child-Pugh classification, the ICG retention value at 15 min (ICGR-15) after intravenous injection provides more information. Though a significant difference in ICGR-15 has been observed between patients with Child-Pugh A and B liver function, the hospital mortality rates following partial hepatectomy are not significantly different between the two groups. Yet, ICGR-15 values can differentiate patients with or without hospital mortality. The cutoff values of ICGR-15 for a safe major and minor hepatectomy are 14 and 22%, respectively.
+

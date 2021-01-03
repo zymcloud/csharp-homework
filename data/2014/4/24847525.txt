@@ -1,0 +1,4 @@
+24847525
+2014 Apr
+Genetic and chemical engineering approaches are used to employ P22 viral capsids as nanoplatforms for developing an efficient delivery vehicle. Catechol ligands are chemically attached to the interior surface of P22 viral capsid for subsequent encapsulation of an anticancer drug, bortezomib (BTZ), through boronic acid-diol complexation. For targeted delivery, hepatocellular carcinoma (HCC)-targeting peptide (SP94, SFSIIHTPILPL) is synthesized and chemically conjugated to the exterior surface of the P22 viral capsid nanocomposites. Effective targeted delivery of synthesized P22 viral capsid nanocomposites is demonstrated by fluorescent cell imaging and the efficacy of delivered P22 viral capsid nanocomposites is evaluated using a cell viability assay.
+

@@ -1,0 +1,4 @@
+33148516
+2020 Dec 15
+Gold nanoparticles are promising drug delivery agents with the potential to deliver chemotherapeutic agents to tumour sites. The highly cytotoxic maytansinoid tubulin inhibitor DM1 has been attached to gold nanoparticles and shows tumour growth inhibition in mouse models of hepatocellular carcinoma. Attempting to improve the stability of the gold-cytotoxin bond led to the design and synthesis of novel maytansinoids with improved potency in cell viability assays and improved in vivo tolerability compared to the DM1 analogues. These novel maytansines may also have applications in other methods of drug delivery, for example as the cytotoxic component of antibody drug conjugates.
+Cancer therapy; DM1; Gold nanoparticles; Heptocellular carcinoma; Maytansine; Nanomedicine; Therapeutic cytotoxin.

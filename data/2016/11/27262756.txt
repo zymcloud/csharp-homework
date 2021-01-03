@@ -1,0 +1,4 @@
+27262756
+2016 Nov
+Hepatocellular carcinoma (HCC) is a highly heterogeneous disease, both clinically and from a molecular standpoint. The advent of next-generation sequencing technologies has provided new opportunities to extensively analyze molecular defects in HCC samples. This has uncovered major cancer driver genes and associated oncogenic pathways operating in HCC. More sophisticated analyses of sequencing data have linked specific nucleotide patterns to external toxic agents and defined so-called 'mutational signatures' in HCC. Molecular signatures, taking into account intra- and inter-tumor heterogeneity, and their functional validation could provide useful data to predict treatment response to molecular therapies. In this review we will focus on the current knowledge of deep sequencing in HCC and its foreseeable clinical impact.
+Deep sequencing; Genomics; Liver cancer; Mutation; Signature.

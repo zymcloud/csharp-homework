@@ -1,0 +1,4 @@
+25632481
+2014 Dec
+A new acetogenin has been isolated from the ethyl acetate extract of leaves and twigs of G. sawtehii (Annonaceae). The structure of compound 1 was identified as sawtehtetronenin on the basis of spectral evidence (UV, IR, MS and 1H, and 13C NMR) and by comparison with related compounds. Sawtehtetronenin was found to be cytotoxic to human hepatocellular carcinoma HepG2 and breast cancer MDA-MB231 cells with IC50 values of 79.3 ± 11.9 μM and 108.1 ± 1.5 μM, respectively. Compound 1 was less toxic to both cell lines when compared with camptothecin, a chemotherapeutic drug.
+

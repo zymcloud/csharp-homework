@@ -1,0 +1,4 @@
+20034026
+2010 Jan
+Hepatocellular carcinoma (HCC) is associated with a poor prognosis due to a lack of effective treatment options. In HCC a significant role is played by DNA damage and the inflammatory response. Poly (ADP-ribose) polymerase-1 (PARP-1) is an important protein that regulates both these mechanisms. The objective of this study was to examine the effect of pharmacology PARP-1 inhibition on the reduction of tumor volume of HCC xenograft and on the hepatocarcinogenesis induced by diethyl-nitrosamine (DEN). Pharmacologic PARP-1 inhibition with DPQ greatly reduces tumor xenograft volume with regard to a nontreated xenograft (394 mm(3) versus 2,942 mm(3), P Conclusion:This study shows that PARP inhibition is capable of controlling HCC growth and preventing tumor vasculogenesis by regulating the activation of different genes involved in tumor progression.
+

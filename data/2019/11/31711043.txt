@@ -1,0 +1,4 @@
+31711043
+2019 Nov 11
+Tanshinone IIA (TanIIA)-an active constituent of Salvia miltiorrhiza, a traditional Chinese medicinal plant-is known to have blood circulation promotion and anti-tumor properties. Tan IIA can induce tumor cell death and inhibit tumor growth. However, the functions and underling molecular mechanisms of Tan IIA action on human liver cancer cells remain poorly understand. In this study, we found that Tanshinone IIA mediates SMAD7-YAP interaction to induce liver cancer cell apoptosis and inhibit cell growth and migration by inactivating the transforming growth factor beta (TGF-β) signaling pathway. Our findings showed that the Tan IIA-SMAD7-YAP regulatory network might be an effective strategy for liver cancer treatment.
+HCC; SMAD7; TGF-β pathway; Tan IIA; YAP.

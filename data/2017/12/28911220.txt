@@ -1,0 +1,4 @@
+28911220
+2017 Dec
+Medical imaging plays an important role in the diagnosis and management of hepatocellular carcinoma (HCC). The Liver Imaging Reporting and Data System (LI-RADS) was initially created to standardize the reporting and data collection of CT and MR imaging for patients at risk for HCC. As contrast-enhanced ultrasound (CEUS) has been widely used in clinical practice, it has recently been added to the LI-RADS. While CEUS LI-RADS shares fundamental concepts with CT/MRI LI-RADS, there are key differences between the modalities reflecting dissimilarities in the underlying methods of image acquisition and types of contrast material. This review introduces a recent update of CEUS LI-RADS and explains the key differences from CT/MRI LI-RADS.
+Carcinoma, Hepatocellular; Contrast Media; Diagnosis, Ultrasonic; Liver; Ultrasonography.

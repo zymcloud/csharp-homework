@@ -1,0 +1,4 @@
+25236340
+2014 Dec
+HDGF is an important regulator of a broad range of cancer cell activities and plays important roles in cancer cell transformation, apoptosis, angiogenesis and metastasis. Such a divergent influence of HDGF on cancer cell activities derives from its multiple inter- and sub-cellular localizations where it interacts with a range of different binding partners. Interestingly, high levels of HDGF could be detected in patients' serum of some cancers. This review is focused on the role of HDGF in tumorigenesis and metastasis, and provides insight for application in clinical cancer therapy as well as its clinical implications as a prognostic marker in cancer progression.
+PWWP/HATH domain; angiogenesis; apoptosis; epithelial-to-mesencyhmal transition; hepatoma-derived growth factor; metastasis; molecular mechanisms; prognosis; serum levels; tumorigenesis.

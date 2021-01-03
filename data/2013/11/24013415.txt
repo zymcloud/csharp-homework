@@ -1,0 +1,4 @@
+24013415
+2013 Nov
+A series of novel derivatives of phenyl substituted tetramethoxy xanthone were synthesized and evaluated for their in vitro cytotoxicity against human hepatocellular carcinoma (HCC) and non-tumor hepatic cells. Among these derivatives, compound 6 was more potent than positive control 5-fluorouracil (5-Fu) on QGY-7703 and SMMC-7721 cells with IC50 values of 6.27 μM, 7.50 μM and 15.56 μM, 14.55 μM, respectively. Furthermore, compounds 6, 14, 16, and 29 exhibited much better selectivity toward the normal hepatic cell line QSG-7701 than 5-Fu. Additionally, compound 6 significantly induced cell apoptosis in QGY-7703 cells. Our findings suggested that these phenylxanthone derivatives may hold promise as chemotherapeutic agents for the treatment of human HCC.
+Anti-hepatoma; Cytotoxic selectivity; ICZOJAIVELMTCG-UHFFFAOYSA-N; Structure–activity relationship; Xanthone.

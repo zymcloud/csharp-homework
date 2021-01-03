@@ -1,0 +1,4 @@
+26760979
+2015 Dec
+The relationship between members of APOBEC3 in tumor tissues and hepatocellular carcinoma prognosis was not well studied. We compared APOBEC3 expression between tumor and non-tumor tissues based on the expression profile GSE14520 from Gene Expression Omnibus (GEO), and correlated APOBEC3 in tumor tissues with outcomes of HCC patients. APOBEC3B, which was significantly up-regulated in HCC tumor tissues (P Conclusions:Overexpression of APOBEC3F in tumor tissues is potentially predictive for poor recurrence-free survival from HBV-HCC patients. The role of other APOBEC3 members in HCC development needed further research.
+

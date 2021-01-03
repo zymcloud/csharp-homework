@@ -1,0 +1,4 @@
+27637450
+2016 Dec
+The structure of an ulvan obtained by water extraction from green seaweed Ulva lactuca was elucidated by using IR, NMR, SEC-MALL and ESIMS methods. The ulvan was also evaluated for its cytotoxic effects on three human cancer cell lines. The results showed that the ulvan was composed of rhamnose, galactose, xylose, manose, glucose (with a mole ratio of Rha: Gal: Xyl: Man: Glu equal to 1: 0.03: 0.07: 0.01: 0.06), uronic acid (21.5%) and sulfate content (18.9%) with a molecular weight of 347000. This ulvan mainly consists of disaccharide [→4)-β-d-GlcA-(1→4)-α-l-Rha3S-(1→] and other minor disaccharide β-GlcA-(1→2)-α-Xyl and β-GlcA-(→2)-α-Rha. The ulvan showed a significant cytotoxic activity against hepatocellular carcinoma (IC50 29.67±2.87μg/ml), human breast cancer (IC50 25.09±1.36μg/ml), and cervical cancer (IC50 36.33±3.84μg/ml).
+Cytotoxic activity; Green seaweed; Ulva lactuca; Ulvan.

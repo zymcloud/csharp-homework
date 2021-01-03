@@ -1,0 +1,4 @@
+24787022
+2014 Jul
+B7-H3 has been detected in different cancers and correlated to tumor progression and outcome in cancer patients. In this study, we investigated the expression of B7-H3 in tissues and cells of primary hepatocellular carcinoma (PHC) patients. The research showed that B7-H3 is aberrantly expressed in PHC tissues and cells, and its high expression on HepG2 cells significantly promotes cell proliferation, adhesion, migration, and invasion capacity; moreover, it inhibits the proliferation of CD8(+) T cells. Thus, B7-H3 may have a critical role in PHC and it may enhance tumor escape from the immune surveillance of CD8(+) T cells.
+B7-H3; CD8+ T cells; HepG2; Primary hepatocellular carcinoma.

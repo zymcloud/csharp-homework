@@ -1,0 +1,4 @@
+29042961
+2017 Oct
+The long non-coding RNAs (lncRNAs) have been demonstrated to play pivotal roles in a broad range of processes including tumor biology. However, the exact contributions of lncRNAs to hepatocellular carcinoma (HCC) remain poorly defined. In current study, we have unraveled a novel function of AK023948 in HCC. We found that AK023948 was substantially upregulated in tumor tissues. Meanwhile, higher AK023948 expression correlated with poor survival. Upregulation of AK023948 expression can promote HepG2 and Hep3B proliferation and invasion in in vitro experiments. Furthermore, AK023948 also decreased tumor growth in vivo. The tumorigenic role of AK023948 was partially ascribed to PI3K/Akt/mTOR signaling and AK023948 knockdown decreased pathway activation and tumor growth. These data collectively suggest an oncogenic role for AK023948 and may provide potential insight into therapeutic intervention.
+AK023948; HCC; PI3K/Akt/mTOR; lncRNA.

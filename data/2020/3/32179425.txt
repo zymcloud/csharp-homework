@@ -1,0 +1,4 @@
+32179425
+2020 Mar 13
+Hepatitis C is a public health problem and affects approximately 3% of the world's population. HCV infections have a wide spectrum of clinical manifestations, and several single nucleotide polymorphisms (SNPs) in the genes of the toll-like receptors are cited to influence the clinical outcomes. A cross-sectional study was conducted in the Amazonas State, Brazil in which SNPs in TLR4 and TLR9 genes were genotyped by PCR-RFLP in 151 HCV chronic liver disease patients and 206 healthy donors. The circulating cytokines IL-6, TNF, IL-10, IL-2, IFN-γ, IL-4 and IL-17A were measured by cytometric bead array (CBA) which revealed that the combined genotypes of TLR9 -1237T/T and -1486C/T seem to influence the cytokine profile under lipopolysaccharide (LPS) stimulation of the Th17 profile, especially among patients with advanced chronic liver disease when treated with DAAs.
+DAAs; Hepatitis C; Hepatocellular carcinoma; Polymorphisms; Toll-like receptor.

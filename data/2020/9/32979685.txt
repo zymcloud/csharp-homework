@@ -1,0 +1,4 @@
+32979685
+2020 Sep 22
+Inflammatory IL-6/STAT3 signaling is constitutively activated in diverse cancers and is associated with malignant cell proliferation, invasion and escape of antitumor immunosurveillance. Liraglutide, a glucagon-like peptide-1 (GLP-1) analog, is commonly used to treat insulin-resistant diabetes. In this study, for the first time, we showed that liraglutide remarkably improved the antitumor immune responses in hepatocellular carcinoma (HCC). Furthermore, we showed that the antitumor activity was mediated by nature killer cells (NKs) but not CD8+ T cells. Finally, we showed that liraglutide enhanced NK-mediated cytotoxicity by suppressing the IL-6/STAT3 signaling pathway in HCC cells. Our findings unveil a novel therapeutic role of liraglutide by manipulating the innate immunity in cancer therapy.
+

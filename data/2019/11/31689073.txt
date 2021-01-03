@@ -1,0 +1,4 @@
+31689073
+2019 Nov 27
+Overexpression of the Lens culinaris agglutinin-reactive fraction of alpha-fetoprotein (AFP-L3) is an essential biomarker for early diagnosis of hepatocellular carcinoma (HCC). In this study, we designed a new surface-enhanced Raman spectroscopy active chip for the detection of AFP with high sensitivity and excellent repeatability. This chip was composed of a honeycomb gold nanostructure array with strong electromagnetic field coupling due to the special cavity geometric characteristics of the honeycomb structure. The honeycomb structure exhibited extraordinary performance for the specific detection of AFP in the range of 0.003-3 ng/mL and also determined the proportion of AFP-L3 with a high degree of accuracy, which has shown great potential for application in the clinical diagnosis of HCC.
+AFP; AFP-L3; HCC; LSPR; SERS; nanohoneycomb.

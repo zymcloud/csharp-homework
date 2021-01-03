@@ -1,0 +1,4 @@
+30136646
+2018 Nov
+Dosage suppressor of Nnf1 (DSN1) is a component of the kinetochore protein complex that is required for proper chromosome segregation. Some studies have explored that DSN1 is related to colorectal cancer progression. However, the role of DSN1 in hepatocellular carcinoma (HCC) remains unknown. This study aimed to explore DSN1 expression in HCC tissues. We obtained data from The Cancer Genome Atlas and Gene Expression Omnibus to analyze DSN1 expression in HCC. DSN1 mRNA expression was assessed in 30 pairs of HCC samples via reverse-transcription quantitative polymerase chain reaction. Immunohistochemical analysis of 95 HCC tissue specimens was performed to assess DSN1 expression and examine the clinicopathological characteristics of DSN1 in HCC. Results showed that DSN1 was upregulated in HCC tissues and was strongly associated with sex (P = .031), α-fetoprotein (P
+Cancer; DSN1; Hepatocellular carcinoma; Prognosis; Survival analysis.

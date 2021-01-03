@@ -1,0 +1,4 @@
+30302197
+2018 Jul 25
+Aim:Recent studies raise concerns for higher incidence of hepatocellular carcinoma (HCC) after direct-acting antiviral therapy for hepatitis C virus (HCV).Methods:In this study, using analysis of liver imaging pre- and post-DAA treatment, we queried new occurrence or 'de novo' of HCC in patients with HCV-cirrhosis treated with DAAs. Of 150 patients who met study criteria, 7 (4.7%; 95% CI: 2.1-9.5%) patients developed de novo HCC which did not differ from historical rates of 3% (p = 0.22).Results:Notably, patients with decompensated cirrhosis had significantly higher rate of de novo HCC (9.3%; 95% CI: 3.12-22.2%; p = 0.04).Conclusion:Our data support the need for continued surveillance for HCC in HCV cirrhotics even after successful therapy.
+LiRADS 4, 5; cirrhosis; de novo HCC; direct-acting antivirals; hepatitis C virus; hepatocellular carcinoma; interferon; liver-directed imaging.

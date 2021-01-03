@@ -1,0 +1,4 @@
+31423008
+2019 Aug 19
+BACKGROUND Increasing evidence suggests that long non-coding RNA (lncRNA) is closely related to the development of cancer. The present study investigated the potential predictive value of lncRNA GMDS divergent transcript (GMDS-DT) in the prognosis of patients with hepatocellular carcinoma (HCC) after hepatectomy. MATERIAL AND METHODS GMDS-DT was acquired by microarray data in 3 pairs of M1 and M2 macrophage duplicate samples. Real-time polymerase chain reaction (PCR) was performed to evaluate expression levels of GMDS-DT in liver cancer relative to normal tissue of 198 patients. The significance of GMDS-DT in prognosis after hepatectomy was examined via Kaplan-Meier test and Cox regression analysis. RESULTS The expression of GMDS-DT in liver cancer tissue was significantly lower than that in adjacent normal liver tissue (P
+

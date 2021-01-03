@@ -1,0 +1,4 @@
+25386361
+2013
+Several new 2,6-bis(substituted)pyridine ligands and 2,6-bis(substituted)pyridine Ag(I) nitrate complexes were synthesized and characterized spectroscopically. The newly synthesized ligands include pyridine-2,6-bis(3-oxopropanenitrile) (1), pyridine-2,6-bis(2-cyano-N-phenyl-3-oxopropanethioamide) (2), and pyridine-2,6-bis((E)-2-(2-phenylhydrazono)-3-oxopropanenitrile) (3). The newly synthesized ligands and silver(I) complexes were evaluated for their in vitro anticancer activity against four human cancer cell lines including hepatocellular carcinoma (HePG2), lung adenocarcinoma (A549), colon carcinoma (HT29), and breast adenocarcinoma (MCF7). Most of the newly synthesized silver(I) complexes exhibited better activity than the ligands, and the results have been compared with doxorubicin as a reference drug.
+

@@ -1,0 +1,4 @@
+24613362
+2014 Jul
+Background & aims:Hepatitis C virus (HCV)-infected patients with cirrhosis remain at risk of hepatocellular carcinoma (HCC) even after achieving sustained virological response (SVR). The aim of the study was to explore the incidence and risk for HCC among non-cirrhotic patients with an SVR.Methods:A total of 642 patients with an SVR after peginterferon/ribavirin therapy were enrolled with a median follow-up period of 53.0 months (range: 6-133 months).Results:Thirty-three of the 642 (5.1%) patients developed HCC over 2324.8 person-years of follow-up. Cox regression analysis revealed that the strongest predictive factor of HCC occurrence was liver cirrhosis (HR 4.98, 95% CI 2.32-10.71, pConclusions:HCC remains a threat in non-cirrhotic patients with an SVR. Serum γGT levels helped to identify potential patients at high risk.
+HCC; HCV; SVR; Treatment; γGT.

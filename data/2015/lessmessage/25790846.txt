@@ -1,0 +1,4 @@
+25790846
+2015
+Objectives:A randomized controlled trial was conducted to evaluate the efficacy of impedance control of a radiofrequency interstitial thermal ablation system (RITA) used to treat hepatocellular carcinoma (HCC).Methods:Fifteen patients with hypervascular HCCs Results:The median long and short diameters of the axial cross sections of radiofrequency-induced necrotic areas visualized by CT were 32 mm (range, 26-36) and 25 mm (20-31) in group A and 32 mm (28-40) and 31 mm (24-37) in group B, respectively. The short diameter of group B patients was significantly greater than that of group A patients (p = 0.029). The median ablation time was 18.8 min in group A and 13.4 min in group B, thus significantly shorter in group B (p = 0.001). The energy requirement did not differ significantly between the groups.Conclusions:Impedance control of the RITA system resulted in an increased size of the ablation zone and a decreased ablation time.
+

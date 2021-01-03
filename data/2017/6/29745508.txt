@@ -1,0 +1,4 @@
+29745508
+2017 Jun 1
+AMP-activated protein kinase (AMPK) is involved in the development and progression of tumors including hepatocellular carcinoma (HCC). However, studies on AMPK and tumorigenesis were largely based on experiments in vitro or tumor xenografts model. Here, we introduce a liver-specific AMPKα1 knockout mice model, which is achieved by Alb-Cre recombinase system. The expression of AMPKα1 in the liver of AMPKα1 -/--Alb-Cre mice is absent. AMPKα1 knockout in the liver does not affect the growth and histological structure of mouse liver. This model provides a favorable tool to the study of the roles of AMPKα1 in liver metabolism or tumorigenesis.
+AMP-activated protein kinase; gene knockout; mice model.

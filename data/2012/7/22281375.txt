@@ -1,0 +1,4 @@
+22281375
+2012 Jul
+Background:PancPRO is a computer program that estimates the risk of pancreatic cancer for asymptomatic individuals based on a genetic model of susceptibility and the familial incidence of cancer.Aim:To evaluate the distribution of the familial risk in a series of incident cases of pancreatic adenocarcinoma.Materials and methods:The lifetime risk of pancreatic cancer was calculated by PancPro for a hypothetical 40-year-old son of 570 consecutive probands with pancreatic cancer.Results:The 570 risk values were included between 1% and 13%. The distribution was bimodal, with the antimode located at risk=7.5%. Considering a 10-fold risk over the general population as a threshold for including a subject in a surveillance program, 19 families (3.3%) would be selected, totalling 92 first-degree relatives with age >40 years.Conclusions:PancPro is a valid instrument to rank families based on risk of pancreatic cancer.
+

@@ -1,0 +1,4 @@
+26203703
+2015 Aug
+In this issue, Rozenblum et al ( 1 ) were able to demonstrate that radiofrequency (RF) ablation-induced liver regeneration promotes "off-target" tumorigenesis in a MDR2 knock-out mouse model of hepatocellular carcinoma (HCC) in the setting of chronic liver inflammation. In addition, the authors demonstrated that blocking liver regeneration with a c-met inhibitor might attenuate or eliminate potential tumorigenic effects. These results provide the rationale for combined therapeutic approaches of RF ablation followed by a systemic application of immunomodulatory drugs.
+

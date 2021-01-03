@@ -1,0 +1,4 @@
+25871387
+2015 Apr 20
+Here we found that serum levels of thioredoxin were increased in patients with hepatocellular carcinoma (HCC). The optimum diagnostic cutoff for thioredoxin was 20.5 ng/mL (area under curve [AUC] 0.946 [95% CI 0.923-0.969] in the training cohort; 0.941 [0.918-0.963] in the validation cohort). High serum concentrations of thioredoxin differentiated HCC from chronic liver diseases and cirrhosis (0.901 [0.875-0.923] in the training cohort; 0.906 [0.870-0.925] in the validation cohort). Furthermore, a higher proportion of patients with very early HCC had positive results for thioredoxin than for alpha-Fetoprotein (AFP) (73.7% VS.31.6%; P
+biomarker; chinese; diagnosis; hepatocellular carcinoma; thioredoxin.

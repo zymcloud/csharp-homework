@@ -1,0 +1,4 @@
+27308410
+2015 Feb 24
+miR-34a functions as a tumor suppressor in many cancers. In a recent issue of Cancer Research, we describe a small molecule, Rubone, with strong anticancer activity. Rubone selectively restored miR-34a expression in hepatocellular carcinoma cells in which miR-34a was silenced. Restoration of miR-34a by Rubone represents a promising therapeutic approach against cancer.
+anticancer drug; hepatocellular carcinoma; miR-34a.

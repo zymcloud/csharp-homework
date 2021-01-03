@@ -1,0 +1,4 @@
+20664912
+2010 Sep
+Although ADAMTS13, the von Willebrand factor (VWF)-cleaving protease, is expressed in a range of tissues, the physiological significance of tissue-specific ADAMTS13 alternative splicing isoforms have yet to be clarified. Screening a panel of human tissues and cell lines revealed a spliced ADAMTS13 transcript in hepatic stellate cells and a hepatoma cell line that retains the 25th intron. A nonsense codon within the intron truncates the protease, which gains 64 novel amino acids in lieu of both CUB domains. This isoform, while retaining VWF-cleaving capability, accumulates intracellularly and its biological inaccessibility may prevent its participation in regulating haemostasis and other physiologic functions.
+

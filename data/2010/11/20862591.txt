@@ -1,0 +1,4 @@
+20862591
+2010 Nov
+The eukaryotic transcription factor nuclear factor-κB (NF-κB) is mainly involved in the regulation of immune response and inflammation. A prolonged activation of NF-κB has been reported in context with chronic diseases. What leads to a prolongation of NF-κB activity is not well understood. Here, an increase in total intracellular NF-κB protein and mRNA levels as well as a temporary colocalization of NF-κB with proteasomes in human hepatocytes after treatment with TNF-α or IL-1β is reported. This indicates that beside an instantaneous activation of NF-κB and partly autoregulated inactivation by breakdown and synthesis of the inhibitors of NF-κB (IκBs), there are also mechanisms for a long-term regulation by de novo-synthesis and degradation of NF-κB protein.
+

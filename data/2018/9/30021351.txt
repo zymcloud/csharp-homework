@@ -1,0 +1,4 @@
+30021351
+2018 Sep
+microRNA-19a-3p (miR-19a-3p) has been reported to regulate cell proliferation in hepatocellular carcinoma (HCC), but its role in HCC metastasis remains unknown. In this study, miR-19a-3p was noted to be upregulated in HCC specimens and cell lines. Aberrant expression of miR-19a-3p stimulated HCC cell metastasis, and phosphatase and tensin homolog (PTEN) was shown to be a direct target of miR-19a-3p. miR-19a-3p-mediated HCC metastasis was reversed by restoration of PTEN or could be imitated by silencing of PTEN. Modulation of miR-19a-3p also altered expression of phosphorylated Akt, a downstream mediator of PTEN. Moreover, aberrant expression of miR-19a-3p induced sorafenib resistance by regulating the PTEN/Akt pathway. In conclusion, ectopic expression of miR-19a-3p contributes to HCC metastasis and chemoresistance by modulating PTEN expression and the PTEN-dependent pathways.
+Chemoresistance; Hepatocellular carcinoma; Metastasis; microRNA-19a-3p.

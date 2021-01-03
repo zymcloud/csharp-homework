@@ -1,0 +1,4 @@
+21668632
+2011 Aug
+In the last US national conference on liver transplantation for hepatocellular carcinoma (HCC), a continuous priority score, that incorporates model for end-stage liver disease (MELD), alpha-fetoprotein and tumor size, was recommended to ensure a more equitable liver allocation. However, prioritizing highest alpha-fetoprotein levels or largest tumors may select lesions at a higher risk for recurrence; similarly, patients with higher degree of liver failure could have lower postoperative survival. Data from 300 adult HCC recipients were reviewed and the proposed HCC-MELD equation was applied to verify if it can predict post-transplantation survival. The 5-year survival and recurrence rates after transplantation were 72.8 and 13.5%, respectively. Cox regression analysis confirmed HCC-MELD as predictive of both postoperative survival and recurrence (p
+

@@ -1,0 +1,4 @@
+28835896
+2017
+Hepatocellular carcinoma (HCC) is one of the most common cancers worldwide and confers a poor prognosis. Novel diagnostic or prognostic biomarkers and effective therapeutic targets for HCCs are urgently needed. Currently, dozens of long noncoding RNAs (lncRNAs) have been identified as playing critical roles in cancer development and progression. Advanced studies have shown that several well-known lncRNAs are dysregulated in HCC tissue as compared to adjacent noncancerous tissue. Furthermore, highly stable cell-free circulating nucleic acids (cfCNAs), including lncRNAs, aberrantly expressed in the plasma of HCC patients, have been detected. In this review, we focus on the most extensively investigated lncRNAs in HCC and discuss the potential of HCC-related lncRNAs as novel biomarkers for early diagnosis and prognosis.
+

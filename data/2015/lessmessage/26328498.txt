@@ -1,0 +1,4 @@
+26328498
+2015
+The anti-tumor effects of selective serotonin reuptake inhibitors (SSRIs) and serotonin and norepinephrine reuptake inhibitors (SNRIs) on several types of cancer cells have been reported. However, comparison of the anti-tumor effects of these drugs on human hepatocellular carcinoma (HepG2) cells has not been studied. We compared the anti-tumor effects of four SSRIs and two SNRIs on HepG2 cells. SSRIs and duloxetine dose-dependently decreased cell viability. Milnacipran had no effect on cell viability. The half-maximal inhibitory concentration was lower in the order of: sertraline, paroxetine, duloxetine, fluvoxamine, escitalopram, and milnacipran. Exposure to sertraline (2 µM) significantly increased caspase-3/7 activity. These results suggest that, of the agents tested here, sertraline had the highest sensitivity to HepG2 cells, and activation of the caspase pathway is involved in the anti-tumor effects of sertraline in HepG2 cells.
+

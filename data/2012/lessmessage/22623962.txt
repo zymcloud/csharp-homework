@@ -1,0 +1,4 @@
+22623962
+2012
+The treatment of human hepatocellular carcinoma (HCC) cell lines with (+)-isocorydine, which was isolated and purified from Papaveraceae sp. plants, resulted in a growth inhibitory effect caused by the induction of G2/M phase cell cycle arrest and apoptosis. We report that isocorydine induces G2/M phase arrest by increasing cyclin B1 and p-CDK1 expression levels, which was caused by decreasing the expression and inhibiting the activation of Cdc25C. The phosphorylation levels of Chk1 and Chk2 were increased after ICD treatment. Furthermore, G2/M arrest induced by ICD can be disrupted by Chk1 siRNA but not by Chk2 siRNA. In addition, isocorydine treatment led to a decrease in the percentage of CD133(+) PLC/PRF/5 cells. Interestingly, isocorydine treatment dramatically decreased the tumorigenicity of SMMC-7721 and Huh7 cells. These findings indicate that isocorydine might be a potential therapeutic drug for the chemotherapeutic treatment of HCC.
+

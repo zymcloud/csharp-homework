@@ -1,0 +1,4 @@
+28593479
+2017 Sep
+Objectives:To investigate the roles of Dead end 1 (Dnd1) in modulating cancer stem cell-related traits of hepatocellular carcinoma (HCC).Results:Dead end (Dnd1) inhibited spheroid formation, suppressed the expression of stemness-related genes, and increased sensitivity to sorafenib in HCC cells. Mechanistically, Dnd1 could bind to 3'-UTR of LATS2, the key kinase of Hippo pathway, thus elevating LATS2 mRNA stability and its expression, subsequently leading to phosphorylation of YAP and its cytoplasmic retention. As a result, epithelial-mesenchymal transition (EMT) was weakened and therefore the generation of HCC stem cell properties was suppressed.Conclusions:Dnd1 functions as a tumor suppressor by prohibiting CSC-like characteristics via activating Hippo pathway in HCC cells. Dnd1 could thus be a novel therapeutic target for HCC patients.
+Cancer stem cell; Dnd1; Hepatocellular carcinoma; Hippo; LATS2.

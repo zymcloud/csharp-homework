@@ -1,0 +1,4 @@
+19732785
+Feb-Mar 2010
+Jerdonitin is a P-II class snake venom metalloproteinase comprising metalloproteinase and disintegrin domains. In this study, we established a high-level expression system in Pichia pastoris and developed a purification strategy for the recombinant Jerdonitin. This recombinant Jerdonitin degraded fibrinogen at a level of activity comparable with its wild type. The effects of recombinant Jerdonitin on inhibiting ADP-induced human platelet aggregation were in a dose-dependent manner with an IC(50) of 248nM. In addition, we reported here that Jerdonitin can significantly inhibit the growth of several cell lines, including human liver cancer cells (Bel7402), human leukemia cells (K562) and human gastric carcinoma cells (BGC823). This study offers recombinant Jerdonitin that will be valuable for further functional and structural studies of Jerdonitin.
+

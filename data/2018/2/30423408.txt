@@ -1,0 +1,4 @@
+30423408
+2019 Feb 1
+N6-methyladenosin (m6A) is one of the most pervasive modification of mRNA in eukaryotes and the m6A methyltransferases and demethylases play critical roles in many types of cancer. However the role of m6A-binding proteins in cancer remains elusive. Here we report that the down-regulation of YTHDF2 was specifically induced by hypoxia in hepatocellular carcinoma (HCC) cells, and that overexpression of YTHDF2 suppressed cell proliferation, tumor growth and activation of MEK and ERK in HCC cells. Mechanistically, YTHDF2 directly bound the m6A modification site of EGFR 3'-UTR to promote the degradation of EGFR mRNA in HCC cells. This is the first report showing that YTHDF2 may act as a tumor suppressor to repress cell proliferation and growth via destabilizing the EGFR mRNA in HCC.
+EGFR; ERK; HCC; YTHDF2; mRNA.

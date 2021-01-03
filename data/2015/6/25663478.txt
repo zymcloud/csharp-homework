@@ -1,0 +1,4 @@
+25663478
+2015 Jun
+The long interspersed element-1 (LINE-1 or L1) constitutes approximately 17% of human genome. The expression of these elements is deregulated upon exposure to environmental exposures resulting to genomic instability and cancer promotion. The effect of copper as essential elements in regulation of L1 expression remained to be elucidated. Using non-cytotoxic concentrations of the copper, the expression of endogenous L1 was analyzed by qPCR after 6 days of copper pretreatment in human hepatocellular carcinoma cells (HepG2). The results indicated that the expression of active L1 elements are significantly downregulated at concentrations of 12.5, 25, and 50 μM (p
+

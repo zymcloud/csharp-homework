@@ -1,0 +1,4 @@
+30457363
+2019
+Obesity and type 2 diabetes mellitus are independent risk factors for the onset and progression of hepatocellular carcinoma (HCC). This study aimed to analyze the association of DNA methylation signatures at HCC pathway genes with obesity and related metabolic disturbances. A population of 474 adults within the Methyl Epigenome Network Association (MENA) project was included. DNA methylation levels were measured in white blood cells by microarray. The identification and discrimination of HCC pathway genes were performed using KEGG and PathDIP databases. Anthropometry measurements, the blood metabolic profile, and clinical data were analyzed. The methylation patterns of 20 CpG sites at HCC pathway genes strongly correlated with BMI (FDR
+

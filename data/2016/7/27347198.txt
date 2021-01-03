@@ -1,0 +1,4 @@
+27347198
+2016 Jul
+Liver cancer has a high morbidity and mortality rate, and is one of the most common types of cancer in men. PNPLA7 is a member of the patatin-like phospholipase domain-containing protein family which is involved in triglyceride hydrolysis, energy metabolism and lipid droplet metabolism. The liver is the most important energy metabolism organ; whether PNPLA7 is deregulated in liver cancer has not been previously reported. In the present study, reverse transcription-quantitative polymerase chain reaction and subsequent methylation analysis provided evidence that PNPLA7 is down-regulated in hepatocellular carcinoma (HCC) cell lines and tissue samples, via the mechanism of transcriptional silencing by promoter hypermethylation. These results may provide novel insights for HCC diagnosis.
+PNPLA7; demethylation; hepatocellular carcinoma; hypermethylation.

@@ -1,0 +1,4 @@
+27896114
+2014 Sep 19
+Heterozygous mutations in the UBIAD1 gene cause Schnyder corneal dystrophy characterized by abnormal cholesterol and phospholipid deposits in the cornea. Ubiad1 protein was recently identified as Golgi prenyltransferase responsible for biosynthesis of vitamin K2 and CoQ10, a key protein in the mitochondrial electron transport chain. Our study shows that silencing UBIAD1 in cultured human hepatocellular carcinoma cells causes dramatic morphological changes and cholesterol storage in the mitochondria, emphasizing an important role of UBIAD1 in mitochondrial function.
+Cholesterol; CoQ10; Mitochondrion; Reactive oxygen species; Schnyder corneal dystrophy.

@@ -1,0 +1,4 @@
+21443660
+2011 Jun
+Hepatitis C virus (HCV) infection is a major cause of hepatocellular carcinoma (HCC) and chronic liver disease worldwide. Recent developments and advances in HCV replication systems in vitro and in vivo, transgenic animal models, and gene expression profiling approaches have provided novel insights into the mechanisms of HCV replication. They have also helped elucidate host cellular responses, including activated/inactivated signaling pathways, and the relationship between innate immune responses by HCV infection and host genetic traits. However, the mechanisms of hepatocyte malignant transformation induced by HCV infection are still largely unclear, most likely due to the heterogeneity of molecular paths leading to HCC development in each individual. In this review, we summarize recent advances in knowledge about the mechanisms of hepatocarcinogenesis induced by HCV infection.
+

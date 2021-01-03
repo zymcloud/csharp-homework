@@ -1,0 +1,4 @@
+23232515
+2012 Dec
+Aim:To investigate the effects of arsenic trioxide (As(2);O(3);) on human hepatocellular carcinoma SMMC-7721 cells' migration and invasion and the underlying molecular mechanism.Methods:The effects of As(2);O(3); on cell migration and invasion were examined by wound-healing and Transwell assays; The expressions of CD147 and MMP-2 at both mRNA and protein levels in SMMC-7721 cells treated with As(2);O(3); were determined by real-time PCR and Western blotting, respectively.Results:The wound-healing assay showed that the scuffing distance of SMMC-7721 cells exposed to 2.0 μmol/L As(2);O(3); for 12 and 24 h was significantly wider as compared with the ones unexposed to As(2);O(3);, indicating As(2);O(3); could inhibit the migration in SMMC-7721 cells (PConclusion:As(2);O(3); could inhibit the migration and invasion in human hepatocellular carcinoma SMMC-7721 cells, which may be related to the down-regulation of CD147 and MMP-2.
+

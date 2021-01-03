@@ -1,0 +1,4 @@
+23233042
+2013 Feb
+Six novel rotundic acid (RA, 1) derivatives 4a-4f modified at the 28-COOH position were synthesized, and their structures were confirmed by IR, MS, 1H NMR and 13C NMR. The derivatives were evaluated for cytotoxic properties on the following three tumor cell lines: HeLa, HepG2 and SGC-7901. Compound 4f showed better cytotoxic activity compared with RA treatment and lower IC50 (4.16 µM) on HepG2 cells than on HeLa (8.54 µM) and SGC-7901 cells (11.32 µM). The anticancer mechanism of compound 4f was studied through cell cycle progression and apoptosis. Notably, compound 4f was able to induce apoptosis and G0/G1 cell cycle arrest of HepG2 at a concentration of 4.16 µM. In summary, RA was modified to obtain six novel derivatives. Compound 4f exhibited better cytotoxicity and may be developed as a potential agent against hepatocellular carcinoma.
+

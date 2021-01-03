@@ -1,0 +1,4 @@
+32199958
+2020 Jun
+Four undescribed oxylipin vanillyl acetals with four stereogenic carbons were isolated from the herbs of Solanum lyratum. A comprehensive set of spectroscopic methods were used to elucidate the structures and relative configurations of 1-4. The absolute configurations of the naturally occurring compounds are assigned as 7S, 9'S, 10'S, 11'R at the site of six-membered cyclic acetal attachment by electronic circular dichroism (ECD) calculations and the modified Mosher's method. Compounds 1 and 3 displayed moderate selective inhibition against Hep3B and HepG2 cells, respectively. Further Annexin V-FITC/PI staining assay revealed that 1 and 3 might have inhibitory effects on hepatoma cells through induction of apoptosis.
+Apoptosis; Inhibitory effect; Oxylipin vanillyl acetals; Solanum lyratum.

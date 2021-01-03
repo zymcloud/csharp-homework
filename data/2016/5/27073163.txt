@@ -1,0 +1,4 @@
+27073163
+2016 May 13
+DEAH-box helicase 33 (DHX33) has been implicated in ribosome biogenesis, mRNA translation and inflammation. However, the role of DHX33 in human cancer is rarely studied. Here, we showed that DHX33 expression was significantly increased in hepatocellular carcinoma (HCC), compared with the adjacent nontumorous tissues. In a cohort of 520 patients, DHX33 expression in HCC was closely associated with tumor size (P = 0.007), serum AFP level (P = 0.011), and tumor capsule (P = 0.030). Kaplan-Meier analysis indicated high DHX33 expression was correlated with worse overall and disease-free survival, and higher recurrence rate. The prognostic value of DHX33 was further confirmed by stratified survival analysis. Multivariate analysis revealed DHX33 as an independent prognostic factor for poor overall survival (Hazard Ratio = 1.772, 95% confident interval: 1.451-2.165, P
+DHX33; Hepatocellular carcinoma; Immunohistochemistry; Prognosis.

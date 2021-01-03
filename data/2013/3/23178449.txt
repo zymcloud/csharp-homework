@@ -1,0 +1,4 @@
+23178449
+2013 Mar 1
+We aimed to confirm the role of ECHS1 as a binding protein of HBsAg (HBs) and investigate its function during the development of hepatocellular carcinoma (HCC). Our results show that both exogenous and endogenous ECHS1 proteins bind to HBs and co-localize in the cytoplasm in vitro. The coexistence of HBs and ECHS1 enhances HepG2 cell apoptosis, affects ECHS1 localization in the mitochondria and induces apoptosis by decreasing the mitochondrial membrane potential (MMP). These findings suggest that ECHS1 may be applied as a potential therapeutic target during the treatment of HBV-related hepatitis or HCC.
+

@@ -1,0 +1,4 @@
+21965743
+2011 Oct
+We performed proteomic differential display analysis of hepatitis C virus-associated 21 human hepatocellular carcinoma (HCV-HCC) tissues by using two-dimensional gel electrophoresis (2-DE) and matrix-assisted laser desorption/ionization time-of-flight mass spectrometry (MALDI-TOF/MS). One of the numerous spots which was located next to three spots of glutamine synthetase showed stronger intensity in well-differentiated HCC tissues compared to non-cancerous tissues. Samples from 6 out of 21 patients showed up-regulation of this spot compared to non-cancerous tissues. After in-gel digestion, MALDITOF/MS identified the spot as tubulin alpha-6 chain. Two-dimensional immunoblot analysis confirmed that this spot was indeed tubulin alpha, and this spot was stronger in cancerous tissues than in noncancerous tissues. These results suggest that tubulin alpha-6 chain is one of the candidates for biomarkers for well-differentiated HCV-associated HCC.
+

@@ -1,0 +1,4 @@
+32084507
+2020 Apr
+Hepatitis B virus (HBV) infection is still a health care crisis in the world, and a considerable number of chronic hepatitis B patients die of end-stage liver diseases, including liver cirrhosis and hepatocellular carcinoma. A previous study has reported that sex-determining region Y box 4 (SOX4) promotes HBV replication by binding to the AACAAAG motif in the viral genome. However, such SOX4 binding site was not found in the genome of the majority of HBV genotype strains. Further, we found that SOX4 inhibited rather than promoted the replication of most HBV strains. In line with this, HBV replication was significantly enhanced when the endogenous SOX4 was knocked down. Moreover, we demonstrated that the SOX4-induced suppression of HBV replication was mainly mediated by hepatocyte nuclear factor 4α (HNF4α). Taken together, our findings suggest that SOX4 plays an important antiviral role by inhibiting HNF4α expression in most HBV strains.
+

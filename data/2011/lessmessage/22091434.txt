@@ -1,0 +1,4 @@
+22091434
+2011
+To investigate the biological effect of adenosine A2b receptor (A2bR) on the human hepatocellular carcinoma cell line HepG2, three A2bR siRNA constructs were transiently transfected into HepG2 cells. The results showed that A2bR siRNA reduced the levels of A2bR mRNA and protein. In order to further detect the function of A2bR, we established a stable hepatocellular carcinoma cell line (HepG2) expressing siRNA targeting the adenosine A2b receptor. Targeted RNAi significantly inhibited tumor cell growth in vitro, and flow cytometry (FCM) showed that significantly more cells expressing A2bR siRNA were in the G0/G1 phase compared to the untransfected group ((89.56% ± 3.15%) versus (56.19% ± 1.58%), P
+

@@ -1,0 +1,4 @@
+32944618
+2020 May 13
+Understanding the mechanisms of evasive resistance in cancer is of great importance to develop efficient therapies. Analyzing the molecular mechanisms underlying therapy resistance of hepatocellular carcinoma (HCC), we have discovered a kinase-activity independent role of LATS1 (large tumor suppressor) but not LATS2 in regulating sorafenib-induced lethal autophagy in HCC. We have found that the autophagy regulatory role of LATS1 is a general phenomenon in response to various stimuli of autophagy induction which relies on a LATS1-specific protein domain. Mechanistically, the autophagy regulatory role of LATS1 is coupled with Beclin-1 (BECN1) K27-linked ubiquitination and BECN1 self-dimerization. Our study highlights a LATS1-mediated non-classical interaction between the Hippo signaling pathway and autophagy in therapy response and carcinogenesis.
+K27-linkage; Ubiquitination; protein stability.

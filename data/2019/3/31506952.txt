@@ -1,0 +1,4 @@
+31506952
+2020 Mar
+Ras converting enzyme 1 (Rce1) plays an important role in invasion and metastasis of malignancy. However, the mechanism has not yet been fully explored in hepatocellular carcinoma (HCC). Primarily, we investigated the expression of Rce1 and H-Ras influence on patient prognosis through the clinical data. Further, we analyzed the regulatory effects of Rce1/H-Ras signal pathway on the epithelial-mesenchymal transition (EMT) in vitro and in vivo. Finally, we screened out the protein which bonds with Rce1 by CO-IP experiment to discuss the mechanism of Rce1 in EMT of HCC. This research revealed a significantly decreased expression of Rce1 in HCC compared with noncancerous tissues (p
+epithelial-mesenchymal transition; hepatocellular carcinoma; invasion and metastasis; ras converting enzyme 1; signaling pathway.

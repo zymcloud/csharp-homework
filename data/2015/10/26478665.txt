@@ -1,0 +1,4 @@
+26478665
+2015 Oct 14
+Many factors are considered to contribute to hepatitis B virus (HBV)-associated hepatocellular carcinoma (HCC), including products of HBV, HBV integration and mutation, and host susceptibility. HBV X protein (HBx) can interfere with several signaling pathways associated with cell proliferation and invasion, and HBx C-terminal truncation has been suggested to impact the development of HCC. This review focuses on the pathological functions of HBx in HBV-induced hepatocarcinogenesis. As a transactivator, HBx can affect regulatory non-coding RNAs (ncRNAs), including microRNAs and long ncRNAs. HBx is also involved in epigenetic modification and DNA repair. HBx interacts with various signal-transduction pathways, such as the p53, Wnt, and nuclear factor-κB pathways. We conclude that HBx hastens the development of hepatoma.
+Hepatitis B virus; Hepatitis B virus X protein; Hepatocarcinogenesis; Hepatocellular carcinoma.

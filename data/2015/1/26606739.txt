@@ -1,0 +1,4 @@
+26606739
+2016 Jan 7
+Hepatocellular carcinoma (HCC) is one of the most recurrent and lethal cancers worldwide. The low survival rate of this particular strain of carcinoma is largely due to the late stages at which it is diagnosed. Tumorigenesis of hepatocellular carcinoma is most frequently detected through ultrasonography, magnetic resonance imaging and computerized tomography scans, however, these methods are poor for detection of early tumor development. This review presents alternative hepatocellular carcinoma detection techniques through the use of protein and enzyme/isozyme biomarkers. The detection methods used to determine the serum levels of α-fetoprotein (AFP), glypican-3 (GPC3), Golgi protein 73 (GP73), α-L-fucosidase (AFU), des-γ-carboxyprothrombin (DCP), γ-glutamyl transferase (GGT) and squamous cell carcinoma antigen (SCCA) are presented and each marker's respective validity in the diagnosis of hepatocellular carcinoma is evaluated.
+

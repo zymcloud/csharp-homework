@@ -1,0 +1,4 @@
+30589055
+2018
+Background:Leukocyte immunoglobulin-like receptor B2 (LILRB2) has recently been considered a promising tumor promoter in human cancers.Materials and methods:In this study, the expression of LILRB2 was assessed in 82 samples of surgically resected human hepatocellular carcinoma (HCC) tissues using immunohistochemistry (IHC).Results:LILRB2 was overexpressed in HCC tissues and its expression was positively and significantly correlated with poor prognostic features of HCC patients, including poor cell differentiation, larger primary tumor size, and shorter overall survival. In addition, there was a positive correlation between the expression of LILRB2 and its classical ligand human leukocyte antigen G in human HCC tissues.Conclusion:LILRB2 might play an important role in HCC progression and correlate with poor prognosis of HCC.
+Hepatocellular carcinoma; human leukocyte antigen G; leukocyte immunoglobulin-like receptor B2; prognosis.

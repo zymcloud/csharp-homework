@@ -1,0 +1,4 @@
+21637622
+2010 Jan
+Polycyclic aromatic hydrocarbons (PAHs) are genotoxic chemicals commonly found in effluents from oil refineries. Bioassays using plants and cells cultures can be employed for assessing environmental safety and potential genotoxicity. In this study, the genotoxic potential of an oil refinery effluent was analyzed by means of micronucleus (MN) testing of Alium cepa, which revealed no effect after 24 h of treatment. On the other hand, primary lesions in the DNA of rat (Rattus norvegicus) hepatoma cells (HTC) were observed through comet assaying after only 2 h of exposure. On considering the capacity to detect DNA damage of a different nature and of these cells to metabolize xenobiotics, we suggest the association of the two bioassays with these cell types, plant (Allium cepa) and mammal (HTC) cells, for more accurately assessing genotoxicity in environmental samples.
+Allium cepa; HTC cells; comet assay; micronucleus; petroleum waste disposal.

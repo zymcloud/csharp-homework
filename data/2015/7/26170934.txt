@@ -1,0 +1,4 @@
+26170934
+2015 Jul
+The aim of the present study was to observe the effect and molecular mechanism of taurine (Tau) on the cell proliferation and apoptosis of human hepatocellular carcinoma (HHCC) HepG2 cells. HHCC HepG2 cells were used as target cells, and the cell survival rate was assessed using a multi-time-step method. The p53 upregulated modulator of apoptosis (PUMA) gene was transiently transfected by lipofection and subsequently silenced with specific small interfering (si)RNA. The cell apoptosis rate was detected by flow cytometry, and protein expression levels were analyzed with western blotting. Addition of 20-160 mM Tau was shown to have a significant inhibitory effect on cell proliferation, while promoting the induction of HHCC HepG2 cell apoptosis (P
+apoptosis; gene expression; human hepatocellular carcinoma HepG2 cells; p53 upregulated modulator of apoptosis; taurine.

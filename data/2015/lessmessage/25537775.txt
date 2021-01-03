@@ -1,0 +1,4 @@
+25537775
+2015
+Hepatocellular carcinoma (HCC) is a malignancy with high morbidity and mortality rates, especially in East Asia. Gene therapy is a potential approach for treating HCC. An efficient and safe gene delivery method is a crucial factor for HCC gene therapy. In recent years, gene delivery systems, including viral and non-viral gene vectors, bacteria, and physical methods, have undergone substantial development. Among them, various non-viral vectors have been studied widely and in detail because they are relatively safe and have a high capacity. In this review, we focus on current and emerging HCC delivery techniques and address the challenges involved in the use and improvement of non-viral vectors.
+

@@ -1,0 +1,4 @@
+32537885
+2020 Aug
+Currently, a reliable serum biomarker for hepatocellular carcinoma (HCC) has not been established, particularly for early-stage HCC (single tumor 0.8. In our validation study, serum exo-miR-4661-5p could diagnose HCC in all stages (AUROC = 0.917), even in early stage (AUROC = 0.923), with a greater accuracy than other candidate serum exo-miRs and serum AFP. The panel composed of exo-miR-4661-5p and exo-miR-4746-5p was identified as the most accurate biomarker for early-stage HCC (AUROC = 0.947, 95% confidence interval = 0.889-0.980, sensitivity = 81.8%, and specificity = 91.7%). In conclusion, exo-miR-4661-5p-based serum panel is a promising diagnostic marker for early-stage HCC.
+exosome; hepatocellular carcinoma; microRNA-4661-5p; sequencing; tumor marker.

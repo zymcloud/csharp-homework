@@ -1,0 +1,4 @@
+22530999
+2012 Aug
+The prognostic assessment of patients with hepatocellular carcinoma (HCC) after resection is an important clinical issue. The present study investigated those genes associated with high serum alpha-fetoprotein (AFP), and their clinical significance, including prognosis and recurrence after hepatectomy. Based on gene expression analysis of 110 training HCC cases, 20 genes whose mRNA expression levels were significantly upregulated and 50 genes that were downregulated correlated with high serum AFP-associated HCC patients. Gene expression profiles of Villin1 (Vil1) were obtained in high serum AFP-associated HCC tumor tissues. In the present analysis, only VIL1 was significantly correlated with the recurrence of HCC. The results were validated independently using Taqman gene expression assays and immunostaining analysis. Results showed that the upregulation of VIL1 mRNA was also correlated with high serum PIVKAII, vascular invasion (P
+

@@ -1,0 +1,4 @@
+23560381
+2013 Apr
+Aim:To investigate the mechanism of reversing resistance of a hepatic carcinoma multidrug-resistant cell BEL-7402/5-FU with parthenolide (PTL).Materials & methods:BEL-7402/5-FU cells were treated with different concentrations of PTL and/or 5-fluorouracil. The proliferation inhibition rates, NF-κB, P-glycoprotein, MRP, Bcl-2, WNT1 and p53 levels were determined.Results:The results showed that PTL did not only have proliferation inhibition influence on BEL-7402/5-FU in a concentration-dependent manner, but also significantly increased the proliferation inhibition role of 5-fluorouracil on BEL-7402/5-FU, to reverse the resistance of hepatic carcinoma-resistant cells. PTL could also inhibit the NF-κB activity and the expression of P-glycoprotein, MRP, Bcl-2 and WNT1, and increase the expression of p53.Conclusion:Our research suggests that clinical administration of PTL may be useful for hepatic carcinoma patients.
+

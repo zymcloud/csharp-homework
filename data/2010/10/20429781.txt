@@ -1,0 +1,4 @@
+20429781
+2010 Oct
+Serum paraoxonase (aryldialkylphosphatase, EC 3.1.8.1., PON1) is an esterase protein synthesised by the liver and released into the serum, where it is associated with HDL lipoproteins. In this study, we have determined the in vitro effects of the following antibiotics: sodium ampicillin, ciprofloxacin, Rifamycin SV and clindamiycin phosphate, on human hepatoma (HepG2) cells (liver hPON1). All the antibiotics caused a dose-dependent and time-dependent decrease in the paraoxonase activity while Rifamycin SV was the most effective antibiotic due to its low 50% inhibition concentration (IC(50)) value. Liver hPON1 activity was determined using paraoxon as a substrate. The IC(50) values of the drugs were calculated from graphs of hydratase activity (%) by plotting concentration of the drugs that showed an inhibition effect.
+

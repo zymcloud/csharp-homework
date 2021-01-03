@@ -1,0 +1,4 @@
+30446676
+2018 Nov 16
+Poor prognoses remain the most challenging aspect of hepatocellular carcinoma (HCC) therapy. Consequently, alternative therapeutics are essential to control HCC. This study investigated the anticancer effects of safranal against HCC using in vitro, in silico, and network analyses. Cell cycle and immunoblot analyses of key regulators of cell cycle, DNA damage repair and apoptosis demonstrated unique safranal-mediated cell cycle arrest at G2/M phase at 6 and 12 h, and at S-phase at 24 h, and a pronounced effect on DNA damage machinery. Safranal also showed pro-apoptotic effect through activation of both intrinsic and extrinsic initiator caspases; indicating ER stress-mediated apoptosis. Gene set enrichment analysis provided consistent findings where UPR is among the top terms of up-regulated genes in response to safranal treatment. Thus, proteins involved in ER stress were regulated through safranal treatment to induce UPR in HepG2 cells.
+

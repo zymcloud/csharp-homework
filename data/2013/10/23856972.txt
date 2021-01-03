@@ -1,0 +1,4 @@
+23856972
+2013 Oct
+Hepatitis C virus (HCV) infection of the liver is a global health problem and a major risk factor for the development of hepatocellular carcinoma (HCC). Sensitive methods are needed for the improved and earlier detection of HCC, which would provide better therapy options. Metabolic profiling of the high-risk population (HCV patients) and those with HCC provides insights into the process of liver carcinogenesis and possible biomarkers for earlier cancer detection. Seventy-three blood metabolites were quantitatively profiled in HCC (n = 30) and cirrhotic HCV (n = 22) patients using a targeted approach based on LC-MS/MS. Sixteen of 73 targeted metabolites differed significantly (p
+Cancer; Hepatitis C virus; Hepatocellular carcinoma; LC-MS/MS; Metabolomics.

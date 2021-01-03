@@ -1,0 +1,4 @@
+30026040
+2018 Aug 7
+Activation of the nuclear farnesoid X receptor (FXR) which acts as cellular bile acid sensor has been validated as therapeutic strategy to counter liver disorders such as non-alcoholic steatohepatitis by the clinical efficacy of obeticholic acid. FXR antagonism, in contrast, is less well studied and potent small molecule FXR antagonists are rare. Here we report the systematic optimization of a novel class of FXR antagonists towards low nanomolar potency. The most optimized compound antagonizes baseline and agonist induced FXR activity in a full length FXR reporter gene assay and represses intrinsic expression of FXR regulated genes in hepatoma cells. With this activity and a favorable toxicity-, stability- and selectivity-profile it appears suitable to further study FXR antagonism in vitro and in vivo.
+Bile acid receptor; Metabolic syndrome; Non-alcoholic steatohepatitis; Nuclear receptor modulator.

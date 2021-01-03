@@ -1,0 +1,4 @@
+22227043
+2012 Feb
+We described the optimization, by molecular modelling, of small pyrazole derivatives, as kinase inhibitors, obtained through a 1,3-dipolar cycloaddition between nitrile imines and functionalized acetylenes. The two compounds, selected as potential agents active against hepatocellular carcinoma (HCC) were then evaluated in vitro for their biological activity on HCC-derived cell lines. The compounds show a promising inhibitory growth efficacy (IC(50) 50-100 μM) in SNU449 cell line, as well as block of cell cycle progression and induction of apoptosis, and can be considered as lead compounds for further SAR developments.
+

@@ -1,0 +1,4 @@
+24375318
+2014 Dec 15
+Nanog is a transcription factor that is well-established as a key regulator of embryonic stem cell (ESC) maintenance. Recent evidence demonstrates that Nanog is dysregulated and intimately involved in promoting tumorigenesis in part through regulation of the cancer stem cell (CSC) population. Elevated Nanog is associated with poorer outcome in numerous epithelial malignancies. Nanog is enriched in CSCs and ablation of Nanog is sufficient to reduce the CSC pool. Nanog has also been implicated to promote chemoresistance and epithelial-mesenchymal transition (EMT). Insight into the Nanog signaling cascade, upstream regulators and downstream effectors, is beginning to emerge but remains to be fully elucidated. This review highlights the current literature on the emerging role of Nanog in tumorigenesis and CSCs.
+Nanog; cancer initiating cells; cancer stem cells; epithelial-mesenchymal transition; prognostic biomarkers.

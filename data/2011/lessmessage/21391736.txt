@@ -1,0 +1,4 @@
+21391736
+2011
+The oncoprotein inhibitory member of the ASPP family (iASPP) is a key inhibitor of the p53 tumor suppressor and is upregulated in patients with acute leukemia and breast carcinoma. To investigate the effect of iASPP inhibition on the proliferation of hepatocellular carcinoma cells, a recombinant lentivirus vector expressing a small interfering RNA (siRNA) against iASPP gene expression was constructed and used to infect human hepatocellular carcinoma cells (HepG2 and Hep3B). The results showed that iASPP mRNA and protein levels were significantly down-regulated in both cells infected with the siRNA against iASPP. siRNA-mediated down-regulation of iASPP repressed tumor cell proliferation and colony formation in vitro and induced a growth delay of the tumor in vivo, suggesting that iASPP plays an important role in the proliferation of hepatocellular carcinoma cells. iASPP may be a valuable candidate target gene in hepatocellular carcinoma therapy.
+

@@ -1,0 +1,4 @@
+28853496
+2018 Jan 12
+Actinic keratoses (AKs) are highly dynamic lesions and AK activity has been shown to be associated with squamous cell carcinoma (SCC). We sought to explore risk factors which may affect the 12-month turnover of AKs in organ transplant recipients (OTRs). The number of incident AKs, regressed AKs and net change in AK counts were calculated. Negative binomial regression and Poisson regression models were used to estimate rate ratios (RR) for these 3 outcomes. Among 150 renal and 89 liver OTRs, those who spent > 50% of a typical weekday in the sun had a lower rate of AK regression than those who spent minimal time in the sun during a typical weekday. Age, parents' country of origin, hair colour, skin cancer history and recent AK treatment were all significantly associated with AK turnover. Clinically, these risk factors may be used to monitor OTRs at increased risk of SCC.
+

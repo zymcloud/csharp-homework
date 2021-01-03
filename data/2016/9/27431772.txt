@@ -1,0 +1,4 @@
+27431772
+2016 Sep
+Phytochemical investigation of Abies faxoniana Rehd. led to the isolation of two pairs of new epimeric spirolactone-type triterpenoids (1/1' and 2/2') and 11 known terpenoids (3-13). Compounds 1/1' and 2/2' were isolated as epimeric mixtures due to the C-23 ketal tautomerism in their spirolactone structures. The dynamic HPLC manifested that the C-23 epimeric mixtures interconverted into each other in solution. Structure determinations were based on extensive NMR and HRESIMS spectroscopic analysis. Meanwhile, their cytotoxic activities were tested by MTT method. Compound 5 showed cytotoxicities against MCF-7 and A549 cells with IC50 values of 6.5 and 5.7μM, respectively. Compounds 1/1' had IC50 values of 10.0 and 12.3μM for Huh7 and SMMC7721 cells, respectively.
+Abies faxoniana; Cytotoxicity; Hepatoma cells; Triterpenoids.

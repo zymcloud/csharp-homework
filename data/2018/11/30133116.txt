@@ -1,0 +1,4 @@
+30133116
+2018 Nov
+Recently, it was reported that long non-coding RNAs (lncRNAs) participated in promoting hepatocellular carcinoma (HCC) initiation and progression. Herein, we reported that the expression level of LINC01287 was elevated in HCC cell lines and tissues. LINC01287 down-regulation inhibited HCC cells growth and invasion both in vitro and in vivo. LINC01287 exerted as a ceRNA and negatively regulated miR-298 expression. MYB was identified as a downstream target of miR-298. The miR-298/MYB axis mediated LINC01287's effect on HCC. To the best of our knowledge, our findings provided the first evidence that LINC01287 functioned as an oncogene in HCC. LINC01287 may be a candidate prognostic biomarker and a target for new therapies in HCC patients.
+LINC01287; MYB; hepatocellular carcinoma; miR-298.

@@ -1,0 +1,4 @@
+21477382
+2011 Apr 11
+Hepatitis C virus (HCV) causes acute and chronic hepatitis which can eventually lead to permanent liver damage, hepatocellular carcinoma and death. Currently, there is no vaccine available for prevention of HCV infection due to high degree of strain variation. The current treatment of care, Pegylated interferon α in combination with ribavirin is costly, has significant side effects and fails to cure about half of all infections. In this review, we summarize molecular virology, replication and immune responses against HCV and discussed how HCV escape from adaptive and humoral immune responses. This advance knowledge will be helpful for development of vaccine against HCV and discovery of new medicines both from synthetic chemistry and natural sources.
+

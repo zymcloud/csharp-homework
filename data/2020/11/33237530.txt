@@ -1,0 +1,4 @@
+33237530
+2020 Nov
+We studied the effect of zoledronic acid encapsulated into liposomes (L-ZOL) on tumorassociated macrophages in the stroma of hepatocellular carcinoma xenograft. Liposomes were prepared from 1,2-dipalmitoyl-sn-glycero-3-phosphocholine, 1,2-dipalmitoyl-snglycero-3-phospho-sn-1-glycerol, and 1,2-distearoyl-sn-glycero-3-phosphoethanolamine-N-[carboxy(polyethylene glycol)-2000] using thin film method and loaded with zoledronic acid. It was shown that L-ZOL promoted apoptosis of RAW264.7 cells, eliminate much more protumoral M2 macrophages than antitumoral M1 macrophages in the tumor xenograft, and did not significantly reduce the size of xenograft in 6 days. Thus, the effect of treatment depends on the ratio between antitumoral M1 and protumoral M2 polarized macrophages in the tumor.
+hepatocellular carcinoma; liposome; tumor-associated macrophages (TAMs); zoledronic acid.

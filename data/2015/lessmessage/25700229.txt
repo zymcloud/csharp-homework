@@ -1,0 +1,4 @@
+25700229
+May-Jun 2015
+Objective:This study aimed to clarify the effect of embolization with lipiodol on portal vein hemodynamics.Methods:Time-density curves of the main portal vein on multilevel dynamic multidetector computed tomography during arterial portography were used to analyze peak computed tomography value (PV), time to PV (TPV), arrival time of contrast medium at the main portal vein (ATMPV), slope [(PV - 150) / (TPV - ATMPV)], and slope ratio (slope after embolization / slope before embolization).Results:In 20 patients with hepatoma, ATMPV and TPV were significantly prolonged and the time-density curve slope was significantly less after embolization. The difference in TPV increased (P = 0.02) and the slope ratio decreased with increasing embolized volume rate (P Conclusions:Time-density curves revealed significant portal vein flow delay after embolization; the degree of which was correlated with the extent of the embolized volume.
+

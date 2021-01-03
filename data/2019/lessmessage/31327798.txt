@@ -1,0 +1,4 @@
+31327798
+2019
+Hepatocellular carcinoma (HCC) is a prevalent and refractory cancer in the world and very few drugs are available for the disease treatment currently. Programmed cell death protein-1 (PD-1) monoclonal antibodies including nivolumab and pembrolizumab has received accelerated approval for treatment of advanced HCC based on phase 1/2 clinical trials. However, the recently disclosed results of phase 3 clinical trials showed that both nivolumab and pembrolizumab as monotherapy failed to meet the primary objectives, which might overshadow the prospect of PD-1 inhibitors as monotherapy in treatment of advanced and unresectable HCC. The feasibility of PD-1 inhibitors in combination with other therapies or in other HCC settings requires further verification in the future.
+HCC; PD-1; immune checkpoint inhibitor; lenvatinib; sorafenib.

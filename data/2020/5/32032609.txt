@@ -1,0 +1,4 @@
+32032609
+2020 May
+There is a lack of precise and clinical accessible model to predict the prognosis of hepatocellular carcinoma (HCC) in clinic practice currently. Here, an inclusive nomogram was developed by integrating genomic markers and clinicopathologic factors for predicting the outcome of patients with HCC. A total of 365 samples of HCC were obtained from the Cancer Genome Atlas (TCGA) database. The LASSO analysis was carried out to identify HCC-related mRNAs, and the multivariate Cox regression analysis was used to construct a genomic-clinicopathologic nomogram. As results, 9 mRNAs were finally identified as prognostic indicators, including RGCC, CDH15, XRN2, RAB3IL1, THEM4, PIF1, MANBA, FKTN and GABARAPL1, and used to establish a 9-mRNA classifier. Additionally, an inclusive nomogram was built up by combining the 9-mRNA classifier (P
+Hepatocellular carcinoma; LASSO regression; Nomogram; TCGA; mRNA.

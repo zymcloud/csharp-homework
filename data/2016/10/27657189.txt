@@ -1,0 +1,4 @@
+27657189
+2016 Oct 20
+Previous studies have established that hedgehog (Hh) signaling mediates tumor-stroma interaction and promotes hepatocellular carcinoma progression. Here, we demonstrated that activation of Hh signaling in hepatic stellate cell (HSC) line LX-2 by Huh-7-derived sonic Hh led to increased secretion of angiogenic factors and promoted angiogenesis in vitro. The activated LX-2 also enhanced vascular mimicry of hepatoma cells. Furthermore, co-injection of Huh-7 and LX-2 significantly accelerated tumor growth with enhanced angiogenesis compared with Huh-7 alone, which could be partly abrogated by Hh signaling inhibitor. Collectively, our data showed that paracrine Hh signaling mediated pro-angiogenic function of HSC and enhanced hepatoma growth.
+Angiogenesis; Hedgehog signaling; Hepatic stellate cells; Hepatocellular carcinoma; Vascular mimicry.

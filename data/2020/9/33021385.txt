@@ -1,0 +1,4 @@
+33021385
+2020 Sep
+Background: This study aimed to investigate the prognostic role of m6A methylation regulators in hepatocellular carcinoma (HCC). Materials & methods: Gene expression matrices were downloaded from The Cancer Genome Atlas (TCGA), International Cancer Genome Consortium, and Gene Expression Omnibus databases. Univariate and multivariate regression analysis were utilized to determine the m6A risk genes. Results: Two m6A-related risk genes (YTHDF1, YTHDF2) were identified in the TCGA HCC cohort. The m6A-correlated risk score is an independent risk factor for the overall survival of the TCGA HCC cohort. Finally, we verified the reliability of our results using three external datasets. Conclusion: The m6A-correlated gene signature has prognostic value in HCC patients and thus provides guidance for the treatment of HCC.
+liver cancer; m6A RNA methylation; prognosis.

@@ -1,0 +1,4 @@
+20188222
+2010 May 7
+The development of hepatocellular carcinoma (HCC) can be considered as an end-stage outcome of chronic hepatitis B virus (HBV) infection. Early prognostic markers are needed to allow effective treatments and prevent HCC from developing. Proteomics analysis has been used to identify markers from clinical samples from HCC patients. This approach can be further improved by identifying early biomarkers before the onset of HCC. One way would be to use the cell-based HBV replication system, which is reflective of the early stage of virus infection and thus secreted proteins identified at this stage may have relevance in HCC prognosis. In this review, we focus the discussion on the current status of proteomics analysis of cellular proteins and HCC biomarker identification, with a special highlight on the potential of the cell-based HBV replication system for the identification of prognostic HCC biomarkers.
+

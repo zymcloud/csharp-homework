@@ -1,0 +1,4 @@
+31223144
+2017 Oct 1
+Limited supply of nutrient normally causes cell growth arrest. Our recent study (Nat Cell Biol. (7):833-843) shows that fumarase (FH), a key enzyme responsible for the conversion between fumarate and malate in tricarboxylic acid cycle, is importantly involved in the cellular response to nutrient condition.
+H19; HCC; lncRNA.

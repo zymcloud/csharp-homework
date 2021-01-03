@@ -1,0 +1,4 @@
+31652457
+2019 Oct 30
+Some doubts were generated during the reading of nomograms based on inflammatory biomarkers for preoperatively predicting tumor grade and microvascular invasion in stage I/II hepatocellular carcinoma (HCC). We would like to highlight and discuss with authors. First, neutrophil-lymphocyte ratio (NLR) and derived NLR (dNLR) should not be entered into multivariate analysis simultaneously. Second, authors should clarify how the cutoffs of these variables including lymphocyte-monocyte ratio (LMR), dNLR, age and tumor size were set. We insist that the type of variables should be consistent when we carry out the analysis and establish the nomogram. Last, we have to point out that Li et al.'s (Biosci. Rep. (2018), 38) study failed to validate nomograms using an independent dataset.
+HCC; microvascular invasion; nomogram.

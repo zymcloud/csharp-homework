@@ -1,0 +1,4 @@
+27166128
+2016 Jul
+Objectives:The protective effect of statins in cirrhosis and its decompensation in chronic hepatitis B (CHB) patients remains unknown.Methods:We conducted a population-based cohort study using data from the Taiwanese National Health Insurance Research Database from 1997 to 2009. A total of 298,761 CHB patients were identified. CHB patients using statins (n=6,543; defined as ≥28 cumulative defined daily doses (cDDD)) and a 1:1 ratio propensity score and inception point (the date of first use of statins)-matched non-statins (Results:After adjustment for competing mortality, CHB patients using statins had a significantly lower cumulative incidence of cirrhosis (relative risk)=0.433; 95% confidence interval (CI)=0.344-0.515; modified log-rank test, P365 cDDD of statins, respectively.Conclusions:CHB patients who receive statin therapy have a dose-dependent reduction in the risk of cirrhosis and its decompensation.
+

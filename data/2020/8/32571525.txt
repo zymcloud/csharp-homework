@@ -1,0 +1,4 @@
+32571525
+2020 Aug
+A 2016 study proposed induction of the cytochrome P450 (CYP) enzyme CYP3A5 as a key mechanism for chemotherapy resistance and suggested CYP3A5 as a promising therapeutic target. However, in the context of the available literature we are skeptical that CYP3A5 contributes significantly to cancer drug resistance.
+anticancer drug resistance; cytochrome P450; enzyme induction; hepatocellular carcinoma.

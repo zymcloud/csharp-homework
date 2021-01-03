@@ -1,0 +1,4 @@
+32419473
+2020 Jun
+Aim: To investigate the cost-effectiveness of lenvatinib and sorafenib in the treatment of patients with nonresected hepatocellular carcinoma in China. Materials & methods: Markov model was used to simulate the direct medical cost and quality-adjusted life years (QALY) of patients with hepatocellular carcinoma. Clinical data were derived from the Phase 3 randomized clinical trial in a Chinese population. Results: Sorafenib treatment resulted in 1.794 QALYs at a cost of $43,780.73. Lenvatinib treatment resulted in 2.916 QALYs for patients weighing <60 and ≥60 kg at a cost of $57,049.43 and $75,900.36, The incremental cost-effectiveness ratio to the sorafenib treatment group was $11,825.94/QALY and $28,627.12/QALY, respectively. Conclusion: According to WHO's triple GDP per capita, the use of lenvatinib by providing drugs is a cost-effective strategy.
+cost–effectiveness; hepatocellular carcinoma; lenvatinib; sorafenib.

@@ -1,0 +1,4 @@
+26555484
+2015 Oct 24
+The majority of cancer-related deaths are caused by the metastasis of the cancer rather than the primary tumor itself. Yet, the underlying mechanisms of cancer metastasis are still unclear. Animal models are essential for elucidating the mechanisms and for evaluating novel strategies for the treatment of metastatic cancers. Here, an in-depth description of a "patient-like" orthotopic syngeneic mouse model for exploring the mechanisms of metastasis of solid organ tumors is provided. The survival surgical implantation of BNL 1ME A.7R.1 mouse hepatocellular carcinoma cells directly into the liver (the organ of origin) of the inbred wild-type immune competent laboratory mouse strain, BALB/c is described. The success and reproducibility of this methodology recommends it for widespread use in elucidating the biological mechanisms of solid organ cancer metastasis.
+

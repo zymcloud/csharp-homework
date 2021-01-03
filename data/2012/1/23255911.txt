@@ -1,0 +1,4 @@
+23255911
+2013 Jan
+Epithelial-mesenchymal transition (EMT) plays a pivotal role in cancer invasion and metastasis, and transforming growth factor (TGF)-β signaling is a potent inducer of EMT. However, the clinical significance of the correlation between EMT marker expression and TGF-β signaling in hepatocellular carcinoma (HCC) patients remains unknown. In this study, immunohistochemistry was used to analyze the expression of EMT markers and phospho-Smad2 nuclear positivity, and their association with clinicopathological features in 150 HCC patients. E-cadherin(high)/vimentin(low) and E-cadherin(low)/vimentin(high) expression profiles were determined in 55 (36.7%) and 21 (14.0%) patients, respectively. The E-cadherin(low)/vimentin(high) expression profile was significantly correlated with poor tumor differentiation (P
+

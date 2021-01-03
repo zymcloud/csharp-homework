@@ -1,0 +1,4 @@
+29534342
+2018 Dec
+Background:Although serum albumin has been reported to be useful as a prognostic biomarker for various malignancies, it is not suitable for prognosis of patients with hepatocellular carcinoma (HCC) due to impaired liver function. We aimed to determine whether serum transthyretin (TTR) level can be used as a novel prognostic biomarker.Methods:Serum levels of TTR, as well as other nutritional and inflammatory parameters including angiogenic factors, were examined in 25 patients with HCC.Results:The serum TTR levels exhibited a statistically significant inverse correlation with interleukin-6 (r = -0.412, P = 0.041), and showed statistically significant correlations with retinol-binding protein (r = 0.919, P Conclusion:Serum TTR measurement can be useful for predicting the prognosis of patients with HCC.
+hepatocellular carcinoma; malnutrition; pre-albumin; prognosis; transthyretin.

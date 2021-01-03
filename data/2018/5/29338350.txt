@@ -1,0 +1,4 @@
+29338350
+2018 May
+Two new polyketides, 3,11-dihydroxy-6,8-dimethyldodecanoic acid (1) and trichopyrone B (2), together with two known polyketides, sorbicillin (3) and penicillone A (4), have been isolated from the cultures broth of the fungus Penicillium decumbens. Their structures were elucidated by extensive spectroscopic analysis. All isolated compounds were evaluated for their antibacterial and cytotoxic activities. Of these, compound 3 showed antifungal activity toward Candida albicans Y0109 with a MIC value of 50 μM. Moreover, compounds 3 and 4 exhibited selective cytotoxicity against the human hepatocellular carcinoma (QGY-7703) cell line with the IC50 values of 32.5 and 22.8 μM, respectively.
+Fungus; Penicillium decumbens; antifungal activity; cytotoxicity; polyketide.

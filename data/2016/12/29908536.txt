@@ -1,0 +1,4 @@
+29908536
+2016 Dec
+This study was designed to investigate the mechanism of 5,2’,4’-trihydroxy-6,7,5’-trimethoxy flavone nanoparticle (TTF1-NP) in the induction of apoptosis of human hepatocellular carcinoma HepG-2 cells. MTT assay, immunocytochemical staining and flow cytometry with Annexin V-FITC/PI were used to demonstrate inhibition of proliferation of HepG-2 cells and cell apoptosis. The inhibition was studied in a dose- and time-dependent manner. Western blot results showed that TTF1-NP down-regulated the signals of survivin, p-STAT3 and STAT3, but up-regulated the expression level of cleaved caspase-3. Taken together, our results showed that TTF1-NP induced HepG-2 cell apoptosis through inhibition of the STAT3 expression.
+

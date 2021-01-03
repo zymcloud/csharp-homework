@@ -1,0 +1,4 @@
+29036356
+2017 Nov 1
+Angiogenesis plays a key role in the progression of hepatocellular carcinoma (HCC). This study aimed to investigate whether lipopolysaccharide (LPS) could promote HCC angiogenesis and the role of hepatic stellate cell (HSC) in this process. In vivo orthotopic HCC model and the effect of LPS on HSC in vitro were studied. Our results demonstrated that LPS-induced HSC activation during the promotion of HCC growth and angiogenesis in mice. The LPS-TLR4 (Toll-like receptor 4) pathway in HSC is responsible for HCC angiogenesis. LPS-induced secretion of pro-angiogenic factors from HSC could promote endothelial cell migration and tubulogenesis. This study suggests that LPS acts with HSC in tumor stroma and promotes the secretion of pro-angiogenic factors that increase angiogenesis in HCC.
+angiogenesis; hepatic stellate cell; hepatocellular carcinoma; lipopolysaccharide.

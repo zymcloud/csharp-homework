@@ -1,0 +1,4 @@
+31588878
+2019 Oct
+Recently, it was published that CYP3A5 contributes to chemotherapeutic drug resistance in a wide range of solid tumors, including hepatocellular carcinoma. However, CYP3A5 is highly polymorphic and 90% of Caucasians are homozygous for the loss-of-function allele CYP3A5*3. Here, we evaluate the relationship between CYP3A5 genotype and expression level of both CYP3A5 transcripts and protein in biopsies from 19 pairs of liver tumors and corresponding peritumoral tissue. We find that CYP3A5 transcript levels are reduced compared with peritumoral controls. Moreover, we do not detect CYP3A5 protein in homozygous CYP3A5*3 carriers and no relative increase of CYP3A5 in tumoral tissue of CYP3A5*1 carriers. We conclude that anticancer drug resistance is unlikely to be caused by increased CYP3A5 expression.
+CYP3A5; anticancer drug resistance; hepatocellular carcinoma.

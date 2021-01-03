@@ -1,0 +1,4 @@
+25550943
+2014 Nov 15
+To investigate the prediction value of preoperative changes in the immunological function for the prognosis of hepatocellular carcinoma (HCC) after hepatectomy, 158 cases of HCC patients who received liver resection in our hospital from 2009 to 2010 were enrolled in this study. Immune indices [CD3(+), CD4(+), CD8(+), CD19(+) and natural killer (NK), IgA, IgM, IgG], AFP level were calculated. The differences between preoperation and postoperation group, exclude were not both statistically significant (both P > 0.05), whereas IgA group was not (P 0.05).The markers level were not both statistically significant with age, gender, grade, tumor size (P > 0.05). Multiple logistic regression analysis indicated that CD4(+), CD8(+) and NK(+) were closely correlated with HCC postoperative survival rate (P
+Prognosis; Subgroups; hepatectomy; hepatocellular carcinoma; immunoglobulin.

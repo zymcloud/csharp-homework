@@ -1,0 +1,4 @@
+21616630
+2011 Jun
+We have previously demonstrated that enoyl coenzyme A hydratase 1 (Ech1) is involved in the lymphatic metastasis of tumors. In this study, RNAi was used to investigate the role of Ech1 in Hca-F, a hepatocarcinoma cell line with high rates of lymphatic metastasis. The downregulation of Ech1 inhibited proliferation of the Hca-F cells, increased the ratio of Hca-F cells in S phase to G(1) phase and decreased the adhesion and migration capacities of Hca-F cells. A higher expression level of Ech1 was confirmed in tissue from patients with gastric carcinoma (GC) with lymph node metastases (LNM), indicating the clinical association with tumor metastasis. The results indicate that Ech1 is a critical factor in the development of lymphatic metastasis in these tumors.
+

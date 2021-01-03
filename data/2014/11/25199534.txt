@@ -1,0 +1,4 @@
+25199534
+2014 Nov
+Heat shock factor 1 (HSF1) is associated with tissue‑specific tumorigenesis in a number of mouse models, and has been used a as prognostic marker of cancer types, including breast and prostatic cancer. However, its role in human hepatocellular carcinoma (HCC) is not well understood. Using immunoblotting and immunohistochemical staining, it was identified that HSF1 and its serine (S) 326 phosphorylation, a biomarker of HSF1 activation, are significantly upregulated in human HCC tissues and HCC cell lines compared with their normal counterparts. Cohort analyses indicated that upregulation of the expression of HSF1 and its phospho‑S326 is significantly correlated with HCC progression, invasion and patient survival prognosis (P
+

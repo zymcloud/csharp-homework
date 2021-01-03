@@ -1,0 +1,4 @@
+29555591
+2018 May 20
+Altered redox status including higher levels of copper in cancer cells than in normal cells inspired many researchers to develop copper ionophores targeting this status. We have recently found that flavon-3-ol (3-HF) works as a potent Cu(II) ionophore by virtue of its keto-enol moiety. To further emphasize the significance of this moiety for developing Cu(II) ionophores, we herein designed a β-diketo analog of piperlongumine, PL-I, characterized by the presence of high proportion of the keto-enol form in dimethylsulfoxide and chloroform, and identified its keto-enol structure by NMR and theoretical calculations. Benefiting from deprotonation of its enolic hydroxyl group, this molecule is capable of facilitating the transport of Cu(II) through cellular membranes to disrupt redox homeostasis of human hepatoma HepG2 cells and trigger their death.
+Copper; Ionophores; Keto-enol, mechanism; Piperlongumine.

@@ -1,0 +1,4 @@
+27640789
+2016 Sep 28
+Objective:To determine the combined cytotoxic effect and the molecular basis of triptolide and sodium cantharidinate on hepatoma cell line 7721.Methods:After treating the hepatoma cell line 7721 with triptolide(9, 18, or 36 μg/mL) and/or sodium cantharidinate (2, 5, or 10 μg/mL), cell viability assay and apoptosis were examined by MTT and flocytometry, respectively. The protein levels of caspase 3 and nuclear factor κB were analyzed by Western blot.Results:Viability of hepatoma cell line 7721 was inhibited by either the therapy of triptolide and/or sodium cantharidinate (PConclusion:Triptolide and sodium cantharidinate exert a synergistic toxic effect on hepatoma cell line 7721, which is related to increasing capase-3 activity and suppression of NF- κB.
+

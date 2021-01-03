@@ -1,0 +1,4 @@
+28139708
+2017 Jan 31
+Marital status have been found as an independent prognostic factor for survival and spousal support could provide a survival advantage in various cancer types. However, the specific effect of marital status on survival in hepatocellular carcinoma (HCC) has not been explored in detail. In this study, we used the Surveillance, Epidemiology and End Results program to identify iagnosed with HCC between 1988 and 2007. Kaplan-Meier methods and multivariable Cox regression models were used to analyze long-term cancer-specific survival (CSS) outcomes and risk factors stratified by marital status. There were significant differences among these different marital status subgroups with regard to 5-year CSS rates (P
+

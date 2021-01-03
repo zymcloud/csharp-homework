@@ -1,0 +1,4 @@
+30867373
+2019
+Evaluation of the degree of liver fibrosis is an important basis for the clinical diagnosis and treatment of patients with hepatocellular carcinoma (HCC). It is meaningful to make a preoperative evaluation with non-invasive methods. In the current study, 12 commonly used preoperative serological indicators from 161 HCC patients with different degree of liver fibrosis were collected retrospectively, and 8 of the indicators (ALB, PA, TBil, INR, AST, GGT, ALP, and PT) were ultimately used in matter-element analysis to create a formula. The relationship between those results and the histological sub-classification of the Laennec liver fibrosis scoring system was analyzed. The calculated value of R from this formula will indicate the differing degree of liver fibrosis in a patient: i) the value of 0.802 ≤ R
+Laennec system; Liver cirrhosis; matter-element analysis.

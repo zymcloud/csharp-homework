@@ -1,0 +1,4 @@
+23527801
+2013 Mar
+Objective:To investigate the association between plasminogen activator inhibitor (PAI)-2 expression and invasive potential in hepatocellular carcinoma (HCC) cells.Methods:The HCC cell lines with high, low, and non-metastatic potentials, namely MHCC97-H, MHCC97-L, and SMMC-7721 respectively, were cultured in vitro. Matrigel invasion assay and Western blot of PAI-2 protein expression were conducted.Results:The number of invaded cells in MHCC97-L was significantly higher than that in SMMC-7721 (P=0.005), whereas that in MHCC97-H was higher than in MHCC97-L (P=0.017) and SMMC-7721 (P=0.001). Contrarily, PAI-2 protein expression was gradually reducing from SMMC-7721, MHCC97-L, to MHCC97-H (MHCC97-H vs. MHCC97-L, PConclusion:PAI-2 expression may be negatively associated with the invasive potential of HCC.
+

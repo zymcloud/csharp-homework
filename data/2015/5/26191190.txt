@@ -1,0 +1,4 @@
+26191190
+2015 May 1
+In this study, we suggested the level of miR-1297 was downreguled in the human hepatocellular carcinoma compared to the normal cells. We demonstrate ectopic expression of miR-1297 could significantly suppress hepatocellular carcinoma cells proliferation and enhance the cell apoptosis. In vitro reporter assay suggested EZH2 is a direct target gene of miR-1297. Furthermore, knockdown of EZH2 have the same effect with miR-1297 overeexpression in hepatocellular carcinoma cells. These findings provide evidence that miR-1297 plays a key role in inhibition of the hepatocellular carcinoma cells proliferation, and enhancing cell apoptosis through targeting EZH2, and strongly suggest that ex ogenous miR-1297 may have therapeutic value in treating hepatocellular carcinoma.
+EZH2; hepatocellular carcinoma; miR-1297; miRNA.

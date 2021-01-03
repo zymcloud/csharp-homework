@@ -1,0 +1,4 @@
+32218414
+2020 Mar 27
+BACKGROUND Worldwide, hepatocellular carcinoma (HCC) is one of the most commonly diagnosed malignant diseases and is the third leading cause of cancer-related death. This study aimed to investigate the effect of hydroxypyridinone-coumarin (HPC) on MHCC97 and HepG2 human HCC cells and the mechanisms involved. MATERIAL AND METHODS MHCC97 and HepG2 human HCC cells were cultured in vitro. An MTT cytotoxicity assay was used to assess cell viability and proliferation, with and without treatment with HPC. Cell autophagosomes were labeled with GFP-LC3 using confocal fluorescence microscopy. Western blot was used to measure protein expression. RESULTS HPC significantly reduced the cell proliferation rate in a concentration-dependent manner, with 2 µM of HPC resulting in a reduced proliferation rate of MHCC97 cells (by 36%) and HepG2 cells (by 29%) (P
+

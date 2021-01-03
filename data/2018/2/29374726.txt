@@ -1,0 +1,4 @@
+29374726
+2018 Feb
+Background:This study aimed to assess the need to consider microscopic invasion in terms of treatment planning in stereotactic body radiation therapy (SBRT) for hepatocellular carcinoma and elucidate the appropriate clinical target volume (CTV) margin.Patients and methods:A total of 121 patients (with 146 liver tumors) who underwent SBRT between July 2007 and August 2016 were analyzed, regarding overall survival and local control (LC).Results:The 2- and 5-year LC rates were 91.5% and 89.8%, respectively. Planning target volume (PTV) margin Conclusion:In patients with high AFP levels, there is a possibility of microscopic invasion around the tumor, suggesting that LC may be improved by adding an additional clinical target volume margin to the gross tumor volume.
+Stereotactic body radiation therapy; hepatocellular carcinoma; intensity-modulated radiotherapy; stereotactic ablative radiation therapy.

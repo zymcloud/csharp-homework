@@ -1,0 +1,4 @@
+23505904
+2013
+Background:To investigate the correlation of Arg-1 expression with clinicopathologic factors and prognosis of HCC patients, including recurrence and survival rate.Methods:We examined the expression of Arg-1 in HCC by immunohistochemistry and studied its correlation with a series of clinicopathologic features and prognositic parameters of patients with HCC.Results:We found patients with higher Arg-1 expression showed less aggressive features based on less portal vein invasion (chi2 = 10.794, df = 1, p = 0.001), less microvessel invasion (chi2 = 4.247, df = 1, p = 0.039), lower TNM stage (chi2 = 4.992, df = 1, p = 0.025), and better differentiated histology (chi2 = 24.155, df= 1, p Conclusions:These results suggest that Arg-1 may play a tumor suppressive role in HCC and could be a new, promising prognostic biomarker for HCC patients.
+

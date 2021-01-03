@@ -1,0 +1,4 @@
+22079740
+2012 Apr 1
+Sleeping Beauty (SB) is a genetically engineered insertional mutagenesis system. Its ability to rapidly induce cancer in SB-transgenic mice as well as the ease of identification of the mutated genes suggest important roles for SB in the discovery of novel cancer genes as well as the generation of models of human cancers where none currently exist. The range of SB-related tumors extends from haematopoietic to solid cancers such as hepatocellular carcinoma. This review follows the refinement of SB for different cancers and assesses its potential as a model for all cancers and a tool for cancer gene discovery.
+

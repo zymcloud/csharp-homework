@@ -1,0 +1,4 @@
+27784155
+2016 Dec 5
+Self-targetability is an emerging targeting strategy for polymer nanocarriers with facile preparation and high targeting efficiency. An acid-sensitive dextran-doxorubicin prodrug (Dex-g-DOX) has been synthesized and used as a self-targeted drug delivery system for the treatment of orthotopic hepatoma. The polysaccharide prodrug exhibits ultraselective accumulation in cancerous liver tissue, acid-sensitive DOX release within cells, and high antitumor efficacy in vitro and in vivo. Therefore, Dex-g-DOX demonstrates great potential for chemotherapy of orthotopic hepatoma.
+chemotherapy; orthotopic hepatoma; polysaccharide; prodrug; self-targetability.

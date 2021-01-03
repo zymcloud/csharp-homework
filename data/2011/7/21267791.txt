@@ -1,0 +1,4 @@
+21267791
+2011 Jul
+Background:The Barcelona Clinic Liver Cancer (BCLC) staging system recommends first-line therapy for each tumor stage. We evaluated the effect of compliance with BCLC treatment allocation on the prognosis of patients with hepatocellular carcinoma (HCC).Methods:We retrospectively analyzed 359 consecutive, newly diagnosed HCC patients treated in our Liver Unit during a 14-year period. For each stage, survival was compared according to whether treatment matched the BCLC recommendation. We also compared the survival of patients in the same BCLC stage who received different treatments, and patients in different BCLC stages receiving the same treatment.Results:BCLC-A patients treated with radical therapies (66%) survived longer (117 vs. 20 months; p Conclusions:In addition to BCLC stage, actual treatment determines survival in patients with HCC.
+

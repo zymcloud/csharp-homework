@@ -1,0 +1,4 @@
+24629329
+2014 Mar 12
+Hepatitis B virus (HBV) integration in hepatocellular carcinoma (HCC) is a poorly understood event. In a recent Cancer Cell paper, Lau et al. (2014) describe a HBV-human fusion transcript (HBx-LINE1) that functions as a lncRNA, influences the epithelial-mesenchymal transition, and correlates with reduced patient survival and tumor formation in mice.
+

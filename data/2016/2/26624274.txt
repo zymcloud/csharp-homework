@@ -1,0 +1,4 @@
+26624274
+2016 Feb
+The aim of this study was to explore novel genomic biomarkers predicting hepatocellular carcinoma (HCC) prognosis by integrative analysis of DNA copy number aberrations (CNAs) and gene expression profiles. Array comparative genomic hybridization and expression array were performed on 45 and 31 HCC samples, respectively. To identify functionally important genes, concordant results of DNA copy number and gene expression were retrieved by integrative analysis. Cox regression analysis indicated that the CNAs in 192 genomic regions were significantly associated with overall survival (OS; p
+

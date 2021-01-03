@@ -1,0 +1,4 @@
+28987386
+2017 Dec 28
+Autophagy plays a dual role in many types of cancer, such as hepatocellular carcinoma (HCC). Autophagy seems to be inhibited and functions as a tumor-suppression mechanism in the "inflammation-carcinogenesis" pathway of the liver, including hepatitis B virus and hepatitis C virus, alcoholic steatohepatitis and non-alcoholic steatohepatitis related HCC. However, in established tumors, autophagy plays a tumor-promoting role. Because of the varied function of autophagy in HCC, we hypothesized p62 as a marker to evaluate the autophagic level. Moreover, autophagy is critical in antigen presentation and homeostasis of immune cells and tumor microenvironment. Understanding the intricate relationships of autophagy, inflammation, and immunity provides us with new insights into HCC immunotherapy.
+Autophagy; Hepatocellular carcinoma; Immunotherapy; Inflammation.

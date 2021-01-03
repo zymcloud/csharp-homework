@@ -1,0 +1,4 @@
+26990915
+2016 Jul 15
+We aimed at evaluating the risk of liver cancer in different levels of HBsAg among Chinese men and women. We carried out a nested case-control study including 363 cases and 3,511 controls in two population-based cohorts in Shanghai. Plasma samples collected at enrollment were quantified for HBsAg levels using the Architect QT assay. Conditional logistic regression was performed to estimate the odds ratios (ORs) and 95% confidence intervals (95% CIs) for liver cancer, with adjustment for potential confounders. HBsAg was detected in 6.29% of control subjects overall (7.02% in men and 4.98% in women). HBsAg levels were positively associated with liver cancer risk in a dose-response manner (ptrend
+Hepatitis B surface antigen; dose-response relationship; gender disparity; liver cancer; prospective study.

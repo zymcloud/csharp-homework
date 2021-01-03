@@ -1,0 +1,4 @@
+24853455
+2014 May 19
+Hepatocellular carcinoma (HCC) is the fifth most common cancer worldwide and the third leading cause of cancer deaths. microRNAs (miRNAs) are evolutionary conserved small non-coding RNA that negatively regulate gene expression and protein translation. Recent evidences have shown that they are involved in many biological processes, from development and cell-cycle regulation to apoptosis. miRNAs can behave as tumor suppressor or promoter of oncogenesis depending on the cellular function of their targets. Moreover, they are frequently dysregulated in HCC. In this review we summarize the latest findings of miRNAs regulation in HCC and their role as potentially diagnostic and prognostic biomarkers for HCC. We highlight development of miRNAs as potential therapeutic targets for HCC.
+

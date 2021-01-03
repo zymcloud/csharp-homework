@@ -1,0 +1,4 @@
+22451357
+2012
+The metabolism of anti-breast cancer drug, tamoxifen, in a single human hepatocellular carcinoma cell, HepG2, was directly monitored by a video-mass spectroscope. The cytoplasm, a vacuole or nucleus of the cell was directly sucked by a nano-spray tip under a video-microscope, and then was introduced into a mass spectrometer. Unchanged drug molecules were found in cytoplasm and a vacuole, but the metabolites were only found in the cytoplasm. This direct detection of drug metabolites in a live single cell is useful for speedy drug metabolism monitoring.
+

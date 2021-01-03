@@ -1,0 +1,4 @@
+25648018
+2014
+Background:Serum a-fetoprotein (AFP) is one of the most common diagnostic markers for hepatocellular cancer (HCC) in the laboratory. As other immunoassays, AFP determination is not free from interferences. Natural antibodies like rheumatoid factors (RFs) may induce falsely elevated results, leading to misdiagnosis and expensive unnecessary explorations.Methods:Serum samples containing AFP were spiked with moderate- or high-concentration RFs, and samples with high RF levels were spiked with AFP. The original sera, as well as the mixtures were tested for AFP by one-step and two-step sandwich ELISA.Results:In the spiked specimens, addition of RFs caused significant bias in the measurement of AFP. The threshold for triggering significant interference was 260 IU/mL for RFs and 74 ng/mL for AFP.Conclusions:In studies on the prevalence and clinical significance of serum AFP, RF interference should be considered and RF testing should be performed.
+

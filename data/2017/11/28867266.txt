@@ -1,0 +1,4 @@
+28867266
+2017 Nov
+SIRT3, an important mitochondrial protein, may act as either an oncogene or tumor suppressor depending on the tumor-type. The aim of this study was to investigate the expression of SIRT3 in pancreatic carcinoma (PC) and its clinical association in PC patients. Immunohistochemistry was adopted to investigate the expression of SIRT3 in cancer and corrresponding adjacent non-cancer tissues across 79 patients with PC. The log-rank test and Cox hazard model were used to estimate the relationship between SIRT3 expression and prognosis. The staining results revealed that SIRT3 negative expression was more common in cancer tissues than in adjacent non-cancer tissues (P
+Biomarker; Pancreatic carcinoma; Prognosis; SIRT3.

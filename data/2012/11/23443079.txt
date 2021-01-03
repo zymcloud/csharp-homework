@@ -1,0 +1,4 @@
+23443079
+2012 Nov 22
+Ginsenoside Rh2 (G-Rh2) has been shown to induce apoptotic cell death in a variety of cancer cells. However, the details of the signal transduction cascade involved in G-Rh2-induced cell death is unclear. In this manuscript we elucidate the molecular mechanism of G-Rh2-induced apoptosis in human hepatoma SK-HEP-1 cells by demonstrating that G-Rh2 causes rapid and dramatic translocation of both Bak and Bax, which subsequently triggers mitochondrial cytochrome c release and consequent caspase activation. Interestingly, siRNA-based gene inactivation of caspase-8 effectively delays caspase-9 activation and apoptosis induced by G-Rh2, indicating that caspase-8 also plays an important role in the G-Rh2-induced apoptosis program. Taken together, our results indicate that G-Rh2 employs a multi pro-apoptotic pathway to execute cancer cell death, suggesting a potential role for G-Rh2 as a powerful chemotherapeutic agent.
+

@@ -1,0 +1,4 @@
+22720895
+2012 Jul
+Sorafenib, a protein kinase inhibitor, is a systemic drug that has been licensed for the treatment of hepatocellular carcinoma (HCC). This retrospective study assessed whether the administration of sorafenib can result in a reduction of the hepatopulmonary shunt (HPS) before selective internal radiation therapy (SIRT). After exclusion from SIRT because of high HPS, computed tomography scan indicated a shunt reduction in seven patients with HCC receiving sorafenib. Repeated measurements revealed HPS reduction (from 26.5% to 7.5% on average), and subsequent SIRT became possible. In conclusion, sorafenib may reduce HPS in patients with advanced HCC in some cases.
+

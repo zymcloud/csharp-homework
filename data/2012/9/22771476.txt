@@ -1,0 +1,4 @@
+22771476
+2012 Sep 21
+The significance of hepatitis B virus (HBV) DNA-based integration in hepatocarcinogenesis is poorly understood. In the present study, we investigated whether the integration of HBV X gene (HBx) is involved in the event. Our finding showed that the integration of HBx fragment (316-462 bp/262-462 bp) was able to transform human immortalized normal liver LO2 cells using a cell model of HBx-integration. We identified that the recombination, HBx/Alu core sequence/subtelomeric DNA, was required for the transformation, which could be detected in 5 out of 44 clinical HBx-positive hepatocellular carcinoma tissues. Thus, we conclude that HBx integration is involved in the hepatocarcinogenesis.
+

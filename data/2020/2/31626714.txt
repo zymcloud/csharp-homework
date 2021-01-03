@@ -1,0 +1,4 @@
+31626714
+2020 Feb
+The voltage-gated sodium channels (VGSCs) are aberrantly expressed in a variety of tumors and play an important role in tumor growth and metastasis. Here, we show that VGSCs auxiliary β3 subunit, encoded by the SCN3B gene, promotes proliferation and suppresses apoptosis in HepG2 cells by promoting p53 degradation. β3 significantly increases HepG2 cell proliferation, promotes tumor growth in mouse xenograft models, and suppresses senescence and apoptosis. We found that β3 knockdown stabilizes p53 protein, leading to potentiation of p53-induced cell cycle arrest, senescence, and apoptosis. Mechanistic studies revealed that β3 could bind to p53, promoting p53 ubiquitination and degradation by stabilizing the p53/MDM2 complex. Our results suggest that β3 is a novel negative regulator of p53 and a potential oncogenic factor.
+VGSCs β3 subunit; hepatocellular carcinoma; p53; proliferation; ubiquitination.

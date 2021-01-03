@@ -1,0 +1,4 @@
+21423988
+2011 May 7
+A number of 2,3-diarylquinoline derivatives were synthesized and evaluated for antiproliferative activities against the growth of six cancer cell lines including human hepatocellular carcinoma (Hep G2 and Hep 3B), non-small cell lung cancer (A549 and H1299), and breast cancer (MCF-7 and MDA-MB-231) cell lines. The preliminary results indicated that 6-fluoro-2,3-bis{4-[2-(piperidin-1-yl)ethoxy]phenyl}quinoline (16b) was one of the most active compounds against the growth of Hep 3B, H1299, and MDA-MB-231 with a GI(50) value of 0.71, 1.46, and 0.72 μM respectively which was more active than tamoxifen. Further investigations have shown that 16b induced cell cycle arrest at G2/M phase followed by DNA fragmentation via an increase in the protein expression of Bad, Bax and decrease in Bcl-2, and PARP which consequently cause cell death.
+

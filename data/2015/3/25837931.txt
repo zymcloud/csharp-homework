@@ -1,0 +1,4 @@
+25837931
+2015 Mar
+Pine needle oil from crude extract of pine needles has been used as an anti-cancer agent in Traditional Chinese Medicine. The α-pinene is a natural compound isolated from pine needle oil which has been shown anti-cancer activity. In previous study, we found that pine needle oil exhibited significant inhibitory effect on hepatoma carcinoma BEL-7402 cells. In this study, we investigate the inhibition of α-pinene on hepatoma carcinoma BEL-7402 cells in vitro and in vivo and further explore the mechanism. The results show that liver cancer cell growth was inhibited obviously with inhibitory rate of 79.3% in vitro and 69.1% in vivo, Chk1 and Chk2 levels were upregulated, CyclinB, CDC25 and CDK1 levels were downregulated.
+BEL-7402 cells; In vitro and in vivo; Liver cancer; Mechanism; α-Pinene.

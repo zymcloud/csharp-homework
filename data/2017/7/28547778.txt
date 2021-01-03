@@ -1,0 +1,4 @@
+28547778
+2017 Jul
+Hepatocyte nuclear factor 1α (HNF1α) is a liver-enriched transcription factor that is critical for the maintenance of hepatocyte function. Our previous studies have demonstrated the therapeutic effects of HNF1α on hepatic fibrosis and hepatocellular carcinoma (HCC) in animals. In this study, we created hepatocyte-specific Hnf1α knockout mice using the Cre-loxP recombination system. The knockout mice display increased fatty acid synthesis in the liver. Moreover, these mice spontaneously develop HCC through fatty liver without cirrhosis. Inflammatory cytokines, such as tumor necrosis factor α and IL-6, are upregulated and accompanied by increased phosphorylation of Akt, p-65 and STAT3 in the livers of HNF1α knockout mice. Our findings suggest that HNF1α plays a crucial role in hepatocyte lipid metabolism and hepatocarcinogenesis.
+NAFLD; NASH; HNF1α; hepatocellular carcinoma.

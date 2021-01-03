@@ -1,0 +1,4 @@
+27539153
+2017 Feb
+Exosomes can mediate intercellular communication by conveying various bioactive molecules. Plentiful evidence suggests that exosomes are involved in many liver diseases including hepatitis C virus infection, hepatitis B virus infection, hepatocellular carcinoma, liver fibrosis, cirrhosis, non-alcoholic fatty liver disease, and alcoholic liver disease. Moreover, exosomes are present in nearly all human body fluids. Therefore, exosomal miRNA or proteins have the potential to be novel biomarkers of liver diseases. In the treatment of liver diseases, exosomes could participate in adaptive immune response and mesenchymal stem cell-based therapy. Exosomes can also be used as vehicles for genetic materials and drug delivery.
+biomarkers; exosomes; liver pathology; liver physiology; therapeutics.

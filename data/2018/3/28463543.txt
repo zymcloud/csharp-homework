@@ -1,0 +1,4 @@
+28463543
+2018 Mar 4
+Autophagy is an evolutionarily conserved degradation pathway for cells to maintain homeostasis, produce energy, degrade misfolded proteins and damaged organelles, and fight against intracellular pathogens. The process of autophagy entails the isolation of cytoplasmic cargo into double membrane bound autophagosomes that undergo maturation by fusion with endosomes and lysosomes to obtain degradation capacity. RAB proteins regulate intracellular vesicle trafficking events including autophagy. RAB24 is an atypical RAB protein that is required for the clearance of late autophagic vacuoles under basal conditions. RAB24 has also been connected to several diseases including ataxia, cancer and tuberculosis. This review gives a short summary on autophagy and RAB proteins, and an overview on the current knowledge on the roles of RAB24 in autophagy and disease.
+RAB proteins; RAB24; ataxia; autophagy; hepatocellular carcinoma.

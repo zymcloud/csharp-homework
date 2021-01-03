@@ -1,0 +1,4 @@
+22259839
+2011 Dec 1
+Two major degradation systems exist in cells: the lysosome and proteasome. In the lysosome system, extracellular materials are degraded via endocytosis. Intracellular materials are degraded by autophagy, a cellular pathway crucial for various intracellular events. It has recently been demonstrated that autophagy is involved in the pathogenesis of various liver diseases. In hepatitis B or hepatitis C virus infection, autophagy is enhanced in hepatocytes. In hepatic steatosis, hepatocyte autophagy is inhibited. The expression of the autophagy protein is disrupted in hepatocellular carcinoma. I summarize recent advances in the study of the involvement of autophagy in various liver diseases. The regulation of autophagy in the liver may be a useful therapeutic strategy for various liver diseases.
+

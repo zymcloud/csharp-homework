@@ -1,0 +1,4 @@
+24461132
+2014 Feb
+Radioembolization with yttrium-90 ((90)Y) microspheres relies on delivery of appropriate treatment activity to ensure patient safety and optimize treatment efficacy. We report a case in which (90)Y positron emission tomography (PET)/computed tomography (CT) was performed to optimize treatment planning during a same-day, three-part treatment session. This treatment consisted of (i) an initial (90)Y infusion with a dosage determined using an empiric treatment planning model, (ii) quantitative (90)Y PET/CT imaging, and (iii) a secondary infusion with treatment planning based on quantitative imaging data with the goal of delivering a specific total tumor absorbed dose.
+(18)FDG; (90)Y; (99m)Tc MAA; BSA; HCC; T/N; TTR; body surface area; fluorine 18–labeled deoxyglucose; hepatocellular carcinoma; technetium-99m macroaggregated albumin; tumor-to-normal uptake; tumoricidal target ratio; yttrium-90.

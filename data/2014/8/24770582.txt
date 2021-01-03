@@ -1,0 +1,4 @@
+24770582
+2014 Aug
+Background and aim:Combination therapy of sorafenib and transarterial chemoembolization (TACE) showed benefits for hepatocellular carcinoma (HCC). This systematic review aims for evaluation of efficacy and safety between sorafenib plus TACE and TACE alone for HCC.Methods:We systematically searched multi-databases to identify eligible studies. Studies comparing sorafenib combined with TACE and TACE alone for HCC were included.Results:Nine studies with 900 patients (sorafenib + TACE = 446, TACE = 454) were finally included. Sorafenib combined with TACE significantly reduced 6-month mortality [OR 0.24, 95 % confidential interval (CI) 0.09-0.68, P = 0.007] and 1-year mortality (OR 0.35, 95 % CI 0.21-0.56, P Conclusion:Combination of sorafenib and TACE showed survival and clinical benefits in patients with HCC, though enhanced morbidity.
+

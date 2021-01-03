@@ -1,0 +1,4 @@
+25247772
+2014 Nov 24
+A series of novel derivatives of 3-oxo-23-hydroxybetulinic acid was designed, synthesized, and evaluated for their antiproliferative activity against a panel of cancer cell lines (HL-60, BEL-7402, SF-763, HeLa, B16 and A375). The results indicated that majority of the derivatives exhibited more significant antitumor activity than the parent compound. In particular compound 10e showed the most potent activity with IC50 values of 5.85, 6.23 and 7.22 μM against B16, SF-763 and BEL-7402 cells, respectively. Furthermore, 10e inhibited tumor growth by 51.8% and 62.7% (w/w) in H22 and B16 xenograft mouse models, comparable to cyclophosphamide and 5-fluorouracil, respectively.
+3-Oxo-23-hydroxybetulinic acid; Antiproliferative activity; Antitumor activity; B16 melanoma; Chemical modification.

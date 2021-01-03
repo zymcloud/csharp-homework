@@ -1,0 +1,4 @@
+29788872
+2018
+Hepatocellular carcinoma (HCC) is one of the most common cancers worldwide, leading to the second most likely cause of cancer-related deaths. Medical imaging is crucial in clinic for HCC screening and diagnosis. Due to the relatively high special resolution and excellent sensitivity, magnetic resonance imaging (MRI) by using magnetic nanoparticle-based contrast agents has been used so far in HCC imaging and staging, demonstrating great potential and promising in vivo applications. This review focuses on the use of different magnetic nanoparticles for construction of HCC nanoprobes for MR imaging and theranostic purpose.
+MRI; Magnetic nanoparticle; cancer; diagnosis; hepatocellular carcinoma; molecular imaging..

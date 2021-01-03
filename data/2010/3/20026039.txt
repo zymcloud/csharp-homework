@@ -1,0 +1,4 @@
+20026039
+2010 Mar 10
+Saturated free fatty acids (FFAs), e.g. palmitate, have long been shown to induce toxicity and cell death in various types of cells. In this study, we demonstrate that cAMP synergistically amplifies the effect of palmitate on the induction of cell death in human hepatocellular carcinoma cell line, HepG2 cells. Elevation of cAMP level in palmitate-treated cells led to enhanced mitochondrial fragmentation, mitochondrial reactive oxygen species (ROS) generation and mitochondrial biogenesis. Mitochondrial fragmentation precedes mitochondrial ROS generation and mitochondrial biogenesis, and may contribute to mitochondrial ROS overproduction and subsequent mitochondrial biogenesis. Fragmentation of mitochondria also facilitated the release of cytotoxic mitochondrial proteins, such as Smac, from the mitochondria and subsequent activation of caspases. However, cell death induced by palmitate and cAMP was caspase-independent and mainly necrotic.
+

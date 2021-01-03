@@ -1,0 +1,4 @@
+31828143
+2019 Nov 7
+This paper aims to investigate the function of structural maintenance of chromosome 4 (SMC4) in the progression of hepatocellular carcinoma (HCC) under hypoxic condition. In this study, we found that suppression of SMC4 could inhibit proliferation and migration of HCC cells through inducing G1 phase arrest and affecting process of epithelial-mesenchymal transition (EMT) under hypoxic condition. Moreover, we demonstrated that SMC4 was transcriptionally regulated by hypoxia-inducible factor-1 (HIF-1) under hypoxic condition. As SMC has been shown to be a target gene of miR-219, we observed that miR-219 was downregulated under hypoxic condition and suppression of HIF-1a could lead to the upregulation of miR-219. We also proved that miR-219 could affect the proliferation and migration of HCC cells under hypoxic condition. In conclusion, our study demonstrated a novel HIF-1-miR-219-SMC4 regulatory pathway under hypoxic condition in HCC cells.
+

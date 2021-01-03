@@ -1,0 +1,4 @@
+32147273
+2020 May
+DNA methylation is one of the epigenetic mechanisms to regulate gene expression and frequently occurs in human cancer cells. T-cadherin (CDH13) is a new member of the cadherin superfamily and possesses multiple functions. Our study included 26 normal controls (NCs), 65 chronic hepatitis B patients (CHB), 14 liver cirrhosis patients (LC) and 157 hepatocellular carcinoma patients (HCC). We mainly focused on the mRNA expression and methylation status of CDH13 in peripheral blood mononuclear cells (PBMCs), which were detected by semi-quantitative real-time polymerase chain reaction (RT-qPCR) and methylation-specific polymerase chain reaction (MSP) respectively. The CDH13 mRNA level was lower in HCC, especially in early-stage of HCC than in NCs and CHB groups (p
+CDH13; HBV related hepatocellular carcinoma (HCC); Methylation; T-cadherin; mRNA.

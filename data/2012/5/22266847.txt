@@ -1,0 +1,4 @@
+22266847
+2012 May
+A new series of 4-aryl-4H-chromenes bearing a 5-arylisoxazol-3-yl moiety at the C-4 position were prepared as potential anticancer agents. The in vitro cytotoxic activity of the synthesized compounds was investigated against a panel of tumor cell lines including MCF-7 (breast cancer), KB (nasopharyngeal epidermoid carcinoma), Hep-G2 (liver carcinoma), MDA-MB-231 (breast cancer), and SKNMC (human neuroblastoma) using the MTT colorimetric assay. Doxorubicin, a well-known anticancer drug, was used as positive standard drug. Among the synthesized compounds, the 5-(3-methylphenyl)isoxazol-3-yl analog (7j) showed the most potent cytotoxic activity against all five human tumor cell lines.
+

@@ -1,0 +1,4 @@
+21815147
+2012 Jan
+Background and objectives:Nidogen-2 is a ubiquitous component of basement membrane (BM), which is modified by tumor cells to facilitate tumor invasion. However, the expression and function of nidogen-2 in hepatocellular carcinoma (HCC) remains unknown at present. In this study, we sought to investigate the potential role of nidogen-2 in HCC.Methods:Nidogen-2 expression in HCC tissues, cell lines, and serum was evaluated by immunohistochemistry, immunoassay, and real-time PCR assays. The regulation of nidogen-2 expression was investigated using doxycycline induction and small interfering RNA analyses.Results:Nidogen-2 was significantly decreased in both HCC tissues and serum (P Conclusions:These findings suggest that decreased expression of nidogen-2 may have a potential pathogenetic role in the development of HCC and may also have potential diagnostic value for HCC.
+

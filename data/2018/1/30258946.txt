@@ -1,0 +1,4 @@
+30258946
+2018 Jan 31
+CDV3 is correlated with tumorigenesis and may affect some biological process in cancer. In this study, we explore the role of CDV3 in HCC. According to the TCGA data base, CDV3 is over-expressed in HCC tissues. Up-regulation of CDV3 is correlated with lower over-all survival rate in HCC patients. In HCC samples from our hospital, CDV3 is also enriched in cancer tissues and CDV3 expression associated with HCC pathological T stage. What is more, higher CDV3 expression could forecast poor survival rate in HCC patients. In conclusion, CDV3 is a biomarker of HCC and could be a potential therapeutic target.
+Carnitine deficiency-associated gene expressed in ventricle 3(CDV3); Hepatocellular carcinoma (HCC); Prognostic value; The cancer genome Atlas (TCGA); Therapeutic biomarker.

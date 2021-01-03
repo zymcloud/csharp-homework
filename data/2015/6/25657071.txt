@@ -1,0 +1,4 @@
+25657071
+2015 Jun
+Delivering drugs selectively to cancer cells but not to nearby normal cells is a major obstacle in drug therapy. In this study, lithocholic acid (LCA), a potent anti-cancer drug, is converted to two forms of poly(ethyleneglycol) (PEG) conjugates, viz., PEG-LCA (PL) and lactobionic acid (LBA) conjugated PEG-LCA (LPL). The latter form contains a galactose ligand in LBA to target the hepatocytes. Both forms are self-assembled to form nanoparticle formulation, and they have high potency than LCA to kill HepG2 cancer cells, sparing normal LO2 cells. Besides, LPL has high specificity to mouse liver cells in vivo. Western blot results confirm that the cell death is occurred through apoptosis induced by LPL nanoparticles. In conclusion, the induction of apoptosis and cell death is much more efficient with LPL nanoparticles than LCA molecules.
+anti-cancer drugs; apoptosis; hepatocyte-specific; lithocholic acid; nanoparticles.

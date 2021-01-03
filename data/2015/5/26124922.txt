@@ -1,0 +1,4 @@
+26124922
+2015 May
+Hepatocellular carcinoma (HCC) is one of the most common malignances and the second leading cause of cancer related death worldwide. RASSF10 is located on chromosome 11p15.2, a region that shows frequent loss of heterozygosity (LOH) in several cancer types. Our previous study found that RASSF10 suppresses colorectal cancer growth by activating P53 signaling. To explore the epigenetic changes and the mechanism of RASSF10 in human HCC, 69 cases of primary HCC, twenty cases of normal liver tissue samples and 17 HCC cell lines were involved in this study. We found that RASSF10 was methylated in 82.6% (57/69) of human primary HCC and methylation of RASSF10 was significantly associated with tumor size (P
+DNA methylation; P53 signaling; RASSF10; epigenetics; hepatocellular carcinoma.

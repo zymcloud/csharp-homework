@@ -1,0 +1,4 @@
+23124338
+2012 Nov
+A natural furan derivative was isolated from the methanolic extract of the fruit bodies of Fomitiporia ellipsoidea. Its chemical structure was elucidated as methyl 3,5-dioxo- 1,3,5,7-tetrahydrobenzo[1,2-c:4,5-c']difuran-4-carboxylate by means of extensive NMR and MS data analysis, and named as fomitiporiaester A (1). Compound 1 showed significant antitumor activity to hepatoma H(22) in vivo, and the inhibition rates were 42.94%, 49.17%, and 58.15% at concentrations of 5, 10, and 20 mg/kg, respectively. Compound 1 showed weak cytotoxic activities against the human hepatoblastoma (HepG-2) and human oophoroma (Skov 3) cell lines with IC(50) values of more than 100 μM.
+

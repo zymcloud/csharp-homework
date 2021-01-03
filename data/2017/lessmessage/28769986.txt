@@ -1,0 +1,4 @@
+28769986
+2017
+Objective:Curcumin (diferuloylmethane) is a yellow-colored polyphenol with antiproliferative and proapoptotic activities to various types of cancer cells. This study explored the mechanism by which curcumin induces p53-null hepatoma cell apoptosis.Results:AKT, FOXO1, and FOXO3 proteins were downregulated after curcumin treatment. Conversely, PTEN was upregulated. Subcellular fractionations revealed that the FOXO4 protein translocated from cytosol into the nucleus after curcumin treatment. Overexpression of FOXO4 increases the sensitivity of Hep3B cells to curcumin. Knockdown of the FOXO4 gene by siRNA inhibits the proapoptotic effects of curcumin on Hep3B cell.Conclusions:This study revealed the AKT/PTEN/FOXO4 pathway as a potential candidate of target for treatment of p53-null liver cancers.
+

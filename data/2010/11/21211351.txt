@@ -1,0 +1,4 @@
+21211351
+2010 Nov 30
+Objective:To study the expression of non-coding RNA HULC in different tumor cell lines and its effects on the expression of neighboring genes.Methods:The expression levels of HULC were detected in different tumor cell lines. And the neighboring genes of HULC were searched by bioinformatics. Then its effects on the neighboring genes were examined by real-time polymerase chain reaction (PCR).Results:The expression levels of HULC RNA were detected in the 293T, EC9706, KYSE150, HCT116, SMMC-7721, HepG2, H446 and H1299 cell lines. Non-coding RNA HULC was specifically highly up-regulated in hepatocarcinoma cell line HepG2. Little coding genes existed around HULC gene (Conclusion:The specifically up-regulated non-coding gene HULC in HepG2 cell line has some effects on the expression of its neighboring gene SLC35B3.
+

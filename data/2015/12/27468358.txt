@@ -1,0 +1,4 @@
+27468358
+2015 Dec 22
+There are still controversies about the roles of microRNA-26a (miR-26a) in human malignancies, as it is a tumor suppressor in breast cancer, gastric cancer, and hepatocellular carcinoma, but is an oncogene in glioma and cholangiocarcinoma. Until now, the function of miR-26a in osteosarcoma remains largely elusive. Here, we found that miR-26a was downregualted in osteosarcoma tissues. Using in vitro and in vivo assays, we confirmed that miR-26a could inhibit the abilities of in vitro proliferation and suppress in vivo tumor growth in mouse model. Furthermore, we identified insulin-like growth factor 1 (IGF-1) as a novel and direct target of miR-26a and revealed that miR-26a exerted its tumor-suppressor function, at least in part, by inhibiting IGF-1 expression. These findings contribute to our understanding of the functions of miR-26a in osteosarcoma.
+

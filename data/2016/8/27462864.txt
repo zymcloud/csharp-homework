@@ -1,0 +1,4 @@
+27462864
+2016 Aug 30
+The abnormality of DNA methylation is one of the major epigenetic alterations in the human hepatocellular carcinoma (HCC). We have assessed the global genomic DNA methylation profiles in human HCC patients by using the Infinium Human Methylation27 BeadChip. A CpG loci of S100A8 was found to be significantly hypomethylated in HCC.Pooled meta-analysis of five validation public datasets demonstrated its methylation level was significantly lower for HCC compared to paired adjacent normal tissues. Quantitative pyrosequencing analysis also showed that the S100A8 methylation level was decreased in cancer tissues (31.90%±13.31%) than that in the paired adjacent normal tissues (65.33%±3.64%, p
+DNA methylation; S100A8; hepatocellular carcinoma; prognosis; pyrosequencing.

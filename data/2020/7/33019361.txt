@@ -1,0 +1,4 @@
+33019361
+2020 Jul
+Gene mutation prediction in hepatocellular carcinoma (HCC) is of great diagnostic and prognostic value for personalized treatments and precision medicine. In this paper, we tackle this problem with multi-instance multi-label learning to address the difficulties on label correlations, label representations, etc. Furthermore, an effective oversampling strategy is applied for data imbalance. Experimental results have shown the superiority of the proposed approach.
+

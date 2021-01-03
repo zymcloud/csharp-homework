@@ -1,0 +1,4 @@
+32270306
+2020 Apr 8
+Trillin is a constituent of total Trillium Tschonoskii Maxim (TTM), which is extracted from TTM and displayed anti-tumor effect in many tumor cell lines. However, the anti-tumor mechanism of trillin is still unclear. This study demonstrated that trillin could dramatically inhibit hepatoma carcinoma cell proliferation, induce apoptosis and decrease migration and invasion through suppressing phosphorylated STAT3 translocated to nucleus. Trillin could down-regulate Bcl-2 and Survivin, up-regulate cleaved PRAP, leading to dramatically apoptosis; trillin could also down-regulate MMP1, MMP2, MucI and VEGF, which displayed an inhibition effect on hepatocellular tumor cells invasion and development. The results of this study indicated the potential utility of trillin as a STAT3 inhibitor for the treatment of cancers.
+Apoptosis; Hepatoma carcinoma cell; STAT3; Trillin.

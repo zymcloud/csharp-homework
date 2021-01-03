@@ -1,0 +1,4 @@
+27705930
+2016 Dec 20
+Pyroptosis is a caspase-1 dependent programmed cell death, which is involved in the pathologic process of several kinds of cancers. Loss of caspase-1 gene expression has been observed in prostate and gastric cancers. However, the role of pyroptosis in human hepatocellular carcinoma (HCC) remains largely unknown. The aim of this study was to investigate the involvement of pyroptosis in the pathogenesis of HCC. Our study showed that pyroptosis was inhibited in HCC tissues and cells. Administration of berberine inhibited the viability, migration and invasion capacity of HepG2 cells through the induction of pyroptosis both in vitro and in vivo, which was attenuated by caspase-1 inhibitor Ac-YVAD-CMK. Conclusively, pyroptosis is involved in the pathogenesis of HCC, and may be a new neoplastic target for the treatment of HCC.
+berberine; caspase-1; hepatocellular carcinoma; pyroptosis.

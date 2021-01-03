@@ -1,0 +1,4 @@
+25486097
+2014 Dec 8
+U12, one of 20 derivatives synthesized from ursodeoxycholic acid (UDCA), has been found to have anticancer effects in liver cancer cell lines (SMMC-7721 and HepG2) and to protect normal liver cells from deoxycholic acid (DCA) damage (QSG-7701). Its anticancer mechanism was investigated using computer-aided network pharmacology and comparative proteomics. Results showed that its anti-malignancy activities were activated by mTOR/S6K1, cyclinD1/CDK2/4 and caspase-dependent apoptotic signaling pathways in hepatocellular carcinoma cells (HCC). The action of U12 may be similar to that of rapamycin. Animal testing confirmed that U12 exerted better anti-tumor activity than UDCA and had less severe side effects than fluorouracil (5-Fu). These observations indicate that U12 differs from UDCA and other derivatives and may be a suitable lead for the development of compounds useful in the treatment of HCC.
+

@@ -1,0 +1,4 @@
+29879430
+2018 Dec
+While MEF2 transcription factors are well known to cooperate in orchestrating cell fate and adaptive responses during development and adult life, additional studies over the last decade have identified a wide spectrum of genetic alterations of MEF2 in different cancers. The consequences of these alterations, including triggering and maintaining the tumorigenic process, are not entirely clear. A deeper knowledge of the molecular pathways that regulate MEF2 expression and function, as well as the nature and consequences of MEF2 mutations are necessary to fully understand the many roles of MEF2 in malignant cells. This review discusses the current knowledge of MEF2 transcription factors in cancer.
+Class IIa HDAC; MEF2A; MEF2B; MEF2C; MEF2D; P300.

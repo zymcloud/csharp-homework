@@ -1,0 +1,4 @@
+21318481
+2011 Feb
+Although prohibitin 1 (PHB) is known to be associated with tumors, there are few studies regarding the role of PHB in hepatocellular carcinoma. An earlier glycoproteomics study of ours showed that PHB is over-expressed in MHCC97-H cells, a highly metastatic liver cancer cell line, and can be captured by wheat germ agglutinin. In the present study, western blotting and reverse transcription-PCR experiments showed an approximately 2-fold up-regulation in the expression of PHB in MHCC97-H cells. However, PHB was not significantly up-regulated in MHCC97-L cells, a low-metastatic liver cancer cell line. When PHB was over-expressed in MHCC97-L cells, cell proliferation was inhibited by 35% and migration increased about 2-fold. The results of this study show that PHB is up-regulated in MHCC97-H cells and is associated with both proliferation and migration of liver cancer cells.
+

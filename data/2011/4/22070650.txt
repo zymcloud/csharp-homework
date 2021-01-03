@@ -1,0 +1,4 @@
+22070650
+2012 Apr
+The epidermal growth factor (EGF) pathway stimulates proliferation and differentiation of epidermal and epithelial tissues, and plays an important role in tumorigenesis. The association between EGF polymorphisms and cancer risk is controversial; thus, we performed this meta-analysis. Overall, 41 case-control studies with 9,779 cases and 15,932 controls were retrieved. We found that EGF +61A/G polymorphism increased overall cancer risk (G allele vs. A allele: OR=1.181, 95% CI=1.077-1.295, P(heterogeneity)
+

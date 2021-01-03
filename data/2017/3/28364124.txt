@@ -1,0 +1,4 @@
+28364124
+2017 Mar 31
+With the availability of potent antiviral therapies, complete suppression of hepatitis B virus (HBV) replication and total eradication of hepatitis C virus (HCV) can now be achieved. Despite these advances, hepatocellular carcinoma (HCC) still develops in a substantial proportion of cirrhotic patients, suggesting that host factors remain critical. Dysregulation of miRNAs is noted in many cancers, and circulating miRNAs can be readily assayed. In this study, we aimed to develop a circulating miRNA signature to assess the risk of HCC in cirrhotic patients. We first discovered that HBV- and HCV-related cirrhotic patients had distinguishable circulating miRNA profiles. A cohort of 330 cirrhotic patients was then compared against a cohort of 42 early HCC patients with complete remission. A score comprising 5 miRNAs and a binary etiology variable was established that was capable of differentiating between these two groups (AUC = 72.5%, P
+

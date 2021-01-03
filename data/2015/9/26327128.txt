@@ -1,0 +1,4 @@
+26327128
+2015 Sep 22
+Patients with hepatocellular carcinoma (HCC) are prone to folate deficiency (FD). Here we showed that, in cell line-specific manner, FD caused resistance to FD-induced oxidative stress and multi-drug resistance (MDR). This resistance was due to upregulation of glucose-regulated protein 78 (GRP78) and Survivin. Using siRNA and Epigallocatechin gallate (EGCG), we found that GRP78 and Survivin cooperatively conferred MDR by decreasing FD-induced ROS generation. Our data showed that FD increases GRP78 and Survivin, which serve as ROS inhibitors, causing MDR in HCC. We suggest that folate supplementation may enhance the efficacy of chemotherapy.
+GRP78; chemotherapy; folate; hepatoma; multi-drug resistance.

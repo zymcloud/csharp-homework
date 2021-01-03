@@ -1,0 +1,4 @@
+23635784
+2013 May
+The liver is a complex organ that requires multiple rounds of cell fate decision for development and homeostasis throughout the lifetime. During the earliest phases of organogenesis, the liver acquires a separate lineage from the pancreas and the intestine, and subsequently, the liver bud must appropriately differentiate to form metabolic hepatocytes and cholangiocytes for proper hepatic physiology. In addition, throughout life, the liver is bombarded with chemical and pathological insults, which require the activation and correct differentiation of adult progenitor cells. This Review seeks to provide an overview of the complex signaling relationships that allow these tightly regulated processes to occur.
+

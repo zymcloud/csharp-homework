@@ -1,0 +1,4 @@
+24434214
+2014 Jan 13
+Cbx4 is a polycomb group protein that is also a SUMO E3 ligase, but its potential roles in tumorigenesis remain to be explored. Here, we report that Cbx4, but not other members of the Cbx family, enhances hypoxia-induced vascular endothelial growth factor (VEGF) expression and angiogenesis in hepatocellular carcinoma (HCC) cells through enhancing HIF-1α sumoylations at K391 and K477 in its two SUMO-interacting motifs-dependent mechanisms and increasing transcriptional activity of HIF-1. The Cbx4 expression is significantly correlated with VEGF expression, angiogenesis, and the overall survival of HCC patients and also in subcutaneously and orthotopically transplanted mice HCC models. Collectively, our findings demonstrate that Cbx4 plays a critical role in tumor angiogenesis by governing HIF-1α protein.
+

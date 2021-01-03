@@ -1,0 +1,4 @@
+22182803
+2012 Jan 17
+Hepatocellular carcinoma (HCC) is one of the most common cancers worldwide. The limited treatment options and poor prognosis of HCC patients underscore the importance of developing new therapeutic strategies. Infection with HBV and HCV are the major risk factors for developing HCC. While the precise molecular mechanisms that link HBV and HCV infections to the development and progression of HCC are not entirely understood, increasing evidence indicates that stimulation of angiogenesis by these viruses may contribute to HCC malignancy. In this review, we summarize the progress in understanding the role of HBV and HCV infection in liver and HCC angiogenesis, the mechanisms applied by these viruses to deregulate the angiogenic balance and the potential therapeutic options that come with this understanding.
+

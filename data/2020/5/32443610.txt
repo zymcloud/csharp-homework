@@ -1,0 +1,4 @@
+32443610
+2020 May 18
+A series of chiral sulfonamides containing the 2-azabicycloalkane scaffold were prepared from aza-Diels-Alder cycloadducts through their conversion to amines based on 2-azanorbornane or the bridged azepane skeleton, followed by the reaction with sulfonyl chlorides. The cytotoxic activity of the obtained bicyclic derivatives was evaluated using human hepatocellular carcinoma (HCC), medulloblastoma (MB), and glioblastoma (GBM) cell lines. Chosen compounds were shown to notably reduce cell viability as compared to nonmalignant cells.
+2-azabicycloalkane; chiral sulfonamide; cytotoxic activity.

@@ -1,0 +1,4 @@
+26893439
+2016 Feb 19
+BACKGROUND We explored the relationship of interferon-γ (IFN-γ) and MHC class-I chain related gene A (MICA) genes polymorphisms with hepatocellular carcinoma (HCC) risk, and tried to determine whether the interaction existed between these two genes polymorphisms on the basis of HCC. MATERIAL AND METHODS Polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP) method was used to detect the genotypes of the 3 single-nucleotide polymorphisms (SNPs) and to analyze the correlation of each SNP with HCC susceptibility in 120 HCC patients and 124 healthy people. The association strength between the 3 SNPs and HCC is represented with odds ratio (OR) and 95% confidence interval (95% CI). Hardy-Weinberg equilibrium (HWE) was tested by χ2 test in the control group. RESULTS GG genotype of IFN-γ rs2069727 polymorphism had apparently different distributions in case and control groups (P
+

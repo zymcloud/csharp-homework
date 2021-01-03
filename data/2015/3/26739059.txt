@@ -1,0 +1,4 @@
+26739059
+2016 Mar 1
+CCT3 was one of the subunits of molecular chaperone CCT/TRiC complex, which plays a central role in maintaining cellular proteostasis. We demonstrated that expressions of CCT3 mRNA and protein are highly up-regulated in hepatocellular carcinoma (HCC) tissues, and high level of CCT3 is correlated with poor survival in cancer patients. In HCC cell lines, CCT3 depletion suppresses cell proliferation by inducing mitotic arrest at prometaphase and apoptosis eventually. We also identified CCT3 as a novel regulator of spindle integrity and as a requirement for proper kinetochore-microtubule attachment during mitosis. Moreover, we found that CCT3 depletion sensitizes HCC cells to microtubule destabilizing drug Vincristine. Collectively, our study suggests that CCT3 is indispensible for HCC cell proliferation, and provides a potential drug target for treatment of HCC.
+CCT3; Chaperonin; Hepatocellular carcinoma; Microtubule; Vincristine.

@@ -1,0 +1,4 @@
+31689787
+2019 Nov
+Hepatocellular carcinoma (HCC) is a lethal disease worldwide. In this study, we sought to explore the expression of insulin-like growth factor-1 receptor (IGF-1R) and its prognostic value in HCC.The expressions of IGF-1R mRNA and protein were estimated using quantitative real-time polymerase chain reaction and immunohistochemistry assays, respectively. The association between IGF-1R expression and clinicopathologic characteristic of patients with HCC was analyzed through Chi-squared test. Kaplan-Meier analysis and multivariate Cox analysis were performed to analyze prognostic value of IGF-1R in HCC.The IGF-1R was significantly upregulated in HCC tissues at both mRNA and protein levels compared with adjacent normal ones (P
+

@@ -1,0 +1,4 @@
+30844721
+2019 Mar 1
+The ubiquitously expressed multifunctional protein, CUEDC2 (CUE domain-containing 2), is involved in many physiological and pathological processes, including the cell cycle regulation and inflammation. Although it is known that CUEDC2 is expressed disparately in breast cancer, ovarian carcinoma, hepatocellular carcinoma, cholangiocarcinoma, glioma, lung adenocarcinoma, colon cancers, and is involved in the Warburg's effect, its role in oncogenesis remains to be further explored. In this review, we examine the expression of CUEDC2 in various tumors, and discuss several fundamental signaling pathways that are impacted by CUEDC2.
+

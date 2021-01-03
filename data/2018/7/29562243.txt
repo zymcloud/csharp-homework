@@ -1,0 +1,4 @@
+29562243
+2018 Jul 5
+Objective:To evaluate the clinical value of senescence marker protein 30 (SMP30) and anti-SMP30 antibody in serum.Methods:We used enzyme-linked immunosorbent assay (ELISA) to analytically validate serum levels of SMP30 and anti-SMP30 antibody in 143 patients with hepatocellular carcinoma (HCC), compared with those levels in serum from 137 patients with chronic hepatitis (CH), 51 with liver cirrhosis (LC), and 165 healthy control individuals.Results:The positivity rate of SMP30 in the HCC group (8.39%) was significantly higher than that rate in the CH group (.73%) and in the healthy control group (1.21%). The positivity rate for anti-SMP30 antibody in patients with HCC was 25.87%, that in the CH group was 4.38%, and that in the LC group was 3.92%.Conclusion:Anti-SMP30 antibody levels can be used as a biomarker for diagnosing HCC; marked results have been observed for patients with alpha-fetoprotein (AFP) negativity, in particular.
+

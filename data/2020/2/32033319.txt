@@ -1,0 +1,4 @@
+32033319
+2020 Feb 5
+Pancreatic cancer, hepatocellular carcinoma (HCC), and mesothelioma are treatment-refractory cancers, and patients afflicted with these cancers generally have a very poor prognosis. The genomics of these tumors were analyzed as part of The Cancer Genome Atlas (TCGA) project. However, these analyses are an overview and may miss pathway interactions that could be exploited for therapeutic targeting. In this study, the TCGA Pan-Cancer datasets were queried via cBioPortal for correlations among mRNA expression of key genes in the cell cycle and mitochondrial (mt) antioxidant defense pathways. Here we describe these correlations. The results support further evaluation to develop combination treatment strategies that target these two critical pathways in pancreatic cancer, hepatocellular carcinoma, and mesothelioma.
+cell cycle; genome; hepatocellular carcinoma; mesothelioma; mitochondria; pancreatic neoplasms; reactive oxygen species.

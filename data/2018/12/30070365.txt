@@ -1,0 +1,4 @@
+30070365
+2018 Dec
+We intraindividually compared the efficacy of magnetic resonance imaging (MRI) with extracellular contrast agents (ECA-MRI) and MRI with hepatobiliary agents (HBA-MRI) for the diagnosis of hepatocellular carcinoma (HCC) using the Liver Imaging Reporting and Data System (LI-RADS). Between November 2016 and November 2017, we enrolled 91 patients with chronic liver disease who underwent both ECA-MRI and HBA-MRI within a 1-month interval for a first detected hepatic nodule on ultrasound. In total, 117 observations (95 HCCs, 19 benign lesions, and 3 other malignancies; median size, 18 mm) were identified with surgical resection. Two observers assessed two MRIs based on LI-RADS v2017, with consensus by a third observer. We then compared the diagnostic performance of LR-5 according to LI-RADS and modified LI-RADS. ECA-MRI had higher sensitivity (77.9% versus 66.3%) and accuracy (82.1% versus 72.6%) than HBA-MRI in the LR-5 category (P
+

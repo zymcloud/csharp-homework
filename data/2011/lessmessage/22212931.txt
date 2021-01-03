@@ -1,0 +1,4 @@
+22212931
+2011
+Hepatocellular carcinoma (HCC) is the sixth most common cancer, and its mortality rate is the third highest after lung and colon cancer. Its incidence has significantly increased in the last two decades in close relation with the ubiquitous spread of viral hepatitis. HCC has a poor prognosis since less than 30% of newly diagnosed patients will be eligible for potential curative treatment. Molecular therapies such as sorafenib, a BRAF/ VEGFR/PDGFR tyrosine kinase inhibitor, have shown to improve survival in patients with advanced HCC. This recent success has spurred intensive research aimed at identifying aberrant activation of signaling pathways. This approach will probably aid to define previously unrecognized oncogenic addiction loops in HCC and in developing more effective targeted therapies.
+

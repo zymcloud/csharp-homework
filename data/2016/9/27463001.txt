@@ -1,0 +1,4 @@
+27463001
+2016 Sep 13
+Despite improvements in the diagnosis and treatment of hepatocellular carcinoma (HCC), the prognosis is still poor. Pioneering work has demonstrated a potential role for tumour cell-derived exosomes (TEXs) in HCC. TEXs can mediate immune responses, antigen presentation and intracellular communication by serving as vehicles for the transfer of proteins, viruses, lipids and RNA between cells. An improved understanding of the roles played by exosomes could lead to a powerful new strategy for preventing and treating HCC. In this review, we summarise current understanding on the topic. The literature points to two faces of TEXs in HCC: 1) They can promote invasion, metastasis, immune evasion and modulation and 2) they can act as diagnostic and prognostic biomarkers, and can be used in anti-cancer drug resistance and immunotherapy in the future.
+biomarker; exosomes; function; hepatocellular carcinoma.

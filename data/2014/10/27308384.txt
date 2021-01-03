@@ -1,0 +1,4 @@
+27308384
+2014 Oct 30
+In contrast to common genomic amplifications that support cancer cell growth by rewiring intracellular signaling, VEGFA amplification drives tumor cell proliferation via the tumor microenvironment. VEGFA amplification is present in a subset of mouse and human hepatocellular carcinomas (HCCs) that appear to be particularly sensitive to sorafenib treatment, indicating its potential value as a biomarker for HCC treatment.
+HCC; VEGFA; copy number variation; genomic amplification; macrophages; mouse model; sorafenib.

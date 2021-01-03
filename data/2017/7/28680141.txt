@@ -1,0 +1,4 @@
+28680141
+2017 Jul 5
+Emerging evidence show that long noncoding RNAs (lncRNAs) play critical roles in tumor development. LincRNA-ROR (linc-ROR) is known to promote tumor progress in several human cancers, including hepatocellular carcinoma (HCC). Nevertheless, the roles of linc-ROR in HCC metastasis and its underlying mechanisms remain fully unclear. In the present study, we showed that linc-ROR was upregulated in HCC tissues and high linc-ROR expression level predicted poor prognosis. Functionally, linc-ROR significantly induced epithelial-mesenchymal transition (EMT), and increased in vitro invasion and in vivo metastasis of HCC cells. Mechanistically, linc-ROR acted as a sponge for miR-145 to de-repress the expression of target gene ZEB2, thereby inducing EMT and promoting HCC metastasis. Collectively, our research indicates the potential of linc-ROR as a vital therapeutic target for the treatment of aggressive and metastatic HCC.
+

@@ -1,0 +1,4 @@
+30810894
+2020 Apr
+We conducted a meta-analysis on the impact of microRNA-133a (miR-133a) on digestive system cancers, and verified the results through The Cancer Genome Atlas (TCGA). Relevant studies were searched in English and Chinese database and meta-analysis was performed using Stata 12.0. The corresponding information of miR-133a and digestive system cancers were obtained from TCGA database and analysis was performed using SPSS. Increased miR-133a expression was linked with favorable overall survival (OS) in digestive system cancers (HR = 0.539, 95% CI: 0.416-0.698, P
+Digestive system Cancer; Meta-analysis; MicroRNA-133a; TCGA.

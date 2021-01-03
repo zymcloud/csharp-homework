@@ -1,0 +1,4 @@
+20448342
+2010 Apr
+Aminopeptidase N (APN)/CD13 is a widely expressed transmembrane protein and its altered expression has been detected in various cancer cells. Several APN inhibitors have been developed and some of them have been found to have effectiveness as anti-cancer agents. This article reports anti-cancer effects of a hydroxamic acid derivative 24F that was newly-synthesized as an APN inhibitor. 24F had the ability to inhibit the invasion of hepatocellular carcinoma (HCC) cell line HuH-7, although the growth of HuH-7 was not significantly inhibited at the analyzed concentrations of 24F and incubation times used. Furthermore, incubation of vascular endothelial cells with 24F was found to be effective for the suppression of the angiogenic phenomenon. These results suggest that the novel APN inhibitor 24F may work as an anti-cancer agent for HCC via inhibition of HCC cell invasion and angiogenesis.
+

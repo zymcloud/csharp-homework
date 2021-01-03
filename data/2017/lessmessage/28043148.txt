@@ -1,0 +1,4 @@
+28043148
+2017
+Hepatocellular carcinoma (HCC) is the third leading cause of cancer related death worldwide. Although great progress in diagnosis and management of HCC have been made, the exact molecular mechanisms remain poorly understood. The study aims to identify potential biomarkers for HCC progression, mainly at transcription level. In this study, chip data GSE 29721 was utilized, which contains 10 HCC samples and 10 normal adjacent tissue samples. Differentially expressed genes (DEGs) between two sample types were selected by t-test method. Following, the differentially co-expressed genes (DCGs) and differentially co-expressed Links (DCLs) were identified by DCGL package in R with the threshold of q
+EGR1 FOS.; LEF1; differential co-expression; hepatocellular carcinoma; transcription factor.

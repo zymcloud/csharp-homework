@@ -1,0 +1,4 @@
+32039450
+2020 Feb 28
+Aim:To explore the prognostic value of clusterin (CLU) in hepatocellular carcinoma (HCC) patients treated with oxaliplatin (OXA).Methods:Relative expression of plasma CLU mRNA was examined via fluorescence quantitative real-time PCR (qRT-PCR), and CLU protein level in tissue samples was detected through immunohistochemistry. Chi-square test was used to analyze the relationship between CLU mRNA expression and clinical features of HCC patients treated with OXA. Kaplan-Meier method was performed to assess overall survival for the patients, and prognostic value of CLU in HCC patients was estimated via Cox regression analysis.Results:CLU expression in plasma and tissue specimens was significantly higher among HCC patients than in non-malignant controls (P Conclusion:CLU may be a novel prognostic marker for HCC patients treated with OXA.
+Clusterin; Hepatocellular carcinoma; Oxaliplatin resistance.

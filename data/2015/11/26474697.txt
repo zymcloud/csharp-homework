@@ -1,0 +1,4 @@
+26474697
+2015 Nov 27
+Recent studies have shown that miR-506 plays important roles in human cancer progression. However, little is known about the function of miR-506 in hepatocellular carcinoma (HCC). In this study, we found that miR-506 significantly inhibits HCC cell proliferation in vitro and tumorigenicity in vivo. Moreover, miR-506 induced G1/S cell cycle arrest and apoptosis in HCC cells. Rho-associated protein kinase 1(ROCK1) was identified as a novel target of miR-506; overexpression of ROCK1 reversed the suppressive effects of miR-506 in HCC cells. Additionally, ROCK1 was found up-regulated and inversely correlated with miR-506 in HCC tissues. Therefore, our findings collectively suggest that miR-506 acts as a tumor suppressor via regulation of ROCK1 expression and may thus be a promising therapeutic target for HCC.
+Hepatocellular carcinoma; ROCK1; Tumor suppressor; miR-506.

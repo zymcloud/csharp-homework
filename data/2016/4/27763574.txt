@@ -1,0 +1,4 @@
+27763574
+2017 Apr
+Introduction:Some studies suggested an increased risk of hepatocellular carcinoma (HCC) risk in subjects with prediabetes, whereas other studies have reported negative results. Therefore, we did this meta-analysis to assess the role of prediabetes on HCC risk.Evidence acquisition:We searched studies from PubMed, Embase, and Web of Science databases. The strength of association between prediabetes and HCC risk was assessed by calculating hazard ratio (HR) with 95% CI.Evidence synthesis:A total of 8 cohort studies and 1 case-control study with 1384594 individuals were included. Patients with prediabetes showed an increased HCC risk (HR=1.21; 95% CI, 1.13-1.30; PConclusions:In conclusion, this meta-analysis demonstrated that prediabetes might be a risk factor of HCC.
+

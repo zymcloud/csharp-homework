@@ -1,0 +1,4 @@
+21402545
+2011 Apr 1
+A recent genome-wide study showed that the single nucleotide polymorphisms (SNPs) in the HLA-DP region were associated with chronic hepatitis B virus (HBV) infection in Japanese and Thai persons. We tested the effects of HLA-DP SNPs for all major HBV outcomes in Han Chinese (n = 1742): HBV resistance, clearance, chronic infection, cirrhosis, and hepatocellular carcinoma. HLA - DPA1 rs3077 T was strongly associated with decreased risk of chronic HBV infection (odds ratio, .62; P = .001), consistent with the previous report. We showed for the first time to our knowledge that it is a predictor for HBV clearance (odds ratio, 2.41; P
+

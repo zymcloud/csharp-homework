@@ -1,0 +1,4 @@
+20578260
+2010 Jul
+The association between the overexpression of aspartyl-(asparaginyl)-beta-hydroxylase (AAH) and the invasiveness of hepatocellular carcinoma (HCC) in vitro has been reported. However, the prognostic value of AAH expression in HCC remains unclear. The purpose of this study was to investigate the relationship between AAH expression, tumor recurrence, and patient survival. We identified AAH as the most overexpressed gene in HCC by way of complementary DNA microarray hybridization. A prospective study of 233 patients undergoing curative resection indicated that AAH expression was an independent factor affecting recurrence (hazard ratio [HR] 3.161, 95% confidence interval [CI] 2.115-4.724, P Conclusion:AAH overexpression in HCC is strongly correlated with worse surgical outcome, and this molecule likely provides a more precise prognostic predictor in early stage HCCs.
+

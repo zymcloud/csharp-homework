@@ -1,0 +1,4 @@
+21130904
+2011 Apr
+This paper demonstrates a general approach for fabrication of lactobionic chitosan microcapsules using layer-by-layer assembly via click chemistry. Chitosan was selectively modified with either azide (CHI-Az) or alkyne (CHI-Alk) groups. The growth of the CHI-Az/CHI-Alk click multilayer was studied experimentally by multilayer assembly on planar supports. Linear buildup of the film was observed. The chitosan click capsules were also analyzed with confocal laser scanning microscopy and transmission electron microscopy. Capsules were found to have regular spherical shapes. In addition, (CHI-Az/CHI-Alk)-coated particles were modified with fluorescein isothiocyanate to ensure that the particles can be easily post-functionalized. Finally, lactobionic acid was conjugated onto the (CHI-Az/CHI-Alk)-coated particles and the lactobionic particles exhibited hepatoma cell (HepG2) targeting behavior.
+

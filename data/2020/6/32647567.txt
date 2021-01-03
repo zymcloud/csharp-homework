@@ -1,0 +1,4 @@
+32647567
+2020 Jun 29
+Hepatocellular carcinoma (HCC) is one of the most common liver malignancies and is a leading cause of cancer-related deaths. Most HCC patients are diagnosed at an advanced stage and current treatments show poor therapeutic efficacy. It is particularly urgent to explore early diagnosis methods and effective treatments of HCC. There are a growing number of studies that show GOLM1 is one of the most promising markers for early diagnosis and prognosis of HCC. It is also involved in immune regulation, activation and degradation of intracellular signaling factors and promotion of epithelial-mesenchymal transition. GOLM1 can promote HCC progression and metastasis. The understanding of the GOLM1 regulation mechanism may provide new ideas for the diagnosis, monitoring and treatment of HCC.
+GOLM1; diagnosis; hepatocellular carcinoma; immune system; prognosis.

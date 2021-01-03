@@ -1,0 +1,4 @@
+23677479
+2013 Jul
+Basic fibroblast growth factor (bFGF) plays an important role in tumor angiogenesis. Several studies have reported that bFGF may influence cell apoptosis through different signaling pathways. The aim of the present investigation was to study the effect of bFGF on the activities of protein kinase B (PKB)/survivin and cell apoptosis in hepatocellular carcinoma cells (Bel-7402). We treated Bel-7402 cells with bFGF and wortmannin [phosphatidylinositol 3-kinase (PI3K)-specific inhibitor] separately to observe the expression of PKB and survivin detected with RT-PCR and western blotting. The cell cycle and apoptosis were assayed with flow cytometry. We found a significant increase in PKB expression in the group treated with 25 ng/ml bFGF for 10 min (P
+

@@ -1,0 +1,4 @@
+26676821
+2015 Nov
+During the past decade, the application of genomic analysis to liver tumors has provided extensive data concerning tumor phenotypes, signatures, outcomes, and prognosis. In this report the authors describe a middle-aged man without known risk factors for liver disease or hepatocellular carcinoma (HCC) who developed a 19-cm HCC in his right lobe. The underlying liver was normal histologically except for multifocal glycogenotic foci similar to those found in experimental chemical carcinogenesis. Precision genomic analysis of this tumor disclosed five alterations with amplifications of genes CCNE1, FGF3 and FGF4, MYCL1, and ARID1A. The roles of these gene mutations and their potential effects in carcinogenesis in this case are discussed.
+

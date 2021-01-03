@@ -1,0 +1,4 @@
+30956277
+2019 Apr 8
+BACKGROUND The aim of this study was to assess the ability of polyethylenimine (PEI) as an E1A plasmid vector to transfect hepatocellular carcinoma SMMC-7721 cells and to analyze the sensitization effect of E1A on various anti-tumor drugs. MATERIAL AND METHODS PEI-mediated recombinant plasmid psv-E1A with high expression of the E1A gene was introduced into hepatocellular carcinoma SMMC-7721 cells, and the effective transfection of E1A gene was determined by RT-PCR and Western blot analysis. The CCK8 method was used to detect the proliferation inhibition of docetaxel, epirubicin, gemcitabine, and 5-fluorouracil on SMMC-7721 cells before and after the transfection of the E1A gene. RESULTS RT-PCR and Western blot analysis showed that PEI could transfect plasmid psv-E1A with stable expression. After the transfection of E1A gene, the sensitivity of SMMC-7721 cells to docetaxel, epirubicin, gemcitabine, and 5-fluorouracil was increased (P
+

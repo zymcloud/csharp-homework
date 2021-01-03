@@ -1,0 +1,4 @@
+26596183
+2015 Dec
+Synergy between yttrium-90 (90Y) and antineoplastic drugs was investigated. Viability of HepaRG (hepatocellular carcinoma) and HuCCT1 (cholangiocarcinoma) cells was studied through a tetrazolium dye reduction assay. A combination index (CI) was calculated, with CI 1 denoting antagonism. In HepaRG cells, gemcitabine showed synergy with 90Y (CI = 0.70 [95% confidence interval = 0.65-0.75]), whereas oxaliplatin (CI = 1.15 [1.08-1.21]), paclitaxel (CI = 1.26 [1.15-1.37]), and sorafenib (CI = 1.77 [1.65-1.89]) showed antagonism. In HuCCT1 cells, gemcitabine (CI = 0.54 [0.50-0.58]) and oxaliplatin (CI = 0.86 [0.82-0.90]) showed synergy with 90Y, whereas paclitaxel (CI = 1.18 [1.09-1.27]) and sorafenib (CI = 1.21 [1.12-1.30]) showed antagonism. These results suggest that gemcitabine and oxaliplatin should be tested in combination with 90Y radioembolization for treatment of liver cancer.
+

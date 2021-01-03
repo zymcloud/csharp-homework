@@ -1,0 +1,4 @@
+31211229
+2019 May 13
+Hepatocyte-specific knockout of the essential autophagy gene Autophagy-related 7 (Atg7) is sufficient to cause hepatic carcinogenesis. A recent paper by Lee et al. unveils the molecular pathway accounting for hepatic hypertrophy and hyperplasia followed by malignant transformation. This pathway involves the overactivation of the transcription factor yes-associated protein (YAP), which turns out to be an autophagic substrate. Of note, the transcriptional signature activated in mouse hepatocytes lacking Atg7 resembles that found in non-alcoholic steatohepatitis (NASH), as well as in the steatohepatitic subtype of human hepatocellular carcinomas.
+Age-related disease; NK cells; cytotoxic T cells; immunosenescence; senescence.

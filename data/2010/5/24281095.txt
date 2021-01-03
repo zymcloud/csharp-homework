@@ -1,0 +1,4 @@
+24281095
+2010 May 7
+Hepatocellular carcinoma (HCC) is the third most common cause of cancer mortality worldwide. Although most HCCs seem to originate from the accumulation of genetic abnormalities induced by various risk factors, underlying mechanisms of hepatocarcinogenesis remain unclear. Long-term survival of HCC patients is also poor, partly due to HCC recurrence. Although serum alpha-fetoprotein (AFP) level is a useful marker for the detection and monitoring of HCC, AFP levels may remain normal in the patients even with advanced HCC. To identify useful biomarkers for HCC, many studies have been conducted on molecular events such as genetic and epigenetic alterations, and gene expression. This review summarizes recent studies of potential molecular markers for diagnosis and monitoring metastasis or recurrence of HCC.
+

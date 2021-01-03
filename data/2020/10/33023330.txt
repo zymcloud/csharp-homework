@@ -1,0 +1,4 @@
+33023330
+2020 Oct 6
+In this study, we explored the expression profile of lncRNA in HCC tumor tissues and paracancerous tissues using microarray assays. Furthermore, a new lncRNA (lnc-ATG9B-4) was identified, which was about 3.5 times more expressed in tumor tissues than in paracancerous tissues. Through clinicopathological analysis, lnc-ATG9B-4 was determined to be related to the tumorous size, TNM stages, portal vein tumor thrombus (PVTT), the tumor capsule, metastasis, and the degree of differentiation. Lnc-ATG9B-4 promoted the proliferation, invasion, as well as migration of the HCC cells by upregulating the expression of CDK5. Here, we further exploited the molecular mechanisms of lnc-ATG9B-4 to screen new drug intervention targets for recurrence and metastasis of HCC.
+CDK5; Long noncoding RNA; hepatocellular carcinoma; lnc-ATG9B-4; metastasis; proliferation.

@@ -1,0 +1,4 @@
+23525048
+2013 Mar 22
+The original version of the paper reports that "OGX-011 is a second generation 21-mer oligonucleotide with a 20-O-(2-methoxy)-ethyl modification, generously provided by OncoGenex Technologies (OncoGenex, Vancouver, Canada)" [1] (p. 10602). OGX-011 was not provided by OncoGenex Technologies directly. Therefore, we would like to correct the wording to: "OGX-011 was obtained without the benefit of an agreement with OncoGenex, or The University British Columbia, or any other party". The authors would like to apologize for any inconvenience this may have caused to the readers of this journal.
+

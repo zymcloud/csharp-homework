@@ -1,0 +1,4 @@
+21110890
+2010 Nov 27
+Background:This study was conducted to investigate the expression of CXCR4 in portal vein tumor thrombus (PVTT) tissue and its possible role in the invasiveness of tumor thrombus cells.Methods:We detected differential expression of CXCR4 between PVTT and hepatocellular carcinoma (HCC) by an immunohistochemical assay. Lentivirus-mediated RNA interference and a migration assay were performed on human primary cells derived from PVTT to study the impact of CXCR4 on the invasiveness of HCC.Results:The expression of CXCR4 in tumor thrombus tissue was higher than that in HCC tissue. The invasion ratio of PVTT cells was significantly decreased (P Conclusions:These results indicate that CXCR4 is an effective curative target for hepatocellular carcinomas with PVTT.
+

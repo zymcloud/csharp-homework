@@ -1,0 +1,4 @@
+24116172
+2013 Oct 8
+Although the CD90 (Thy-1) was proposed as biomarker of several tumors and cancer stem cells, the involvement of this molecule in the progression of hepatocellular carcinoma (HCC) and other less frequent hepatic neoplasms is still undefined. The distribution of CD90 was investigated both in in vivo (human tissues samples) and in vitro (human HCC cell line JHH-6). A total of 67 liver tumors were analyzed: 51 HCC, 6 cholangiocarcinoma and 10 hepatoblastoma. In all cases, paired tissue sample of both the tumor and cirrhotic liver was available. Hepatic tissue obtained in 12 healthy livers was used as control. CD90 gene expression was studied by RT-qPCR, protein expression was assessed by quantitative Western Blot, immunofluorescence and flow cytometry. The CD90 expression analysis showed a significant increment in tumor compared to both its paired cirrhotic tissue and normal liver (p
+

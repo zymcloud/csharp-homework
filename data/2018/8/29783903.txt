@@ -1,0 +1,4 @@
+29783903
+2018 Aug
+Hepatocellular carcinoma (HCC) is the most common primary malignancy of the liver accounting for approximately 90% of cases. Patients often present at an advanced stage when treatment options are limited. Sorafenib, a multitargeted tyrosine kinase inhibitor, has been the first-line treatment in this setting for almost a decade. Several subsequent targeted therapies have failed to demonstrate significant improvement in survival. The results of the REFLECT study suggest that lenvatinib, a multikinase inhibitor, may have promised as a first-line treatment in patients with advanced HCC. This article will review the development of lenvatinib and the evidence behind its potential use in patients with advanced HCC.
+REFLECT; drug development; hepatocellular carcinoma; lenvatinib; multikinase inhibitor; pharmacokinetics; sorafenib.

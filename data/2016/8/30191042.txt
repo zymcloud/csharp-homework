@@ -1,0 +1,4 @@
+30191042
+2016 Aug
+Hepatocellular carcinoma (HCC) is a leading cause of cancer deaths worldwide, and advanced HCC generally caries a poor prognosis. The treatment of advanced disease is limited to sorafenib, which provides only a limited improvement in survival, and novel therapies are, thus, sorely needed. Among emerging alternative approaches, immune checkpoint inhibitors are a particularly promising treatment modality. In this review, we summarize current knowledge of the mechanisms for the two primary targets of immune checkpoint inhibitors and discuss the relevance of these pathways to the immunology of HCC. We also review the state of ongoing and forthcoming trials of immune checkpoint blockade in HCC.
+hepatocellular carcinoma; immunotherapy; sorafenib.

@@ -1,0 +1,4 @@
+28430597
+2017 May 23
+The systemic inflammation response index (SIRI) is a useful tool for predicting prognosis in some types of cancer. In this retrospective study, we evaluated the efficacy of SIRI in predicting overall survival in hepatocellular carcinoma (HCC) patients following local or systemic therapy. A cutoff value of 1.05 was identified for SIRI using ROC analysis in a training patient cohort. In the validation cohort, survival analysis revealed that median overall survival was longer in HCC patients with SIRI scores
+hepatocellular carcinoma; local therapy; survival; systemic inflammation response index; systemic therapy.

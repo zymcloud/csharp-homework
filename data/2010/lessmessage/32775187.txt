@@ -1,0 +1,4 @@
+32775187
+2010
+Gankyrin, a newly defined oncoprotein also known as PSMD10 and P28, functions as a dual-negative regulator of the two most prominent tumor suppressor pathways, the CDK/pRb and HDM2/P53 pathways. Its aberrant expression has been prevalently found in human hepatocellular carcinomas (HCC) and esophagus squamous cell carcinomas (ESCC), indicative of the potential of gankyrin as a rational diagnostic and therapeutic target in cancers. Here, we review the unique structural features and functional diversity of gankyrin, and discuss its implication in cancer diagnostics and therapeutics from the perspective of chemical biology.
+Structure and function; cancer; gankyrin; oncoprotein.

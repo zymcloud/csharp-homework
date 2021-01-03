@@ -1,0 +1,4 @@
+23433602
+2013 May 20
+Trichinella spiralis infection confers effective resistance to tumor cell expansion. In this study, a T7 phage cDNA display library was constructed to express genes encoded by T. spiralis. Organic phase multi-cell screening was used to sort through candidate proteins in a transfected human chronic myeloid leukemia cell line (K562) and a human hepatoma cell line (H7402) using the display library. The protein encoded by the A200711 gene was identified and analyzed using protein analysis software. To test the antitumor effects of A200711, variations in cell proliferation and apoptosis were monitored after recombinant pEGFP-N1-A200711 was transfected into H7402 cells. The results show that the expressed target gene successfully induced apoptosis in H7402 cells as measured by Hoechst-PI staining, MTT assay (p
+

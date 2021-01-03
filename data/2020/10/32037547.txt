@@ -1,0 +1,4 @@
+32037547
+2020 Oct
+Hepatocellular carcinoma (HCC) is a lethal malignancy worldwide. HCC has traits of late diagnosis and high recurrence. This study explored potential diagnosis and prognosis significance of phospholipase C epsilon 1 (PLCE1) in HCC. The messenger RNA (mRNA) levels and diagnostic value of PLCE1 were determined by real-time polymerase chain reaction and online databases GEPIA, oncomine, and GSE14520 data set. Survival analysis used the Kaplan-Meier Plotter website. Cell cycle, proliferation, migration, and invasion assays were performed with downregulated PLCE1 expression in HCC-M and HepG2 cell lines. PLCE1 was differentially expressed and highly expressed in tumors and had low expression in nontumor tissues (all p 0.7). PLCE1 mRNA expression was associated with the overall and relapse-free survival (both p
+PLCE1; biomarker; diagnosis; hepatocellular carcinoma; oncogene; prognosis.

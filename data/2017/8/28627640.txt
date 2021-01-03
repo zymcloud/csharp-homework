@@ -1,0 +1,4 @@
+28627640
+2017 Aug
+MicroRNAs are short RNAs that play a crucial role in all biological processes through post-transcriptional regulation for protein-coding genes and inducing mRNA degradation. Hepatitis B virus infection has been considered as a major risk factor in hepatocellular carcinoma, further research indicates that hepatitis B virus X protein (HBx) is one of the critical links of hepatocarcinogenesis. HBx takes part in hepatocarcinogenesis via regulating transcription, signal transduction, apoptosis, protein degradation and DNA repair. miRNA is the important target gene of HBx, their interaction impacts many tumor processes, such as proliferation, apoptosis, invasion, metastasis, differentiation and adipogenesis. In the present study we reviewed the current state of knowledge of regulation pathway of HBx acting on miRNAs, and focused on the role of their interplay in hepatocarcinogenesis.
+

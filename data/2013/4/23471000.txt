@@ -1,0 +1,4 @@
+23471000
+2013 Apr
+Stress response mechanisms that modulate the dynamics of tRNA degradation and accumulation from the cytoplasm to the nucleus have been studied in yeast, the rat hepatoma and human cells. In the current study, we investigated tRNA degradation and accumulation in HeLa cells under various forms of stress. We found that initiator tRNA(Met) (tRNA(iMet)) was specifically degraded under heat stress. Two exonucleases, Xrn1 and Xrn2, are involved in the degradation of tRNA(iMet) in the cytoplasm and the nucleus, respectively. In addition to degradation, we observed accumulation of tRNA(iMet) in the nucleus. We also found that the mammalian target of rapamycin (mTOR), which regulates tRNA trafficking in yeast, is partially phosphorylated at Ser2448 in the presence of rapamycin and/or during heat stress. Our results suggest phosphorylation of mTOR may correlate with accumulation of tRNA(iMet) in heat-treated HeLa cells.
+

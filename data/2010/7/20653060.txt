@@ -1,0 +1,4 @@
+20653060
+2010 Jul 28
+Aim:To clarify the association of glypican-3 (GPC3) expression with Wnt and other growth signaling molecules in hepatocellular carcinoma (HCC).Methods:Expression of GPC3, Wnt, matrix metalloproteinases (MMPs), sulfatase (SULF)1, SULF2, and other growth signaling molecules was analyzed in HCC cell lines and tissue samples by real-time reverse transcription-polymerase chain reaction, immunoblotting, and/or immunostaining. Expression of various genes in GPC3 siRNA-transfected HCC cells was analyzed.Results:GPC3 was overexpressed in most HCCs at mRNA and protein levels and its serum levels were significantly higher in patients with HCC than in non-HCC subjects (P Conclusion:These results suggest that GPC3, in conjunction with MMPs and growth signaling molecules, might play an important role in the progression of HCC.
+

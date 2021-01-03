@@ -1,0 +1,4 @@
+29862272
+2018 May 15
+MicroRNAs play significant roles in the development of cancer and may serve as promising therapeutic targets. In our previous work, miR-219-5p was identified as one of the important metastasis-related microRNAs in HCC. Here we demonstrated that miR-219-5p expression was elevated in HCC tissues and was associated with vascular invasion and dismal prognosis. In multivariate analysis, miR-219-5p was identified as an independent prognostic indicator for HCC patients. Functional mechanism analyses showed that miR-219-5p promoted HCC cell proliferation and invasion in in vitro, as well as in vivo, tumor growth and metastasis in nude mice models bearing human HCC tumors. In addition, cadherin 1 (CDH1) was revealed to be a downstream target of miR-219-5p in HCC cells. In conclusion, miR-219-5p promotes tumor growth and metastasis of HCC by regulating CDH1 and can serve as a prognostic marker for HCC patients.
+

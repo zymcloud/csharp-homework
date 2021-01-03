@@ -1,0 +1,4 @@
+29522715
+2018 Apr 6
+Hepatocellular carcinoma (HCC) contributes to cancer-related deaths greatly every year in the world. However, there is still no radical method for HCC treatment. Here we screened out a lncRNA FABP5P3 that was up-regulated in HCC tissues. Patients with higher FABP5P3 expression displayed poorer survival rate. FABP5P3 depletion in HCC cell lines and sample cells remarkably inhibited the abilities of proliferation, migration and invasion. In mechanism, we showed that FABP5P3 bond to miR-589-5p which served as a tumor suppressor. MiR-589-5p targeted directly the mRNA of ZMYND19 whose function has not been defined in HCC. FABP5P3 promoted HCC development and progression by sponging miR-589-5p and up-regulating ZMYND19 expression. In sum, we showed that FABP5P3/miR-589-5p/ZMYND19 axis regulates cell proliferation and migration in HCC, which may serve as a new target for HCC treatment.
+FABP5P3; Migration; Proliferation; ZMYND19; miR-589-5p.

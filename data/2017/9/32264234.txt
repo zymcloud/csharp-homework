@@ -1,0 +1,4 @@
+32264234
+2017 Sep 28
+Chemotherapy is the most common therapeutic strategy for the treatment of unresectable hepatocellular carcinoma. However, the therapeutic efficacy is limited by the low delivery efficiency of chemotherapeutics and severe toxicity towards healthy tissues. To address these challenges, active-targeting mesoporous silica nanoparticles conjugating a platinum(iv) prodrug were developed as a therapy for liver cancer for the first time. Taking advantage of liver-targeting lactobionic acid (LA), the smart nano-carriers not only enhanced the circulation time, but also effectively concentrated at the liver tumor site. Moreover, the conjugated platinum(iv) could be reduced in the reductive tumor environment for the fast release of active platinum(ii). The novel targeting and self-responsive drug-loading system offers new prospects for liver cancer chemotherapy.
+

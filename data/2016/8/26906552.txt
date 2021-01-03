@@ -1,0 +1,4 @@
+26906552
+2016 Aug
+Dysregulation of Hippo-Yes-associate protein (YAP) signaling has important roles in the tumorigenesis of hepatocellular carcinoma (HCC). Our previous studies have shown that Cip1 interacting zinc finger protein 1 (CIZ1) activated YAP signaling in the HCC cells and promoted the growth and migration of cancer cells. However, the mechanisms for the activation of YAP signaling by CIZ1 are unknown. In this study, it was found that CIZ1 interacted with the transcriptional factor YAP in HCC cells. The nuclear matrix anchor domain of CIZ1 is responsible for its interaction with YAP. Moreover, CIZ1 enhanced the interaction between YAP and TEAD. Knocking down the expression of CIZ1 impaired the transcriptional activity as well as the biological functions of YAP. Taken together, our study demonstrated that CIZ1 is a positive regulator of YAP signaling, and CIZ1 might be a therapeutic target for HCC.
+CIZ1; Cell growth and migration; HCC; YAP.

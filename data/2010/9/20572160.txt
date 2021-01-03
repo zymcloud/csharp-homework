@@ -1,0 +1,4 @@
+20572160
+2010 Sep
+Ezrin is known to regulate cellular survival, adhesion, migration, and invasion and has been identified as one of the key components of tumor progression and metastasis. The authors investigated ezrin expression in human hepatocellular carcinoma (HCC) and sought to determine its relation with clinicopathologic parameters, patients' outcome, and interacting molecular markers. Ezrin expression was assessed by immunohistochemical staining in 100 surgically resected HCCs using the tissue microarray method. A total of 28 HCCs showed high ezrin immunoreactivity, mainly in cytoplasm. Ezrin expression exhibited a positive correlation with c-Met expression (P = 0.001), but showed no correlation with the expression of CD44s or E-cadherin. HCCs expressing high level of ezrin were significantly associated with advanced TNM stage, poor Edmondson's histological grade, macroscopic portal vein invasion, tumor recurrence, and extrahepatic recurrence (P
+

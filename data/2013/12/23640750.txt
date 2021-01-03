@@ -1,0 +1,4 @@
+23640750
+2013 Dec
+It is well accepted that cell cycle regulators are strongly implicated in the progression of cancer development. p16 and p27 are potent cyclin-dependent kinase (CDK) inhibitors involved in G1 phase progression, and are regarded as adverse prognostic biomarkers for various types of cancers. It has been reported that the main mechanism for p16 inactivation is aberrant DNA methylation, while p27 is exclusively inactivated by proteasome-mediated protein degradation. We have found that p27 is decreased in around half of hepatocellular carcinomas (HCCs), and in some cases p27 is inactivated by inappropriate interaction with cyclin D1/CDK4 complexes. In such cases, p16 is concomitantly inactivated through DNA methylation. Taking into consideration the complex interaction between p16 and p27, a comprehensive analysis including p16 and p27 would be useful for predicting the prognosis of HCC patients.
+

@@ -1,0 +1,4 @@
+22724545
+2013 Mar
+Phytochemical study on the methanol extract of the fruit bodies of Vietnamese fungus Daldinia concentrica has led to the isolation and structural elucidation of three cytotoxic constituents, 6,8-dihydroxy-3-methyl-3,4-dihydroisocoumarin (1), (22R)-hydroxylanosta-7,9(11),24-trien-3-one (2) and ergosterol (3). Their structures were elucidated by 2D-NMR and FT-ICR-MS. All the three compounds showed moderate cytotoxicity against four cancer cells, KB (a human epidermal carcinoma), MCF7 (human breast carcinoma), SK-LU-1 (human lung carcinoma) and HepG2 (hepatocellular carcinoma). In addition, the isocoumarin (1) inhibited the growth of Staphylococcus aureus with the IC50 value of 87.81 µg mL(-1).
+

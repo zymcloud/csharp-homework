@@ -1,0 +1,4 @@
+23817040
+2013 Jul 26
+Apoptosis and autophagy are crucial mechanisms regulating cell death, and the relationship between apoptosis and autophagy in the liver has yet to be thoroughly explored. TIGAR (TP53-induced glycolysis and apoptosis regulator), which is a p53-inducible gene, functions in the suppression of ROS (reactive oxygen species) and protects U2OS cells from undergoing cell death. In this study, silencing TIGAR by RNAi (RNA interference) in HepG2 cells down-regulated both TIGAR mRNA (∼75%) and protein levels (∼80%) and led to the inhibition of cell growth (P
+Apoptosis; Autophagy; HCC; Hepatocellular carcinoma; RNA interference; RNAi; ROS; TIGAR; TP53-induced glycolysis and apoptosis regulator; hepatocellular carcinoma; reactive oxygen species; siRNA; siRNA for TIGAR; siTIGAR; small interference RNA.

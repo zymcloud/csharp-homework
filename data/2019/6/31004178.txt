@@ -1,0 +1,4 @@
+31004178
+2019 Jun
+Previous epidemiological studies have suggested a link between high-cholesterol intake and liver disease progression, including hepatocellular carcinoma (HCC). However, the precise mechanism of hepatotoxicity and hepatocarcinogenesis caused by excessive cholesterol consumption remains unclear. We aimed to investigate the impact of dietary cholesterol using hepatitis C virus core gene transgenic (HCVcpTg) mice, which spontaneously developed HCC with age. Male HCVcpTg mice were treated for 15 months with either a control diet or an isocaloric diet containing 1.5% cholesterol, and liver phenotypes and tumor-associated signaling pathways were evaluated. The high-cholesterol diet-fed HCVcpTg mice exhibited a significantly higher incidence of liver tumors compared with the control diet mice (100% vs. 41%, P
+Fibrogenesis; NF-κB; Oxidative stress; Steatohepatitis; p62/Sqstm1-NRF2 axis.

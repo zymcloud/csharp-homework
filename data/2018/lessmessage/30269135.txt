@@ -1,0 +1,4 @@
+30269135
+2018
+Large animal models are important tools for hepatocellular carcinoma (HCC) research, especially in studies of hepatic vasculature, interventional techniques, and radiofrequency or microwave hyperthermia. Currently, diethylnitrosamine (DENA)-induced HCC in pigs is the only large animal model for in situ HCC with a tumor latency of 10-26 months. While phenobarbital (PB) is often used to accelerate DENA-induced HCC in rodents, it has not been previously studied in the porcine model. Therefore, we hypothesize that the addition of PB in the DENA-induced HCC porcine model will accelerate tumor latency compared to DENA alone. HCC and benign lesions were seen on serial MRI and confirmed on histopathology. Liver and tumors were further characterized by CT angiography, vascular corrosion casting, and permittivity measurements.
+Diethylnitrosamine; Hepatocellular carcinoma; Phenobarbital; Porcine.

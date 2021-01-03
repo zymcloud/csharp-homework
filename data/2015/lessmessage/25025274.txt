@@ -1,0 +1,4 @@
+25025274
+2016
+The liver is the largest internal organ in mammals and is involved in metabolism, detoxification, synthesis of proteins and lipids, secretion of cytokines and growth factors and immune/inflammatory responses. Hepatitis, alcoholic or non-alcoholic liver disease, hepatocellular carcinoma, hepatic veno-occlusive disease, and liver fibrosis and cirrhosis are the most common liver diseases. Safe and efficient delivery of therapeutic molecules (drugs, genes or proteins) into the liver is very important to increase the clinical efficacy of these molecules and to reduce their side effects in other organs. Several liver cell-targeted delivery systems have been developed and tested in vivo or ex vivo/in vitro. In this review, we discuss the literature concerning liver cell-targeted delivery systems, with a particular emphasis on the results of in vivo studies.
+Drug delivery; endocytosis; gene delivery; hepetocyte; nanoparticle; polymer; viral vector.

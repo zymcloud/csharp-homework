@@ -1,0 +1,4 @@
+29416782
+2017 Dec 19
+A novel prognostic nomogram predicting post-transplant pulmonary metastasis was established with a primary cohort of 308 HCC patients who received liver transplantation between 2007 and 2011 at Ren Ji Hospital. The C-indexes for predicting pulmonary metastasis was 0.85. The calibration curves fitted well between the predicted and actual outcomes. The decision curve analysis indicated that our nomogram was the optimal decision-making strategy for PM prediction compared to Milan, University of California San Franscisco, and up-to-seven criteria. These results were further validated by data from 103 patients who underwent liver transplantation between 2011 and 2012 at the same institution. In conclusion, our nomogram could be used as an effective tool to predict PM after liver transplantation.
+hepatocellular carcinoma; liver transplantation; nomogram; prognosis; pulmonary metastasis.

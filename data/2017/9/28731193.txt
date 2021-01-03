@@ -1,0 +1,4 @@
+28731193
+2017 Sep
+The long non-coding RNA HOX transcript antisense RNA (HOTAIR) plays a key role in the progression of various carcinomas. However, whether or not HOTAIR influences glucose metabolism and the specific underlying mechanism in hepatocellular carcinoma (HCC) cells remain unclear. In the present study, we found markedly increased HOTAIR expression in 84 HCC tissues and demonstrated that HOTAIR overexpression promoted cell proliferation using Cell Counting Kit-8. The effect on glucose metabolism regulated by HOTAIR in HCC cells was determined by detecting lactate and glucose levels: HOTAIR promoted glycolysis by upregulating glucose transporter isoform 1 (GLUT1) and activating mammalian target of rapamycin (mTOR) signaling, whereas knockdown of HOTAIR suppressed this effect. Our research reveals a novel relationship between HOTAIR and glucose metabolism in HCC cells, and it may be a therapeutic target for diagnosing and treating HCC.
+

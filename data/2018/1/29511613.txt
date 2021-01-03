@@ -1,0 +1,4 @@
+29511613
+2018 Jan 25
+Natural killer (NK) cells through their NK group 2 member D (NKG2D) receptors recognize NKG2D ligands such as UL16-binding proteins (ULBPs) on virus-infected cells and subsequently trigger the host innate immune response. In the present study, we demonstrated that hepatitis C virus (HCV) induced the cell surface expression of ULBP1 in human immortalized hepatocyte PH5CH8 cells and human hepatoma HuH-7 cell-derived RSc cells. Interestingly, NK cell line NK-92 induced cytotoxicity and interferon-γ mRNA expression and subsequently reduced the levels of HCV RNA replication during co-culture with HCV-infected RSc cells. From these results, we conclude that ULBP1 is a target of the NK cell-mediated innate immune response in HCV-infected human hepatocytes.
+HCV RNA replication; NK cell; ULBP1; hepatitis C virus; innate immune response.

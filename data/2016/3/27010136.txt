@@ -1,0 +1,4 @@
+27010136
+2016 Mar
+Objective:Many studies informed that microRNAs (miRNAs) could function as diagnostic and prognostic indicators in several cancers. The prognostic value of miR-454 in hepatocellular carcinoma has not been investigated.Patients and methods:A total of 265 patients with HCC were obtained in this retrospective study between June 2009 and July 2014. qPCR was conducted to evaluate the expressed amount of the miR-454. The Kaplan-Meier method was conducted to explore the survival status of HCC patients. The log-rank test was used to analyze differences in survival rates.Results:The expression of miR-454 was significantly upregulated in HCC tissues compared with adjacent non-cancerous tissues (p Conclusions:We firstly prove that expression of miR-454 may be a novel and valuable prognostic factor in HCC.
+

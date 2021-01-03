@@ -1,0 +1,4 @@
+30838977
+2019 Mar 6
+BACKGROUND In this study, we assessed the role of CD200 and CD200 receptor (CD200R) in regulating CD4+T cell subsets and assessed the therapeutic efficacy of thermal ablation for liver hepatocellular carcinoma (HCC) in rats. MATERIAL AND METHODS Seventy-eight male C57BL/6 rats were randomly divided into 7 groups: a control group, a model group, a CD200FC group, an anti-CD200R1 mAb group, a thermal ablation group, a thermal ablation+CD200 FC group, and a thermal ablation+anti-CD200R1 mAb group. The levels of CD200, CD200R1, Th1, Th17, and Treg in peripheral blood were detected by flow cytometry. Immunohistochemistry was used to detect CD200, CD200R1, IFN-γ, IL-17, Foxp3 protein expression in tumor tissues. RESULTS The levels of CD200, CD200R1, Th17, and Treg were significantly increased after CD200FC treatment (p
+

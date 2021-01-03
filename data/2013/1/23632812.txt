@@ -1,0 +1,4 @@
+23632812
+2014 Jan
+Aim:To investigate clinical significance of retinoic acid-induced protein 3 (RAI3) in hepatocellular carcinoma (HCC).Methods:Expression of RAI3 at both mRNA and protein levels in tumor, para-tumor and normal liver tissues was detected in 106 HCC patients by real-time quantitative RT-PCR, Western blot and immunohistochemistry. Then, the correlation of RAI3 expression with clinicopathological characteristics and survivals of HCC patients was analyzed.Results:Our data first found that RAI3 mRNA and protein expression were both significantly higher in HCC than in para-tumor (both P Conclusion:Our data for the first time provide a basis for the concept that overexpression of RAI3 may contribute to the malignant progression of HCC and predict poor prognosis for patients with this deadly disease after curative hepatectomy. RAI3 might be an important marker for tumor progression and prognosis, as well as a potential therapeutic target of HCC.
+

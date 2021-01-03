@@ -1,0 +1,4 @@
+22846861
+2012 Aug
+Hepatocellular carcinoma (HCC) is considered to be a fatal disease because of its late diagnosis, underlying liver disease, and refractoriness to systemic treatments. Biomarkers with high sensitivity and specificity that are minimally invasive, reproducible, and easily available have important clinical utility for early diagnosis, prognostication, and pharmacodynamics evaluation. Until now, most of the circulating HCC biomarkers used in clinical practice were protein molecules. However, these biomarkers often had low sensitivity and specificity. In the past decade, circulating cell-free nucleic acids (cfNAs) have been extensively studied. We review the studies that evaluated cfNAs as circulating HCC biomarkers and discuss recent advances with regard to their diagnostic and prognostic significance.
+

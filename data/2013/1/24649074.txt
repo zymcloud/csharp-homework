@@ -1,0 +1,4 @@
+24649074
+2014 Jan
+Recent studies have reported the association between the expression of oncoprotein 18 (op18) and hepatocellular carcinoma (HCC). However, any underlying mechanistic connection between op18 expression and hepatocarcinogenesis is poorly understood. In the present study, Flag-pcDNA3.1 vector and Flag-pcDNA3.1-op18 plasmid were stably transfected in SMMC7721 cells, respectively. Stable SMMC7721 control and op18 overexpression SMMC7721 cell lines were constructed and identified by western blot analysis. Using a cell counting kit-8 (CCK8), it was shown that cell proliferation was significantly increased in the op18 overexpression SMMC7721 cell group (0.60±0.05), compared with the control group (0.29±0.03) at an absorbance of 450 nm (P
+apoptosis; hepatocellular carcinoma; oncoprotein 18; proliferation.

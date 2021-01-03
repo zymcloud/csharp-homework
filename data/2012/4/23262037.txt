@@ -1,0 +1,4 @@
+23262037
+2013 Apr 30
+Previous studies have demonstrated the involvement of transcriptional factor forkhead box M1 (FoxM1) in cellular senescence of hepatocellular carcinoma (HCC). In the present study, we revealed that oxaliplatin could induce senescence in HCC cells, since advanced HCC patients with lower expression of FoxM1 were more sensitive to oxaliplatin therapy. Our data indicated that due to the repression by p53, FoxM1 played a critical role in oxaliplatin-induced senescence via regulating cycle-related proteins p21, p27, cyclins B1 and D1. Furthermore, inhibition of FoxM1, combined with oxaliplatin treatment, could significantly promote the senescence of HCC cells. Taken together, our findings suggest that FoxM1 may represent a promising therapeutic target for the medication of the chemosensitivity to oxaliplatin in HCC patients.
+

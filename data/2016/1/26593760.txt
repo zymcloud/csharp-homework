@@ -1,0 +1,4 @@
+26593760
+2016 Jan
+Hepatitis B virus (HBV) is one of the causative agents of hepatocellular carcinoma. The molecular mechanisms of tumorigenesis are complex. One of the host factors involved is apparently the long-lasting inflammatory reaction which accompanies chronic HBV infection. Although HBV lacks a typical viral oncogene, the HBx gene encoding a pleiotropic regulatory protein emerged as a major player in liver carcinogenesis. Here we review the tumorigenic functions of HBx with an emphasis on wild type and truncated HBx variants, and their role in the transcriptional dysregulation and epigenetic reprogramming of the host cell genome. We suggest that HBx acquired by the HBV genome during evolution acts like a cellular proto-onc gene that is activated by deletion during hepatocarcinogenesis. The resulting viral oncogene (v-onc gene) codes for a truncated HBx protein that facilitates tumor progression. Copyright © 2015 John Wiley & Sons, Ltd.
+

@@ -1,0 +1,4 @@
+29243763
+2018 Jan 3
+An easy access to an amine-appended spiro[indoline-3,4'-pyridine] ON-OFF chemosensor by a one-pot four-component reaction using commercially available and an environmentally benign catalytic amount of molecular I2 (10 mol%) in aqueous ethanol at ambient temperature is described. The generated system could be utilized for the selective detection of Cu2+ as it demonstrated a colorimetric naked eye change along with an ON-OFF fluorescence response towards Cu2+ at physiological pH. The sensors exhibited high selectivity for Cu2+ over other common cations with detection limit in the range of 10-7 (M). Notably, this is the first report of a spiro[indoline-3,4'-pyridine] moiety acting as a sensor for Cu2+via a on-off fluorescence response. In addition, the probe system was successfully applied for imaging Cu2+ in human hepatocellular liver carcinoma cells (HepG2), demonstrating a new avenue for molecular imaging and biomedical applications.
+

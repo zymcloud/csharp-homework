@@ -1,0 +1,4 @@
+31469726
+2019 Oct 9
+CA1 hippocampal neurons are sensitive to ischemia. The erythropoietin-producing hepatocellular carcinoma (Eph) receptors are a cell-cell contact signaling pathway for regulating neuron function and death. However, the mechanisms of EphA receptor in neuron death after ischemia remain unclear. In this study, we present evidence that outwardly rectifying chloride channels reside in CA1 hippocampal neurons. EphA4 receptor increased chloride channel currents. Moreover, the EphA4 receptor no longer had significant effects on enhanced channel currents following ischemia-reperfusion. Inhibition of EphA4 receptor with EphA4-Fc significantly decreased the channel currents after ischemia-reperfusion. These results suggest that the increased effect of the EphA4 receptor on the outwardly rectifying chloride channel activity in CA1 hippocampal neurons may provide better treatment for ischemic brain injury.
+

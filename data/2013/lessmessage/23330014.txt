@@ -1,0 +1,4 @@
+23330014
+2013
+The docosahexaenoic (DHA), a ω-3 fatty acid, could play a beneficial inhibition of the incidence and progress of a series of human diseases including cancer. It has been report that DHA is involved in cell apoptosis. Recent studies show that the signal transduction pathway links with bcl-2, bax, caspase-3 and MMP-9 molecules. Therefore, we tested the relationship between DHA and cell apoptosis in human hepatocellular carcinoma cells (Bel-7402 cells). We show here that DHA induces Bel-7402 cells apoptosis after pre-treating cells with DHA. DHA down-regulates the protein expression of Bcl-2 and Bim mRNA level, and up-regulates caspase-3 activity and Bax expression level. We also found that DHA inhibits Bel-7402 cells migration. Basic on our studies, DHA may play a role in tumor invasion and survival.
+Bcl-2; Docosahexaenoic (DHA); MMP-9; caspase-3.

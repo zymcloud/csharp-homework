@@ -1,0 +1,4 @@
+31705951
+2019 Nov
+Eleven sesquiterpenoids including four new eudesmane sesquiterpenoids, solanoids A-D (1-4), and seven known compounds (5-11) were isolated from the herbs of Solanum lyratum. By analyzing the UV, MS and NMR data, the gross structures of all isolates were established. The absolute configurations of these new compounds were determined by comparison of the experimental and calculated electronic circular dichroism (ECD) spectra. The in vitro cytotoxicity of all isolates against the hepatocellular carcinoma Hep3B and HepG2 cell lines was evaluated. Among them, compounds 7 and 11 exhibited moderate cytotoxicity against two cell lines.
+Calculated ECD; Cytotoxicity; Sesquiterpenoids; Solanum lyratum.

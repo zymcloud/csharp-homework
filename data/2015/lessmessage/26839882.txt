@@ -1,0 +1,4 @@
+26839882
+2015
+Objective:Heparanase (HPSE) is high-expressed in most malignant tumors including hepatocellular carcinoma (HCC) and promotes cancer cell invasion and migration. The aim of the study is to explore whether HPSE enhances adhesion in metastasis of HCC cells.Methods:HPSE expressions in human HCC cells were measured with real-time RT-PCR and Western blot analysis. Four recombinant miRNA vectors pcDNATM6.2-GW/EmGFP-miR-HPSE (pmiR-HPSE) were transfected into HCCLM3 cell. HPSE expression in transfected cell was measured. The cell invasion, migration, and adhesion abilities were detected, respectively.Results:Both HPSE mRNA and protein relative expression levels were higher in HepG2, BEL-7402, and HCCLM3 cells than those in normal hepatocyte (P Conclusion:HPSE is a potentiator of cell adhesion in metastasis of HCC.
+

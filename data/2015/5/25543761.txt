@@ -1,0 +1,4 @@
+25543761
+2015 May
+The present study investigated the protein expression levels of cluster of differentiation (CD)95, caspase‑8, caspase‑3 and poly(ADP‑ribose) polymerase 1 (PARP1) in liver cancer and its association with clinical pathological parameters. The results demonstrated that the expression of CD95 correlated with histological differentiation, liver cirrhosis, lymph node metastasis and distant metastasis (P0.05). The expression of CD95 was upregulated using a plasmid, which led to an increase in the expression levels of caspase‑8 and caspase‑3 and a decrease in the expression of PARP1. Upregulation of CD95 also promoted the apoptosis of the liver cancer cells. These results indicated that CD95 was associated with liver cancer and promoted the apoptosis of liver cancer cells by caspase‑8, caspase‑3 and PARP1.
+

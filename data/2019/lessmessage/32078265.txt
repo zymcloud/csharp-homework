@@ -1,0 +1,4 @@
+32078265
+
+Hepatocellular carcinoma (HCC) is a fatal disease without effective treatment. In recent decades, numbers of molecular profiling studies have improved our understanding of critical oncogenic events driving hepatocarcinogenesis and identified potential molecular targets for drug development in HCC. However, these studies have also revealed the heterogeneous nature of this disease and underscore the impact of intertumoral and/or intratumoral heterogeneity of HCC on a successful treatment. In this chapter, we will summarize common HCC-associated molecular alterations, review data related to molecular heterogeneity, understand what drives the evolution of HCC heterogeneity and how this knowledge would lead us to generate new research directions, and improve the outcome of HCC patients.
+

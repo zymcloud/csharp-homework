@@ -1,0 +1,4 @@
+22019820
+2011 Dec 15
+FHRE-Luc is a promoter reporter construct that is widely used to assess the activity of FoxO (forkhead box, class O) transcription factors. We here demonstrate that this promoter construct responds to exposure of HepG2 human hepatoma cells to known agonists of the aryl hydrocarbon receptor (AhR), 3-methylcholanthrene, benzo(a)pyrene, and 6-formylindolo[3,2-b]carbazole. However, FHRE-Luc activation did not coincide with FoxO DNA binding or changes in Akt-induced FoxO phosphorylation after treatment with AhR agonists. Testing FHRE-Luc deletion constructs and using AhR-deficient cells, we found that FHRE-Luc activation by AhR agonists is due to a functional xenobiotic-response element (XRE) spanning the backbone/insert border of the reporter plasmid. In conclusion, care must be taken when using FHRE-Luc to assess FoxO activity in response to stimuli that potentially interfere with xenobiotic signaling.
+

@@ -1,0 +1,4 @@
+27729273
+2017 Jan 5
+Hepatocellular carcinoma (HCC) is the most prevalent and malignant type of liver cancer. Besides the high incidence, the resistance to chemotherapy is a major problem that leads to the high mortality of HCC. Recently, aberrant expression of long noncoding RNAs (lncRNAs) has been considered as a primary feature of many types of cancer. However, the genome-wide expression pattern and associated functional implications of lncRNAs in chemo-resistant HCC cells remain unknown. In this study, we identified 120 differentially expressed lncRNAs with 61 up-regulated and 59 down-regulated (fold change>2, p2, p
+Hepatocellular carcinoma; Microarray; Oxaliplatin-resistant; Prognosis; lncRNA.

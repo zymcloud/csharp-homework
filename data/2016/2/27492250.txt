@@ -1,0 +1,4 @@
+27492250
+2017 Feb
+Thrombospondin 1 (TSP1) is a matricellular glycoprotein that can be secreted by many cell types. Through binding to extracellular proteins and/or cell surface receptors, TSP1 modulates a variety of cellular functions. Since its discovery in 1971, TSP1 has been found to play important roles in multiple biological processes including angiogenesis, apoptosis, latent transforming growth factor-β activation, and immune regulation. Thrombospondin 1 is also involved in regulating many organ functions. However, the role of TSP1 in liver diseases has not been extensively addressed. In this review, we summarize the findings about the possible role that TSP1 plays in chronic liver diseases focusing on non-alcoholic fatty liver diseases, liver fibrosis, and hepatocellular carcinoma.
+NAFLD; TGF-β; TSP1; angiogenesis; liver cancer; liver fibrosis.

@@ -1,0 +1,4 @@
+32711614
+2020 Dec 1
+A stable monodisperse hydroxyapatite (HAP) nanoparticle suspension was prepared by chemical method-assisted ultrasound irradiation. HAP nanoparticles were characterized by atomic force microscopy (AFM) and particle size potentiometry. The effects of HAP nanoparticles on BEL-7402 human hepatocarcinoma cells were studied by MTT colorimetric assay and morphological observation. The mechanism of HAP nanoparticles was studied by analyzing single cell fluorescence element microregion, the change of ultrastructure and cell cycle. The experimental results show that HAP nanoparticles have an obvious inhibitory effect on BEL-7402 human hepatocarcinoma cells in vitro. By entering the cancer cells and blocking the progress of cell cycle, HAP nanoparticles induce the accumulation of cells in G1 phase, which leads to cancer cell swelling and apoptosis.
+

@@ -1,0 +1,4 @@
+22975783
+2012
+The anti-cancer effects of various fatty acids are drawing a lot of attention. To determine whether different fatty acids affect the hypoxic response of liver cancer cells, we examined the effects of various fatty acids on the stabilization of the hypoxia-inducible factor (HIF)-1α protein in the HepG2 human hepatocellular carcinoma (HCC) cell line under condition containing 1% O(2). Of the fatty acids examined, only 9cis, 11trans (c9, t11)-conjugated linoleic acid (CLA) and 10trans, 12cis (t10, c12)-CLA inhibited hypoxia-induced HIF-1α stabilization. In addition, HIF-1α prolyl hydroxylase or proteasome inhibition abrogated the effects of c9, t11- and t10, c12-CLA. Moreover, c9, t11- and t10, c12-CLA significantly inhibited cell proliferation and induced apoptotic cell death under hypoxia. This is the first study showing that c9, t11- and t10, c12-CLA inhibit the hypoxic response in HCC cells.
+

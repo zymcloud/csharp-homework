@@ -1,0 +1,4 @@
+31727302
+2020 Jan
+Transarterial radioembolization (TARE) with Yttrium-90 (90Y) microspheres is a liver-directed therapy for primary and metastatic disease. This manuscript provides a review of the clinical literature on TARE indications and efficacy with overviews of patient-selection and toxicity. Current dosimetry models used in practice are safe, relatively simple, and easy for clinicians to use. Planning currently relies on the imperfect surrogate, 99mTc macroaggregated albumin. Post-therapy quantitative imaging (90Y SPECT/CT or 90Y PET/CT) of microspheres can be used to calculate the macroscopic in vivo absorbed dose distribution. Similar to the evolution of other brachytherapy dose calculations, TARE is moving toward more patient-specific dosimetry that includes calculating and reporting nonuniform dose distributions throughout tumors and normal uninvolved liver.
+

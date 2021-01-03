@@ -1,0 +1,4 @@
+21701935
+2011 Sep
+Intracellular targeted conjugates of xyloglucan and mitomycin C (MMC) were synthesized with a lysosomally degradable peptide spacer and galactosamine, a terminal moiety that can be used to target polymeric conjugates to hepatoma. The content of the MMC was about 3.5% (mol) in this conjugate. In an in vitro cytotoxicity experiment, the targeted prodrugs have higher cytotoxicity than free MMC against the drug resistant HepG2 cells. In a human tumor xenograft nude mouse model, the targeted prodrugs generated higher therapeutic effect than non-targeted prodrugs or free MMC. Together, these results suggest that targeted prodrugs, which have improved transfer efficiency and hepatocyte specificity, may be useful for the reversion of drug resistant HepG2 cells.
+

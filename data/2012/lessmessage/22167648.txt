@@ -1,0 +1,4 @@
+22167648
+2012
+Cancer Stem cells (CSCs) are the source of many solid tumor types including hepatocellular carcinoma. MicroRNAs (miRNAs) are small noncoding RNAs and have been showed to be associated with hepatic CSCs. Here, we described methods to screen hepatic CSC-related miRNAs, and to validate and examine their expressions and functions in vitro and in vivo, which contribute to the maintenance of stemness and differentiation of hepatic CSCs.
+

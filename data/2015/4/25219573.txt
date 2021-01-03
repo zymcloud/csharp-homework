@@ -1,0 +1,4 @@
+25219573
+2015 Apr 15
+Inverse associations of coffee and/or tea in relation to hepatocellular carcinoma (HCC) risk have been consistently identified in studies conducted mostly in Asia where consumption patterns of such beverages differ from Europe. In the European Prospective Investigation into Cancer and nutrition (EPIC), we identified 201 HCC cases among 486,799 men/women, after a median follow-up of 11 years. We calculated adjusted hazard ratios (HRs) for HCC incidence in relation to quintiles/categories of coffee/tea intakes. We found that increased coffee and tea intakes were consistently associated with lower HCC risk. The inverse associations were substantial, monotonic and statistically significant. Coffee consumers in the highest compared to the lowest quintile had lower HCC risk by 72% [HR: 0.28; 95% confidence intervals (CIs): 0.16-0.50, p-trend
+EPIC; coffee; hepatocellular carcinoma; liver cancer; tea.

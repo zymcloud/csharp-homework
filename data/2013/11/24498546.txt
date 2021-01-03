@@ -1,0 +1,4 @@
+24498546
+2013 Nov 1
+Hepatocellular carcinoma (HCC) typically occurs in patients with chronic inflammatory liver diseases, such as viral hepatitis or (non-)alcoholic steatohepatitis. Inflammation appears indeed as a crucial factor in hepatocarcinogenesis. Nevertheless, sophisticated animal models and studies of human samples revealed that the HCC also elicits antitumor immune responses. Patrolling and infiltrating lymphocytes (e.g., NKT and T cells, respectively) can exert decisive functions in the transition from chronic hepatic inflammation to cancer as well as in antitumor immune responses. An improved understanding of the cellular and molecular mechanisms whereby inflammation promotes or restricts hepatocarcinogenesis will open new avenues for therapeutic approaches to liver cancer.
+DEN; HCC; NKT cells; hepatocellular carcinoma; liver fibrosis.

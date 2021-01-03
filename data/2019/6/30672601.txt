@@ -1,0 +1,4 @@
+30672601
+2019 Jun
+Aldo-keto reductase family 1 member B10 (AKR1B10) is a secretory protein overexpressed in hepatocellular carcinoma (HCC). We aimed to evaluate AKR1B10 as a serum marker for detection of HCC. Herein, we conducted a cohort study that consecutively enrolled 1,244 participants from three independent hospitals, including HCC, healthy controls (HCs), benign liver tumors (BLTs), chronic hepatitis B (CHB), and liver cirrhosis (LC). Serum AKR1B10 was tested by time-resolved fluorescent assays. Data were plotted for receiver operating characteristic (ROC) curve analyses. Alpha-fetoprotein (AFP) was analyzed for comparison. An exploratory discovery cohort demonstrated that serum AKR1B10 increased in patients with HCC (1,567.3 ± 292.6 pg/mL; n = 69) compared with HCs (85.7 ± 10.9 pg/mL; n = 66; P
+

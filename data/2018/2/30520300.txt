@@ -1,0 +1,4 @@
+30520300
+2019 Feb 12
+We present a new design of mixed-backbone antisense oligonucleotides (ASOs) containing both DNA and peptide nucleic acid (PNA). Previous generations of PNA-DNA chimeras showed low binding affinity, reducing their potential as therapeutics. The addition of a 5'-wing of locked nucleic acid as well as the combination of a modified nucleotide and a PNA monomer at the junction between PNA and DNA yielded high-affinity chimeras. The resulting ASOs demonstrated high serum stability and elicited robust RNase H-mediated cleavage of complementary RNA. These properties allowed the chimeric ASOs to demonstrate high gene silencing efficacy and potency in cells, comparable with those of LNA gapmer ASOs, via both lipid transfection and gymnosis.
+

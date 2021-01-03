@@ -1,0 +1,4 @@
+24681508
+2014 Jun
+We demonstrate CRISPR-Cas9-mediated correction of a Fah mutation in hepatocytes in a mouse model of the human disease hereditary tyrosinemia. Delivery of components of the CRISPR-Cas9 system by hydrodynamic injection resulted in initial expression of the wild-type Fah protein in ∼1/250 liver cells. Expansion of Fah-positive hepatocytes rescued the body weight loss phenotype. Our study indicates that CRISPR-Cas9-mediated genome editing is possible in adult animals and has potential for correction of human genetic diseases.
+

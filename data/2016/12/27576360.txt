@@ -1,0 +1,4 @@
+27576360
+2016 Dec
+Radiation is being used for patients with primary and secondary liver cancers, as a rapidly evolving treatment. However, postradiation imaging changes of the liver are not well understood and therefore challenging to interpret. Distinguishing normal radiation changes from residual or recurrent disease is difficult. Size and contrast enhancement have been used to guide interpretation and clinical recommendations, but normal radiation changes can make interpretation difficult and are not accounted for in available guidelines. Knowledge of dose- and time-dependent changes in addition to imaging findings, such as morphological and enhancement patterns, provides useful differentiating parameters. This paper reviews recent studies using computed tomography that can guide interpretation and help differentiate tumor from benign changes after external beam radiation.
+hepatocellular carcinoma; radiation therapy/radiotherapy; stereotactic radiotherapy.

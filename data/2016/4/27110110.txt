@@ -1,0 +1,4 @@
+27110110
+2016 Apr 4
+The diacid metabolite of norcantharidin (DM-NCTD) is clinically effective against hepatocellular carcinoma (HCC), but is limited by its short half-life and high incidence of adverse effects at high doses. We developed a DM-NCTD-loaded, folic acid (FA)-modified, polyethylene glycolated (DM-NCTD/FA-PEG) liposome system to enhance the targeting effect and antitumor potency for HCC at a moderate dose based on our previous study. The DM-NCTD/FA-PEG liposome system produced liposomes with regular spherical morphology, with mean particle size approximately 200 nm, and an encapsulation efficiency >80%. MTT cytotoxicity assays demonstrated that the DM-NCTD/FA-PEG liposomes showed significantly stronger cytotoxicity effects on the H22 hepatoma cell line than did PEG liposomes without the FA modification (P
+PEGylated liposome; active targeting; diacid metabolite of norcantharidin; hepatic cancer.

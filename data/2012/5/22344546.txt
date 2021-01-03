@@ -1,0 +1,4 @@
+22344546
+2012 May
+Hepatocellular carcinoma (HCC) is one of the most common malignancies worldwide with poor prognosis due to resistance to conventional chemotherapy and limited efficacy of radiotherapy. Thus, alternative therapeutic strategies need to be established. In order to search for a useful biomarker to improve its efficacy, we conducted a two-dimensional gel electrophoresis and MALDI-TOF MS-based comparative proteomic analysis to profile the differentially expressed proteins between HCC tumor tissues with histological evidence and the adjacent non-tumor tissues. Twenty-two out of 43 dysregulated proteins were identified, including 15 upregulated proteins, and 7 downregulated proteins (over 2-fold, P
+

@@ -1,0 +1,4 @@
+27602372
+2014 Jul 28
+Tec family kinases, which include tyrosine kinase expressed in hepatocellular carcinoma (TEC), Bruton's tyrosine kinase (BTK), interleukin (IL)-2-inducible T-cell kinase (ITK), tyrosine-protein kinase (TXK), and bone marrow tyrosine kinase on chromosome X (BMX), are the second largest group of non-receptor tyrosine kinases and have a highly conserved carboxyl-terminal kinase domain. BMX was identified in human bone marrow cells, and was demonstrated to have been expressed in myeloid hematopoietic lineages cells, endothelial cells, and several types of cancers. Significant progress in this area during the last decade revealed an important role for BMX in inflammation and oncologic disorders. This review focuses on BMX biology, its role in inflammation and possible signaling pathways, and the potential of selective BMX inhibitors.
+BMX; inflammation; tyrosine kinase.

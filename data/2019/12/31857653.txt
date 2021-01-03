@@ -1,0 +1,4 @@
+31857653
+2019 Dec 19
+Putative disease-associated genes are often identified among those genes that are differentially expressed in disease and in normal conditions. This strategy typically yields thousands of genes. Gene prioritizing schemes boost the power of identifying the most promising disease-associated genes among such a set of candidates. We introduce here a novel system for prioritizing genes where a TF-miRNA co-regulatory network is constructed for the set of genes, while the ranks of the candidates are determined by topological and biological factors. For datasets on breast invasive carcinoma and liver hepatocellular carcinoma this novel prioritization technique identified a significant portion of known disease-associated genes and suggested new candidates which can be investigated later as putative disease-associated genes.
+

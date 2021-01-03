@@ -1,0 +1,4 @@
+31288284
+2019 Jul
+Viruses and bacteria play central roles in gastrointestinal tumor development. This includes well-characterized contributions of Helicobacter pylori to gastric carcinoma and MALT lymphoma and of Hepatitis B and C virus infections to hepatocellular cancer. However, recent studies have demonstrated a much broader role of the microbiota in the regulation of cancer development. As such, it was shown that barrier defects and alterations in microbial community structure contribute to colorectal and hepatocellular cancer. Moreover, intriguing studies have highlighted the microbiota as a central regulator of the efficacy of systemic anti-tumor therapies. Here, we provide an overview of recent observations on the role of the microbiota in tumor development and the regulation of therapeutic anti-tumor responses and discuss the implications of these findings for clinical diagnostics and treatment.
+

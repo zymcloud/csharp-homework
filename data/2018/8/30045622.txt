@@ -1,0 +1,4 @@
+30045622
+2018 Aug 21
+5-Methylcytosine (5mC) is revealed as a heritable epigenetic modification in genomic DNA. It has been reported that cytosine/guanine dinucleotides (CpG) hypermethylation in the promoter regions of tumor suppressor genes is related with inappropriate gene silencing, so the determination of 5mC in the CpG islands of mammals has attracted much attention. In this paper, a luminescence sensing strategy based on bisulfite treatment, asymmetric polymerase chain reaction (PCR), and adenosine triphosphate (ATP)-releasing nucleotide is proposed. With little background, this method can provide accurate quantitative information about methylation changes at CpG sites, even at a specific site. The proposed method can be successfully employed to determine the methylation status of three hepatocellular carcinomas (HCC) related genes in clinical tissues.
+

@@ -1,0 +1,4 @@
+29322426
+2018
+In the field of cellular immunology multicolor flow cytometry is a frequently applied method that allows for the simultaneously detection of multiple parameters on an individual cell basis. Flow cytometry can be used to characterize a wide range of immune cell subsets using fluorophore-conjugated antibodies to a wide range of cellular antigens. The isolation of immune cells from nonlymphoid tissue and their preparation for flow cytometry can be a challenging process with respect to immune cell yields and viability. Here we describe a method for the efficient isolation of viable mouse intrahepatic lymphocytes (IHL) from normal liver tissue and liver cancer and their subsequent characterization by multicolor flow cytometry.
+Flow cytometry; Fluorophore-conjugated antibodies; Hepatocellular carcinoma; Intrahepatic lymphocyte isolation; Liver tumors.

@@ -1,0 +1,4 @@
+23788652
+2013 Sep
+Hepatocellular carcinoma (HCC) is one of the most deadly cancers worldwide and has no effective treatment, yet the molecular basis of hepatocarcinogenesis remains largely unknown. Here we report findings from a whole-genome sequencing (WGS) study of 88 matched HCC tumor/normal pairs, 81 of which are Hepatitis B virus (HBV) positive, seeking to identify genetically altered genes and pathways implicated in HBV-associated HCC. We find beta-catenin to be the most frequently mutated oncogene (15.9%) and TP53 the most frequently mutated tumor suppressor (35.2%). The Wnt/beta-catenin and JAK/STAT pathways, altered in 62.5% and 45.5% of cases, respectively, are likely to act as two major oncogenic drivers in HCC. This study also identifies several prevalent and potentially actionable mutations, including activating mutations of Janus kinase 1 (JAK1), in 9.1% of patients and provides a path toward therapeutic intervention of the disease.
+

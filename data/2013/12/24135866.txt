@@ -1,0 +1,4 @@
+24135866
+2013 Dec
+Hepatocellular carcinoma (HCC) is one of the leading causes of death in the world. It involves a complicated pathogenesis. In the present study, we tried to uncover the underlying mechanisms from the RNA level. Whole-transcriptome analysis using RNA-seq data showed that the tumor cells had higher expression levels of genes compared to normal tissue cells, with much more genes related to metabolism, synthesis, and transportation. A total of 4,638 differentially expressed genes were obtained in HCC, in which 3,476 were up-regulated and 1,162 were down-regulated. A total of 2,367 new isoforms and 46 fusion genes were detected in HCC cells using computational method. Within these variants, new isoforms of NIR and fusion genes PARP15-AHSG caught our attention for their potential roles in cancer development. These findings could be beneficial in guiding future researches.
+

@@ -1,0 +1,4 @@
+29660898
+2018
+Background:Hepatocellular carcinoma (HCC) is the most common solid tumor in global range, with high degree of malignancy and poor prognosis. But the relationship between the expression of GAS5-AS1 and HCC is not documented. This study aimed to profile GAS5-AS1 expression signature and then to explore its clinical significance in HCC.Methods:Quantitative real-time PCR (RT-qPCR) was performed to detect the expression of GAS5-AS1 in 83 pairs of HCC surgical tissues and adjacent normal liver tissues. We also performed RT-qPCR on plasma samples of 156 patients and 58 healthy controls.Results:We found that GAS5-AS1 was down-regulated in HCC tissues (PConclusions:GAS5-AS1 could be considered as a potential prognostic and diagnostic marker in HCC. However, the potential clinical application value of GAS5-AS1 still needs to be further illustrated.
+GAS5-AS1; Hepatocellular carcinoma; diagnosis; long non-coding RNA; prognosis.

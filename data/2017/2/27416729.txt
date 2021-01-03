@@ -1,0 +1,4 @@
+27416729
+2017 Feb
+Thermal ablation is increasingly being utilised in the treatment of primary and metastatic liver tumours, both as curative therapy and as a bridge to transplantation. Recent advances in high-powered microwave ablation systems have allowed physicians to realise the theoretical heating advantages of microwave energy compared to other ablation modalities. As a result there is a growing body of literature detailing the effects of microwave energy on tissue heating, as well as its effect on clinical outcomes. This article will discuss the relevant physics, review current clinical outcomes and then describe the current techniques used to optimise patient care when using microwave ablation systems.
+Hepatocellular carcinoma; hydrodissection; liver metastasis; microwave ablation; percutaneous microwave ablation; thermal ablation.

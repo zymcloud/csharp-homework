@@ -1,0 +1,4 @@
+24011345
+2013 Sep
+Chronic infection with hepatitis B virus (HBV) plays a significant role in hepatocellular carcinoma development. To investigate the effect of hepatitis B virus X protein (HBx) on inflammatory cytokines of human T cell, a eukaryotic expression vector, HBx-pEGFP-C1, was constructed and transfected into the Jurkat human T-cell line. Jurkat cells were transfected transiently using Lipofectamine 2000 and activated by phytohemagglutinin (PHA). Interleukin-1 beta (IL-1β), tumor necrosis factor alpha (TNF-α), IL-4, IL-10, IL-13, and IL-14 mRNA was measured. The results showed that the vector HBx-pEGFP-C1 was successfully constructed, and HBx was expressed in Jurkat cells. Compared with a control group, mRNA of IL-1β and TNF-α was significantly elevated in the HBx-pEGFP-C1 group (p
+

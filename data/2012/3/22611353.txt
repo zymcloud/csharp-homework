@@ -1,0 +1,4 @@
+22611353
+2012 Mar
+Kiamycin (1), a new angucyclinone derivative possessing an 1,12-epoxybenz[a]anthracene ring system, was isolated from the marine Streptomyces sp. strain M268 along with the known compounds 8-O-methyltetrangomycin (3) and 8-O-methylrabelomycin (4). Their structures were elucidated by detailed spectroscopic analysis and comparison with literature data. The new angucyclinone derivative showed inhibitory activities against the human cell lines HL-60 (leukemia), A549 (lung adenocarcinoma), and BEL-7402 (hepatoma) with inhibition rates of 68.2%, 55.9%, and 31.7%, respectively, at 100 µM. It appears to have potential as an anticancer agent with selective activity.
+angucyclinone; cytotoxicity; epoxybenz[a]anthracene; marine Streptomyces.

@@ -1,0 +1,4 @@
+22993570
+2010 May
+E-cadherin is a key cell adhesion molecule implicated in tumor suppression that is frequently altered in hepatocellular carcinoma (HCC), particularly in hepatitis B virus-related tumors. Here, we report that the epigenetic drugs 5-azacytidine and trichostatin A up-regulated E-cadherin expression in HCC cells. The depletion of DNMT1 restored E-cadherin expression via demethylation, whereas the depletion of DNMT3A or DNMT3B did not. Activated E-cadherin suppressed HCC cell colony formation. However, E-cadherin expression was repressed by HBx transfection due to the DNA methylation induced by the elevation of DNMT1 in the HCC cell lines. The present study indicates that E-cadherin expression is regulated by epigenetic agents in HCC cells, which suggests a schema for restoring E-cadherin by targeting its epigenetic mechanism.
+

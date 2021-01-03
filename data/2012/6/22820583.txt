@@ -1,0 +1,4 @@
+22820583
+2012 Jun
+Objective:To study the expression of special AT-rich sequence binding protein 1 (SATB1) in hepatocellular carcinoma (HCC) cell lines with different invasive capacities.Methods:SATB1 expression was detected using real-time fluorescence quantitative PCR, RT-PCR, Western blotting and immunofluorescence in immortalized liver cell line HL-7702, noninvasive HCC cell lines HepG2 and SMMC-7721, MHCC97L cells with low invasiveness, and highly invasive cell lines MHCC97H and HCCLM3.Results:In comparison with HL-7702 cells, all the 5 HCC cell lines showed overexpression of SATB1 mRNA, which was the highest in the highly invasive HCCLM3 and MHCC97H cells, followed by MHCC97L cell line, and then by SMMC-7721 and HepG2 cell lines (PConclusion:SATB1 expression levels differ distinctly between the HCC cell lines with different invasive capacities and are possibly associated with the metastatic potentials of the cells.
+

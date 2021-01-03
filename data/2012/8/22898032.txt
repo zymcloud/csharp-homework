@@ -1,0 +1,4 @@
+22898032
+2012 Aug 17
+Prolyl hydroxylase domain 3 (PHD3) is a hypoxia inducible factor-α (HIFα) regulator; it degrades HIFα in the presence of oxygen. Recently, there have been an increasing number of studies about the role of PHD3 in proliferation and apoptosis of cancer cells. However, most of the evidence for the role of PHD3 is observational, and little is known of the molecular mechanism. In our current study, we constructed a recombinant eukaryotic expression vector containing the PHD3 gene and detected its biological activity in human hepatoma cell line (HepG2 cells). We successfully constructed a recombinant pcDNA 3.1(+)-PHD3 plasmid; the results showed that PHD3 overexpression could inhibit the proliferation of HepG2 cells and induce apoptosis by activating caspase-3 activity. Our study has provided preliminary materials and data for further investigation of the effect of PHD3 on HepG2 cells.
+

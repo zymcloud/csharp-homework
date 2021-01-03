@@ -1,0 +1,4 @@
+33012449
+2020 Nov
+The Liver Imaging Reporting and Data System (LI-RADS) provides standardized lexicon, technique, interpretation, and reporting of liver imaging in patients at risk for hepatocellular carcinoma (HCC). When applied to at-risk populations, LI-RADS achieves higher than 95% positive predictive value for the noninvasive diagnosis of HCC on computed tomography (CT), MRI and contrast-enhanced ultrasound (CEUS). This article focuses on similarities and differences between the CT/MRI diagnostic algorithm (CT/MRI LI-RADS) and the CEUS diagnostic algorithm (CEUS LI-RADS) to inform health care professionals for efficient and appropriate clinical decisions through the management of patients at risk.
+Hepatocellular carcinoma; Imaging diagnosis; Liver.

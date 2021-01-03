@@ -1,0 +1,4 @@
+21445801
+2011
+Hypoxia-inducible factor 1 (HIF-1) is the key to genetic adaptations to hypoxia in eukaryotes. In vivo, capillary pO(2) and extracellular- and intracellular- O(2) gradients define pO2 at the O(2) labile subunit HIF-1α.With a novel technique for subcellular imaging of O(2) heterogeneity using GFP, the present study was undertaken to examine the possibility that changes in mitochondrial respiration significantly affect intracellular O(2) gradients and thus, HIF-1 expression.We failed to demonstrate consistent changes in intracellular O(2) distributions in cultured cells with different metabolic and morphological properties (COS-7, Hep G2, and Hep3B cells) while mitochondrial O(2) consumption was widely changed at 1%O(2).Thus,we conclude that conductance for intracellular diffusion of O(2) is high in these cells and intracellular O(2) gradients might not be involved in the regulation of HIF-1 expression in vivo.
+

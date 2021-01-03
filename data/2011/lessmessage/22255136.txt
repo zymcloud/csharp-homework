@@ -1,0 +1,4 @@
+22255136
+2011
+Highly sensitive and selective biomarker detection is required for early detection of hepatocellular carcinoma (HCC). Disease progression has been shown to correlate with specific fucosylation of a validated HCC serum glycoprotein biomarker, alpha-fetoprotein (AFP) Carbohydrate binding proteins, such as lectins, can be used as diagnostic indicators for monitoring glycosylation changes during disease progression in hepatitis B virus (HBV) or hepatitis C virus (HCV) infected patients. We prepared surface-enhanced Raman spectroscopy (SERS) substrates, which provide controllable, well-organized nanoparticles on the surface, for the analysis of a fucose binding lectin AAL. The SERS based assay provides fast (
+

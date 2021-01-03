@@ -1,0 +1,4 @@
+27138729
+2017 Jan
+Alcoholic liver disease (ALD) has become one of the most critical health problems in many countries, including Japan. Liver injury in ALD ranges from steatosis and steatohepatitis to fibrosis, cirrhosis, and hepatocellular carcinoma. Many factors are thought to contribute to the development and progression of ALD, particularly insulin resistance, generation of reactive oxygen species during alcohol metabolism, adipokines from visceral adipose tissue, and endotoxin derived from the gut. Although the pathogenesis of ALD has been widely investigated, the precise mechanisms are yet to be elucidated and many questions remain. This article reviews the possible mechanisms for the development of ALD identified to date.
+adipokine; alcohol; cytochrome P450; epigenetic change; oxidative stress, intestinal bacterial flora.

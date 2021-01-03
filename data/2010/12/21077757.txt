@@ -1,0 +1,4 @@
+21077757
+2010 Dec
+Background:We hypothesized that hepatocellular carcinoma (HCC) patients with higher Body Mass Index (BMI) might have more microvascular invasion (MVI) in their tumors.Methods:Records from 138 consecutive patients who underwent surgery at Columbia University Medical Center from January 1, 2002 to January 9, 2008 were evaluated.Results:40 patients (29%) had MVI, including 14% with BMI 30 (p = .05). However, only maximum alpha-fetoprotein was significantly associated with overall mortality in a Cox model.Conclusions:MVI was associated with obesity. A better understanding of the mechanism of this association may lead to interventions for the treatment and prevention of HCC.
+

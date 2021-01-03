@@ -1,0 +1,4 @@
+29882679
+2018 Oct
+Aim:To assess the prognostic value of RAMP3 expression in terms of overall survival (OS) and recurrence-free survival (RFS) in hepatocellular carcinoma (HCC) patients.Materials & methods:Immunochemistry staining was performed to detect RAMP3 expression. Data in the Cancer Genome Atlas-Liver Hepatocellular Cancer were used for secondary analysis.Results:RAMP3 expression was significantly downregulated in HCC tissues than in normal liver tissues. Increased RAMP3 expression was an independent prognostic factor of favorable OS (hazard ratio [HR]: 0.772, 95% CI: 0.689-0.864; p Conclusion:High RAMP3 RNA expression is an independent prognostic factor of favorable OS and RFS in patients with HCC.
+RAMP3; hepatocellular carcinoma; overall survival; recurrence-free survival.

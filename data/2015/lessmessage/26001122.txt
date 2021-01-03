@@ -1,0 +1,4 @@
+26001122
+2015
+Using combined chromatographic methods, two asterosaponins (compounds 1 and 2), including a new compound novaeguinoside E (compound 1), and six glycosylated polyhydroxysteroids (compounds 3-8) were isolated from a methanol extract of the starfish Culcita novaeguineae. Their structures were determined on the basis of spectroscopic data ((1)H and (13)C NMR, HSQC, HMBC, (1)H-(1)H COSY, ROESY, and HRESI-MS) and by comparison with the literature values. The new compound 1 represents the third example of asterosaponins containing the 5α-cholesta-9(1l)-en-3β,6α,20,22-tetraol aglycone. Among isolated compounds, 4-7 exhibited moderate to weak cytotoxic activities against five human cancer cell lines such as Hep-G2 (hepatoma), KB (epidermoid carcinoma), LNCaP (prostate cancer), MCF7 (breast cancer), and SK-Mel2 (melanoma).
+Culcita novaeguineae; Oreasteridae; cytotoxic activity; novaeguinoside E; starfish.

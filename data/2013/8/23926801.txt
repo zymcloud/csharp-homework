@@ -1,0 +1,4 @@
+23926801
+2013 Aug
+Nanoscale particles, as drug carriers, have a potential to improve drug therapeutic efficiency. However, the feasible design of the nanostructure containing chemotherapeutic agents and the behavior of the delivery to tumor tissues and cells has not been adequately investigated. In this study, we developed a novel nanoparticle, consisting of a gelatinase-cleavage peptide with poly(ethylene glycol) (PEG) and poly(epsilon-caprolactone) (PCL)-based structure for tumor-targeted EVO (an alkaloid isolated from Evodia rutaecarpa) delivery. We found that EVO-NPs were transformed by gelatinases, which could significantly promote drug release and enhance the cellular uptake of EVO (P
+

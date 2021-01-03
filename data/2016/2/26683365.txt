@@ -1,0 +1,4 @@
+26683365
+2016 Feb 2
+Although protein kinase D (PKD) has been shown to contribute to invasion and metastasis in several types of cancer, the role of PKD in the epithelial mesenchymal transition (EMT) of hepatocellular carcinoma (HCC) has remained unclear. We found that PKD2 is up-regulated in HCC and is correlated with the metastasis of HCC. PKD2 positively regulated TNF-α-induced EMT and metastasis of HCC. Mechanistic studies revealed TNF-α-induced PKD2 activation is mediated by the formation of a TNFR1/TRAF2 complex. PKD2 bound directly to the p110α and p85 subunits of PI3K and promoted the PI3K/Akt/GSK-3β signaling cascade to stimulate EMT. In conclusion, our results have uncovered a novel role for the regulation of EMT and suggest inhibition of PKD2 as a potential therapeutic strategy for HCC.
+PI3K; epithelial mesenchymal transition; hepatocellular carcinoma; protein kinase D2; β-catenin.

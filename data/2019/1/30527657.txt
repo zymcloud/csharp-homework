@@ -1,0 +1,4 @@
+30527657
+2019 Jan
+Differences in drug metabolism associated with UGT1A1 polymorphism could result in individualized local response to hepatic chemoembolization with irinotecan-eluting beads (DEBIRI) or predictable toxicities. Five patients with inoperable hepatic metastases from colorectal or anal malignancies treated with DEBIRI were assessed for UGT1A1 mutations. No difference in area under the curve (AUC) for SN38 in normal liver and tumor tissue samples was noted with variant or wild-type UBT1A1 (P = .16 and P = .05, respectively). Plasma SN-38 AUC was significantly lower in wild-type compared to variant patients (P < .0001). UGT1A1 genotype may not be predictive of hematologic toxicity after DEBIRI.
+

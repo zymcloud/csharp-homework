@@ -1,0 +1,4 @@
+31140827
+2019 May
+Aim: To evaluate the diagnostic performance of serum AFU for early stage hepatocellular carcinoma (HCC). Methods: Concentration of AFU and AFP were measured in 512 patients. The performance was compared for AFU and AFP alone or in combination. Results: The area under the curve (AUC) for AFU was 0.68, with a sensitivity of 56.1% and specificity of 69.2% at the cut-off value of 24 U/l; whereas the AUC for AFP was 0.83, with a sensitivity of 58.2% and specificity of 85.2% at cut-off value of 20 ng/ml. The AUC of AFU alone or the combination with AFP were lower than that of AFP alone. Conclusion: AFU is a suboptimal biomarker for early detection of HCC.
+area under the curve; biomarker; diagnostic performance; early detection; early stage-HCC; hepatocellular carcinoma; sensitivity; specificity; α-L-fucosidase; α-fetoprotein.

@@ -1,0 +1,4 @@
+30333404
+2019 Feb 15
+Objective The aim of this study was to identify patients with a high risk of early mortality after acute esophageal variceal bleeding by measuring the C-reactive protein (CRP) level. Methods We retrospectively evaluated 154 consecutive cirrhotic patients admitted with acute esophageal variceal bleeding. Differences between categorical variables were assessed by the chi-square test. Continuous variables were compared using the Mann-Whitney U-test. Multivariate logistic regression analyses consisting of clinical laboratory parameters were performed to identify risk factors associated with the 6-week mortality. The discriminative ability and the best cut-off value were assessed by a receiver-operating characteristic (ROC) curve analysis. Results Child-Pugh C patients showed a significantly higher 6-week mortality than Child-Pugh A or B patients (38% vs. 6%, p
+C-reactive protein; acute esophageal variceal bleeding; cirrhosis; early mortality.

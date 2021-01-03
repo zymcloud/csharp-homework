@@ -1,0 +1,4 @@
+23518204
+2013 Mar 21
+Background:Cortactin is an important regulator involved in invasion and migration of hepatocellular carcinoma (HCC). The aim of this study was to elucidate the forecasting role of cortactin in resectable HCCs.Methods:We compared the invasiveness and motility among liver epithelial cell line and HCC cell lines by using Transwell assay and wound healing assay. We further investigated the CTTN mRNA expression by real-time PCR. Next, 91 HCC and 20 normal liver tissue samples were detected by IHC and real-time PCR. Finally, we analyzed the clinicopathologic features and survival time of the HCC cases.Results:We identified that HepG2, LM3, and SK-Hep-1 had more invasiveness and motility (P Conclusions:Overexpression of cortactin is closely associated with poor human HCCs prognosis that caused by cancer embolus and metastasis. Cortactin and CTTN should be used for differentiating varieties of survival for patients after HCC resection.
+

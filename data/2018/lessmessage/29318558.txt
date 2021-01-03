@@ -1,0 +1,4 @@
+29318558
+2018
+For decades, proteases have been associated with cancer progression due to the ability of some members of this large group of enzymes to degrade tumor cell surroundings, thereby facilitating cancer invasion and dissemination. However, the generation of mouse models deficient in proteases has revealed the existence of a great variety of functions among proteolytic enzymes in cancer biology, including important tumor-suppressive roles. Therefore, in this chapter, we describe methods to chemically induce different types of cancer (lung adenocarcinoma, hepatocellular carcinoma, oral and esophageal carcinoma, colorectal carcinoma, skin cancer, and fibrosarcoma) in genetically modified mouse models to efficiently evaluate the specific pro- or antitumoral function of proteases in cancer.
+4NQO; Azoxymethane; Cancer; DEN; DMBA; MCA; Mouse models; Protease; Urethane.

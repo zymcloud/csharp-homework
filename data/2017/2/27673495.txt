@@ -1,0 +1,4 @@
+27673495
+2017 Feb 15
+A new p-dimethylaminobenzamide derivative based compound BDIH has been synthesized. Cu2+ turned on the fluorescence of compound BDIH with a 1:2 binding stoichiometry. The fluorescent color of compound BDIH shows an evident change from colorless to bright blue upon the addition of Cu2+, which could be visibly detected by the naked eye under UV light at 365nm. More importantly, the detection limit was found to be 0.64nM which is far lower than the maximal allowed concentration of the WHO limit (31.5μM) for drinking water. This selective "turn-on" fluorescence sensor was used to identify Cu2+ in living cells using confocal fluorescence microscopy, indicating that compound BDIH has a potential application for selective detection of Cu2+ in organism.
+Cu(2+); Fluorescence; Living cells; p-Dimethylaminobenzamide derivative.

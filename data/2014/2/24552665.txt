@@ -1,0 +1,4 @@
+24552665
+2014 Feb
+Inflammatory responses play pivotal roles in cancer development, including tumor initiation, promotion, progression, and metastasis. Cytokines are now recognized as important mediators linking inflammation and cancer, and are therefore potential therapeutic and preventive targets as well as prognostic factors. The interleukin (IL)-6 family of cytokines, especially IL-6 and IL-11, is highly up-regulated in many cancers and considered as one of the most important cytokine families during tumorigenesis and metastasis. This review discusses molecular mechanisms linking the IL-6 cytokine family to solid malignancies and their treatment.
+Colorectal cancer; Gastric cancer; Hepatocellular carcinoma; IL-11; IL-6; STAT3; gp130.

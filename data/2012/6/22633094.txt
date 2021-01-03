@@ -1,0 +1,4 @@
+22633094
+2012 Jun
+More than 130 million people worldwide are chronically infected with the hepatitis C virus (HCV), which can lead to cirrhosis, liver failure, and hepatocellular carcinoma. Although recently approved HCV NS3-4A protease inhibitors significantly improve treatment response rates, current HCV treatment is still frequently limited by side effects and by the low genetic barrier to viral resistance against direct-acting antiviral agents. A complementary strategy is to target the host cellular factors that support the HCV life cycle. Several studies, including RNA interference screens, demonstrated that HCV depends on dozens, if not hundreds, of cellular proteins to complete its life cycle. A better understanding of the interactions between HCV proteins and host factors may help to identify host targets for antiviral therapy. In this review, we highlight some of the host factors that are particularly attractive targets for the treatment of HCV.
+

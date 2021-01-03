@@ -1,0 +1,4 @@
+28666736
+2017 Aug 15
+Inspired by the significant anti-cancer activity of our previously screened natural ergosterol peroxide (EP, 1), we synthesized and characterized a series of novel 5α,8α-epidioxyandrost-3β-ol-17-(O-phenylacetamide)oxime derivatives (9a-o). The anti-proliferative activity of the synthesized compounds against human hepatocellular carcinoma cells (HepG2, Sk-Hep1) and human breast cancer cells (MCF-7, MDA-MB231) were investigated. Compounds 9d, 9f, 9h, 9j and 9m displayed good anti-proliferative activity (most IC50<20μM) in vitro. Furthermore, fluorescence imaging showed that the designed coumarin-9d conjugate (12) localized mainly in mitochondria, leading to enhanced anticancer activities over the parent structure.
+Cytotoxic activities; Endoperoxide; Ergosterol peroxide; Photooxygenation; Steroidal derivatives.

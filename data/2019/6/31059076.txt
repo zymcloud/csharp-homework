@@ -1,0 +1,4 @@
+31059076
+2019 Jun
+Portal hypertension is the primary cause of complications in patients with chronic liver diseases, and markedly impacts metabolism within the nervous system. Until recently, the role of portal hypertension in hepatocellular metabolism was unclear. The present study demonstrated that an increase in extracellular pressure significantly decreased hepatocellular glycogen concentrations in HepG2 and HL‑7702 cells. In addition, it reduced glycogen synthase activity, by inhibiting the phosphorylation of glycogen synthase 1. RNA‑seq analysis revealed that mechanical pressure suppressed glycogen synthesis by activating the p53/phosphatase and tensin homolog pathway, further suppressing glycogen synthase activity. The present study revealed an association between mechanical pressure and hepatocellular glycogen metabolism, and identified the regulatory mechanism of glycogen synthesis under pressure.
+

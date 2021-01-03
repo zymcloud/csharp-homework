@@ -1,0 +1,4 @@
+30641488
+2019 Apr 26
+In this work, we describe the design and the use of a novel theranostic hybrid nanocomposite made of an iron oxide core and a mesoporous silica shell (IO@MS) of ca. 30 nm coated by human serum albumin (HSA) layer for magnetic resonance imaging and drug delivery applications. The porosity of IO@MS nanoparticles was loaded with an antitumoral drug, Doxorubicin (Dox) reaching a high drug loading capacity (DLC) of 34 w%. To entrap the drug, a tight HSA coating held via isobutyramide (IBAM) binders was deposited. We show that this protein nanoassembly entraps the drugs efficiently and behaves as an innovative enzyme-sensitive gatekeeper that is degraded upon protease action. Finally we assess the Dox release in a 3D cell model via confocal imaging and its cytotoxicity is shown by growth inhibition studies on liver cancer cell spheroids.
+

@@ -1,0 +1,4 @@
+30191032
+2016 Apr
+Conventional transarterial chemoembolization (c-TACE) was validated in 2002 for intermediate stage hepatocellular carcinoma (HCC). Recent improvements in overall survival after c-TACE in HCC is linked to both better patient selection, and improvement in treatment technologies: catheter, image guidance and new drug delivery platforms. Drug eluting beads (DEBs) demonstrated a benefit over c-TACE in pharmacokinetic studies; however, two randomized studies comparing c-TACE and DEB-TACE demonstrated no benefit of DEB-TACE in response rate or overall survival. Delivery platforms loaded with yttrium-90 deliver selective internal radiation therapy, which opens a new field of therapy for HCC. Future improvement in intra-arterial therapies will include resorbable loadable embolic material, new emulsion used for c-TACE and platforms releasing multikinase inhibitors.
+chemoembolization; hepatocellular carcinoma; microspheres.

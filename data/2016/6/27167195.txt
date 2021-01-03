@@ -1,0 +1,4 @@
+27167195
+2016 Jun 7
+This paper aims to systematically review the major findings from meta-analyses comparing different treatment options for hepatocellular carcinoma (HCC). A total of 153 relevant papers were searched via the PubMed, EMBASE, and Cochrane library databases. They were classified according to the mainstay treatment modalities (i.e., liver transplantation, surgical resection, radiofrequency ablation, transarterial embolization or chemoembolization, sorafenib, and others). The primary outcome data, such as overall survival, diseases-free survival or recurrence-free survival, progression-free survival, and safety, were summarized. The recommendations and uncertainties regarding the treatment of HCC were also proposed.
+hepatocellular carcinoma; management; meta-analysis; systematic review; treatment.

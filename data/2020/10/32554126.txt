@@ -1,0 +1,4 @@
+32554126
+2020 Oct
+Hepatoma is the second leading cause of cancer death worldwide. Due to the poor outcomes of patients with late diagnosis, newer treatments for hepatoma are still needed. As an emerging therapy, boron neutron capture therapy (BNCT) may be an effective solution in hepatoma management. In this study, boric acid (BA) was used as the boron drug for in vivo analysis of action mechanism. The N1S1 single liver tumor-bearing rat and the VX2 multifocal liver tumor-bearing rabbit models were used to investigate the retention status of BA in the tumor regions during BNCT. The autoradiographic examination showed BA can localize specifically not only in the hepatoma cells but also in tumor blood vessels. Our findings indicate that superior hepatoma targeting could be achieved in BA-mediated BNCT, which supports BA to be a suitable boron drug for BNCT for hepatoma.
+Autoradiographic investigation; BNCT; Boric acid; Hepatoma; Rabbit model; Rat model.

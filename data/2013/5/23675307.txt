@@ -1,0 +1,4 @@
+23675307
+2013 May
+LXR (Liver X Receptors) act as "sensor" proteins that regulate cholesterol uptake, storage, and efflux. LXR signaling is known to influence proliferation of different cell types including human prostatic carcinoma (PCa) cell lines. This study shows that deletion of LXR in mouse fed a high-cholesterol diet recapitulates initial steps of PCa development. Elevation of circulating cholesterol in Lxrαβ-/- double knockout mice results in aberrant cholesterol ester accumulation and prostatic intra-epithelial neoplasia. This phenotype is linked to increased expression of the histone methyl transferase EZH2 (Enhancer of Zeste Homolog 2), which results in the down-regulation of the tumor suppressors Msmb and Nkx3.1 through increased methylation of lysine 27 of histone H3 (H3K27) on their promoter regions. Altogether, our data provide a novel link between LXR, cholesterol homeostasis, and epigenetic control of tumor suppressor gene expression.
+

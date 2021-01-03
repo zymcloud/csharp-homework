@@ -1,0 +1,4 @@
+25204346
+2015 Mar
+Two new 32-membered macrolide compounds, named Novonestmycins A (1) and B (2), were isolated from the soil strain Streptomyces phytohabitans HBERC-20821. Their structures were elucidated by using spectroscopic methods, including 1D, 2D-NMR and MS spectrometry. The two compounds showed strong activities against the phytophathogenic fungi Corynespora cassiicola, Rhizoctonia solani and Septoria nodorum, with MIC values of 0.78, 0.39 and 0.78 μg ml(-1), respectively. In addition, the two compounds exhibited potent inhibitory activities against four different human tumor cell lines as well as one 5-FU-resistant human hepatocellular carcinoma cell line, with IC50 of 0.15-0.48 μg ml(-1) and 0.24-1.34 μg ml(-1), respectively.
+

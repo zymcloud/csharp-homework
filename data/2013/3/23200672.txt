@@ -1,0 +1,4 @@
+23200672
+2013 Mar 1
+Zinc(II)-phthalocyanine (ZnPc) is a metal photosensitizer. In the present study, we formulated the poorly-soluble ZnPc in Cremophor EL solution to enhance its solubility and determined its intracellular distribution and mechanisms of action on human hepatocellular carcinoma HepG2 cells. ZnPc uptake by the cells reached a plateau by 8h. ZnPc primarily located in mitochondria, lysosome and endoplasmic reticulum. The concentration-growth inhibition curves of ZnPc on the cell lines were pharmacodynamically enhanced by 10-50 folds by irradiation. Once irradiated, ZnPc produced significant amount of reactive oxygen species (ROS), activated caspase-3 and caspase-9, arrested cell cycle mainly at G2/M stage, and decreased membrane potential (ΔΨm) of HepG2 cells. In conclusion, the present study first elucidated cellular and molecular mechanisms of ZnPc on HepG2 cells.
+

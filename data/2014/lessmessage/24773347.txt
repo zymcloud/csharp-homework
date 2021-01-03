@@ -1,0 +1,4 @@
+24773347
+2014
+We have synthesized a series of anthrapyrazoles derivatives. The biological results indicated that these derivatives exhibited potent in vitro cytotoxicity against different cancer cell lines (human hepatocellular carcinoma HepG2 and BEL-7402, human colonic carcinoma HCT-116 and HT-29) and drug-resistant human hepatoma cell line (SMMC-7721). Among them, the polyamine-based anthrapyrazole derivatives 4c and 4f-g showed superior cytotoxicity than that of Mitoxantrone both on cancer cell lines and the drug-resistant subline. However, the DNA relaxation assay revealed that they had insignificant topoisomerase II inhibition. These results clearly indicate that polyamine side chains will have a profound effect on the cytotoxicity of anthrapyrazoles derivatives.
+

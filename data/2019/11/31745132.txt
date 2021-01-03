@@ -1,0 +1,4 @@
+31745132
+2019 Nov 19
+With the increasing use of direct-acting antivirals (DAA) for treatment of chronic hepatitis C virus (HCV) infection, we looked at the impact of DAA use and 12-week sustained viral response (SVR12) in patients with hepatocellular carcinoma (HCC) and HCV. This is a retrospective analysis of 969 HCC patients diagnosed from 2005 to 2016 at an urban tertiary-care hospital. Kaplan-Meier curves and multivariable Cox proportional hazards models were used to assess survival. Median overall survival of the cohort was 24.2 months. 470 patients had HCV (56%). 123 patients received DAA therapies for HCV (26.2%), 83 of whom achieved SVR12 (67.4%). HCV-positive and HCV-negative patients had similar survival, 20.7 months vs 17.4 months (p = 0.22). Patients receiving DAA therapy had an overall survival of 71.8 months vs 11.6 months for patients without (p
+

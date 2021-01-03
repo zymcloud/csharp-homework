@@ -1,0 +1,4 @@
+29497124
+2018 May
+Overexpression of Cyclin E has been seen in many types of cancers. However, the underlying mechanism remains enigmatic. Herein, we identified ubiquitin-specific peptidase 27 (USP27) as a Cyclin E interactor. We found that USP27 promoted Cyclin E stability by negatively regulating its ubiquitination. In addition, suppression of USP27 expression resulted in the inhibition of the growth, migration, and invasion of hepatocellular carcinoma. Furthermore, we detected a positive correlation between USP27 and Cyclin E expression in hepatocellular carcinoma tissues. Finally, we found that USP27 expression is inhibited by 5-fluorouracil (5-FU) treatment and USP27 depletion sensitizes Hep3B cells to 5-FU-induced apoptosis. USP27-mediated Cyclin E stabilization is involved in tumorigenesis, suggesting that targeting USP27 may represent a new therapeutic strategy to treat cancers with aberrant overexpression of Cyclin E protein.
+

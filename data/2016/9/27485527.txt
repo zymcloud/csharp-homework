@@ -1,0 +1,4 @@
+27485527
+2016 Sep
+The expression of microRNA (miR)-610 has previously been reported to be downregulated in gastric cancer and hepatocellular carcinoma. However, miR-610 has yet to be investigated in human glioma. In the present study, miR-610 expression was analyzed by reverse transcription-quantitative polymerase chain reaction. Post‑transfection with miR‑610 mimics and inhibitors, MTT assay, cell migration and invasion assays, western blot analysis and a luciferase assay were performed in glioma cell lines. The results demonstrated that miR‑610 was downregulated in glioma tissues compared with their normal adjacent tissues and normal brain tissues (P
+

@@ -1,0 +1,4 @@
+20359850
+2010 Jul
+Oxidative stress can contribute to the development of hepatocellular carcinoma (HCC) ability of the carcinoma. It has been found that oxidative stress stimulates the phosphorylation of eIF4E primarily through mitogen-activated protein kinase (MAPK) pathways resulting in increased protein translation. Utilizing specific inhibitors of MAPK pathways (SP600125 for c-Jun amino-terminal kinases [JNKs], PD098059 for extracellular signal-regulated kinases [ERKs], and SB203580 for p38 MAPK), we determined that it is primarily the inhibition of JNK that results in the suppression of the increase of p-eIF4E. We also found that PDCD4 inhibits JNK activity resulting in inhibition of the phosphorylation of c-Jun, one isoform of AP-1. We demonstrated that transfection with PDCD4 or inhibition of JNK by SP600125 alters the expression and phosphorylation of eIF4E in the presence of H(2)O(2). PDCD4 results in a stronger inhibitory effect than SP600125.
+

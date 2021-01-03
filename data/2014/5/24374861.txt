@@ -1,0 +1,4 @@
+24374861
+2014 May
+Loss of mitotic checkpoint of cells contributes to chromosomal instability and leads to carcinogenesis. Mitotic arrest deficient 1 (MAD1) is a key component in mitotic checkpoint signalling. In this study, we identified a novel MAD1 interacting partner, proline-rich acidic protein 1 (PRAP1), using yeast-two hybrid screening, and investigated its role in mitotic checkpoint signalling in hepatocellular carcinoma (HCC). We demonstrated the physical interaction of PRAP1 with MAD1 and of PRAP1 with MAD1 isoform MAD1β, using a co-immunoprecipitation assay. Moreover, stable expression of PRAP1 in mitotic checkpoint-competent HCC cells, BEL-7402 and SMMC-7721, induced impairment of the mitotic checkpoint (p
+MAD1; chromosomal instability; hepatocellular carcinoma; mitotic checkpoint; proline-rich acidic protein 1; protein interactions.

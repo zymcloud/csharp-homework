@@ -1,0 +1,4 @@
+25695068
+2015
+Hepatocellular carcinoma (HCC) is the leading cause of cancer death in men worldwide owing to limited insights into pathogenesis and unsatisfactory efficacy of current therapies. HER2 and TOP2A genes are coamplified in breast and some other cancers. In this study, we investigated gene aberrations of HER2 and TOP2A and protein expressions of HER2, TOP2A, Ki-67, and p53 in tumor and matched nontumor tissues, as well as their associations with clinicopathological features. Gene aberrations were evaluated by FISH and protein expressions by IHC. Neither HER2 overexpression nor HER2 gene amplification was observed in both tumor tissues and matched nontumor tissues. By contrast, TOP2A overexpression was detected in 72.5% of tumor tissues but not detected in matched nontumor tissues. However, TOP2A gene amplification was not observed in both tumor and matched nontumor tissues. TOP2A overexpression was significantly associated with HCC tumor tissues (P
+

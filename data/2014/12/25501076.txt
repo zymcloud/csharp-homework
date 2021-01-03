@@ -1,0 +1,4 @@
+25501076
+2014 Dec
+Insufficient data are available regarding the validation of long-term survival in patients with T2 (solitary tumor with microvascular invasion [MVI] or multiple tumors, none >5 cm) hepatocellular carcinoma (HCC) after primary hepatectomy. We aim to evaluate the survival and relevant risk factors for T2 HCC patients. Between 2001 and 2007, 312 T2 HCC patients who underwent primary hepatectomy were included. Survival was estimated using the Kaplan-Meier method and compared using Cox proportional hazard model with adjusted independent prognostic factors. The 1, 3, and 5-year overall survival rates of patients with MVI were 85.7%, 68.7%, and 64.8%, respectively; these were inferior to the rates in patients without MVI, which were 93.0%, 89.3%, and 73.7%, respectively (P = 0.037). Within the with-MVI group, the survival rate of patients with tumor sizes ≥ 5 cm was inferior to that of patients with tumors
+

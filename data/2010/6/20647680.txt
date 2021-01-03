@@ -1,0 +1,4 @@
+20647680
+2010 Jun
+A 15-kDa RNase was purified from Pleurotus djamor using ion exchange chromatography and gel filtration. Its N-terminal amino acid sequence was different from previously reported RNase sequences of mushrooms belonging to the genus of Pleurotus and other genera. The RNase exhibited maximal RNase activity at pH 4.6 and 60 degrees C. Its activity toward polyhomoribonucleotides was poly(U) > poly(C) > poly(A) > poly(G). It inhibited proliferation of hepatoma cells and breast cancer cells. The ranking of inhibitory potencies of metal ions on RNase activity was Fe(3+)> Al(3+)> Ca(2+)> Hg(2+). The isolated RNase had a distinctive N-terminal sequence and optimum pH. It exhibited antiproliferative activity on tumor cells.
+

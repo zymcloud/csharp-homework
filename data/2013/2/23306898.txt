@@ -1,0 +1,4 @@
+23306898
+2013 Feb
+A trypsin inhibitor with a molecular mass around 17 kDa was purified from the seeds of Phaseolus vulgaris cv. 'brown kidney bean'. The purification protocol involved, in sequence, affinity chromatography on Affi-gel blue gel, ion-exchange chromatography on Q-Sepharose and Mono Q, and gel filtration on Superdex 75. The molecular size and N-terminal amino acid sequence of the trypsin inhibitor resembled leguminous Bowman-Birk protease inhibitors (BBIs), signifying that brown kidney bean trypsin inhibitor is a BBI. Brown kidney bean trypsin inhibitor exhibited pronounced thermostability and pH stability. Its trypsin inhibitory activity was retained at all pH values (0-14) and up to 90 °C. The trypsin inhibitor also inhibited the proliferation of human breast cancer MCF7 cells with an IC(50) of 71.52 μM. On the other hand, it only slightly inhibited proliferation of hepatoma HepG2 and embryonic liver WRL68 cells at a concentration over 110 μM.
+

@@ -1,0 +1,4 @@
+25619623
+2015 Mar
+A targeted micellar drug delivery system is developed from a biocompatible and biodegradable amphiphilic polyester, poly(Lac-OCA)-b-(poly(Tyr(alkynyl)-OCA)-g-mannose) (PLA-b-(PTA-g-mannose), that is synthesized via controlled ring-opening polymerization of O-carboxyanhydride (OCA) and highly efficient "Click" chemistry. Doxorubicin (DOX), a model lipophilic anticancer drug, can be effectively encapsulated into the micelles, and the mannose moiety allows active targeting of the micelles to cancer cells that specifically express mannose receptors, which thereafter enhances the anticancer efficiency of the drug. Comprised entirely of biodegradable and biocompatible polyesters, this micellar system demonstrates promising potentials for targeted drug delivery and cancer therapy.
+O-carbyxyanhydride; micelles; polyesters; ring-opening polymerization; targeted drug delivery.

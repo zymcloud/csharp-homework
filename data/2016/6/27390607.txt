@@ -1,0 +1,4 @@
+27390607
+2016 Jun 25
+Multiple targets RNAi strategy is a preferred way to treat multigenic diseases, especially cancers. In the study, multi-target siRNAs were designed to inhibit NET-1, EMS1 and VEGF genes in hepatocellular carcinoma (HCC) cells. And multi-target siRNAs showed better silencing effects on NET-1, EMS1 and VEGF, compared with single target siRNA. Moreover, multi-target siRNA showed greater suppression effects on proliferation, migration, invasion, angiogenesis and induced apoptosis in HCC cells. The results suggested that multi-target siRNA might be a preferred strategy for cancer therapy and NET-1, EMS1 and VEGF could be effective targets for HCC treatments.
+EMS1; NET-1; VEGF.; hepatocellular carcinoma (HCC); multi-target siRNA.

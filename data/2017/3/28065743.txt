@@ -1,0 +1,4 @@
+28065743
+2017 Mar
+Background:Tripartite Motif Containing 11 (TRIM11), a member of TRIM proteins is overexpressed in gliomas and lung cancer. However, the role of TRIM11 in hepatocellular carcinoma (HCC) is unknown.Basic procedures:Herein, we aimed to investigate the expression and clinical significance role of TRIM11 in HCC.Main finding:In this study, our data showed significant higher TRIM11 in HCC tissues (n=117) than in the matched non-tumor liver (NTL) tissues (PPrincipal conclusions:Our data showed that TRIM11 expression was significantly elevated in HCC tissues. The overexpression of TRIM11 is closely associated with HCC progression and poor survival of the patients, indicating TRIM11 is a potential therapeutic target for HCC patients.
+

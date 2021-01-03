@@ -1,0 +1,4 @@
+26757918
+2016 Mar
+Obesity is implicated as an important factor in the rising incidence of liver cancer in the USA. Bariatric surgery is increasingly used for treating morbid obesity and comorbidities. Using administrative data from UHC, a consortium of academic medical centers in the USA, we compared the prevalence of liver cancer among admissions with and without a history of bariatric surgery within a 3-year period. Admissions with a history of bariatric surgery had a 61 % lower prevalence of liver cancer compared to those without a history of bariatric surgery (prevalence ratio 0.39, 95 % confidence interval 0.35-0.44), and these inverse associations persisted within strata of sex, race, and ethnicity. This hospital administrative record-based analysis suggests that bariatric surgery could play a role in liver cancer prevention.
+Administrative records; Bariatric surgery; Diabetes; Liver cancer; Obesity.

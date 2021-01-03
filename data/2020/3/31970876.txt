@@ -1,0 +1,4 @@
+31970876
+2020 Mar
+In this study, we aimed to investigate expression profile of long non-coding RNA (lncRNA) SUMO1P3, and its role and molecular mechanisms in the progression of hepatocellular carcinoma (HCC). The expression of SUMO1P3 in HCC tissues and cells was detected using quantitative real-time polymerase chain reaction (qRT-PCR). The chi-squared test was used to estimate the relationship between SUMO1P3 levels and clinical characteristics of HCC cases. Cellular biological behaviours were investigated using MTT, transwell assays and wound healing assay. Bioinformatics and dual-luciferase reporter assays were performed to identify potential target of SUMO1P3 in HCC. Additionally, protein analysis was carried out using Western blot. The expression of SUMO1P3 was significantly higher in HCC tissues and cells than in non-cancerous specimens and normal cells (P
+SUMO1P3; Wnt/β-catenin pathway; hepatocellular carcinoma; long non-coding RNA; microRNAs.

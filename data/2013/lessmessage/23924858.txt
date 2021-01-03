@@ -1,0 +1,4 @@
+23924858
+2013
+Overexpression of Pokemon, which is an erythroid myeloid ontogenic factor protein, occurs in different cancers, including hepatocellular carcinoma (HCC). Pokemon is also reported to have an oncogenic activity in various human cancers. This study investigated the effect of Pokemon knockdown on the regulation of HCC growth. POK shRNA suppressed the expression of Pokemon protein in HepG2 cells compared to the negative control vector-transfected HCC cells. Pokemon knockdown also reduced HCC cell viability and enhanced cisplatin-induced apoptosis in HCC cells. AKT activation and the expression of various cell cycle-related genes were inhibited following Pokemon knockdown. These data demonstrate that Pokemon may play a role in HCC progression, suggesting that inhibition of Pokemon expression using Pokemon shRNA should be further evaluated as a novel target for the control of HCC.
+

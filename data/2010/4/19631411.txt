@@ -1,0 +1,4 @@
+19631411
+2010 Apr
+Liver transplantation is the most effective treatment for many patients with chronic end-stage liver disease. The discrepancy between the number of donor organs and potential recipients causes marked pre-transplantation mortality and consequently optimal rationalization of organ allocation is essential. The Model for End-Stage Liver Disease (MELD) is an objective and easily reproducible prognostic index of mortality based on three simple analytical variables: bilirubin and serum creatinine and the prothrombin time/International Normalized Ratio (INR) of protrombine time. The implementation of MELD as an organ allocation system has reduced mortality on the waiting list without affecting post-transplantation survival. Nevertheless, this model has some limitations and consequently further investigations should be performed to improve the organ allocation policy in liver transplantation.
+

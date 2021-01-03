@@ -1,0 +1,4 @@
+23318416
+2013 Oct 10
+Claudins are integral structural and functional components of apical cell adhesions (tight junctions). Loss of such adhesions has been associated with malignant transformation, a process most often accompanied by a concomitant loss of claudin expression. A growing body of evidence reveals the highly contextual upregulation of claudin expression in certain cancer types, and moreover their relevance in promoting cancer cell invasion and metastatic progression. In this issue of Oncogene, Suh et al. reported on claudin-1 expression in hepatocellular carcinoma (HCC), including its role as a promoter of the epithelial-to-mesenchymal transition via the c-Abl/Raf/Ras/ERK signaling pathway. Considering the limited therapeutic options in HCC, evaluation of its role as a target merits further investigation.
+

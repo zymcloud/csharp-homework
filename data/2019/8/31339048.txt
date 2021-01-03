@@ -1,0 +1,4 @@
+31339048
+2019 Aug
+Aim: Micro and macro vascular invasion (VI) are known as independent predictors of tumor recurrence and poor survival after surgical treatment of hepatocellular carcinoma (HCC). Here, we aimed to re-analyze The Cancer Genome Atlas of liver hepatocellular carcinoma datasets to identify the VI-expression signatures. Materials & methods: We filtered The Cancer Genome Atlas liver hepatocellular carcinoma (LIHC) datasets into three groups: no VI (NVI = 198); micro VI (MIVI = 89) and macro VI (MAVI = 16). We performed differential gene expression, methylation and microRNA analyses. Results & conclusion: We identified 12 differentially expressed genes and 55 differentially methylated genes in MAVI compared with no VI. The GPD1L gene appeared in all of the comparative analyses. Higher GPD1L expression was associated with VI and poor outcomes in the HCC patients.
+HCC; TCGA; biomarker; vascular invasion.

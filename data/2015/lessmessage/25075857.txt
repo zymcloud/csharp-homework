@@ -1,0 +1,4 @@
+25075857
+2015
+This study compares the chloroform extracts of bulbs and roots of Narcissus papyraceus Ker Gawl. and Narcissus tazetta L. The cytotoxicity of the plant extracts was evaluated against human hepatocellular carcinoma cell line (HEPG2) and colon carcinoma cell line (HCT116) in comparison to doxorubicin. The extracts from the after-flowering (AF) bulbs of N. tazetta L. and N. papyraceus exhibited strong cytotoxic activity against HEPG2 (IC50: 2.2, 3.5 μg mL(-1)) and HCT116 (IC50: 4.2, 3.9 μg mL(-1)) cell lines, respectively. N. tazetta L. bulbs exhibited the least cell viability percentage in HepG-2 cell line (5.32%), while the AF root extracts of N. papyraceus exhibited the least cell viability percentage in HCT116 cell line (4.93%), when applied at a concentration of 50 μg mL(-1), thereby being more active than doxorubicin at the same concentration.
+Amaryllidaceae; HCT116; HEPG2; Narcissus papyraceus Ker Gawl.; Narcissus tazetta L.; cytotoxic.

@@ -1,0 +1,4 @@
+24903013
+2014 Jun
+Altered N-glycosylation of membrane proteins is associated with malignant transformation of cells. We found that the expression of the β4-galactosyltransferase 2 (β4GalT2) gene is decreased markedly during the transformation. Here, we examined whether the tumor growth activity of B16-F10 mouse melanoma cells can be reduced by the enhanced expression of the β4GalT2 gene. We isolated a clone, B16-β4GalT2, showing its β4GalT2 transcript 2.5 times higher than a control clone, B16-mock, by transducing its cDNA, and transplanted them subcutaneously into C57BL/6 mice to examine their tumor growth activity. The results showed that the average size of tumors formed with B16-mock cells is 13.1±0.76 mm, whereas that of tumors formed with B16-β4GalT2 cells is 5.1±1.13 mm (P
+

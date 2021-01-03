@@ -1,0 +1,4 @@
+28387606
+2017 May 4
+A convenient synthesis of a novel series of dihydropyridine and pyridine thioglycosides was developed. The evaluation of anti-proliferative activity against HepG-2 cell lines (liver carcinoma cell lines) shows that most of the compounds have antitumor activity, especially 5b, 5f, 5j, 5n, 7b, 7f, 7j, 7n, 8b, 8f, and 8j. The results of molecular docking reveal that these compounds have high binding affinity by hydrogen bond formation with the binding pocket of thymidylate synthase dihydrofolate reductase (TS-DHFR).
+Dihyropyridine thioglycosides; cytotoxic activity; docking studies; pyridine thioglycosides; thioglycosides.

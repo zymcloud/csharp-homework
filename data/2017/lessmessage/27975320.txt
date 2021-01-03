@@ -1,0 +1,4 @@
+27975320
+2017
+Hepatitis B virus (HBV) infection can be associated with a spectrum of clinical outcomes. Transient transfection of the clinical HBV isolates in human hepatoma cell lines can establish their biological properties to shed light on their different pathogenic potentials, yet very few clinical HBV isolates have been functionally characterized so far. The technical challenges include faithful amplification of the full-length HBV genome from clinical samples and conversion into a replication-competent form. We have improved a published method to amplify the full-length HBV genome from blood samples. Two alternative approaches are used to render the cloned HBV genome replication competent: release and circularization of the 3.2-kb HBV genome prior to each transfection experiment or conversion of the monomeric clone into a tandem dimer version.
+HBV clinical isolates; Tandem dimer; Transfection.

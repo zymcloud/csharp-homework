@@ -1,0 +1,4 @@
+27216119
+2016 May 24
+Hepatocellular carcinoma (HCC) is the fifth most common malignant cancer in the world. The sensitivity of alpha-fetoprotein (AFP) is still inadequate for HCC diagnosis. Tissue interstitial fluid (TIF), as the liquid microenvironment of cancer cells, was used for biomarker discovery in this study. Paired tumor and nontumor TIF samples from 6 HBV-HCC patients were analyzed by a proteomic technique named iTRAQ (isobaric tag for relative and absolute quantitation). Totally, 241 up-regulated proteins (ratio ≥ 1.3, p
+

@@ -1,0 +1,4 @@
+33033527
+2020 Sep 14
+Objective: To explore the effect of COX-2 inhibitor celecoxib in combination with metformin on the prevention of Hepatocellular carcinoma (HCC) and the mechanisms involved. Methods: HCC cell lines and an HCC rat model were treated with celecoxib, metformin or a combination of both. Cell viability and tumor formation were measured. Results: In vitro and in vivo studies showed that treatment with a combination of celecoxib and metformin inhibited proliferation of HCC to a greater extent than either treatment alone, by reducing the phosphorylation of MTOR. Conclusion: The study suggested that celecoxib combined with metformin would be more effective for the preventing occurrence of HCC than either treatment alone and this combination of therapy is worthy of further study.
+Celecoxib; Hepatocellular carcinoma; MTOR; combination; metformin.

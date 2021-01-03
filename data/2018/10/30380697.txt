@@ -1,0 +1,4 @@
+30380697
+2018 Oct 30
+Hepatitis C virus (HCV) infection is a worldwide health problem and is one of the main causes of chronic hepatitis, liver cirrhosis, and hepatocellular carcinoma (HCC). Despite recent improvements, effective treatments for HCC are still missing and new tools for early detection are needed. Non-coding RNAs (ncRNAs) have emerged as important regulators of gene expression and key players in human carcinogenesis, including HCC. Aberrant expression of ncRNAs is associated with HCC metastasis, invasion, dissemination, and recurrence. This review will focus on the recent advances in ncRNA expression profiles, their dysregulation in HCV-related HCC, and the clinical perspective of ncRNA signatures for the early detection of HCC.
+hepatitis C virus; hepatocellular carcinoma; long non-coding RNA; microRNA.

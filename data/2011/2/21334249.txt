@@ -1,0 +1,4 @@
+21334249
+2011 Feb
+Interferon (IFN)-γ is a cytokine known for its immunomodulatory and anti-proliferative action. In the liver, IFN-γ can induce hepatocyte apoptosis or inhibit hepatocyte cell cycle progression. This article reviews recent mechanistic reports that describe how IFN-γ may direct the fate of hepatocytes either towards apoptosis or a cell cycle arrest. This review also describes a probable role for IFN-γ in modulating hepatocyte fate during liver regeneration, transplantation, hepatitis, fibrosis and hepatocellular carcinoma, and highlights promising areas of research that may lead to the development of IFN-γ as a therapy to enhance recovery from liver disease.
+

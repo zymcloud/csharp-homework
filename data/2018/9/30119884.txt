@@ -1,0 +1,4 @@
+30119884
+2018 Sep 18
+The Vestigial-Like Family Member 4 (VGLL4) functions as a native inhibitor of cell proliferation and tumor growth through multiple signaling pathways. We first discovered that VGLL4 causes G2/M phase arrest in hepatocellular carcinoma (HCC) cells. Then, we designed a novel survivin-regulated oncolytic adenovirus Ad-sp-VGLL4 carrying the VGLL4 gene. Ad-sp-VGLL4 exerted high HCC-targeting-selectivity but is less harmful to normal cells. This adenovirus construction enhanced antitumor activity due to G2/M phase arrest and enhanced apoptosis. It's also indicated that Ad-sp-VGLL4 could suppress the growth of transplanted tumor of HCC in vivo experiment. Taken together, our results suggest that Ad-sp-VGLL4 possesses strong antitumor capacity and has great potential use for HCC therapy.
+Apoptosis; G2/M phase arrest; Oncolytic adenovirus; Survivin promotor; VGLL4.

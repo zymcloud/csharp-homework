@@ -1,0 +1,4 @@
+22434049
+2012 Jun
+Novel biological therapies, including tyrosine kinase inhibitors such as sorafenib, improve the survival of patients with unresectable hepatocellular carcinoma. However, assessment of therapeutic efficacy remains challenging with conventional imaging techniques such as ultrasonography, CT or MRI that predominantly rely on size change to detect a treatment response. A beneficial tumour effect may go unrecognized in some patients who do not show tumour shrinkage and conversely, some patients may be maintained on treatment that is not active. This paper explores the use of functional imaging methods that are showing promise in the assessment of hepatocellular carcinoma.
+

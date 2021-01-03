@@ -1,0 +1,4 @@
+29397774
+2019 Jun
+In this study, a new coumarin, juglansoside C (1) was isolated from the bark of Juglans mandshurica. Its chemical structure was identified by comprehensive spectroscopic analyses. The in vitro cytotoxicity assay showed that 1 exhibited moderate cytotoxicity against human hepatocellular carcinoma Hep3B cells with an IC50 value of 70.9 μM. Furthermore, Annexin V-FITC/PI staining assay indicated that 1 markedly induced apoptosis in Hep3B cells.
+apoptosis; coumarin; cytotoxicity; hepatocellular carcinoma.

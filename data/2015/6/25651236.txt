@@ -1,0 +1,4 @@
+25651236
+2015 Jun
+A ruthenium(II) complex coordinated by cordycepin, [Cor‑Ru(II)], was synthesized for investigation as a potential novel candidate for cancer therapy. The antitumor activity of Cor‑Ru(II) was investigated by MTT and flow cytometry (FCM) assays. The results showed that Cor‑Ru(II) significantly inhibited the proliferation of Bel‑7402 human hepatoma cells and delayed cell cycle progression. Subsequent experiments using FCM and western blot analysis indicated that Cor‑Ru(II) induced cell apoptosis via suppression of bcl‑2 expression and stimulation of p53 expression. Cor‑Ru(II) was shown to interfere with the synthesis of DNA. This was confirmed by the in vitro binding to DNA in the groove binding mode (Kb=4.22(±0.2)x10(5) M(‑1)). Thus, Cor‑Ru(II) appears to act as an effective antitumor agent in vitro.
+

@@ -1,0 +1,4 @@
+29532863
+2018 Jun
+RNA interference (RNAi) technology has been widely used in therapeutics development, especially multiple targeted RNAi strategy, which is a better method for multiple gene suppression. In the study, interfering RNAs (iRNAs) were designed for carrying two or three different siRNA sequences in different secondary structure formats (loop or cloverleaf). By using these types of iRNAs, co-inhibition of survivin and B-cell lymphoma-2 (Bcl-2) was investigated in hepatocellular carcinoma (HCC) cells, and we obtained promising gene silencing effects without showing undesirable interferon response. Furthermore, suppression effects on proliferation, invasion, and induced apoptosis in HCC cells were validated. The results suggest that long iRNAs with secondary structure may be a preferred strategy for multigenic disease therapy, especially for cancer and viral gene therapy and their iRNA drug development.
+

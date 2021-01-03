@@ -1,0 +1,4 @@
+29658323
+2020 Oct
+Two new anthraquinone derivatives, selaginones A (1) and B (2), and one new triarylbenzophenone analog, selagibenzophenone B (3), were isolated from Selaginella tamariscina (Beauv.) Spring. Their structures were established by 1D-, 2D-NMR and HR-ESI-MS data. Compounds 1 and 2 represent the uncommon examples of aryl substituted anthraquinone derivatives. Especially, compound 2 is a unique anthranone with exceptional structural feature, in which a p-hydroxyphenyl moiety is attached to the C-10 position. Compound 3 is the second naturally occurring triarylbenzophenone and showed moderate activity against SMCC-7721 and MHCC97-H cell lines with IC50 values of 39.8, 51.5 μM respectively.
+Selaginella tamariscina; anthranone; anthraquinone; hepatocellular carcinoma; selagibenzophenone B; selaginone A; selaginone B.

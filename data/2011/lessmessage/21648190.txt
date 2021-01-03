@@ -1,0 +1,4 @@
+21648190
+May-Jun 2011
+A new series of (benzofuran-2-yl)-1-phenyl-1H-pyrazol-4-yl) pyrimidine derivatives were synthesized from 3-(benzofuran-2-yl)-1-phenyl-1H-pyrazol-4-carbaldehyde (1) through different routes of cyclocondensation reactions. Condensation of 1 with active methylene compounds afforded compounds 2-8. The cyclization of 2 with chloroacetic acid, ortho substituted benzoic acid and/or ethanolamine gave compounds 9-12. Also condensation of 2 with hydrazine hydrate followed by cyclocondensation afforded corresponding triazines and pyrazole derivatives 18-27. Some docking studies of the newly prepared compounds as thymidylate synthase inhibitors have been done. Also the cytotoxic activity of some of the prepared compounds as a representative examples was evaluated against HEPG2 (human liver carcinoma cell line) in comparison with 5-fluorouracil (5-Fu).
+

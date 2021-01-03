@@ -1,0 +1,4 @@
+25420499
+2015 Feb
+Dysregulation of growth factor signaling plays a pivotal role in controlling the malignancy phenotype and progression of hepatocellular carcinoma (HCC). However, the precise oncogenic mechanisms underlying transcription regulation of certain tumor suppressor genes (TSGs) by growth factors are poorly understood. In the present study, we report a novel insulin-like growth factor 1 (IGF1) pathway that mediates de novo DNA methylation and TSG (such as DLC1 and CHD5) silencing by upregulation of the DNA methyltransferase 1 (DNMT1) via an AKT/β-transducin repeat-containing protein (βTrCP)-mediated ubiquitin-proteasome pathway in HCC. Analysis of DNA methylation in CpG islands of target genes revealed high co-localization of DNMT1 and DNMT3B on the promoters of TSGs associated with enhanced CpG hypermethylation. Our results point to a novel epigenetic mechanism for growth factor-mediated repression of TSG transcription that involves DNA methylation.
+

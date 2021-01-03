@@ -1,0 +1,4 @@
+30919528
+2019 Jun
+Hepatocellular carcinoma (HCC) has high recurrence rates even after curative hepatectomy. Drug therapy for recurrence of HCC is still limited; therefore, identifying new therapeutic targets is urgently needed. We searched for genes that would predict HCC recurrence from intrahepatic metastasis in an exhaustive DNA microarray database by searching genes associated with high early recurrence rate and having higher expression in the tumor area compared to background liver. We detected lysyl oxidase (LOX) and validated the clinical significance of LOX in 358 patients who underwent hepatectomy. Expression of LOX was evaluated by qRT- PCR, and immunohistochemical (IHC) staining. High LOX expression group had a significantly higher recurrence rate than the low LOX expression group (2-year recurrence rate was 64.0% vs 24.2%, P
+early recurrence; epithelial-mesenchymal transition; hepatocellular carcinoma; intrahepatic metastasis; lysyl oxidase.

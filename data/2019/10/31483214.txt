@@ -1,0 +1,4 @@
+31483214
+2019 Oct
+Autophagy is a finely tuned process in the regulation of innate immunity to avoid excessive inflammatory responses and inflammasome signaling. In contrast, the results of recent studies have shown that autophagy may disease-dependently contribute to the pathogenesis of liver diseases, such as fibrosis, cirrhosis, and hepatocellular carcinoma (HCC) during hepatitis B virus (HBV) infection. HBV has learned to subvert the cell's autophagic machinery to promote its replication. Given the great impact of the autophagy mechanism on the HBV infection and HCC, recognizing these factors may be offered new hope for human intervention and treatment of chronic HBV. This review focuses on recent findings viewing the dual role of autophagy plays in the pathogenesis of HBV infected hepatocytes.
+HBV infection; autophagy; pathogenesis.

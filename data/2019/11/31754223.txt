@@ -1,0 +1,4 @@
+31754223
+2019 Nov 21
+This study aimed to select the feature genes of hepatocellular carcinoma (HCC) with the Fisher score algorithm and to identify hub genes with the Maximal Clique Centrality (MCC) algorithm. Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analysis was performed to examine the enrichment of terms. Gene set enrichment analysis (GSEA) was used to identify the classes of genes that are overrepresented. Following the construction of a protein-protein interaction network with the feature genes, hub genes were identified with the MCC algorithm. The Kaplan-Meier plotter was utilized to assess the prognosis of patients based on expression of the hub genes. The feature genes were closely associated with cancer and the cell cycle, as revealed by GO, KEGG and GSEA enrichment analyses. Survival analysis showed that the overexpression of the Fisher score-selected hub genes was associated with decreased survival time (P
+

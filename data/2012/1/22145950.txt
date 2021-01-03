@@ -1,0 +1,4 @@
+22145950
+2012 Jan
+Chronic hepatitis C virus (HCV) infection affects approximately 170 million people worldwide. HCV infection is a major global health problem as it can be complicated with liver cirrhosis and hepatocellular carcinoma. So far, there is no vaccine available and the non-specific, interferon (IFN)-based treatments now in use have significant side-effects and are frequently ineffective, as only approximately 50% of treated patients with genotypes 1 and 4 demonstrate HCV clearance. The lack of suitable in vitro and in vivo models for the analysis of HCV infection has hampered elucidation of the HCV life cycle and the development of both protective and therapeutic strategies against HCV infection. The present review focuses on the progress made towards the establishment of such models.
+

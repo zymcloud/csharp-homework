@@ -1,0 +1,4 @@
+25775062
+2016 Mar
+Objectives:To evaluate the efficacy of surgical resection (SR) and radiofrequency ablation (RFA) for single hepatocellular carcinoma (HCC) 2 cm or less.Background:The optimal management for Barcelona Clínic Liver Cancer (BCLC) very early-stage HCC is undetermined.Methods:Between 2002 and 2013, a total of 237 (SR, 109; RFA, 128) patients with BCLC very early-stage HCC were enrolled. Their overall survival (OS) and recurrence-free survival (RFS) were compared. Propensity score matching analysis identified 79 matched pairs of patients to compare outcomes.Results:At baseline, patients with SR were younger and had larger tumors (both P Conclusions:Surgical resection provides better long-term OS and RFS compared with RFA in patients with BCLC very early-stage HCC. Surgical resection should be considered as the first-line treatment for these patients.
+

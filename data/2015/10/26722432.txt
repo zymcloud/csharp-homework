@@ -1,0 +1,4 @@
+26722432
+2015 Oct 1
+MicroRNAs (miRNAs) are classes of small, non-coding RNAs that regulate the translation of target mRNA transcripts. In this study, we demonstrated that miR-592 was downregulated in human hepatocellular carcinoma (HCC) and could suppress growth of the human HCC cell line HepG2. A tumor oncogene, DEK, was identified as a direct target of miR-592. Luciferase report assay indicated miR-592 regulates DEK expression though bind to its 3'UTR. Furthermore, knockdown of DEK also suppressed cell proliferation of HepG2 cells, which was consist with miR-592. At last, we suggested that DEK was upregulated in HCC tissues inversely with miR-592. These results demonstrated that miR-592 targets DEK transcript and suppresses HCC cell growth, and may provide potential therapeutic target in human HCC.
+DEK; cell growth; hepatocellular carcinoma; miR-592.

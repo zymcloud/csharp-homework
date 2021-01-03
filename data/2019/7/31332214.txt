@@ -1,0 +1,4 @@
+31332214
+2019 Jul 22
+While patient-derived xenograft (PDX) models of hepatocellular carcinoma (HCC) have been successfully generated from resected tissues, no reliable methods have been reported for the generation of PDXs from patients who are not candidates for resection and represent the vast majority of patients with HCC. Here we compare two methods for the creation of PDXs from HCC biopsies and find that implantation of whole biopsy samples without the addition of basement membrane matrix favors the formation of PDX tumors that resemble Epstein-Barr virus (EBV)-driven B-cell lymphomas rather than HCC tumors. In contrast, implantation with Matrigel supports growth of HCC cells and leads to a high rate of HCC tumor formation from these biopsies. We validate the resulting PDXs, confirm their fidelity to the patients' disease and conclude that minimally invasive percutaneous liver biopsies can be used with relatively high efficiency to generate PDXs of HCC.
+

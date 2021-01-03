@@ -1,0 +1,4 @@
+25969635
+Apr-Jun 2015
+Morphologic methods such as the Response Evaluation Criteria in Solid Tumors (RECIST) are considered as the gold standard for response assessment in the management of cancer. However, with the increasing clinical use of antineoplastic cytostatic agents and locoregional interventional therapies in hepatocellular carcinoma (HCC), conventional morphologic methods are confronting limitations in response assessment. Thus, there is an increasing interest in new imaging methods for response assessment, which can evaluate tumor biology such as vascular physiology, fibrosis, necrosis, and metabolism. In this review, we discuss various novel imaging methods for response assessment and compare them with the conventional ones in HCC.
+Computed tomography perfusion; diffusion weighted imaging; dynamic contrast-enhanced magnetic resonance imaging; hepatocellular carcinoma; positron emission tomography.

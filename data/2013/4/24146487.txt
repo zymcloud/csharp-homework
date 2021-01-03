@@ -1,0 +1,4 @@
+24146487
+2013 Apr 12
+We studied the in vitro anti-tumor activity of Bidens Bipinnata L. extract. MTT assay was used to investigate the inhibitory effect of different concentrations of the extracts on human hepatocellular carcinoma (HepG2) cell lines and human cervical carcinoma (Hela) cell lines, and the IC50 values were calculated. The Bidens Bipinnata L. extract had different degrees of inhibitory effects on these two cells, and when exposure time was 48 h, the inhibition rate reached its peak, with IC50 values of 14.80 µg/mL and 13.50 µg/mL respectively. The Bidens Bipinnata L. extract had a good inhibitory effect on human HepG2 cell lines and Hela cell lines, and thus has certain development prospects.
+Bidens Bipinnata L.; MTT; anti-tumor; cell culture.

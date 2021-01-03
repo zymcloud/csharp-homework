@@ -1,0 +1,4 @@
+25497556
+2015 Mar
+Purpose:To perform a systematic review and meta-analysis to compare the clinical outcomes and toxicity of hepatocellular carcinoma (HCC) patients treated with charged particle therapy (CPT) with those of individuals receiving photon therapy.Methods:We identified relevant clinical studies through searching databases. Primary outcomes of interest were overall survival (OS) at 1, 3, 5 years, progression-free survival (PFS), and locoregional control (LC) at longest follow-up.Results:73 cohorts from 70 non-comparative observational studies were included. Pooled OS was significantly higher at 1, 3, 5 years for CPT than for conventional radiotherapy (CRT) [relative risk (RR) 1·68, 95% CI 1·22-2·31; pConclusion:Survival rates for CPT are higher than those for CRT, but similar to SBRT in patients with HCC. Toxicity tends to be lower for CPT compared to photon radiotherapy.
+Carbon-ion; Hepatocellular carcinoma; Meta-analysis; Photon; Proton; Radiotherapy.

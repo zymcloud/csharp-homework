@@ -1,0 +1,4 @@
+27321426
+2016 Sep 1
+Six steroids (1-6), including the two new compounds 3β,4α-dihydroxyergosta-5,24(28)-diene (1) and 24(S),28-epoxyergost-5-ene-3β,4α-diol (2), were isolated from the methanol extract of the Vietnamese soft coral Sinularia nanolobata. Their structures were elucidated by spectroscopic methods including one and two dimensional (1D- and 2D)-NMR, Fourier transform ion cyclotron resonance (FT-ICR)-MS, and circular dichroism (CD). Compound 2 exhibited moderate cytotoxicity against the acute leukemia (HL-60) cell line with IC50 value of 33.53±4.25 µM and weak effect on the hepatoma cancer (HepG2) and colon adenocarcinoma (SW480) cell lines with IC50 values of 64.35±7.00 and 71.02±4.00 µM, respectively.
+

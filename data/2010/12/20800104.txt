@@ -1,0 +1,4 @@
+20800104
+2010 Dec
+The pathogenicity of Mycobacterium ulcerans (Buruli ulcer) depends on cytotoxic effect of its exotoxin mycolactone. Since epidermis represents a barrier against infectious agents and balanced apoptosis is essential in epidermal homeostasis, we explored if mycolactone A/B induces apoptosis on two human keratinocyte populations, stem cells (KSC) and transit amplifying cells (TAC), and on human keratinocyte line, HaCaT. Treatment of TAC with 1 and 10 ng/ml mycolactone-induced 60 and 90% apoptosis. KSC were more resistant than TAC: 50 and 75% of cells underwent apoptosis after 10 and 100 ng/ml toxin-treatment. Higher doses (1000 ng/ml) induced about 30% apoptosis on HaCaT. In contrast, mycolactone A/B was devoid of toxicity neither on human hepatoma HuH7 nor on human embryonic kidney HEK 293 T cell lines. In conclusion, mycolactone induces apoptosis in human keratinocytes, thus contributing to Buruli ulcer lesions development.
+

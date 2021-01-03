@@ -1,0 +1,4 @@
+28648520
+2017 Sep 15
+Over-activation of beta-catenin/TCF signaling has been frequently observed in hepatocellular carcinoma (HCC). Better understanding the molecular mechanism for the aberrant activation of beta-catenin/TCF signaling would provide novel insights into the treatment of this malignancy. In this study, we have shown that the expression of PKMYT1 was up-regulated in HCC. PKMYT1 positively regulated the growth, migration, colony formation, metastasis and epithelia mesenchymal transition (EMT) of HCC cells. Mechanically, PKMTY1 activated the beta-catenin/TCF signaling by binding and inactivating GSK3beta. Taken together, our study demonstrated the oncogenic activity of PKMYT1 in the progression of HCC and suggested that PKMYT1 might be a therapeutic target.
+Beta-catenin/TCF; Epithelial mesenchymal transition; Hepatocellular carcinoma; PKMYT1.

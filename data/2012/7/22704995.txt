@@ -1,0 +1,4 @@
+22704995
+2012 Jul 30
+Tert-butyl-2(4,5-dihydrogen-4,4,5,5-tetramethyl-3-O-1H-imidazole-3-cationic-1-oxyl-2)-pyrrolidine-1-carboxylic ester (L-NNP) is a stable nitroxyl nitroxide radical, which have displayed cytotoxicity on human breast cancer MCF-7 and MDA-MB-231 cell lines. In the present study, we investigated the selective cytotoxicity of L-NNP on isogenetic human hepatoma HepG2 and normal L-02 cell lines. Cell growth inhibition, intracellular reactive oxygen species production, the mitochondrial membrane potential loss, malondialdehyde generation and glutathione levels were analyzed. The expression of Bax, Bcl-2 and NF-κBp65 proteins was also examined. The anticancer activity was evaluated in a HepG2 cell xenograft nude mice model. The results showed that 10, 20, 40 μg/ml L-NNP exposure for 48 h caused 52%, 82% and 91% cell growth inhibition of HepG2 cells, compared with 5%, 10% and 15% that of L-02 cells (p
+

@@ -1,0 +1,4 @@
+28099336
+2017 Jan
+The aim of this study was to examine the effect of nonprotein respiratory quotient (npRQ), as assessed using indirect calorimetry, on clinical outcomes in patients with liver cirrhosis (LC). A total of 244 LC patients were evaluated in this study. For the univariate analysis, for each continuous variable, the optimal cutoff value that maximized the sum of sensitivity and specificity was selected using receiver operating curve (ROC) analysis for survival. There were 137 men and 107 women with the median (range) age of 67 (25-90) years. Indirect calorimetry indicated that 54 patients (22.1%) had hepatocellular carcinoma (HCC) on radiological findings and 59 patients (24.2%) had protein energy malnutrition, as defined by npRQ
+

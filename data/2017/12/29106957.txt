@@ -1,0 +1,4 @@
+29106957
+2017 Dec 16
+Deleted in Breast Cancer 1 (DBC1) is a regulatory protein involved in cell metabolism and cancer progression. Nevertheless, the expression and prognostic values of DBC1 in hepatocellular carcinoma (HCC) are still not well understood. The following study investigated the clinical significance and biological function of DBC1 in HCC. Briefly, overexpression of DBC1 at transcriptional and translational levels in human HCC tissues compared to adjacent normal tissues was observed using quantitative real-time polymerase chain reaction (qRT-PCR), western blot (WB) and immunohistochemistry (IHC) approach. Furthermore, upregulated DBC1 was significantly correlated with tumor size (p = 0.005), N stage (p = 0.016), M stage (p = 0.011), tumor differentiation (p
+DBC1; Hepatocellular carcinoma; Prognosis; Proliferation.

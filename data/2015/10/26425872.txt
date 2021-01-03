@@ -1,0 +1,4 @@
+26425872
+2015 Oct 21
+To evaluate hepatic tumor detection using ultrafast cone-beam computed tomography (UCBCT) cross-sectional and 3D post-processed image datasets. 657 patients were examined using UCBCT during hepatic transarterial chemoembolization (TACE), and data were collected retrospectively from January 2012 to September 2014. Tumor detectability, diagnostic ability, detection accuracy and sensitivity were examined for different hepatic tumors using UCBCT cross-sectional, perfusion blood volume (PBV) and UCBCT-MRI (magnetic resonance imaging) fused image datasets. Appropriate statistical tests were used to compare collected sample data. Fused image data showed the significantly higher (all P
+

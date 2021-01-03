@@ -1,0 +1,4 @@
+22406860
+2012 Jun
+Photothermal cancer therapy, as a prospective approach for local cancer treatment, is attracting increasing interests. In this paper, gold nanorods were conjugated with folate (folate/AuNRs), and their photothermal effects on hepatocellular carcinoma cell line (HepG2) using MTT assay, flow cytometry, as well as on the cellular morphology, cytoskeleton, cell surface adhesion, and stiffness detected at subcellular level by an atomic force microscope (AFM) were investigated. The results indicated that near-infrared laser-induced hyperthermia of folate/AuNRs could break the cell membrane integrity and homeostasis and then lead to the depolymerization of cytoskeleton and influx of intracellular Ca(2+). Thus, folate/AuNRs can be as effective and promising nanomaterials for photothermal therapy of folate receptor bearing tumor.
+

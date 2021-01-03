@@ -1,0 +1,4 @@
+21394108
+2011 Jun
+Vascular invasion is one of the clinicopathologic features that are associated with early recurrence of human hepatocellular carcinoma (HCC). In this study, we have employed high-density Affymetrix oligonucleotide GeneChips (Affymetrix, Santa Clara, CA) to compare the expression profiles of HCC with and without vascular invasion. Data mining of the gene expression database established revealed that leukocyte cell-derived chemotaxin-2 (LECT2) transcripts were downregulated in HCC patients with vascular invasion. Expression of LECT2 in human HCC biopsies was significantly reduced (P
+

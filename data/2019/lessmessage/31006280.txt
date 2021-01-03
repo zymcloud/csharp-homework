@@ -1,0 +1,4 @@
+31006280
+2019
+High expression of vascular endothelial growth factor (VEGF) in patients with hepatocellular carcinoma (HCC) is associated with poor prognosis. Here, we investigated the antitumor activity of lenvatinib, a multiple receptor tyrosine kinase inhibitor, in VEGF-overexpressing HCC models. In human umbilical vein endothelial cells, lenvatinib showed potent inhibitory activities against VEGF-induced proliferation and VEGF/basic fibroblast growth factor-induced tube formation. In VEGF-overexpressing HCC xenograft models, characterized by aggressive tumor growth and hypervascularity, lenvatinib had significant antitumor and antiangiogenic activities. These results suggest that potent activity of lenvatinib against VEGF signaling underlies its antitumor and antiangiogenic activities in the hypervascular HCC models.
+Angiogenesis; Hepatocellular carcinoma; Lenvatinib; Vascular endothelial growth factor.

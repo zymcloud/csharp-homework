@@ -1,0 +1,4 @@
+25572815
+2015 Feb
+The transcription factor sex determining region Y-box protein 5 (SOX5) plays important roles in various types of cancers. However, the expression and function of SOX5 in hepatocellular carcinoma (HCC) have not been elucidated. Here, we found that SOX5 is significantly up-regulated in HCC tissues and cell lines. Gain- and loss-of-function studies demonstrated that SOX5 promoted HCC cell migration and invasion. In addition, we revealed that SOX5 is linked to epithelial-mesenchymal transition (EMT) by regulation of Twist1. Our results indicate for the first time that SOX5 is a novel regulator of EMT in HCC and may be a potential therapeutic target for HCC metastasis.
+

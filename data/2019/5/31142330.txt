@@ -1,0 +1,4 @@
+31142330
+2019 May 29
+Given the success of immune checkpoint inhibitors and chimeric antigen receptor (CAR) T cells in clinical settings, the host immune system plays an important role in the recognition and targeting of tumor cells in cancer immunotherapy. As a result, there have been numerous advancements in immune cell therapy using human immune cells. However, recent evidence suggests that one type of immunotherapy alone is not effective for the treatment of cancer, particularly solid tumors. Thus, effective immunotherapy combinations, such as the combination of checkpoint inhibitors and immune cell therapy, are needed. This review focuses on hepatocellular carcinoma among other solid tumors and discusses the current status and future of immune cell therapy in cancer immunotherapy.
+Chimeric antigen receptor; Cytokine-induced killer cell; Dendritic cell; Immunotherapy; Natural killer cell; T cell.

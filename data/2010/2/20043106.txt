@@ -1,0 +1,4 @@
+20043106
+2010 Feb
+To identify tumour suppressor genes (TSGs) associated with hepatocellular carcinoma (HCC) on chromosome 4q using a high-throughput single nucleotide polymorphism (SNP) array, we first scanned for loss of heterozygosity (LOH) of 40 SNPs on chromosome 4q and discovered 2 hot regions: 4q24-26 and 4q34.3-35. We then further scanned for LOH of 338 SNPs in genes around 4q34.3-35 and discovered 3 genes with the most frequent LOH: nei endonuclease VIII-like 3 (NEIL3), interferon regulatory factor 2 (IRF2) and inhibitor of growth family member 2 (ING2). A review of the literature indicates only ING2 might be a TSG associated with HCC.
+

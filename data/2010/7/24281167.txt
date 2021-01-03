@@ -1,0 +1,4 @@
+24281167
+2010 Jul 7
+The overwhelming need to improve preclinical models in oncology has stimulated research efforts to refine and validate robust orthotopic models that closely mimic the disease population and therefore have the potential to better predict clinical outcome with novel therapies. Sophisticated technologies including bioluminescence, contrast enhanced ultrasound imaging, positron emission tomography, computed tomography and magnetic resonance imaging have been added to existing serum- and histology-based biomarkers to assist with patient selection and the design of clinical trials. The rationale for the use of human hepatocellular carcinoma (HCC) cell lines, implementation of xenograft and orthotopic animal models and utilization of available biomarkers have been discussed, providing guidelines to facilitate preclinical research for the development of treatments for HCC patients.
+

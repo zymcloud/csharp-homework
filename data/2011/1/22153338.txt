@@ -1,0 +1,4 @@
+22153338
+2012 Jan 1
+A series of novel derivatives of gambogic acid (GA) were synthesized and evaluated for their in vitro cytotoxicity against human hepatocellular carcinoma (HCC) cells. All derivatives showed better aqueous solubility than GA, and compounds 3a, 3e, and 3f displayed potent inhibition of HCC cell proliferation (IC(50): 0.045-0.59 μM on Bel-7402 cells and 0.067-0.94 μM on HepG2 cells) superior to GA and taxol. Additionally, the most potent compound 3e did not affect significantly the proliferation of non-tumor liver cells, suggesting that it might selectively inhibit HCC proliferation. Furthermore, 3e induced high frequency of Bel-7402 cell apoptosis. Our findings suggest that these novel GA derivatives may hold a great promise as therapeutic agents for the intervention of human HCC.
+

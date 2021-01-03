@@ -1,0 +1,4 @@
+24409726
+2013 Oct
+A new axially modified silicon phthalocyanine, di [5'-(2', 3'-O-isopropyl)-5-methyl cytidineoxy] silicon phthalocyanine (SiPcG), was prepared and characterized by 1H NMR and HRMS. This compound is essentially nonaggregated in N,N-dimethyformamide and 1% cremophor EL aqueous solution. It shows a Qband at 676 nm and fluorescence emission at 685 nm in DMF, and exhibits a Q-band at 679 nm and fluorescence emission at 689 nm in 1% cremophor EL aqueous solution. The SiPcG shows a high photodynamic activity against human hepatoma cells HepG2 with an IC50 value down to 7.8 x 10(-8) mol x L(-1). Fluorescence confocal microscopy study indicated that the SiPcG locates preferentially in the mitochondria of cells. The research results show that the SiPcG is highly potential as a new anti-cancer photosensitizer.
+

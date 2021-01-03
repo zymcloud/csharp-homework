@@ -1,0 +1,4 @@
+23806627
+2013 Dec
+Cancer evolution at all stages (including initiation, progression and invasion) is driven by both epigenetic abnormalities and genetic alterations. Epigenetics refer to any structural modification of genomic regions, which lead to modification in gene expression without alterations in DNA sequence. Progressive deregulation of epigenetic process is being increasingly recognized in liver carcinogenesis. This review will provide an overview of DNA methylation, one of the most commonly epigenetic events, which profoundly contributes to liver cancer initiation and progression. Furthermore, the recent advancements in the knowledge of epigenetic reprogramming underlying hepatic cancer stem cells will be highlighted.
+

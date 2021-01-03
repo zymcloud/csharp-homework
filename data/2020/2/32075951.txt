@@ -1,0 +1,4 @@
+32075951
+2020 Feb 20
+BACKGROUND We investigated the relationship between the 18F-FDG PET/CT metabolic parameter SUVmax in primary hepatocellular carcinoma (HCC) and expression of von Hippel-Lindau (VHL), as well as its effect on HCC survival prognosis. MATERIAL AND METHODS We retrospectively analyzed data for 62 HCC patients who received 18F-FDG PET/CT before surgery at the First Affiliated Hospital of Bengbu Medical College from June 2013 to June 2018 (42 males, 20 females; median age 62 years). No treatment was performed prior to the examination. The relationship between preoperative 18F-FDG PET/CT metabolic parameters, clinical pathology, and disease prognosis was analyzed. RESULTS SUVmax was significantly different in varying HCC pathological grades, and with tumor length, lymph node metastasis, portal vein tumor thrombus, and distant metastasis (p
+

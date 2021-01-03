@@ -1,0 +1,4 @@
+32977948
+2020 Dec 10
+Hepatocellular carcinoma (HCC) is the most common type in the sub-classification of liver cancer. Circular RNAs (circRNAs) play a fundamental role in tumor occurrence and progression. This research aimed to investigate the role and molecular basis of circRNA homeodomain-interacting protein kinase 3 (circ_HIPK3) in HCC. Circ_HIPK3 and DLX2 levels were enhanced, and miR-582-3p level was reduced in HCC tissues and cells. Silencing of circ_HIPK3 impeded proliferation, migration and invasion and expedited apoptosis in HCC cells. Furthermore, circ_HIPK3 modulated HCC progression via sponging miR-582-3p, and miR-582-3p suppressed HCC progression via targeting DLX2. Moreover, circ_HIPK3 knockdown inhibited tumor growth in vivo. Circ_HIPK3 facilitated HCC progression by mediating miR-582-3p/DLX2 pathway, suggesting a new potential biomarker for HCC treatment.
+DLX2; Hepatocellular carcinoma; circ_HIPK3; miR-582-3p.

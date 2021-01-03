@@ -1,0 +1,4 @@
+30695678
+2018 Nov
+Metabolic syndrome (MetS) has been linked to the development of cancer. The relationship between MetS and hepatocellular carcinoma (HCC) remains controversial. Studies up to September 2017 of MetS and HCC were systematically identified and meta-analyzed. Ten studies (nine cohorts and one case-control) were included in this meta-analysis. It was found that MetS patients are significantly more likely to develop HCC (RR = 1.60, 95%CI = 1.12-2.28, P = 0.01). Additionally, when only cohort studies were included, MetS is a potential risk factor for HCC occurrence (RR = 1.52, 95%CI = 1.01-2.30, P = 0.05). Interestingly, subgroup analysis showed that male patients with MetS are more likely to develop HCC compared with female patients (RR = 1.91, 95%CI = 1.38-2.65, P
+

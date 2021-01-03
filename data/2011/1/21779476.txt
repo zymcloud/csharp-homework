@@ -1,0 +1,4 @@
+21779476
+2011 Jan
+Growth hormone (GH) controls hepatic physiology to a large extent through the transcription factor signal transducers and activators of transcription (STAT) 5. Here, we focus on lessons learned from the physiology and pathophysiology of mice with disrupted Ghr and Stat5 loci. We discuss that hepatosteatosis and hepatocellular carcinoma observed in the absence of STAT5 can be explained in part through an aberrant activation of STAT1 and STAT3, which in themselves promote cell proliferation and survival. We also argue that STAT5 can be a context-specific tumor suppressor as it negatively regulates cell cycle progression. Lastly, we discuss promiscuity between STAT members that permits a given cytokine receptor to activate different STATs and thereby elicit context-dependent biological responses.
+STAT5; gene knockout; growth hormone; hepatocellular carcinoma; hepatosteatosis.

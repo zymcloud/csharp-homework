@@ -1,0 +1,4 @@
+32607890
+2020
+Transgenic mouse are reliable, convenient models for studying human hepatocellular carcinoma (HCC). The development of a synthetically engineered Sleeping Beauty (SB) transposon system further enables the viral-free, efficient delivery of desired oncogenes to mouse tissues. Here, we describe an SB transposon-based approach to induce HCC in mice by expressing a hyperactive form of N-RAS, N-RASG12V, while silencing the endogenous Trp53 gene via hydrodynamic tail vein injection, a method to rapidly deliver naked plasmids to mouse liver.
+Hepatocellular carcinoma; Hydrodynamic tail vein injection; Mouse tumor model; N-RAS; Sleeping Beauty; p53.

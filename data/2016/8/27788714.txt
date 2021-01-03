@@ -1,0 +1,4 @@
+27788714
+2016 Aug 20
+In recent years, hepatocellular carcinoma (HCC) has become one of the serious health-threatening malignancies worldwide, and its incidence and mortality rates continue to rise. Hepatitis B (HBV) is moderately endemic in China, with enormous numbers of HBV-related HCC cases. Although serum alpha-fetoprotein (AFP) and ultrasound are the major diagnostic methods for HCC, they have limited application for screening out early or small HCC. The current management of HCC is based on tumor size and location, not on suppressing tumorigenesis, and therefore patients are often faced with low 5-year survival and high relapse rates. Recent studies have shown that long-chain non-coding RNAs (lncRNAs) are closely associated with HCC tumorigenesis, which may have considerable utility as new diagnostic marker and treatment target for HCC. Here, we review the application of lncRNAs in the diagnosis, metastasis, treatment, recurrence, and prognosis of HCC.
+

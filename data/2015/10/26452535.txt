@@ -1,0 +1,4 @@
+26452535
+2015 Oct 9
+Background:Biocompatible gold nanoparticles (GNPs) are potentially practical and efficient agents in cancer radiotherapy applications. In this study, we demonstrated that GNPs can significantly modulate irradiation response of hepatocellular carcinoma cells in vitro and investigated the underlying mechanisms. We co-grafted galactose (GAL) targeting hepatocyte specific asialoglycoprotein receptor and Polyethylene Glycol (PEG) onto GNPs surfaces to increase GNPs targeting specificity and stability.Results:This novel GAL-PEG-GNPs and bare GNPs show similar appearance and cytotoxicity profiles, while more GAL-PEG-GNPs can be effectively uptaken and could enhance cancer cell killing.Conclusion:GAL-PEG-GNPs have better radiosensitization to HepG2. The sensitization mechanism of GAL-PEG-GNPs is related to the apoptotic gene process activated by generation of a large amount of free radicals induced by GNPs.
+

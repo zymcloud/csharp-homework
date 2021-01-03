@@ -1,0 +1,4 @@
+24258111
+2014 Apr
+The prognostic significance of dickkopf-1 (DKK1) overexpression in solid tumors remains inconclusive. We performed a meta-analysis to evaluate the impact of DKK1 overexpression in solid tumors on patients' overall survival (OS) and disease-free survival (DFS). The pooled hazard ratio (HR) with 95 % confidence interval (CI) was used to estimate the effects. Thirteen studies were included for meta-analysis; four that evaluated hepatocellular carcinoma (HCC), two each that evaluated ovarian carcinoma, esophageal carcinoma, and lung cancer, and one each that evaluated other cancers, namely gastric cancer, breast cancer, urothelial carcinoma, and colorectal cancer. Twelve studies were evaluable for OS and six for DFS. Our analysis results indicated that DKK1 overexpression predicted poor OS (HR = 1.68, 95% CI 1.36-2.08; P
+

@@ -1,0 +1,4 @@
+23706782
+2013 Aug
+Gold nanorods (AuNRs) with an aspect ratio of 3-4 exhibit large cross sections for single and multi photon light absorption processes in the near infrared region due to surface plasmon resonances. 800 nm laser pulses with the 150 fsec pulse duration (fs laser) can trigger explosions of AuNRs. The fs laser pulses at 20 W/mm(2) equivalent continuous wave (cw) power density blasted AuNRs in QGY human carcinoma cells as confirmed using transmission electron microscopy, while a cw laser at the same power density and dose did not. Cell survival studies further demonstrated that the cw laser at a dose of 15 J/mm(2) resulted in the death of 15% of AuNRs-loaded cells, probably due to a photothermal effect, while the fs laser at only 1.5 J/mm(2) killed more than 90% of AuNRs-loaded cells, indicating that the fs laser-triggered explosions of intracellular AuNRs are powerful enough to instantaneously kill tumour cells.
+

@@ -1,0 +1,4 @@
+24992906
+2014 Sep
+Glypican-3 (GPC3) is specifically expressed in ovarian clear cell carcinoma (OCCC), hepatocellular carci-noma (HCC), and melanoma and lung cancer. GPC3 is being explored as a potential candidate for OCCC and HCC immunotherapy. As a tumor-associated antigen, induction of immune response of GPC3 in ovarian cancer remains elusive. We established a GPC3 transgenic mouse ovarian cancer cell line, OV2944-HM-1 (HM-1), and used the intraperitoneal ovarian cancer mouse model to investigate immune response in GPC3-expressing tumor. We found that GPC3 expression in the tumor increased F4/80+CD86+ macrophage (M1) proportion and caused GPC3-specific CD8+ T cell immune responses, and prolonged mouse survival. Our results demonstrated that GPC3 expression induced T cell-mediated immune response in this mouse ovarian cancer model and also provided supportive evidence that GPC3 is an ideal target for ovarian cancer immunotherapy.
+

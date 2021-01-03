@@ -1,0 +1,4 @@
+24840704
+2014 Jun
+A new study proposes a modelling strategy to identify reactions, genes and metabolites relevant in hepatocellular carcinoma using in silico and in vivo analyses. The proposed genome-scale metabolic model integrates genomic and proteomic information, and points to statins, among others, as potential chemopreventive and anticancer drugs.
+

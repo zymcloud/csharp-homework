@@ -1,0 +1,4 @@
+31406217
+2019 Aug 12
+Curcumin (Cur) has been reported to have anti-hepatocellular carcinoma activity but its poor oral bioavailability limits its further development as a chemotherapeutic agent. We synthesized previously a succinate ester prodrug of Cur, curcumin diethyl disuccinate (CurDD) with better chemical stability in a buffer solution pH 7.4. Here, we further investigated and compared the cellular transport and anti-proliferative activity against HepG2 cells of CurDD and Cur. Transport of CurDD across the Caco-2 monolayers provided a significantly higher amount of the bioavailable fraction (BF) of Cur with better cytotoxicity against HepG2 cells compared to that of Cur (p
+

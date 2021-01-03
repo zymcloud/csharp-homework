@@ -1,0 +1,4 @@
+23230455
+2012
+In this study, we established a flow cytometry live cell-based assay that permits the screening of hepatitis C virus (HCV) inhibitors. Specifically, we created a stable cell line, which harbors a subgenomic replicon encoding an NS5A-YFP fusion protein. This system allows direct measurement of YFP fluorescence in live hepatoma cells in which the HCV replicon replicates. We demonstrated that this stable fluorescent system permits the rapid and sensitive quantification of HCV replication inhibition by direct-acting antiviral agents (DAA) including protease and NS5A inhibitors and host-targeting antiviral agents (HTA) including cyclophilin inhibitors. This flow cytometry-based live cell assay is well suited for multiple applications such as the evaluation of HCV replication as well as antiviral drug screening.
+Direct-acting antiviral; FACS assay; HCV; hepatoma cells; host-targeting antiviral; inhibitors..

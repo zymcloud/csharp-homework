@@ -1,0 +1,4 @@
+32638757
+2020 Aug 4
+A supramolecular nanoprodrug based on the host-guest complexation of water-soluble pillar[5]arene (WP5) and a boronate ester linked curcumin (Cur) was constructed, which had dual-responsiveness towards pH and GSH, allowing the drug to be selectively released in hepatoma cells. In vitro studies revealed that the Dox-loaded WP5G-Cur nanoprodrug achieved co-delivery of Dox/Cur. The anti-cancer efficiency could be enhanced through synergistic chemotherapies of Dox/Cur.
+

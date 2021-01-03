@@ -1,0 +1,4 @@
+26544731
+2016 Jan 19
+Sorafenib is a multikinase inhibitor approved for the treatment of advanced hepatocellular carcinoma (HCC). However, therapeutic response to sorafenib was not equal among HCC patients. Here we present a novel system to provide quantitative information concerning sorafenib-related targets by simultaneous detection of phosphorylated ERK (pERK) and pAkt expressions in circulating tumor cells (CTCs) isolated from HCC patients. Our results showed that 90.0% of patients had a molecular classification of tissues concordant with that of CTCs. CTC counts showed a shaper decline in patients with pERK+/pAkt- CTCs after two weeks of sorafenib treatment (P
+ERK/Akt; circulating tumor cells; hepatocellular carcinoma; sorafenib.

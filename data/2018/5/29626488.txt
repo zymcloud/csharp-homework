@@ -1,0 +1,4 @@
+29626488
+2018 May 15
+Pleckstrin homology domain leucine-rich repeat protein phosphatase 2 (PHLPP2) has been known to exert tumor suppressive activity for long without much knowledge about its regulation and implications. Protein kinase B (Akt), Protein kinase C (PKC) and Ribosomal protein S6 Kinase (S6K) are known downtargets of PHLPP2, regulating a plethora of life processes viz. cell growth, survival and evasion from apoptosis. Present study decoded the crucial role of PHLPP2 in inducing apoptosis by its interaction with the newly found binding partner Mammalian sterile 20-like kinase 1 (Mst1) in berberine (BBR)-treated human hepatoma cells. HepG2 cells were exposed to (50 μM, 100 μM) berberine for different time intervals (18 h, 24 h). The results showed enhanced expression of PHLPP2 at transcriptional (2.13 fold, P
+Akt; Apoptosis; Berberine; Bim; Mst1; PHLPP2.

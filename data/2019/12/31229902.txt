@@ -1,0 +1,4 @@
+31229902
+2019 Dec 5
+In this article, a novel fluorescent probe (NRBE) for detecting H2O2 was developed using benzyl boronic ester as the H2O2-recognized group and Nile red as the matrix. The probe has several advantages, such as good selectivity, high sensitivity (LOD = 75 nM), good water solubility and emission in the near-infrared region (ex/em:585/670 nm). With the NRBE probe, the endogenous H2O2 in human hepatocellular carcinoma cells BEL-7402, was detected, and the H2O2 generated during the ischemia-reperfusion of the cells was imaged. These results show that NRBE can be applied for real-time detection of H2O2 in biological systems.
+Endogenous; Fluorescent probe; H(2)O(2); Living cells; Nile red.

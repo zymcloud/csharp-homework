@@ -1,0 +1,4 @@
+30191019
+2015 Oct
+Hepatocellular carcinoma (HCC) is a major health problem. In human hepatocarcinogenesis, the balance between cell death and proliferation is deregulated, tipping the scales for a situation where antiapoptotic signals are overpowering the death-triggering stimuli. HCC cells harbor a wide variety of mutations that alter the regulation of apoptosis and hence the response to chemotherapeutical drugs, making them resistant to the proapoptotic signals. Considering all these modifications found in HCC cells, therapeutic approaches need to be carefully studied in order to specifically target the antiapoptotic signals. This review deals with the recent relevant contributions reporting molecular alterations for HCC that lead to a deregulation of apoptosis, as well as the challenge of death-inducing chemotherapeutics in current HCC treatment.
+HCC; TGF-β; apoptosis; death receptors; liver; sorafenib; survival signals; targeted therapy.

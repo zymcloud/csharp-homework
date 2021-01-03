@@ -1,0 +1,4 @@
+22674135
+2012
+Human solid tumors and clonal tumor cell lines comprise phenotypically and functionally diverse subsets of cancer cells and also contain stem cell-like cancer cells. Side population (SP) cells, which pump out the fluorescent dye Hoechst 33342 (H33342) via the ABCG2 transporter, define a fraction of adult tissue stem cells in a wide variety of organs. Rare cancer cells with similar H33342 efflux capacity and delimited expression of ABCG2 are present in various types of human tumors, such as breast cancer, lung cancer, and hepatocellular carcinoma. These cancer SP cells display several properties attributable to stem cell-like cancer cells and have been implicated in tumor growth, progression, and metastasis. Here we provide a detailed protocol for the detection of putative cancer stem cells of the SP phenotype in human adherent breast cancer cell cultures.
+

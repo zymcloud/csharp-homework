@@ -1,0 +1,4 @@
+26686931
+2016 Jan 27
+We have synthesized certain indeno[1,2-b]quinoxaline derivatives for antiproliferative evaluation. Among them, 11-{[3-(dimethylamino)propoxy]imino}-N-[3-(dimethylamino) propyl]-11H-indeno[1,2-b]quinoxaline-6-carboxamide (10a) was active against the growth of MDA-MB231, PC-3, and Huh-7 with IC50 values of 0.87 (selectivity index, SI = 36.22), 0.82 (SI = 38.43), and 0.64 μM (SI = 49.23) respectively. Compound 10a was inactive against the growth of normal human fetal lung fibroblast cell line (MRC-5) with an IC50 value of 31.51 μM. Its analogs, 10b and 10c, were also active against the growth of MB231, PC-3, and Huh-7 with IC50 values of
+Anticancer agents; Antiproliferative activity; Apoptosis; Cell cycle; Indeno[1,2-b]quinoxaline derivatives; Zebrafish xenograft assay.

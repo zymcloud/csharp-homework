@@ -1,0 +1,4 @@
+25824262
+2016 Jan
+Background:FOXF2 is a member of the forkhead box (FOX) family of transcription factors. FOXF2 plays an important role in several tumors but its expression and role in hepatocellular carcinoma (HCC) remains unknown.Methods:Using immunohistochemistry, western blot, and real-time polymerase chain reaction, we analyzed FOXF2 expression in 295 clinicopathologically characterized HCC cases. Using RNA interference (RNAi), we investigated the effects of FOXF2 depletion on tumor cell behavior in vitro. Statistical analyses were used to determine associations between FOXF2 levels, tumor features, and patient outcomes.Results:FOXF2 downregulation was observed in HCC tissues (p Conclusions:The results of the present study indicate that FOXF2 may serve as a prognostic biomarker for HCC and may be a promising target in the treatment of patients with HCC.
+

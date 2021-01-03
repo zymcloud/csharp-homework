@@ -1,0 +1,4 @@
+29973656
+2018 Jul
+The FoxM1 transcription factor plays an important role in the progression of HCC. Therefore, it is necessary to study cell regulation of FoxM1. In this study, we determined the expression of miR-214 and it was inversely associated with FoxM1 protein level in HCC; and suppression of FoxM1 translation by miR-214 mimics. We found that miR-214 targeted the 3'untranslated region of FoxM1 mRNA. In addition, the study found that DLX1 was the direct target of FoxM1 in HCC. Downregulation of FoxM1 inhibits the proliferation, migration, and invasion of HCC cells by miR-214. These results indicate that miR-214 may be used as a completely new molecular target by influencing FoxM1 expression in HCC.
+

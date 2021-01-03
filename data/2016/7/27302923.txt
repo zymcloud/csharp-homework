@@ -1,0 +1,4 @@
+27302923
+2016 Jul 5
+Krüppel-like Factor-4 (KLF4) is a zinc finger transcription factor which plays an important role in cell cycle, proliferation and apoptosis. In Hepatocellular Carcinoma (HCC), the function of KLF4 has been characterized as tumor suppressor. However, the mechanism remains largely unknown. In this study, we demonstrated that TGF-β1 down-regulated KLF4 by activating miR-135a-5p. MiR-135a-5p promoted proliferation and metastasis in HCC cells by direct targeting KLF4 both in vitro and in vivo. In addition, miR-135a-5p expression was up-regulated in clinical HCC tissues, and was inversely correlated with the expression of KLF4. Taken together, our data indicated that TGF-β1 down-regulated KLF4 by activating miR-135a-5p, promoting proliferation and metastasis in HCC.
+KLF4; TGF-β1; hepatocellular carcinoma; miR-135a-5p.

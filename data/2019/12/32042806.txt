@@ -1,0 +1,4 @@
+32042806
+2019 Dec
+Single-cell sequencing technology refers to the sequencing of the genome, transcriptome and epigenome in one single cell. Comparing to traditional histology, single-cell sequencing can reveal the genetic heterogeneity among different cells. Due to the complex pathogenesis and various pathological types of hepatocellular carcinoma (HCC), studies on the heterogeneity of tumor cells confer improvement for its clinical diagnosis, treatment and prognosis. This article summarizes the principal basis and development of single-cell sequencing technology, as well as its increasing application in the field of HCC.
+Single-cell sequencing; hepatocellular carcinoma (HCC); heterogeneity.

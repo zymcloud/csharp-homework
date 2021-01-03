@@ -1,0 +1,4 @@
+31831168
+2020 Feb 26
+UBE2Z, a member of ubiquitin-conjugating enzymes, has been reported to participate in multiple biological processes. However, its roles in hepatocellular carcinoma (HCC) remain undiscovered. This study aimed at investigating the functions of UBE2Z in HCC. Firstly, we evaluated UBE2Z expression in HCC and identified associations among UBE2Z expression, clinicopathological features, copy number alterations, DNA methylation, and survival of patients using data from the Cancer Genome Atlas (TCGA). As a result, UBE2Z was remarkably overexpressed in HCC tissues relative to normal liver tissues (P
+Hepatocellular carcinoma; Prognosis; TCGA; UBE2Z.

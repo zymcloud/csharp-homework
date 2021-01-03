@@ -1,0 +1,4 @@
+31949131
+2020 Jan 16
+Transketolase (TKT), which is a metabolic enzyme in the nonoxidative phase of the pentose phosphate pathway (PPP), plays an important role in providing cancer cells with raw materials for macromolecular biosynthesis. The ectopic expression of TKT in hepatocellular carcinoma (HCC) was reported previously. However, the role of TKT in the initiation of liver cancer is still obscure. In our previous study, we found that TKT deficiency protects the liver from DNA damage by increasing levels of ribose 5-phosphate and nucleotides. What's more interesting is that we found TKT deficiency reduced bile acids and loss of TKT promoted the farnesoid receptor (FXR) expression. We further showed that TKT translocated into the nucleus of HCC cell lines through interacting with the signal transducer and activator of transcription 1 (STAT1), and then the complex inhibited FXR expression by promoting the binding of histone deacetylase 3 (HDAC3) to FXR promoter.
+

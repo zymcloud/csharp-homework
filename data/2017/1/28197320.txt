@@ -1,0 +1,4 @@
+28197320
+2017 Jan 5
+A series of 12N-substituted sophoridinamine derivatives were synthesized and evaluated for their cytotoxic activities in human HepG2 hepatoma cells. Structure-activity relationship revealed that introduction of a suitable arylidene or arylethyl at the N'-end could greatly enhance antiproliferation potency. Among them, compound 6b possessing a N'-trimethoxyphenyl methylene exhibited potent antiproliferation effect against three human tumor cell lines including HepG2, leukemia (K562), and breast cancer (HMLE), with IC50 between 0.55 and 1.7 μM. The underlying mechanism of 6b against tumor cells is to block autophagic flux, mainly through neutralizing lysosomal acidity. Our results indicated that compound 6b is a potent lysosomal deacidification agent and is accordingly able to block autophagic flux and inhibit tumor cell growth.
+Sophoridinamine; anticancer; autophagy; lysosomes; structure−activity relationship.

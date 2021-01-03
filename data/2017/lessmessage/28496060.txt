@@ -1,0 +1,4 @@
+28496060
+2017
+A method was developed for analyzing broad spectrum small molecule metabolites in the serum of hepatocellular carcinoma (HCC) patients based on ultrafast liquid chromatography-ion trap-time of flight tandem mass spectrometry (UFLC-IT-TOF MS). Serum samples were collected from 80 HCC patients and healthy persons. After pretreatment process for protein precipitation, the supernatant was analyzed with the UFLC-IT-TOF MS to obtain information on the metabonomics of small molecules. The eight compounds of glycocholic acid, choline glycerophosphate, acetyl-L-phenylalanine, oleamide, tetradecanamide, acetylcarnitine, lysolecithin and glycochenodeoxycholic acid in the HCC group were identified with significant differences from those in the health group (P
+UFLC-IT-TOF MS; hepatocellular carcinoma; metabonomics; serum.

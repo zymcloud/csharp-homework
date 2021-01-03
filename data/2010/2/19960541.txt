@@ -1,0 +1,4 @@
+19960541
+2010 Feb
+Tbx2 is a member of the T-box family of transcription factors that are crucial in embryonic development. Recent studies suggest that T-box factors may also play a role in controlling cell cycle progression and in the genesis of cancer. Tbx2 has been implicated in several developmental processes such as coordinating cell fate, patterning and morphogenesis of a wide range of tissues and organs including limbs, kidneys, lungs, mammary glands, heart, and craniofacial structures. Importantly, Tbx2 is overexpressed in several cancers including melanoma, small cell lung carcinoma, breast, pancreatic, liver, and bladder cancers and can suppress senescence, a cellular process, which serves as a barrier to cancer development. This review presents a state of the art overview of the role and regulation of Tbx2 in early embryonic development and in cancer.
+

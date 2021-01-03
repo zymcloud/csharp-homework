@@ -1,0 +1,4 @@
+19760416
+2010 Mar
+Objective:We assessed the usefulness of contrast-enhanced ultrasound (CEUS) in the differentiation of intrahepatic cholangiocarcinoma (ICC) and hepatocellular carcinoma (HCC).Methods:The CEUS enhancement patterns of 50 ICCs were retrospectively analysed and compared with 50 HCCs. Two readers independently reviewed the baseline ultrasound (BUS) and CEUS images and the diagnostic performances were evaluated by receiver operating characteristic (ROC) analysis. Time-intensity curves (TIC) were plotted for quantification analysis.Results:In the arterial phase, peripheral rim-like hyperenhancement, heterogeneous hyperenhancement, homogeneous hyperenhancement and heterogeneous hypoenhancement were found in 25, 10, 3 and 12 of the ICCs versus 2, 29, 19 and 0 of the HCCs (P Conclusion:CEUS improves the diagnostic performance significantly in the differentiation between ICC and HCC.
+

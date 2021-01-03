@@ -1,0 +1,4 @@
+22653591
+2012 May 18
+HepG2.2.15 cell is a widely used cell model for studying HBV (hepatitis B virus) in vitro. In these cells, the HBV genome is integrated in several sites of HepG2 cellular DNA. These multiple copies may have some influence on the cellular processes. We constructed a new plasmid, pSEH-Flag-HBV, and transfected it into HepG2 cells, and then screened it with hygromycin. We then used ELISA, PCR, and RT-PCR to detect the expression of HBV in these cell lines. A cell line that stably expressed hepatitis B e antigen (HBeAg) and hepatitis B surface antigen (HBsAg) was established. Using Southern blotting analysis, we found that the HBV genome was integrated as a single copy in the cellular DNA. This cell line will be a useful alternative model for HBV studies.
+

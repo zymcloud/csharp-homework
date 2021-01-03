@@ -1,0 +1,4 @@
+30451987
+2019 Dec
+The prevalence of non-alcoholic fatty liver disease (NAFLD) is rising-caused, at least in part, by unhealthy lifestyles including poor dietary choices. We examined the link between the inflammatory potential of diet as measured by the Dietary Inflammatory Index (DII®) and liver function tests [summarised by the fatty liver index (FLI)]. Of 20,643 US NHANES participants, 48.7% were men and the mean age was 47.3 years. Significant associations were apparent between increasing DII score and prevalent fatty liver. Individuals in the fourth DII quartile had nearly a six-fold higher likelihood of fatty liver [odds ratio (OR) = 5.97, 95% confidence interval: 4.44-8.02] compared with those in the first quartile. Moderation analysis indicated a significant impact of adiposity on the link between FLI and DII score (p < 0.001). This study provides further evidence of an association between the inflammatory potential of diet and fatty liver.
+

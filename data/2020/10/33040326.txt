@@ -1,0 +1,4 @@
+33040326
+2020 Oct 11.</span
+Hepatocellular carcinoma (HCC) is the most common liver cancer with high mortality. Here, we found that hnRNPU is overexpressed in HCC tissues and is correlated with the poor prognosis of HCC patients. Besides, hnRNPU is of high significance in regulating the proliferation, apoptosis, self-renewal, and tumorigenic potential of HCC cells. Mechanismly, c-Myc regulates hnRNPU expression at the transcriptional level, and meanwhile, hnRNPU stabilizes the mRNA of c-MYC. We found that the hnRNPU and c-Myc regulatory loop exerts a synergistic effect on the proliferation and self-renewal of HCC, and promotes the HCC progression. Taken together, hnRNPU functions as a novel transcriptional target of c-Myc and promotes HCC progression, which may become a promising target for the treatment of c-Myc-driven HCC.
+c-Myc; hepatocellular carcinoma; hnRNPU; regulatory loop; therapeutic target.

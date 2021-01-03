@@ -1,0 +1,4 @@
+21307888
+2011 Jun
+Ideal cancer gene therapies should have high tumor specificity and efficacy, and allow systemic administration to target metastases. We recently developed a bi-directional, two-step transcriptional amplification (TSTA) system driven by the tumor-specific Survivin promoter (pSurv) to amplify the correlated expression of both the reporter gene firefly luciferase (FL) and therapeutic gene tumor necrosis factor-related apoptosis-inducing ligand (TRAIL). Here, we compare the specificity and potency of an adenovirus carrying this system (Ad-pSurv-TSTA-TRAIL-FL) to a nonspecific vector (Ad-pCMV-FL) in an orthotopic hepatocellular carcinoma (HCC) rat model after systemic administration. At 24 h after injection of Ad-pCMV-FL, bioluminescence imaging revealed a trend (P=0.30) towards greater FL expression in liver versus tumor. In striking contrast, Ad-pSurv-TSTA-TRAIL-FL showed increased FL activity within the tumor compared with the liver (P
+

@@ -1,0 +1,4 @@
+30397975
+2019 Mar
+Exosomes are small membrane vesicles 50-150 nm in diameter released by a variety of cells, which contain miRNAs, mRNAs and proteins with the potential to regulate signalling pathways in recipient cells. Exosomes deliver nucleic acids and proteins to participate in orchestrating cell-cell communication and microenvironment modulation. In this review, we summarize recent progress in our understanding of the role of exosomes in hepatocellular carcinoma (HCC). This review focuses on recent studies on HCC exosomes, considering biogenesis, cargo and their effects on the development and progression of HCC, including chemoresistance, epithelial-mesenchymal transition, angiogenesis, metastasis and immune response. Finally, we discuss the clinical application of exosomes as a therapeutic agent for HCC.
+carcinogenesis; exosomes; hepatocellular carcinoma; tumour microenvironment.

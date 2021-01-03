@@ -1,0 +1,4 @@
+25649314
+2015 May
+Analysis of L-type amino acid transport expression of hepatocellular carcinoma cells (HCCs) of the dog was performed. The leucine transport activity of canine HCCs was 0.628 ± 0.018 nmol/mg protein/min. The inhibitor of LAT 2-aminobicyclo[2.2.1]heptane-2-carboxylic acid (BCH) reduced 90% of the activity at 1 mM. The deduced amino acid sequences of canine LAT2, LAT3 and LAT4 were well conserved in mammalians, exhibiting 89, 88 and 77% homology, respectively. RT-PCR revealed distinct LAT1 expression compared with normal hepatocytes. Western blotting analysis confirmed the potent LAT1 expression in canine HCCs but not hepatocytes, and real-time RT-PCR analysis indicated that canine HCCs possessed 28 times higher LAT1 expression than hepatocytes. These results indicated that the leucine transport activity of canine HCCs was due to LAT1.
+

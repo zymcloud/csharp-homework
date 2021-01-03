@@ -1,0 +1,4 @@
+20302905
+2010 Aug
+The cellular roles of glutathione reductase (GR) in the reactive oxygen species (ROS)-induced apoptosis were studied using the HepG2 cells transfected with GR. The overexpression of GR caused a marked enhancement in reduced and oxidized glutathione (GSH/GSSG) ratio, and significantly decreased ROS levels in the stable transfectants. Hydrogen peroxide (H(2)O(2)), under the optimal condition for apoptosis, significantly decreased cellular viability and total GSH content, and rather increased ROS level, apoptotic percentage and caspase-3 activity in the mock-transfected cells. However, hydrogen peroxide could not largely generate these apoptotic changes in cellular viability, ROS level, apoptotic percentage, caspase-3 activity and total GSH content in the cells overexpressing GR. Taken together, GR may play a protective role against oxidative stress.
+

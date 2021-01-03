@@ -1,0 +1,4 @@
+26201897
+2016 Jan
+The pre-mRNA splicing regulator serine-arginine protein kinase 1 (SRPK1) promotes cancer development and various pathophysiological processes. However, the clinical relevance of SRPK1 in hepatocellular carcinoma (HCC) is not clear. This study investigates the expression and prognostic value of SRPK1 in HCC. We found that SRPK1 expression was significantly upregulated at the mRNA and protein level in all HCC cell lines or HCC tissue samples compared with the hepatic cell line or matched noncancerous tissue samples, respectively. Higher SRPK1 expression significantly correlated with clinical staging (p = 0.031), survival time (p = 0.004), and gender (p = 0.011) of HCC patients. Together, our study showed that SRPK1 is overexpressed in HCC and may be a promising indicator of prognosis for HCC patients.
+Hepatocellular carcinoma; Prognosis; SRPK1.

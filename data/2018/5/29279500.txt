@@ -1,0 +1,4 @@
+29279500
+2018 May 1
+A 47-year-old Japanese man was referred to hospital after the detection of a liver tumor. Dynamic computed tomography and gadolinium ethoxybenzyl diethylenetriaminepentaacetic acid (Gd-EOB-DTPA)-enhanced magnetic resonance imaging were consistent with a diagnosis of hepatocellular carcinoma (HCC). No perfusion defect was observed in the post-vascular phase of contrast-enhanced ultrasound (CEUS). Histopathological staining of the tumor cells was positive for antibodies against HMB-45 and cluster of differentiation (CD) 68, confirming the diagnosis of hepatic angiomyolipoma (HAML). These findings indicated the presence of macrophages in HAML. We herein report a case of HAML explain how macrophages that are present within the tumor affect the staining characteristics in the post-vascular phase of CEUS.
+CD68; hepatic angiomyolipoma; macrophage.

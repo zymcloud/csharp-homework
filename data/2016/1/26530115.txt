@@ -1,0 +1,4 @@
+26530115
+2016 Jan
+The Wnt signaling pathway is activated in hepatocellular carcinoma (HCC). This study investigated the effects of FH535, an inhibitor of the Wnt signaling pathway, on the proliferation and motility of HCC cells. HLF cells and PLC/PRF/5 cells, HCC cells, were subjected to 3-(4,5-dimethylthiazol-2-yl)-5-(3-carboxymethoxyphenyl)-2-(4-sulfophenyl)-2H-tetrazolium, inner salt (MTS) assay with the addition of FH535. RNA was isolated from the cells and subjected to real-time quantitative PCR. Hematoxylin and eosin (H&E) staining was performed to analyze apoptosis. A scratch assay was performed to analyze cell motility. Cell proliferation significantly decreased (P
+

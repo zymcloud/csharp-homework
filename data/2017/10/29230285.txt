@@ -1,0 +1,4 @@
+29230285
+2017 Oct
+Cellular senescence is a stress-induced cell-cycle arrest program that prevents malignant transformation of senescent cells following oncogenic pathway activation and DNA damage. Senescent cells are metabolically active and secrete cytokines and chemokines that shape the function and composition of their microenvironment. These cytokines can recruit immune cells such as lymphocytes and myeloid cells that depending on the context can either promote or inhibit liver tumor development and progression. Accordingly, pharmacologically targeting of secreted cytokines or reprogramming the expression of these cytokines in senescent cells represents a promising approach to skew senescence-associated immune responses toward cancer cell killing.
+SASP; hepatocellular carcinoma; immune cells; liver; senescence; tumor.

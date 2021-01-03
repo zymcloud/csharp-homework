@@ -1,0 +1,4 @@
+21531907
+2011 May 17
+TRIM24 (TIF1α), TRIM28 (TIF1β), and TRIM33 (TIF1γ) are three related cofactors belonging to the tripartite motif superfamily that interact with distinct transcription factors. TRIM24 interacts with the liganded retinoic acid (RA) receptor to repress its transcriptional activity. Germ line inactivation of TRIM24 in mice deregulates RA-signaling in hepatocytes leading to the development of hepatocellular carcinoma (HCC). Here we show that TRIM24 can be purified as at least two macromolecular complexes comprising either TRIM33 or TRIM33 and TRIM28. Somatic hepatocyte-specific inactivation of TRIM24, TRIM28, or TRIM33 all promote HCC in a cell-autonomous manner in mice. Moreover, HCC formation upon TRIM24 inactivation is strongly potentiated by further loss of TRIM33. These results demonstrate that the TIF1-related subfamily of TRIM proteins interact both physically and functionally to modulate HCC formation in mice.
+

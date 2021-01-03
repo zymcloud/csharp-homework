@@ -1,0 +1,4 @@
+32118724
+2020 Feb
+Spermatogenesis associated serine rich 2 (SPATS2) has been reported to be dysregulated in few types of cancer; however, no reports have investigated SPATS2 in liver cancer. The aim of the present study was to investigate SPATS2 expression in liver cancer and to analyze its association with the prognosis of liver cancer patients.We examined the differential expression of SPATS2 in liver cancer by exploring The Cancer Genome Atlas (TCGA) database. The diagnostic efficiency of SPATS2 was obtained by Receiver Operating Characteristic (ROC) curve. The Chi-Squared test was used to assess clinical relevance. Survival analysis and Cox regression model were used to detect the effect of SPATS2 on the survival of liver cancer patients. Gene Set Enrichment Analysis (GSEA) was used to identify signaling pathways related to SPATS2 expression.SPATS2 is highly expressed in liver cancer (P
+

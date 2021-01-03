@@ -1,0 +1,4 @@
+28245756
+2017 May 10
+It was explored that CYP1 family of cytochromes P450 were over-expressed in several types of cancer. Our study aimed to characterize anti-proliferative activity and metabolism of the natural flavonoid diosmetin in the human hepatoma cell HepG2, expressing CYP1 family. Diosinduced cell apoptosis could be reversed due to p53 blockade and the cellular P53 and CYP1A1/CYP1A2 proteins levels were examined. P53 and CYP1A1/CYP1A2 proteins were upregulated by Dios; when PFT-α was added into cells, the P53 levels were down-regulated accompanied with up-regulated CYP1A1/CYP1A2. Meanwhile, when cells were co-treated with Dios and PFT-α, P53 was down-regulated and CYP1A1/CYP1A2 up-regulated controlled with that of Dios treated cells. The data reveal the new evidence that cytochrome P450 CYP1A regulation by P53 enzyme plays an important role in Diosmetin anti-cancer activity of HepG2 cells.
+Apoptosis; CYP1A1/CYP1A2; Diosmetin; HepG2; P53; PFT-α.

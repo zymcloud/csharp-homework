@@ -1,0 +1,4 @@
+24286312
+2014 Apr
+Drug-resistance and imbalance of apoptotic regulation limit chemotherapy clinical application for the human hepatocellular carcinoma (HCC) treatment. The reactivation of p53 is an attractive therapeutic strategy in cancer with disrupted-p53 function. Nutlin-3, a MDM2 antagonist, has antitumor activity in various cancers. The post-translational modifications of p53 are a hot topic, but there are some controversy ideas about the function of phospho-Ser392-p53 protein in cancer cell lines in response to Nutlin-3. Therefore, we investigated the relationship between Nutlin-3 and phospho-Ser392-p53 protein expression levels in SMMC-7721 (wild-type TP53) and HuH-7 cells (mutant TP53). We demonstrated that Nutlin-3 induced apoptosis through down-regulation phospho-Ser392-p53 in two HCC cells. The result suggests that inhibition of p53 phosphorylation on Ser392 presents an alternative for HCC chemotherapy.
+

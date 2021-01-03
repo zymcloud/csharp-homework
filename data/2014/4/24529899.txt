@@ -1,0 +1,4 @@
+24529899
+2014 Apr
+Early detecting of cancer is critical to provide proper treatment and to improve survival of patients. Here, we reported a highly sensitive ratiometric (yellow emission (550 nm) to blue emission (496 nm)) fluorescent probe 1 developed for detection of thiol-containing amino acids. This probe successfully eliminates interference from background autofluorescence, and discriminates between human carcinoma and normal cells by detecting intracellular thiol levels in living cells (P
+Blood; GSH measurement; Hepatocellular carcinoma; Ratiometric fluorescence; Tumor tissue.

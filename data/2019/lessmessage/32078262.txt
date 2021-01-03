@@ -1,0 +1,4 @@
+32078262
+
+The management of patients with advanced-stage hepatocellular carcinoma (HCC) has changed dramatically over the past year. Partial hepatectomy, liver transplantation, ablation, radiation therapy, and embolization procedures remain important interventions for localized HCC, whereas systemic therapy is the cornerstone of therapy for patients with extrahepatic disease. Since 2017, several agents, including regorafenib, lenvatinib, cabozantinib, ramucirumab, nivolumab, and pembrolizumab, have been approved or are likely approved as first- and second-line therapies by Food and Drug Administration (FDA) for systemic treatment of advanced-stage HCC. In this chapter, we overview the molecular mechanisms underlying HCC and how improved understanding of these pathways has helped the development of targeted therapies. We also discuss the value of these molecular-targeted therapeutic agents, safety profile, and their impact on personalization of HCC therapy.
+

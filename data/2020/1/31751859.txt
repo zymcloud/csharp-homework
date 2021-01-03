@@ -1,0 +1,4 @@
+31751859
+2020 Jan
+Sorafenib is the first approved systemic therapy for advanced hepatocellular carcinoma (HCC) and is the first-line choice in clinic. Sustained activation of receptor tyrosine kinases (RTKs) is associated with low efficacy of sorafenib in HCC. Activation of liver X receptor (LXR) has been reported to inhibit some RTKs. In this study, we found that the LXR agonist enhanced the anti-tumor activity of sorafenib in a subset of HCC cells with high LXR-β/α gene expression ratio. Mechanically, the activation of LXR suppressed sorafenib dependent recruitment of MET and epidermal growth factor receptor (EGFR) in lipid rafts through cholesterol efflux. Our findings imply that LXR agonist can serve as a potential sensitizer to enhance the anti-tumor effect of sorafenib.
+

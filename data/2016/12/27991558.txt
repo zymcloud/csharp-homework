@@ -1,0 +1,4 @@
+27991558
+2016 Dec 19
+Senescence marker protein 30 (SMP30) has been identified as a tumor-related molecule of hepatocellular carcinoma (HCC). Its clinical significance and underlying mechanisms in HCC tissues, however, remain largely unexplored. We have demonstrated a preferentially expressed SMP30 in normal liver using a tissue microarray. By employing real-time quantitative PCR, two tissue microarrays and Oncomine database analysis, we have also shown that the SMP30 in HCC tissues has significantly reduced when compared with that in paired adjacent non-tumor tissues (P = 0.0037). The reduced expression of SMP30 is very noticeably related to larger tumor size (P = 0.012), enhanced TNM (P = 0.009) and worse survival (P
+

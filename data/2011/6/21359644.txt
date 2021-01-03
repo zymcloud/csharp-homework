@@ -1,0 +1,4 @@
+21359644
+2011 Jun
+In this study, we applied specific blocking antibodies for integrin α6 or β1 subunit, and evaluated the in vitro effects of integrins α6β1 on the adhesion, chemotaxis and migration of hepatocellular carcinoma (HCC) cell line SMMC-7721 to type IV collagen. The adhesion force and cell migration, as measured by a micropipette aspiration system and Boyden chamber assay respectively, was dramatically reduced when either integrin subunits was blocked. The chemotaxis, as determined using a dual-micropipette system, was only affected by the antibody against β1 subunit. This study suggests that integrin α6β1 is an important cell surface receptor that mediates the adhesion of SMMC-7721 to type IV collagen. But the α6 subunit has minimal effect on pseudopod formation in response to type IV collagen. Therefore, the integrin α6β1-mediated cell migration is, at least in part, through the regulation on the cell adhesion step.
+

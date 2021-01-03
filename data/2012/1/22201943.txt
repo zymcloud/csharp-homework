@@ -1,0 +1,4 @@
+22201943
+2012 Jan 1
+Hepatocellular carcinoma (HCC) is a treatment-resistant malignancy with an increasing incidence worldwide. More than 500,000 individuals suffer from this disease annually. Risk factors for human HCC include hepatitis B and C infections, dietary aflatoxin, alcohol abuse, smoking, and oral contraceptive use. Accumulating evidence suggests that liver stem cells play a critical role in HCC development and progression. Dedifferentiated hepatocytes, hepatic oval cells and bone marrow cells are the three major types of liver stem cells, and CD133, CD90, and EpCAM are identified as specific antigenic markers for HCC stem cells. Wnt, Hedgehog, and the angiogenic signalings are main pathways that regulate the HCC stem cell self-renewal and pluripotential, and may be potential targets for novel therapeutic strategies of this malignancy. This review article provides an update in the studies of live and HCC stem cells.
+

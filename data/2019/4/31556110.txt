@@ -1,0 +1,4 @@
+31556110
+2020 Apr
+Studies have shown that microRNAs (miRNAs) play a vital role in tumor progression and patients' prognosis. Therefore, we aimed to construct a miRNA model for forecasting the survival of hepatocellular carcinoma (HCC) patients. The gene expression data of 433 patients with HCC from The Cancer Genome Atlas (TCGA) and Gene Expression Omnibus public databases were remined by survival analysis and receptor manipulation characteristic curve (ROC). A prognostic model including six miRNAs (hsa-mir-26a-1-3p, hsa-mir-188-5p, hsa-mir-212-5p, hsa-mir-149-5p, hsa-mir-105-5p, and hsa-mir-132-5p) were constructed in the training dataset (TCGA, n = 333). HCC patients were stratified into a high-risk group and a low-risk group with significantly different survival (median: 2.75 vs. 8.93 years, log-rank test p
+hepatocellular carcinoma; microRNA; prognostic model; survival.

@@ -1,0 +1,4 @@
+22659237
+2012 Sep
+Genome-wide gene expression profiling was carried out on rat hepatoma cells and compared to profiles of hepatoma "variant" cell lines derived via a stringent selection protocol that enriches for rare cells (5-fold) repressed in each of the four variant cell lines tested. An additional 68 genes were repressed in 3 of 4 variant cell lines. Importantly, several of the repressed genes are members of transcriptional activation pathways, suggesting that they may contribute to maintaining the hepatic phenotype. Ectopic expression of the HNF1A gene in a variant cell line resulted in activation of 56 genes, 37 of which were included in the repressed data set. These data suggest that a high level of reprogramming occurs when hepatoma cells convert to a non-differentiated phenotype, a process that can be partially reversed by the introduction of transcription factors.
+

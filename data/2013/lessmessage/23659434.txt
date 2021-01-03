@@ -1,0 +1,4 @@
+23659434
+2013
+Bioassay directed isolation of the EtOAc extract from a traditional Chinese medicine Psoralea corylifolia resulted in the purification of two isoflavonoids, corylifols D (1) and E (2), along with four known ones. The structures of 1 and 2 were determined by extensive 1D and 2D NMR and MS data analyses. When tested against HepG2 and Hep3B hepatocellular carcinoma cell lines, corylifol A (4) displayed IC50 values of 4.6 and 13.5 μg/ml, respectively.
+

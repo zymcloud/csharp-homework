@@ -1,0 +1,4 @@
+21440437
+2011 Apr 15
+New indoline alkaloid-type compounds which inhibit HCV production by infected hepatoma cells have been identified. These compounds, dimeric-type compounds of previously known inhibitors, display double digit nanomolar IC(50) and EC(50) values, with cytotoxicity CC(50) indexes higher than 36 μM, thus providing ample therapeutic windows for further development of HCV drugs.
+

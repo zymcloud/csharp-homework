@@ -1,0 +1,4 @@
+23370544
+2013 Mar
+We present an interesting case of a post-(90)Y radioembolization PET scan acquired with the aide of respiratory gating. We postulated that respiratory gating would allow accurate tracking of the tumor position, which may be altered by patient breathing. Time-of-flight image reconstruction was used to produce images with less noise in fewer iterations than is possible with conventional PET.
+

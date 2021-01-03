@@ -1,0 +1,4 @@
+30042045
+2018 Aug 15
+The anticancer nucleoside 5-fluoro 2'-deoxyuridine-5'-phosphate (5-FdU-P) was attached via an amide chain linker to a triantennary GalNAc cluster as a means to deliver the drug to hepatic cells that recognize the amino sugar units.
+Drug delivery; GalNAc cluster; Liver cancer; Nucleoside; Phosphoramidite.

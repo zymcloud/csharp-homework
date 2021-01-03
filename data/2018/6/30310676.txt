@@ -1,0 +1,4 @@
+30310676
+2018 Jun 28
+Four metal complexes based on 2-benzoylpyridine N,N-dimethylthiosemicarbazone (Bp44mT) were designed. Free ligand and zinc(ii), diorganotin(iv), gallium(iii) and cadmium(ii) complexes all demonstrated pronounced activity, which was indicated using the growth inhibition test in vitro. Interestingly, most of the compounds were found to be selective against hepatocellular carcinoma (HepG2) cells but had little effect on normal hepatocyte (QSG7701) cells. In particular, Zn(Bp44mT)2 (1) exhibited toxicity on QSG7701 cells which approximately 12-fold lower than that on HepG2 cells. The studies of mechanisms of action indicated that 1 induced reactive oxygen species (ROS) generation in a dose-dependent manner via the mitochondria transduction pathway. Protein analyses showed that 1 significantly promoted p21 and p53 gene expression, causing caspase-3 activation.
+

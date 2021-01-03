@@ -1,0 +1,4 @@
+25119390
+2014 Nov
+The tumor suppressor gene CD82, also known as KAI1, may act as a general suppressor of metastasis in numerous types of cancer. It is hypothesized that downregulation of CD82 gene expression may be an important factor in the induction of hepatocellular carcinoma (HCC), however the mechanism for this requires further study. In the present study, the relative mRNA and protein expression levels of the CD82 gene were determined in HCC and adjacent non‑tumor tissues. The association between the CD82 gene and the hepatitis B virus (HBV) was also investigated, by quantitative polymerase chain reaction, western blotting, luciferase reporter assays and mass spectrometry with matrix‑assisted laser desorption/ionization time‑of‑flight mass array. CD82 expression was shown to be suppressed in response to HCC promoter methylation. Relative CD82 mRNA and protein expression levels were downregulated in HCC tissues (P
+

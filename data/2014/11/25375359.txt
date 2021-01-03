@@ -1,0 +1,4 @@
+25375359
+2014 Nov 6
+Thyroid cancer is the most common endocrine malignant disease and the incidence is increasing. DACT2 was found frequently methylated in human lung cancer and hepatocellular carcinoma. To explore the epigenetic change and the role of DACT2 in thyroid cancer, 7 thyroid cancer cell lines, 10 cases of non-cancerous thyroid tissue samples and 99 cases of primary thyroid cancer samples were involved in this study. DACT2 was expressed and unmethylated in K1, SW579, FTC-133, TT, W3 and 8505C cell lines. Loss of expression and complete methylation was found in TPC-1 cells. Restoration of DACT2 expression was induced by 5-aza-2'deoxycytidine treatment. It demonstrates that the expression of DACT2 was regulated by promoter region methylation. In human primary papillary thyroid cancer, 64.6% (64/99) was methylated and methylation of DACT2 was related to lymph node metastasis (p
+

@@ -1,0 +1,4 @@
+26610895
+2016 Jan
+Currently, the prognostic significance of SPIB protein overexpression in human hepatocellular carcinoma (HCC) is unclear. The aim of the present study was to investigate the level of SPIB expression in human HCC in order to determine possible correlations between SPIB expression and clinicopathological findings. The expression of SPIB proteins was detected using immunohistochemical staining in commercial multiple-tissue microarrays as a means of examining expression profiles in patients. Using online biomarker validation tool SurvExpress, we focused on the correlation between SPIB overexpression and survival as well as relapse-free survival (RFS). Results show that SPIB protein expression levels were significantly higher in colon, liver, and stomach tumors than in non-tumor tissues (p
+Hepatocellular carcinoma; Immunohistochemistry; Prognostic marker; SPIB; Tissue microarray.

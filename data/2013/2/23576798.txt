@@ -1,0 +1,4 @@
+23576798
+2013 Feb
+This study was designed to identify and verify hepatocellular carcinoma (HCC)-associated human carcinoma antigens (HCAs) that may be useful as tumor markers for HCC. We found that BCE075 and BCD021 anti-HCA antibodies were immunostained in the liver tissue samples and showed specific staining. Their expression was increased in HCC compared with normal liver tissues (P = 0.008). Immunoprecipitation and mass spectrometry analyses of the proteins precipitated by these two antibodies were identified to be cytoskeleton-associated protein 4 (CLIMP63) and brain-type glycogen phosphorylase (PYGB). This study demonstrated that HCC tissues expressed specific HCA glycoproteins, suggesting that our mouse monoclonal anti-HCA antibodies could be useful for immunohistochemical analysis of HCA expression as potential biomarkers for HCC diagnosis.
+

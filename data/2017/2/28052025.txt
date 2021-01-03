@@ -1,0 +1,4 @@
+28052025
+2017 Feb 7
+We conducted a study of Ganoderma lucidum metabolites and isolated 35 lanostane-type triterpenoids, including 5 new ganoderols (1-5). By spectroscopy, we compared the structures of these compounds with known related compounds in this group. All of the isolated compounds were assayed for their effect against the human breast carcinoma cell line MDA-MB-231 and hepatocellular carcinoma cell line HepG2. Corresponding three-dimensional quantitative structure-activity relationship (3D-QSAR) models were built and analyzed using Discovery Studio. These results provide further evidence for anti-cancer constituents within Ganoderma lucidum, and may provide a theoretical foundation for designing novel therapeutic compounds.
+3D-QSAR; Ganoderma lucidum; cytotoxicity; lanostane-type triterpenoids.

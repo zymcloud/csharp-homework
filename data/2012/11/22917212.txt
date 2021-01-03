@@ -1,0 +1,4 @@
+22917212
+2012 Nov
+Hepatocellular carcinoma (HCC) is often diagnosed at an advanced stage, and over the past several decades, many researchers have worked to develop novel effective therapies for HCC patients. The functional contributions of mesenchymal stem cells to human malignancies, including HCC growth and progression, are controversial, and the potential mechanisms underlying these effects are not clear. The aim of this study was to investigate the effect of adipose-derived mesenchymal stem cells (ADSCs) on the growth of HCC cells. In this study, a conditioned medium from ADSCs (ADSC-CM) efficiently inhibited HCC cell proliferation and division, and induced HCC cell death through the downregulation of Akt signaling. These findings indicated that the ADSC-CM could inhibit HCC growth. Thus, the ADSC-CM is a good candidate for the treatment of HCC patients for whom no effective therapy is available.
+

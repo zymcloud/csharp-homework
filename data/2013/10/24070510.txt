@@ -1,0 +1,4 @@
+24070510
+2013 Oct
+Molecular analysis of apoptosis and autophagy pathways was performed from a single hepatocellular carcinoma treated with yttrium-90 and doxorubicin-loaded beads before resection and compared with normal liver tissue from the margins. Both bead formulations activated apoptosis-associated mechanisms and increased autophagy pathway protein levels. Increased DNA fragmentation and autophagy markers were seen in tumor treated with drug-eluting beads compared with yttrium-90-treated tumor. These results suggest that both microembolic therapies activate cell death signaling, although differences in apoptosis and autophagy pathways were seen in this patient. Knowledge of mechanisms of action for each treatment may enhance future therapeutic strategies.
+(90)Y; DEBT; HCC; TUNEL; drug-eluting bead therapy; hepatocellular carcinoma; terminal deoxynucleotidyl transferase-mediated dUTP nick end labeling; yttrium-90.

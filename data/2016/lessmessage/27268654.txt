@@ -1,0 +1,4 @@
+27268654
+2016
+Background:Primary hepatocellular carcinoma (HCC) is one of the most common malignancies worldwide. MicroRNAs (miRNAs) have great HCC diagnostic potential and circulating miRNAs have been reported as promising biomarkers for various pathologic conditions.Aim:To explore the potential benefit of serum miR-126, miR-129, miR-155, miR-203 and miR-223 as non-invasive diagnostic markers of hepatitis C virus (HCV)-related HCC.Materials and methods:The expression of miRNA was evaluated using real-time quantitative RT-PCR in 78 serum samples (30 treatment-naive chronic HCV, 25 post-HCV compensated cirrhosis and 23 treatment- naive HCC cases).Results:Comparing miRNA fold changes in the HCC group vs the non HCC groups, there was significant fold decrease in miR-126 (P= 0.034), miR-129 (P= 0.006), miR-155 (P= 0.011), miR-203 (Conclusions:Among studied miRNAs, serum miR-203 has the highest potential as a non-invasive biomarker of HCC.
+

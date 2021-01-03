@@ -1,0 +1,4 @@
+27780927
+2016 Nov 22
+Hepatocellular carcinoma (HCC) is the most common cancer type. There is a correlation between selenium (Se) deficiency and the incidence of HCC. To clarify the effects of Se level on the risk of HCC patients, a meta-analysis was performed. A total of 9 articles published between 1994 and 2016 worldwide were selected through searching PubMed, EMBASE, web of science, Cochrane Library, Springer Link, Chinese National Knowledge Infrastructure (CNKI), and Chinese Biology Medicine (CBM), and the information were analyzed using a meta-analysis method. Heterogeneity was assessed by using the I2 index. Publication bias was evaluated by Begg's Test analysis. Pooled analysis indicated that patients with HCC had lower Se levels than the healthy controls [standardized mean difference (SMD)= -1.08, 95% confidence intercal (CI) = (-0.136, -0.08), P
+correlation; hepatocellular carcinoma; meta-analysis; selenium.

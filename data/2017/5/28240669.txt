@@ -1,0 +1,4 @@
+28240669
+2017 May
+The usage of PET/CT to monitor patients with hepatocellular carcinoma following Y radioembolization has increased; however, image quality is often poor because of low count efficiency and respiratory motion. Motion can be corrected using gating techniques but at the expense of additional image noise. Amplitude-based gating has been shown to improve quantification in FDG PET, but few have used this technique in Y liver imaging. The patients shown in this work indicate that amplitude-based gating can be used in Y PET/CT liver imaging to provide motion-corrected images with higher estimates of activity concentration that may improve posttherapy dosimetry.
+

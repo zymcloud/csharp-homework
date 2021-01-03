@@ -1,0 +1,4 @@
+22677619
+2012
+Elucidation of the molecular mechanisms of leukemogenesis is important for a better understanding of the prognosis of acute lymphoblastic leukemia (ALL). Studies have shown that the expression of upregulated gene 4 (URG4), which promotes cell growth and survival, is increased in different types of carcinomas including hepatocellular carcinoma, gastric cancer and osteosarcoma. Similarly, higher expression of URG4 and cyclin D1 gene might promote proliferation of the blast cells by causing escape from the G1 checkpoint and entry into the S phase. This study reports the high expression level of URG4 in 2 high-risk ALL patients for the first time in the literature. In conclusion, the higher expression of URG4 in our 2 patients suggests that URG4 might be involved in leukemogenesis. Future studies with a large number of high-risk ALL patients and cell culture studies are needed to demonstrate the exact role of URG4 in leukemogenesis.
+

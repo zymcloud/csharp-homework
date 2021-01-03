@@ -1,0 +1,4 @@
+21468606
+May-Jun 2011
+The apoptotic effects of yessotoxin (YTX) on Bel7402 human hepatoma cells have been evaluated by the combination of several methods, including optical microscopy, Hoechst 33342 staining and DNA gel electrophoresis. Rhodamine 123 staining has also been used to investigate changes in mitochondrial transmembrane potential. The results indicated that YTX has negative effects on human liver cells and induces apoptosis. Furthermore, changes in calcium concentrations were analyzed using the fluorescence probe Fluo-3 AM. The results showed that intracellular calcium concentrations increased after treatment with YTX.
+

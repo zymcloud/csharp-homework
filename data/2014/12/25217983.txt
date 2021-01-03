@@ -1,0 +1,4 @@
+25217983
+2014 Dec
+Epidemiologic and biological data suggest a role for androgens and perhaps their receptor in hepatocellular carcinoma (HCC) development. However, few studies evaluated an association between HCC risk and androgen receptor (AR) cytosine, adenine, guanine (CAG) repeat length. To examine whether the relationship between the AR CAG repeats and HCC risk was also evident in Chinese, we conducted this large population-based, case-control study of 2,000 pathologically confirmed HCC patients and 2,000 frequency-matched controls. Two different approaches for AR CAG repeat length (analyses with continuous and categorized polymorphism variables) were conducted in the statistical analyses. For AR CAG longer allele (CAG_L), we found that subjects with longer AR CAG_L repeats had a decreased risk of developing HCC (OR = 0.87 for per CAG_A increase, 95 % CI 0.82-0.96, P = 5.33 × 10(-4)). Compared to those with the shorter (
+

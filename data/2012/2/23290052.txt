@@ -1,0 +1,4 @@
+23290052
+2013 Feb 1
+Two new quassinoids, altissinol A (1) and B (7), together with 12 known quassinoids, were isolated from the 95% ethanol extract of the barks of Ailanthus altissima. The structures of the new compounds (1 and 7) were determined on the basis of the spectroscopic methods including UV, IR, HR-ESI-MS, 1D and 2D NMR. The cytotoxic potential of all isolates were evaluated in vitro against three human hepatoma cell lines. Quassinoids 1-7 displayed potent cytotoxic activities against human hepatoma Hep3B and HepG2 cell lines. Interestingly, compounds 2, 3, and 5 exhibited cytotoxic activity against multidrug resistance HepG2/ADM cell line with IC(50) value 4.3-fold more sensitive to Doxorubicin (DOX).
+

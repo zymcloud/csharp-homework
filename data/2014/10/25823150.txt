@@ -1,0 +1,4 @@
+25823150
+2014 Oct
+Objective:To study the effects of hepatitis C virus gene nonstructural protein 2 on the expressions of Bcl-2 and Bax in liver hepatocellular cells.Method:The study was conducted at the Department of Infectious Diseases, the First Affiliated Hospital of Medical School, Xi'an Jiaotong University, Xi'an, China, from March 2012 to April 2013. Negative controls pEGFP-C3-NS2, pEGFP-C3-C and pEGFP-C3 were transiently transfected into liver hepatocellular cells and expressions of Bcl-2 and Bax were detected by Western blot 24 h post-transfection. SPSS 13 was used for statistical analysis.Results:After transfected with NS2 gene, expression of Bcl-2 in liver hepatocellular cells was slightly higher than the non-transfected cells, and the expression of Bax was significantly higher than the non-transfected cells.Conclusion:Hepatitis C virus non-structural protein 2 gene plays a role in adjusting the proto-oncogene Bcl-2 and tumour suppressor gene Bax.
+

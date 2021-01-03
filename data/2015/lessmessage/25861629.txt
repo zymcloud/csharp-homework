@@ -1,0 +1,4 @@
+25861629
+2015
+Recent evidence has proven the relevance of epigenetic changes in the development of hepatocellular carcinoma (HCC), the major adult liver malignancy. Moreover, HCC onset and progression correlate with the deregulation of several long noncoding RNAs (lncRNAs), exhibiting great biological significance. As discussed in this review, many of these transcripts are able to specifically act as tumor suppressors or oncogenes by means of their role as molecular platforms. Indeed, these lncRNAs are able to bind and recruit epigenetic modifiers on specific genomic loci, ultimately resulting in regulation of the gene expression relevant in cancer development. The evidence presented in this review highlights that lncRNAs-mediated epigenetic regulation should be taken into account for potential targeted therapeutic approaches.
+

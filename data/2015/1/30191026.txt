@@ -1,0 +1,4 @@
+30191026
+2016 Jan
+Circulating free tumor DNA (ctDNA) is DNA released from necrotic or apoptotic tumor cells into the bloodstream. Absolute levels of ctDNA, as well as genetic mutations and epigenetic changes detected in ctDNA are useful biomarkers of tumor biology, progression and response to therapy in many tumor types and recent evidence suggests they may be useful in hepatocellular carcinoma (HCC). ctDNA detected in blood, therefore, offers a minimally invasive, easily repeated 'liquid biopsy' of cancer, providing real-time dynamic analysis of tumor behavior and treatment response that could revolutionize both clinical and research practice in HCC. In this review, we provide a critical summary of the evidence for the utility of ctDNA as a diagnostic and prognostic biomarker in HCC.
+

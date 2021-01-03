@@ -1,0 +1,4 @@
+32065347
+2020 Aug
+Hepatocellular carcinoma (HCC) is among the malignant tumors with highest mortality. The role of USP9X in the carcinogenesis of HCC has not yet been determined. In this study, USP9X was found significantly highly expressed in the intratumor tissues. Expression of intratumor USP9X was associated with tumor size and microvascular invasion while USP9X is independent risk factor of HCC disease-free survival and overall survival. In vitro studies revealed that knockdown of USP9X significantly inhibited the proliferation of HCC cells. Mechanically, USP9X promotes HCC cell proliferation by regulating the expression of beta-catenin. The results of the present study demonstrated that high expression of USP9X in intratumoral cells is associated with poor HCC prognosis, which may serve as a potential target for an adjuvant therapy.
+Beta-catenin; Hepatocellular carcinoma; USP9X.

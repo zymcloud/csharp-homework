@@ -1,0 +1,4 @@
+27993818
+2017 Mar 1
+Several long noncoding RNAs (lncRNA) are abrogated in cancer but their precise contributions to oncogenesis are still emerging. Here we report that the lncRNA MALAT1 is upregulated in hepatocellular carcinoma and acts as a proto-oncogene through Wnt pathway activation and induction of the oncogenic splicing factor SRSF1. Induction of SRSF1 by MALAT1 modulates SRSF1 splicing targets, enhancing the production of antiapoptotic splicing isoforms and activating the mTOR pathway by modulating the alternative splicing of S6K1. Inhibition of SRSF1 expression or mTOR activity abolishes the oncogenic properties of MALAT1, suggesting that SRSF1 induction and mTOR activation are essential for MALAT1-induced transformation. Our results reveal a mechanism by which lncRNA MALAT1 acts as a proto-oncogene in hepatocellular carcinoma, modulating oncogenic alternative splicing through SRSF1 upregulation. Cancer Res; 77(5); 1155-67. ©2016 AACR.
+

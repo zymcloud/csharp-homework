@@ -1,0 +1,4 @@
+24606440
+2014
+Senescence marker protein 30 (SMP30), a hepatocellular carcinoma (HCC) associated antigen had been identified by our research group. To study its mechanisms of regulation and associations with the occurrence and development of HCC, we inhibited expression by RNAi technique, and observed effects on the biological characteristics of Hep G2 cells. In cell viability assays, cell growth in the experimental group (with siRNA transfection) was elevated. In Transwell invasion assays, compared with blank and control groups, numbers of invading cells in the experimental group were significantly increased, whereas in apoptosis assays, the percentage apoptosis demonstrated no differences, but after UV irradiation, that in the experimental group was higher than the other two groups. In a word, SMP30 can inhibit the proliferation and invasion of human hepatoma cells and thus can be regarded as a cancer suppressive factor.
+

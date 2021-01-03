@@ -1,0 +1,4 @@
+26755879
+2016 Jan 7
+Human hepatocellular carcinoma (HCC) heavily endangers human heath worldwide. HCC is one of most frequent cancers in China because patients with liver disease, such as chronic hepatitis, have the highest cancer susceptibility. Traditional therapeutic approaches have limited efficacy in advanced liver cancer, and novel strategies are urgently needed to improve the limited treatment options for HCC. This review summarizes the basic knowledge, current advances, and future challenges and prospects of adeno-associated virus (AAV) and adenoviruses as vectors for gene therapy of HCC. This paper also reviews the clinical trials of gene therapy using adenovirus vectors, immunotherapy, toxicity and immunological barriers for AAV and adenoviruses, and proposes several alternative strategies to overcome the therapeutic barriers to using AAV and adenoviruses as vectors.
+Adeno-associated virus; Adenovirus; Hepatocellular carcinoma; Virus vectors.

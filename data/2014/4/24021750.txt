@@ -1,0 +1,4 @@
+24021750
+2014 Apr 10
+Growing evidence from epidemiologic and preclinical studies suggests that nonsteroidal anti-inflammatory drugs (NSAIDs) reduce the risk of gastrointestinal (GI) cancers, including esophageal, gastric, pancreatic, colorectal cancer, and hepatocellular carcinoma. However, there is also evidence indicating the absence of this benefit. The exact mechanism of NSAIDs' action on GI tumors is not known. Although some studies have suggested inhibition of carcinogenesis by NSAIDs through suppression effect on inflammation-associated cyclooxygenase-2 (COX-2) expression, other studies have suggested COX-2-independent mechanisms. Herein, we summarize the current state of-the-science regarding NSAID benefit for patients with GI cancers.
+COX-2; Gastrointestinal cancers; NSAIDs.

@@ -1,0 +1,4 @@
+30127967
+2018 Sep
+Hepatocellular carcinoma (HCC) is one of the most lethal and malignant types of cancer that affects global human health. The present study aimed to investigate the effect of pyruvate kinase muscle isozyme M2 (PKM2) expression on the clinical features and prognosis of HCC. The present study employed univariate logistic regression to investigate the correlation between PKM2 expression and clinical features. Univariate and multivariate Cox regression analyses were performed to estimate the independent effect of PKM2 expression on survival status. The results revealed that patients in the high PKM2 group (≥11.25) exhibited significantly lower creatinine levels (P=0.043), higher fetoprotein levels (P
+clinical features; hepatocellular carcinoma; overall survival; pyruvate kinase muscle isozyme M2.

@@ -1,0 +1,4 @@
+24662374
+2014 May
+Ferritin H, the major iron storage protein, has essential functions in early embryonic development as well as in adult liver and intestine. To address the question whether ferritin H has similarly essential functions in the brain we used the Cre/loxP system to generate mice with a forebrain-specific inactivation of the ferritin H gene. Ferritin H deficiency in most cells of the forebrain including cells of the choroid plexus caused accumulation of cerebrospinal fluid in the lateral ventricles and the subarachnoid space. Brain tissue iron content was unchanged.
+Blood brain barrier; Brain; Ferritin H; Iron; Mice.

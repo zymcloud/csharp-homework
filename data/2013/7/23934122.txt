@@ -1,0 +1,4 @@
+23934122
+2013 Jul
+Mixed-lineage leukemia (MLL; also known as myeloid/lymphoid), the human homolog of trithorax in Drosophila, is a transcriptional coactivator that plays an essential role during early development and hematopoiesis. Furthermore, MLL is critically involved in the epigenetic regulation of cell cycle, senescence, DNA damage, and stem cell self-renewal. Chromosomal aberrations of MLL in acute leukemias are well documented, but the role of this gene in solid malignancies remains unclear. In this issue of the JCI, Takeda et al. describe a novel epigenetic link between MLL and the HGF-MET signaling pathway conferring invasive and metastatic properties to hepatocellular carcinoma cells.
+

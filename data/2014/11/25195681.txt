@@ -1,0 +1,4 @@
+25195681
+2014 Nov
+Curcumin has been reported to be effective as a cancer therapy. However, the anti-metastatic effect and molecular mechanism(s) of curcumin in hepatocellular carcinoma (HCC) remain poorly understood. The purpose of this study was to test the effects of curcumin on HCC and its putative mechanism(s). Curcumin inhibited the proliferation of HCC cells and inhibited the migration and invasion of these cells at sub-cytotoxic concentrations. Curcumin also decreased the expression and activity of matrix metalloproteinases (MMP)-2 and MMP-9, and reduced p38 phosphorylation. Combination treatment of HCC cells with curcumin and SB203580 (a p38 signaling pathway inhibitor), generated a synergistic effect on the expression of MMP-2 and MMP-9, suggesting that the anti-metastatic effect of curcumin on HCC may involve a p38 signaling pathway.
+MMP; curcumin; hepatocellular carcinoma; migration and invasion.

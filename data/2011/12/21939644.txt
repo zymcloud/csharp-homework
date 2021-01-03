@@ -1,0 +1,4 @@
+21939644
+2011 Dec
+Objectives:We evaluated two new autoanalyzers, μTAS and Lumipulse for des-γ-carboxyprothrombin (DCP) assay.Material and methods:Analytical performance was evaluated, and the upper reference limit of the 97.5th percentile for DCP was re-established using sera from 140 healthy individuals. DCP levels were determined by the two autoanalyzers and EIA in a total of 239 sera from HCC patients (n=120) and those without HCC (n=119).Results:Total imprecision of the two automated assays was Conclusion:The two newly developed DCP assays showed high analytical performance, but re-establishment of reference limits would be necessary. The new analyzers could be useful for clinical laboratories because of convenience of operation and wide AMRs.
+

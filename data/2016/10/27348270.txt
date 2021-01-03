@@ -1,0 +1,4 @@
+27348270
+2016 Oct
+Receiving Model for End-Stage Liver Disease (MELD) exception status for hepatocellular carcinoma (HCC) improves wait-list survival and probability of liver transplantation (LT). We aim to evaluate etiology-specific disparities in MELD exception, LT wait-list times, and post-LT outcomes among patients with HCC listed for LT. Using United Network for Organ Sharing 2004-2013 data, we evaluated adults (age > 18 years) with HCC secondary to hepatitis C virus (HCV), nonalcoholic steatohepatitis (NASH), alcoholic cirrhosis (EtOH), hepatitis B virus (HBV), combined EtOH/HCV, and combined HBV/HCV. Multivariate regression models evaluated etiology-specific odds of active exception, probability of receiving LT, and post-LT survival. In total, 10,887 HCC patients were listed for LT from 2004 to 2013. Compared with HCV-HCC patients (86.8%), patients with NASH-HCC (67.7%), and EtOH-HCC (64.4%) had a lower proportion with active MELD exception (P
+

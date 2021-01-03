@@ -1,0 +1,4 @@
+27101519
+2017 Jan
+MicroRNAs (miRNAs) are a group of small non-coding RNAs that range in length from 20 to 25 nucleotides. MicroRNAs are specific for multiple cellular functions, including cell generation, differentiation, multiplication, carcinogenesis, and apoptosis. Many researchers have recently reported that the aberrant expression of miRNAs in hepatic tissue was related to the pathogenesis of liver disease, including viral hepatitis, hepatocellular carcinoma, and fatty liver disease. Multiple studies have proposed that an analysis of circulating miRNAs may be useful for diagnosing etiologies or staging the progression of liver disease, as well as for therapeutic purposes, for example, nucleic acid therapy. This review summarizes and discusses recent advances in the knowledge of miRNAs for chronic liver diseases, with special interest in viral hepatitis, liver fibrosis, and biomarkers.
+HBV; HCC; HCV; biomarker; liver fibrosis; miRNA.

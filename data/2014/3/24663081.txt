@@ -1,0 +1,4 @@
+24663081
+2014 Mar 6
+Long non-coding RNA HOTAIR exerts regulatory functions in various biological processes in cancer cells, such as proliferation, apoptosis, mobility, and invasion. We previously found that HOX transcript antisense RNA (HOTAIR) is a negative prognostic factor and exhibits oncogenic activity in hepatocellular carcinoma (HCC). In this study, we aimed to investigate the role and molecular mechanism of HOTAIR in promoting HCC cell migration and invasion. Firstly, we profiled its gene expression pattern by microarray analysis of HOTAIR loss in Bel-7402 HCC cell line. The results showed that 129 genes were significantly down-regulated, while 167 genes were significantly up-regulated (fold change >2, p
+

@@ -1,0 +1,4 @@
+24064800
+2013 Dec
+In the present study, we investigated the antitumor activity of caudatin in the human hepatoma cell line SMMC‑7721 by analysis of cell viability, cell cycle distribution, apoptosis and metastasis. The results showed that caudatin impaired the cell viability and inhibited the growth of SMMC-7721 cells in a time- and dose-dependent manner and resulted in cell cycle arrest in the G2 phase. In addition, SMMC-7721 cells, treated with caudatin exhibited typical characteristics of apoptosis. Furthermore, caudatin treatment resulted in a decrease in β-catenin and GSK3β in SMMC-7721 cells, with a concomitant reduction in metastatic capability and expression of Wnt signaling pathway targeted genes including cox-2, mmp-2 and mmp-9. Our findings revealed that caudatin inhibits human hepatoma cell growth and metastasis by targeting the GSK3β/β-catenin pathway and suppressing VEGF production.
+

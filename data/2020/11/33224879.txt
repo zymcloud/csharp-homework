@@ -1,0 +1,4 @@
+33224879
+2020 Nov 2
+Hepatocellular carcinoma (HCC) is one of the most common malignant tumors in China. N6-methyladenosine (m6A) plays an important role in posttranscriptional gene regulation. METTL3 and IGF2BP2 are key genes in the m6A signal pathway and have recently been shown to play important roles in cancer development and progression. In our work, higher METTL3 and IGF2BP2 expression were found in HCC tissues and were associated with a poor prognosis. In addition, IGF2BP2 overexpression promoted HCC proliferation in vitro and in vivo. Mechanistically, IGF2BP2 directly recognized and bound to the m6A site on FEN1 mRNA and enhanced FEN1 mRNA stability. Overall, our study revealed that METTL3 and IGF2BP2, acting as an oncogene, maintained FEN1 expression through an m6A-IGF2BP2-dependent mechanism in HCC cells, and indicated a potential biomarker panel for prognostic prediction in liver cancer.
+FEN1; IGF2BP2; METTL3; N6-methyladenosine; liver cancer.

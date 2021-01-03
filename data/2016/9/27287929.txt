@@ -1,0 +1,4 @@
+27287929
+2016 Sep
+Hepatitis B virus (HBV) is a major human pathogen, and chronic hepatitis can lead to cirrhosis and malignant hepatocellular carcinoma. While HBV vaccine and treatment are available, it has remained a challenge to completely eradicate the virus from patients. Current therapy using either interferon or polymerase inhibitors cannot cure HBV with a high efficacy. Lifelong therapy is needed to suppress HBV in patients who achieve no seroconversion. Here, we review recent exciting advances of new strategies, including the inhibition of viral entry, the destruction or silencing of HBV covalently closed circular DNA (cccDNA), and breaking immune tolerance. Combinations of different therapeutic strategies could improve the cure rate of viral persistence in chronic hepatitis B.
+chronic infection; combination therapy; covalently closed circular DNA (cccDNA); hepatitis B virus; immune tolerance; viral entry.

@@ -1,0 +1,4 @@
+31129147
+2019 Aug 28
+Tumor-associated macrophage (TAM) plays a prominent role in inflammatory microenvironment which contributes to hepatocellular carcinoma (HCC) progress by presenting M1 and M2 polarization. HCC, which is highly associated with inflammation, always leads to poor prognosis for recurrence and metastasis. TAMs with M2 polarization induce cellular proliferation, angiogenesis, epithelial-mesenchymal transition (EMT) in HCC. Furthermore, it also interacts with other immune cell clusters which leads to the resistance in targeted therapy and immunotherapy. This article reviews studies on the role of TAM to affect HCC treatment and provides insight into the potential individualized precision monotherapy or combination therapy in HCC.
+Hepatocellular carcinoma; Immunotherapy; Targeted therapy; Tumor-associated macrophage.

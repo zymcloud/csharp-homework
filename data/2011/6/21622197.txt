@@ -1,0 +1,4 @@
+21622197
+2011 Jun 1
+Chronic hepatitis B virus (HBV) infection is an important cause of hepatocellular carcinoma (HCC) worldwide, especially in Asia. HBV induces HCC through multiple oncogenic pathways. Hepatitis-induced hepatocyte inflammation and regeneration stimulates cell proliferation. The interplay between the viral and host factors activates oncogenic signaling pathways and triggers cell transformation. In this review, we summarize previous studies, which reported that HBV induces host genomic instability and that HBV-induced genomic instability is a significant factor that accelerates carcinogenesis. The various types of genomic changes in HBV-induced HCC--chromosomal instability, telomere attrition, and gene-level mutations--are reviewed. In addition, the two viral factors, HBx and the pre-S2 mutant large surface antigen, are discussed for their roles in promoting genomic instability as their main features as viral oncoproteins.
+

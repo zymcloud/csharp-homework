@@ -1,0 +1,4 @@
+25764676
+2015 Feb
+The innate immune system is essential for controlling viral infection. Hepatitis C virus (HCV) is a causative agent of hepatocellular carcinoma. HCV evades host innate immune response and maintains persistent infection. RIG-I is a cytoplasmic viral RNA sensor and triggers the innate immune response. The Riplet ubiquitin ligase mediates K63-linked polyubiquitination of RIG-I, which is essential for RIG-I activation. Previous studies have shown that HCV NS3-4A protease cleaves RIG-I adaptor MAVS to escape host antiviral response. However, MAVS cleavage is supposed to be not sufficient for viral chronicity. Recently, we found that NS3-4A cleaves both MAVS and Riplet to attenuate RIG-I activation. These findings indicate that HCV NS3-4A cleaves several proteins to shut off antiviral innate immune response.
+

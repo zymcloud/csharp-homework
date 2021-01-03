@@ -1,0 +1,4 @@
+29582629
+2018 Mar 27
+Background: Chronic hepatitis B (CHB) can lead to cirrhosis and hepatocellular carcinoma. The metabolomic profiling has been shown to be associated with pathogenic mechanisms in many medical conditions including CHB. The purpose of this study was to investigate the urine metabolomic profiles in CHB patients by gas chromatography/mass spectrometry (GC/MS). Methods: Urine samples were collected from CHB patients (n = 20) and normal control subjects (n = 20). Metabolite profiles were assessed using GC/MS in conjunction with multivariate statistical analysis, in order to identify biomarker metabolites. Pathway analysis was performed by MetaboAnalyst 3.0 and KEGG database.Results: Twelve out of 377 metabolites were shown to be significantly different between the CHB and normal control groups (p
+Chronic hepatitis B; metabolomic profiling; gas chromatography/mass spectrometry; Biomarkers.

@@ -1,0 +1,4 @@
+23679271
+2013
+A case-control study of the association of miR-499A>G rs3746444 with risk of hepatocellular carcinoma (HCC)was conducted. Patients with HCC and healthy control subjects were recruited for genotyping of miR- 499A>G using duplex polymerase-chain-reaction with confronting-two-pair primer(PCR-RFLP) analysis. The MiR-499 GG genotype was associated with a decreased risk of HCC as compared with the miR-499 AA genotype (adjusted OR=0.74, 95%CI=0.24-0.96). Similarly, the GG genotype showed a 0.45-fold decreased HCC risk in a recessive model. The MiR-499 G allele was significantly associated with decreased risk of HCC among patients infected with HBV in a dominant model (OR=0.09, 95%CI= 0.02-0.29). In conclusion, the MiR-499A>G rs3746444 polymorphism is associated with HCC risk in the Chinese population, and may be useful predictive marker for CAD susceptibility.
+

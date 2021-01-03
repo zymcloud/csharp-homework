@@ -1,0 +1,4 @@
+29922155
+2018 Jun 5
+Inflammation contributes heavily to the pathogenesis of liver fibrosis, cirrhosis, and even hepatocellular carcinoma. Inflammation is probably a promising target for treatment of liver diseases. The natural products are considered as the potential source of new drug discovery and their pharmacological effects on hepatic inflammation have been widely reported. In this review, the natural products with anti-hepatic inflammatory properties are summarized based on their pharmacological effects and mechanisms, which are related to the suppression on the inflammation mediators including cytokines and chemokines, pattern recognition receptors, the activated transcriptional factors, and the potential regulatory factors. The clinical evidence is also summarized.
+chemokine; cytokine; hepatic inflammation; inflammasome; mitogen-activated protein kinases; nuclear factor-kappa B; reactive oxygen species; toll like receptor.

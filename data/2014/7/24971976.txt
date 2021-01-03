@@ -1,0 +1,4 @@
+24971976
+2014 Jul
+X-ray microscopy is a commonly used method especially in material science application, where the large penetration depth of X-rays is necessary for three-dimensional structural studies of thick specimens with high-Z elements. In this paper it is shown that full-field X-ray microscopy at 6.2 keV can be utilized for imaging of biological specimens with high resolution. A full-field Zernike phase-contrast microscope based on diffractive optics is used to study lipid droplet formation in hepatoma cells. It is shown that the contrast of the images is comparable with that of electron microscopy, and even better contrast at tender X-ray energies between 2.5 keV and 4 keV is expected.
+X-ray microscopy; Zernike phase contrast; biological samples.

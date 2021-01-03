@@ -1,0 +1,4 @@
+23727022
+2013 Jun 10
+The incidence of cholangiocellular carcinoma (CCC) is increasing worldwide. Using a transgenic mouse model, we found that expression of the intracellular domain of Notch 1 (NICD) in mouse livers results in the formation of intrahepatic CCCs. These tumors display features of bipotential hepatic progenitor cells, indicating that intrahepatic CCC can originate from this cell type. We show that human and mouse CCCs are characterized by high expression of the cyclin E protein and identified the cyclin E gene as a direct transcriptional target of the Notch signaling pathway. Intriguingly, blocking γ-secretase activity in human CCC xenotransplants results in downregulation of cyclin E expression, induction of apoptosis, and tumor remission in vivo.
+

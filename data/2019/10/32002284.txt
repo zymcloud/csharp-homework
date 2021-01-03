@@ -1,0 +1,4 @@
+32002284
+2019 Oct 13
+Hepatocellular Carcinoma (HCC) is one of the leading causes of cancer-related mortality worldwide. Current systemic therapies result only in modest benefits and new therapeutic options are critically needed. Some patients show promising clinical responses to immune checkpoint inhibitors, however, additional immunotherapeutic approaches, such as adoptive cell therapies (ACT), need to be developed. This review summarizes recent ACT studies and discusses the promise and obstacles of this approach. We further discuss ways of improving the efficacy of ACT in HCC including the use of combination therapies and locoregional delivery methods.
+CAR T cells; Hepatocellular carcinoma; T cells; TCR; adoptive cell transfer; immunotherapy; tumor immunology.

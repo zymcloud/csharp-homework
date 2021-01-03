@@ -1,0 +1,4 @@
+22335485
+2012 Mar
+Hepatocellular carcinoma (HCC) is an aggressive malignancy with approximately half a million cases diagnosed each year. Although strategies in surgical interventions have been investigated and applied, the prognosis is still poor. Novel chemotherapy for advanced stage HCC patients is still greatly in need. Hippo-Yes-associated protein (YAP) signaling pathway controls organ size by regulating both cell proliferation and apoptosis during normal development. The pathway also has a prominent role in suppressing tumor growth, with the most evident contribution in HCC. In recent years, regulators of this pathway have gradually been revealed, providing new information for understanding this complex yet important growth-control signaling. This knowledge provides a basis for rational design of therapeutics against cancer that depends upon Hippo-YAP signaling for growth.
+

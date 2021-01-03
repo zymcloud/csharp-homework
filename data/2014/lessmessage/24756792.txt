@@ -1,0 +1,4 @@
+24756792
+2014
+Regorafenib (BAY 73-4506, Stivarga®) is an oral diphenylurea multikinase inhibitor that targets angiogenic (VEGFR1-3, TIE2), stromal (PDGFR-β, FGFR), and oncogenic receptor tyrosine kinases (KIT, RET, and RAF). Regorafenib is the first small-molecule multikinase inhibitor to achieve survival benefits in metastatic colorectal cancer that has progressed after all standard therapies. Consequently, regorafenib was FDA approved for this indication. In addition, regorafenib treatment resulted in a significant improvement in progression-free survival (PFS) compared with placebo in patients with metastatic gastrointestinal stromal tumors (GIST) after progression on standard treatments and is also an FDA approved indication. Currently, regorafenib is examined in several clinical trials (mostly phase II) in different tumor entities, including renal cell carcinoma (RCC), hepatocellular carcinoma (HCC), and soft tissue sarcoma (STS).
+

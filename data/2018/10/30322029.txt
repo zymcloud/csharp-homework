@@ -1,0 +1,4 @@
+30322029
+2018 Oct 12
+According to the World Health Organization (WHO), 71 million people were living with Hepatitis C virus (HCV) infection worldwide in 2015. Each year, about 399,000 HCV-infected people succumb to cirrhosis, hepatocellular carcinoma, and liver failure. Therefore, screening of HCV infection with simple, rapid, but highly sensitive and specific methods can help to curb the global burden on HCV healthcare. Apart from the determination of viral load/viral clearance, the identification of specific HCV genotype is also critical for successful treatment of hepatitis C. This critical review focuses on the technologies used for the detection, discrimination, and genotyping of HCV in clinical samples. This article also focuses on advantages and disadvantages of the reported methods used for HCV detection, quantification, and genotyping.
+HCV; RT-PCR; detection; genotyping; nucleic acids; quantification; viral load; viruses.

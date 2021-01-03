@@ -1,0 +1,4 @@
+26979861
+2016 Jul
+Chronic hepatitis B virus (HBV) infection is a leading cause of liver disease worldwide. Virus-induced diseases include cirrhosis, liver failure and hepatocellular carcinoma. Current therapeutic strategies may at best control infection without reaching cure. Complementary antiviral strategies aimed at viral cure are therefore urgently needed. HBV entry is the first step of the infection cycle, which leads to the formation of cccDNA and the establishment of chronic infection. Viral entry may thus represent an attractive target for antiviral therapy. This review summarizes the molecular virology and cell biology of HBV entry, including the discovery and development of new HBV entry inhibitors, and discusses their potential in future treatment of HBV infection.
+Antiviral targets; Host-targeting agents; Liver; Therapy; Treatment.

@@ -1,0 +1,4 @@
+33089682
+2020 Nov 6
+Artatrovirenols A and B (1 and 2), two novel cagelike sesquiterpenoids, possess a unique 5/5/6/5/5-pentacyclic and a 5/5/6/5-tetracyclic system with an unprecedented tetracyclo[5.3.1.1.4,1101,5]dodecane scaffold from Artemisia atrovirens. The structures of compounds 1 and 2 including their absolute stereochemistry were elucidated through extensive spectroscopic analyses, X-ray crystallography, and quantum chemical calculations. Plausible biosynthetic pathways for the new isolates were proposed from the naturally occurring arglabin (3) via the key intramolecular Diels-Alder cycloaddition. Compound 1 showed cytotoxicity against three human hepatoma cell lines (HepG2, SMMC-7721, and Huh7) with half maximal inhibitory concentration values of 123.8, 44.0, and 142.6 μΜ, respectively.
+

@@ -1,0 +1,4 @@
+26902034
+2015 Jun
+Background/aims:Egypt has the highest prevalence of HCV worldwide (15%) with a high morbidity and mortality from chronic liver disease, cirrhosis, and hepatocellular carcinoma. The Aim of this study was to investigate the associations between IL-28B single nucleotide polymorphisms (SNP rs12979860) and treatment outcome among Egyptian patients infected with HCV genotype 4.Methodology:HCV patients were genotyped as CC, CT, or TT at the polymorphic site, rs12979860 in unrelated case control of Egyptian population with HCV.Results:By using univariate regression analysis, the minor allele of IL28B (p Conclusion:The IL28B rs12979860 SNP is the strongest predictor of an SVR among Egyptian patients infected with HCV-4.
+

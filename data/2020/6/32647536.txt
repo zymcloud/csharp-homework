@@ -1,0 +1,4 @@
+32647536
+2020 Jun 29
+Hepatocellular carcinoma (HCC) is estimated to be the fourth leading cause of cancer-related deaths worldwide. HCC patients face a dismal prognosis because symptoms usually appear in an advanced stage of disease. The detection of early stage HCC allows for curative surgical treatment and therefore saves lives. Specific non-invasive or diagnostic markers for HCC may represent a valuable tool for detecting these tumors at an early stage. The clinically most established serological biomarker alpha-fetoprotein shows only limited diagnostic performance, however novel candidate biomarkers and biomarker panels for detecting HCC at early stages of development are being studied. In this review we will discuss the findings of these studies.
+diagnostics; early biomarkers; early diagnosis; hepatitis B virus; hepatitis C virus; hepatocellular carcinoma; immunology; liquid biopsy; micro RNA; surveillance; viral hepatitis.

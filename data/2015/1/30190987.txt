@@ -1,0 +1,4 @@
+30190987
+2015 Jan
+Various single nucleotide polymorphisms have been reported to be associated with a higher risk of hepatocellular carcinoma in alcoholic cirrhotic patients. Until now, only common variants conferring a small increase in liver cancer risk have been identified. These inherited factors are able to modulate several biological pathways involved in alcohol-induced hepatocarcinogenesis, such as ethanol metabolism, inflammation, oxidative stress, or iron and lipid homeostasis. How the combination of these variants might collectively define an individual genomic risk prediction is currently being investigated. The other challenge in clinical practice lies in defining how to integrate this genetic information with other clinical parameters so as to refine selection of alcoholic cirrhotic patients according to various classes of hepatocellular carcinoma risk.
+alcoholic liver disease; cirrhosis; liver cancer; single nucleotide polymorphisms.

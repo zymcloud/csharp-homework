@@ -1,0 +1,4 @@
+30105249
+2018 Jul 9
+Hepatocellular carcinoma (HCC) has the second highest mortality rate worldwide among all cancers. Previous studies have revealed the significant involvement of long noncoding RNAs (lncRNAs) in numerous human cancers including HCC. Both oncogenic and tumor repressive lncRNAs have been identified and implicated in the complex process of hepatocarcinogenesis. They can be further explored as prospective diagnostic, prognostic, and therapeutic markers for HCC. An in-depth understanding of lncRNAs' mechanism in HCC is therefore required to fully explore their potential role. In the current review, we will concentrate on the underlying function, molecular mechanisms, and potential clinical implications of lncRNA in HCC.
+

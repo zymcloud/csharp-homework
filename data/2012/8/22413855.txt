@@ -1,0 +1,4 @@
+22413855
+2012 Aug
+Background and aims:The murine double minute 2 (MDM2) gene encodes a negative regulator of the tumour protein p53. A single nucleotide polymorphism (SNP) in MDM2 promoter, SNP309 T > G, has been showed to influence MDM2 protein expression and accelerate tumour formation. To investigate further the role of this locus, we examined the association of the SNP with hepatitis B virus (HBV)-related hepatocellular carcinoma (HCC) in a northeast Han Chinese population.Methods:MDM2 SNP309 was genotyped in 310 HBV-related HCC patients, 314 non-HCC subjects with HBV infection and 480 healthy controls by using a PCR-RFLP method.Results:Significant differences of MDM2 SNP309 were detected between HBV-related HCC patients and healthy controls (OR 1.729, 95%CI 1.369-2.183, P Conclusions:These results suggested that the MDM2 SNP309 might influence the risk of developing HBV-related HCC in a northeast Han Chinese population.
+

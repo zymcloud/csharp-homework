@@ -1,0 +1,4 @@
+26713521
+2015 Sep
+Objective:To investigate the anticancer effect and its mechanism of SN-38 combined with sorafenib on hepatocellular cancer cell lines HepG-2 and BEL-7402.Methods:SRB colorimetry was employed to measure the viability of HepG-2 and BEL-7402 cells after the treatment of SN-38 with sorafenib. Propidium iodide flow cytometric assay and DAPI staining were used to evaluate the apoptosis of HCC cells. Western blotting was conducted to detect the expression level of apoptosis-related and DNA damage-related proteins.Results:SRB colorimetry showed the synergistic anticancer activities of SN-38 combined with sorafenib, with a combination index of Conclusion:SN-38 and sorafenib have synergistic anticancer activity on hepatocellular carcinoma cells in vitro with the augmentation of apoptosis.
+

@@ -1,0 +1,4 @@
+31554369
+2019 Sep 1
+Background: MicroRNAs are mentioned as a small non-coding RNAs groups and aberrant miRNA expression was found in hepatocellular carcinoma (HCC) patients. Aim: To evaluate role of plasma MicroRNA-215 as a diagnostic tool in HCC patients. Methods: A prospective study included 195 subjects: healthy controls (group I), cirrhotic patients (group II), and patients with HCC (group III). Clinical examination, radiological and laboratory investigations which included quantification of miR-215 by Real-time qPCR were done for all cases. Results: Spearman’s rank correlation revealed that in HCC group, there was a negative correlation between MiRNA-215 and serum AFP levels and focal size lesion (cm) (rs = -0.72, - 0.94 respectively, p
+MicroRNA-215 (miR-215); chronic hepatitis C virus (chronic HCV); hepatocellular carcinoma (HCC).

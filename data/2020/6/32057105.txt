@@ -1,0 +1,4 @@
+32057105
+2020 Jun
+Background:Although the Barcelona Clinic Liver Cancer (BCLC) staging system has been largely adopted in clinical practice, recent studies have emphasized the need for further refinement and subclassification of this system.Methods:Patients who underwent hepatectomy with curative intent for BCLC-0, -A or -B hepatocellular carcinoma (HCC) between 2000 and 2017 were identified using a multi-institutional database. The tumour burden score (TBS) was calculated, and overall survival (OS) was examined in relation to TBS and BCLC stage.Results:Among 1053 patients, 63 (6·0 per cent) had BCLC-0, 826 (78·4 per cent) BCLC-A and 164 (15·6 per cent) had BCLC-B HCC. OS worsened incrementally with higher TBS (5-year OS 77·9, 61 and 39 per cent for low, medium and high TBS respectively; P Conclusion:The prognosis of patients with HCC varied according to the BCLC stage but was largely dependent on the TBS.
+

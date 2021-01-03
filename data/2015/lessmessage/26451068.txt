@@ -1,0 +1,4 @@
+26451068
+2015
+Forkhead box M1 (FOXM1), a member of the Fox transcription factors family, was closely related with cell cycle. FOXM1 played an important role in MST and prompted a poor prognosis for MST patients. However, there were also some studies revealing no significant association between the FOXM1 expression and prognosis of patients. Therefore, we conducted meta-analysis to investigate whether the expression of FOXM1 was associated with MST prognosis. We collected 36 relevant studies through PubMed database and obtained research data of 4946 patients. Stata 12.0 was used to express the results as hazard ratio (HR) for time-to-event outcomes with 95% confidence intervals (95% CI). It was shown that overexpression of FOXM1 was relevant to worse survival of MST patients (HR = 1.99, 95% CI = 1.79-2.21, P
+

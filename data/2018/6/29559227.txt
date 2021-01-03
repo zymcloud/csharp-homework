@@ -1,0 +1,4 @@
+29559227
+2018 Jun 1
+Rap1b was found be dysregulated in several types of cancers. Previously, we have demonstrated that Rap1b affects proliferation, migration and invasion of hepatocellular carcinoma (HCC) cells. However, the definite function of Rap1b in HCC remains unknown. Here, we reported that Rap1b was significantly up-regulated in HCC tissues compared with the non-tumoral liver tissues. Overexpression of Rap1b promoted tumor growth and migration in vitro and tumor formation in vivo. Oppositely, inhibition of Rap1b suppressed the proliferation and migration of HCC cells. Mechanism study revealed that Rap1b could up-regulate Twist 1 expression by enhancing its promoter activity. We concluded that Rap1b increased Twist 1 expression by targeting its promoter activity to induce proliferation and migration of HCC cells.
+HCC; Invasion; Migration; Rap1b; Twist 1.

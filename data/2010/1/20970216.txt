@@ -1,0 +1,4 @@
+20970216
+2011 Jan
+Background & aims:Microarray data showed that osteopontin overexpression predicts early HCC-recurrence after liver resection. Osteopontin (OPN) expression could serve as a predictor of HCC-recurrence after OLT.Methods:Osteopontin expression was investigated immunohistochemically in a unique population of 125 HCC-patients undergoing OLT between 1982 and 2002, including 81 patients (65%) outside the Milan criteria. Multivariate analysis of factors associated with median overall survival (OS) and time to recurrence (TTR) was performed.Results:Osteopontin was expressed in 40/125 (32%) of the HCCs. Overall survival post-OLT at 1, 2, 3, 5 years was 77%, 62%, 52%, and 43% (median survival 37 months). Overall survival was significantly longer without expression of OPN (p Conclusions:Immunohistochemically detectable Osteopontin in HCC is an independent predictor of tumor recurrence and survival in patients beyond Milan criteria undergoing OLT.
+

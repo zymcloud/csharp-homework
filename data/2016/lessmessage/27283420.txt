@@ -1,0 +1,4 @@
+27283420
+2016
+Intraoperative imaging is an invaluable tool in many surgical procedures. We have developed a wearable stereoscopic imaging and display system entitled Integrated Imaging Goggle, which can provide real-time multimodal image guidance. With the Integrated Imaging Goggle, wide field-of-view fluorescence imaging is tracked and registered with intraoperative ultrasound imaging and preoperative tomography-based surgical navigation, to provide integrated multimodal imaging capabilities in real-time. Herein we describe the system instrumentation and the methods of using the Integrated Imaging Goggle to guide surgeries.
+3D imaging; Fluorescence imaging; Image-guided surgery; Multimodal imaging; Stereoscopic imaging; Surgical navigation.

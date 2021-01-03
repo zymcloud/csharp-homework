@@ -1,0 +1,4 @@
+25846212
+2015 Oct
+The purpose of this study was to compare messenger RNA (mRNA) expression of selenoprotein genes between hepatoma HepG2 and normal hepatocytes LO2 cell lines. Liver HepG2 and LO2 cells were cultured in 12-well plates under the same condition until cells grew to complete confluence, and then cells were harvested for total RNA and protein extraction. The qPCRs were performed to compare gene expression of 14 selenoprotein genes and 5 cancer signaling-related genes. Enzyme activities were also assayed. The results showed that human hepatoma HepG2 cells grew faster than normal hepatocytes LO2 cells. Among the genes investigated, 10 selenoprotein genes (Gpx1, Gpx3, Gpx4, Selx, Sepp, Sepw1, Sepn1, Selt, Seli, Selh) and 3 cancer signaling-related genes (Bcl-2A, caspase-3, and P38) were upregulated (P
+

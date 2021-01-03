@@ -1,0 +1,4 @@
+27431630
+2016 Jul
+We examined plasma biomarkers as predictive factors for advanced hepatocellular carcinoma(ad-HCC)patients treated with sorafenib. We analyzed a-fetoprotein(AFP), AFP-L3, des-g-carboxy prothrombin(DCP), neutrophil-to-lymphocyte ratio(NLR), platelet-to-lymphocyte ratio(PLR), and vascular endothelial growth factor(VEGF)before sorafenib therapy, and changes in AFP-L3, NLR, PLR, and VEGF 1 month after sorafenib therapy in 16 patients. High AFP-L3(hazard ratio: 1.058, 95%CI: 1.019-1.098, p=0.003)and high NLR(hazard ratio: 1.475, 95%CI: 1.045-2.082, p=0.027)were significantly associated with poor prognosis in ad-HCC patients treated with sorafenib. There were no significant differences in changes in AFP-L3, NLR, PLR, and VEGF 1 month after sorafenib therapy. We suggest that AFP-L3 and NLR levels before sorafenib therapy in patients with ad-HCC are an important predictive factor for the therapeutic effect of sorafenib and patient survival.
+

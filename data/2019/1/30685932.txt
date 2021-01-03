@@ -1,0 +1,4 @@
+30685932
+2019 Jan 20
+Exosomes are one kind of microvesicles secreted by living cells. It contains some small non-coding RNAs (microRNA, lncRNA, circRNA, etc.) which play an important role in signal transduction. In addition, they transfer information through circulating small vesicles, regulate epithelial-mesenchymal transition, tumor microenvironment, promote microangiogenesis, regulate tumor immunity, chemoradiation resistance, and regulate cellular energy metabolism pathways, thereby promoting the occurrence, development and metastasis of hepatocellular carcinoma. This article reviews the mechanism of lncRNA in exogenous and in vivo in relation to the occurrence, development and metastasis of hepatocellular carcinoma.
+Carcinoma, hepatocellular; Exosome; Long non-coding RNA.

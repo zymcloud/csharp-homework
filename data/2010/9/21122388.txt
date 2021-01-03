@@ -1,0 +1,4 @@
+21122388
+2010 Sep
+Objective:To observe the efficacy and side effects of transarterial chemoembolization (TACE) combined with sorafenib for advanced hepatocellular carcinoma (HCC).Methods:Forty patients with HCC were treated with sorafenib (400 mg bid) after TACE. The efficacy was evaluated according to RECIST 1.1 criteria, and side effects were assessed by NCI CTC 3.0 criteria.Results:Among the forty cases, one case achieved complete remission (CR), seven cases achieved partial remission (PR), nineteen cases achieved stable disease (SD) and thirteen cases had progressive disease (PD). The disease control rate (DCR) was 67.5%. The overall survival time was 1 - 18 months, and 1-year survival rate was 54.0%. The major adverse events were hand-foot skin reaction, diarrhea and thrombocytopenia.Conclusion:The combined therapy of TACE and sorafenib is effective and well tolerated for advanced HCC.
+

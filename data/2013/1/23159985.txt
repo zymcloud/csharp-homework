@@ -1,0 +1,4 @@
+23159985
+2013 Jan 7
+MicroRNA (miRNA) plays an important role in various diseases and in cellular and molecular responses to toxicants. In the present study, we investigated differential expression of miRNAs in response to three triazole fungicides (myclobutanil, propiconazole, and triadimefon). The human hepatoma cell line (HepG2) was treated with the above triazoles for 3 h or 48 h. miRNA-based microarray experiments were carried out using the Agilent human miRNA v13 array. At early exposure (3h), six miRNAs were differentially expressed and at late exposure (48 h), three miRNAs were significantly expressed. Overall, this study provides an array of potential biomarkers for the above triazole fungicides. Furthermore, these miRNAs induced by triazoles could be the foundation for the development of a miRNA-based toxic biomarker library that can predict environmental toxicity.
+

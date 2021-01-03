@@ -1,0 +1,4 @@
+22873223
+2012 Nov 1
+Chronic fibrotic liver diseases such as viral hepatitis eventually develop liver cirrhosis, which causes occurrence of hepatocellular carcinoma (HCC). Given the limited therapeutic efficacy in advanced HCC, prevention of HCC development could be an effective strategy for improving patient prognosis. However, there is still no established therapy to meet the goal. Studies have elucidated a wide variety of molecular mechanisms and signaling pathways involved in HCC development. Genetically-engineered or chemically-treated experimental models of cirrhosis and HCC have been developed and shown their potential value in investigating molecular therapeutic targets and diagnostic biomarkers for HCC prevention. In this review, we overview potential targets of prevention and currently available experimental models, and discuss strategies to translate the findings into clinical practice.
+

@@ -1,0 +1,4 @@
+22147505
+2012 Dec
+Alcohol dehydrogenase 4 (ADH4) is an important member of ADH family that metabolize a wide variety of substrates including ethanol and retinol. Studies demonstrated that ADH4 was involved in cancer. Microarray data showed that the expression of ADH4 was reduced in hepatocellular carcinoma (HCC). However, the role of ADH4 in HCC carcinogenesis remains undefined. The aim of this study is to explore the clinical significance of ADH4 in progression and prognosis of HCC. The expression levels of ADH4 in 15 paired HCC and noncancerous (NC) liver tissues were measured by qRT-PCR and those in 4 paired samples by Western blotting. Another 91 paraffin-embedded HCC tissues were examined by immunohistochemistry. The qRT-PCR result showed that the expression level of ADH4 mRNA in HCC was significantly lower than that in NC tissues (P
+

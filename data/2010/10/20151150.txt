@@ -1,0 +1,4 @@
+20151150
+2010 Oct
+Aim:To examine the expressions of focal adhesion kinase (FAK) and its clinical significance in hepatocellular carcinoma (HCC).Methods:We determined the expression levels of FAK on both steady-state mRNA and protein levels in 50 HCC samples by quantitative real-time PCR and immunohistochemistry, respectively. The correlations between FAK expression and various clinicopathological parameters were analyzed.Results:The expression of FAK on the mRNA level was consistent with that on the protein level. FAK mRNA levels in tumor tissues were significantly higher than in the paratumor tissues (0.229 +/- 0.027 vs. 0.163 +/- 0.019; P Conclusion:Our results suggest that FAK expression is up-regulated in HCC and its expression is an independent prognostic factor for HCC.
+

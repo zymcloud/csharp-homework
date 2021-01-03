@@ -1,0 +1,4 @@
+32745716
+2020 Sep
+Background:Albumin-to-alkaline phosphatase ratio (AAPR), a novel and economic serum biomarker, is associated with survival in patients with cancer. This study aimed to evaluate the potential role of AAPR as a prognostic indicator of solid cancers.Methods:This meta-analysis with trial sequential analysis of retrospective studies was designed to investigate the relationship between AAPR and overall survival (OS) in solid cancers. The meta-analysis included 5951 patients from 20 cohorts. The main predictor variable was AAPR, and the main outcome was OS. Statistical tests were performed using Stata 12.0, Revman 5.3, and R 3.6.1.Results:Compared to patients with a lower AAPR, those with a higher AAPR had a better OS (hazard ratio [HR]: 0.50; 95% confidence interval [CI]: 0.43-0.58; p Conclusion:Pretreatment AAPR may be a useful prognostic indicator in solid cancers.
+Albumin-to-alkaline phosphatase ratio; Cancer; Meta-analysis; Prognosis.

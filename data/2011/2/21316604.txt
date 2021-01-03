@@ -1,0 +1,4 @@
+21316604
+2011 Feb 15
+Carcinoma-associated fibroblasts (CAFs) that express α-smooth muscle actin (αSMA) contribute to cancer progression, but their precise origin and role are unclear. Using mouse models of inflammation-induced gastric cancer, we show that at least 20% of CAFs originate from bone marrow (BM) and derive from mesenchymal stem cells (MSCs). αSMA+ myofibroblasts (MFs) are niche cells normally present in BM and increase markedly during cancer progression. MSC-derived CAFs that are recruited to the dysplastic stomach express IL-6, Wnt5α and BMP4, show DNA hypomethylation, and promote tumor growth. Moreover, CAFs are generated from MSCs and are recruited to the tumor in a TGF-β- and SDF-1α-dependent manner. Therefore, carcinogenesis involves expansion and relocation of BM-niche cells to the tumor to create a niche to sustain cancer progression.
+

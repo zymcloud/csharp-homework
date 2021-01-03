@@ -1,0 +1,4 @@
+30099061
+2018 Oct
+Hepatic progenitor cells (HPCs) might be the origin of hepatocellular carcinoma. 1α,25-Dihydroxyvitamin D3 (1,25(OH)2D3) (VD3) has been documented as an anticancer agent for various cancers. However, the potential effect of VD3 on the proliferation and malignant transformation of HPCs induced by aflatoxin B1 (AFB1) has not been determined. In this study, we found that AFB1 exhibited the stimulative effects on the proliferation, dedifferentiation and invasion of HPCs via activating AKT pathway but turning off Hippo pathway, which were terminated when VD3 was used in combination with AFB1. Furthermore, in AFB1-induced liver damage mouse model, VD3 also showed protective effect by reducing HPCs population. Together, these preclinical data not only provide a newly identified mechanism by which AFB1 affects HPCs but also strengthen the idea of developing VD3 as an anticancer agent.
+AKT; Aflatoxin B1; Hepatic progenitor cell; Hippo; VD3.

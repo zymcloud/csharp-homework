@@ -1,0 +1,4 @@
+25788389
+2015 Jan
+Purpose:To determine whether FTY720, a sphingosine-1-phosphate (S1P) receptor modulator, would protect sinusoid endothelial cells (SECs) from radiation injury in vitro.Materials and methods:The effect of FTY720 on the viability of irradiated human liver SECs were examined by MTT assay or FACS analysis. The effect of FTY720 on the survival of hepatocellular carcinoma cell line, HepG2 and McA-RH7777, were determined by clonogenic assays. The activation of Akt pathway was tested by western bolt.Results:FTY720 increases the survival of irradiated SECs; in contrast, it does not appear to be radioprotective of tumor cells. Furthermore, the activation of Akt pathway was confirmed in the protective effect of FTY720 on SECs.Conclusion:These results suggest that FTY720 will be a potential therapeutic protector for the SEC apoptosis during RILD.
+

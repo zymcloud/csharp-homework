@@ -1,0 +1,4 @@
+26854643
+2016 Jul
+A series of pyrazoline derivatives and corresponding chalcone intermediates with substituents same as combretastatin-A4(CA-4) conjugated with triazole nucleus has been synthesized and evaluated for their anticancer potential. Sulphorhodamine B(SRB) assay indicated compound 12c to be the most active compound from the series with GI50 value of 6.7 μm against the human liver carcinoma cell line HepG2. Interestingly, the intermediate 11c exhibited more promising cytotoxicity demonstrating GI50 value of 1.3 μm against the prostate cancer cell line DU145. Compounds 11c and 12c caused accumulation of cells in G2/M phase and inhibited tubulin polymerization. Furthermore, these compounds reduce the mitochondrial membrane potential and activate caspases 3 and 9, thereby indicating their ability to trigger apoptosis.
+chalcone; pyrazoline; triazole; tubulin and apoptosis.

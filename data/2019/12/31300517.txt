@@ -1,0 +1,4 @@
+31300517
+2019 Dec
+Organoid cultures have emerged as an alternative in vitro system to recapitulate tissues in a dish. While mouse models and cell lines have furthered our understanding of liver biology and associated diseases, they suffer in replicating key aspects of human liver tissue, in particular its complex architecture and metabolic functions. Liver organoids have now been established for multiple species from induced pluripotent stem cells, embryonic stem cells, hepatoblasts and adult tissue-derived cells. These represent a promising addition to our toolbox to gain a deeper understanding of this complex organ. In this perspective we will review the advances in the liver organoid field, its limitations and potential for biomedical applications.
+disease modelling; liver; organoid; personalised medicine.

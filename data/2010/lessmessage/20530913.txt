@@ -1,0 +1,4 @@
+20530913
+2010
+Twelve novel naphthoquinone esters containing cyclopentyl and cyclohexyl substituents at C-2' of the propyl chain were synthesized by starting from 1-hydroxy-2-naphthoic acid via alkylation with cyclopentyl ester and cyclohexyl ester. They were evaluated for cytotoxicity against three cancer cell lines (human epidermoid carcinoma (KB), human cervical carcinoma (HeLa), and human hepatocellular carcinoma (HepG(2))). In comparison to naphthoquinone esters with the 2',2'-dimethyl group, the naphthoquinones with a 2'-cyclopentyl substituent showed stronger activity than those with a 2'-cyclohexyl substituent, but less than that with the 2',2'-dimethyl group. This work provides new information about the effect of 2'-position substituents on the cytotoxicity of naphthoquinone ester analogues.
+

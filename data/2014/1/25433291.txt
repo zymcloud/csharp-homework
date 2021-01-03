@@ -1,0 +1,4 @@
+25433291
+2015 Jan 2
+Although microRNA-1 (miR-1) is a known liver cancer suppressor, the role of miR-1 in apoptosis of hepatoma cells has remained largely unknown. Our study shows that ectopic miR-1 overexpression induced apoptosis of liver hepatocellular carcinoma (HepG2) cells. Apoptosis inhibitor 5 (API-5) was found to be a potential regulator of miR-1 induced apoptosis, using a bioinformatics approach. Furthermore, an inverse relationship between miR-1 and API-5 expression was observed in human liver cancer tissues and adjacent normal liver tissues. Negative regulation of API-5 expression by miR-1 was demonstrated to promote apoptosis of HepG2 cells. Our study provides a novel regulatory mechanism of miR-1 in the apoptosis of hepatoma cells.
+Apoptosis; Apoptosis inhibitor 5; Hepatocellular carcinoma; Hepatoma cell; microRNA-1.

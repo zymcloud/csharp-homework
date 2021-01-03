@@ -1,0 +1,4 @@
+28765910
+2017 Oct
+The present study explored the correlation of ecotropic viral integration site 5 (EVI5) expression with clinicopathological features and prognosis in hepatocellular carcinoma (HCC). A total of 205 HCC patients were included retrospectively. Quantitative real-time polymerase chain reaction (RT-qPCR) and western blotting were performed to detect the profile of EVI5 expression in HCC cell lines and fresh tissues. Archived paraffin-embedded specimens were investigated for EVI5 expression by immunohistochemistry (IHC). Both the mRNA and protein levels of EVI5 were obviously upregulated in HCC cell lines and tumor tissues. EVI5 protein level was closely associated with the clinicopathological characteristics, including liver function (P=0.013), venous invasion (P=0.015) and TNM stage (P=0.014). Furthermore, univariate analysis showed that the patients with high EVI5 expression indicated shorter overall survival (OS, P
+

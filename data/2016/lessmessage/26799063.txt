@@ -1,0 +1,4 @@
+26799063
+2016
+Background/aims:Regulatory T cells (Tregs) are associated with a poor prognosis in hepatocellular carcinoma (HCC). The purpose of the study was to explore the mechanisms of Tregs accumulation in HCC.Methods:We analyzed the frequency of Tregs in HCC by flow cytometry and immunohistochemistry. We also established a transforming growth factor (TGF)-β1-knockdown cell line by lentivirus-mediated RNA interference. Mouse CD4+CD25- T cells were cultured in supernatants from various cell lines.Results:HCC patients had a high frequency of Tregs, and high numbers of Tregs correlated with a poor prognosis. Liver cancer cells induced Treg production by secreting TGF-β1. In vivo experiments indicated that knockdown of TGF-β1 reduced the numbers of Tregs and metastatic nodules in mice.Conclusions:These results indicate that cancer-secreted TGF-β1 may increase Tregs, and TGF-β1 knockdown might impair immunosuppression in the tumor microenvironment by decrease Tregs.
+

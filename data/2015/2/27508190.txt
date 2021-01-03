@@ -1,0 +1,4 @@
+27508190
+2015 Feb 16
+Toll-like receptor (TLR) signaling has been implicated in inflammatory-related cancers. The upregulation of TLR signaling in hepatocellular carcinoma (HCC) suggests that it may play an essential role in the prognosis of chronic and inflammatory diseases that ultimately culminate in HCC. Here, we provide evidence about the involvement of the TLR pathway in the initiation, progression, and metastasis of HCC. The differential expression of TLR in epithelial cells has also been discussed. In particular, we emphasize the physiological role of TLR4 in the development and pathogenesis of HCC and propose novel and promising approaches for HCC therapeutics with the aid of TLR ligands.
+hepatocarcinogenesis; immune therapy; inflammation; signal pathway.

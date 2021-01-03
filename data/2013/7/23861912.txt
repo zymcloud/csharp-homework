@@ -1,0 +1,4 @@
+23861912
+2013 Jul 4
+There is a renewed interest in developing high-intensity short wave capacitively-coupled radiofrequency (RF) electric-fields for nanoparticle-mediated tumor-targeted hyperthermia. However, the direct thermal effects of such high-intensity electric-fields (13.56 MHZ, 600 W) on normal and tumor tissues are not completely understood. In this study, we investigate the heating behavior and dielectric properties of normal mouse tissues and orthotopically-implanted human hepatocellular and pancreatic carcinoma xenografts. We note tumor-selective hyperthermia (relative to normal mouse tissues) in implanted xenografts that can be explained on the basis of differential dielectric properties. Furthermore, we demonstrate that repeated RF exposure of tumor-bearing mice can result in significant anti-tumor effects compared to control groups without detectable harm to normal mouse tissues.
+

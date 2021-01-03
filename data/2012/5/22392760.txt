@@ -1,0 +1,4 @@
+22392760
+2012 May
+The efficient internalization of TGF-beta inhibitor-loaded polyelectrolyte capsules and particles is studied in two HCC cell lines. Two polyelectrolyte pairs (biocompatible but not degradable and biodegradable crosslinked with gluteraldehyde) are employed for coating. The capsules are characterized by SEM. LY is successfully loaded inside the core and embedded between polymer layers. MS is used to quantify the loading efficiency by comparing post-loading and core-loading methods, since both coated templates and hollow shells are used as carriers. CLSM confirms dissolution of the pre-formed multilayer upon enzymatic degradation as the method of release, and migration assays demonstrate a higher inhibition efficiency of TGF-beta in tailored biodegradable capsules compared to free LY administration.
+

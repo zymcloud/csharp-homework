@@ -1,0 +1,4 @@
+28458357
+2017
+A series of new glycyrrhetinic acids and oleanolic acids has been designed and synthesized based on the principles of combinatorial chemical synthesis. Their anticancer activities were further studied by using 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) method with hepatocellular carcinoma (Hep-G2), breast cancer (MCF-7) cell lines and a normal hepatic cell (LO2). Cytotoxicity tests (in vitro) indicated that compound 6a showed the highest cytotoxicity with the lowest IC50 values of 23.34 µM on Hep-G2 cells, 12.23 µM on MCF-7 cells, and 44.47 µM on LO2, which would widen the structural diversity of these anticancer targets and confirm the perspectives of further investigations.
+anticancer; glycyrrhetinic acid; oleanolic acid; synthesis.

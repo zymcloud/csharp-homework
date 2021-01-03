@@ -1,0 +1,4 @@
+30816163
+2019 Feb 28
+Indocyanine green (ICG) accumulates only in hepatocytes and their malignant counterpart, hepatocellular carcinoma (HCC). We have developed ICG-conjugated anti-cancer drugs and noted their significant accumulation in HCC cells both in vitro and in vivo. ICG-conjugated gemcitabine was less toxic to normal cells and it had superior anti-tumor action compared to gemcitabine alone in a subcutaneous tumor xenograft. ICG conjugation can provide a novel fluorescent drug delivery system for treatment of liver cancer and this system can be used to both diagnose and treat HCC.
+

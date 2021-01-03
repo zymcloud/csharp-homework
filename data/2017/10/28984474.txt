@@ -1,0 +1,4 @@
+28984474
+2017 Oct
+Aim:We explored the expression of S100A6 and its role in intrahepatic cholangiocarcinoma (ICC).Methods:The expression of S100A6 in ICC samples was detected by immunohistochemistry. In vitro experiments, we silenced and overexpressed S100A6 to investigate its role in cell functions.Results:The expression of S100A6 was markedly increased in ICC tissues and cell lines. S100A6 overexpression was an independent risk factor for patients' survival. Silencing S100A6 resulted in a suppression of proliferation and p38/MAPK activity, while overexpressing S100A6 caused a promotion of proliferation and p38/MAPK.Discussion:S100A6 participated in the proliferation of ICC cells and correlated with a more aggressive behavior of ICC. Conclusion: S100A6 may serve as a novel prognostic marker and a potential therapeutic target for ICC patients.
+S100A6; intrahepatic cholangiocarcinoma; prognosis; proliferation.

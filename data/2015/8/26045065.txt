@@ -1,0 +1,4 @@
+26045065
+2015 Aug
+MicroRNA-494 (miR-494) acts as an oncomiR and is involved in tumor development, progression and metastasis, and confers resistance to chemotherapeutic drugs by targeting a number of molecules in several human cancers. However, the function and underlying molecular mechanism of miR-494 in hepatocellular carcinoma (HCC) has not been totally elucidated. In the present study, we determined the role played by miR-494 in HCC tissues and HCC cell lines using quantitative RT-PCR (RT-qPCR). The results showed that, miR-494 was significantly upregulated in HCC tissues and HCC cell lines. Additionally, a high miR-494 expression positively correlated with tumor differentiation (P
+

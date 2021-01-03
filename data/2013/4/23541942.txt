@@ -1,0 +1,4 @@
+23541942
+2013 Apr 26
+Here we report that bile acid chenodeoxycholic acid (CDCA) and synthetic farnesoid X receptor (FXR) agonist GW4064 robustly induced tumor suppressor N-Myc downstream regulated gene 2 (NDRG2) expression in human hepatoma cells and primary hepatocytes. Knockdown of FXR abolished the induction by CDCA, whereas overexpression of a constitutively active form of FXR increased NDRG2 expression. A FXR-response element was identified within intronic regions of human and murine genes. Moreover, mice given GW4064 exhibit an increase of Ndrg2 expression in liver and kidney, where both NDRG2 and FXR are enriched. The identification of NDRG2 as a bile acid regulated gene may provide novel knowledge toward the understanding of NDRG2 physiological function and the link between metabolism and cancer.
+

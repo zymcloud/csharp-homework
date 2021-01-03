@@ -1,0 +1,4 @@
+25247770
+2014 Nov 24
+We synthesized a series of novel amide derivatives of 5-(p-tolyl)-1-(quinolin-2-yl)pyrazole-3-carboxylic acid and assessed their antiproliferative activities against three human cancer cell lines (Huh7, human liver; MCF7, breast and HCT116, colon carcinoma cell lines) with the sulforhodamine B assay. Compound 4j with 2-chloro-4-pyridinyl group in the amide part exhibited promising cytotoxic activity against all cell lines with IC50 values of 1.6 μM, 3.3 μM and 1.1 μM for Huh7, MCF7 and HCT116 cells, respectively, and produced dramatic cell cycle arrest at SubG1/G1 phase as an indicator of apoptotic cell death induction. On the basis of their high potency in cellular environment, these straightforward pyrazole-3-carboxamide derivatives may possess potential in the design of more potent compounds for intervention with cancer cell proliferation.
+Apoptosis; Autophagy; Cytotoxicity; Diarylpyrazole; Quinoline.

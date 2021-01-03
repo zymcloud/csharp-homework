@@ -1,0 +1,4 @@
+22177855
+2012 Feb
+Carbohydrates in various forms play a vital role in numerous critical biological processes. The detection of such saccharides can give insight into the progression of such diseases such as cancer. Boronic acids react with 1,2 and 1,3 diols of saccharides in non-aqueous or basic aqueous media. Herein, we describe the design, synthesis and evaluation of three bisboronic acid fluorescent probes, each having about ten linear steps in its synthesis. Among these compounds that were evaluated, 9b was shown to selectively label HepG2, liver carcinoma cell line within a concentration range of 0.5-10 μM in comparison to COS-7, a normal fibroblast cell line.
+

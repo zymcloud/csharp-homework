@@ -1,0 +1,4 @@
+31691514
+2019 Dec
+Although long noncoding RNAs (lncRNAs) do not have protein coding capacities, they are involved in the pathogenesis of many types of cancers, including hepatocellular carcinoma, cervical cancer, and gastric cancer. Notably, the roles of lncRNAs are vital in nearly every aspect of tumor biology. Long non-coding small nucleolar RNA host genes (lnc-SNHGs) are abnormally expressed in multiple cancers, including urologic neoplasms, respiratory tumors, and digestive cancers, and play vital roles in these cancers. These host genes could participate in tumorigenesis by regulating proliferation, migration, invasion and apoptosis of tumor cells. This review focuses on the overview of the roles that lnc-SNHGs play in the formation and progression of digestive cancers.
+LncRNA; SNHG; cancer; digestive.

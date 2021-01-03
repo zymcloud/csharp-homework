@@ -1,0 +1,4 @@
+24124720
+2013 Jun 18
+Objective:To investigate the abnormal expression of microRNAs (miR-216, miR-222, miR-181) in the serum of patients with hepatocellular carcinoma (HCC) and its clinical significance.Methods:Serum miRNAs expression was investigated in 49 patients with HCC and 25 healthy normal controls by using real-time PCR technique, and then correlations between miRNAs expression and the clinicopathological features and prognosis of HCC patients were evaluated.Results:No differences were observed between the HCC patients and healthy controls with respect to the expressions of serum miR-181 and miR-216 (P > 0.05), while miR-222 was found to be significantly overexpressed in HCC serum samples (6.1 ± 6.6 vs 1.2 ± 0.6, P Conclusion:Serum miR-222, upregulated in HCC, maybe helpful in prognosis of HCC patients.
+

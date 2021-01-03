@@ -1,0 +1,4 @@
+29151131
+2018 Apr
+Contrast-enhanced ultrasound (CEUS) is a specific form of ultrasound imaging performed with intravenous administration of microbubble contrast agents. It has been extensively used for liver tumor characterization and was recently added to the American College of Radiology Liver Imaging Reporting and Data System (CEUS LI-RADS). This paper describes technical recommendations for successful liver CEUS lesion characterization, and provides imaging protocol and Lexicon of imaging findings.
+Contrast-enhanced ultrasound; Liver; Ultrasound.

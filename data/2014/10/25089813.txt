@@ -1,0 +1,4 @@
+25089813
+2014 Oct 6
+Low molecular weight and sulfated low molecular weight guluronate (LMG and SLMG) were prepared and hypolipidemic effects were studied in a human hepatocellular carcinoma HepG2 cell line. Both compounds decreased total cholesterol (TC) and triglycerides (TG) and inhibited 3-hydroxy-3-methylglutaryl-CoA reductase (HMGCR) activity in HepG2 cells. In general, SLMG had greater effects than LMG. Activation of sterol regulatory element-binding protein 2 (SREBP-2), low density lipoprotein receptor (LDLR), AMP-activated protein kinase (AMPK), and AMPK's downstream targets were evidenced by increased phosphorylation of AMPK, HMGCR, and acetyl-CoA-carboxylase (ACC), which decreased HMGRC and ACC activity. We further demonstrated that activated AMPK was linked to down-regulated SREBP-1 and up-regulated cholesterol 7α-hydroxylase (CYP7A1).
+AMPK; HepG2; Hypolipidemia; SREBP; Sulfated low molecular weight guluronate (SLMG).

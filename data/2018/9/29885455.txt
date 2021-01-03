@@ -1,0 +1,4 @@
+29885455
+2018 Sep
+Hepatocellular carcinoma (HCC) is the most common type of primary liver cancer. It has been previously reported that CSN5 depletion is an effective method in human HCC. In the current study, we aimed to uncover gene signatures and key pathways during HCC. Gene expression profiles of GSE26485 were downloaded from GEO database. Totally, 101 differentially expressed genes (DEGs) were up-regulated and 146 ones were down-regulated. Biological processes (BP) and Kyoto Encyclopedia of Genes and Genomes pathway (KEGG) analysis showed that the DEGs were mainly enriched in regulation of cell growth, oxidation-reduction process, mitotic cytokinesis, negative regulation of macroautophagy, endosome organization, lysosome, biosynthesis of antibiotics, small cell lung cancer and glutathione metabolism and so on (P
+Bioinformatics analysis; CSN5 depletion; Differentially expressed gene; Hepatocellular carcinoma; SMAD5.

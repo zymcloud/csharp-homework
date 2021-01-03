@@ -1,0 +1,4 @@
+32078266
+
+Hepatocellular carcinoma (HCC) is dominantly supplied by arterial blood flow, whereas the normal underlying liver parenchyma is supplied by both the portal vein (75%) and hepatic artery (25%). This distinction in blood supply of tumor tissue relative to liver tissue led to the exploration of targeting the arterial blood supply as a means of therapeutic intervention. This chapter overviews the evolution of transarterial therapies for HCC from the initial attempts of hepatic artery ligation/infusion to the current standard care treatments, including variants of transarterial chemoembolization and radioembolization. Emerging therapeutic approaches, including biologic and biomimetic injection, are discussed as potential future strategies with improved tumor targeting and specificity for the treatment of HCC.
+

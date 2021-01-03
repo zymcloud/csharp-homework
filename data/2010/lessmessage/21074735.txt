@@ -1,0 +1,4 @@
+21074735
+2010
+This chapter reviews some of the basic biological principles governing adult progenitor cells of the liver and the mechanisms by which they operate. If scientists were better able to understand the conditions that govern stem cell mechanics in the liver, it may be possible to apply that understanding in a clinical setting for use in the treatment or cure of human pathologies. This chapter gives a basic introduction to hepatic progenitor cell biology and explores what is known about progenitor cell-mediated liver regeneration. We also discuss the putative stem cell niche in the liver, as well as the signaling pathways involved in stem cell regulation. Finally, the isolation and clinical application of stem cells to human diseases is reviewed, along with the current thoughts on the relationship between stem cells and cancer.
+

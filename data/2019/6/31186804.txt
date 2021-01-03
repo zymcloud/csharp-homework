@@ -1,0 +1,4 @@
+31186804
+2019 Jun
+Lung cancer causes severe health problems worldwide and, in China, besides being the principal cause of mortality among urbanites, it is the second leading cause of mortality in the rural population, preceded by hepatocellular carcinoma. Between 80 and 85% of lung cancer is classified as non-small cell lung cancer (NSCLC). The high mobility group box 1 (HMGB1) protein serves an important function in the tumor microenvironment and antitumor response, and may be targeted by microRNA (miR). In the present study, miR-129-5p was identified to target HMGB1 and miR-129-5p exhibited low expression levels in NSCLC tissues. Overexpression of miR-129-5p inhibited cell proliferation and promoted cell apoptosis. In conclusion, the results of the present study suggested the inhibitory function of miR-129-5p and revealed a novel therapeutic target for further investigation.
+apoptosis; cell proliferation; lung cancer; microRNA-129-5p.

@@ -1,0 +1,4 @@
+23151668
+2013 Feb 7
+Inhibition of the hypoxia-inducible factor (HIF) prolyl hydroxylases (PHD or EGLN enzymes) is of interest for the treatment of anemia and ischemia-related diseases. Most PHD inhibitors work by binding to the single ferrous ion and competing with 2-oxoglutarate (2OG) co-substrate for binding at the PHD active site. Non-specific iron chelators also inhibit the PHDs, both in vitro and in cells. We report the identification of dual action PHD inhibitors, which bind to the active site iron and also induce the binding of a second iron ion at the active site. Following analysis of small-molecule iron complexes and application of non-denaturing protein mass spectrometry to assess PHD2·iron·inhibitor stoichiometry, selected diacylhydrazines were identified as PHD2 inhibitors that induce the binding of a second iron ion. Some compounds were shown to inhibit the HIF hydroxylases in human hepatoma and renal carcinoma cell lines.
+

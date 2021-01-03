@@ -1,0 +1,4 @@
+31781355
+2019 Oct 31
+Inactivating mutations of the tumor suppressor gene Liver Kinase B1 (LKB1) are frequently detected in non-small-cell lung cancer (NSCLC) and cervical carcinoma. Moreover, LKB1 expression is epigenetically regulated in several tumor types. LKB1 has an established function in the control of cell metabolism and oxidative stress. Clinical and preclinical studies support a role of LKB1 as a central modifier of cellular response to different stress-inducing drugs, suggesting LKB1 pathway as a highly promising therapeutic target. Loss of LKB1-AMPK signaling confers sensitivity to energy depletion and to redox homeostasis impairment and has been associated with an improved outcome in advanced NSCLC patients treated with chemotherapy. In this review, we provide an overview of the interplay between LKB1 and its downstream targets in cancer and focus on potential therapeutic strategies whose outcome could depend from LKB1.
+

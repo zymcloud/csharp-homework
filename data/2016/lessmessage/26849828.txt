@@ -1,0 +1,4 @@
+26849828
+2016
+Context and objective:Long-term prognosis of hepatocellular carcinoma (HCC) patients is challenging, and novel biomarkers are needed to predict patient risk and serve as potential therapeutic target.Results:We found β-glucosidase 1 is significantly overexpressed and activated in primary HCC tissue and multiple HCC cell lines. β-Glucosidase 1 expression is associated with predicting prognosis of HCC patients under chemotherapy. Silencing β-glucosidase 1 inhibits growth and survival of HCC cells, with preferential inhibitory effects on high β-glucosidase 1-expressing cells. Combination of chemo drug with β-glucosidase 1 inhibitor sensitized HCC cells to chemotherapy.Conclusion:Our data support β-glucosidase 1 as a HCC biomarker due to its prognosis significance.
+Biomarker; hepatocellular carcinoma; targeted therapy; β-glucosidase.

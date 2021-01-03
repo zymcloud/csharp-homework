@@ -1,0 +1,4 @@
+25527157
+2015 May
+This study aims to investigate the effect of Golgi Protein 73 (GP73) on autophagy in human hepatoma line cells HepG2. We investigated the functional effects of GP73 on autophagy in hepatoma cell line HepG2 using immunofluoscence staining, Western blotting and real-time PCR. Our data showed that specific small interference RNA (siRNA) notably induced formation of autophagic vacuoles. In addition, upregulation of GP73 significantly inhibited formation of starvation-induced LC3-positive structures. We provide the first experimental evidence to show that GP73 may play an important role in the inhibitory regulation of autophagy. Therefore, our data suggest a new molecular mechanism for GP73-related hepatoma progression.
+

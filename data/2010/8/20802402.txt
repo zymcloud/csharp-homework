@@ -1,0 +1,4 @@
+20802402
+2010 Aug 27
+Hepatitis B virus (HBV) infection is a prime cause of liver diseases such as hepatitis, cirrhosis and hepatocellular carcinoma. The current drugs clinically available are nucleot(s)ide analogues that inhibit viral reverse transcriptase activity. Most drugs of this class are reported to have viral resistance with breakthrough. Recent advances in methods for in silico virtual screening of chemical libraries, together with a better understanding of the resistance mechanisms of existing drugs have expedited the discovery and development of novel anti-viral drugs. This review summarizes the current status of knowledge about and viral resistance of HBV drugs, approaches for the development of novel drugs as well as new viral and host targets for future drugs.
+

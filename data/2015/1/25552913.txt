@@ -1,0 +1,4 @@
+25552913
+2015 Jan 1
+Objectives:To investigate the expression of transcriptional factors (TFs) T-bet, GATA-3, RORγt and FOXP in peripheral blood mononuclear cells (PBMC) of patients with hepatocellular carcinoma (HCC) and to evaluate the correlation between the imbalances of Th1/Th2, Th17/Treg at the expression levels and liver cancer Methods: The peripheral venous blood was drawn from 20 HCC-patients (HCC-group) and 20 health participants (C-group). The expression levels of Th1, Th2 and Th17 and the major Treg-specific TFs T-bet, GATA-3, RORγt and FOXP3 in the PBMC were measured with quantitative real-time PCR(RT-qPCR).Results:The mRNA level of Th1-specific TF T-bet in HCC-group was significantly lower than that of C-group (52.34±34.07 VS 104.01±56.00, P
+Hepatocellular carcinoma (HCC).; RORγt; Th1; Th17; Th2; Treg.

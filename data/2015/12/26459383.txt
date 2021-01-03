@@ -1,0 +1,4 @@
+26459383
+2015 Dec
+Hepatitis C virus (HCV) core protein stimulates many signaling pathways related to apoptosis inhibition resulting in hepatocellular carcinoma (HCC). It has been reported that sirt1 is involved in regulating apoptosis; therefore, we investigated the influence of HCV core protein on sirt1 expression and apoptosis in human HepG2 cells. Our study showed that HCV core protein inhibited apoptosis of HepG2 cells as well as caspase-3 expression and activity (P
+Apoptosis; Bax; HCV core; p53; sirt1.

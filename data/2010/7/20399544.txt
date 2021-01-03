@@ -1,0 +1,4 @@
+20399544
+2010 Jul
+In an effort to establish new candidates with improved anticancer activity, we report here the synthesis of various series of 2-substituted benzimidazoles: 2-[(4-oxothiazolidin-2-ylidene) methyl and (4-amino-2-thioxothiazol-5-yl) benzimidazoles (2 and 3, respectively); 2-[(4-fluorobenzylidene and cycloalkylidene) cyanomethyl] benzimidazoles (4 and 5, respectively), together with the synthesis of certain of 2-[(4- or 5-oxothiazolidin-2-ylidene, 4-substituted thiazolyl-2-ylidene and [1,3]thiazin-2-ylidene)cyanomethyl]benzimidazoles (6, 8, 7 and 9, respectively). Several of the synthesized products were subjected to in vitro anticancer screening that revealed that all the tested compounds exhibited antitumor activity against human hepatocellular carcinoma (HEPG2), human breast adenocarcinoma (MCF7) and human colon carcinoma (HCT 116) cell lines, with IC50's
+

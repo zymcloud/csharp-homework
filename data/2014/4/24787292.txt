@@ -1,0 +1,4 @@
+24787292
+2014 Apr
+We previously developed a network phenotyping strategy (NPS), a graph theory-based transformation of clinical practice data, for recognition of two primary subgroups of hepatocellular cancer (HCC), called S and L, which differed significantly in their tumor masses. In the current study, we have independently validated this result on 641 HCC patients from another continent. We identified the same HCC subgroups with mean tumor masses 9 cm x n (S) and 22 cm x n (L), P
+

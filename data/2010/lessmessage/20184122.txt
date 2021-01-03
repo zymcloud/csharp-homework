@@ -1,0 +1,4 @@
+20184122
+Jan-Feb 2010
+In vivo, normal tissues and organs have a three-dimensional structure and function in a three-dimensional environment. The standard two-dimensional cell culture conditions drastically differ from those in vivo. For this reason, three-dimensional cultures based on different variants of the extracellular matrix are more adequate for analyzing normal and tumor cell growth. Culturing a poorly differentiated hepatocellular carcinoma in a collagen gel yielded spheroids whose growth pattern shifted towards the epithelial phenotype. The shift was expressed in changes in the cytoskeleton, enhanced formation of extracellular matrix fibrils between cells, and formation of fibronectin fibrils on the outer surface of spheroids. Analysis of 25 genes reflecting the level of morphological and functional hepatocyte differentiation showed that the expression of the gene encoding the transforming growth factor TGFbeta2 was suppressed the most significantly.
+

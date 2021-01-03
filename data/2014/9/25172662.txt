@@ -1,0 +1,4 @@
+25172662
+2014 Sep 26
+Protocadherin 9 (PCDH9) was found frequently lost in hepatocellular carcinoma (HCC). Here we investigated the role of PCDH9 in the development of HCC. We confirmed that PCDH9 was down-regulated in HCC tissues and cell lines compared with the adjacent non-tumor tissues. PCDH9 downregulation was significantly associated with malignant portal vein invasion of HCC patients. Gain- and loss-of-function studies revealed that downregulation of PCDH9 facilitated tumor cell migration and epithelial-mesenchymal transition (EMT). We identified PCDH9 as a novel regulator of EMT by increasing the activity of GSK-3β and inhibiting Snail1, indicating its potential therapeutic value for reducing metastasis of HCC.
+EMT; GSK-3β; Hepatocellular carcinoma; Protocadherin 9; Tumor suppressor gene.

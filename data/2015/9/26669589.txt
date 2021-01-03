@@ -1,0 +1,4 @@
+26669589
+2016 Sep
+Aim:This study aimed to investigate the expressions of serum miR-21, miR-26a and miR-101 in hepatocellular carcinoma (HCC) and their diagnostic value.Methods:Serum levels of miR-21, miR-26a and miR-101 were detected by quantitative real-time polymerase chain reaction (qRT-PCR) in 52 HCC patients, 42 chronic hepatitis (CH) patients and 43 healthy controls. ROC curve analysis was performed to evaluate the diagnostic value. Clinical parameters were collected.Results:Serum level of miR-21 was higher while miR-26a and miR-101 were significantly lower in HCC patients than those in healthy controls (PConclusions:Serum miR-21, miR-26a and miR-101 are deregulated in HCC and can serve as potential biomarkers. Combination of these miRNAs and AFP provide a better detection than AFP alone. Serum miR-26a is a promising biomarker for early detection of HCC.
+

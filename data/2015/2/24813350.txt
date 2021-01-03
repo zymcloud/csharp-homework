@@ -1,0 +1,4 @@
+24813350
+2015 Feb
+Although the incidence of new hepatitis C virus (HCV) infection has fallen, HCV-related complications are on the rise. Our aim was to assess and describe the 2005-2009 national inpatient mortality and resource utilization trends for patients with HCV. Data from the National Inpatient Sample (NIS) and the National Hospital Discharge Survey (NHDS) between 2005 and 2009 were analyzed. Included were all adult hospital discharges with HCV-related ICD-9 codes. Incremental hospital charge, in-hospital mortality and length of stay (LOS) were estimated using n = 1000 bootstrap replicates clustered by unique hospital identifier. A total of 123 939 (0.38%) discharges were related to HCV (primary or secondary diagnosis). In-hospital mortality increased from 1.7% (2005) to 2.6% (2009) (P
+National Inpatient Sample; hepatitis C virus; outcomes.

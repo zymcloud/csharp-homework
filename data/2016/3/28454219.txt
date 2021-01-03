@@ -1,0 +1,4 @@
+28454219
+2017 Mar
+The effects of heat shock protein 70 (HSP70)/HSP70-peptide complexes (HSP70-PCs) on the invasion and metastasis ability of hepatocellular carcinoma (HCC) Huh-7 cells were investigated. Wound healing assay revealed that cells treated with HSP70/HSP70-PCs healed faster than negative control cells. HSP70/HSP70-PCs-treated cells also exhibited better migration ability and higher invasion ability than control cells. HSP70/HSP70-PCs treatment did not alter the messenger RNA (mRNA) or protein levels of matrix metalloproteinase-9; the opposite was true for Ras homolog family member A (RhoA) mRNA and protein levels. RNA interference of RhoA attenuated the migration of HSP70/HSP70-PCs-treated cells. The present findings indicate that regulation of HCC cell migration by HSP70/HSP70-PCs occurs via regulation of RhoA expression.
+RhoA; cytoskeleton; heat shock protein 70; hepatocarcinoma.

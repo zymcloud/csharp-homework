@@ -1,0 +1,4 @@
+33219288
+2020 Nov 20
+Biomarkers for early diagnosis of hepatocellular carcinoma (HCC) are needed in chronic hepatitis B virus (HBV) infection, a leading cause of HCC. We evaluated whether measurement of serum pentraxin 3 (PTX3) could improve diagnosis of HCC in chronic HBV infection. Data from patients with HBV-related chronic hepatitis (n = 159), cirrhosis (n = 99) and HCC (n = 107), and healthy controls (n = 151) were analyzed. Serum PTX3 concentration was measured by immunoassay. Area under the receiver operating characteristic curve (AUC) was applied to assess diagnostic accuracy. PTX3 levels were significantly higher in HBV patients than in healthy controls (P
+

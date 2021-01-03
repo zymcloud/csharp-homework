@@ -1,0 +1,4 @@
+30985698
+2019 Apr
+A precise and noninvasive method to predict posthepatectomy liver failure (PHLF) in clinical practice is still lacking. Liver fibrosis or cirrhosis accompanied with varying degrees of portal hypertension plays an important role in the occurrence of PHLF in hepatocellular carcinoma (HCC) patients. This study aims to compare the predictive ability of the albumin-bilirubin score to spleen thickness ratio (ALBI/ST) versus fibrosis-4 index (FIB-4) and aspartate aminotransferase to platelet count ratio index (ARPI) for the occurrence of PHLF. We retrospectively enrolled 932 patients who underwent liver resection for HCC between 2010 and 2017. The predictive accuracy of ALBI/ST ratio, FIB-4, and APRI for occurrence of PHLF was evaluated by receiver operating characteristic curve analysis. PHLF was diagnosed in 69 (7.4%) patients. The ALBI/ST ratio was found to be a significant predictor of PHLF. The AUC of ALBI/ST (AUC = 0.774; 95% CI, 0.731-0.817; P
+

@@ -1,0 +1,4 @@
+29235486
+2017 Dec 13
+The purpose of this study is to test the feasibility of applying a dual-input two-compartment liver perfusion model to patients with different pathologies. A total of 7 healthy subjects and 11 patients with focal liver lesions, including 6 patients with metastatic adenocarcinoma and 5 with hepatocellular carcinoma (HCC), were examined. Liver perfusion values were measured from both focal liver lesions and cirrhotic tissues (from the 5 HCC patients). Compared to results from volunteer livers, significantly higher arterial fraction, fractional volume of the interstitial space, and lower permeability-surface area product were observed for metastatic lesions, and significantly higher arterial fraction and lower vascular transit time were observed for HCCs (P
+

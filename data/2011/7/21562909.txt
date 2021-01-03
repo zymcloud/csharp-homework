@@ -1,0 +1,4 @@
+21562909
+2011 Jul
+We screened the antihyperlipidemic effects of seven edible plants by evaluation of the triglyceride (TG) and cholesterol profiles secreted from HepG2 cells. We found that the water- and ethanol-extracts of Brasenia schreberi at 100 μg/ml exhibited strong inhibitory activities against TG and cholesterol secretions from HepG2 cells stimulated with sodium oleate. Real-time RT-PCR analysis demonstrated that ethanol extract of B. schreberi (BSET) attenuated the expression of the sterol regulatory element binding protein-1c and -2, fatty acid synthase and HMG CoA synthase-1 genes, which are involved in lipid synthesis in hepatocyte/hepatoma cells. Furthermore, we studied the action of BSET on adipose tissue accumulation and serum parameters in mice fed a high-fat diet (HFD). BSET suppressed mesenteric and epididymal adipose tissue accumulation and normalized serum TG and glucose, but not cholesterol levels in HFD-fed mice.
+

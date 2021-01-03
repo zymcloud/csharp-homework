@@ -1,0 +1,4 @@
+29608403
+2018 Mar 4
+A novel series of acyclic pyridine thioglycosides has been synthesized. Evaluation of the anti proliferative activity of these compounds against HEPG-2 cell lines (liver carcinoma cell lines) shows that most of the compounds have high anti-tumor activities especially 6b, 6c, 7b and 7c. Furthermore, in the modeling study, these compounds showed that they have high binding affinity with thymidylate synthase dihydrofolate reductase (TS-DHFR).
+Acyclic pyridine thioglycosides; anti-tumor activity; cytotoxic activity; docking studies; thioglycosides; thymidylate synthase dihydrofolate reductase (TS-DHFR).

@@ -1,0 +1,4 @@
+20141834
+2010 Jan 22
+Epidemiological studies indicate that overweight and obesity are associated with increased cancer risk. To study how obesity augments cancer risk and development, we focused on hepatocellular carcinoma (HCC), the common form of liver cancer whose occurrence and progression are the most strongly affected by obesity among all cancers. We now demonstrate that either dietary or genetic obesity is a potent bona fide liver tumor promoter in mice. Obesity-promoted HCC development was dependent on enhanced production of the tumor-promoting cytokines IL-6 and TNF, which cause hepatic inflammation and activation of the oncogenic transcription factor STAT3. The chronic inflammatory response caused by obesity and enhanced production of IL-6 and TNF may also increase the risk of other cancers.
+

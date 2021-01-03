@@ -1,0 +1,4 @@
+32019103
+2020 Jan 30
+The hepatitis B virus (HBV) chronically infects over 250 million people worldwide and is one of the leading causes of liver cancer and hepatocellular carcinoma. HBV persistence is due in part to the highly stable HBV minichromosome or HBV covalently closed circular DNA (cccDNA) that resides in the nucleus. As HBV replication requires the help of host transcription factors to replicate, focusing on host protein-HBV genome interactions may reveal insights into new drug targets against cccDNA. The structural details on such complexes, however, remain poorly defined. In this review, the current literature regarding host transcription factors' interactions with HBV cccDNA is discussed.
+covalently closed circular DNA (cccDNA); hepatitis B virus (HBV); host–viral interactions; transcription factors; viral replication.

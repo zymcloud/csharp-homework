@@ -1,0 +1,4 @@
+25351213
+2015 Feb
+The oncogene DEK was originally identified as one of the parts of the DEK‑CAN fusion gene, arising from the translocation (6;9) in a subtype of acute myeloid leukemia. Since then, DEK has been shown to promote tumorigenesis in a variety of cancer cell types through its roles in inhibiting cell differentiation, senescence and apoptosis. Certain studies have established that DEK is dysregulated in several types of cancer, including hepatocellular carcinoma (HCC). However, its clinical significance in human HCC remains unknown. In this study, the expression of DEK mRNA and protein was examined in 55 surgical HCC specimens and matched non‑tumorous tissues. In addition, the correlation between DEK expression and clinicopathological characteristics and prognosis was analyzed. mRNA and protein levels of DEK were found to be significantly overexpressed in the majority of HCC tumors when compared with matched normal hepatic tissues (P
+

@@ -1,0 +1,4 @@
+30958616
+2019 Jun
+Background:This study aimed to preliminarily assess the relationship between erythropoietin-producing hepatocellular carcinoma receptor A3 (EphA3) and androgen receptor (AR) protein expression levels and prognosis in prostate cancer (PCa) to better understand the role of EphA3 in the prognosis and progression of PCa.Materials:We investigated the expression of EphA3 and AR in human PCa by immunohistochemistry.Results:EphA3 and AR were both significantly upregulated in PCa, with expression mainly localized to the nucleus. A high level of AR expression was found in 48.4% of 64 tumor samples, which was significantly more than in the adjacent tissue samples (15.6%) (P Conclusions:Increased EphA3 expression is an independent prognostic factor for a poor outcome and decreased survival in PCa.
+EphA3; androgen receptor; overall survival; overexpression; prognosis; prostate cancer.

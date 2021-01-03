@@ -1,0 +1,4 @@
+29056018
+2017 Aug 20
+Naïve CD4+T cell differentiates into either Th17 or Treg in the microenvironment of various cytokines, among that, Th17 is induced by TGF-β and IL-6, while differentiates into Treg when there is only TGF-β. As the mainly transcription factors of Th17 and Treg respectively, RORγt and Foxp3 have important role in maintaining balance of Th17/Treg. Th17 and Treg are function antagonistically, so the balance of Th17/Treg means a lot for human body. Liver-a metabolic organof the body, it is susceptible to factors in vivo and in vitro. From basal hepatis to end-stage malignancy, common liver diseases are mainly including viral hepatitis, alcoholic liver disease, nonalcoholic fatty liver disease, autoimmune liver disease, hepatocellualr carcinoma and parasitic disease of liver, besides, the occurrence and development of all the diseases are correlated to the balance of Th17/Treg.
+Balance of Th17/Treg; Liver diseases; Regulatory T cell(Treg); Th17 cell.

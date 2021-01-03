@@ -1,0 +1,4 @@
+23644127
+2013 Apr
+Objective:To investigate the correlation between the expressions of glypican-3 (GPC3) and Notch1 and their roles in the tumorigenesis and progression of hepatocellular carcinoma (HCC).Methods:Immunohistochemistry and computerized image analysis were utilized to quantitatively detect the expressions of GPC3 and Notch1 in 30 HCC tissue specimens.Results:In the 30 HCC specimens, GPC3 expression decreased significantly as the grade of tumor differentiation increased (PConclusion:The expressions of GPC3 and Notch1 show a negative correlation in HCC, suggesting a possible mechanism for mutual regulation between them to contribute to the tumorigenesis and progression of HCC.
+

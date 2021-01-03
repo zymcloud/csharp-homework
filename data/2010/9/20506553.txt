@@ -1,0 +1,4 @@
+20506553
+2010 Sep 1
+Overexpression of transmembrane 4 L six family member 5 (TM4SF5), a four-transmembrane L6 family member, causes aberrant cell proliferation and angiogenesis, but the roles of TM4SF5 in migration, invasion, and tumor metastasis remain unknown. Using in vitro hepatocarcinoma cells that ectopically or endogenously express TM4SF5 and in vivo mouse systems, roles of TM4SF5 in metastatic potentials were examined. We found that TM4SF5 expression facilitated migration, invadopodia formation, MMP activation, invasion, and eventually lung metastasis in nude mice, but suppression of TM4SF5 with its shRNA blocked the effects. Altogether, TM4SF5-mediated migration and invasion suggest that TM4SF5 may be therapeutically targeted to deal with TM4SF5-mediated hepatocellular cancers.
+

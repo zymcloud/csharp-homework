@@ -1,0 +1,4 @@
+20602107
+2010 Nov
+Although (125)I-UdR treatment of malignant tumors in animal models and patients has achieved a certain effect, the short half-life of (125)I-UdR in vivo and its cellular uptake only in S phase of the cell cycle are limiting factors with regard to tumor eradication, and therefore its combination with other applications is a promising strategy in cancer therapy. In this study, we show that (125)I-UdR radionuclide therapy in combination with Egr-1 promoter-based IFNγ gene therapy is more effective than (125)I-UdR therapy alone in suppressing tumor growth and extending survival duration in mice bearing H22 hepatomas. Combined therapy could significantly inhibit cell proliferation and tumor angiogenesis, induce apoptosis and enhance cytotoxic activities of splenic CTL of the mice. Our results suggest that (125)I-UdR in combination with Egr-1 promoter-based IFNγ gene therapy may provide novel approaches for cancer treatment.
+

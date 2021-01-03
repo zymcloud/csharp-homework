@@ -1,0 +1,4 @@
+20040052
+2010 Apr
+Cell-mediated immune responses play an important role in the control of tumour growth. CD4 and CD8 T cells recognise tumour antigens presented via major histocompatibility complex molecules of antigen presenting cells and develop into effector cells with the ability to identify and kill tumour cells. Here, we re-examine the adaptive immune response to tumour antigens expressed by hepatocellular carcinoma (HCC) and discuss approaches that could be applied in future T-cell-based immunotherapy schedules to induce a potent and effective antitumour immunity. Moreover, we discuss cytotoxic T lymphocyte and Th1 responses to tumour antigens in patients with HCC and evaluate the effects of conventional treatments on antitumour T-cell responses.
+

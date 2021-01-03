@@ -1,0 +1,4 @@
+26238561
+2015 Nov
+Heat stress triggers an evolutionarily conserved set of responses in cells. The transcriptome responds to hyperthermia by altering expression of genes to adapt the cell or organism to survive the heat challenge. RNA-seq technology allows rapid identification of environmentally responsive genes on a large scale. In this study, we have used RNA-seq to identify heat stress responsive genes in the chicken male white leghorn hepatocellular (LMH) cell line. The transcripts of 812 genes were responsive to heat stress (p
+Chicken; Heat stress; LMH cells; RNA-seq; Transcriptome.

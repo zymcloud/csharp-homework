@@ -1,0 +1,4 @@
+22079254
+2011 Dec 15
+A number of 6-aryl-11-iminoindeno[1,2-c]quinoline derivatives were synthesized and evaluated for their antiproliferative activities. Among them, (E)-6-{4-[3-(dimethylamino)propoxy]phenyl}-2-fluoro-9-hydroxy-11H-indeno[1,2-c]quinolin-11-one O-3-(dimethylamino)propyl oxime (23a) was the most active, exhibited GI(50) values of 0.64, 0.39, 0.55, 0.67, and 0.65μM against the growth of Hep G2, Hep 3B, A549, H1299, and MDA-MB-231, respectively. Compound 23a inhibited the growth of hepatoma cell lines in a dose- and time-dependent manner. The proportion of cells was decreased in the G1 and accumulated in G2/M phase after 12h treatment of 23a, while the hypodiploid (sub-G0/G1 phase) cells increased. Further investigations have shown that 23a induced cell cycle arrest at G2/M phase and induce apoptosis via activation of p53, Bax, and caspase-8 which consequently cause cell death.
+

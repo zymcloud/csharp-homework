@@ -1,0 +1,4 @@
+24616465
+2014 Jan
+Objective:To evaluate the diagnostic value of diffusion weighted imaging (DWI) combined with dynamic contrast-enhanced (DCE) MRI in monitoring the efficacy for hepatocellular carcinoma (HCC) after transcatheter arterial chemoembolization (TACE).Methods:MRI and CT scan were performed 4-6 weeks after TACE in 31 patients.With digital signature algorithm (DSA) examination as the reference standard, the value in detection of the residue and recurrence of HCC was compared between MRI and CT results.Results:Seventy-three lesions were detected in 31 patients. Fourteen lesions confirmed by DSA had no tumor staining, and 59 lesions had tumor staining. Diagnostic sensitivity and specificity of DCE-CT were 78.0% and 85.7%, respectively; while those of DWI combined with DCE-MRI were 100% and 92.9% (PConclusion:DWI combined with DCE-MRI is more effective than DCE-CT in detecting the residue and recurrence of HCC after TACE.
+

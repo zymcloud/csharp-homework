@@ -1,0 +1,4 @@
+29342456
+2018
+Background:The relationship between resection margin (RM) and recurrence of resected hepatocellular carcinoma (HCC) is unclear.Methods:We reviewed clinical data for 419 patients with HCC. The oncologic outcomes were compared between 2 groups of patients classified according to the inflexion point of the restricted cubic spline plot.Results:The patients were divided according to an RM of Conclusion:In patients with a single 2-5 cm HCC without prior TACE/RFA, an RM of ≥1 cm was associated with lower risk of recurrence after liver resection.
+Hepatocellular carcinoma; Recurrence; Resection margin; Restricted cubic spline.

@@ -1,0 +1,4 @@
+20664972
+2010 Sep
+There is increasing evidence that hepatocellular carcinoma (HCC) is inherently associated with the inflammatory process and the up-regulation of cytokines. Our study aimed at elucidating the role of the cytokine fractalkine in the process of HCC carcinogenesis. Expression of fractalkine in hepatocellular carcinoma cell line HepG2 was knocked-down by RNAi. Conditioned media (CMs) from HepG2 was used in angiogenesis assays both in vitro and in vivo. Compared with CMs from mock transfection and negative shRNA treated HepG2, CMs from fractalkine shRNA treated HepG2 highly suppressed the migration, proliferation, and differentiation of human umbilical vein endothelial cells. The results suggest that fractalkine may play a key role in the mechanism of angiogenesis and carcinogenesis of HCC.
+

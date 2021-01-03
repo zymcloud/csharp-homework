@@ -1,0 +1,4 @@
+30227200
+2018 Oct
+Four pairs of racemic phenylpropanoids (1a/1b-4a/4b), including five new compounds (1a/1b, 2a, 3a, and 4a) were obtained from the root barks of Ailanthus altissima (Mill.) Swingle. Their structures were determined by comprehensive spectroscopic analyses. The absolute configurations of the enantiomers were determined by comparison of the experimental ECD and OR with the calculated data. The antitumor activity of all isolates was evaluated against two human hepatoma carcinoma cells (HepG2 and Hep3B) in vitro. It was demonstrated that 1a/1b showed potent selective cytotoxicity against HepG2 cells. Additionally, 1a/1b could also induce apoptosis enantioselectively as demonstrated by Hoechst staining experiment.
+Ailanthus altissima (Mill.) Swingle.; Antitumor; Apoptosis; ECD calculation; Phenylpropanoid enantiomers.

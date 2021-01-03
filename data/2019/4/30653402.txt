@@ -1,0 +1,4 @@
+30653402
+2019 Apr
+Ketoconazole is a broad-spectrum antifungal agent, which has recently been characterized as a potential anticancer agent in several cancer types. However, the molecular mechanism underlying the anticancer effect of ketoconazole is not clearly defined. Our recent findings demonstrate that ketoconazole suppresses the growth of hepatocellular carcinoma (HCC) cells by exacerbating mitophagy in vitro and in vivo. Mechanistically, PINK1-PRKN-mediated mitophagy are led by ketoconazole-induced suppression of PTGS2 (prostaglandin-endoperoxide synthase 2), which in turn results in mitochondrial dysfunction and consequent apoptosis. These data link PTGS2 to mitophagy machinery and implicate ketoconazole as a potential therapeutic option for HCC treatment.
+Apoptosis; PTGS2; hepatocellular carcinoma; ketoconazole; mitophagy.

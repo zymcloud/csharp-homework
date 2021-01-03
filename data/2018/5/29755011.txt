@@ -1,0 +1,4 @@
+29755011
+2018 May
+Autophagy is a key biological phenomenon conserved from yeast to mammals. Under basal conditions, activation of autophagy leads to the protein degradation as well as damaged organelles for maintaining cellular homeostasis. Deregulation of autophagy has been identified as a key mechanism contributing to the pathogenesis and progression of several liver diseases, including hepatocellular carcinoma (HCC), one of the most common and mortal types of cancer. Currently used treatment strategies in patients with HCC result in variable success rates. Therefore, novel early diagnosis and treatment techniques should be developed. Manipulation of autophagy may improve responses of cancer cell to treatments and provide novel targeted therapy options for HCC. In this review, we summarized how our understanding of autophagy-cell death connection may have an impact on HCC therapy.
+

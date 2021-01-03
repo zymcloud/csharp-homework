@@ -1,0 +1,4 @@
+25826224
+2015 Mar 31
+Hepatocellular carcinoma (HCC) ranks third in overall global cancer-related mortality. Symptomatic presentation often means advanced disease where potentially curative treatment options become very limited. Numerous international guidelines propose the routine monitoring of those with the highest risk factors for the condition in order to diagnose potential tumourigenesis early. To aid this, the fields of metabonomic- and proteomic-based biomarker discovery have applied advanced tools to identify early changes in protein and metabolite expression in HCC patients vs controls. With robust validation, it is anticipated that from these candidates will rise a high-performance non-invasive test able to diagnose early HCC and related conditions. This review gathers the numerous markers proposed by studies using mass spectrometry and proton nuclear magnetic resonance spectroscopy and evaluates areas of consistency as well as discordance.
+

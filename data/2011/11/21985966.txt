@@ -1,0 +1,4 @@
+21985966
+2011 Nov 4
+Reactive oxygen species (ROS) caused oxidative stress plays a key role in carcinogenesis. The POU domain transcription factor Oct-1 and catalase is closely associated with ROS. However, a correlation between these two key proteins has not been demonstrated before. In this report, we show that Oct-1 acts as an activator of catalase, by binding to the catalase promoter in hepatocellular carcinoma (HCC) cell lines. In addition, we suggest that Oct-1 is downregulated by ROS via CpG island methylation in its promoter. These findings contribute to a better understanding of the epigenetic changes induced by ROS in the process of carcinogenesis.
+

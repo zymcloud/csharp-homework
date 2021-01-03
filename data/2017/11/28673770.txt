@@ -1,0 +1,4 @@
+28673770
+2017 Nov
+Hepatocellular carcinoma (HCC) is among the most prevalent human malignancies worldwide with rising incidence in industrialised countries, few therapeutic options and poor prognosis. To expand and improve therapeutic strategies, identification of drug targets involved in several liver cancer-related pathways is crucial. Virtually all signal transduction cascades cross the nuclear envelope and therefore require components of the nuclear transport system (NTS), including nuclear transport receptors (e.g. importins and exportins) and the nuclear pore complex. Accordingly, members of the NTS represent promising targets for therapeutic intervention. Selective inhibitors of nuclear export have already entered clinical trials for various malignancies. Herein, we review the current knowledge regarding alterations of the NTS and their potential for targeted therapy in HCC.
+Hepatocellular carcinoma; Nuclear pore complex; Nuclear transport.

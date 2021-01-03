@@ -1,0 +1,4 @@
+32944627
+2020 Jun 17
+In a recent publication, we demonstrated that conditional deletion of the gene encoding thymine DNA glycosylase (TDG) leads to a late onset of hepatocellular carcinoma (HCC). TDG loss causes disruption in active DNA demethylation in the liver and dysregulation of the farnesoid X receptor and small heterodimer partner (FXR-SHP) regulatory cascade. This leads to a loss of bile acid and glucose homeostasis, which predisposes mice to HCC.
+FXR; SHP; Thymine DNA Glycosylase; active DNA demethylation; bile acid; glucose intolerance; hepatocellular carcinoma; liver cancer; ten eleven translocation.

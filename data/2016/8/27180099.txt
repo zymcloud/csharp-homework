@@ -1,0 +1,4 @@
+27180099
+2016 Aug
+Oxidative stress induces the activation of signal transducer and activator of transcription 3 (STAT3), which plays an important role in hepatocellular carcinoma (HCC). We have previously reported that hepatitis C virus (HCV) and its protein NS4B induce the production of reactive oxygen species (ROS) via the endoplasmic reticulum overload response (EOR) in human hepatocytes. Here, we found that NS4B and HCV induce STAT3 activation and stimulate the expression of cancer-related STAT3 target genes, including VEGF, c-myc, MMP-9 and Mcl-1, by EOR in human hepatocytes. Moreover, the cancer-related STAT3 pathway activated by NS4B and HCV via EOR were found to promote human hepatocyte viability. Taken together, these findings revealed that HCV NS4B might contribute to HCC by activating the EOR-mediated cancer-related STAT3 pathway, and this could provide novel insights into HCV-induced HCC.
+

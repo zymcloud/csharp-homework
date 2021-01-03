@@ -1,0 +1,4 @@
+20873566
+2010 May
+Objective:To investigate the effects of matrine on proliferation, cell cycle, apoptosis rate and beta-catenin-dependent transcriptional activity in cultured hepatoma cell line Hep3B.Methods:Cell viability was analyzed by cell counting kit-8 (CCK-8) assay. Cell cycle and apoptosis rate wene determined by flow cytometry analysis, beta-catenin-dependent transcriptional activity was assayed with Dual-Luciferase Reporter System.Results:72 h of matrine (50 - 800 mg/L) exposure significantly suppresses Hep3B cells growth in a concentration-dependent manner (PConclusion:Through inhibition of beta-catenin-dependent transcription, matrine induces cell cycle arrest and apoptosis, and subsequently suppresses proliferation of hepatoma cells.
+

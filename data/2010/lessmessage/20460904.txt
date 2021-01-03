@@ -1,0 +1,4 @@
+20460904
+2010
+Hepatocellular carcinoma (HCC) represents the third most common cause of cancer-related deaths worldwide and efficient treatment options are urgently needed. Based on its pathogenesis as well as a number of correlative studies, immunotherapy represents a potential therapeutic option for patients with HCC. However, tumors have also evolved numerous immune escape mechanisms, such as the generation of cells with immune suppressor functions, including regulatory T cells and myeloid-derived suppressor cells. It has been shown that these suppressor cells mask tumor-specific immune responses in patients with HCC. We propose that targeting suppressor cells either alone or in combination with conventional immunotherapy should be further evaluated in HCC patients.
+

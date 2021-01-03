@@ -1,0 +1,4 @@
+28320975
+2017 Jun 1
+Fifteen steroids, including two new compounds, leptosteroid (1) and 5,6β-epoxygorgosterol (2), were isolated and structurally elucidated from the Vietnamese soft coral Sinularia leptoclados. Their cytotoxic effect against a panel of eight human cancer cell lines was evaluated using sulforhodamine B (SRB) method. Significant cytotoxicity against hepatoma cancer (HepG2, IC50=21.13±0.70 µM) and colon adenocarcinoma (SW480, IC50=28.65±1.53 µM) cell lines were observed for 1 and against acute leukemia (HL-60, IC50=20.53±2.26 µM) and SW480 (IC50=26.61±1.59 µM) for ergost-5-en-3β,7β-diol (8). In addition, 3β,7β-dihydroxyergosta-5,24(28)-diene (13) showed significant cytotoxic activity on all tested cell lines with IC50 values ranging from 13.45±1.81 to 29.01±3.21 µM.
+Alcyoniidae; Sinularia leptoclados; cytotoxic activity; soft coral; steroid.

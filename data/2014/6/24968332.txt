@@ -1,0 +1,4 @@
+24968332
+2014 Jun 25
+From ethyl acetate-methanol extracts of leaves and twigs of Pseuduvaria trimera a new aporphine alkaloid; 8-hydroxy-1,4,5-trimethoxy-7-oxoaporphine or 8-hydroxyartabonatine C (1) was isolated, together with the known 1,2,3-trimethoxy-4,5-dioxo-6a,7-dehydroaporphine (ouregidione, 2). Their structures were elucidated by a combination of spectral methods; mainly 2D NMR; IR and MS. Compounds 1 and 2 exhibited cytotoxic activity with IC50 values of 26.36±5.18 μM and 12.88±2.49 μM, respectively, for human hepatocellular carcinoma HepG2 cells, and 64.75±4.45 and 67.06±3.5 μM, respectively, for human breast cancer MDA-MB231 cells. Both compounds displayed anti-cancer activity but less than that of doxorubicin; a conventional chemotherapeutic drug, the IC50 levels of which were 2.21±1.72 and 1.83±0.09 μM for HepG2 and MDA-MB231 cells, respectively.
+

@@ -1,0 +1,4 @@
+32363617
+2020 Aug
+Background:Current study aimed to explore the value of P53, MutS homologs 2 (MSH2), and tropomyosin-4 (Tm-4) combined with inflammatory factors, life-history traits in the differential diagnosis of alpha-fetoprotein-negative hepatocellular carcinoma (AFP-Negative HCC).Methods:A testing cohort including 280 AFP-Negative HCC patients and 300 controls was included. Three external validation cohorts from 3 centers were used to assess the novel logistic regression model including 400 AFP-Negative HCC patients and 400 controls.Results:Compared with the control group, the levels of P53, MSH2, and Tm-4 protein in si-P53 group, si-MSH2 group, and si-Tm-4 group were significantly reduced (P Conclusion:Current model has potential significance for the noninvasive diagnosis of AFP-Negative HCC.
+MutS homologs 2; P53; alpha-fetoprotein; hepatocellular carcinoma; tropomyosin-4.

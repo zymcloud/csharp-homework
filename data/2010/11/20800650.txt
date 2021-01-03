@@ -1,0 +1,4 @@
+20800650
+2010 Nov 5
+An increasing number of studies support the presence of stem-like cells in human malignancies. These cells are primarily responsible for tumor initiation and thus considered as a potential target to eradicate tumors. CD133 has been identified as an important cell surface marker to enrich the stem-like population in various human tumors. However, the biological function of CD133 protein remains unknown. In this study, we observed no significant effects on cell proliferation and migration in CD133 overexpressed U87MG human glioblastoma cells. It is reported that MAPK/Erk was constitutively activated in CD133 positive liver cancer stem cell. To find out possible mechanism between CD133 and Erk phosphorylation, we performed this study to evaluate the level of Erk phosphorylation in CD133 overexpressed U87MG cells. We found that CD133 overexpression significantly activated Erk, which suggested CD133 involved in activation of MAPK/Erk pathway.
+

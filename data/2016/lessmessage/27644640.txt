@@ -1,0 +1,4 @@
+27644640
+2016
+Infection with the hepatitis C virus is a major public health concern which can lead to carcinoma and liver failure. It has been shown that single nucleotide polymorphisms can affect the level of gene activity of tumor necrosis factor (TNF) which has an important role, especially in viral infections which can lead to apaptosis of infected hepatocellular cells. We investigated the impact of three possible genotypes for rs1800629 or A/G single nucleotide polymorphism located downstream of TNFα gene promoter in groups of control (n=76) and chronic hepatitis C patients (n=89) focusing on the response to treatment among sensitive and resistant groups. Genomic DNA was extracted from 500 μl prepheral whole blood and PCR and RFLP were used to amplify the region of interest and genotyping. With statistical analyzes a p-value
+

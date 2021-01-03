@@ -1,0 +1,4 @@
+25261367
+2014 Sep 30
+Here we showed that hepatocellular carcinoma (HCC) cell lines with high metastatic potential had low levels of NDRG2. The iron chelator Dp44mT up-regulated NDRG2, suppressed epithelial-mesenchymal transition (EMT) and inhibited tumor metastasis in HCC having high metastatic potential. Also Dp44mT attenuated the TGF-β1-induced EMT in HCC having low metastatic potential. In agreement, silencing endogenous NDRG2 with shNDRG2 in HCC cells attenuated the effect of Dp44mT. We showed that the NDRG2/gp130/STAT3 pathway can mediate Dp44mT effects. In agreement, we found that a combination of NDRG2 expression and p-STAT3 levels is a strong predictor of prognosis in HCC patients. We suggest that up-regulation of NDRG2 by Dp44mT is a promising therapeutic approach in HCC.
+

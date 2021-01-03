@@ -1,0 +1,4 @@
+25303284
+2014 Oct 10
+CXC ligand 17 (CXCL17) is a novel CXC chemokine whose clinical significance remains largely unknown. In the present study, we characterized the prognostic value of CXCL17 in patients with hepatocellular carcinoma (HCC) and evaluated the association of CXCL17 with immune infiltration. We examined CXCL17 expression in 227 HCC tissue specimens by immunohistochemical staining, and correlated CXCL17 expression patterns with clinicopathological features, prognosis, and immune infiltrate density (CD4 T cells, CD8 T cells, B cells, natural killer cells, neutrophils, macrophages). Kaplan-Meier survival analysis showed that both increased intratumoral CXCL17 (P = 0.015 for overall survival [OS], P = 0.003 for recurrence-free survival [RFS]) and peritumoral CXCL17 (P = 0.002 for OS, P
+

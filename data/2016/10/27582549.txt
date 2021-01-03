@@ -1,0 +1,4 @@
+27582549
+2016 Oct 4
+Glycycoumarin (GCM) is a major bioactive coumarin compound isolated from licorice and the anti-cancer activity of GCM has not been scientifically addressed. In the present study, we have tested the anti-liver cancer activity of GCM using both in vitro and in vivo models and found for the first time that GCM possesses a potent activity against liver cancer evidenced by cell growth inhibition and apoptosis induction in vitro and tumor reduction in vivo. Mechanistically, GCM was able to bind to and inactivate oncogenic kinase T-LAK cell-originated protein kinase (TOPK), which in turn led to activation of p53 pathway. Our findings supported GCM as a novel active compound that contributed to the anti-cancer activity of licorice and TOPK could be an effective target for hepatocellular carcinoma (HCC) treatment.
+T-LAK cell-originated protein kinase; anti-liver cancer; glycycoumarin; licorice; p53.

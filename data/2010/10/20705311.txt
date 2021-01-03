@@ -1,0 +1,4 @@
+20705311
+2010 Oct 25
+Hepatitis B virus infection is a worldwide epidemic and is closely associated with the development of hepatocellular carcinoma. Nevertheless, the molecular mechanisms of HBV infection and carcinogenesis remain elusive. Using a hepatocyte model of HBV infection and comparing the gene expression profiling analysis we found that heparan sulfate D-glucosaminyl 3-O-sulfotransferase 3 B1 (HS3ST3B1,3-OST3-B) is down-regulated in the hepatocytes of chronic HBV infection model. HS3ST3B1 showed potent inhibitory effect on HBV replication. The inhibitory effect of HS3ST3B1 overexpression was lost upon gene silencing of HS3ST3B1 or when a catalytic inactive mutant of HS3ST3B1 was expressed. Our study revealed the anti-viral activity of HS3ST3B1 on HBV replication. It is conceivable that possible therapeutic applications of HBV infection could be devised by manipulating HS3ST3B1 activity.
+

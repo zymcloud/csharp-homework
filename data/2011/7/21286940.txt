@@ -1,0 +1,4 @@
+21286940
+2011 Jul
+Background:Perturbations in the nuclear microenvironment, including transport systems, play a critical role in malignant progression, but the nuclear import abnormalities remain unclear in hepatocarcinogenesis. We analyzed the role of importin in hepatocellular carcinoma (HCC).Methods:Gene expression profiling of the importin family was performed in HCC tissues. The significance of importin protein expression was analyzed in vitro as well as clinicopathologically.Results:According to the microarray profiles, the importin-α1 was dominantly overexpressed in HCC tissues as compared to the adjacent noncancerous tissues. By means of human HCC cell lines, a knockdown of importin-α1 by its siRNA greatly reduced cellular proliferation by 15.2-26.6% (P Conclusions:Because importin-α1 might be closely associated with HCC progression, further analysis should be pursued to evaluate it as a novel prognostic target.
+

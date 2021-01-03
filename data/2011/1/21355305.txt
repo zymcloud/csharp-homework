@@ -1,0 +1,4 @@
+21355305
+2011 Jan
+Objective:To investigate the inactivate effect of YWW007 mediated PCT on suspended hepatoma carcinoma cells.Methods:The cultured hepatoma carcinoma cells were prepared as 10(9)/L of single cell suspension. Then the cells were subject to dark reaction and PCT in turn with different concentrations of YWW007. The cell mortality was detected by trypan blue exclusion and FCM.Results:Large amount of necrotic and apoptotic cells were found. The mortality of the cells increased with the increase of the concentration of YWW007. The mortality of the cells reached 99% when the concentration of YWW007 was over 8 micromol/L. Dark cytotoxicity occurred in the cells without exposure to PCT, but at a lower level compared with those exposed to PCT.Conclusion:YWW007 mediated PCT can inactivate the suspended hepatoma carcinoma cells, which appear predominately as necrosis. The optimum concentrations of YWW007 are 8 micromol/L-16 micromol/L.
+

@@ -1,0 +1,4 @@
+26523833
+2015 Nov 2
+AS1411 (previously known as AGRO100) is a 26 nucleotide guanine-rich DNA aptamer which forms a guanine quadruplex structure. AS1411 has shown promising utility as a treatment for cancers in Phase I and Phase II clinical trials without causing major side-effects. AS1411 inhibits tumor cell growth by binding to nucleolin which is aberrantly expressed on the cell membrane of many tumors. In this study, we utilized a simple technique to conjugate a widely-used chemotherapeutic agent, doxorubicin (Dox), to AS1411 to form a synthetic Drug-DNA Adduct (DDA), termed as AS1411-Dox. We demonstrate the utility of AS1411-Dox in the treatment of hepatocellular carcinoma (HCC) by evaluating the targeted delivery of Dox to Huh7 cells in vitro and in a murine xenograft model of HCC.
+

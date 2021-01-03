@@ -1,0 +1,4 @@
+27073515
+2016 Apr
+The present study aimed to investigate elemene's effects on cell proliferation, apoptosis, and the cell cycle in the hepatocellular carcinoma (HCC) cell line, QYG7703, and to investigate GSTP1 gene methylation change in QGY7703 cells after being treated with elemene to explore whether elemene reversed the abnormal GSTP1 gene methylation. QGY7703 cells were treated with different elemene concentrations. Cell proliferation was measured with MTT assay, cell apoptosis and cell cycle were analyzed by flow cytometry, and GSTP1 gene methylation was analyzed by methlation-specific polymerase chain reaction. The cells' apoptotic rate increased dose-dependently with elemene concentration, and the difference was statistically significant (P
+GSTP1; QGY7703; cell apoptosis; elemene; methylation.

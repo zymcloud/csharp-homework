@@ -1,0 +1,4 @@
+30420590
+2018 Nov 13
+BACKGROUND Long-term real-world data are relatively sparse regarding recurrence of chronic hepatitis B virus (HBV) infection after liver transplantation using hepatitis B immunoglobulin (HBIg) and nucleos(t)ide analogue (NUC) prophylaxis. MATERIAL AND METHODS Data from 371 adults transplanted for HBV-related disease at 20 European centers and given HBIg for ³12 months ± NUC therapy were analyzed retrospectively. RESULTS HBIg comprised Hepatect® (iv HBIgB; n=299), subcutaneous Zutectra® (sc HBIg, n=236), and other HBIg preparations (n=130); 93.5% received NUC therapy. Mean follow-up was 6.8±3.5 years. The primary efficacy variable, freedom from HBV recurrence, occurred in 95.7% of patients (95% CI [93.1%, 97.5%]). The observed incidence of recurrence was 16/371 (4.3%) (annual rate 0.65%); 5/16 patients with recurrence had discontinued HBIg and 7/16 had anti-HBs
+

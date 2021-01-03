@@ -1,0 +1,4 @@
+32318666
+2020 Feb 9
+The most commonly used preclinical models of hepatocellular carcinoma (HCC) are limited for use in testing of intra-arterial therapies such as transarterial chemoembolization and radioembolization. Issues encountered with the more commonly used animal models include dissimilarity in their disease development compared with humans and the size of the vasculature which can make intra-arterial therapy testing difficult or impossible. Here we describe the suitability of the woodchuck HCC model for testing of intra-arterial therapies. We describe the techniques for pre-embolization imaging assessment using CT and MRI, technical tips on performing angiography and embolization, and pathological assessment of treated liver.
+angiography; animal model; hepatocellular carcinoma; woodchuck.

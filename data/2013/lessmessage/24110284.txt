@@ -1,0 +1,4 @@
+24110284
+2013
+This paper introduces a differential network biology for discovering tumor migration. We applied statistical methods to prioritize PPI candidates and an in situ proximity ligation assay to verify 67 endogenous PPIs among 21 interlinked pathways in two hepatocellular carcinoma (HCC) cells, Huh7 (minimally migratory cells) and Mahlavu (highly migratory cells). Differential network biology analysis was applied to determine the novel interaction, CRKL-FLT1, has a high centrality ranking, and the expression of this interaction is strongly correlated with the migratory ability of HCC and other cancer cell lines. Knockdown of CRKL and FLT1 in HCC cells leads to a decrease in cell migration. This study demonstrated that functional exploration of a disease network with differential network in interlinked pathways via PPIs can be used to discover tumor migration.
+

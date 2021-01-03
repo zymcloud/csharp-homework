@@ -1,0 +1,4 @@
+26629947
+2014
+TIP30/CC3 was first identified and characterized as a "candidate" tumor-suppressor gene in 1997. Recently, the TIP30 tumor-suppressor status has been fully established since several studies have described that TIP30 protein expression is frequently downregulated in diverse types of human tumors, and the downregulation is often associated with tumor progression. TIP30 is involved in the control of cell apoptosis, growth, metastasis, angiogenesis, DNA repair, and tumor cell metabolism. Moreover, TIP30(-/-) mice spontaneously develop hepatocellular carcinoma and other tumors at a higher incidence than that of wild-type mice. In this review, we provide an overview of current knowledge concerning the role of TIP30 in tumor development and progression. To our knowledge, this is the first review about the role of novel tumor-suppressor gene TIP30 in tumor development and progression.
+

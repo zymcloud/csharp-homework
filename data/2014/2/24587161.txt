@@ -1,0 +1,4 @@
+24587161
+2014 Feb 28
+Pre-mRNA processing factor 19 (Prp19) activates pre-mRNA spliceosome and also mediates DNA damage response. Prp19 overexpression in cells with functional p53 leads to decreased apoptosis and increases cell survival after DNA damage. Here we showed that in hepatocellular carcinoma (HCC) cells with inactive p53 or functional p53, Prp19 was down-regulated due to the impaired stability under chemotherapeutic drug treatment. Silencing Prp19 expression enhanced apoptosis of HCC cells with or without chemotherapeutic drug treatment. Furthermore high level of Prp19 may inhibit chemotherapeutic drugs induced apoptosis in hepatocellular carcinoma cells through modulating myeloid leukemia cell differentiation 1 expression. These results indicated that targeting Prp19 may potentiate pro-apoptotic effect of chemotherapeutic agents on HCC.
+

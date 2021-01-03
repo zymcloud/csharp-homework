@@ -1,0 +1,4 @@
+25445601
+2014 Nov 7
+Aberrant Notch signaling is observed in human hepatocellular carcinoma (HCC) and has been associated with the modulation of cell growth. However, the role of Notch signaling in HCC and its underlying mechanism remain elusive. RBP-J-interacting and tubulin-associated (RITA) mediates the nuclear export of RBP-J to tubulin fibers and downregulates Notch-mediated transcription. In this study, we found that RITA overexpression increased protein expression of p53 and Fbxw7 and downregulated the expression of cyclin D1, cyclin E, CDK2, Hes-1 and NF-κB p65. These changes led to growth inhibition and induced G0/G1 cell cycle arrest and apoptosis in SMMC7721 and HepG2 cells. Our findings indicate that RITA exerts tumor-suppressive effects in hepatocarcinogenesis through induction of G0/G1 cell cycle arrest and apoptosis and suggest a therapeutic application of RITA in HCC.
+Apoptosis; Cell cycle arrest; HCC; Notch signaling; RITA.

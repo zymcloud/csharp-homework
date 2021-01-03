@@ -1,0 +1,4 @@
+23533044
+2013 Apr
+Hepatocellular carcinoma (HCC) is the fifth most common tumor worldwide with a high mortality. Available therapeutical options are limited, thus the development of new, innovative therapeutic strategies is crucial. Based on the immune system's antitumoral effect, immunotherapy is a promising new treatment option. Specific antitumoral T-cell responses can be detected in patients with HCC, however, their impact on tumor control seems to be rather weak. Various different immunosuppressive mechanisms seem to contribute to the failure of tumor-specific T-cell responses. Thus, the aim of immunotherapeutic strategies is to address these mechanisms of T-cell failure and to induce new or to boost existing antitumoral immune responses.
+

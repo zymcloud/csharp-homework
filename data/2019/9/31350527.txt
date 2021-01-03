@@ -1,0 +1,4 @@
+31350527
+2019 Sep
+The original version of this article contained an error in Figure 6A. The volumes of the tumour xenografts were incorrectly calculated. The correct figure and figure legend are provided, where the volume has been calculated using V = length × width2×π/6. The interpretation of the data and conclusions are not affected.
+

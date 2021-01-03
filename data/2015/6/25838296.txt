@@ -1,0 +1,4 @@
+25838296
+2015 Jun
+Despite the therapeutic potential of sphingolipids, the ability to develop this class of compounds as active pharmaceutical ingredients has been hampered by issues of solubility and delivery. Beyond these technical hurdles, significant challenges in completing the necessary preclinical studies to support regulatory review are necessary for commercialization. This review seeks to identify the obstacles and potential solutions in the translation of a novel liposomal technology from the academic bench to investigational new drug (IND) stage by discussing the preclinical development of the Ceramide NanoLiposome (CNL), which is currently being developed as an anticancer drug for the initial indication of hepatocellular carcinoma (HCC).
+

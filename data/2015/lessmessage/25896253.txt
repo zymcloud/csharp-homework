@@ -1,0 +1,4 @@
+25896253
+2015
+Background:Hepatocellular carcinoma (HCC) is one of the most lethal malignancies worldwide. A major cause for the failure of cancer therapy is the development of chemoresistance. Although progress has been made in the study of the mechanisms underlying cancer cells resistance, little is known about the role of microRNAs (miRNAs) in cancer therapy resistance.Methods and results:Fifteen miRNAs, including 6 up-regulated miRNAs (> 2.0-fold) and 9 down-regulated miRNAs (Conclusion:Our study showed that miR-141 plays a key role in 5-FU resistance by down-regulating Keap1 expression, thereby reactivating the Nrf2-dependent antioxidant pathway, which may serve as a potential target for overcoming 5-FU resistance in hepatocellular carcinoma cells.
+

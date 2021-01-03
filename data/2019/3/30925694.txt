@@ -1,0 +1,4 @@
+30925694
+2019 Mar 28
+A MIL series metal‒organic framework (MOF), MIL-100(Fe), was successfully synthesized at the nanoscale and fully characterized by TEM, TGA, XRD, FTIR, DLS, and BET. A toxicological assessment was performed using two different cell lines: human normal liver cells (HL-7702) and hepatocellular carcinoma (HepG2). In vitro cytotoxicity of MIL-100(Fe) was evaluated by the MTT assay, LDH releasing rate assay, DAPI staining, and annexin V/PI double staining assay. The safe dose of MIL-100(Fe) was 80 μg/mL. It exhibited good biocompatibility, low cytotoxicity, and high cell survival rate (HL-7702 cells' viability >85.97%, HepG2 cells' viability >91.20%). Therefore, MIL-100(Fe) has a potential application as a drug carrier.
+HL-7702 cells; HepG2 cells; MIL-100(Fe); in vitro toxicity.

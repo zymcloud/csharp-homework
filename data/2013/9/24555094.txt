@@ -1,0 +1,4 @@
+24555094
+2013 Sep 24
+MicroRNAs have been found to play a profound role in embryonic and post-natal development through their regulation of processes such as cell proliferation, differentiation, and morphogenesis. The microRNA-30 (miR-30) family is necessary for vertebrate hepatobiliary development; however, the mechanism through which miR-30 regulates these processes is not fully understood. Here, we identify genes directly regulated by miR-30 that have been characterized as key developmental factors. The targets were confirmed via a luciferase reporter assay, following exogenous over-expression of miR-30a and miR-30c2 in cultured cells. Five novel miR-30ac2 targets were identified using this approach, all of which play crucial roles in hepatobiliary development or are involved in hepatocellular carcinoma and cholangiocarcinoma.
+

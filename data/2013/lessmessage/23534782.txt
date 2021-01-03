@@ -1,0 +1,4 @@
+23534782
+2013
+Rhomboids were identified as the first intramembrane serine proteases about 10 years ago. Since then, the study of the rhomboid protease family has blossomed. Rhomboid domain containing 1 (RHBDD1), highly- expressed in human testis, contains a rhomboid domain with unknown function. In the present study, we tested the hypothesis that RHBDD1 was associated with proliferation and apoptosis in hepatocellular carcinoma using recombinant lentivirus-mediated silencing of RHBDD1 in HepG2 cells. Our results showed that down-regulation of RHBDD1 mRNA levels markedly suppressed proliferation and colony formation capacity of HepG2 human hepatoma cancer cells in vitro, and induced cell cycle arrest. We also found that RHBDD1 silencing could obviously trigger HepG2 cell apoptosis. In summary, it was demonstrated that RHBDD1 might be a positive regulator for proliferative and apoptotic characteristics of hepatocellular carcinoma.
+

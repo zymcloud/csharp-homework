@@ -1,0 +1,4 @@
+32664401
+2020 Jul 10
+Currently, the treatment of hepatitis B virus (HBV)-associated hepatocellular carcinoma (HCC) [HBV-HCC] relies on blunt tools that are unable to offer effective therapy for later stage pathogenesis. The potential of miRNA to treat HBV-HCC offer a more targeted approach to managing this lethal carcinoma; however, the complexity of miRNA as an ancillary regulator of the immune system remains poorly understood. This review examines the overlapping roles of HBx-dysregulated miRNA in HBV-HCC and immune pathways and seeks to demonstrate that specific miRNA response in immune cells is not independent of their expression in hepatocytes. This interplay between the two pathways may provide us with the possibility of using candidate miRNA to manipulate this interaction as a potential therapeutic option.
+HBx protein; dysregulated; hepatitis B virus; hepatocellular carcinoma; microRNA.

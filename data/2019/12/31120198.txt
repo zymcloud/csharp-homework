@@ -1,0 +1,4 @@
+31120198
+2019 Dec
+Hepatocellular carcinoma (HCC) is a common human malignancy. Physcion is a naturally occurring anthraquinone derivative found in plant and marine sources. Our previous studies have indicated that physcion could suppress tumor growth and induce apoptosis in HCC. This study was aimed to investigate the effect of a combination of physcion and sorafenib on HCC. Our findings indicated that physcion could significantly augment the antiproliferative and proapoptotic activities of sorafenib in vitro and in vivo. Mechanistically, the synergistic effect correlates with physcion-induced suppression of Notch3/AKT signaling. This preclinical evidence highlights the potential application of physcion in the treatment of HCC. Anat Rec, 302:2171-2177, 2019. © 2019 American Association for Anatomy.
+Notch3; hepatocellular carcinoma; physcion; sorafenib; synergistic.

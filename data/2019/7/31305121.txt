@@ -1,0 +1,4 @@
+31305121
+2019 Jul 12
+NF-kB activating protein (NKAP) is a highly conserved protein involved in transcriptional repression, immune cell development, maturation, T cell acquisition of functional competency and maintenance of hematopoiesis. Here we first explore the function of NKAP in hepatocellular carcinoma (HCC). We found that NKAP was highly expressed in HCC tissues and associated with a poor patient survival. CCK8 assay showed that NKAP knockdown significantly decreased cell viability of HuH7 and Hep3B HCC cell lines. Cell invasion, tested by transwell assays, was significantly inhibited by NKAP knockdown in HuH7 and Hep3B cells (P
+

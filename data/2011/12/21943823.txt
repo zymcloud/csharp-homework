@@ -1,0 +1,4 @@
+21943823
+2011 Dec 22
+In the present study, we sought to identify novel suppressor genes of hepatocellular carcinoma (HCC) using our newly designed triple-combination array. Using this method, the bleomycin hydrolase gene (BLMH) was detected as a candidate suppressor gene. We found that 28 of 48 (58.3%) tumor tissues showed BLMH promoter hypermethylation, and its expression level was significantly reduced in tumor tissues (P=0.001). The present study suggests that our new method can detect novel genes of interest and that BLMH is a suppressor gene in HCC.
+

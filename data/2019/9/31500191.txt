@@ -1,0 +1,4 @@
+31500191
+2019 Sep 6
+Numerous reports have shown that conjugated benzimidazole derivatives possess various kinds of biological activities, including anticancer properties. In this report, we designed and synthesized 24 new molecules comprising a benzimidazole ring, arene, and alkyl chain-bearing cyclic moieties. The results showed that the N-substituted benzimidazole derivatives bearing an alkyl chain and a nitrogen-containing 5- or 6-membered ring enhanced the cytotoxic effects on human breast adenocarcinoma (MCF-7) and human ovarian carcinoma (OVCAR-3) cell lines. Among the 24 synthesized compounds, (2E)-1-(1-(3-morpholinopropyl)-1H-benzimidazol-2 -yl)-3-phenyl-2-propen-1-one) (23a) reduced the proliferation of MCF-7 and OVCAR-3 cell lines demonstrating superior outcomes to those of cisplatin.
+anticancer activity; benzimidazole; chalcone; human breast adenocarcinoma; human liver carcinoma; human lung carcinoma; human ovarian carcinoma.

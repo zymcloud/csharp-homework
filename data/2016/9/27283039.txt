@@ -1,0 +1,4 @@
+27283039
+2016 Sep
+The goal of the work described here was to evaluate the diagnostic efficacy of 2-D shear wave elastography (2-D SWE) in differentiating malignancy from benign focal liver lesions (FLLs). The maxima, minima, means and the standard deviations of 2-D SWE measurements, expressed in kilopascals (Emax, Emin, Emean, ESD), were obtained for 221 patients with 229 FLLs. Receiver operating characteristic curve analysis was performed to evaluate the diagnostic performance of 2-D SWE. The Mann-Whitney U-test was used to assess inter-group differences. Emax, Emin, Emean and ESD were significantly higher in the 164 malignant lesions than in the 65 benign lesions (p
+Focal liver lesion; Malignancy; Shear wave elastography; Stiffness; Ultrasound.

@@ -1,0 +1,4 @@
+28750770
+2017 Sep
+Early diagnosis of hepatocellular carcinoma (HCC) can significantly improve the overall survival of HCC patients. However, current diagnostic markers are compromised and limited by their low sensitivity and specificity. In this work, circulating microRNAs (miRs) were utilized as a diagnostic tool to test their efficiency to segregate HCC and hepatitis C virus (HCV)-infected patients from healthy subjects. Nine HCC-related miRs (miR-21, miR-30c, miR-93, miR-122, miR-125b, miR-126, miR-130a, miR-193b and miR-222) were analyzed by Real-Time PCR in 86 serum samples; 34 HCC and 52 HCV patients in addition to 25 healthy subjects. The sensitivity and specificity of these miRs were assessed. Our results demonstrated that the median serum level of seven miRs was significantly reduced (P ranges from
+HCC; HCV; MicroRNAs; Sensitivity and specificity; Serum biomarkers.

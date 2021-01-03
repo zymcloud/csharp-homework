@@ -1,0 +1,4 @@
+29804369
+2018 Jan 20
+Mammalian target of rapamycin (mTOR) is a serine/threonine protein kinase in the downstream of the phosphatidylinositol 3-kinases (PI3K) family. This kinase plays an important role in the development and progression of hepatocellular carcinoma (HCC). Preclinical data demonstrate that 40%-50% of HCC patients have dysregulated expression of the effectors of the mTOR signaling pathway, and the activation of the mTOR pathway is associated with poorly differentiated tumors, early tumor recurrence, and poor survival/prognosis. This article reviews the research advances in the potential role of the mTOR signaling pathway and its inhibitors in the treatment of HCC.
+Carcinoma, hepatocellular; mTOR; mTOR inhibitors; mTOR signaling pathway.

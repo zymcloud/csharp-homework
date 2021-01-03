@@ -1,0 +1,4 @@
+21415015
+2011 Oct
+In high-throughput -omics studies, markers identified from analysis of single data sets often suffer from a lack of reproducibility because of sample limitation. A cost-effective remedy is to pool data from multiple comparable studies and conduct integrative analysis. Integrative analysis of multiple -omics data sets is challenging because of the high dimensionality of data and heterogeneity among studies. In this article, for marker selection in integrative analysis of data from multiple heterogeneous studies, we propose a 2-norm group bridge penalization approach. This approach can effectively identify markers with consistent effects across multiple studies and accommodate the heterogeneity among studies. We propose an efficient computational algorithm and establish the asymptotic consistency property. Simulations and applications in cancer profiling studies show satisfactory performance of the proposed approach.
+

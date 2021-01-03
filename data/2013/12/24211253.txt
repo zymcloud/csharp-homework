@@ -1,0 +1,4 @@
+24211253
+2013 Dec 11
+Mitogen-activated protein kinase kinase 1 (MAP2K1/MEK1) as well as Yes-associated protein (YAP), the downstream effector of Hippo signaling pathway, is linked to hepatocarcinogenesis. However, little is known about whether and how MEK1 interacts with YAP. In this study, we find that MEK1-YAP interaction is critical for liver cancer cell proliferation and maintenance of transformed phenotypes both in vitro and in vivo. Moreover, MEK1 and YAP proteins are closely correlated in human liver cancer samples. Mechanistically, inhibition of MEK1 by both PD98059 and U0126 as well as RNAi reduces beta-transducin repeat containing E3 ubiquitin protein ligase (BTRC), which acts as a potential endogenous YAP protector.
+3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide; BTRC; Cell signaling; ERK1/2; HCC; Hippo pathway; IF; IHC; MTT; TMA; hepatocellular carcinoma; immunofluorescence; immunohistochemistry; tissue microarray analysis.

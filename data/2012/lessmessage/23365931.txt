@@ -1,0 +1,4 @@
+23365931
+2012
+This paper deals about high intensity ultrasound interstitial therapy simulation. The simulated phased array ultrasound probe allows a dynamic electronic focusing of the therapeutic beam. In order to maximize the power deposit at the focal point we propose a method which allows to optimally defining the phase shift of the electrical control signal for each individual element.
+

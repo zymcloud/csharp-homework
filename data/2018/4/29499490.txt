@@ -1,0 +1,4 @@
+29499490
+2018 Apr 10
+A series of α-santonin-derived compounds as potentially anti-hepatoma agents were designed and synthesized in an effort to find novel therapeutic agents. Among them, derivative 5h was more potent than the positive control 5-fluorouracil (5-Fu) on HepG-2, QGY-7703 and SMMC-7721 with IC50 values of 7.51, 3.06 and 4.08 μM, respectively. The structure-activity relationships (SARs) of these derivatives were discussed. In addition, flow cytometry and western blot assay revealed that the derivatives induced hepatoma cells apoptosis by facilitating apoptosis-related proteins expressions. Our findings suggested that these α-santonin-derived analogues hold promise as chemotherapeutic agents for the treatment of human hepatocellular cancer.
+Anti-hepatoma; Apoptotic; Structure-activity relationships; α-Methylene-γ-lactone; α-Santonin-derived analogues.

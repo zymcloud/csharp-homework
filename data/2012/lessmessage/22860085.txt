@@ -1,0 +1,4 @@
+22860085
+2012
+CDK5 regulatory subunit associated protein 3 (CDK5RAP3) is a novel activator of PAK4 and processes important pro-metastatic function in hepatocarcinogenesis. However, it remains unclear if there are other mechanisms by which CDK5RAP3 promotes HCC metastasis. Here, we showed that in CDK5RAP3 stable knockdown SMMC-7721 HCC cells, p14(ARF) tumor suppressor was upregulated at protein and mRNA levels, and ectopic expression of CDK5RAP3 was found to repress the transcription of p14(ARF). Using chromatin immunoprecipitation assay, we demonstrated that CDK5RAP3 bound to p14(ARF) promoter in vivo. Furthermore, knockdown of p14(ARF) in CDK5RAP3 stable knockdown HCC cells reversed the suppression of HCC cell invasiveness mediated by knockdown of CDK5RAP3. Taken together, our findings provide the new evidence that overexpression of CDK5RAP3 promotes HCC metastasis via downregulation of p14(ARF).
+

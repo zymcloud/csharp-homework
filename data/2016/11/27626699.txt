@@ -1,0 +1,4 @@
+27626699
+2016 Nov 15
+Lymphatic vessels function as transport channels for tumor cells to metastasize from the primary site into the lymph nodes. In this experiment we evaluated the effect of Sulfatase-1 (Sulf-1) on metastasis by upregulating it in murine hepatocarcinoma cell line Hca-F with high lymph node metastatic rate of >75%. The study in vitro showed that up regulation of Sulf-1 in Hca-F cells significantly reduced cell proliferation, migration and invasion (p
+hepatocellular carcinoma; lymph node metastasis; mesothelin; migration and invasion; sulfatase-1.

@@ -1,0 +1,4 @@
+21530074
+2011 Aug 28
+The purpose of this study was to assess the properties of CD4+CD25(high/low/negative) T cell subsets and analyze their relation with dendritic cells (DCs) in patients with hepatocellular carcinoma (HCC). In HCC patients, the prevalence of CD45RO+ cells in CD4+CD25(high) T cells was increased and associated with higher frequencies of plasmacytoid DCs. Larger proportions of this T cell subset were detected in the patients with larger tumor burdens. These results suggest that increased frequencies of the CD45RO+ subset in CD4+CD25(high) Tregs in HCC patients may establish the immunosuppressive environment cooperatively with tolerogenic plasmacytoid DCs to promote disease progression of liver cancer.
+

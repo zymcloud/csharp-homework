@@ -1,0 +1,4 @@
+29745730
+2019 May
+Two new sphingofungins G (1) and H (2) with a five-membered lactone ring were identified from the solid-state fermentation of Aspergillus penicilliodes Speg., a dominant microorganism isolated previously from the post-fermentation of ripe Pu-er tea, together with six known metabolites. Their structures were elucidated by extensive spectroscopic methods. All of them were isolated from the mycelia culture of A. penicilliodes for the first time. The known compound, trypacidin, exhibited potent cytotoxities against five human cancer cell lines, e.g. myeloid leukemia HL-60, lung cancer A-549, hepatocellular carcinoma SMMC7721, breast cancer MCF-7, and colon cancer SW480, with IC50 values of 0.55, 11.45, 10.95, 3.58, and 3.49 μM, resp., while cisplatin as the positive control, with IC50 values of 8.63, 24.15, 21.99, 27.29, and 23.61 μM, resp.
+Speg.; cytotoxicity; sphingofungins G and H.

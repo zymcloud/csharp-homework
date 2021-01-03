@@ -1,0 +1,4 @@
+20531292
+2010 Sep
+Hepatocellular carcinoma (HCC) occurs mainly in the liver associated with chronic hepatitis and hepatic cirrhosis as a result of prolonged viral infection. Transforming growth factor-beta (TGF-beta) induces the fibrosis in hepatic cirrhosis, although it is also an inhibitor of hepatocyte proliferation. To understand the role of TGF-beta signaling in HCC progression, we analyzed gene expression in HCC cells in relation to TGF-beta signaling using a two-way clustering algorithm. By the analysis, five HCC cell lines were classified into two groups according to their metastatic capacity. TGF-beta receptor II (TGFBR2) was downregulated in metastatic cells, which did not show a response to TGF-beta. Immunohistochemistry demonstrated clear membrane distribution of TGFBR2 in noncancerous hepatocytes, whereas reduced TGFBR2 expression was observed in 34 of 136 HCCs. In clinical cases, reduced TGFBR2 expression correlated with larger tumor size (P
+

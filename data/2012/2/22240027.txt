@@ -1,0 +1,4 @@
+22240027
+2012 Feb 3
+Hybrid liposomes (HLs), composed of l-α-dimyristoylphosphatidylcholine (DMPC) and polyoxyethylene(23) dodecyl ether, have selectively inhibited the growth of human hepatocellular carcinoma (HCC) cells without affecting normal hepatocytes to trigger apoptosis via caspase-3 activation. Furthermore, HLs distinguished between the HCC and normal cells which had higher and lower membrane fluidities respectively, then fused and accumulated preferentially into the membranes of HCC cells. It is noteworthy that the anti-cancer activity of HLs correlated well with the fluidity of cell membranes for HCC and other cancer cells. These results suggest that HLs could target cancer cell-membranes in relation to their lipid fluidity that provide the possibility of novel nanotherapy for intractable cancer.
+

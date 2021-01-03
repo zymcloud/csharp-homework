@@ -1,0 +1,4 @@
+24848956
+2014 Jun
+Inverse probability weighting is a propensity score-based technique that can be used to compensate for imbalance in study groups. It is an alternative to regression-based adjustment of the outcomes. It has advantages over matching of cases on the basis of propensity scores when there are more than two groups to compare, when finding matches results in insufficient sample sizes, or when the data are censored. However, it can create artificial imbalance unless it is applied carefully. In this article, an introduction to inverse probability weighting is provided by using the Yang et al study published in this issue of Radiology as an example.
+

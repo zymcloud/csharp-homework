@@ -1,0 +1,4 @@
+21763378
+2011 Oct
+Hepatocellular carcinoma (HCC) is a type of hypervascular tumor, and angiogenesis is important for HCC tumor growth. Eph receptor B1 (EPHB1), a member of the Eph family, mediates embryonic vascular system development and adult angiogenesis. This receptor may be involved in carcinogenesis of the digestive tract. Our aim was to examine the relationships between EPHB1 polymorphisms and HCC in the Korean population. Genomic DNA was extracted from 182 patients with HCC and 266 healthy subjects. EPHB1 polymorphisms were determined by polymerase chain reaction and direct sequencing. Multiple logistic regression models (log-additive, dominant, and recessive models) were used for odds ratios, 95% confidence intervals, and p values. Five polymorphisms (rs11929692, rs7644369, rs6776570, rs3821502, and rs6766459) of the EPHB1 gene and alleles of 2 polymorphisms (rs1502174 and rs9877457) were associated with HCC (p
+

@@ -1,0 +1,4 @@
+24222732
+2013 Oct 10
+Objective:In our previous study, we found that some miRNAs were deregulated in hepatocellular carcinoma (HCC), including miR-183. However, the expression of miR-183 in the progression of benign liver diseases to HCC and its correlation with clinicopathologic factors remain undefined.Methods:MiR-183 expression was measured in normal controls (NC) (n = 21), chronic viral hepatitis B or C (CH) tissues (n = 10), liver cirrhosis (LC) tissues (n = 18), HCC tissues (n = 92), and adjacent nontumor tissues (NT) (n = 92) by quantitative real-time reverse-transcription polymerase chain reaction (qRT-PCR).Results:The expression levels of miR-183 were significantly higher in HCC than in NT, LC, CH, and NL (P = 0.001, P Conclusions:The upregulated miR-183 may associate with onset and progression of HCC, but not with the patient survival. A further research is needed to determine the potential of miR-183 as biomarker for HCC.
+

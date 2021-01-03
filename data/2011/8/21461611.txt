@@ -1,0 +1,4 @@
+21461611
+2011 Aug
+The epigenetic dysregulation of tumor suppressor genes plays an important role in many cancers, including hepatocellular carcinoma (HCC). In this study, we identified a new gene, family with sequence similarity 43, member B (FAM43B), based on a previous genome-wide approach. FAM43B was significantly downregulated in 60% (24/40) HCC specimens as compared to non-HCC livers. Enforced FAM43B overexpression could suppress cell growth and colony formation in vitro, and induce cell cycle delay, whereas FAM43B knockdown enhanced cell growth. The expression level of FAM43B was found related to the methylation level of FAM43B promoter in HCC cell lines and HCC specimens. The collective data suggest that the expression of FAM43B was regulated by methylation and the epigenetic silencing of FAM43B could contribute to HCC tumorigenesis by regulating cell proliferation.
+

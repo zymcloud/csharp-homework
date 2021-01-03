@@ -1,0 +1,4 @@
+24419065
+2014 Jan 1
+: This study assesses the incidence of hepatocellular carcinoma (HCC) in a prospective cohort of HIV-infected patients, the majority receiving antiretroviral therapy, with liver cirrhosis from different etiologies, enrolled between 2004 and 2005 with median follow-up of 5 years. We followed 371 patients, 25.6% with decompensated cirrhosis at baseline. The incidence rate of HCC was 6.72 per 1000 person-years [95% confidence interval (CI): 2.6 to 10.9]. There was a trend toward a higher cumulative probability of developing HCC at 6 years of follow-up (considering death and liver transplant as competing risks) in patients with decompensated versus compensated cirrhosis at baseline (6% vs. 2%, P
+

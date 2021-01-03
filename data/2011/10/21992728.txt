@@ -1,0 +1,4 @@
+21992728
+2011 Oct
+Despite recent advances in the understanding of the biologic basis of hepatocellular carcinoma (HCC) development, the clinical management of the disease remains a major challenge. Deregulation of the PI3K/Akt/mTOR pathway, which is a prototypic survival pathway, is increasingly implicated in HCC carcinogenesis. In this article, we detailed the role of this pathway in the pathogenesis of HCC and provide an update on the preclinical and clinical development of various agents targeting this key survival/proliferation pathway, which include various PI3K inhibitors, Akt inhibitors and mTOR inhibitors for HCC. In addition, we highlighted the therapeutic potential of combination strategy for mTOR inhibitors with conventional chemotherapy, in particular, antimicrotubule agents, other molecular targeting agents, as well as radiotherapy.
+

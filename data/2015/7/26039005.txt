@@ -1,0 +1,4 @@
+26039005
+2015 Jul
+Background/aims:To elucidate the role of 18F-fluorodeoxyglucose positron emission tomography/computed tomography (18F-FDG-PET/CT) imaging as an independent prognostic factor in hepatocellular carcinoma (HCC).Materials and methods:A total of 104 patients with newly diagnosed HCC who underwent 18F-FDG-PET/CT imaging from 2009 to 2014 were reviewed retrospectively. The ratio of the maximal tumor standardized uptake value (SUV) to the mean mediastinum SUV (TSUVmax/MSUVmean) was evaluated as the predictive factor.Results:A high TSUVmax/MSUVmean ratio (≥3.1) was significantly associated with tumor burden indices, including α-fetoprotein (pConclusion:A high TSUVmax/MSUVmean ratio on 18F-FDG-PET/CT imaging can serve as an independent prognostic factor in HCC and may predict tumor recurrence after TACE.
+

@@ -1,0 +1,4 @@
+21572247
+2011
+c-Met, a type of receptor tyrosine kinase, may be significantly associated with the progression of hepatocellular carcinoma (HCC). In addition, des-γ-carboxyprothrombin (DCP) has been found to interact with c-Met and activate HCC cell growth. Therefore, the functional inhibition of c-Met expressed on HCC cells should arrest HCC cell growth. The present study found that the c-Met inhibitor SU11274 suppressed HCC cell growth by inhibiting the activation of c-Met. Furthermore, this inhibitor also neutralized the activation of HCC cell growth resulting from the addition of DCP. These results suggest that the functional inhibition of c-Met might be a target for the development of chemotherapeutic agents for HCC, and especially those that are positive for expression of DCP.
+

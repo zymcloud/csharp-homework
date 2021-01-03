@@ -1,0 +1,4 @@
+29350727
+2018 Feb 1
+β(1,4)-Galactosyltransferase (β4Gal-T1) and T. cruzi trans-sialidase (TcTS) have been used in a 'one-pot' cascade to provide vesicles (liposomes) with a trisaccharide coating. These soluble enzymes catalysed the transfer of galactose then sialic acid onto a synthetic N-acetylglucolipid embedded in the bilayers. Clustering of this substrate into microdomains increased the rate of sialylated lipid production, showing that an increase in β4Gal-T1 activity is carried through the enzymatic cascade. These coatings modulated cell recognition. Hepatocellular carcinoma cells took up vesicles modified by β4Gal-T1 alone more extensively than sialylated vesicles produced by 'one-pot' sequential enzymatic modification.
+

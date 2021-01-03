@@ -1,0 +1,4 @@
+29490465
+2018 Nov
+Background During transarterial chemoembolization (TACE), cone-beam computed tomography (CBCT) can be used for tumor and feeding vessel detection as well as postembolization CT imaging. However, there will be additional radiation exposure from CBCT. Purpose To evaluate the additional dose raised through CBCT-assisted guidance in comparison to TACE procedures guided with pulsed digital subtraction angiography (DSA) alone. Material and Methods In 70 of 140 consecutive patients undergoing TACE for liver cancer, CBCT was used to facilitate the TACE. Cumulative dose area product (DAP), cumulative kerma(air), DAP values of DSA, total and cine specific fluoroscopy times (FT) of 1375 DSA runs, and DAP of 91 CBCTs were recorded and analyzed using Spearman's correlation, Mann-Whitney U-test, and Kruskal-Wallis test. P values
+Cone-beam computed tomography; chemoembolization; dose area product; fluoroscopy time; radiation exposure.

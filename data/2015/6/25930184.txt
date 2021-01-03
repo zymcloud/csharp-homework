@@ -1,0 +1,4 @@
+25930184
+2015 Jun
+Hepatocellular carcinoma (HCC) is a refractory malignancy with a high mortality and increasing worldwide incidence rates, including the United States and central Europe. In this study, we demonstrate that a specific inhibitor of signal transducer and activator of transcription 3 (STAT3), NSC74859, efficiently reduces HCC cell proliferation and can be successfully combined with oncolytic virotherapy using vesicular stomatitis virus (VSV). The potential benefits of this combination treatment are strengthened by the ability of NSC74859 to protect primary hepatocytes and nervous system cells against virus-induced cytotoxicity, with an elevation of the VSV maximum tolerated dose in mice. Hereby we propose a strategy for improving the current regimen for HCC treatment and seek to further explore the molecular mechanisms underlying selective oncolytic specificity of VSV.
+

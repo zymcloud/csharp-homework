@@ -1,0 +1,4 @@
+28841977
+2017 Dec 1
+Circulating tumor cells hold the key to predicting the prognosis and discovering the therapeutic targets. Herein, we proposed a strategy to develop an aptamer-immobilized open tubular capillary column by which SMMC-7721 human hepatoma cells (SMMC-7721 cells) could be captured with an over 70% of capture efficiency and a 3.0 ± 0.2 of enrichment factor. Owing to the compatibility of the column, the captured cells by the column could be analyzed by LC-MS from protein level and 5 unique proteins of SMMC-7721 cells were identified which could be used as markers to identify SMMC-7721 cells when Jurkat T-leukemia cells (Jurkat cells) were employed as interfering cells. As the key component, the aptamer-immobilized column had the potential to be integrated into the platform for separating, enriching and characterizing rare cells simultaneously.
+Aptamer; Circulating tumor cells; Open tubular column; Proteome.

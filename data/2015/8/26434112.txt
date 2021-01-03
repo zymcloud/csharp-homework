@@ -1,0 +1,4 @@
+26434112
+2015 Aug
+Anthocephalus cadamba, an important plant in the traditional system of medicine in India, is reported to possess anticancer activity. Guided by bio-assay tests using human colorectal (HCT116) and hepatocellular carcinoma (HepG2) cell lines, it has been shown to contain three active constituents, the triterpenoid saponins 3-O-[α-L-rhamnopyranosyl]-quinovic acid (1) and 3-O-[α-L-rhamnopyranosyl]-quinovic acid 28-O-[β-D-glucopyranosyl] ester (2), and the alkaloid cadambine (3). The structures of the isolated compounds were established using spectroscopic techniques. The isolated compounds demonstrated concentration dependent inhibition of both the cell lines, where compound 3 proved to be the most potent inhibitor of cell line HCT116 (IC50 45 +/- 4 μg/mL) and compound 2 demonstrated maximum inhibitory activity against HepG2 cell line with an IC50 value of 89 +/- 7 μg/mL.
+

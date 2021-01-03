@@ -1,0 +1,4 @@
+23382112
+2013 Mar 15
+The modified Response Evaluation Criteria in Solid Tumors (mRECIST) guideline has introduced specific amendments to standard RECIST to address the unique complexities involved in the evaluation of tumor response in hepatocellular carcinoma. A growing amount of data suggests that mRECIST, designed for response assessment in clinical trials, may translate into a tool for clinical practice.
+

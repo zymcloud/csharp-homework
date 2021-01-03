@@ -1,0 +1,4 @@
+24486181
+2014 Feb 10
+Ubiquitin-like with PHD and RING finger domains 1 (UHRF1) is an essential regulator of DNA methylation that is highly expressed in many cancers. Here, we use transgenic zebrafish, cultured cells, and human tumors to demonstrate that UHRF1 is an oncogene. UHRF1 overexpression in zebrafish hepatocytes destabilizes and delocalizes Dnmt1 and causes DNA hypomethylation and Tp53-mediated senescence. Hepatocellular carcinoma (HCC) emerges when senescence is bypassed. tp53 mutation both alleviates senescence and accelerates tumor onset. Human HCCs recapitulate this paradigm, as UHRF1 overexpression defines a subclass of aggressive HCCs characterized by genomic instability, TP53 mutation, and abrogation of the TP53-mediated senescence program. We propose that UHRF1 overexpression is a mechanism underlying DNA hypomethylation in cancer cells and that senescence is a primary means of restricting tumorigenesis due to epigenetic disruption.
+

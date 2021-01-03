@@ -1,0 +1,4 @@
+25816040
+2015 Mar
+This article compares the clinical characteristics and prognosis of young patients in different age groups with liver cancer (LC). In this retrospective study, we searched the Surveillance, Epidemiology, and End Results population-based database and identified 2641 patients who had been diagnosed with LC between 1988 and 2005. These patients were categorized into 2 different age ranges: Group 1 (≤35 years) and Group 2 (36-45 years). Five-year cancer-specific survival (CSS) data were obtained. Kaplan-Meier methods and multivariable Cox regression models were used to analyze the long-term survival outcomes and risk factors. There were significant differences between the age groups for stage and tumor size (P
+

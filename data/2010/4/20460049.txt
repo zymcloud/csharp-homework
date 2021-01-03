@@ -1,0 +1,4 @@
+20460049
+2010 Apr
+Objective:To compare the sensitivity of different hepatocellular carcinoma (HCC) cell lines (HepG2, QGY7701, HepG2.2.15) and the normal liver cell line L02 to 5-aza-dC, an DNA methyltransferase inhibitor, and to explore the relationship between global DNA methylation level and the sensitivity to 5-aza-dC.Methods:HepG2, QGY7701, HepG2.2.15 and L02 cells were treated with 5-aza-dC at different concentration, cell proliferation was measured by MTT method, cell apoptosis was detected by measuring caspase 3 activity and cellular DNA fragmentation ELISA.Results:Compared to HepG2 and QGY7701 cells, HepG2.2.15 were less sensitive to the treatment of 5-aza-dC; the normal liver cell line L02 was less sensitive to 5-aza-dC than the HCC cell lines.Conclusions:The sensitivity to 5-aza-dC of HCC cell lines and normal liver cells is not correlated with the global DNA methylation level.
+

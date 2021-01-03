@@ -1,0 +1,4 @@
+29995323
+2018 Dec
+This population-based study examined the natural course of hepatitis B e antigen (HBeAg)-positive or HBeAg-negative persistent hepatitis B virus (HBV) infection, adjusted by age and liver disease states using a Markov model. Using 12 417 person-years data (n = 862), annual transition probabilities were estimated, and age-adjusted cumulative incidence and natural history of persistent HBV infection were simulated in both sexes of groups 1 (HBeAg-negative status with HBV DNA level
+Markov model; cumulative incidence; hepatitis B e antigen; persistent Hepatitis B virus infection; transition probability.

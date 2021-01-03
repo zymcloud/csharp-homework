@@ -1,0 +1,4 @@
+25365256
+2014 Nov 3
+Recent genome-wide association studies (GWAS) have identified eleven leukocyte telomere length (LTL)-related single nucleotide polymorphisms (SNPs). Since LTL has been associated with risk of many malignancies, LTL-related SNPs may contribute to cancer susceptibility. To test this hypothesis in hepatitis B virus (HBV)-related hepatocellular carcinoma (HCC), we genotyped these eleven LTL-related SNPs in a case-control set including 1186 HBV-related HCC cases, 508 chronic HBV carriers and 1308 healthy controls at the discovery stage. The associations of HCC risk with these SNPs were further confirmed in an independent case-control set. We found that 1p34.2 rs621559 and 14q21 rs398652 were significantly associated with HBV-related HCC risk (both P
+

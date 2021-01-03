@@ -1,0 +1,4 @@
+31472741
+2019 Oct
+Response to transarterial chemoembolization (TACE) in patients with liver cancer is commonly assessed on MRI or CT to quantify tumor necrosis and morphologic changes that occur gradually. However, the efficacy of embolotherapies remains limited because of local recurrence, as treated tumors demonstrate individual molecular characteristics that alter susceptibility and response to embolotherapies. Upregulation of cancer cell glycolysis can be detected by fluorine-18-fluorodeoxyglucose PET. Therefore, the combination of functional (PET) with commonly used cross-sectional imaging techniques (MRI, CT) can help characterize and monitor liver tumors with the potential to improve TACE toward becoming a more personalized and tumor microenvironment-directed therapy.
+(18)F-FDG; HCC; ICC; Locoregional therapy; NET; PET; TACE; mCRC.

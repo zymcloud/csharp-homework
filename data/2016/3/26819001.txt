@@ -1,0 +1,4 @@
+26819001
+2016 Mar 1
+The phosphoinositide 3-kinase (PI3K)/protein kinase B (AKT)/mammalian target of rapamycin (mTOR) signaling pathway is related to cellular activities. Abnormalities of this signaling pathway were discovered in various cancers, including hepatocellular carcinoma (HCC). The PI3K/mTOR dual inhibitors were proposed to have enhanced antitumor efficacies by targeting multiple points of the signaling pathway. We synthesized a series of propynyl-substituted benzenesulfonamide derivatives as PI3K/mTOR dual inhibitors. Compound 7k (NSC781406) was identified as a highly potent dual inhibitor, which exhibited potent tumor growth inhibition in the hepatocellular carcinoma BEL-7404 xenograft model. Compound 7k may be a potential therapeutic drug candidate for HCC.
+Antitumor; Benzenesulfonamide derivatives; Dual inhibitors; Hepatocellular carcinoma; Mammalian target of rapamycin (mTOR); Phosphoinositide 3-kinase (PI3K).

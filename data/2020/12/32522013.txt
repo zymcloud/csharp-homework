@@ -1,0 +1,4 @@
+32522013
+2020 Dec
+This study investigated the role of lncRNA CTBP1-AS2 in hepatocellular carcinoma (HCC). The authors found that CTBP1-AS2 was upregulated in HCC by analyzing TCGA dataset. The downregulation of CTBP1-AS2 in HCC was confirmed by measuring the expression level of CTBP1-AS2 in both HCC and nontumor tissues from HCC patients. MiR-623 is predicted to target CTBP1-AS2, while it failed to downregulate its expression. Interestingly, CTBP1-AS2 overexpression led to the upregulation of cyclin D1, a target of miR-623. CCK-8 analysis showed that CTBP1-AS2 and cyclin D1 overexpression promoted the proliferation of HCC cells. MiR-623 overexpression played an opposite role and reduced the effects of CTBP1-AS2 and cyclin D1 overexpression. Therefore, CTBP1-AS2 promotes cell proliferation in HCC by regulating the miR-623/cyclin D1 axis.
+CTBP1-AS2; cyclin D1; hepatocellular carcinoma; miR-623.

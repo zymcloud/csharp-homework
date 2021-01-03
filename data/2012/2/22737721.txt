@@ -1,0 +1,4 @@
+22737721
+2012 Feb
+Objective:To investigate the effect of NSC348884, a nucleophosmin small molecular inhibitor, on the growth of hepatocellular carcinoma cell line HepG2 and its underlying mechanism.Methods:After HepG2 cells were treated by NSC348884 for 4 days, the effect of HepG2 cells on proliferation was measured by methyl thiazolyl tetrazolium (MTT) assay, the expression variation of nucleophosmin oligomer and monomer was measured using Western blotting, and cell apoptotic rate was detected by flow cytometry.Results:The proliferation of HepG2 cells was remarkably inhibited by NSC348884 treatment when the drug concentration ranged from 1 micromol/L to 10 micromol/L (P Conclusion:NSC348884 can promote the transformation of nucleophosmin oligomer to monomer and thus inhibit the growth of hepatic carcinoma cell line HepG2 in vitro.
+

@@ -1,0 +1,4 @@
+21160950
+2010 Jan 27
+Studying physiological and pathophysiological mechanisms in the liver on a molecular basis is a challenging task. During two dimensional (2D) culture conditions hepatocytes dedifferentiate rapidly by losing metabolic functions and structural integrity. Hence, inappropriate 2D hepatocellular models hamper studies on the xenobiotic metabolism of the liver which strongly influences drug potency. Also, the lack of effective therapies against hepatocellular carcinoma shows the urgent need for robust models to investigate liver functions in a defined hepatic microenvironment. Here, we summarize and discuss three-dimensional cultures of hepatocytes, herein referred to as hepatospheres, which provide versatile tools to investigate hepatic metabolism, stemness and cancer development.
+3D culture; Hepatocyte; Hepatosphere; Microenvironment; Tissue engineering.

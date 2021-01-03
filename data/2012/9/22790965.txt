@@ -1,0 +1,4 @@
+22790965
+2012 Sep
+Interleukin (IL)-24, a promising therapeutic gene, has been widely used for Cancer Targeting Gene-Viro-Therapy (CTGVT). In this study, IL-24 was inserted into an oncolytic adenovirus in which the E1A gene is driven by an enhanced, short α-fetoprotein (AFP) promoter and the E1B gene is completely deleted to form Ad.enAFP-E1A-ΔE1B-IL-24. This construct has a potent antitumor effect on liver cancer cell lines in vitro, but little or no effect on normal cell lines, such as L-02 and QSG-7701. In vivo, the complete elimination of Huh-7 liver cancer in nude mice with Ad.enAFP-E1A-ΔE1B-IL-24 intratumor injection was observed. The design of Ad.enAFP-E1A-ΔE1B-IL-24 and its potent antitumor effect on liver cancer have not been published previously. The mechanism of the potent antitumor effect of Ad.enAFP-E1A-ΔE1B-IL-24 is due to the upregulation of GADD34 and intrinsic and extrinsic apoptotic signaling.
+

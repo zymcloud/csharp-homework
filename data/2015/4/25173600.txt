@@ -1,0 +1,4 @@
+25173600
+2015 Apr
+Background:The purpose of this study was to analyze the influence of age on both the risk of hepatectomy and the prognosis in patients with hepatocellular carcinoma (HCC).Methods:Patients undergoing an initial hepatectomy for HCC were classified into 2 age groups: 75 years or over (n = 113) and less than 75 years (n = 499).Results:A zero 90-day mortality was achieved in the elderly. Although the recurrence rate and recurrence sites were almost similar between the 2 groups, the 5-year survival rate in the elderly patients was significantly lower than that in the younger patients (46.0% vs 57.6%; P = .018), possibly because of the higher incidence of deaths from other causes (26.8% vs 10.4%; P = .011) in the elderly.Conclusion:Selected elderly HCC patients can undergo a hepatectomy safely and can benefit from long-term HCC control comparable with that of their younger counterparts.
+Advanced age; Comorbidity; Hepatocellular carcinomas.

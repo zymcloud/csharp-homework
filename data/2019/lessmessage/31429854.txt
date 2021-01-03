@@ -1,0 +1,4 @@
+31429854
+Apr-Jun 2019
+IPS-1 and RIP1 are the main downstream molecules of RIG1 and MDA5, as intracytoplasmic receptors, which are the main receptors involved in recognition of internal and external viral double-stranded RNA. In this project, mRNA levels of IPS-1 and RIP1 were investigated in the peripheral blood immune cells of chronic hepatitis B (CHB) patients. IPS-1 and RIP1 mRNA levels were measured in 60 CHB patients and 120 healthy subjects, using RT-qPCR technique. A significant increase in expression levels of IPS-1 and RIP1 was found in patients when compared to healthy individuals. There was no correlation between IPS-1 and RIP1expression levels with the serum levels of hepatitis B e-Antigen (HBeAg) and liver enzymes in patients. Based on the results, it seems that IPS-1 and RIP1 can participate in the induction of low chronic inflammation, which is a main cause of liver cirrhosis and hepatocellular carcinoma.
+

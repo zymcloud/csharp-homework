@@ -1,0 +1,4 @@
+22871485
+2012 Sep
+Previously, we demonstrated that the multiple kinase inhibitor sorafenib mediates the repression of phospho-STAT3 in hepatocellular carcinoma cells. In this study, we used this kinase-independent mechanism as a molecular basis to use sorafenib as scaffold to develop a novel class of SHP-1-activating agents. The proof of principle of this premise was provided by SC-1, which on replacement of N-methylpicolinamide by a phenylcyano group showed abolished kinase activity while retaining phospho-STAT3 repressive activity. Structural optimization of SC-1 led to compound 6, which repressed phospho-STAT3 through SHP-1 activation and inhibited PLC5 cell proliferation at sub-micromolar potency. In light of the pivotal role of phospho-STAT3 in promoting tumorigenesis and drug resistance, this novel SHP-1-activating agent may have therapeutic relevance in cancer therapy.
+

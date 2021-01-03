@@ -1,0 +1,4 @@
+30259143
+2018 Dec
+In this article, a clone of HepG2 stably expressing CD81 (HepG2-CD81) was used. Unfortunately, after cell line authentication.
+

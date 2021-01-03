@@ -1,0 +1,4 @@
+24952890
+2014 Sep
+Some publications have evaluated the correlation between KIF1B rs17401966 polymorphism and hepatocellular carcinoma (HCC) with conflicting results. We performed this meta-analysis to clarify the association of KIF1B rs17401966 polymorphism and HCC risk. We searched PubMed, ISI Web of Knowledge, ScienceDirect, and Google Scholar. The combined odds ratio (OR) with 95 % confidence interval (CI) was calculated to estimate the strength of the association. Heterogeneity and publication bias were also assessed. In total, 15 case-control studies with 7,596 HCC cases and 9,614 controls were included in the meta-analysis. A significant association between KIF1B rs17401966 polymorphism and HCC risk was detected (OR = 0.81, 95 % CI 0.72-0.91, P
+

@@ -1,0 +1,4 @@
+25704087
+2015 Mar 20
+In this study, we investigated cellular uptake and metabolism of phosphatidylcholine hydroperoxide (PCOOH) in human hepatoma HepG2 cells by high performance liquid chromatography-tandem mass spectrometry, and then evaluated whether PCOOH or its metabolites cause pathophysiological effects such as cytotoxicity and apoptosis. Although we found that most PCOOH was reduced to PC hydroxide in HepG2 cells, the remaining PCOOH caused cytotoxic effects that may be mediated through an unusual apoptosis pathway. These results will enhance our fundamental understanding of how PCOOH, which is present in oxidized low density lipoproteins, is involved in the development of atherosclerosis.
+Atherosclerosis; Cytotoxic effects; Human hepatoma HepG2 cells; Metabolism; Phosphatidylcholine hydroperoxide; Unusual apoptosis.

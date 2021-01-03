@@ -1,0 +1,4 @@
+27364469
+2016 Dec 15
+The liver and pancreas are critical organs maintaining whole body metabolism. Historically, the expansion of adult-derived cells from these organs in vitro has proven challenging and this in turn has hampered studies of liver and pancreas stem cell biology, as well as being a roadblock to disease modelling and cell replacement therapies for pathologies in these organs. Recently, defined culture conditions have been described which allow the in vitro culture and manipulation of adult-derived liver and pancreatic material. Here we review these systems and assess their physiological relevance, as well as their potential utility in biomedicine.
+3D cultures; Liver; Niche signals; Organoid; Pancreas; Stem cell.

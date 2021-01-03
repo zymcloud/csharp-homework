@@ -1,0 +1,4 @@
+25997960
+2015
+Hepatocellular carcinoma (HCC) is a particularly lethal form of cancer. Overall survival evenafter liver surgery is unsatisfactory due to high metastatic capacity and recurrence rates. Cancer stem cells (CSCs) were recently proposed to elucidate the molecular mechanism of HCC metastasis and recurrence. In our study, we found that down-regulation of miR-205 promoted stem cell inhibition of HCC.Expression of miR-205 and PLCβ1 was investigated by qRT-PCR. MiR-205 and PLCΒ1 expression were associated with disease free survival(DFS) by log-rank test. Computational predicting software was used to predict potential targets of miR-205. MiR-205 and PLCΒ1 were transfected into cells to analyze the stem cell inhibition. MiR-205 was significantly down-regulated and PLCβ1 dramatically up-regulated in tumors compared with matched tissues (P
+HCC; PLCΒ1; miR-205; stem cell inhibition..

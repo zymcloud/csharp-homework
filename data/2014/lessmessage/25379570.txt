@@ -1,0 +1,4 @@
+25379570
+2014
+The use of fluorescent markers has proven to be an attractive tool in biological imaging. However, its usefulness may be confined by the cytotoxicity of the fluorescent proteins. In this article, for the first time, we have examined an influence of the antibiotics present in culture medium on cytotoxicity of the EGFP and DsRed2 markers used for whole-cell labeling. Results showed that doxycycline negatively affected albumin synthesis in DsRed2-expressing hepatoma cells, and that both hepatoma cells and human skin fibroblasts, labeled with this protein, were characterized by the lowered growth rates. Thus, the cytotoxic effect of fluorescent markers depends on both protein used for cell labeling and on growth conditions that may cause cell stress.
+

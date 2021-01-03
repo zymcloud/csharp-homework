@@ -1,0 +1,4 @@
+24491054
+2014 Feb
+Objective:To investigate the effects of rosiglitazone (ROZ) on proliferation and cell cycle of human hepatocellular carcinoma cell line HepG2 and explore the underlying mechanisms by detecting the related proteins.Methods:After treated with ROZ of different concentrations, HepG2 cells were tested for the changes in the cell proliferation by MTT assay and in the cell cycle by flow cytometry. Western blotting and RT-PCR were performed to measure the expressions of PTEN, pAkt, S phase kinase associated protein 2 (Skp2) and P27(kip1); at protein and mRNA levels, respectively. RESULTS ROZ significantly inhibited HepG2 cell proliferation in a concentration-dependent and time-dependent manner (PConclusion:Our study demonstrated that ROZ could inhibit HepG2 cell proliferation and block G0/G1 phase, the mechanisms may be related to the regulation on the expressions of Skp2 and P27(kip1); through the PI3K/PTEN/Akt signaling pathway.
+

@@ -1,0 +1,4 @@
+26564263
+2015 Dec 15
+Eight chalcone analogues were prepared and evaluated for their cytotoxic effects in human hepatoma HepG2 cells. Compound 5 had a potent cytotoxic effect. The percentage of apoptotic cells was significantly higher in compound 5-treated cells than in control cells. Exposure to compound 5 for 24h induced cleavage of caspase-8 and -3, and poly (ADP-ribose) polymerase (PARP). Our findings suggest that compound 5 is the active chalcone analogue that contributes to cell death in HepG2 cells via the extrinsic apoptotic pathway.
+Anticancer; Apoptosis; Chalcone; HepG2.

@@ -1,0 +1,4 @@
+25142234
+2014 Dec
+MicroRNAs (miRNAs) function as essential post-transcriptional modulators of gene expression involved in a wide range of physiologic and pathologic states, including cancer. Numerous miRNAs have been deregulated in hepatocellular carcinoma (HCC). Here, we investigated the role of miR-141 in HCC. Decreased expression of miR-141 was observed in both HCC tissues and cell lines. Ectopic overexpression of miR-141 reduced proliferation, migration, and invasion of HCC cells. E2F transcription factor 3 (E2F3) was confirmed to be a target of miR-141 in HCC cells. Moreover, restoration of E2F3 significantly reversed the tumor suppressive effects of miR-141. Our results suggest a critical role of miR-141 in suppressing metastasis of HCC cells by targeting E2F3.
+

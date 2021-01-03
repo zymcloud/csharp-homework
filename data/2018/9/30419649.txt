@@ -1,0 +1,4 @@
+30419649
+2019 Sep
+Background/aims:The influence of hepatic steatosis (HS) on chronic hepatitis B (CHB) is unclear. We evaluated the influence of the degree of HS, assessed using the controlled attenuation parameter (CAP) of transient elastography (TE), on treatment outcomes in CHB patients initiated on antiviral therapy.Methods:A total of 334 patients who were initiated on entecavir or tenofovir between 2007 and 2016 with available TE results were recruited.Results:Of the total study population, 146 (43.7%) patients had HS (CAP > 238 dB/m). Three-hundred-three patients (90.7%) achieved complete virological response (CVR) (hepatitis B virus DNAConclusion:CAP values were not correlated with HCC development in patients initiated on entecavir and tenofovir. However, CAP values were negatively correlated with the probability of HBeAg loss among HBeAg-positive patients and with CVR achievement.
+Antiviral agent; Fatty liver; Hepatitis B, Chronic.

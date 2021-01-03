@@ -1,0 +1,4 @@
+29239146
+2018 Jan
+Oxaliplatin-based systemic chemotherapy has been proposed to have efficacy in hepatocellular carcinoma (HCC). We investigated the combination of vorinostat and oxaliplatin for possible synergism in HCC cells. SMMC7721, BEL7402, and HepG2 cells were treated with vorinostat and oxaliplatin. Cytotoxicity assay, tumorigenicity assay in vitro, cell cycle analysis, apoptosis analysis, western blot analysis, animal model study, immunohistochemistry, and quantitative PCR were performed. We found that vorinostat and oxaliplatin inhibited the proliferation of SMMC7721, BEL7402, and HepG2 cells. The combination index (CI) values were all
+BRCA1; combination; hepatocellular carcinoma; oxaliplatin; vorinostat.

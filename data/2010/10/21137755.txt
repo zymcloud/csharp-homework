@@ -1,0 +1,4 @@
+21137755
+2010 Oct
+By using a novel triplex "hand" coupling reagent, tris-succinimidyl aminotriacetate (TSAT), doxorubicin loading efficiency of BMP can be greatly enhanced in comparison with that of dual functional linkers. The drug loading ratio of doxorubicin-coupled bacterial magnetic nanoparticles produced by this method (DBMP-T) is 62%. DBMP-T disperse well, have a narrow size distribution, exhibit a high magnetic response, is sensitive to pH to facilitate drug release and are strongly cytotoxic to HePG2 and MCF-7 cancer cells.
+

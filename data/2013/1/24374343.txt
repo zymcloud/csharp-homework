@@ -1,0 +1,4 @@
+24374343
+2014 Jan 31
+RhoGDI (Rho GDP-dissociation inhibitor alpha, or RhoGDIα) was identified as a regulator of Rho GTPases, but its role in cancer remains controversial. In this study, increased expression of RhoGDI was detected in hepatocellular carcinoma (HCC) cell lines and tissues with highly metastatic potential. RhoGDI overexpression correlated with postoperative distant metastasis. Enforced expression of RhoGDI in HCC cells significantly enhanced cell proliferation and migration. Conversely, knockdown of RhoGDI caused an inhibition of the aggressive phenotypes of HCC cells. Furthermore, RhoGDI up-regulated Rho, but not Rac, and enhanced PI3K/AKT and MAPK pathway activity. Our findings suggest that RhoGDI overexpression is a predictor of distant metastasis and plays an important role in the progression of HCC.
+Hepatocellular carcinoma; Neoplasm metastasis; Rho GDP-dissociation inhibitor alpha; Signal transduction.

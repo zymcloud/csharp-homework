@@ -1,0 +1,4 @@
+33274624
+2020
+The WHO Classification of Digestive System Tumors (WHO, 5th Edition, 2019) presents new provisions on the morphological, molecular genetic, and therapeutic aspects of hepatocellular carcinoma (HCC). This classification versus the 2010 edition underwent substantial changes. Undifferentiated carcinoma (ICD-0: 8020/3) was excluded. The TNM staging system introduces additional gradations. Based on new evidence, HCC types and subtypes (scirrhous, clear cell, steatohepatic, and others) were identified depending on gene mutations according to ICD-11. The classification changes are of not only important theoretical, but also applied significance. These are valuable for oncologists and pathologists.
+classification; hepatocellular carcinoma; immunohistochemical and molecular genetic markers.

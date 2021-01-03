@@ -1,0 +1,4 @@
+26540343
+2015 Dec 15
+Hepatocellular carcinoma (HCC) is well known as the sixth most common malignant tumor and the third leading cause of cancer-related deaths globally. LINC00152 was documented as an important long non-coding RNA (lncRNA) involved in the pathogenesis of gastric cancer; however, the detailed mechanism of action of LINC00152 remains unknown. Here, based on the increased level of LINC00152 in HCC tissues, we found that LINC00152 could promote cell proliferation in vitro and tumor growth in vivo. Furthermore, microarray-based analysis indicated that LINC00152 could activate the mechanistic target of rapamycin(mTOR) pathway by binding to the promoter of EpCAM through a cis-regulation, as confirmed by Gal4-λN/BoxB reporter system. Thus, LINC00152 might be involved in the oncogenesis of HCC by activating the mTOR signaling pathway and might be a novel index for clinical diagnosis in the future.
+EpCAM; HCC; lncRNA; mTOR; prognosis.

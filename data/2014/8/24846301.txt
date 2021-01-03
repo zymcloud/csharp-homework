@@ -1,0 +1,4 @@
+24846301
+2014 Aug 28
+The present work aimed to investigate the expression and role of aminoacylase 1 (ACY1) in hepatocellular carcinoma (HCC) based on a proteomic study. The study results revealed that the expression of ACY1 was much lower in HCC tissues. ACY1 expression significantly correlated with the serum alpha fetoprotein level and tumor invasiveness. The knockdown of ACY1 in SMMC7721 cells promoted cell viability and invasiveness. In contrast, the restoration of ACY1 in BEL7402 cells inhibited cell viability and invasiveness. Further studies indicated that the knockdown of ACY1 increased the protein expression of transforming growth factor beta 1 and extracellular signal-regulated kinase 1 expression. The study's results indicated that ACY1 acts as a tumor suppressor in HCC.
+Aminoacylase 1; Hepatocellular carcinoma; Proteomic; Tumor suppressor.

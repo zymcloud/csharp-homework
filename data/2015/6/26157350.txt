@@ -1,0 +1,4 @@
+26157350
+2015 Jun 11
+Vasorin (VASN) is a type I transmembrane protein that plays important roles in tumor development and vasculogenesis. In this paper, we showed that VASN could be a key mediator of communication between tumor cells and endothelial cells. We confirmed for the first time that HepG2-derived VASN can be transferred to human umbilical vein endothelial cells (HUVECs) via receptor mediated endocytosis of exosomes, at least in part through HSPGs. The HepG2-derived VASN containing exosomes promote migration of recipient HUVECs cells. Our results identify a novel pathway by which a functional protein expressed in tumor cells affects the biological fate of endothelial cells via exosomes.
+Vasorin; angiogenesis; endocytosis; exosomes; tumor metastasis.

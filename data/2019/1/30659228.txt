@@ -1,0 +1,4 @@
+30659228
+2019 Jan 18
+We report herein on the design, synthesis and biological activity of Ru-based self-assembled supramolecular bowls as a potent anticancer therapeutic in human hepatocellular cancer. The potent complex induces production of reactive oxygen species (ROS) by higher fatty acid β-oxidation and down-regulation of glucose transporter-mediated pyruvate dehydrogenase kinase 1 via reduced hypoxia-inducible factor 1α. Also, overexpressed acetyl-CoA activates the tricarboxylic acid cycle and the electron transport system and induces hypergeneration of ROS. Finally, ROS overexpressed through this pathway leads to apoptosis. Furthermore, we demonstrate that the naphthalene derived molecular bowl activates classical apoptosis via crosstalk between the extrinsic and intrinsic signal pathway. Our work into the mechanism of Ru-based self-assembled supramolecular bowls can provide valuable insight into the potential for use as a promising anticancer agent.
+

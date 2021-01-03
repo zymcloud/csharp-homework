@@ -1,0 +1,4 @@
+23648054
+2013 Jun
+We previously reported that miR-185 is associated with hepatocellular carcinoma (HCC) venous metastasis analysed by miRNA-array profile. The aim of this study is to further investigate the clinicopathological significance and prognostic value of miR-185 in early stage HCC. We classified 95 patients with early stage HCC into treated recurrence group (TR) and none treated recurrence group (NTR), and detected the miR-185 expression levels in TR and NTR groups. We found that low miR-185 expression correlated with more tumor recurrence (37/46), while high miR-185 level led to lower recurrence rate (17/49) (P0.05). Kaplan-Meier analysis showed that low miR-185 group had a remarkable lower survival rate and shorter time to recurrence than high miR-185 group (P
+

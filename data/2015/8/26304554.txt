@@ -1,0 +1,4 @@
+26304554
+2015 Aug
+The development and evaluation of effective therapies and vaccines for the hepatitis C virus (HCV) and the study of its interactions with the mammalian host have been hindered for a long time by the absence of suitable small animal models. Immune compromised mouse models that recapitulate the complete HCV life cycle have been useful to investigate many aspects of the HCV life cycle including antiviral interventions. However, HCV has a high propensity to establish persistence and associated histopathological manifestations such as steatosis, fibrosis, cirrhosis and hepatocellular carcinoma (HCC). Better understanding of these processes requires the development of a permissive and fully immunocompetent small animal model. In this review we summarize the in vivo models that are available for the study of HCV.
+

@@ -1,0 +1,4 @@
+23715503
+2013 Apr
+A series of new 1,3,4-oxadiazole and 1,2,4-triazole derivatives were synthesized. The structures were confirmed by IR, (1)H-NMR, and MS. The compounds were evaluated for their antiproliferative activity against K562 (human erythromyeloblastoid leukemia cell line), MDA-MB-231 (human breast adenocarcinoma cell line), HT29 (human colon adenocarcinoma grade II cell line) and HepG2 (human hepatocellular liver carcinoma cell line) in vitro. The result showed that 7 compounds displayed inhibitory activities against K562 with the inhibition rate more than 50%. Especially, compound 5f exhibited the most potent activity against K562 with 85% inhibition ratio and could be used as lead compound to search new 1,3,4-oxadiazole derivatives as antiproliferative agent.
+

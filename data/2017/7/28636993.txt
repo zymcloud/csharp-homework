@@ -1,0 +1,4 @@
+28636993
+2017 Jul 18
+Hepatocellular carcinoma (HCC) ranks the sixth most common cancer and the third cause of cancer-related mortality worldwide. Recent studies identified that circ-ITCH Suppresses mutiple cancers proliferation via inhibiting the Wnt/beta-Catenin pathway. In current study, conducted a genetic association study together with epidemiological follow-up study to delineate the role of circ-ITCH in the development and progression of HCC. we found rs10485505 (adjusted OR =1.18; 95% CI=1.06-1.31; P value =3.1×10-3) and rs4911154 (adjusted OR =1.27; 95% CI=1.14-1.43; P value =3.7×10-5) were significantly associated with increased HCC risk. The expression level of circ-ITCH was significantly lower in HCC tissues, compared with that in adjacent tissues (P value
+circ-ITCH; hepatocellular carcinoma; survival; susceptibility.

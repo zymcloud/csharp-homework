@@ -1,0 +1,4 @@
+25164689
+2015 Jan
+Protocol immunosuppression in liver transplantation is largely an outdated concept. Immunosuppression is now personalized to the individual patient on the basis of several factors including underlying etiology of original liver disease (e.g., HCV, hepatocellular carcinoma), renal function, metabolic co-morbidities and the patient's immunological state. These include omission of corticosteroids in HCV infection and those with major metabolic risk factors, the minimization of calcineurin inhibitors in the presence of renal dysfunction and the use of mTOR inhibitors in patients with malignancy. The basis for such decision-making is discussed in this editorial.
+hepatitis C; immunosuppression; liver transplantation; rejection; renal failure.

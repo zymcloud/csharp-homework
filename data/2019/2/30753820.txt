@@ -1,0 +1,4 @@
+30753820
+2019 Feb 11
+PUMA is a pro-apoptotic Bcl-2 family protein that can act as a tumor suppressor or oncogene in different cancers. In this issue, Kim et al. show that PUMA, independent of its apoptotic function, enforces glycolytic metabolism by inhibiting the transport of pyruvate into the mitochondria, promoting hepatocellular carcinoma.
+

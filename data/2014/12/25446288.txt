@@ -1,0 +1,4 @@
+25446288
+2014 Dec 1
+In addition to being the most common primary liver cancer, hepatocellular carcinoma (HCC) is the second most common cause of cancer-related death in humans. Treatment options are limited for this chemoresistant cancer, with liver transplantation and surgical intervention in early stages being the most successful treatments. Drug development over the past 15 years has focused on generating mouse models that mimic the human pathology for HCC. This has enabled the laboratory testing of potentially new human therapeutics. Described in this unit are the classification of HCC and an overview of hepatitis virus-related transgenic and genetically engineered mouse models (GEMMs) that are employed for elucidating the mechanism(s) responsible for the development of HCC, with particular emphasis on genetic, dietary, and environmental factors.
+HCC; chronic liver inflammation; liver cancer; modeling human disease; mouse model.

@@ -1,0 +1,4 @@
+32961603
+2020 Sep 22.</span
+We would like to express our gratitude to Dr. Zhang et al. for their comments on our study.(1) Dr. Zhang commented that confounders should be adjusted prior to statistical analysis. However, as we mentioned in the Discussion session, the statin user group in this study was composed of those who were already taking statins (n=227) and new users during follow-up (n=486). For the latter patients, in the analysis of the hepatocellular carcinoma (HCC) incidence rate, the follow-up person-days were classified as untreated until the treatment started.(2) Such a meticulous statistical process using time-dependent variables reduced the immortal time bias but discouraged adjustment using a propensity score matching method prior to the analyses despite significant differences between the baseline characteristics of the statin users and the non-users.
+

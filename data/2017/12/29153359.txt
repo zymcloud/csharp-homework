@@ -1,0 +1,4 @@
+29153359
+2017 Dec
+Multi-detector computed tomography is today the workhorse in the evaluation of the vast majority of patients with known or suspected liver disease. Reasons for that include widespread availability, robustness and repeatability of the technique, time-efficient image acquisitions of large body volumes, high temporal and spatial resolution as well as multiple post-processing capabilities. However, as the technique employs ionizing radiation and intravenous iodine-based contrast media, the associated potential risks have to be taken into account. In this review article, liver protocols in clinical practice are discussed with emphasis on optimisation strategies. Furthermore, recent developments such as perfusion CT and dual-energy CT and their applications are presented.
+Contrast media; Dual-energy CT; Hepatocellular carcinoma; Liver cirrhosis; Neoplasm metastasis; Perfusion imaging.

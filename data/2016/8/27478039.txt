@@ -1,0 +1,4 @@
+27478039
+2016 Aug 8
+Hepatocellular carcinoma (HCC) represents a classic example of inflammation-linked cancer. To characterize the role of the immune system in hepatic injury and tumor development, we comparatively studied the extent of liver disease and hepatocarcinogenesis in immunocompromised versus immunocompetent Fah-deficient mice. Strikingly, chronic liver injury and tumor development were markedly suppressed in alymphoid Fah(-/-) mice despite an overall increased mortality. Mechanistically, we show that CD8(+) T cells and lymphotoxin β are central mediators of HCC formation. Antibody-mediated depletion of CD8(+) T cells as well as pharmacological inhibition of the lymphotoxin-β receptor markedly delays tumor development in mice with chronic liver injury. Thus, our study unveils distinct functions of the immune system, which are required for liver regeneration, survival, and hepatocarcinogenesis.
+

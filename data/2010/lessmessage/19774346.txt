@@ -1,0 +1,4 @@
+19774346
+2010
+hTERT (human telomerase reverse transcriptase) plays a key role in the process of cell immortalization. Overexpression of hTERT has been implicated in 85% of malignant tumors and offers a specific target for cancer therapy. In this paper, we describe an effective approach using a single-chain variable fragment (scFv) intrabody derived from monoclonal hybridoma directed against hTERT to attenuate the immortalization of human uterine cervix and hepatoma cells. The scFv we constructed had a high affinity to hTERT, and specifically neutralized over 70% of telomere synthesis activity, thereby inhibiting the viability and proliferation of the cancer cells. Our results indicate that this anti-hTERT intrabody is a promising tool to target hTERT and intervene in the immortalization process of cancer cells.
+

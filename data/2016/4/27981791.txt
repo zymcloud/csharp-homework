@@ -1,0 +1,4 @@
+27981791
+2017 Apr
+A decision support tool has been developed as part of a suite of on-line evidence-based and consensus-based guidelines Diagnostic imaging Pathways (DIP): www.imagingpathways.health.wa.gov.au) in the form of an algorithmic flow chart with supporting evidence and consensus to inform referrers to diagnostic imaging and radiologists as to the optimum strategy for surveillance and diagnosis of primary hepatocellular cancer (HCC) in those patients with risk factors of this disease. A literature review, including reference to several international consensus-based expert guidelines, has been employed to develop this tool.
+MRI; PET/CT; diagnosis and surveillance; hepatocellular carcinoma; ultrasound.

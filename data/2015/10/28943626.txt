@@ -1,0 +1,4 @@
+28943626
+2015 Oct 28
+Hepatocellular carcinoma (HCC) is a lethal cancer with limited systemic therapeutic options. Liver carcinogenesis is a complex procedure and various pathways have been found to be deregulated which are potential targets for novel treatments. Aberrant signalling through FGF19 and its receptor FGFR4 seems to be the oncogenic driver for a subset of HCCs and is associated with poor prognosis. Inhibition of the pathway in preclinical models has shown antitumour activity and has triggered further evaluation of this strategy to in vivo models. This review aims to describe the role of the FGF19/FGFR4 pathway in hepatocellular carcinoma and its role as a potential predictive biomarker for novel targeted agents against FGF19/FGFR4 signalling.
+FGF19; FGFR4; hepatocellular carcinoma; β-Klotho.

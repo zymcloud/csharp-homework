@@ -1,0 +1,4 @@
+28415780
+2017 May 23
+Long non-coding RNAs (lncRNAs) regulate oncogenesis by inducing methylation of CpG islands to silence target genes. Here we show that the lncRNA PCAT-14 is overexpressed in patients with hepatocellular carcinoma (HCC), and is associated with a poor prognosis after surgery. Our results demonstrate that PCAT-14 promotes proliferation, invasion, and cell cycle arrest in HCC cells. In addition, PCAT-14 inhibits miR-372 expression by inducing methylation of the miR-372 promoter. Simultaneously, miR-372 eliminates the effects of PCAT-14 on proliferation, invasion, and cell cycle in HCC cells. Moreover, PCAT-14 regulates expression of ATAD2 and activation of the Hedgehog pathway via miR-372. These findings indicate that PCAT-14 plays an important role in HCC, and may serve as a novel prognostic factor and therapeutic target.
+HCC; PCAT-14; invasion; miR-372; proliferation.

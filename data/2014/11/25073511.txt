@@ -1,0 +1,4 @@
+25073511
+2014 Nov
+Accumulating evidence shows that microRNAs (miRNAs) are involved in the development and progression of multiple tumors, including hepatocellular carcinoma (HCC). Recent studies have found that miR-24 acts as an oncogene in several tumors; however, the function of miR-24 in HCC remains unclear. In this study, we found that miR-24 was increased in HCC tissues and cell lines. Inhibition of miR-24 by inhibitor significantly suppressed HCC cells proliferation, migration, and invasion. Furthermore, the sex-determining region Y (SRY)-box 7 (SOX7), a putative tumor suppressor, was found to be a target of miR-24 in HCC cells. Forced expression of SOX7 substantially attenuated the oncogenic effects of miR-24. Those results strongly suggest that miR-24 plays important role in HCC development partially by targeting SOX7.
+

@@ -1,0 +1,4 @@
+23239439
+2012 Nov
+The ability to induce apoptosis is an important marker for cytotoxic antitumor agents. Some natural compounds have been shown to modulate apoptosis pathways that are frequently blocked in human cancers, and therefore, these compounds provide novel opportunities for cancer drug development. Phyllanthus, a plant genus of the family Euphorbiaceae, exhibits multiple pharmacological actions. Of these, Phyllanthus niruri extracts exhibit significant antitumor activity, which is consistent with the traditional medicinal use of this plant. To examine the apoptotic effects of a spray-dried extract of P. niruri (SDEPN), human hepatocellular carcinoma cells (HepG2, Huh-7), colorectal carcinoma cells (Ht29) and keratinocytes (HaCaT) were exposed to the extract for 4, 8 and 24 h. Flow cytometry and caspase-3 immunostaining were used to detect apoptosis, while analysis of variance was applied to identify significant differences between groups (P
+

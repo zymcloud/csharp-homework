@@ -1,0 +1,4 @@
+27176768
+2016 Jul
+Diosmetin (Dio) is a major active component of flavonoid compounds. A previous study demonstrated that Dio exhibited anticancer activity and induced apoptosis in HepG2 human hepatoma cells via cytochrome P450, family 1-catalyzed metabolism. The present study observed that cell proliferation of HepG2 cells was inhibited by Dio treatment and tumor protein p53 was significantly increased following Dio treatment. Following addition of recombinant transforming growth factor‑β (TGF‑β) protein to Dio‑treated HepG2 cells, cell growth inhibition and cell apoptosis was partially reversed. These findings suggest a novel function for the TGF‑β/TGF‑β receptor signaling pathway and that it may be a key target of Dio‑induced cell apoptosis in HepG2 cells.
+

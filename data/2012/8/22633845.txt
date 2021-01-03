@@ -1,0 +1,4 @@
+22633845
+2012 Aug
+Ajuga taiwanensis is widely used for the treatment of hepatitis and hepatoma in Taiwanese folk medicine. However, its bioactive components and mechanism of action are unclear. Herein, ajugalide-B (ATMA), a neoclerodane diterpenoid isolated from Ajuga taiwanensis, is reported to exhibit high anti-proliferative activity against tumor cell lines from various tissues. These results demonstrate that ATMA disrupts the focal adhesion complex by decreasing phosphorylation of paxillin and focal adhesion kinase (FAK). As a result, anoikis, a specific type of apoptosis caused by detachment of cells, is triggered by activation of caspase-8 in A549 cells. Furthermore, ATMA also blocks anchorage-independent growth and cell migration and, therefore, ATMA may serve as a lead compound for the developing of anti-cancer therapeuties with anoikis-inducing properties.
+

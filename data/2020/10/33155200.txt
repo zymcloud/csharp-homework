@@ -1,0 +1,4 @@
+33155200
+2020 Oct
+Objective:The aim of this study was to explore the expression level of Wnt1-inducible signaling pathway protein 1 (WISP1) and its clinical significance in hepatocellular carcinoma (HCC).Patients and methods:Quantitative Real Time-Polymerase Chain Reaction (qRT-PCR) was performed to detect the expression level of WISP1 in HCC tissues and cells. Kaplan-Meier curves and Cox proportional hazard regression model were chosen for single and multiple factor analysis of survival analysis, respectively. Furthermore, wound healing assay and transwell assay were used to verify the effect of WISP1 on HCC cell metastasis in vitro.Results:The expression level of WISP1 in HCC tissues was significantly higher than that in para-cancer tissues (pConclusions:WISP1 might contribute to the development of HCC, serving as a clinical biomarker and therapeutic target for HCC patients.
+

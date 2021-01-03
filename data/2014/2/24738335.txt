@@ -1,0 +1,4 @@
+24738335
+2014 Feb
+Endothelial progenitor cells (EPCs) serve as cellular vehicles for targeting cancer cells and are a powerful tool for delivery of therapeutic genes. Cytosine deaminase (CD), a kind of frequent suicide gene which can kill carcinoma cells by converting a non-poisonous pro-drug 5-flucytosine (5-FC) into a poisonous cytotoxic 5-fluorouracil (5-FU). We combined super-paramagnetic iron oxide (SPIO) nanoparticles labeled EPCs with CD gene to treat grafted liver carcinomas and tracked them with 7.0 T Magnetic resonance imaging (MRI). Results showed that the therapeutic EPCs loaded with CD plus 5-Fc provided stronger carcinoma growth suppression compared with treatment using CD alone. The CD/5-Fc significantly inhibited the growth of endothelial cells and induced carcinoma cells apoptosis. These results indicate that EPCs transfected with anti-carcinoma genes can be used in carcinoma therapy as a novel therapeutic modality.
+

@@ -1,0 +1,4 @@
+32547210
+2020 May 20
+Cabozantinib is an oral, tyrosine-kinase inhibitor with potent activity against VEGFR2 and MET, along with multiple other tyrosine kinases involved in cancer development and progression. Herein, we will focus on preclinical and clinical studies leading to the approval of cabozantinib in advanced renal cell carcinoma and hepatocellular carcinoma. Covered studies include NCT01100619, CABOSUN, METEOR, NCT00940225 and the CELESTIAL trial. Finally, we review future directions of cabozantinib development by highlighting some ongoing clinical trials.
+cabozantinib; cabozantinib resistance mechanism; hepatocellular carcinoma; kidney cancer; liver cancer; renal cell carcinoma.

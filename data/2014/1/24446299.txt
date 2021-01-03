@@ -1,0 +1,4 @@
+24446299
+2014 Jan 10
+The human X-ray repair cross-complementing protein 1 (XRCC1) gene is a potentially gene determining hepatocellular carcinoma (HCC) susceptibility. The purpose of this study was to evaluate the association between XRCC1 and susceptibility to HCC. The association of XRCC1 polymorphisms with HCC susceptibility was investigated in 460 HCC patients and 463 controls using the created restriction site-polymerase chain reaction method. Our results indicate that the c.1471G>A variant could be detected and that the allele and genotype frequencies were statistically different between cases and controls. The AA genotype was strongly associated with increased HCC susceptibility as compared with the GG wild genotype (OR = 2.214, 95%CI = 1.493-3.283, χ(2) = 15.97, P A polymorphism is associated with HCC susceptibility in the Chinese Han population. Future studies on larger populations are essential to confirm this association.
+

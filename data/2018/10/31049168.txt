@@ -1,0 +1,4 @@
+31049168
+2018 Oct
+Non-alcoholic fatty liver disease (NAFLD) is the most common liver disorder worldwide. It includes wide range of diseases from different subtypes of simple steatosis to non-alcoholic steatohepatitis (NASH), which may be complicated by liver fibrosis, cirrhosis, or hepatocellular carcinoma. Of the epigenetic factors that play a key role in the progression of it, is microRNAs (miRNAs). MiRNAs are short non-coding RNAs of 22-23 nucleotides in length, which regulate a large number of genes that have a critical role in regulation of lipid and cholesterol biosynthesis in hepatocytes. MiRNAs can be used as a very powerful biomarker to diagnosis and follow-up any disorder, such as NAFLD and NASH with a high specificity and sensitivity. The aim of this study was to review the role of different miRNAs in the pathophysiology of NASH and NAFLD.
+Biomarker; MicroRNAs; NAFLD; NASH.

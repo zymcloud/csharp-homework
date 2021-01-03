@@ -1,0 +1,4 @@
+25173640
+2014 Dec
+This study aimed to analyze the expression, clinical significance of B cell translocation gene 1 (BTG1) in hepatocellular carcinoma, and the biological effect in its cell line by BTG1 overexpression. Immunohistochemistry and Western blot were used to analyze BTG1 protein expression in 70 cases of hepatocellular cancer and 32 cases of normal tissues to study the relationship between BTG1 expression and clinical factors. Recombinant lentiviral vector was constructed to overexpress BTG1 and then infect hepatocellular cancer HepG2 cell line. The level of BTG1 protein expression was found to be significantly lower in hepatocellular cancer tissue than normal tissues (P
+

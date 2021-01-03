@@ -1,0 +1,4 @@
+31941025
+2020 Jan 13
+Hepatocellular carcinoma (HCC), a leading cause of cancer-related death, is initiated and promoted by chronic inflammation. Inflammatory mediators are transcriptionally regulated by several inflammatory signaling pathways, including nuclear factor kappa B (NF-κB) and mitogen-activated protein kinase (MAPK). cJun N-terminal kinase (JNK), a member of the MAPK family, plays a central role in HCC pathogenesis. Pathogen-associated molecular patterns (PAMPs) activate JNK and other MAPK upon recognition by toll-like receptors (TLRs). Apart from TLRs, PAMPs are sensed by several other pattern recognition receptors, including cytosolic NOD-like receptors (NLRs). In a recent study, we demonstrated that the NLR member NLRP12 plays a critical role in suppressing HCC via negative regulation of the JNK pathway. This article briefly reviews the crosstalk between NLRP12 and JNK that occurs during HCC.
+JNK; NLRP12; hepatocellular carcinoma; inflammation.

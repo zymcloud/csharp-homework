@@ -1,0 +1,4 @@
+20603541
+2010 Jul 30
+We report the imaging of hepatocellular carcinoma cells and the immunoassay for alpha fetoprotein (AFP) using CdTe/CdS/ZnS core-shell-shell QDs. Stable and high PLQY (20%-48%) CdTe/CdS/ZnS core-shell-shell QDs were synthesized by a stepwise process. Bioconjugation of the core-shell-shell QDs with streptavidin (SA) was successfully applied in immunofluorescent imaging of the human hepatocellular carcinoma (HCC) cell line HepG2.2.15. Furthermore, the thioglycolic acid (TGA)-capped CdTe/CdS/ZnS core-shell-shell QDs fluorescence lifetime is longer than fluorescein, so it was first engaged to conjugate with antigen for the determination of protein (AFP) by fluorescence polarization immunoassay.
+

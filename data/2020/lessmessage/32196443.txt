@@ -1,0 +1,4 @@
+32196443
+2020
+Liver cancer/Hepatocellular Carcinoma (HCC) is a leading cause of cancer death and represents an important cause of mortality worldwide. Several biomarkers are overexpressed in liver cancer, such as Glypican 3 (GPC3) and Epidermal Growth Factor Receptor (EGFR). These biomarkers play important roles in the progression of tumors and could serve as imaging and therapeutic targets for this disease. Peptides with adequate stability, receptor binding properties, and biokinetic behavior have been intensively studied for liver cancer imaging. A great variety of them have been radiolabeled with clinically relevant radionuclides for liver cancer diagnosis, and many are promising imaging and therapeutic candidates for clinical translation. Herein, we summarize the advancement of radiolabeled peptides for the targeted imaging of liver cancer.
+EGFR; GPC3; Liver cancer; VEGF; c-Met; radiolabeled peptides.

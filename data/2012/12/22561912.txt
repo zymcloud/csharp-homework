@@ -1,0 +1,4 @@
+22561912
+2012 Dec
+In the course of searching for cytotoxic terpenoids from medicinal plants in China, two new eudesmane sesquiterpenoids, 5α-hydroxy-13-methoxy-7αH,11αH-eudesm-4(15)-en-12,8β-lactone (1) and 1β-hydroxy-7αH,11αH-eudesm-4(15)-en-12,8β-lactone (2), along with fourteen known sesquiterpenoids were isolated from the whole plant of Carpesium divaricatum. The structures of new compounds were determined using spectroscopic methods, including IR, HRESIMS, and 1D and 2D NMR spectroscopy. The cytotoxicity of selected sesquiterpene lactones against human oral epidermoid carcinoma (KB), human breast cancer (MCF-7) and human hepatoma (HepG-2) cells was also evaluated by MTT method.
+

@@ -1,0 +1,4 @@
+26985249
+2016 Apr
+As a common malignant tumor, hepatocellular carcinoma (HCC) has a high prevalence and is a serious threat to human health. The surgical resection rate of HCC is low, and the prognosis is poor. Although transarterial chemoembolization (TACE) is the main treatment for HCC patients who are not candidates for surgical resection, it is not considered a curative procedure. For HCC, poor TACE efficacy or TACE failure may be related to tumor angiogenesis of the residual disease. Among the many regulatory factors in tumor angiogenesis, hypoxia-inducible factor-1α (HIF-1α) and vascular endothelial growth factor (VEGF) play vital roles in this process. In this paper, we conducted a review of the dynamic change and relevance of HIF-1α and VEGF levels after TACE of HCC patients.
+Hepatocellular carcinoma; Hypoxia-inducible factor-1α; Transarterial chemoembolization; Vascular endothelial growth factor.

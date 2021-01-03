@@ -1,0 +1,4 @@
+28404923
+2017 Apr 25
+MicroRNAs play an important role in liver cancer genesis and progression. In this study, we identified down-regulation of miR-146b-5p associated with tumor growth, metastasis and poor survival in hepatocellular carcinoma (HCC) patients. miR-146b-5p could suppress proliferation, migration, and invasion and induced apoptosis in vitro and in vivo. Remarkably, TNF receptor associated factor 6 (TRAF6) was confirmed as a direct target of miR-146b-5p in HCC and miR-146b-5p exerted the tumor suppression roles through inhibiting the phosphorylation of Akt mediated by TRAF6. Furthermore, we identified long non-coding RNA MALAT1 as a molecular sponge of miR-146b-5p to down-regulate its expression in HCC. In general, our results indicate that miR-146b-5p inhibits tumor growth and metastasis of HCC by targeting TRAF6 mediated Akt phosphorylation.
+TNF receptor associated factor 6; growth; hepatocellular carcinoma; metastasis; microRNA-146b-5p.

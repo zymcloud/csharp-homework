@@ -1,0 +1,4 @@
+28445086
+2017 Jul
+Dysfunction of lncRNA has been found in the nasopharyngeal carcinoma (NPC); however, the effect of lncRNA expression on NPC tumorigenesis as well as the molecular mechanism of lncRNA in the pathogenesis of NPC remain largely unknown. In this study, we showed that highly upregulated in liver cancer (HULC), the first identified lncRNA in hepatocellular carcinoma, is highly expressed in NPC patients and correlated with a poor prognosis of cancer patients. Overexpressed HULC promotes NPC cell growth. Downregulation of HULC activated p53 and induced the increased expression of p21, which finally caused cell cycle arrest and cell apoptosis. These results suggested that HULC acts as an oncogenic lncRNA in NPC and a potential therapeutic target in NPC treatment.
+HULC; NPC; p21; p53.

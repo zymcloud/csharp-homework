@@ -1,0 +1,4 @@
+23272146
+2012
+SIRT3, a mitochondrial sirtuin belonging to nicotinamide adenine nucleotide (NAD) dependent deacetylases, is implicated in metabolism, longevity and carcinogenesis. SIRT3 expression and its significance in hepatocellular carcinoma (HCC) remain largely unclear. In this study, we demonstrated that SIRT3 expression in HCC tissue was much lower than that in paracarcinoma tissue, at both mRNA and protein levels. The cutoff value for low SIRT3 expression in HCC was defined according to receiver operating characteristic curve (ROC) analysis. As disclosed by immunohistochemistry (IHC) results, low SIRT3 expression was present in 67.3% (167/248) of HCC cases. Furthermore, low expression of SIRT3 was significantly correlated to differentiation (P = 0.013), clinical stage (P = 0.005), serum AFP level (P
+

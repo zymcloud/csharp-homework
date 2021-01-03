@@ -1,0 +1,4 @@
+28820176
+2017 Oct
+5-Hydroxymethylcytosine (5hmC) is an important mammalian DNA epigenetic modification that has been linked to gene regulation and cancer pathogenesis. Here we explored the diagnostic potential of 5hmC in circulating cell-free DNA (cfDNA) using a sensitive chemical labeling-based low-input shotgun sequencing approach. We sequenced cell-free 5hmC from 49 patients of seven different cancer types and found distinct features that could be used to predict cancer types and stages with high accuracy. Specifically, we discovered that lung cancer leads to a progressive global loss of 5hmC in cfDNA, whereas hepatocellular carcinoma and pancreatic cancer lead to disease-specific changes in the cell-free hydroxymethylome. Our proof-of-principle results suggest that cell-free 5hmC signatures may potentially be used not only to identify cancer types but also to track tumor stage in some cancers.
+

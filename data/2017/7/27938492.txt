@@ -1,0 +1,4 @@
+27938492
+2017 Jul 5
+Hepatocellular carcinoma (HCC) is one of the most common malignant diseases in the world. Mutations, overexpression, and improper recruitment of HATs can lead to tumorigenesis. HAT1 is the first histone acetyltransferase identified and is related with developing HCC, but the mechanism is still unclear. Interestingly, we found that HAT1 was upregulated in HCC patient specimens and showed that its upregulation facilitates HCC cell growth in vitro and in vivo. Moreover, we demonstrated that HAT1 promoted glycolysis in HCC cells and knockdown of HAT1 sensitized HCC cells to apoptotic death induced by cisplatin. Our results suggest that HAT1 might act as an oncogenic protein promoting cell proliferation and inducing cisplatin resistance in HCC, and targeting HAT1 represents a viable strategy for effective treatment of advanced HCC.
+

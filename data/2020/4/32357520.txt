@@ -1,0 +1,4 @@
+32357520
+2020 Apr 26
+Chronic infection with hepatitis C virus (HCV) is a major cause of hepatocellular carcinoma (HCC). Novel treatments with direct-acting antivirals achieve high rates of sustained virologic response; however, the HCC risk remains elevated in cured patients, especially those with advanced liver disease. Long-term HCV infection causes a persistent and accumulating damage of the liver due to a combination of direct and indirect pro-oncogenic mechanisms. This review describes the processes involved in virus-induced disease progression by viral proteins, derailed signaling, immunity, and persistent epigenetic deregulation, which may be instrumental to develop urgently needed prognostic biomarkers and as targets for novel chemopreventive therapies.
+HCC; HCV; clinical impact; epigenetics; signaling; tumor immunity.

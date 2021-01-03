@@ -1,0 +1,4 @@
+24895585
+2014
+Objective:The objective is to determine the effects of BAG3 and HIF-1 α expression on the prognosis of HCC patients after liver transplantation.Methods:Samples from 31 patients with HCC receiving liver transplantation were collected for this study. The immunohistochemistry was used to detect the expression of BAG3 and HIF-1 α of HCC samples.Results:According to the immunohistochemistry results, BAG3 and HIF-1 α staining were significantly associated with tumor TNM stage (P = 0.004, P = 0.012). A significant association between high BAG3/HIF-1 α levels and a shorter overall survival was detected, so as the combined BAG3 and HIF-1 α analysis.Conclusion:The results suggested that the expression level of BAG3 and HIF-1 α is efficient prognostic parameters in patients with HCC after liver transplantation.
+

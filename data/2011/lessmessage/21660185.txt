@@ -1,0 +1,4 @@
+21660185
+2011
+The small and large delta antigens (S-HDAg and L-HDAg, respectively) represent two forms of the only protein encoded by the hepatitis delta virus (HDV) RNA genome. Consequently, HDV relies, at a large extent, on the host cell machinery for replication and transcription. Until now, only a limited number of cellular proteins were identified as S-HDAg or L-HDAg partners being involved in the modulation of the virus life cycle. In an attempt to identify cellular S-HDAg-binding proteins we made use of a yeast two-hybrid approach to screen a human liver cDNA library. We were able to identify HuR, a ubiquitously expressed protein involved in RNA stabilization, as an S-HDAg partner both in vitro and in vivo. HuR was found to be overexpressed and colocalize with HDAg in human hepatoma cells. siRNA knockdown of HuR mRNA resulted in inhibition of S-HDAg and L-HDAg expression.
+Hepatitis delta virus; HuR.; delta antigen; yeast two-hybrid.

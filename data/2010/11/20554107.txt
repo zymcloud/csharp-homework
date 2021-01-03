@@ -1,0 +1,4 @@
+20554107
+2010 Nov 28
+It has been demonstrated that the Hericium erinaceus (HE) mushroom, which primarily consists of polysaccharides, possesses anti-tumor activities. However, the mechanisms by which HE inhibits human hepatocellular carcinoma growth remain unknown. Our study demonstrates that HE acts as an enhancer to sensitize doxorubicin (Dox)-mediated apoptotic signaling, and this sensitization can be achieved by reducing c-FLIP expression via JNK activation and enhancing intracellular Dox accumulation via the inhibition of NF-κB activity. These findings suggest that HE in combination with Dox serves as an effective tool for treating drug-resistant human hepatocellular carcinoma.
+

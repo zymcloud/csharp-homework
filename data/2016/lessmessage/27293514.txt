@@ -1,0 +1,4 @@
+27293514
+2016
+About 150 million people worldwide are chronically infected with hepatitis C virus (HCV). The persistence of the infection is controlled by several mechanisms including the induction of oxidative stress. HCV relies on this strategy to redirect lipid metabolism machinery and escape immune response. The 3β-hydroxysterol Δ24-reductase (DHCR24) is one of the newly discovered host markers of oxidative stress. This protein, as HCV-induced oxidative stress responsive protein, may play a critical role in the pathogenesis of HCV chronic infection and associated liver diseases, when aberrantly expressed. The sustained expression of DHCR24 in response to HCV-induced oxidative stress results in suppression of nuclear p53 activity by blocking its acetylation and increasing its interaction with MDM2 in the cytoplasm leading to its degradation, which may induce hepatocarcinogenesis.
+

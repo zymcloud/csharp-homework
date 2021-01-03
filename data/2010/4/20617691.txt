@@ -1,0 +1,4 @@
+20617691
+2010 Apr
+Objective:To study the mechanism of myricetin inducing the HepG-2 cell line apoptosis.Method:The MTT method was employed to study myricetin pharmacodynamics in HepG-2. The light microscope and transmission was used to identify the tumor cell apoptosis in the morphology. The FCM method and the kit of caspase 3, caspase 9 were hired to detect the apoptosis rates, the content of mitochondrial membrane electric potential and the activity of caspase in cancer cells.Result:Myricetin significantly inhibits the proliferation and induces the apoptosis of HepG-2 in a dose-dependent manner, which is accompanied with G2/M and S phase arrest. In addition, myricetin also increases the activation of caspase 3,9 and results in a depolarization and delta psi m collapse in a dose-dependent manner.Conclusion:The molecular pathway of apoptosis of human hepatocellular carcinoma cell lines induced by myricetin might deal with the mitochondria-mediated pathway.
+

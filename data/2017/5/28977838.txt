@@ -1,0 +1,4 @@
+28977838
+2017 May 5
+The HBx protein of hepatitis B virus (HBV) is widely recognized to be a critical oncoprotein contributing to the development of HBV-related hepatocellular carcinoma (HCC). In addition, cationic amino acid transporter 1 (CAT-1) gene is a target of miR-122. In this study, we found that CAT-1 protein levels were higher in HBV-related HCC carcinomatous tissues than in para-cancerous tumor tissues, and that CAT-1 promoted HCC cell growth, proliferation, and metastasis. Moreover, HBx-induced decreases in Gld2 and miR-122 levels that contributed to the upregulation of CAT-1 in HCC. These results indicate that a Gld2/miR-122/CAT-1 pathway regulated by HBx likely participates in HBV-related hepatocellular carcinogenesis.
+CAT-1; Gld2; HBx; HCC; miR-122.

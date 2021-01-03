@@ -1,0 +1,4 @@
+27680976
+2016 Dec
+Non-alcoholic fatty liver disease (NAFLD) is a major cause of liver cirrhosis and hepatocellular carcinoma and is a considerable threat to public health. miRNAs are important post-transcriptional regulators of gene expression, and the dysregulation of miRNAs is involved in various biological processes in the liver, including lipid homeostasis, inflammation, apoptosis, and cell proliferation. Recently, a number of studies have described the association between miRNAs and NAFLD progression and have shown that circulating miRNAs reflect histological changes in the liver. Therefore, circulating miRNAs have potential use for the evaluation of NAFLD severity. In this review, we discuss the involvement of miRNAs in NAFLD pathogenesis and the key role of miRNAs in the screening, diagnosis, and staging of NAFLD.
+hepatocellular carcinoma; miRNA; nonalcoholic fatty liver disease; nonalcoholic steatohepatitis.

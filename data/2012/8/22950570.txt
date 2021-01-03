@@ -1,0 +1,4 @@
+22950570
+2012 Aug
+The establishment of an elaborate gap junctional intercellular communication network, especially between hepatocytes, is important for normal liver development. In fact, the production of the gap junction building blocks, the connexins, undergoes several well-defined changes throughout the hepatic differentiation process. This ultimately results in the acquisition of an adult connexin expression pattern which is critical for maintaining the fully differentiated hepatocyte-specific phenotype. Abnormalities of connexin production are observed in a number of pathological conditions, such as during liver cancer. This article provides an overview of these processes with emphasis on the underlying molecular mechanisms.
+

@@ -1,0 +1,4 @@
+27617953
+2016 Sep 23
+Ziziphus jujuba, a plant in the family Rhamnaceae, is used in several Asian countries as a food and traditional medicine. Fifteen new ceanothane-type (1-15) and three new lupane-type triterpenoids (16-18) were isolated from the roots of Z. jujuba, as well as 12 previously known triterpenoids (19-30). Their structures were elucidated by 1D and 2D NMR spectroscopic and HR mass spectrometric data analysis. Compounds 12 and 13 were found to possess a rare E-ring γ-lactone structure, and 14 was assigned as the first 2,28-dinorlupane derivative isolated as a natural product. Twenty-five of the isolates were examined for cytotoxicity against human hepatocellular carcinoma HepG2 cells, and compounds 6-8, 14, 17, 23, 25, 29, and 30 showed cytotoxicity with IC50 values ranging from 1.9 to 5.9 μM.
+

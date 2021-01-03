@@ -1,0 +1,4 @@
+28042511
+2016 Dec 1
+Hepatocellular carcinoma (HCC) is one of the most common and aggressive malignancies. The current study is designed to explore the role of physcion, a major active ingredient in several traditional herbal medicinal plants, for the treatment of HCC. HCC cell lines, SMMC7721 and HepG2, were treated with physcion and its apoptosis-inducing effect was examined. Both in vitro and in vivo results from the present study demonstrated that physcion treatment resulted in apoptotic cell death in HCC cells via upregulation of miR-370. Furthermore, our findings showed that the physcion modulated the level of miR-370 through AMPK/Sp1/DNMT1 signaling. Taken together, these results showed that physcion exerts anti-tumor effect against HCC, which may be a potential agent for the adjunct chemotherapy.
+DNMT1; Physcion; apoptosis; miR-370.

@@ -1,0 +1,4 @@
+20018277
+2010 Feb
+This paper describes a modeling method of the tissue temperature evolution over time in hyper or hypothermia. The tissue temperature evolution over time is classically described by Pennes' bioheat transfer equation which is generally solved by a finite difference method. In this paper we will present a method where the bioheat transfer equation can be algebraically solved after a Fourier transformation over the space coordinates. As an example, we implemented this method for the simulation of a percutaneous high intensity ultrasound hepatocellular carcinoma curative treatment and compared it with the finite difference method and experimental data.
+

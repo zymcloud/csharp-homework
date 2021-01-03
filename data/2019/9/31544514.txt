@@ -1,0 +1,4 @@
+31544514
+2019 Sep 23
+A new isoflavanone, (3S)-5,7-dihydroxy-2',3',4'-trimethoxy-6,5'-diprenylisoflavanone (1) and eight known compounds including five flavones (2-6), two triterpenes (7-8) and a steroid (9) were isolated from the whole plant of Uraria crinita (Leguminosae). The structure of 1 was elucidated by detailed spectroscopic means including IR, HR-ESI-MS, 1D and 2D NMR, and CD data. Compounds 1-9 were evaluated for their cytotoxicity against four human cancer cell lines KB (mouth epidermal carcinoma), HepG2 (hepatocellular carcinoma), Lu (lung carcinoma) and MCF7 (breast carcinoma). Compound 1 showed cytotoxic activity against the tested cell lines with IC50 values of 33.2, 29.4, 59.6 and 66.8 μM, respectively.
+(3S)-5,7-dihydroxy-2′,3′,4′-trimethoxy-6,5′-diprenylisoflavanone; Leguminosae; cytotoxicity.

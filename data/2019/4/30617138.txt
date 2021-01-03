@@ -1,0 +1,4 @@
+30617138
+2019 Apr 1
+Next-generation sequencing has provided information on actionable targets and biomarkers of response in oncology. In hepatocellular carcinoma (HCC), Wnt/CTNNB1 mutations characterize the immune-excluded class (cold tumors) and might represent the biomarkers predicting resistance to immune checkpoint inhibitors. Large-scale validation of these data is needed to customize immunotherapy in advanced HCC.See related article by Harding et al., p. 2116.
+

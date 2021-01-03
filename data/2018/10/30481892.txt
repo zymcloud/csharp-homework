@@ -1,0 +1,4 @@
+30481892
+2018 Oct 20
+Primary liver cancer arises from chronic liver disease, and cirrhotic liver gradually develops into dysplastic nodules that eventually form malignant tumors. In recent years, molecular biotechnology development has deepened people's understanding on the pathogenesis of liver cancer. Epigenetic modifications play a significant role in DNA methylation, non-coding RNAs, chromatin remodeling, and histone modification. This review focuses on the progress of currently implicated non-coding RNAs in the molecular pathogenesis of hepatocellular carcinoma, and its potential application in improving the diagnosis and treatment.
+Carcinoma, hepatocellular; Circular RNA; Epigenetic modification; Non-coding RNA.

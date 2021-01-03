@@ -1,0 +1,4 @@
+22218807
+2012 Apr
+Hepatitis B virus X protein (HBx) plays a crucial role in the development of hepatocellular carcinoma (HCC), however, little is known about the mechanism. Here, we investigated the relationship between HBx and Notch signaling in HepG2 cells after they were transfected with the HBx gene. It was found that HBx upregulated the expression of Notch-1, Jagged-1 and Hes-1 at the transcriptional level by binding to the Notch-1 intracellular domain, which is congruent with the observations of enhanced malignant biological activities of HBx-transfected HepG2 cells compared with normal HepG2 cells. However, while Notch signaling was blocked, the HBx-induced abnormalities were partially reversed. These findings suggest that HBx may promote the progression of HCC via the activated Notch pathway.
+

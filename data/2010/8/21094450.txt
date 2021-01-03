@@ -1,0 +1,4 @@
+21094450
+2010 Aug
+Hepatic perfusion imaging with magnetic resonance (MR) imaging is an emerging technique for quantitative assessment of diffuse hepatic disease and hepatic lesion blood flow. The principal method that has been used is based on T1 dynamic contrast-enhanced MR imaging. Perfusion imaging shows promise in the assessment of tumor therapy response, staging of liver fibrosis, and evaluation of hepatocellular carcinoma. The future standardization of imaging protocols and MR imaging pulse sequences will allow for broader clinical applications.
+

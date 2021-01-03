@@ -1,0 +1,4 @@
+32183347
+2020 Mar 14
+The SF-1 transcription factor target gene FATE1 encodes a cancer-testis antigen that has an important role in regulating apoptosis and response to chemotherapy in adrenocortical carcinoma (ACC) cells. Autoantibodies directed against FATE1 were previously detected in patients with hepatocellular carcinoma. In this study, we investigated the prevalence of circulating anti-FATE1 antibodies in pediatric and adult patients with adrenocortical tumors using three different methods (immunofluorescence, ELISA and Western blot). Our results show that a pervasive anti-FATE1 immune response is present in those patients. Furthermore, FATE1 expression is a robust prognostic indicator in adult patients with ACC and is associated with increased steroidogenic and decreased immune response gene expression. These data can open perspectives for novel strategies in ACC immunotherapy.
+adrenocortical carcinoma; autoantibodies; cancer-testis antigens; immune response.

@@ -1,0 +1,4 @@
+23627273
+2013 Dec
+To improve the anti-tumor effects of gallic acid and mangiferin, a gallic acid-mangiferin hybrid molecule (GAMA) was synthesized from gallic acid with mangiferin in the presence of ionic liquid ChC1(choline chloride)·2SnC12. Chemical and spectroscopic methods, such as (1)H and (13)C NMR spectroscopy, and HR-ESIMS were used for the structure identification of GA-MA. Using the cell counting kit-8 (CCK-8) assay, the in vitro anti-tumor effects were compared between GA-MA, gallic acid and mangiferin on human hepatoma HepG2, human nasopharyngeal carcinoma CNE, human lung cancer NCI-H460, human ovarian cancer SK-OV-3, and human cervical cancer Hela cells. The results showed that the half inhibitory concentration (IC50) of GA-MA on HepG2, CNE, NCI-H460, SK-OV-3, and Hela cells was significantly lower than that of gallic acid or mangiferin. This showed that GA-MA has a better in vitro anti-tumor effect than gallic acid and mangi-ferin.
+

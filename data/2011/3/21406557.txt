@@ -1,0 +1,4 @@
+21406557
+2011 Mar 15
+The cJun NH(2)-terminal kinase (JNK) signal transduction pathway has been implicated in the growth of carcinogen-induced hepatocellular carcinoma. However, the mechanism that accounts for JNK-regulated tumor growth is unclear. Here we demonstrate that compound deficiency of the two ubiquitously expressed JNK isoforms (JNK1 and JNK2) in hepatocytes does not prevent hepatocellular carcinoma development. Indeed, JNK deficiency in hepatocytes increased the tumor burden. In contrast, compound JNK deficiency in hepatocytes and nonparenchymal cells reduced both hepatic inflammation and tumorigenesis. These data indicate that JNK plays a dual role in the development of hepatocellular carcinoma. JNK promotes an inflammatory hepatic environment that supports tumor development, but also functions in hepatocytes to reduce tumor development.
+

@@ -1,0 +1,4 @@
+28418032
+2017 Apr 18
+Hypermethylation of CpG islands in the promoter region of tumor suppressor genes (TSGs) and their subsequent silencing is thought to be one of the main mechanisms of carcinogenesis. MBD2b enrichment coupled with a NimbleGen array was applied to examine the genome-wide CpG island methylation profile of hepatocellular carcinoma (HCC). Hypermethylated DNA of 58 pairs of HCC and adjacent tissue samples was enriched and hybridized in the same array. Aberrant hypermethylated peaks of HCC and adjacent tissues were screened and annotated after data processing using NimbleScan2.5 and our newly developed Weighting and Scoring (WAS) method, respectively. Validation using bisulfite sequencing of randomly selected ANKRD45, APC, CDX1, HOXD3, PTGER and TUBB6 genes demonstrated significant hypermethylation modification in HCC samples, consistent with the array data.
+

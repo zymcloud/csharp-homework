@@ -1,0 +1,4 @@
+29348766
+2017
+A tumor growth model of human hepatocellular carcinoma HepG2 cells in nude mice was employed to investigate the antitumor activity of the total flavonoids extracted from Arachniodes exilis (TFAE) in vivo. Several biochemical assays including hematoxylin-eosin (HE) staining, immunohistochemistry, and Western blot were performed to elucidate the mechanism of action of total flavonoids extracted from Arachniodes exilis (TFAE). The results showed that TFAE effectively inhibited the tumor growth of hepatocellular carcinoma in nude mice and had no significant effect on body weight, blood system, and functions of liver and kidney. Expression levels of proapoptotic proteins Bax and cleaved caspase-3 remarkably increased while the expressions of Bcl-2, HIF-1α, and VEGF were suppressed by TFAE. These results suggested that the antitumor potential of TFEA was implied by the apoptosis of tumor cells and the inhibition of angiogenesis in tumor tissue.
+

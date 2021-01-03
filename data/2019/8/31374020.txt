@@ -1,0 +1,4 @@
+31374020
+2019 Aug
+Background:Post-treatment alpha-fetoprotein (AFP) response has been reported to be associated with prognosis of hepatocellular carcinoma (HCC) patients, but the results were not consistent. This meta-analysis aimed to explore the relationship between AFP response and clinical outcomes of HCC.Methods:PubMed, Embase, Medline and Cochrane library were searched for relevant articles published before March 20, 2019. The data were analyzed using RevMan5.3 software.Results:Twenty-nine articles with 4726 HCC patients were finally included for analysis. The pooled results showed that post-treatment AFP response was significantly associated with overall survival (OS) (hazard ratio (HR) = 0.41, 95% confidence interval (CI): 0.35-0.47, P Conclusion:post-treatment AFP response might be a useful prognostic marker for HCC patients.
+

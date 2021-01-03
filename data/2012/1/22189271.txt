@@ -1,0 +1,4 @@
+22189271
+2012 Jan 15
+A series of resveratrol derivatives possessing curcumin moiety were synthesized and evaluated for their antiproliferative activity against three cancer cell lines including murine melanoma B16-F10, human hepatoma HepG2 and human lung carcinoma A549. Among them, compound C5 displayed the most potent in vitro antiproliferative activity against B16-F10 with IC(50) value of 0.71 μg/mL. Compound C5 also exhibited good tubulin polymerization inhibitory activity with IC(50) value of 1.45 μg/mL. Furthermore, docking simulation was carried out to position C5 into the tubulin-colchicine binding site to determine the probable binding mode.
+

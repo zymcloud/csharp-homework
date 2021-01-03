@@ -1,0 +1,4 @@
+23973383
+2013 Dec
+Liquid chromatography in tandem mass spectrometry (LC-MS/MS) has emerged as an informative tool to investigate oxysterols (oxidized derivatives of cholesterol) in helminth parasite associated cancers. Here, we used LC-MS/MS to investigate in soluble extracts of the adult developmental stage of Opisthorchis viverrini from experimentally infected hamsters. Using comparisons with known bile acids and the metabolites of estrogens, the LC-MS data indicated the existence of novel oxysterol derivatives in O. viverrini. Most of these derivatives were ramified at C-17, in similar fashion to bile acids and their conjugated salts. Several were compatible with the presence of an estrogen core, and/or hydroxylation of the steroid aromatic ring A, hydroxylation of both C-2 and C-3 of the steroid ring and further oxidation into an estradiol-2,3-quinone.
+Bile acids; Flukes; Opisthorchis viverrini; Oxysterols.

@@ -1,0 +1,4 @@
+21219541
+2011 Mar
+Our previous study has identified HTPAP as a novel metastasis suppressor from chromosome 8p which is often deleted in metastatic HCC. We sought to further evaluate the expression levels of transcript variants of HTPAP (HTPAP-1, HTPAP-2 and HTPAP-3) in 67 HCC tumor tissues and 11 normal liver tissues by RT-PCR with specific TaqMan probes and primer sets, and explore their association with HCC metastasis and survival. We found that the expression levels of three HTPAP transcript variants were quite different in HCCs. Only HTPAP-1 was found to be significantly associated with HCC metastasis (P=0.00053), overall survival (P=0.0023) and time to recurrence (P=0.010) of HCC. Patients with a lower expression of HTPAP-1 were inclined to accompany intrahepatic metastases and tumor thrombi (P
+

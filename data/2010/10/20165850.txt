@@ -1,0 +1,4 @@
+20165850
+2010 Oct
+Hepatitis B virus (HBV) infection remains a major health concern with more than 350 million carriers in the world. It is associated with acute and chronic liver diseases including hepatocellular carcinoma (HCC). The early detection of severe liver diseases related to HBV is crucial for the effective treatment. This work aims to investigate the secreted proteins in our recently established cell-based HBV replication system, using isobaric tags for relative and absolute quantitation (iTRAQ)-coupled 2D LC-MS/MS proteomics approach. Such proteins are reflective of early events of HBV infection and thus may have potential as prognostic biomarkers for development of liver diseases.
+

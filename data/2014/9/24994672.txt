@@ -1,0 +1,4 @@
+24994672
+2014 Sep
+Microbial transformation of 20(R)-panaxadiol by the fungus Rhizopus chinensis CICC 3043 yielded seven metabolites. Their structures were elucidated on the basis of extensive spectroscopic analyses. R. chinensis could catalyze hydroxylation and further dehydrogenation at C-24 of 20(R)-panaxadiol, as well as hydroxylation at C-7, C-15, C-16, and C-29. Three of these compounds at 10μM could moderately inhibit growth of HepG2 human hepatocellular carcinoma cells with an inhibition rate of about 40%. Three compounds (also at 10μM) showed approximately 30% inhibition on NF-κB transcriptional activity in SW480 human colon carcinoma cells stably transfected with NF-κB luciferase reporter and induced by LPS.
+20(R)-Panaxadiol; Araliaceae; Biotransformation; Ginseng; HepG2; NF-κB; Panax ginseng; Rhizopus chinensis.

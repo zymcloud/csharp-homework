@@ -1,0 +1,4 @@
+33031846
+2020 Oct 5
+Background & aims:Proton beam radiotherapy (PBT) has recently been applied to treat hepatocellular carcinoma (HCC); however, there is no randomized controlled trial-based evidence on its safety and efficacy. We compared the outcomes of PBT and radiofrequency ablation (RFA) in patients with recurrent/residual HCC (rHCC) in a phase III non-inferiority trial.Methods:Patients with rHCC (size NCT01963429).Results:The ITT population comprised 144 PBT (n=72) and RFA (n=72) patients. Six patients in PBT arm switched to RFA, while 19 in RFA arm switched to PBT. In the PP population, the 2-year LPFS rate with PBT (n=80) vs. RFA (n=56) was 94.8% vs. 83.9%, a difference of 10.9 percentage points (90% confidence interval [CI], 1.8-20.0; p Conclusions:PBT showed LPFS values that were non-inferior to those for RFA and were tolerable and safe.
+hepatocellular carcinoma; local progression-free survival; radiofrequency ablation

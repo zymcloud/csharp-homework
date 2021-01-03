@@ -1,0 +1,4 @@
+30671612
+2019 Apr
+Unique among solid organ tumors, hepatocellular carcinoma (HCC), may be diagnosed by imaging alone, without the need for biopsy. The Liver Imaging Reporting and Data System (LI-RADS) was developed to provide high-specificity diagnosis of HCC based on imaging while also standardizing the assessment and reporting of the entire spectrum of lesions and pseudolesions encountered in patients at risk for this malignancy. In this pictorial review, we discuss management recommendations associated with CT/MR LI-RADS observations. We emphasize the rationale for the recommendations and the role of multidisciplinary management discussion, and we provide a framework for standardized reporting. Management of patients who undergo ultrasound (US) for screening and surveillance or those who undergo diagnostic contrast-enhanced ultrasound (CEUS) is beyond the scope of this paper.
+HCC; Imaging; LI-RADS; Standardized reporting.

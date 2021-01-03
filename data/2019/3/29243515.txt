@@ -1,0 +1,4 @@
+29243515
+2019 Mar
+The aim of this work was to further investigate the anticancer potential of Juglans mandshurica Maxim, including the separation of active constituents and their anti-proliferative effects with underlying mechanism of action. Five alkaloids (1-5) were isolated from the bark of J. mandshurica. Among them, 1 showed the highest cytotoxic activities against Hep3B and HepG2 cells with an IC50 values of 61.80 and 56.24 μM, respectively. Therefore, the cellular mechanism involved 1 was subsequently studied. Our results showed that 1 markedly caused apoptosis and autophagy, but without cell cycle arrest in HepG2 cells. Interestingly, only autophagic cell death was induced in 1-treated Hep3B cells. It is concluded that the isolated alkaloids exerted a certain anti-hepatoma potential, and our results may provide a basis for the further investigation of the alkaloids extracted from J. mandshurica.
+Alkaloids; Apoptosis; Autophagy; Hepatocellular carcinoma.

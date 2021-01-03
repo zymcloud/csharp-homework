@@ -1,0 +1,4 @@
+29600718
+2019 Apr
+Using cholesterol, stigmasterol and sitosterol as starting materials, a series of 7-subsitituted-ster-3-yl 2-methoxybenzoate analogs were prepared through reacting with 2-methoxybenzoyl chloride and introducing some function groups, such as carbonyl, hydroxyl and various thiosemicarbazones, at 7-position of steroidal nucleus. The structures of these new compounds were characterized by IR, NMR and HRMS. Their antiproliferative activities were evaluated by using several types of cancer cells. Interestingly, the compounds displayed potent antiproliferative activity against CNE-2 (nasopharyngeal carcinoma cell lines), BEL-7402 (human liver cancer cell lines) and HepG2 (human liver cancer cell lines), suggesting that they have potential to be drug candidates for cancer treatment.
+2-methoxybenzoate; antiproliferative activity; cholesterol; sitosterol; steryl 2-methoxybenzoate; stigmasterol.

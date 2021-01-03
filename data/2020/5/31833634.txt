@@ -1,0 +1,4 @@
+31833634
+2020 May
+For patients with hepatocellular carcinoma (HCC) listed for liver transplantation (LT), United Network for Organ Sharing (UNOS) enacted policy changes in 2015 to improve equity between HCC and non-HCC patients. We evaluated the impact of these changes on regional disparities in wait-list dropout and LT. We included patients in the UNOS database listed with Model for End-Stage Liver Disease HCC exceptions in long-wait regions (LWRs), mid-wait regions (MWRs), and short-wait regions (SWRs) before these policy changes (era 1, January 1 to December 31, 2013) and after (era 2, October 7, 2015, to October 7, 2016). Cumulative incidence of wait-list dropout and LT were evaluated using competing risk regression. Median time to LT increased by 3.6 months (3.1 to 6.7 months) in SWRs and 1.3 months (6.9 to 8.2 months) in MWRs (P
+

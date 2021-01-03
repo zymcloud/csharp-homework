@@ -1,0 +1,4 @@
+22828706
+2012 Oct
+Hepatocellular carcinoma (HCC) is one of the most common and aggressive malignant tumors worldwide. The prognosis of patients with HCC still remains very dismal, mainly due to metastasis. We found that high-expression levels of AGR2 existed in metastatic HCC cell lines and patient samples. Overexpression of AGR2 was found to be correlated to the metastatic status of HCC cells, and inhibition of AGR2 by siRNA resulted in a dramatic decline in invasion abilities in metastatic cells in vitro. Overexpression of AGR2 increased the invasion of HCC cells in vitro and also in vivo with a nude mouse model. The tandem affinity purification (TAP) identified 18 AGR2-binding proteins and IPA analysis revealed that these proteins focus on MAPK and Caspase pathway. Therefore, we speculate that the overexpression of AGR2 can promote HCC metastasis, possibly by affecting MAPK and Caspase pathway through AGR2-interacting proteins.
+

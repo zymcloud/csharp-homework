@@ -1,0 +1,4 @@
+23205138
+2012 Dec
+In order to systematically evaluate the influence of lymph nodes (LNs) in lymph node metastases (LNM) of hepatocellular carcinoma (HCC), we set up a new in vitro model in which Hca-F and Hca-P cells were cultured in medium containing lymph node homogenates (LNHs). Differential protein expression was measured by two-dimensional gel electrophoresis (2-DE) combined with matrix-assisted laser desorption/ionization time-of-flight/time-of-flight mass spectrometry (MALDI TOF/TOF MS). Results from protein identification revealed two metastatic correlative proteins, 78-kDa glucose-regulated protein (GRP78) and galectin-3 (GAL3). Western blotting confirmed that GRP78, a protein positively correlated with metastasis, increased 2.4-fold in Hca-F cells but decreased to almost a half in Hca-P cells (P
+

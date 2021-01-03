@@ -1,0 +1,4 @@
+23474497
+2013 Jul 28
+Aberrant promoter methylation of tumor suppressor genes including retinoic acid receptor-β2 (RAR-β2) is frequently detected in hepatitis C virus (HCV)-associated hepatocellular carcinoma; however, the mechanism and its significance are relatively unknown. Here, we showed that HCV Core induced promoter hypermethylation of RAR-β2 to inhibit its expression via up-regulation of DNA methyltransferases 1 and 3b. Under the condition, all-trans retinoic acid (ATRA) failed to activate p16 expression and thus could not inactivate the Rb-E2F pathway. Accordingly, Core-expressing cells exhibited resistance to ATRA-induced growth inhibition. Taken together, HCV Core antagonizes ATRA, a natural anti-cancer compound, to stimulate cell growth via epigenetic down-regulation of RAR-β2.
+

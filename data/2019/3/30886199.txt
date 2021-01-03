@@ -1,0 +1,4 @@
+30886199
+2019 Mar 18
+Gallbladder carcinoma (GBC) is a biliary tract cancer with few treatment options and poor prognosis. Radical surgery is the only potentially curative treatment option but most patients diagnosed with GBC are unresectable. Thus, there is a great need for the development of new treatment options including targeted therapy. Here, we aimed at identifying deregulated miRNAs and affected pathways involved in GBC development and progression. We performed global miRNA profiling of 40 GBC and 8 normal gallbladder tissues and identified large differences with 30% of miRNAs being differentially expressed (false discovery rate: FDR
+

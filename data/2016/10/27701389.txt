@@ -1,0 +1,4 @@
+27701389
+2016 Oct 25
+Background:The subgroups of patients with intermediate-stage (BCLC-B) hepatocellular carcinoma (HCC) who would truly benefit from hepatic resection (HR) are unknown. An objective point score was established to guide the selection of these patients for HR.Methods:In all, 255 consecutive patients with intermediate-stage HCC treated with HR were evaluated retrospectively and included in this study (the training cohort). The variables on overall survival (OS, log-rank test) were investigated and a point score (the NSP score) was developed by using a Cox-regression model and validated in an independent external cohort from another institution (n=169).Results:The NSP score differentiated two groups of patients (⩽1, >1 point) with distinct prognoses (median OS, 61.3 vs 19.3 months; PConclusions:The NSP scoring system is more accurate in selecting patients with intermediate-stage HCC for HR.
+

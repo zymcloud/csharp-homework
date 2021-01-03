@@ -1,0 +1,4 @@
+21380457
+2011 May
+Human haptoglobin is a serum glycoprotein secreted by the liver with four potential N-glycosylation sites on its β chain. Many studies have reported glycan changes of haptoglobin in diseases such as breast cancer and pancreatic cancer. The objective of our study is to analyze N-linked glycan alterations of serum haptoglobin β chain obtained from patients with the hepatitis B virus (HBV), liver cirrhosis (LC) and hepatocellular carcinoma (HCC). MALDI-QIT-TOF mass spectrometry revealed the intensity of m/z 1809.6, identified as a fucosylated glycan, was much higher in samples from patients with LC and HCC relative to the patients with HBV and healthy controls. Compared with LC patients, triantennary glycan was elevated and the biantennary structure was decreased in the haptoglobin β chain of HCC patients. Thus, alterations in the glycan structure of the haptoglobin β chain may constitute significant spectral signatures of cirrhosis and HCC disease.
+

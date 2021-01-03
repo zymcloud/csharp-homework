@@ -1,0 +1,4 @@
+24563371
+2014 Mar
+NORE1A, identified as a Ras effector, is frequently silenced in human cancers and has been implicated in tumour progression. Reports showing that NORE1A may function as a tumour suppressor have been emerging. However, to date, its expression and relevant significance in hepatocellular carcinoma (HCC) remain elusive. In this study, we examined the expression of NORE1A in HCC cell lines and a cohort of 250 HCC samples. We found that both the mRNA and the protein levels of NORE1A were noticeably downregulated in 14 fresh HCC tissues, compared to corresponding paracarcinoma tissues. Furthermore, NORE1A in tumours was decreased in 72.4% (181/250) of HCC patients. Low NORE1A expression was significantly associated with poor differentiation (P = 0.003), advanced stage (P = 0.002), high level of serum AFP (P
+

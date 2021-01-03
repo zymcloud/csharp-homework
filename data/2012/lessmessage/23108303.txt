@@ -1,0 +1,4 @@
+23108303
+2012
+Hepatocellular carcinoma (HCC) has been shown to induce several immune suppressor mechanisms in patients. Our laboratory has been investigating different cellular mechanisms of immune suppression in patients with HCC. These suppressor mechanisms range from CD4(+) regulatory T cells, functionally impaired dendritic cells, neutrophils, and monocytes to myeloid-derived suppressor cells. In vitro as well as in vivo studies have demonstrated that abrogation of the suppressor cells enhances or unmasks tumor-specific anti-tumor immune responses. We performed a literature search for immune suppressor cells in HCC, and here we provide a comprehensive summary of the latest studies in this field.
+

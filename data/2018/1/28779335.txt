@@ -1,0 +1,4 @@
+28779335
+2018 Jan
+A radiologist issuing a LI-RADS category is, implicitly or explicitly, a member of a multidisciplinary team. If the definite diagnosis of a benign or malignant entity is not possible, categorizing the uncertainty as LR-2, -3, -4, or -M has important management implications. In this article, we discuss the range of options for management or further diagnostic testing and how a LR category may affect the choice between them. We then review recent published data regarding eventual diagnoses following assignment of a LR category.
+Cirrhosis; Hepatocellular carcinoma; Liver; Management; Multidisciplinary; Standardized reporting.

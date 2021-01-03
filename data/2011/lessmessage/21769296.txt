@@ -1,0 +1,4 @@
+21769296
+2011
+ABC transporters export clinically-relevant drugs and their over-expression causes multidrug resistance. In order to knock-down ABC transporters, ABCC1 and ABCC2, 13 shRNAs were developed. Four shRNA candidates were tested in vivo using self-complementary adeno-associated virus serotype 8. A strong, specific knock-down of Abbc2 was observed in mice liver, but at the cost of toxicity caused by oversaturation of the RNAi machinery due to high shRNA expression. Subsequent generation of artificial miRNAs showed better efficacy profile. These results demonstrate the feasibility of knocking down Abbc2 via AAV-delivered shRNAs to the liver, and encourage the use of miRNA in further therapeutics development.
+AAV; Abbc1; Abbc2; hepatocellular carcinoma; miRNA; multidrug resistance; shRNA.

@@ -1,0 +1,4 @@
+24615520
+2014 Jun
+MicroRNAs (miRNAs) are thought to have a role in cancer development. We investigated the association among miR-146a G>C genetic variations, hepatitis B (HBV), and C (HCV) infection, and risk of hepatocellular carcinoma (HCC). Unconditional logistical regression analysis suggested that the miR-146a GG genotype and G allele carried a 2.10- (95 % confidence interval (CI)=1.03-4.37) and 1.42-fold (95 % CI=1.07-1.92) increased HCC risk, respectively. HBV-positive subjects carrying the miR-146a GG genotype (odds ratio (OR)=2.95, 95 % CI=1.31-6.81) and G allele (OR=1.65, 95 % CI=1.15-2.58) had an increased risk of HCC. However, the miR-146a GG genotype and G allele did not carry a significantly enhanced risk of HCC in either hepatitis-negative or HCV-infected subjects. miR-146a G>C polymorphisms appear to influence susceptibility to HCC, especially in HBV-infected patients.
+

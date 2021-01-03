@@ -1,0 +1,4 @@
+28887834
+2017 Nov
+Background:The aim of the present study was to compare the prognostic impact of anatomic resection (AR) versus non-anatomic resection (NAR) on patient survival after resection of a single hepatocellular carcinoma (HCC).Methods:To control for confounding variable distributions, a 1-to-1 propensity score match was applied to compare the outcomes of AR and NAR. Among 710 patients with a primary, solitary HCC of Results:Overall survival (OS) was better in the AR than NAR group (hazard ratio 1.67, 95% confidence interval 1.28-2.19, P Conclusions:Anatomic resection decreases the risk of tumor recurrence and improves OS in patients with a primary, solitary HCC of
+Anatomic resection; Hepatocellular carcinoma; Non-anatomic resection; Overall survival.

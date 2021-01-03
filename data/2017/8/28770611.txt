@@ -1,0 +1,4 @@
+28770611
+2017 Aug
+Aim:This study integrates autophagy transcripts miRNAs expression based on bioinformatic analysis followed by clinical validation.Methodology:Cellular jun proto-oncogene mRNA, LAMP2 mRNA, miR-16 and miR-146a level were investigated in the serum and tissue of patients with hepatocellular carcinoma (HCC), chronic hepatitis C and healthy volunteers by quantitative real-time PCR. The prognostic power of this serum RNA panel was explored.Results:The expression of serum cellular jun proto-oncogene mRNA, LAMP2 mRNA, miR-16 and miR-146a were positive in 85.1, 94, 97.1 and 84.2% HCC patients, respectively and they were correlated with tissue levels. Our results suggested that the chosen panel is an independent prognostic factor for survival in patients with HCC.Conclusion:The current work provides four RNA-based biomarker panel for HCC diagnosis and prognosis.
+C-JUN; LAMP2; bioinformatics; biomarkers; hepatocellular carcinoma; miRNA; prognosis.

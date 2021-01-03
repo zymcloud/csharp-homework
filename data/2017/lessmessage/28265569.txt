@@ -1,0 +1,4 @@
+28265569
+2017
+Exosomes are important in intercellular communication. They assure the horizontal transfer of specific functional contents (i.e., proteins, lipids, RNA molecules, and circulating DNA) from donor to recipient cells. Notably, tumor-derived exosomes (TDEs) appear to be an important vehicle of specific signals in cancer, impacting on tumor growth and metastasis. Recent researches point to the characterization of exosomes in Hepatocellular Carcinoma (HCC), the major adult liver malignancy. In this review, we summarize current findings on HCC exosomes, focusing on the identification of noncoding RNAs as exosome-enriched functional regulators and new potential biomarkers. The great potential of exosomes in future HCC diagnostic and therapeutic approaches is underlined.
+

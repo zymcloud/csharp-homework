@@ -1,0 +1,4 @@
+27010983
+2016
+Background:Hepatocellular carcinomas are frequently nonresponsive to systemically delivered drugs. Local delivery provides an alternative to systemic administration, maximizing the dose delivered to the tumor, achieving sustained elevated concentrations of the drug, while minimizing systemic exposure.Results:Ultrasound-guided deposition of doxorubicin (Dox)-eluting in situ forming implants (ISFI) in an orthotopic tumor model significantly lowers systemic drug levels. As much as 60 µg Dox/g tumors were observed 21 days after ISFI injection. Tumors treated with Dox implants also showed a considerable reduction in progression at 21 days.Conclusion:Dox-eluting ISFIs provide a promising platform for the treatment of hepatocellular carcinomas by which drug can be delivered directly into the lesion, bypassing distribution and elimination by the circulatory system.
+drug delivery; hepatocellular carcinoma; in situ forming implant; phase inversion; ultrasound.

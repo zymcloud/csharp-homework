@@ -1,0 +1,4 @@
+20975761
+2010 Oct
+We evaluated the efficacy and toxicity of cisplatin/docetaxel (CDDP/TXT) chemotherapy and identified prognostic factors in Japanese patients with cancer of unknown primary site (CUP). Twenty-eight consecutive patients seen at a single institute were reviewed retrospectively. Sixteen patients were treated with TXT 80 mg/m2, followed by CDDP 75 mg/m2. The overall response rate to CDDP/TXT treatment was 62.5%, with a median survival time (MST) of 22.7 months. Common adverse reactions were myelosuppression and hyponatremia. The MST of all 28 patients with CUP was 8.3 months, and the 1-year overall survival rate was 45.6%. Univariate analysis identified 5 prognostic factors:performance status, liver involvement, bone involvement, pleural involvement, and lymph node involvement. In conclusion, CDDP/TXT chemotherapy is effective with tolerable toxicity in patients with CUP. Japanese patients with CUP might be chemosensitive and may survive longer.
+

@@ -1,0 +1,4 @@
+31331801
+2019 Dec
+Introduction:Tumor recurrence is a major cause of post-transplant mortality in liver transplantation for hepatocellular carcinoma (HCC). This study aimed to explore an effective noninvasive approach to accurately predict post-transplant tumor recurrence.Materials and methods:Metabolomics profiling was performed on pre-operative plasma from 122 HCC patients undergoing liver transplantation, 52 healthy controls (HC) and 25 liver cirrhosis (LC) patients.Results:Five prognostic metabolites were identified by univariate analysis (P Conclusions:The established pre-operative plasma fingerprint/nomogram is efficient in the prediction of recurrence risk, which could facilitate candidate selection in liver transplantation for HCC.
+Fingerprint; Hepatocellular carcinoma; Liver transplantation; Metabolomics; Nomogram.

@@ -1,0 +1,4 @@
+30078405
+Jul-Aug 2018
+The role of the sagittal abdominal diameter (SAD) as a predictor of incident liver disease is unknown. 6626 individuals from the Finnish population-based Health 2000 Study were linked with national registers for liver-related admissions, mortality and cancer. SAD predicted incident liver disease (HR 1.32, 95% CI 1.06-1.65) when adjusted for age and sex, but the association was weaker than for waist-hip ratio (HR 1.86, 95% CI 1.35-2.55), waist circumference (HR 1.42, 95% CI 1.12-1.81), and waist-height ratio (HR 1.44, 95% CI 1.12-1.87); BMI was non-significant. In conclusion, SAD provided no additional benefit to other obesity measures in predicting incident severe liver disease.
+BMI; Liver cirrhosis; Obesity; SAD; Waist–hip ratio.

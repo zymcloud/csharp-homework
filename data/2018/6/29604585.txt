@@ -1,0 +1,4 @@
+29604585
+2018 Jun
+Hepatocellular carcinoma (HCC) is the second leading cause of cancer-related mortality worldwide. The oncogenic function of the long non-coding RNA; metastasis-associated lung adenocarcinoma transcript 1 (MALAT1) in HCC remains unclear. We aimed to evaluate MALAT1 serum expression profile in HCC and explore its relation to the clinicopathological features. Quantitative Real Time-Polymerase Chain Reaction was applied in 70 cohorts (30 HCC, 20 HCV, 20 controls). Further meta-analysis of clinical studies and in vitro validated experiments was employed. Serum MALAT1 showed area under the curve of 0.79 and 0.70 to distinguish patients with cancer from normal and cirrhotic individuals at fold change of 1.0 and 1.26, respectively. Expression level was significantly higher in males (P
+HCC; HCV; MALAT1; Meta-analysis; lncRNA.

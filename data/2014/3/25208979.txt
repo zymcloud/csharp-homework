@@ -1,0 +1,4 @@
+25208979
+2015 Mar 15
+Numerous studies have investigated the effects of adjuvant chemotherapy for primary hepatocellular carcinoma (HCC) patients. We conducted this analysis to evaluate the efficacy of adjuvant chemotherapy in HCC patients after hepatectomy. PubMed/MEDLINE, EMBASE, Cochrane, and other databases were searched for eligible studies. The major endpoints were overall survival (OS) and disease-free survival (DFS). The pooled odds ratio (OR) was calculated using a random-effects model to summarize the results. In the meta-analysis of 13 randomized control trials (RCTs) and 35 observational studies with 4747 patients, hepatectomy plus adjuvant chemotherapy showed superiority over hepatectomy alone in 1-year DFS (OR = 1.86, 1.38-2.51, p
+chemotherapy; hepatectomy; hepatocellular carcinoma; meta-analysis; recurrence.

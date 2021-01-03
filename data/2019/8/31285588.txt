@@ -1,0 +1,4 @@
+31285588
+2019 Aug
+The clinical utility of serum alpha-fetoprotein (AFP) in patients with hepatocellular carcinoma (HCC) is widely recognised. However, a clear understanding of the mechanisms of AFP overexpression and the molecular traits of patients with AFP-high tumours are not known. We assessed transcriptome data, whole-exome sequencing data and DNA methylome profiling of 520 HCC patients from two independent cohorts to identify distinct molecular traits of patients with AFP-high tumours (serum concentration > 400 ng/ml), which represents an accepted prognostic cut-off and a predictor of response to ramucirumab. Those AFP-high tumours (18% of resected cases) were characterised by significantly lower AFP promoter methylation (p
+

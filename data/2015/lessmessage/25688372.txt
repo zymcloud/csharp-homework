@@ -1,0 +1,4 @@
+25688372
+2015
+MicroRNAs (miRNAs) are a group of small RNAs with a fundamental role in the regulation of gene expression. These RNAs have been shown to participate in various cellular and physiological processes, including cellular development, apoptosis, proliferation, and differentiation. Aberrant expression of several miRNAs was found to be involved in a large variety of neoplasms, including hepatocellular carcinoma (HCC). Previous studies have shown the existence of a large amount of stable miRNAs in human serum/plasma, which laid the foundation for studying the role of serum/plasma miRNAs in the diagnosis and prognosis of HCC. Here, we review the recent progress in research on serum miRNAs as biomarkers for HCC in Chinese patients.
+

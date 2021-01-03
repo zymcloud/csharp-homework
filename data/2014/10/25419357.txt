@@ -1,0 +1,4 @@
+25419357
+2014 Oct 15
+The prognostic value of Interleukin 17 (IL-17) in cancer patients is currently under debate and remains inconclusive. We performed a systematic review and meta-analysis to evaluate the role of IL-17 as a prognostic marker in cancer. Hazard ratios (HRs) and corresponding 95% confidence intervals (CIs) were combined to measure the effective value of IL-17 expression on prognosis. Nineteen eligible studies enrolling 2390 patients were identified. We found expression of IL-17 was not significantly correlated with overall survival (OS) in cancer (HR=1.29, 95% Cl: 0.94-1.76; P=0.12). Furthermore, compared to the data from our analysis that high expression of IL-17 predicted poor OS in both non-small cell lung carcinoma (NSCLC) (HR=2.30; 95% CI: 1.45-3.64; P
+IL-17; meta-analysis; prognosis; survival.

@@ -1,0 +1,4 @@
+23659175
+Jan-Feb 2013
+Three acetylenic brominated derivatives were isolated from a Red Sea sponge, Haliclona sp. One of them, 18-bromooctadeca-9(E),17(E)-dien-7,15-diynoic acid (3), is a known metabolite, and the other two are new compounds, (1E,5E,12E,19E)-1,22-dibromodocosa-1,5,12,19-tetraen-3,14,21-triyne (1) and methyl 18-bromooctadeca-9(E),17(E)-dien-7,15-diynoate (2) which was isolated for the first time as a natural metabolite. Structures of all compounds were determined based on extensive spectroscopic measurements [1D (1H, 13C and DEPT) and 2D (HSQC, HMBC and NOESY) NMR, MS, UV, and IR]. All compounds, except 3, were evaluated for their cytotoxicity employing four cancer cell lines, i.e. MCF-7 (human breast cancer), HepG2 (human hepatocellular carcinoma), WI-38 (skin carcinoma), and Vero (African green monkey kidney). Compounds 1 and 2 had potent selective antitumour activity towards MCF-7 cells with IC50 values of 32.5 and 50.8 microM, respectively.
+

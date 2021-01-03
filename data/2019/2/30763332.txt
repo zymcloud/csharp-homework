@@ -1,0 +1,4 @@
+30763332
+2019 Feb 14
+For studying cancer and genetic diseases, the issue of identifying high correlation genes from high-dimensional data is an important problem. It is a great challenge to select relevant biomarkers from gene expression data that contains some important correlation structures, and some of the genes can be divided into different groups with a common biological function, chromosomal location or regulation. In this paper, we propose a penalized accelerated failure time model CHR-DE using a non-convex regularization (local search) with differential evolution (global search) in a wrapper-embedded memetic framework. The complex harmonic regularization (CHR) can approximate to the combination [Formula: see text] and ℓq (1 ≤ q
+

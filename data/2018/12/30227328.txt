@@ -1,0 +1,4 @@
+30227328
+2018 Dec
+Studies have shown that metallothionein 1 M (MT1M) is a tumor suppressor gene which is frequently down-regulated in human hepatocellular carcinoma (HCC). The methylation of MT1M promoter region is one of the important transcriptional regulation mechanisms that contribute to the loss of its expression. In our study, we found that there are still half of the 55 HCC tumor tissues in our cohort do not share the promoter methylation of MT1M. So, we speculated there maybe another mechanism participating in the downregulation of MT1M in HCC. Then, we provided evidences that miR-545-3p, which served as a tumor promoter, post-transcriptionally regulate MT1M in HCC through binding to its untranslated region (3'UTR). Taking together, we investigated the role of miR-545-3p in the process of HCC through regulating MT1M.
+Hepatocellular carcinoma; Invasion and migration; MT1M; miR-545-3p.

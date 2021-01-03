@@ -1,0 +1,4 @@
+28109115
+2017 Jan 20
+Invasion and metastasis are key factors contributing to the high mortality rate of patients with hepatocellular carcinoma (HCC) involving a complex mechanism. In the invasion and metastasis of HCC, miRNAs can serve as either oncogenes or tumor suppressor genes to regulate the differentiation and proliferation of tumor cells being and play important roles in tumorigenesis, angiogenesis, invasion and metastasis. This review summarizes the recent progress in research of the molecular mechanisms by which miRNAs targeting GSK-3β regulate HCC invasion and metastasis and examines the roles of miRNAs in hepatocellular carcinoma cell proliferation, apoptosis, invasion, metastasis, and GSK-3β regulation.
+

@@ -1,0 +1,4 @@
+22552445
+2012 Jul
+SIRT1 is the human orthologue of SIR2, a conserved NAD-dependent protein deacetylase that regulates longevity in yeast and in Caenorhabditis elegans. Overexpression of SIRT1 in cancer tissue, compared with normal tissue, has been demonstrated, suggesting that SIRT1 may act as a tumor promoter. The function of SIRT1 in liver cancer has not been elucidated. In the present study, SIRT1 re-expression or knockdown was induced in hepatoma cell lines and liver normal cell lines. Our study demonstrated that overexpression of SIRT1 promoted mitotic entry of liver cells, cell growth and proliferation and inhibited apoptosis. The apoptosis involved caspase-3 and caspase-7, and was related to the PTEN/PI3K/AKT signaling pathway. The results demonstrate that SIRT1 promotes tumorigenesis of hepatocellular carcinoma (HCC) through the PTEN/PI3K/AKT signaling pathway. SIRT1 may serve as a novel target for selective killing of cancer versus normal liver cells.
+

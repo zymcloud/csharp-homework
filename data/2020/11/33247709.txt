@@ -1,0 +1,4 @@
+33247709
+2020 Nov 28
+Serum hepatitis B virus (HBV) mutations can predict hepatocellular carcinoma (HCC) occurrence. We aimed to clarify if HBV evolves synchronously in the sera, adjacent liver, and tumors and predict HCC prognosis equally. A total of 203 HBV-positive HCC patients with radical hepatectomy in Shanghai, China during 2011-2015 were enrolled in this prospective study. Quasispecies complexity (QC) in HBV core promoter region was assessed using clone-based sequencing. We performed RNA-sequencing on tumors and paired adjacent tissues of another 15 HCC patients and analyzed it with 3 public datasets containing 127 samples. HBV QC was positively correlated to APOBEC3s' expression level (r=0.28, p
+

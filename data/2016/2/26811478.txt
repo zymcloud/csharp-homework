@@ -1,0 +1,4 @@
+26811478
+2016 Feb 9
+Cancer cells experience an increase in oxidative stress. The pentose phosphate pathway (PPP) is a major biochemical pathway that generates antioxidant NADPH. Here, we show that transketolase (TKT), an enzyme in the PPP, is required for cancer growth because of its ability to affect the production of NAPDH to counteract oxidative stress. We show that TKT expression is tightly regulated by the Nuclear Factor, Erythroid 2-Like 2 (NRF2)/Kelch-Like ECH-Associated Protein 1 (KEAP1)/BTB and CNC Homolog 1 (BACH1) oxidative stress sensor pathway in cancers. Disturbing the redox homeostasis of cancer cells by genetic knockdown or pharmacologic inhibition of TKT sensitizes cancer cells to existing targeted therapy (Sorafenib). Our study strengthens the notion that antioxidants are beneficial to cancer growth and highlights the therapeutic benefits of targeting pathways that generate antioxidants.
+HCC; PPP; ROS; TKT; metabolism.

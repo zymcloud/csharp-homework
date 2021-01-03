@@ -1,0 +1,4 @@
+20863755
+2011 Jan
+HAb18G/CD147, a cancer-associated biomarker, can promote tumor growth, invasion and metastasis. Here, we established a new strategy to express the extracellular domain of HAb18G/CD147 (HAb18GED) by using the FRT/Flp-In recombinase-based site-directed integration system. Two clones expressing HAb18GED were established, and 600 mg HAb18GED was obtained with more than 95% purity. Our results showed that purified HAb18GED exhibited strong activities to stimulate the secretion of pro-MMP2 and MMP-2 and promote the invasion of HCC cells. Overall, our study effectively overcame the difficulty of large-scale HAb18GED preparation and laid a solid foundation for the further studies on structure and functions of HAb18G/CD147.
+

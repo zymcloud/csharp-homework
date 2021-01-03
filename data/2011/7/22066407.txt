@@ -1,0 +1,4 @@
+22066407
+2011 Jul
+Objective:To analyse the inhibition effect of taspine derivatives on human Liver cancer SMMC7721 cell and its mechanism.Methods:The effects of five taspine derivatives on SMMC7721 cell growth were determined by MTT. The flow cytometry was used to determine the cell cycle. The effects of Tas-D1 on the EGF and VEGF in SMMC7721 cell were determined by ELISA. The mRNA level of EGF and VEGF in SMMC7721 cell was determined by RT-PCR.Results:The MTT assay demonstrated that the taspine derivative Tas-D1 significantly inhibited the growth of SMMC7721 cell in a dose-dependent manner. Cell was stopped at S phase by Tas-D1. Tas-D1 inhibited the expression of EGF and VEGF and their mRNA in a dose-dependent manner (PConclusions:The taspine derivative Tas-D1 can inhibit the growth of human Liver cancer SMMC7721 cell and change cell cycle, which may be related to the inhibition of EGF and VEGF expression.
+

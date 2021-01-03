@@ -1,0 +1,4 @@
+23562475
+2013 Aug 19
+T-cell factor (TCF) proteins represent key transcription factors in Wnt signaling. We show that the SxxSS motif in TCF-4 regulates transcriptional activity in HCC cells. TCF-4K mutants increased transcriptional activity compared to TCF-4K (bearing the SxxSS); the binding pattern of co-factors in TCF-4K mutants was similar to that in TCF-4J (lacking the SxxSS). TCF activity in TCF-4K cells was suppressed by homeodomain-interacting protein kinase 2 (HIPK2), but not in TCF-4J cells. Together, our data indicates that the SxxSS motif in TCF-4K regulates transcriptional activity by modifying co-factors in the β-catenin/TCF-4 transcriptional complex and these events may be mediated through HIPK2.
+

@@ -1,0 +1,4 @@
+33205463
+2020 Nov 18.</span
+We appreciate the letter from Wang et al regarding our recent publication. We agree that the study of tumor growth patterns is challenging, and the ideal model for determining tumor growth remains debated. We used the Schwartz equation for our analyses, which remains the most widely used model across cancer types. This model assumes that tumors grow at a consistent (exponential, rather than linear) rate and HCCs are relatively homogeneous. Exponential growth models assume that tumor cells continue to divide without constraint, and therefore are good models of early tumor growth.
+

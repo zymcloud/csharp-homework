@@ -1,0 +1,4 @@
+27498719
+2017 Feb
+Microwave coagulation therapy (MCT) is an effective treatment for hepatocellular carcinoma. During MCT, the target region is heated to induce coagulation in the tissue, including cancer cells. Several types of antennas for MCT have been developed, the heating performances of which were evaluated via specific absorption rate (SAR) and temperature distribution. However, for coagulation therapy, detailed evaluation of the coagulated region is important. Therefore, a newly developed algorithm is presented for calculating the coagulated region within biological tissue. To confirm the validity of the proposed method, the calculated result is compared with the experimental findings.
+Interstitial microwave heating; coagulated region; coaxial-slot antenna; numerical calculation.

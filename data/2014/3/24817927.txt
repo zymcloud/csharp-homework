@@ -1,0 +1,4 @@
+24817927
+2014 Mar 15
+Sorafenib is a multi-kinase inhibitor approved for hepatocellular carcinoma, but rarely causes tumor regression in patients with chronic liver diseases. To investigate whether growth factor-mediated signaling is involved in sorafenib resistance, HepG2 and PLC/PRF/5 hepatoma cells were exposed to epidermal growth factor (EGF), hepatocyte growth factor (HGF) or transforming growth factor-β (TGF-β) prior to treatment with sorafenib. Furthermore, to identify an effective combination treatment with sorafenib, growth factor-sensitized cells were treated with sorafenib alone or in combination with celecoxib, lovastatin or valproic acid (VPA). Trypan blue staining and Annexin V assays showed that the cytotoxic effect of sorafenib was inhibited by 15-54% in cells sensitized to TGF-β (P
+Sorafenib; TGF-β; hepatocellular carcinoma.

@@ -1,0 +1,4 @@
+23751226
+Jul-Aug 2013
+Improvement in survival of patients with HCC depends on detecting small lesions. This is possible by screening all patients with cirrhosis for HCC. However, these small lesions are difficult to characterise as only 50 to 80% of lesions less than 3cm have a typical HCC appearance, depending on the imaging technique used. MRI, with its various possibilities (dynamic sequences, diffusion-weighting, liver-specific contrast agents), is currently the most effective imaging technique for characterising these small HCCs, but at present we do not know the best combination of imaging examinations for diagnosing the condition.
+Cirrhosis; Liver; MRI; Malignant tumour; Non-invasive diagnosis.

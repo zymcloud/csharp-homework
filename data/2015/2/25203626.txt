@@ -1,0 +1,4 @@
+25203626
+2015 Feb
+The enhancer of zeste homolog 2 (EZH2) has emerged as a novel anticancer target. Various EZH2 inhibitors have been developed in recent years. Among these, 3-deazaneplanocin A (DZNep) is known to deplete EZH2 protein expression through an indirect pathway. In contrast, GSK343 directly inhibits enzyme activity through an S-adenosyl-L-methionine-competitive pathway. Therefore, we proposed that DZNep and GSK343 may exert differential effects against cancer cells. In this study, we found that GSK343 but not DZNep induced autophagic cell death of cancer cells. Inhibition of EZH2 expression was not required for GSK343-induced autophagy. In addition, GSK343 enhanced the anticancer activity of a multikinase inhibitor, sorafenib, in human hepatocellular carcinoma cells. Our results show that GSK343 is a more potent anticancer agent than DZNep, and for the first time, we show that it acts as an autophagy inducer.
+

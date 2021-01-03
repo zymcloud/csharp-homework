@@ -1,0 +1,4 @@
+22153071
+2011 Dec 9
+Hepatocyte nuclear factor 4α (HNF4α) is essential for liver development and hepatocyte function. Here, we show that transient inhibition of HNF4α initiates hepatocellular transformation through a microRNA-inflammatory feedback loop circuit consisting of miR-124, IL6R, STAT3, miR-24, and miR-629. Moreover, we show that, once this circuit is activated, it maintains suppression of HNF4α and sustains oncogenesis. Systemic administration of miR-124, which modulates inflammatory signaling, prevents and suppresses hepatocellular carcinogenesis by inducing tumor-specific apoptosis without toxic side effects. As we also show that this HNF4α circuit is perturbed in human hepatocellular carcinomas, our data raise the possibility that manipulation of this microRNA feedback-inflammatory loop has therapeutic potential for treating liver cancer.
+

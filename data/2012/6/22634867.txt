@@ -1,0 +1,4 @@
+22634867
+2012 Jun 21
+Sterol regulatory element-binding proteins (SREBPs) are major transcription factors that regulate the expression of genes involved in fatty acid and cholesterol biosynthesis. Here we show that 4'-hydroxyflavanone (4'-HF) impairs the fatty acid synthase promoter activity and reduces the activation of SREBPs and their target gene expression in human hepatoma Huh-7 cells. Moreover, 4'-HF suppresses de novo fatty acid and cholesterol synthesis. This study identifies 4'-HF as an inhibitor of SREBP maturation and lipid synthesis, and provides evidence that 4'-HF may have major potential as a pharmaceutical preparation against hepatic steatosis and dyslipidemia.
+

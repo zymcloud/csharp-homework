@@ -1,0 +1,4 @@
+20555416
+2010 Apr
+4-Demethylepipodophyllotoxin 7'-O-beta-D-glucopyranoside (4' DPG), a new podophyllotoxin glucoside with a chemical structure similar to that of 4-demethylpicropodophyllotoxin 7'-O-beta-D-glucopyranoside (4DPG), was isolated from the rhizomes of Sinopodophyllum emodi (Wall.) Ying (Berberidaceae). Like 4DPG and etoposide (VP-16), 4' DPG displayed dose- and time-dependent cytotoxic effects in HepG2 cells. Flow cytometric analysis demonstrated the presence of apoptotic cells and DNA fragmentation after HepG2 cells were exposed to 4' DPG (1 micromol/L). In addition, 4' DPG-driven apoptotic events were associated with upregulation of Bax and downregulation of Bcl-2. These results suggest that 4' DPG has prominent cytotoxic activity and induces apoptosis by increasing the ratio of Bax to Bcl-2 in HepG2 cells.
+

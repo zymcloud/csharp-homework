@@ -1,0 +1,4 @@
+30219228
+2018 Oct 12
+This study aimed to elucidate the effect of miR-1306-3p on metastasis of hepatocellular carcinoma (HCC) and potential mechanism involved. miR-1306-3p promoted migration and invasion of HCC in vivo and in vitro. Moreover, miR-1306-3p inhibited snail to enhance its expression via directly targeting FBXL5, thus inducing the epithelial-mesenchymal transition (EMT) in HCC. Intriguingly, miR-1306-3p expression was transcriptionally enhanced by FoxM1. Consistently, miR-1306-3p was upregulated in HCC compared with paracarcinoma and correlated with poor prognosis of HCC patients. Our researches suggest that miR-1306-3p is a tumor enhancer in regulating of HCC metastasis, and miR-1306-3p may be clinically utilized as a factor for the clinical diagnosis and prognosis of HCC.
+EMT; FBXL5; Hepatocellular carcinoma; miR-1306–3p; microRNAs.

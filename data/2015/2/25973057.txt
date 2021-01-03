@@ -1,0 +1,4 @@
+25973057
+2015 Feb 1
+MircroRNA functions as tumor suppressor or promoter in hepatocellular carcinoma (HCC). Researchers have found that miR-365 expression was lower in HCC tissues compared with that in adjacent normal tissues. However, its prognostic significance and anti-proliferation effect in HCC remain to be clarified. In this study, we firstly found that miR-365 expression was lower in HCC tissues compared with that in adjacent normal tissues. Then, we analyzed miR-365 expression level and its clinicopathological and prognostic significance. Finally, overexpression of miR-365 inhibits HCC cell proliferation and migration in vitro. Our findings suggest that miR-365 expression was an independent poor prognostic factor for HCC patient overall survival and suppressed tumor cell growth. Therefore, miR-365 may serve as a valuable prognostic marker and promising target for HCC.
+hepatocellular carcinoma; miR-365; prognosis; proliferation.

@@ -1,0 +1,4 @@
+26648274
+2015 Nov
+The aim of the present study was to examine the apoptosis of the hepatocellular carcinoma cell line, HepG2, induced by treatment with folic acid-conjugated silica-coated gold nanorods (GNRs@SiO2-FA) in combination with radiotherapy, and to determine the involvement of apoptosis-related proteins. An MTT colorimetric assay was used to assess the biocompatibility of GNRs@SiO2-FA. The distribution of GNRs@SiO2-FA into the cells was observed using transmission electron microscopy (TEM). HepG2 cells cultured in vitro were divided into the following 4 groups: i)the control group (untreated), ii) the GNRs@SiO2-FA group, iii) the radiotherapy group (iodine 125 seeds) and iv) the combination group (treated with GNRs@SiO2-FA and iodine 125 seeds) groups. The apoptosis of the HepG2 cells was detected by flow cytometry. The concentration range of
+

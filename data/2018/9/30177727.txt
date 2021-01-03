@@ -1,0 +1,4 @@
+30177727
+2018 Sep 3
+Liver cancer, also known as primary liver cancer, is cancer that starts in the liver. JNU-144, a new meroterpenoid purified from Lithospermum erythrorhizon, has exhibited promising anticancer activity; however, the molecular mechanisms of action of JNU-144 on malignant cells remain unclear. Our studies revealed that JNU-144 suppressed cell viability and proliferation in hepatoma cells by downregulating mTOR activation. Meanwhile, JNU-144 activated the intrinsic apoptosis pathway and subsequently triggered apoptotic cell death in SMMC-7721 cells. We also found that JNU-144 inhibited the epithelial-mesenchymal transition in both SMMC-7721 and HepG2 cells through reprogramming of epithelial-mesenchymal transition (EMT)-related gene expression or regulating protein instability. These findings indicate that JNU-144 exerts potent anticancer activity in hepatoma cells and may be developed as a potential therapeutic drug.
+

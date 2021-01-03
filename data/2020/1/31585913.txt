@@ -1,0 +1,4 @@
+31585913
+2020 Jan 1
+Adenosine deaminase acting on RNA1 (ADAR1) is an RNA editing enzyme that modulates the replication of several viruses. Here, we provide evidence showing that ADAR1 stimulates hepatitis B virus (HBV) DNA replication in hepatocellular carcinoma cell lines that are transiently or stably-transfected with HBV. We show that overexpression of ADAR1 promotes the replication of all four HBV genotypes (A, B, C, and D). Furthermore, analysis by mutagenesis shows that RNA editing region, and to a lesser content, RNA binding region of ADAR is responsible for the promotion of replication. Together, these data show that ADAR1 stimulates HBV replication.
+

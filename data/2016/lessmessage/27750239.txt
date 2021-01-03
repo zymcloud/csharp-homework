@@ -1,0 +1,4 @@
+27750239
+2016
+Purpose:Contrast-enhanced sonography increases negative enhancement in the Kupffer phase after transcatheter arterial chemoembolization (TACE) for hepatocellular carcinoma (HCC). We compared contrast-enhanced sonography with B-mode sonography for guidance of radiofrequency ablation (RFA) of HCC after TACE.Methods:After TACE was performed, 18 nodules in 12 patients were treated by B-mode sonography guided RFA, while 22 nodules in 18 patients were treated by contrast-enhanced sonography-guided RFA.Results:The success rate of initial RFA was 83.3% (15/18 nodules) in the B-mode sonography group. On the other hand, the success rate was 100% (22/22 nodules) in the contrast-enhanced sonography group and the difference was significant (p = 0.046).Conclusion:These findings suggest that RFA guided by Kupffer phase contrast-enhanced sonography after TACE is a promising therapeutic option for curing HCC.
+

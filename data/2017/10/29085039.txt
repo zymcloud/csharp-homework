@@ -1,0 +1,4 @@
+29085039
+2017 Oct 30
+This study examines the role of M2BPGi, a novel seromarker for chronic hepatitis, in predicting hepatocellular carcinoma (HCC) among untreated chronic hepatitis B (CHB) patients. In this nested case-control study, 1070 samples were assayed for M2BPGi, including 357 samples from HCC cases, and 713 samples from non-HCC controls, collected at various times throughout follow-up. HCC case samples were stratified according to years prior to diagnosis. Associations between M2BPGi and HCC were examined with multivariate logistic regression. M2BPGi, α-fetoprotein (AFP), and hepatitis B surface antigen (HBsAg) levels were significant independent short-term predictors of HCC, while M2BPGi was insignificant in long-term analyses. Compared to M2BPGi levels 5 years were 0.84, 0.81, and 0.75. M2BPGi is a strong and independent short-term predictor of HCC in CHB patients.
+

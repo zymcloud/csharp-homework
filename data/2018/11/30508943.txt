@@ -1,0 +1,4 @@
+30508943
+2018 Nov
+Hepatocellular carcinoma (HCC) is one of the most common cancers and a leading cause of cancer-related deaths worldwide. Early diagnosis of HCC remains a great challenge in clinic. Novel and effective biomarkers are in urgent need in early diagnosis of HCC.Serum levels of neurotrophin-receptor-interacting melanoma antigen-encoding gene homolog (NRAGE) were measured for 107 patients with HCC, 98 patients with benign liver diseases, and 89 healthy controls using quantitative real-time polymerase chain reaction. Receiver operating characteristic curve was applied to evaluate the diagnostic capacity of serum NRAGE in HCC.NRAGE expression was significantly higher in patients with HCC than in controls (all, P
+

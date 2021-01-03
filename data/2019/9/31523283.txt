@@ -1,0 +1,4 @@
+31523283
+2019 Sep 6
+Hepatocellular carcinoma (HCC) remains a major cause of cancer-related mortality worldwide. Delayed diagnosis is a major factor responsible for the poor prognosis of HCC. Several advances have been made in the field of liver imaging with the use of novel imaging contrasts, improving current imaging techniques with contrast-enhanced computed tomography (CT) and magnetic resonance imaging (MRI), introduction of new technologies such as contrast liver ultrasound, and development of novel biomarkers with the goal of early detection of HCC and improving outcomes of patients with HCC. This review focuses on current surveillance strategies and development of biomarkers with the goal of early detection of HCC.
+CT; HCC; MRI; biomarkers; liquid biopsy; surveillance; ultrasound.

@@ -1,0 +1,4 @@
+33305727
+2020 Oct 1
+The aim of the present study was to examine changes in the expression and activity of P-glycoprotein (P-gp) in human hepatocellular carcinoma HepG2 cells after exposure to menthol, and their relationship to the cytotoxicity of and apoptotic responses to doxorubicin (DOX), a substrate of P-gp, in the cells. The expression of P-gp in HepG2 cells was significantly increased by menthol treatment. Intracellular accumulation of DOX in HepG2 cells was significantly lower in the menthol-treated group than in the control group, but this phenomenon was abolished in the presence of verapamil. Decreased cell viability by DOX was significantly attenuated by 24-h menthol treatment prior to DOX exposure, which coincided with the changes in mRNA expression of Bcl-xl and caspase-3. These results demonstrate that menthol causes hepatocellular carcinoma cells to acquire resistance to DOX by increasing its efflux through the upregulation of P-gp.
+

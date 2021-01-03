@@ -1,0 +1,4 @@
+19949911
+2010 Sep
+Protein kinase Cs (PKCs) play important roles in signal transduction, cell regulation, and tumor formation. In the present study, we analyzed the expression of PKCs in human hepatocellular carcinoma (HCC) tissues and explored their roles in the development of HCC. Real-time quantitative PCR and immunohistochemistry showed that PKCbeta and PKCtheta were down-regulated in HCC tissues. Reduced expression of PKCtheta is well correlated with the grade of cancer cells (p = 0.009), and the down-regulated expression of PKCbetaII is associated with HBV infection (p = 0.035). Our findings suggest particular roles of the two PKC isoenzymes in the hepatocarcinogenesis of human HCC.
+

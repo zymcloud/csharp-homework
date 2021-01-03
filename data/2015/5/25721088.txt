@@ -1,0 +1,4 @@
+25721088
+2015 May 1
+Human hepatocellular carcinoma (HCC) has a high rate of tumor recurrence and metastasis, resulting in shortened survival times. The efficacy of current systemic therapies for HCC is limited. In this study, we used xenograft tumor models to investigate the use of antibodies that block CD47 and inhibit HCC tumor growth. Immunostaining of tumor tissue and HCC cell lines demonstrated CD47 over-expression in HCC as compared to normal hepatocytes. Macrophage phagocytosis of HCC cells was increased after treatment with CD47 antibodies (CD47mAbs) that block CD47 binding to SIRPα. Further, CD47 blockade inhibited tumor growth in both heterotopic and orthotopic models of HCC, and promoted the migration of macrophages into the tumor mass. Our results demonstrate that targeting CD47 by specific antibodies has potential immunotherapeutic efficacy in human HCC.
+Antibody therapy; CD47; HCC; Xenograft models.

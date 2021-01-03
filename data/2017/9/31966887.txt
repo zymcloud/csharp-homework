@@ -1,0 +1,4 @@
+31966887
+2017 Sep 1
+Objective:to explore clinical value and potential targets of MicroRNA-224-5p in the tumorigenesis and progression of hepatocellular carcinoma (HCC).Methods:We evaluated the clinical value of MicroRNA-224-5p from The Cancer Genome Atlas (TCGA) and Gene Expression Omnibus (GEO). Meanwhile, target genes of MicroRNA-224-5p were predicted by bioinformatics method. The target genes of MicroRNA-224-5p were finally analyzed in Gene Ontology (GO) terms, Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway annotation, and Protein-Protein Interaction (PPI) network annotation.Results:MicroRNA-224-5p expression level in HCC was higher than in non-tumor tissues (SMD=1.24; 95% CI, 0.68 to 1.81; PConclusion:MicroRNA-224-5p is upregulated in HCC and may be a prospective biomarker for diagnosis. Moreover, MicroRNA-224-5p might play an oncogenic role in HCC by targeting GNA14.
+Hepatocellular carcinoma; bioinformatics; gene targeting; microRNAs.

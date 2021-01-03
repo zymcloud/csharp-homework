@@ -1,0 +1,4 @@
+33128309
+2020 Oct 31.</span
+This study focused on evaluating the potency of Methyl Palmitate in reducing in vivo toxicity with enhancement of anti-cancer effects of Sorafenib. In vitro anti-cancer effects on human Hep-G2 cell line were analysed by MTT, Trypan blue, clonogenic, wound scratch migration and TUNEL assays. An in vivo study for anti-angiogenesis effect, toxicity and teratogenicity was analysed in Zebrafish embryos. The combination of Sorafenib (4.5 µmol/L) with Methyl Palmitate (3 mmol/L) significantly enhanced anti-cancer effects on Hep-G2 cell line by increasing cytotoxicity (P ≤ .05 in MTT assay; P ≤ .01 in Trypan blue assay), apoptosis (P ≤ .05) and decreasing the metastatic migration (P ≤ .01) than Sorafenib alone treatment. A prominent inhibition of angiogenesis in vivo was observed for combination treatment. At 5 dpf, only
+HEP-G2 cells; Methyl Palmitate; Sorafenib; Zebrafish; anti-angiogenesis and teratogenic.

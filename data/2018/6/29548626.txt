@@ -1,0 +1,4 @@
+29548626
+2018 Jun
+Drug-induced liver injury shares a common feature of mitochondrial dysfunction. Mitochondrial therapy (mitotherapy), which replaces malfunctional mitochondria with functional exogenous mitochondria, may be a fundamental approach for treating drug-mediated hepatotoxicity. Here, we suggested that mitochondria isolated from human hepatoma cell could be used to treat acetaminophen (APAP)-induced liver injury in mice. When the mitochondria were added into the cell media, they could enter primarily cultured mouse hepatocyte. When the mitochondria were intravenously injected into mice, they distribute in several tissues, including liver. In the model mice of APAP-induced liver injury, mitochondria treatment increased hepatocyte energy supply, reduced oxidation stress, and consequently ameliorated tissue injury. The study suggests that exogenous mitochondria could be an effective therapeutic strategy in treating APAP-induced liver injury.
+

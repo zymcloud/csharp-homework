@@ -1,0 +1,4 @@
+23560736
+2013 May 7
+We apply desorption electrospray ionization mass spectrometry imaging (DESI-MSI) to provide an in situ lipidomic profile of genetically modified tissues from a conditional transgenic mouse model of MYC-induced hepatocellular carcinoma (HCC). This unique, label-free approach of combining DESI-MSI with the ability to turn specific genes on and off has led to the discovery of highly specific lipid molecules associated with MYC-induced tumor onset. We are able to distinguish normal from MYC-induced malignant cells. Our approach provides a strategy to define a precise molecular picture at a resolution of about 200 μm that may be useful in identifying lipid molecules that define how the MYC oncogene initiates and maintains tumorigenesis.
+

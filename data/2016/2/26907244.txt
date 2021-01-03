@@ -1,0 +1,4 @@
+26907244
+2016 Feb 22
+Coumarins are naturally occurring oxygen heterocyclic compounds having multifarious medicinal properties, hence used as lead compounds for designing new potent analogs. The chromene butenoic acid 3 and the benzochromene butenoic acid 4 which are derived from the reaction of glyoxalic acid with 3-acetylcoumarin and 3-acetylbenzocoumarin, respectively, were reacted with different nitrogen and carbon nucleophiles to give new heterocyclic compounds. The structures of the prepared compounds were elucidated by IR, ¹H-NMR, and mass spectroscopy. Some of the newly prepared compounds were tested in vitro against a panel of four human tumor cell lines namely; hepatocellular carcinoma (liver) HepG2, colon cancer HCT-116, human prostate cancer PC3, and mammary gland breast MCF-7. Also they were tested as antioxidants. Almost all of the tested compounds showed satisfactory activity.
+antioxidant activity; antitumor activity; functionalized coumarin.

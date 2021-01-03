@@ -1,0 +1,4 @@
+26731464
+2016 Jan 26
+Highly sensitive multiplex biomarker detection is critical for the early diagnosis of liver cancer. Here, a surface-enhanced Raman scattering (SERS) frequency-shift immunoassay is developed for detection of liver cancer biomarkers α-fetoprotein and Glypican-3 down to subpicomolar concentrations in saline solution. A high temperature modification of the Tollen's method affords silver nanoparticle films with excellent SERS response upon which ordered domains of Raman reporters are chemisorbed by microcontact printing. Shifts in the reporters SERS spectrum in response to a bound antibody's biomarker recognition constitutes the frequency shift assay, exhibiting here exceptional sensitivity and specificity and shown to function in fetal calf serum and in the serum of a patient with hepatocellular carcinoma.
+SERS; frequency shift immunoassay; liver cancer biomarkers; microcontact printing (μCP); multiplex detection.

@@ -1,0 +1,4 @@
+23891693
+2013 Aug 23
+Hepatocellular carcinoma (HCC) is one of the most common malignant tumors worldwide and is caused by the accumulation of genetic and epigenetic alterations in regulatory genes. In this study, we used methylight to detect the methylation status of the RASSF1A promoter in 87 paired HCC samples and analysed the relationship between methylation status and clinicopathological parameters, including prognosis after surgery. We found that the methylation level of the RASSF1A promoter in HCC tissues was significantly higher than that in the corresponding non-tumorous tissues (p
+DNA methylation; HCC; Methylight; Prognostic biomarker; RASSF1A.

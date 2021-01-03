@@ -1,0 +1,4 @@
+29401451
+2018 Jan 24
+Multi-omics multi-tissue data are used to interpret genome-wide association study results from mice to identify key driver genes of non-alcoholic fatty liver disease. Non-alcoholic fatty liver disease (NAFLD) is the accumulation of fat (steatosis) in the liver due to causes other than excessive alcohol consumption. The disease may progress to more severe forms of liver diseases, including non-alcoholic steatohepatitis, cirrhosis, and hepatocellular carcinoma. In this issue of Cell Systems, Krishnan et al. (2018) reveal mechanisms underlying NAFLD by generating multi-omics data using liver and adipose tissues obtained from the Hybrid Mouse Diversity Panel, consisting of 113 mouse strains with various degrees of NAFLD. The study identified key driver genes of NAFLD that can be used in the development of efficient treatment strategies and illustrates the potential utility of systematic analysis of multi-layer biological networks.
+

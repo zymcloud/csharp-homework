@@ -1,0 +1,4 @@
+26276037
+2015 Sep
+This study systematically evaluates the TCGA whole-transcriptome sequencing data of hepatocellular carcinoma (HCC) by comparing the global gene expression profiles between tumors and their corresponding nontumorous liver tissue. Based on the differential gene expression analysis, we identified a number of novel dysregulated genes, in addition to those previously reported. Top-listing upregulated (CENPF and FOXM1) and downregulated (CLEC4G, CRHBP, and CLEC1B) genes were successfully validated using qPCR on our cohort of 65 pairs of human HCCs. Further examination for the mechanistic overview by subjecting significantly upregulated and downregulated genes to gene set enrichment analysis showed that different cellular pathways were involved. This study provides useful information on the transcriptomic landscape and molecular mechanism of hepatocarcinogenesis for development of new biomarkers and further in-depth characterization.
+

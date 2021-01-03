@@ -1,0 +1,4 @@
+26258795
+2015 Aug 6
+MiR-221 and miR-222 (miR-221/222) are well-studied oncogenic microRNAs that are frequently upregulated in several types of human tumors, such as esophageal adenocarcinoma, gastric adenocarcinoma, colorectal adenocarcinoma, hepatocellular carcinoma, and pancreatic ductal adenocarcinoma. In these cancers, silencing miR-221/222 could represent a novel anti-tumor approach to inhibit tumor growth and metastasis. On the other hand, miR-221/222 also play onco-suppressive roles in cholangiocarcinoma and gastrointestinal stromal tumors (GISTs). Here we will review the roles of miR-221/222 in digestive systems and their possibility as prognostic and therapeutic tools.
+colorectal cancer; hepatocellular carcinoma; microRNA; pancreatic cancer.

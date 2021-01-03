@@ -1,0 +1,4 @@
+25962820
+2015 Jun
+Circulating microRNAs (miRNAs) exist stably in body fluids and are potential biomarkers for hepatocellular carcinoma (HCC). Twenty-five patients with cirrhosis that evolved into HCC, who were treated at The Third Hospital of Zhenjiang Affiliated to Jiangsu University between January 2005 and December 2012, were enrolled. In the discovery stage, 2 serum samples pooled from 3 cirrhosis and 3 HCC samples were subjected to deep sequencing. Subsequently, differential expression of miRNAs was validated by quantitative reverse transcription-polymerase chain reaction (qRT-PCR) in the serum samples from an independent cohort of 22 patients with cirrhosis and HCC. Twenty-two miRNAs showed a >2-fold upregulation (P2-fold downregulation (P
+

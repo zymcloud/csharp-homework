@@ -1,0 +1,4 @@
+23259178
+2012 Oct
+This study explored the double lethal effects of pEGFP-C1-wtp53/junB fusion gene on hepatocellular carcinoma (HCC) cells. wtp53/junB fusion gene was constructed and transformed into HepG2 cell line. Expression of KAI1 was detected by quantitative real-time PCR and Western blotting, cells apoptosis rate was detected by flow cytometry, proliferation of cells was detected byMTT chromometry, cell transmigration was detected by using transwell systems. The results showed that after transformation with pEGFP-C1-wtp53/JunB, the expression level of KAI1 protein was up-regulated, being 8.13 times the blank control group in HepG2 cells and significantly higher than 2.87 times which transformed with pEGFP-C1-JunB, 3.11 times which transformed with pEGFP-C1-wtp53 (P
+

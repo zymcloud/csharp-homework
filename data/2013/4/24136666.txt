@@ -1,0 +1,4 @@
+24136666
+2014 Apr
+A novel laccase with a molecular mass of 67 kDa was isolated from the fermentation broth of Pleurotus cornucopiae through ion exchange chromatography and gel filtration. The optimal pH and temperature for the laccase was pH 4.2 and 30°C, respectively. The laccase activity was remarkably inhibited by Fe(3+) and Hg(2+) , while it was stimulated by Cu(2+) and Pb(2+) . It inhibited proliferation of the hepatoma cells HepG2 and the breast cancer cells MCF-7, and the activity of HIV-I reverse transcriptase with IC50 values of 3.9, 7.6 and 3.7 μM, respectively.
+FPLC; Pleurotus cornucopiae; fermentation broth; isolation; laccase; mushroom.

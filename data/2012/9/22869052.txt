@@ -1,0 +1,4 @@
+22869052
+2012 Sep
+PTPN11, which encodes tyrosine phosphatase Shp2, is a critical gene mediating cellular responses to hormones and cytokines. Against original prediction as tumor suppressor for tyrosine phosphatases, PTPN11 was first identified as a proto-oncogene because activating mutations of this gene are associated with leukemogenesis. However, most recent experimental data suggest PTPN11/Shp2 acting as a tumor suppressor in hepatocarcinogenesis. This review focuses on the tumor-promoting or suppressing roles of the gene PTPN11/Shp2 in different cell types.
+

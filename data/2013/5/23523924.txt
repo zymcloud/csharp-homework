@@ -1,0 +1,4 @@
+23523924
+2013 May 2
+Hepatitis delta virus (HDV) is a small, defective RNA virus that can infect only individuals carrying hepatitis B virus. HBV/HDV co-infection results in more severe liver disease than HBV single infection and more rapid progression to cirrhosis and hepatocellular carcinoma (HCC). The epigenetic events involved in hepatocyte transformation towards malignancy in this context are poorly known. Here we report that, in Huh-7 cells, HDV induces DNMT3b expression and is associated to E2F1 transcription factor hypermethylation. Moreover our cell cycle analysis showed that HDV induces G2/M arrest. These findings suggest that HDV could play a role in HCC development at least in part by altering DNA methylation events. A better understanding of the molecular mechanisms involved in HDV-related carcinogenesis could help to identify new therapeutic targets.
+

@@ -1,0 +1,4 @@
+24060847
+2013
+Background:We postulated that microRNAs (miRNAs) might be involved in hepatocellular carcinoma (HCC) targeted chemotherapy with paclitaxel. This study sought to generate a list of potential miRNA-based biomarkers and their potential targets to better understand the response to paclitaxel treatment in HCC.Methods:Cell viability proliferation assays were conducted to test the sensitivity of the HepG2 cells to paclitaxel. The morphological changes of apoptosis were assessed with 4',6-diamidino-2-phenylindole staining. Differential expression patterns of miRNA in the HepG2 cells either treated or not treated were analyzed using miRNA microarrays.Results:The array experiments have identified 54 miRNAs whose basal expression levels differed by >2-fold and p Conclusions:The manipulation of one or more of these miRNAs could be an important approach for the improved management of paclitaxel therapy.
+

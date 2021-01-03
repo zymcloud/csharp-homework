@@ -1,0 +1,4 @@
+25567722
+2015
+A novel series of 5-nitro-1H-benzimidazole derivatives substituted at position 1 by heterocyclic rings was synthesized. Cytotoxicity and antiviral activity of the new compounds were tested. Compound 3 was more active than doxorubicin against A-549, HCT-116 and MCF-7. However, compound 3 showed no activity against human liver carcinoma Hep G-2 cell line. Compounds 9 and 17b (E) showed potency near to doxorubicin against the four cell lines. The acute toxicity of compound 9 on liver cancer induced in rats was determined in vivo. Interestingly, it showed restoration activity of liver function and pathology towards normal as compared to the cancer-bearing rats induced by DENA. Compounds 17a (Z), 17b (E) and 18a (Z) were the most promising compounds for their antiviral activity against rotavirus Wa strain.
+Antitumor; antiviral; benzimidazoles; cytotoxicity.

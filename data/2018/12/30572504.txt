@@ -1,0 +1,4 @@
+30572504
+2018 Dec
+We aimed to investigate the clinical significance and prognostic value of miR-145 in hepatocellular carcinoma (HCC).HCC tissue samples and adjacent normal liver tissues were obtained from 139 patients diagnosed with HCC. The relationships between the expression level of miR-145 and clinicopathologic factors were evaluated by Chi square test. Kaplan-Meier survival analysis with the log-rank test was used to evaluate the association between miR-145 expression and HCC prognosis.miR-145 was significantly down-regulated in HCC tissues compared with the adjacent noncancerous tissues (P
+

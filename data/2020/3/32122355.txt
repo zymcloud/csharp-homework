@@ -1,0 +1,4 @@
+32122355
+2020 Mar 2
+As the standard treatments for cancer, chemotherapy and radiotherapy have been widely applied to clinical practice worldwide. However, the resistance to cancer therapies is a major challenge in clinics and scientific research, resulting in tumor recurrence and metastasis. The mechanisms of therapy resistance are complicated and result from multiple factors. Among them, non-coding RNAs (ncRNAs), along with their modifiers, have been investigated to play key roles in regulating tumor development and mediating therapy resistance within various cancers, such as hepatocellular carcinoma, breast cancer, lung cancer, gastric cancer, etc. In this review, we attempt to elucidate the mechanisms underlying ncRNA/modifier-modulated resistance to chemotherapy and radiotherapy, providing some therapeutic potential points for future cancer treatment.
+Chemoresistance; RNA modifiers; Radioresistance; ncRNAs.

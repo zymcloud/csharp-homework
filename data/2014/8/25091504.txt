@@ -1,0 +1,4 @@
+25091504
+2014 Aug 29
+Gene therapy holds great promise for treating cancers, but their clinical applications are being hampered due to uncontrolled gene delivery and expression. To develop a targeted, safe and efficient tumor therapy system, we constructed a tissue-specific suicide gene delivery system by using magnetic nanoparticles (MNPs) as carriers for the combination of gene therapy and hyperthermia on hepatoma. The suicide gene was hepatoma-targeted and hypoxia-enhanced, and the MNPs possessed the ability to elevate temperature to the effective range for tumor hyperthermia as imposed on an alternating magnetic field (AMF). The tumoricidal effects of targeted gene therapy associated with hyperthermia were evaluated in vitro and in vivo. The experiment demonstrated that hyperthermia combined with a targeted gene therapy system proffer an effective tool for tumor therapy with high selectivity and the synergistic effect of hepatoma suppression.
+

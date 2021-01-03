@@ -1,0 +1,4 @@
+30486371
+2018 Nov 27
+Four angucycline glycosides including three new compounds landomycin N (1), galtamycin C (2) and vineomycin D (3), and a known homologue saquayamycin B (4), along with two alkaloids 1-acetyl-β-carboline (5) and indole-3-acetic acid (6), were isolated from the fermentation broth of an intertidal sediments-derived Streptomyces sp. Their structures were established by IR, HR-ESI-MS, 1D and 2D NMR techniques. Among the isolated angucyclines, saquayamycin B (4) displayed potent cytotoxic activity against hepatoma carcinoma cells HepG-2, SMMC-7721 and plc-prf-5, with IC50 values 0.135, 0.033 and 0.244 μM respectively, superior to doxorubicin. Saquayamycin B (4) also induced apoptosis in SMMC-7721 cells as detected by its morphological characteristics in 4',6-diamidino-2-phenylindole (DAPI) staining experiment.
+SMMC-7721; Streptomyces; angucycline glycosides; apoptosis; cytotoxicity; saquayamycin.

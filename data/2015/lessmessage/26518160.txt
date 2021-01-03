@@ -1,0 +1,4 @@
+26518160
+2016
+A new rare lumazine peptide, penilumamide E (1), together with 13 known compounds (2-14) were isolated from the fungus Aspergillus terreus. Their structures were identified by spectroscopic techniques. The relative configuration of 1 was confirmed by single-crystal X-ray diffraction analysis. Compound 10 exhibited antimalarial activity against Plasmodium falciparum with IC50 values of 2.83 μg/mL. Compounds 4 and 6 showed weak cytotoxicity against cholangiocarcinoma (CCA) cell lines. In addition, 4 and 11 exhibited weak cytotoxicity against human hepatoma cell line.
+Aspergillus terreus; antimalarial; butyrolactone; epi-aszonalenin A; lumazine peptide; penilumamide E.

@@ -1,0 +1,4 @@
+25448679
+2014 Nov 28
+Hepatocellular carcinoma downregulated 1 (HEPN1), a cell growth arrest- and apoptosis-related gene, is suppressed in hepatocellular carcinoma (HCC). However, transcriptional control of HEPN1 has not been characterized. Here, we show that exposure to reactive oxygen species (ROS) leads to upregulation of the mRNA expression of HEPN1 in HCC cell lines. Mechanistically, ROS increase production of an alternately spliced form of X-box binding protein 1 (XBP1s) and XBP1s increases HEPN1 expression by binding to the HEPN1 promoter, thereby acting as a transcriptional activator. Finally, HEPN1 overexpression increases the expression of p53, p21, and Bax, all of which are ROS-upregulated proteins.
+Alternative splicing; Apoptosis; Hepatocellular carcinoma; Hydrogen peroxide; p21; p53.

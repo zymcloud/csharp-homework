@@ -1,0 +1,4 @@
+30403487
+2019 Mar 28
+Hepatocellular carcinoma (HCC) is a lethal disease with limited therapeutic options and a particularly poor prognosis. Aberrant fibroblast growth factor 19 (FGF19) signaling through fibroblast growth factor receptor 4 (FGFR4) has been identified as an oncogenic driver for a subset of patients with HCC. FGFR4 is therefore a promising target for the treatment of HCC harboring aberrant FGF19-FGFR4 signaling, and several FGFR4 inhibitors have advanced to clinical trial. In this review, we summarize the latest developments in FGFR4 inhibitors, including the known pharmacophores, their binding mode, selectivity, and clinical implications, as well as the optimization strategy of introducing an acrylamide into a known pan-FGFR inhibitor targeting Cys552 of FGFR4 to provide selective covalent FGFR4 inhibitors.
+

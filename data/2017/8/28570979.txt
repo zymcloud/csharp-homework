@@ -1,0 +1,4 @@
+28570979
+2017 Aug
+Hepatocellular carcinoma (HCC) presents one of leading causes of cancer-related mortality worldwidely. This study is aimed to investigate the anti-tumor activity of physcion 8-O-β-glucopyranoside (PG) in HCC. Our results have showed that PG significantly suppresses cell growth and induces apoptosis in vitro and in vivo. At molecular level, PG represses the expression of Pim family kinases 1 (PIM1), which is responsible for the anti-tumor effect of PG in HCC. Ectopic over-expression of PIM1 significantly abrogates the suppressing effect of PG on cell growth and inducing effect of PG on apoptosis. In contrast, knockdown of PIM1 by siRNA enhances the anti-tumor effect of PG in HCC cells.
+Apoptosis; Hepatocellular carcinoma; PIM1; Physcion 8-O-β-glucopyranoside.

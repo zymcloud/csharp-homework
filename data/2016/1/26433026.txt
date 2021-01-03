@@ -1,0 +1,4 @@
+26433026
+2016 Jan
+To identify molecular interactions between hepatitis B virus (HBV) and hepatitis delta virus (HDV), HBV sequences were analysed in HBV/HDV-infected patients. Characteristic amino acid substitutions were found in cytosolic domains of hepatitis B surface antigen (HBsAg), in contrast to HBV-mono-infected controls. The functional impact of HDV on the replication of wild-type and mutant HBV was assessed in vitro. HDV co-transfection significantly reduced the replication of HBV strains containing precore or basal core promoter mutations, and HBV polymerase or surface antigen mutants affected HDV replication in vitro. Conclusively, our study revealed distinct HBsAg mutational patterns in HBV/HDV-infected patients and novel functional interactions between HBV and HDV.
+Basal core promoter; HBsAg; hepatitis B virus; hepatitis delta virus; precore.

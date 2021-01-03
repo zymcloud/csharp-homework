@@ -1,0 +1,4 @@
+30091371
+2018 Dec
+Aim:This multicenter field-practice study evaluates outcomes of long-term sorafenib in hepatocellular carcinoma (HCC) patients.Methods:Consecutive HCC patients on sorafenib were enrolled. We evaluated those receiving sorafenib for ≥12 months.Results:Out of 800 patients on sorafenib, 81 (10%) received long-term treatment. Median duration of treatment was 22.7 months (range: 12.3-92.6). Only 21 (26%) reported grade 3/4 adverse events. Complete response was reported in 11 patients (14%). Median overall survival was 34.8 months (95% CI: 29.9-44.3). Only baseline Child-Pugh class was associated with survival.Conclusion:Sorafenib could result in long-term control of HCC in a relevant proportion of patients. Given the availability of regorafenib in the second-line setting, an earlier introduction of systemic therapy may be considered according to clinical indications.
+clinical response; field-practice; hepatocellular carcinoma; long term; sorafenib.

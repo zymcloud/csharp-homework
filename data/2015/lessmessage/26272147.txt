@@ -1,0 +1,4 @@
+26272147
+2015
+MicroRNAs are small non-coding molecules that regulate gene expression and in return affect diverse biological functions, including those involved in toxicity and development of disease. Recent evidence suggests that microRNAs play an important role in liver pathologies, like viral hepatitis, alcoholic liver, hepatocellular carcinoma, or drug-induced liver injury. Furthermore, numerous studies demonstrated the high potential of microRNAs as promising non-invasive biomarkers of liver disease or as relevant targets for therapeutic treatment. This chapter describes a method for global microRNA analysis of primary hepatocytes by high-throughput sequencing. The method comprises the isolation of high-quality total RNA, analysis of microRNA sequencing data, and the validation of the findings by reverse transcriptase quantitative polymerase chain reaction analysis.
+

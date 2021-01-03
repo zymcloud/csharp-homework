@@ -1,0 +1,4 @@
+25976444
+2015 May 15
+Fabrication of stimuli-triggered drug delivery vehicle s is an important milestone in treating cancer. Here we demonstrate the selective anticancer drug delivery into human cells with biocompatible 50-nm diameter halloysite nanotube carriers. Physically-adsorbed dextrin end stoppers secure the intercellular release of brilliant green. Drug-loaded nanotubes penetrate through the cellular membranes and their uptake efficiency depends on the cells growth rate. Intercellular glycosyl hydrolases-mediated decomposition of the dextrin tube-end stoppers triggers the release of the lumen-loaded brilliant green, which allowed for preferable elimination of human lung carcinoma cells (А549) as compared with hepatoma cells (Hep3b). The enzyme-activated intracellular delivery of brilliant green using dextrin-coated halloysite nanotubes is a promising platform for anticancer treatment.
+

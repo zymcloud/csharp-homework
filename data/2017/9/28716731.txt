@@ -1,0 +1,4 @@
+28716731
+2017 Sep 9
+ARID1A, encoding the BAF250a subunit of SWI/SNF complex, has a high mutation frequency in numerous types of cancer. LncRNAs, a type of non-coding RNAs longer than 200 nucleotides, have been reported to interplay with SWI/SNF complex during cancer progression. However, whether the interaction between ARID1A and lncRNA affects hepatocellular carcinoma (HCC) still needs to be investigated. Here, we reveal that ARID1A interacts with lncRNA MVIH through some region(s) or domain(s) including ARID domain and C-terminal ARID1A protein binding domain. ARID1A upregulates its downstream target CDKN1A and suppresses HCC cell proliferation and migration through inhibiting MVIH. Our data suggests that deficiency or loss of functional mutations of ARID1A in HCC cells might contribute to the increased activity of certain cancer-promoting lncRNAs.
+ARID1A; Hepatocellular carcinoma; MVIH; SWI/SNF chromatin remodeling complex; lncRNA.

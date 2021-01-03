@@ -1,0 +1,4 @@
+26050945
+2014 Oct
+This article discusses the current state-of-the-art application of 2-deoxy-2-[(18)F]fluoro-d-glucose (FDG)-PET and FDG-PET/computed tomography (CT) in the management of patients with gastrointestinal malignancies. Gastrointestinal malignancies include many different cell types, several common malignancies of which may be imaged by FDG-PET/CT. This review focuses on gastric carcinoma, pancreatic carcinoma, hepatocellular carcinoma, cholangiocarcinoma, colorectal carcinoma, and stroma cell tumors. The role of FDG-PET/CT in staging these malignancies is discussed, in addition to (re)staging, detection of recurrent disease, patient selection/prognostication, and response assessment, using the currently available literature.
+GI; Gastrointestinal; Malignancy; PET/CT; [(18)F]Fluorodeoxyglucose.

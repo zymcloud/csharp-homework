@@ -1,0 +1,4 @@
+23151305
+2012 Nov 14
+Background:Recent studies indicate that Transforming Growth Factor beta (TGF β) correlated with pulmonary metastasis of cancers. However, the correlation between TGF β and pulmonary metastasis of hepatocellular carcinoma (HCC) is till unknown.Methods:We detected the in vitro and in vivo expression levels of TGF β1/Smads by Real-time PCR and Western blot in MHCC97-H and MHCC97-L cell lines, which are HCC cell lines and have higher and lower pulmonary metastatic potential respectively.Results:TGF β1 mRNA level in MHCC97-L tumors were higher than that in MHCC97-H tumors, (2.81±1.61 vs. 1.24±0.96, P=0.002), TGF β1 protein level in MHCC97-L tumors were also higher than that in MHCC97-H tumors (1.37±0.95 vs. 0.32±0.22, PConclusions:Our results suggest that TGF β/ Smads promote pulmonary metastasis of HCC.
+

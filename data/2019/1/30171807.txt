@@ -1,0 +1,4 @@
+30171807
+2019 Jan 28
+Circular RNA (circRNA) play a crucial role in many biological processes and have been proved as potential biomarkers and therapeutic targets in many diseases. Manipulation of their expression is a critical task. In this study, we developed a new strategy for circRNA suppression with DNAzyme. Data showed single-digestion DNAzymes cleaved circRNA efficiently in vitro but not in cell culture. However, tandem DNAzymes for double digestion showed higher cleavage efficacy both in vitro and in cell culture. Functional study demonstrated that double-digestion DNAzymes suppressed the miRNA sponge function of circRNA and changed the proliferation and migration rates of HCC cells.
+DNAzyme; circRNA; siRNA.

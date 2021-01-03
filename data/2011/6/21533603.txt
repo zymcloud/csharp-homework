@@ -1,0 +1,4 @@
+21533603
+2012 Jun
+To investigate the inhibitory effect of short hairpin RNA (shRNA) targeting the Bcl-xL gene on the apoptosis and proliferation of hepatocellular carcinoma HepG-2 cells. We constructed Bcl-xL shRNA, and transfected it into HepG-2 cells, then detected Bcl-xL gene expression on mRNA and protein levels by reverse transcription-polymerase chain reaction (RT-PCR) and flow cytometry, respectively. Cell proliferation was detected by MTT assay. Cell apoptosis and Bcl-2 and Bax expression were detected by flow cytometry. The expression of Bcl-xL was obviously inhibited by RNA interference. The inhibition rates of Bcl-xL mRNA and protein were 86.6 and 70.2%, respectively. Bcl-xL shRNA inhibited cell proliferation (P
+

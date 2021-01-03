@@ -1,0 +1,4 @@
+22416189
+2012 Mar 14
+Aim:To investigate the value of interleukin-8 (IL-8), a pro-inflammatory chemokine, in predicting the prognosis of pancreatic cancer.Methods:Expression of IL-8 and its receptor CXCR1 was assessed by immunohistochemistry in pancreatic cancer and chronic pancreatitis samples. Enzyme-linked immunosorbent assay was used to detect the serum IL-8 levels in pancreatic cancer patients. Human pancreatic cancer tissues were heterotopically transplanted to the immune-deficiency mice to evaluate the effect of serum IL-8 on the tumorigenesis of the cancer samples.Results:IL-8 and CXCR1 proteins were both over-expressed in pancreatic adenocarcinoma samples (55.6% and 65.4%, respectively) compared with the matched para-cancer tissues (25.9% and 12.3%, P Conclusion:IL-8 can be a fine serum marker for predicting the prognosis pancreatic cancer.
+CXCR1; Enzyme-linked immunosorbent assay; Immunohistochemistry; Interleukin-8; Pancreatic cancer; Tumor implantation.

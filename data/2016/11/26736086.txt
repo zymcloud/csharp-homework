@@ -1,0 +1,4 @@
+26736086
+2016 Nov
+Two novel prenylated kaempferol derivatives (1, 2), together with seven known metabolites were isolated from ethanol extract of fresh Platanus acerifolia bud's fur by multistep chromatographic processing. Structure of compounds 1 and 2 was confirmed by 1D, 2D NMR spectra and HR-ESI-MS. In addition, compound 1 was further analysed by X-ray crystallography. Anti-proliferative activities in vitro against human breast carcinoma (MCF-7) and human hepatocellular carcinoma (Hep-G2) cell lines for compound 1, 2 and 8 were evaluated. Compound 1 exhibited cytotoxic activity towards MCF-7 and Hep-G2 cell lines with the IC50 values 38.2 and 39.5 μM, respectively. Moreover, compound 2 showed weak cytotoxic activities against the two cell lines.
+C-prenyl kaempferol; Platanaceae; Platanus acerifolia; cytotoxic.

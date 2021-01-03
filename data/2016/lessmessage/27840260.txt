@@ -1,0 +1,4 @@
+27840260
+Jan-Feb 2017
+Purpose:The study aimed to explore the use of MRI in predicting the microvascular invasion (MVI) of hepatocellular carcinoma (HCC).Materials and methods:The preoperative MRI and tissues of resected HCC patients were collected. The imaging characteristics that have previously been suggested and the mismatch between diffusion-weighted imaging (DWI) and T2-weighted imaging of regions, which the authors called DWI/T2 mismatch, were analyzed and compared with histopathological references.Results:A multivariate logistic regression analysis showed that DWI/T2 mismatch was an independent predictor of MVI.Conclusion:The DWI/T2 mismatch can be a preoperative predictor of MVI for HCC.
+Diffusion-weighted MRI; Hepatocellular carcinoma; Magnetic resonance imaging; Microvascular invasion.

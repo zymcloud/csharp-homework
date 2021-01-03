@@ -1,0 +1,4 @@
+25532843
+2014 Dec 19
+We have originally synthesized the naftopidil analogue 1-[2-(2-methoxyphenylamino)ethylamino]-3-(naphthalene-1-yloxy)propan-2-ol (HUHS 1015) as a new anticancer drug. HUHS1015 induces cell death in a wide variety of human cancer cell lines originated from malignant pleural mesothelioma, lung cancer, hepatoma, gastric cancer, colorectal cancer, bladder cancer, prostate cancer, and renal cancer. HUHS1015-induced cell death includes necrosis (necroptosis) and apoptosis, and the underlying mechanism differs depending upon cancer cell types. HUHS1015 effectively suppresses tumor growth in mice inoculated with NCI-H2052, MKN45, or CW2 cells, with a potential similar to or higher than that of currently used anticancer drugs. Here we show how HUHS1015 might offer brilliant hope for cancer therapy.
+

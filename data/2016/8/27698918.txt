@@ -1,0 +1,4 @@
+27698918
+2016 Aug 12
+The clinical significance of circulating cell-free DNA (cfDNA) integrity as diagnostic and surveillance biomarker in hepatocellular carcinoma (HCC) was investigated and compared to that of alpha fetoprotein (AFP). Liver cancer patients had lower cfDNA integrity than those with benign diseases (P = 0.0167) and healthy individuals (P = 0.0025). Patients with HCC and non-HCC liver cancers (P = 0.7356), and patients with benign diseases and healthy individuals (P = 0.9138) had comparable cfDNA integrity respectively. cfDNA integrity increased after hepatectomy in cancer patients (P = 0.0003). The AUCs for detecting HCC by cfDNA integrity and AFP were 0.705 (P = 0.005) and 0.605 (P = 0.156), respectively. We found cfDNA integrity decreased in HCC patients and has the potential as promising biomarker for HCC diagnosis and treatment surveillance.
+cfDNA; circulating cell-free DNA; hepatocellular carcinoma.; integrity.

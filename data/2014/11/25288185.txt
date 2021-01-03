@@ -1,0 +1,4 @@
+25288185
+2014 Nov 1
+Previous investigations identified 2'-C-Me-branched ribo-C-nucleoside adenosine analogues, 1, which contains a pyrrolo[2,1-f][1,2,4]triazin-4-amine heterocyclic base, and 2, which contains an imidazo[2,1-f][1,2,4]triazin-4-amine heterocyclic base as two compounds with promising anti-HCV in vitro activity. This Letter describes the synthesis and evaluation of a series of novel analogues of these compounds substituted at the 2-, 7-, and 8-positions of the heterocyclic bases. A number of active new HCV inhibitors were identified but most compounds also demonstrated unacceptable cytotoxicity. However, the 7-fluoro analogue of 1 displayed good potency with a promising cytotherapeutic margin.
+Antiviral; C-nucleoside; Hepatitis C; NS5B polymerase.

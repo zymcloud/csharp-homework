@@ -1,0 +1,4 @@
+29280632
+2018 Jan 26
+Ten new germacrane-type sesquiterpenoids (1-10) were isolated from a whole plant extract of Eupatorium chinense. The structures were elucidated by analysis of their NMR and MS data as well as by comparison with literature values. The absolute configuration of eupachinsin A (1) was determined by single-crystal X-ray diffraction analysis. Compounds 3 and 4 exhibited cytotoxicity against a human breast cancer cell line (MDA-MB-231), with IC50 values of 0.8 and 3.4 μM, respectively. In addition, compounds 3-5 showed cytotoxicity against the human hepatocellular carcinoma cell line (HepG2), with IC50 values ranging from 3.6 to 7.6 μM.
+

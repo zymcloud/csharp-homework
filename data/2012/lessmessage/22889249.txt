@@ -1,0 +1,4 @@
+22889249
+2013
+The methanol extract of the whole plant of Hedyotis chrysotricha demonstrated cytotoxicity against SK-HEP-1 human hepatocarcinoma cells in a primary screening for novel antitumour agents. Bioassay-guided fractionation and purification led to an active principle (24S)-ergostane-3β,5α,6β-triol (1) along with four inactive compounds (2-5). The in vitro transwell migration assay showed that compound 1 remarkably reduced the migration of SK-HEP-1 cells by 78.9% at a dose of 30 µM, without any apoptotic effect on this cell line. Moreover, all the isolated compounds were further evaluated for their cytotoxicities against another four human cancer cell lines (MCF-7, NUGC3, SH-SY5Y and PC-3).
+

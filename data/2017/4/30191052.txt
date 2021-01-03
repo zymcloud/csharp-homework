@@ -1,0 +1,4 @@
+30191052
+2017 Apr
+Aim:We investigated the behavior of circulating endothelial cells (CEC) in patients with hepatocellular carcinoma (HCC) receiving sorafenib, and whether CEC levels were associated with time to progression (TTP).Materials & methods:CECs in advanced HCC patients receiving sorafenib were counted at baseline and every 4 weeks.Results:Twenty four HCC patients were enrolled in the study. Median TTP was 3.2 months (1-6). Median baseline CEC levels were 67 cells/ml, with an increase of 169.8% after 4 weeks of treatment. Any time CEC levels in patients with a TTP lower than 4 months were higher, but not statistically significant, compared with those in patients with TTP more than 4 months.Conclusion:Treatment with sorafenib changed CEC levels in HCC patients.
+CECs; angiogenesis inhibitors; hepatocellular carcinoma; sorafenib.

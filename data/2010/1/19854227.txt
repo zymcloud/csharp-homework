@@ -1,0 +1,4 @@
+19854227
+2010 Jan
+Primary and some transformed hepatocytes undergo apoptosis in response to transforming growth factor beta1 (TGFbeta). We report that infection with species C human adenovirus conferred resistance to TGFbeta-induced apoptosis in human hepatocellular carcinoma cells (Huh-7). Protection against TGFbeta-mediated cell death in adenovirus-infected cells correlated with the maintenance of normal nuclear morphology, lack of pro-caspases 8 and 3 processing, maintenance of the mitochondrial membrane potential, and lack of cellular DNA degradation. The TGFbeta pro-apoptotic signaling pathway was blocked upstream of mitochondria in adenovirus-infected cells. Both the N-terminal sequences of the E1A proteins and the E1B-19K protein were necessary to protect infected cells against TGFbeta-induced apoptosis.
+

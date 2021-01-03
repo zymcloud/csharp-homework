@@ -1,0 +1,4 @@
+20215415
+2010 May
+Dietary protein malnutrition is manifested as amino acid deprivation of individual cells, which activates an amino acid response (AAR) that alters cellular functions, in part, by regulating transcriptional and posttranscriptional mechanisms. The AAR was activated in HepG2 human hepatoma cells, and the changes in mRNA content were analyzed by microarray expression profiling. The results documented that 1,507 genes were differentially regulated by P
+liver gene expression; microarray; nutrient sensing; starvation.

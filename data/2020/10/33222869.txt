@@ -1,0 +1,4 @@
+33222869
+2020 Oct
+Mixed germ cell tumours occur rarely in veterinary species. This report describes a case of metastatic mixed germ cell tumour in a female Eurasian harvest mouse (Micromys minutus). The tumour was extensive in one ovary and the uterus, and was characterized by two distinct tumour cell populations with features typical of embryonal carcinoma (EC) and choriocarcinoma (CC). Metastases of CC to the lungs and liver were observed. The exact origin of the CC was unclear, but the possibility of a non-gestational CC is favoured, given the context of a mixed germ cell tumour and lack of p53 expression. EC diagnosis was confirmed by immunohistochemical labelling of CD30 and lack of immunoreactivity for c-Kit. In addition, membranous β-catenin expression was present in the EC component, indicating an inactive Wnt/β-catenin pathway, which is required for the maintenance of pluripotency.
+CD30; choriocarcinoma; embryonal carcinoma; mouse.

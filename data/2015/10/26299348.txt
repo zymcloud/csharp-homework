@@ -1,0 +1,4 @@
+26299348
+2015 Oct 1
+A series of novel nitrogen mustard sophoridinic acid derivatives were designed, synthesized and evaluated for their cytotoxicity. Of the newly synthesized compounds, compound 6 exhibited a potent effect against hepatocellular carcinoma in vitro and in vivo. SAR analysis indicated that introduction of a nitrogen mustard group to the structure of sophoridinic acid significantly enhance the antitumor activity. Moreover, molecular docking study exhibited benzyl group introduced to the nitrogen atom at the 12-position and aryl nitrogen mustard group at the 4'-carboxyl region for compound 6 were beneficial for the higher anticancer activity. This work provides useful information for further structural modifications of these compounds and for the synthesis of new, potent antitumor agents.
+Antitumor activity; Molecular docking; Nitrogen mustard sophoridinic acid derivatives; Structure–activity relationship.

@@ -1,0 +1,4 @@
+26484188
+2015 Apr 7
+To assess the potential competitive endogenous RNA (ceRNA) network in hepatocellular cancer (HCC), the lncRNA, mRNA, and microRNA microarrays were conducted on 3 pairs of HCC and paired normal liver tissue. After that, the arrays were normalized and analyzed with gene oncology (GO) and pathway analysis. Next, we screened out the pseudogenes and their cognate protein coding genes which are both down-regulated in HCC. Finally, the up-regulated microRNA binding sites were predicted on the most down-regulated pseudogene and its cognate protein-coding gene. All the array data were uploaded to Gene Expression Omnibus (accession number GSE64633).
+Hepatocellular carcinoma; ceRNA; lncRNA.

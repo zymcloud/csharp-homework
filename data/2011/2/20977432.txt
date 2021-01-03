@@ -1,0 +1,4 @@
+20977432
+2011 Feb
+HBV (hepatitis B virus) remains a global health concern, especially in developing countries. It has been associated with the development of HCC (hepatocellular carcinoma). One of the four viral proteins, HBx, interacts with cellular proteins, which are involved in a series of cellular processes including cell migration. The Rho GTPases (guanine nucleotide triphosphatases) family of proteins is involved in the regulation of the reorganization of actin and cell migration. We have reported that HBV replication activates Rac1 through SH3 binding. Here, we reported that RhoA was activated by HBx in vitro. The cell motility was enhanced in HepG2 cells co-transfected with HBx and RhoA, compared with those transfected with RhoA alone. Our results were consistent with the recently reported role of RhoA in promoting cell motility and may provide new insights on the mechanism of HBV-associated HCC.
+

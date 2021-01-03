@@ -1,0 +1,4 @@
+22575547
+2012 Jul 21
+While mathematical models exist describing the dynamics of hepatitis C virus (HCV), most of them focus on the short term dynamics after the commencement of antiviral therapy. This work is the first attempt at mathematically modelling the full course of HCV infection and the impact that these viral and immune processes have on the progression to hepatocellular carcinoma (HCC). This model is based on the premise that these long term conditions are ultimately random and likely driven by the cell-mediated immune response. The risk of cancer arising is modelled through a stochastic model that incorporates the dynamics of HCV over the course of infection. Our model simulations produce approximately 9% prevalence of HCC in individuals after 40 years, consistent with the literature estimates. We find that higher viral infectivity leads to a greater likelihood of developing HCC (p
+

@@ -1,0 +1,4 @@
+28374242
+2017
+Nonpathogenic fowl adenoviruses (FAdVs) are amenable for engineering multivalent vaccine platforms due to large stretches of nonessential DNA sequences in their genomes. We describe the generation of FAdV-9-based vaccine platforms by targeted homologous recombination in an infectious clone (pPacFAdV-9 or wild type FAdmid) containing the entire viral genome in a cosmid vector. The viral DNA is subsequently released from the cosmid by restriction enzyme digestion followed by transfection in a chicken hepatoma cell line (CH-SAH). Virus is harvested, propagated, and verified for foreign gene expression.
+FAdV-9; FAdmid; Fowl adenovirus-9; Homologous recombination; Lambda red recombinase; Recombinant virus vaccine; Virus vector.

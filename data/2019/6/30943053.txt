@@ -1,0 +1,4 @@
+30943053
+2019 Jun
+Aim: miR-365b, a miRNA at chromosomal breakpoint, was often amplified and upregulated in human hepatocellular carcinoma (HCC). However, the role of miR-365b dysregulation remains unclear. Materials & methods: miR-365b function assays and its target gene analyses were performed. Results: We revealed that miR-365b promoted HCC cell motility and spreading. Furthermore, SGTB was found to be a downstream target of miR-365b, and knockdown of the SGTB gene could mimic the effect of miR-365b in hastening HCC cell migration and invasion. Conclusion: These results imply that miR-365b plays a tumor-promoting role in HCC by suppressing SGTB expression, offering novel potential targets for the treatment of HCC.
+HCC; invasion; miR-365b; migration.

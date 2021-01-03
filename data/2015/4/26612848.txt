@@ -1,0 +1,4 @@
+26612848
+2016 Apr
+Tumor-induced osteomalacia (TIO) is typically caused by phosphaturic mesenchymal tumor (PMT) that secretes the phosphaturic hormone, fibroblast growth factor-23 (FGF23), resulting in decreased phosphate reabsorption in kidneys, hypophosphatemia, and finally osteomalacia. Rare cases of malignant tumor manifesting with TIO other than PMT had been reported, although in most of these reports, except one, circulating FGF23 levels were not evaluated and tissue expressing of FGF23 was not confirmed. In this article, we report a case of TIO in a patient with pulmonary small cell carcinoma with liver metastasis. The patient manifested with hypophosphatemia. His circulating level of FGF23 was markedly increased. The expression of FGF23 in tumor cells was confirmed. Furthermore, the regulatory mechanism of FGF23 in this patient was also investigated.
+FGF23; small cell carcinoma; tumor-induced osteomalacia; wnt signaling pathway.

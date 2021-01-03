@@ -1,0 +1,4 @@
+23970360
+2013 Oct
+Hepatocellular carcinoma (HCC) is one of the most common types of malignant tumor. Studies have demonstrated that the toll‑like receptor 3 (TLR3)/interferon pathway is inhibitory in cancer cell proliferation, suggesting that the activation of this pathway may have therapeutic potential. In the present study, the inhibitory effects of BM‑06, a double‑stranded (ds)RNA TLR3 agonist, against HCC were studied in vivo. Using a 2‑acetylaminofluorene-induced HCC rat model, histological examination and analysis of corresponding biomarkers following treatment with BM-06, showed a decrease in tumor growth and cell proliferation, and an increase in apoptosis compared with that in a phosphate‑buffered saline control group. In addition, the observed antitumor effect of BM‑06 in the HCC rat model was demonstrated to be superior to the known TLR3 agonist, polyinosinic-polycytidylic acid.
+

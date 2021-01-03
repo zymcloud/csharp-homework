@@ -1,0 +1,4 @@
+29626478
+2018 Jun 2
+Nuclear receptor coactivator 5 (NCOA5) plays important roles in the development of a variety of malignancies. However, the underlying mechanisms remain obscure. In this study, we successfully generated the NCOA5 knockout hepatocellular carcinoma (HCC) cells by CRISPR/Cas9 - mediated genome editing and found that knockout of NCOA5 inhibited the proliferation and tumor microsphere formation of HCC cells significantly. Moreover, the migration ability of NCOA5 knockout HCC cells declined. Mechanistic analyses indicated that knockout of NCOA5 can suppress the epithelial - mesenchymal transition (EMT) in HCC cells. In conclusion, our findings provide a mechanistic insight into the role of NCOA5 in HCC progression.
+CRISPR/cas9; EMT; HCC; NCOA5.

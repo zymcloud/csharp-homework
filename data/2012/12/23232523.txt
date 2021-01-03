@@ -1,0 +1,4 @@
+23232523
+2012 Dec
+Aim:To observe the expression of Fbxw7 and explore its correlation with cell proliferation of hepatocellular carcinoma (HCC).Methods:The expression of Fbxw7 in paired tumor and tumor-adjacent normal tissues from 40 patients with HCC were assessed using RT-PCR and immunohistochemistry. The expression level of Fbxw7 mRNA in normal liver cell line (LO2) and HCC cell lines (Hep3B and SMMC-7721) were detected by real-time RT-PCR. Colony formation assay and tumor xenograft assay were performed in different cell lines with different Fbxw7 expression respectively to investigate the ability of cell proliferation in vitro and in vivo.Results:The expression of Fbxw7 at both mRNA and protein levels in HCC tissues were significantly down-regulated compared to tumor-adjacent normal tissues (PConclusion:The low expression of Fbxw7 correlates with the poor clinicopathological characteristics and cell proliferation of HCC.
+

@@ -1,0 +1,4 @@
+22104239
+2011
+Many cases in which the skin complication are caused by increased exposure dose to skin by interventional radiology (IVR) are reported. Therefore, the decrease of patient exposure dose at IVR is important. Patient exposure dose by using IVR-computed tomography (CT) unit is defined as the sum of exposure dose from both angiography and CT scanner. The dose decrease with the CT device was examined in this article. Since the images available during angiography have a high contrast compared to conventional CT scan, best applied standard deviation (SD) values are evaluated by using CT auto exposure control (CT-AEC). Although exposure dose decreased by varying SD values, contrast resolution was kept high. As a result, it became possible to adjust the dose from CT device to about a third by setting a proper CT-AEC value, which led to decrease of the total exposure dose.
+

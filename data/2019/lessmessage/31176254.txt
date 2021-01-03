@@ -1,0 +1,4 @@
+31176254
+May-Jun 2019
+Primary liver cancer (PLC) is heterogeneous and it is an aggressive malignancy with a poor prognostic outcome. Current evidence suggests that PLC tumorigenesis is driven by rare subpopulations of cancer stem cells (CSCs), which contribute to tumor initiation, progression, and therapy resistance through particular molecular mechanisms. Energy metabolism and mitochondrial function play an important role in the regulation of cancer stemness and stem cell specifications. Since the role of mitochondrial function as central hubs in cell growth and survival, studies on the critical physiological mechanisms of the liver underlying their therapy-resistant phenotype is important. In this review, we focus on liver CSC-related mitochondrial metabolism that contributes to the liver CSC features, in terms of enhanced drug-resistance and increased tumorigenicity, and to discuss their roles on potential therapies windows for PLC therapies.
+

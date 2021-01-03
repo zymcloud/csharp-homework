@@ -1,0 +1,4 @@
+25594349
+2015 Jan 14
+Two new compounds, fumitremorgin 12-methoxy-13-[5'-hydroxy-2'-(1''-hydroxy-3''-methoxy-5''-methylbenzoyl)-3'-methoxy]benzoic acid methyl ester (fumitremorgin D, 1) and 4,8,10,14-tetramethyl-6-acetoxy-14-[16-acetoxy-19-(20,21-dimethyl)-18-ene]-phenanthrene-1-ene-3,7-dione (2) were isolated from the cultured endophytic isolated fungus Aspergillus fumigatus, together with fourteen known compounds. Their structures were elucidated by 1-D and 2-D NMR analyses. The cytotoxicity profile of the compound against the human hepatocellular carcinoma cell line HepG2 was evaluated by MTT antiproliferative assays.
+

@@ -1,0 +1,4 @@
+23156983
+2012 Oct
+The extracts of five Cambodian medicinal plants (Aganosma marginata, Dracaena cambodiana, Harrisonia perforata, Hymenodictyon excelsum and Vernonia cinerea) were evaluated in vitro for their cytotoxic activity against HT29 colon adenocarcinoma cells and HepG2 hepatoma cells, using the MTT assay. Among these five plants, Vernonia cinerea displayed potent cytotoxicity. One main sesquiterpene lactone, 8alpha-tigloyloxy-hirsutinolide-13-O-acetate was isolated from the whole plant of V. cinerea. This compound was active against both cancer cell lines (IC50 = 3.50 microM for HT29 and IC50 = 4.27 microM for HepG2). To quantify this compound in the plant, an analytical high-performance liquid chromatography (HPLC) method was developed and validated.
+

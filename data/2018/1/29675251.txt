@@ -1,0 +1,4 @@
+29675251
+2018 Jan 8
+Phthalocyanine (Pc) molecules exhibit high extinction coefficients in near-infrared region, rendering them well-suited for phototherapies, but most of their applications are limited to the field of photodynamic therapy (PDT). Herein, for the first time, we illustrate that Pc molecules can be endowed with excellent photothermal properties by means of structural regulation rather than formation of aggregates. Three representative Pc derivatives show efficient activities of photothermal therapy (PTT) against human hepatocellular carcinoma cells. Among them, copper phthalocyanine (PcC1) exhibits a high in vivo PTT efficacy against mice bearing S180 tumors. The unique investigation in this article should light up a perspective of Pc's new applications for PTT, which enable to make up the inherent defects of PDT.
+

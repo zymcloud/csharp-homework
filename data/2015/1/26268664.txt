@@ -1,0 +1,4 @@
+26268664
+2016 Jan
+We examined the localization of connexin 32 (Cx32), a component of gap junctions, in 24-month-old male B6C3F1 mice with spontaneously occurring hepatocellular altered foci or tumors. Immunohistochemically, Cx32-staining intensity in cell-to-cell membranes of altered hepatocytes was decreased in eosinophilic foci and increased in basophilic foci as compared to those in intact hepatocytes. These alterations were enhanced in adenomas and carcinomas with both eosinophilic and basophilic cytoplasm. In cell membranes facing on the sinusoidal portions, the intensities increased in all lesions. Image analyses confirmed that the spot areas of Cx32 were decreased in eosinophilic foci, but increased in basophilic foci, adenomas and carcinomas. These results demonstrate that Cx32 shows different expression in different types of hepatic lesions.
+

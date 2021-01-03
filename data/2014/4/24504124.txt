@@ -1,0 +1,4 @@
+24504124
+2014 Apr
+Primary liver tumours have a high incidence and mortality. The most important forms are hepatocellular carcinoma and intrahepatic cholangiocarcinoma, both can occur together in the mixed phenotype hepatocellular-cholangiocarcinoma. Liver progenitor cells (LPCs) are bipotential stem cells activated in case of severe liver damage and are capable of forming both cholangiocytes and hepatocytes. Possibly, alterations in Wnt, transforming growth factor-β, Notch and hypoxia pathways in these LPCs can cause them to give rise to cancer stem cells, capable of driving tumourigenesis. In this review, we summarize and discuss current knowledge on the role of these pathways in LPC activation and differentiation during hepatocarcinogenesis.
+

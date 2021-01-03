@@ -1,0 +1,4 @@
+28153667
+May-Jun 2017
+Objective:To confirm the histological grade of hepatocellular carcinoma (HCC) by gadoxetic acid-enhanced MRI.Methods:Ninety-five HCC patients underwent gadoxetic acid-enhanced MRI before surgical intervention. The correlations among the signal absolute enhancement, contrast enhancement ratio (CER) and tumor histological grade were analyzed.Results:The correlation between CER of tumor-to-liver and the grades of tumor differentiation is the most significant negative. The k-value for the CER of tumor-to-liver and histopathologic analysis is 0.62, which gives evidence of good agreement.Conclusion:The quantitative analysis of gadoxetic acid-enhanced MRI can predict the histological grades of small HCCs.
+Gd-EOB-DTPA; Hepatocellular carcinoma; Histological grade; MRI; Quantitative analysis.

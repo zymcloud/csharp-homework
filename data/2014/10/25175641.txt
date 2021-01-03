@@ -1,0 +1,4 @@
+25175641
+2014 Oct
+Esophageal squamous cell carcinoma (ESCC) is an aggressive tumor with high incidence and mortality worldwide. Diallyl disulfide (DADS) is a natural organosulfur compound, isolated from garlic. In this study, MTT assay showed that DADS significantly reduced cell viability in a dose- and time-dependent manner in ESCC cells, with lower toxicity in normal liver cells. Cell cycle analysis revealed that DADS made G2/M phase arrest. Molecular analysis suggested that this cell cycle arrest was likely made by the decrease of cyclin B1, cdc2, p-cdc2, cdc25c in concomitance with activation of the p53/p21 pathway. Apoptosis was detected by Annexin V/PI staining. The molecule markers showed that DADS induced apoptosis through activating caspases, altering the Bax/Bcl-2 balance and suppressing the MEK-ERK pathway. Our data indicated that DADS has the potential to be an effective and safe anticancer agent for ESCC therapy in the near future.
+

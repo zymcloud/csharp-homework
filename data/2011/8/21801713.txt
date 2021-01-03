@@ -1,0 +1,4 @@
+21801713
+2011 Aug 19
+As a transcription factor, p53 modulates several cellular responses including cell-cycle control, apoptosis, and differentiation. In this study, we have shown that an actin regulatory protein, gelsolin (GSN), can physically interact with p53. The nuclear localization of p53 is inhibited by GSN overexpression in hepatocarcinoma HepG2 cells. Additionally, we demonstrate that GSN negatively regulates p53-dependent transcriptional activity of a reporter construct, driven by the p21-promoter. Furthermore, p53-mediated apoptosis was repressed in GSN-transfected HepG2 cells. Taken together, these results suggest that GSN binds to p53 and this interaction leads to the inhibition of p53-induced apoptosis by anchoring of p53 in the cytoplasm in HepG2 cells.
+

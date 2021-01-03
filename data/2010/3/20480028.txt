@@ -1,0 +1,4 @@
+20480028
+2010 Mar 31
+The aim of the current study is to identify the potential biomarkers involved in Hepatocellular carcinoma (HCC) carcinogenesis. A comparative proteomics approach was utilized to identify the differentially expressed proteins in the serum of 10 HCC patients and 10 controls. A total of 12 significantly altered proteins were identified by mass spectrometry. Of the 12 proteins identified, HSP90 was one of the most significantly altered proteins and its over-expression in the serum of 20 HCC patients was confirmed using ELISA analysis. The observations suggest that HSP90 might be a potential biomarker for early diagnosis, prognosis, and monitoring in the therapy of HCC. This work demonstrates that a comprehensive strategy of proteomic identification combined with further validation should be adopted in the field of cancer biomarker discovery.
+hepatocellular carcinoma; proteomics; serum biomarker.

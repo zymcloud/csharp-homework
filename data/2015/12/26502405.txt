@@ -1,0 +1,4 @@
+26502405
+2015 Dec
+Ectopic lymphoid-like structures (ELSs) are often observed in cancer, yet their function is obscure. Although ELSs signify good prognosis in certain malignancies, we found that hepatic ELSs indicated poor prognosis for hepatocellular carcinoma (HCC). We studied an HCC mouse model that displayed abundant ELSs and found that they constituted immunopathological microniches wherein malignant hepatocyte progenitor cells appeared and thrived in a complex cellular and cytokine milieu until gaining self-sufficiency. The egress of progenitor cells and tumor formation were associated with the autocrine production of cytokines previously provided by the niche. ELSs developed via cooperation between the innate immune system and adaptive immune system, an event facilitated by activation of the transcription factor NF-κB and abolished by depletion of T cells. Such aberrant immunological foci might represent new targets for cancer therapy.
+

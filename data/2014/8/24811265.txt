@@ -1,0 +1,4 @@
+24811265
+2014 Aug
+Four new cholestane-type (1-4) and two new ergostane-type (5, 6) steroids were isolated from the leaves of Dysoxylum binectariferum. Their structures were elucidated on the basis of spectroscopic analysis, including 1D and 2D NMR techniques. The absolute configurations were established by comparison with the literature and Mo2(OAc)4-induced electronic circular dichroism (ECD) data. All the isolates were evaluated for cytotoxicity against A549 (lung carcinoma), MCF-7 (breast adenocarcinoma), and HepG2 (hepatocellular carcinoma) human cancer cell lines. Three of the new cholestane-type steroids displayed potent antiproliferative effects on the tumor cells with IC50 values ranging from 1.5 to 9.6μM, whereas the two new ergostane-type (5, 6) steroids were deemed inactive.
+Cytotoxicity; Dysoxylum binectariferum.

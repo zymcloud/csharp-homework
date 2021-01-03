@@ -1,0 +1,4 @@
+27358893
+2016 Jan 18
+Long non-coding RNAs (lncRNA) are critical regulators of gene expression, and can reprogram the transcriptome to modulate cellular processes involved in cellular growth and differentiation, and thereby contribute to tumorigenesis. In addition to effects on tumor cell growth, survival and cell signaling, lncRNA can modulate cancer stem cell (CSC) behavior, including the expression of pluripotency factors. The identification of lncRNA that are mechanistically linked to cancer stem cell self-renewal and differentiation, or aberrant signaling pathways associated with tumor growth or progression, offer new opportunities for therapeutic intervention.
+Long non-coding RNAs (lncRNA); cancer stem cells (CSC); hepatocellular carcinoma (HCC).

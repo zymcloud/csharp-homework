@@ -1,0 +1,4 @@
+33279948
+2020 Dec 5
+Pyruvate kinase M2 (PKM2) is not only a key rate-limiting enzyme that guides glycolysis, but also acts as a non-metabolic protein in regulating gene transcription. In recent years, a series of studies have confirmed that post-translational modification has become an important mechanism for regulating the function of PKM2, which in turn affects tumorigenesis. In this study, we found that K62 residues were deacetylated, which is related to the prognosis of HCC. Further studies indicate that HDAC8 binds and deacetylates the K62 residue of PKM2. Mechanistically, K62 deacetylation facilitate PKM2 transport into the nucleus and bind β-catenin, thereby promoting CCND1 gene transcription and cell cycle progression. In addition, the deacetylation of K62 affects the enzyme activity of PKM2 and the flux of glucose metabolism. Therefore, these results suggest that HDAC8 / PKM2 signaling may become a new target for the treatment of HCC.
+

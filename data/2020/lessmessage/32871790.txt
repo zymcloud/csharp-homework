@@ -1,0 +1,4 @@
+32871790
+Sep-Oct 2020
+Background/aim:The aim of the study was to compare the outcomes of anatomical resection (AR) versus non-anatomical resection (NAR) for Japanese and Taiwanese patients with single, resectable hepatocellular carcinoma (HCC).Patients and methods:A propensity score matched (PSM) analysis was performed to compare the outcomes of the AR group to those of the NAR group. Tumor size Results:A total of 385 cases (Taiwanese 105, Japanese 280) were analyzed. After PSM, a total of 152 cases remain (Taiwan and Japan both 76 cases). Disease-free survival (DFS) and overall survival (OS) data were not significantly different between the two groups at 5 years follow-up.Conclusion:AR of HCC in Japanese patients has a similar 5-year DFS and OS as NAR of HCC in Taiwanese patients.
+Anatomical resection; Japan; Taiwan; disease-free survival; hepatocellular carcinoma; non-anatomical resection; overall survival; propensity score matched analysis.

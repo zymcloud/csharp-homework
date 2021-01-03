@@ -1,0 +1,4 @@
+26365437
+2016 Feb 1
+Recurrence of hepatocellular carcinoma (HCC) is one of the leading causes of death after liver transplantation (LT). We aim to evaluate the association of donor and recipient single nucleotide polymorphisms (SNPs) with the risk of HCC recurrence after LT. A total of 155 adult patients who underwent primary LT for HCC were enrolled. Ten SNPs associated with HCC susceptibility were genotyped. Patients who received donor livers with the rs11614913 homozygous CC variant presented significantly higher recurrence rates of HCC (41.7 vs. 15.3%, p = 0.009) and lower cumulative tumor-free survival (p = 0.005) than those who received TT wild-type donor livers. The donor rs11614913 genetic variant was an independent risk factor for HCC recurrence (odds ratio = 2 per each C allele, p
+donor selection; hepatocellular carcinoma; liver transplantation; microRNA; single nucleotide polymorphism.

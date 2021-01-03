@@ -1,0 +1,4 @@
+31931847
+2020 Jan 13
+In the original publication of this article [1], labelling within Fig. 7a was incorrect. The updated figure is shown below, with 'DMT1' now corrected to read 'DNMT1'.
+

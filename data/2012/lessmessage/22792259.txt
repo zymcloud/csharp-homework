@@ -1,0 +1,4 @@
+22792259
+2012
+Background:Early hepatocellular carcinoma (HCC) detection is difficult because low accuracy of surveillance tests. Genome-wide analyses were performed using HCV-cirrhosis with HCC to identify predictive signatures.Methodology/principal findings:Cirrhotic liver tissue was collected from 107 HCV-infected patients with diagnosis of HCC at pre-transplantation and confirmed in explanted livers. Study groups included: 1) microarray hybridization set (n = 80) including patients without (woHCC = 45) and with (wHCC = 24) HCC, and with incidental HCC (iHCC = 11); 2) independent validation set (n = 27; woHCC = 16, wHCC = 11). Pairwise comparisons were performed using moderated t-test. FDRConclusions/significances:The molecular analysis of HCV-cirrhotic tissue conducted to a prediction model with good performance and high potential for HCC surveillance.
+

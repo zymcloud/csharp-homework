@@ -1,0 +1,4 @@
+31066459
+2019 Nov
+DEK is an oncogene that has been identified as part of the DEK-CAN fusion gene. DEK plays a role in carcinogenesis through WNT signaling and induces cell proliferation through cyclin-dependent kinase signaling. DEK overexpression has been reported in HCC, but the clinical significance is unclear. This study enrolled 221 cases of HCC. The expression of DEK protein was evaluated by immunohistochemical staining. Cdk4, cyclin D1, Wnt10b, E-cadherin, and β-catenin were also immunohistochemically stained and analyzed for correlation. The association of clinicopathologic factors with DEK expression was analyzed. DEK expression was observed in 44.8% (99/221) of cases. DEK expression showed a statistical association with clinicopathologic factors, including Edmondson-Steiner grade, presence of vascular emboli, and multiplicity (p
+

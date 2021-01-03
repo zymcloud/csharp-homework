@@ -1,0 +1,4 @@
+28514219
+2017 Jun
+In this issue of Radiology, Gade et al ( 1 ) describe a unique mechanism of hepatocellular carcinoma (HCC) cells for surviving ischemia induced by transarterial embolization (TAE)/transarterial chemoembolization (TACE) in a state of cell cycle arrest-a function that may serve as a defensive shield against conventional chemotherapeutic agents. This finding adds to our knowledge and establishes a previously poorly understood mechanism of chemoresistance in HCC. As the Achilles heel in terms of this process, a concurrent upregulation of autophagic flux as an adaptive response to TAE-like ischemia was found by the authors. This is a targetable mechanism that can potentially be exploited for combined therapeutic approaches of embolotherapy and autophagy inhibition in HCC.
+

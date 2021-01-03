@@ -1,0 +1,4 @@
+27582002
+2017 Jan
+Aim:New parameters that correlate with overall survival were identified in patients with liver lesions treated with radiation therapy.Methods:Pretreatment information and parameters of radiation treatment plans for 129 metastatic and 66 hepatocellular carcinoma liver cancer patients were analyzed. Study end points included overall survival collected from patient charts and electronic records.Results:Two practical nomograms were constructed for primary hepatocellular carcinoma and liver metastasis patients. For patients with a Child-Pugh A, radiation dose escalation provided a significant survival benefit. However, for those with Child-Pugh B or C, increasing dose does not impact on survival.Conclusion:The developed models can potentially guide dose selection and provide prognostic information but still require external validation.
+liver cancer; nomograms; radiation therapy; treatment outcomes.

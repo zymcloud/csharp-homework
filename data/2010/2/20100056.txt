@@ -1,0 +1,4 @@
+20100056
+2010 Feb
+Nitrites are ubiquitous environmental contaminants present in drinking water and foods. Nitrosamines can be formed endogenously from nitrate and nitrite and secondary amines or may be present in food, tobacco smoke, and drinking water. The major goal of this work was to evaluate the cytotoxic, reactive oxygen species (ROS)-producing and genotoxic effects of nitrite and nitrosamines and the possible protection by ascorbic acid in HepG2 cells. It was found that nitrite, N-nitrosodimethylamine (NDMA), N-nitrosodiethylamine (NDEA), and N-nitrosomorpholine (NMOR) decreased cell viability, increased intracellular ROS production, and caused genotoxicity. Compared to untreated cells as determined by alkaline Comet assay, nitrite, NDMA, NDEA, and NMOR raised the tail intensity up to 1.18-, 3.79-, 4.24-, and 4.16-fold, respectively. Ascorbic acid (AA, 10 microM) increased cell viability and reduced ROS production significantly (p
+

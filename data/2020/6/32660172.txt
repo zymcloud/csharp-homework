@@ -1,0 +1,4 @@
+32660172
+2020 Jun 20
+Hepatocellular carcinoma (HCC) is a chronic inflammation derived from the background of hepatitis B and C virus (HBV and HCV) infection, chemical intoxicants, or non-alcoholic fatty liver disease. Cancerous liver cells can express and secrete a variety of relatively specific markers, such as carcinoembryonic type of alpha-fetoprotein (AFP), phosphatidylinositol-3 (Glypican-3, GPC-3), Wnt/β-Catenin key molecule of signaling pathway Wnt3a and liver cancer specific GGT-II (HS-GGT), etc. Clinical analysis of carcinoembryonic markers not only contributes to diagnosis and prognosis of HCC, but may also be the target of HCC immunotherapy with a promising prospect of development and application. This article reviews the latest valuable advances in carcinoembryonic type specific molecular markers and liver cancer immunotherapy.
+Hepatocellular carcinoma; Immunotherapy; Specific biomarkers.

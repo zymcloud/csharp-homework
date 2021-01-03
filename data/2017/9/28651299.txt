@@ -1,0 +1,4 @@
+28651299
+2017 Sep 15
+Background/aims:Limited information is available regarding patient survival after sorafenib discontinuation in patients with hepatocellular carcinoma (HCC). Thus, we developed and validated a novel survival prediction model.Methods:Clinical data from 409 patients with HCC who stopped taking sorafenib between September 2008 and February 2015 were reviewed.Results:In the training cohort, four factors were independent negative predictors of survival (pConclusions:In patients with HCC, survival after stopping sorafenib is poor. However, risk estimates based on a new "NEXT score" may help predict survival and prognosis even in patients who discontinue sorafenib treatment.
+Hepatocellular carcinoma; Prediction; Risk; Sorafenib; Survival.

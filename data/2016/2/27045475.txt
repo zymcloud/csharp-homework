@@ -1,0 +1,4 @@
+27045475
+2017 Feb 28
+Primary liver cancer is the second most common cause of mortality from cancer. The most common models of hepatocellular carcinoma, which use a chemical and/or metabolic insult, xenograft, or genetic manipulation, are discussed in this review. In the tumour microenvironment lymphocytes, fibroblasts, endothelial cells and antigen presenting cells are important determinants of cell fate. These cells make a range of proteases that modify the biological activity of other proteins, particularly extracellular matrix proteins that alter cell migration of tumour cells, fibroblasts and leucocytes, and chemokines that alter leucocyte migration. The DPP4 family of post-proline peptidase enzymes modifies cell movement and the activities of many bioactive molecules including growth factors and chemokines.
+Dipeptidyl peptidase; Fibroblast activation protein; Hepatocellular carcinoma; Mouse models.

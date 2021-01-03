@@ -1,0 +1,4 @@
+21233847
+2011 Jun
+Stress protein mortalin is a multifunctional protein and is highly expressed in cancers. It has been shown to interact with tumor suppressor protein-p53 (both wild and mutant types) and inactivates its transcriptional activation and apoptotic functions in cancer cells. In the present study, we found that, unlike most of the cancer cells, HepG2 hepatoma lacked mortalin-p53 interaction. We demonstrate that the mortalin-p53 interaction exists in cancer cells that are either physiologically stressed (frequently associated with p53 mutations) or treated with stress-inducing chemicals. Targeting mortalin-p53 interaction with either mortalin small hairpin RNA or a chemical or peptide inhibitor could induce p53-mediated tumor cell-specific apoptosis in hepatocellular carcinoma; p53-null hepatoma or normal hepatocytes remain unaffected.
+

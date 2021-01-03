@@ -1,0 +1,4 @@
+20209601
+2010 May
+Loss of 16q is one of the most frequent alterations in many malignancies including hepatocellular carcinomas (HCC), suggesting the existence of a tumor suppressor gene (TSG) within the frequently deleted region. In this report we describe the identification and characterization of one candidate TSG, tyrosine aminotransferase gene (TAT), at 16q22.1. Loss of one TAT allele was detected in 27/50 (54%) of primary HCCs by quantitative real-time polymerase chain reaction. In addition, homo-deletion of TAT alleles was detected in two cases. Down-regulation of TAT was detected in 28/50 (56%) of HCCs, which was significantly associated with the loss of TAT allele and hypermethylation of TAT 5' CpG island (CGI) region (P Conclusion:Taken together, our findings suggest that TAT plays an important suppressive role in the development and progression of HCC.
+

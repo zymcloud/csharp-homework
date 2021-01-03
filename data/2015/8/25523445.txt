@@ -1,0 +1,4 @@
+25523445
+2015 Aug
+The NEK6 (NIMA-related kinases 6) is reported to play potential roles in tumorigenesis. Although it is suggested to function in several cellular pathways, the underlying mechanism in tumorigenesis is still largely unknown. In the present study, we discovered interaction of NEK6 with Smad4, a key member of transforming growth factor beta (TGFβ) pathway. Over-expression of NEK6 in hepatocellular carcinoma (HCC) cell lines suppresses TGFβ-mediated transcription activity in a kinase activity-dependent manner. In addition, NEK6 suppresses the cell growth arrest induced by TGFβ. Mechanically, NEK6 blocks nuclear translocation of Smad4, which is essential for TGFβ function. Moreover, we identified that NEK6 could be regulated by TGFβ and hypoxia. Our study sheds new light on the roles of NEK6 in canonical TGFβ/Smad pathway and tumorigenesis.
+

@@ -1,0 +1,4 @@
+30873872
+2019 Dec
+In recent years, numerous studies have confirmed the role of chitosan nanoparticles (CS NPs) as a promising drug delivery carrier for improving the efficiency of anticancer drug in the treatment of cancer. However, the possible biological effects of CS NPs on tumour cells and underlying mechanisms are still unclear. Recently, reactive oxygen species (ROS)-mediated cell apoptosis has been implicated in the regulation of cell death. In this study, we found that CS NPs induced the massive generation of ROS and resulted in apoptosis of hepatocellular carcinoma cells (SMMC-7721) through activating the mitochondrial pathway and endoplasmic reticulum stress. These results suggest an important role of ROS in CS NPs-induced cancer cell death.
+Chitosan; endoplasmic reticulum; mitochondrial; nanoparticles; reactive oxygen species.

@@ -1,0 +1,4 @@
+32015333
+2020 Feb 3
+Abnormal expression of the E3 ubiquitin ligase A20 has been found in some malignant cancers, including hepatocellular carcinoma (HCC). Here, we discovered that A20 is an E3 ubiquitin ligase for phosphofructokinase, liver type (PFKL) in HCC A20 interacts with PFKL and promotes its degradation, therefore inhibiting glycolysis in HCC cell lines. Downregulation of A20 in HCC cells promotes proliferation, migration, and glycolysis, all of which can be inhibited by targeting PFKL with RNA interference. Importantly, A20 is downregulated in advanced HCC tissues and inversely correlated with PFKL expression. Thus, our findings establish A20 as a critical regulator of glycolysis and reveal a novel mechanism for A20 in tumor suppression and PFKL regulation. Given that an increased level of glycolysis is linked with HCC, this study also identifies potential therapeutic targets for HCC treatment.
+

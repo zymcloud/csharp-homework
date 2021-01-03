@@ -1,0 +1,4 @@
+23145031
+2012
+The hepatitis B virus (HBV) genome encodes the X protein (HBx), a ubiquitous transactivator that is required for HBV replication. Expression of the HBx protein has been associated with the development of HBV infection-related hepatocellular carcinoma (HCC). Previously, we generated a 3D structure of HBx by combined homology and ab initio in silico modelling. This structure showed a striking similarity to the human thymine DNA glycosylase (TDG), a key enzyme in the base excision repair (BER) pathway. To further explore this finding, we investigated whether both proteins interfere with or complement each other's functions. Here we show that TDG does not affect HBV replication, but that HBx strongly inhibits TDG-initiated base excision repair (BER), a major DNA repair pathway. Inhibition of the BER pathway may contribute substantially to the oncogenic effect of HBV infection.
+

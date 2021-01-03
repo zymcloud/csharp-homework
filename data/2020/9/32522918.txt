@@ -1,0 +1,4 @@
+32522918
+2020 Sep 15
+Recently, immune checkpoint inhibitors (iCIs) have been used to treat cancers. Once some of the iCIs for the treatment of hepatocellular carcinoma (HCC) are certified in clinical trials, they are likely be administered to HCC patients with hepatitis C virus (HCV). However, the immunopathogenesis of HCV after the administration of iCIs has not been clarified. We experienced a lung cancer patient with HCV infection treated by nivolumab, programmed cell death 1 (PD-1) antibody. HCV-RNA gradually decreased after the start of nivolumab treatment. However, no increase in transaminase was observed during the decline of HCV-RNA. It was thought that HCV-specific cytotoxic T lymphocytes (CTLs) were activated by iCIs.
+CTLs; PD-1; iCIs; nivolumab.

@@ -1,0 +1,4 @@
+23588470
+Nov-Dec 2012
+Introduction:Transferrin (Tf) exerts a crucial function in the maintenance of systemic iron homeostasis. The expression of the Tf gene is controlled by transcriptional mechanism, although little is known about genetic factors influence.Objective:To study the role of rs3811647 in Tf expression using an in-vitro assay on hepatoma cells.Design and methods:Hep3B cells were co-transfected with constructs containing A (VarA-Tf-luc) and G (VarG-Tf-luc) variants of rs3811647, using luciferase as a surrogate reporter of Tf expression.Results:Luciferase assays showed a higher intrinsic enhancer activity (p Conclusion:The A allele of SNP rs3811647 increases Tf expression in a manner that might underlie inter-individual variation in serum transferrin levels observed in different population groups.
+

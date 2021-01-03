@@ -1,0 +1,4 @@
+33062171
+2020 Mar 6
+Hepatocellular carcinoma (HCC) accounts for a majority of primary liver cancer and is one of the most common forms of cancer worldwide. Aberrant signaling of the FGF19-FGFR4 pathway leads to HCC in mice and is hypothesized to be a driver in FGF19 amplified HCC in humans. Multiple small molecule inhibitors have been pursued as targeted therapies for HCC in recent years, including several selective FGFR4 inhibitors that are currently being evaluated in clinical trials. Herein, we report a novel series of highly selective, covalent 2-amino-6,8-dimethyl-pyrido[2,3-d]pyrimidin-7(8H)-ones that potently and selectively inhibit FGFR4 signaling through covalent modification of Cys552, which was confirmed by X-ray crystallography. Correlative target occupancy and pFGFR4 inhibition were observed in vivo, as well as tumor regression in preclinical models of orthotopic and sorafenib-resistant HCC.
+

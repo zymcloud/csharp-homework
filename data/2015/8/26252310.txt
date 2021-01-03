@@ -1,0 +1,4 @@
+26252310
+2015 Aug
+The role of cancer stem cell (CSC) markers in differentiation of hepatocellular carcinoma (HCC) remains uncertain. We conducted a meta-analysis to first investigate the association between expression of CSC markers (CD133, CD90, CD44, and EpCAM) and poor differentiation of HCC, and second, to determine if these CSC markers can be classified as biomarkers for patient classification and HCC differentiated therapy.The relevant literature was searched using PubMed, EMBASE, Elsevier, and Chinese Biological Medicine databases for association between CSC markers and HCC from January 1, 2000 to June 30, 2014. Data were synthesized using random-effect or fixed-effect models. The effect sizes were estimated by measuring odds ratios (OR) with 95% confidence interval (CI).The meta-analysis included 27 studies consisting of 2897 patients with HCC. The positive expression of CSC markers was associated with poor differentiation (OR = 2.37, 95% CI = 2.03-2.77, P
+

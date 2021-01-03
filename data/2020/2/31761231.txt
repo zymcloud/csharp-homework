@@ -1,0 +1,4 @@
+31761231
+2020 Feb
+We have prepared a water dispersible Nanocrystalline hierarchical structure of paclitaxel using self-assembly approach. Its unique structure provides the advantage of increased payload and higher retention of a chemotherapeutic drug inside the tumor site for a prolonged period. Micron scale structure, sustained release behaviour, multichannel fluorescence property and devoid of any vehicle molecule makes it promising in treating solid tumors through localized drug delivery approach like TACE. This method is based on one pot synthesis through co-precipitation reaction followed by crosslinking. Therapeutic efficacy of the molecules is successfully verified through the significant reduction in the volume of the 3D spheroid model of hepatocellular carcinoma (HCC).
+

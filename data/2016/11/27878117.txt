@@ -1,0 +1,4 @@
+27878117
+2016 Nov 8
+Glypican-3 (GPC3), a member of heparan sulfate proteoglycans, attaches to the cell membrane and is frequently observed to be elevated in hepatocellular carcinoma (HCC). However, GPC3 is not detected in normal liver tissues and benign liver lesions. Consequently, GPC3 is currently being used as a diagnostic biomarker and HCC-specific positron emission computed tomography probe to identify HCCs in normal liver tissues and benign liver lesions. The overexpression of GPC-3 in serum or liver tissue also predicts poor prognosis for HCC patients. In addition, GPC3 promotes HCC growth and metastasis by activating the canonical Wnt and other signaling pathways. Targeting of GPC3, including GC33, HN3 and YP7, might offer new immunotherapeutic tools for HCC treatment.
+diagnostics; glypican-3; hepatocellular carcinoma; immunotherapy; prognosis.

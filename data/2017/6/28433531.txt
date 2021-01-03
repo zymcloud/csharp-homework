@@ -1,0 +1,4 @@
+28433531
+2017 Jun 1
+Introduction of a Michael acceptor on a flexible scaffold derived from pan-FGFR inhibitors has successfully yielded a novel series of highly potent FGFR4 inhibitors with selectivity over FGFR1. Due to reduced lipophilicity and aromatic ring count, this series demonstrated improved solubility and permeability. However, plasma instability and fast metabolism limited its potential for in vivo studies. Efforts have been made to address these problems, which led to the discovery of compound (-)-11 with improved stability, CYP inhibition, and good activity/selectivity for further optimization.
+Covalent inhibitor; Fibroblast growth factor 19; Fibroblast growth factor receptor 4; Hepatocellular carcinoma; Isoform selective.

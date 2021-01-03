@@ -1,0 +1,4 @@
+32218817
+2020 Apr
+Prognosis of patients with intermediate stage hepatocellular carcinoma (HCC) treated with transcatheter arterial chemoembolization (TACE) is unsatisfactory. The present study analyzed the indications for suitable TACE in patients with intermediate stage HCC. Additionally, it was investigated whether further TACE or switching to multi-kinase inhibitors (MKIs) was more beneficial for patients with HCC recurrence following initial TACE. The present retrospective study included 238 patients with intermediate stage HCC who were initially treated with TACE (median age, 74 years). A decision-tree analysis was employed to investigate the therapeutic effect profiles and overall survival (OS) rates. In the decision-tree analysis for OS, complete response (CR) by initial TACE was selected as the most important variable. In the decision-tree analysis for CR,
+exploratory data analysis; hepatoma; interventional radiology; prognosis; tyrosine kinase inhibitor.

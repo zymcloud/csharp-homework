@@ -1,0 +1,4 @@
+30309387
+2018 Oct 11
+Hepatocellular carcinoma (HCC) is one of the most common tumors in the world, and its mortality is still on the rise. Limited treatments and low chemotherapy sensitivity of HCC make new therapeutic strategies urgently needed. With the rise of immune checkpoint blockade, anti-CTLA-4 antibodies and anti-PD-1 antibodies have shown therapeutic effects in various tumors. T cell immunoglobulin mucin-3 (Tim-3), a newly discovered immune checkpoint molecule, plays a major role in the development of HCC. Tim-3 can be used to evaluate the prognosis and therapeutic effects in HCC, and Tim-3 intervention has shown anti-tumor effects in preclinical experiments. This review summarizes findings regarding Tim-3 and HCC in recent years and discusses the rationale of Tim-3 as a therapeutic target for HCC.
+Hepatocellular carcinoma; Immune checkpoint blockade; Immunotherapy; Tim-3.

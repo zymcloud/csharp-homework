@@ -1,0 +1,4 @@
+21622209
+2011 Jun 1
+Chronic liver injury, liver fibrosis and formation of hepatocellular carcinoma are intimately linked and represent a major medical challenge since treatment options are limited. Therefore, it is important to identify cellular and molecular pathways that promote liver damage or provide hepatoprotection for development of therapeutic approaches. Recently, the transcription factors STAT3 and STAT5 have been implicated in liver fibrosis induced by cholestatic liver damage. In this review, we summarize our current knowledge about STAT proteins in liver fibrosis and focus on common activities that underlie the hepatoprotective mechanisms regulated by IL-6/gp130/STAT3 and GH/STAT5/IGF-1 signaling pathways.
+

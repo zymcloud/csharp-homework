@@ -1,0 +1,4 @@
+24561634
+2014 Feb 24
+Several complex molecular events are involved in tumorigenesis of hepatocellular carcinoma (HCC). The interactions of these molecules may constitute the HCC imbalanced network. Gansui Banxia Tang (GSBXT), as a classic Chinese herbal formula, is a popular complementary and alternative medicine modality for treating HCC. In order to investigate the therapeutic effects and the pharmacological mechanisms of GSBXT on reversing HCC imbalanced network, we in the current study developed a comprehensive systems approach of integrating disease-specific and drug-specific networks, and successfully revealed the relationships of the ingredients in GSBXT with their putative targets, and with HCC significant molecules and HCC related pathway systems for the first time. Meanwhile, further experimental validation also demonstrated the preventive effects of GSBXT on tumor growth in mice and its regulatory effects on potential targets.
+

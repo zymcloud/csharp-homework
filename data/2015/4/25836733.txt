@@ -1,0 +1,4 @@
+25836733
+2015 Apr 28
+Hepatitis B virus (HBV) replication is controlled by liver-enriched transcriptional factors, including forkhead box protein A (FOXA) members. Here, we found that FOXA members are directly and indirectly involved in HBV replication in human hepatic cells. HBV replication was elevated in HuH-7 treated with individual FOXA members-specific siRNA. Reciprocally, the downregulation of HBV replication was observed in FOXA-induced HuH-7. However, the mechanism of downregulation is different among FOXA members at the level of HBV RNA transcription, such as precore/pg RNA and 2.1 kb RNA. In addition, FOXA1 and FOXA2 suppressed nuclear hormone receptors, such as HNF4α, that are related to HBV replication.
+FOXA1; FOXA2; FOXA3; HNF3; Hepatitis B virus; Hepatitis B virus replication.

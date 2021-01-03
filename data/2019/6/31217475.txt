@@ -1,0 +1,4 @@
+31217475
+2019 Jun 19
+Liver kinase B1 (LKB1) regulates both cell growth and energy metabolism. Inactivated mutations of LKB1, observed in 20-30% of nonsmall cell lung cancers (NSCLC), contribute significantly to lung cancer malignancy progression. However, the upstream signalings regulating LKB1 activity remain incompletely understood. Here, we present evidence that FBXO22 interacts with and promotes polyubiquitination of LKB1. More intriguingly, FBXO22 mediates Lys-63-linked LKB1 polyubiquitination and inhibits kinase activity of LKB1. Furthermore, over-expression of FBXO22 promotes NSCLC cell growth through inhibiting LKB1-AMPK-mTOR signaling in vitro and in vivo. Clinically, FBXO22 is highly expressed in human lung adenocarcinoma and high FBXO22 expression predicts significant poor prognosis. Our study provides new insights into the upstream regulation of LKB1 activation and identifies FBXO22 as a potential therapeutic target for lung cancer treatment.
+

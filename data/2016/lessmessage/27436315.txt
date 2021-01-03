@@ -1,0 +1,4 @@
+27436315
+2016
+The application of homing peptides to direct DNA and RNA lipoplexes to target cells is a rapidly evolving area of study, which may find application in corrective gene therapy for the treatment of neoplasms and other disorders of a genetic origin. Here, a step-wise account of the assembly and characterization of hepatocellular carcinoma cell-specific DNA lipoplexes and their cytotoxicity assessment in and delivery to the human hepatocellular carcinoma cell line HepG2 is given.
+Gene delivery; Hepatocellular carcinoma; Homing-peptide; Lipoplex; Targeting.

@@ -1,0 +1,4 @@
+21763068
+2011 Nov 1
+N-myc downstream-regulated gene 1 (NDRG1) has been reported to be a multifunctional protein associated with carcinogenesis, however, the cellular function of NDRG1 remains elusive in human cancers. Here, our proteomics profile analysis of HCC tissues with different metastatic capabilities revealed that NDRG1 was correlated with metastasis and recurrence in HCC patients after liver transplantation (LT). Immunohistochemical staining of 143 HCC patients after LT showed that NDRG1-positive expression had poor prognosis, either for shorter disease-free survival or overall survival (P
+

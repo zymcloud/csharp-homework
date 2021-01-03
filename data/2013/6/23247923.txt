@@ -1,0 +1,4 @@
+23247923
+2013 Jun
+Purpose:This study aims to demonstrate that 3'-deoxy-3'-(18)F-fluorothymidine ((18)F-FLT) positron emission tomography (PET) is a promising modality for noninvasively monitoring the therapeutic efficacy of Doxisome(®) in a subcutaneous hepatoma mouse model.Procedures:Male BALB/c nu/nu mice were inoculated with HepG2 hepatoma xenograft in the right flank. Doxisome(®) (5 mg/kg, three times a week for 2 weeks) was intravenously administrated for treatment. (18)F-FLT-microPET, biodistribution studies, and immunohistochemistry of Ki-67 were performed.Results:A significant difference (p Conclusions:This study clearly demonstrated that Doxisome(®) is an effective anti-cancer drug against the growth of HepG2 hepatoma and that (18)F-FLT-PET could provide early information of tumor response during treatment.
+

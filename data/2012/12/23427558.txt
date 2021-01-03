@@ -1,0 +1,4 @@
+23427558
+2012 Dec
+Two novel rare earth tungstosilicic polyoxometalate containing 5-fluorouracil, K26 (C4 H4 FN2O2)8Pr (SiW11 O39)4 x 10H2O (FPSW) and K26(C4H4FN2O2)8Sm(SiW11O39)4 x 9H2O (FSSW), were synthesized and their structure were characterized by using elemental analysis, FTIR spectra, X-ray powder diffraction and TG. The antitumor activity tests of the compounds FPSW and FSSW were carried out by the methyl thiazolyl tetrazolium method in hepatocellular carcinoma cell HepG-2. The results showed that FPSW and FSSW could inhibit the HepG-2 cells in vitro significantly. The EC50 of FPSW and FSSW is 1.94 x 10(-5) and 1.32 x 10(-5) mol x L(-1) respectively. The therapeutic index of FPSW and FSSW is 0.76 and 1.58 respectively.
+

@@ -1,0 +1,4 @@
+31729307
+2020
+Posttranslational protein modifications are known to be extensively involved in cancer, and a growing number of studies have revealed that the ubiquitin-like modifier FAT10 is directly involved in cancer development. FAT10 was found to be highly upregulated in various cancer types, such as glioma, hepatocellular carcinoma, breast cancer and gastrointestinal cancer. Protein FAT10ylation and interactions with FAT10 lead to the functional change of proteins, including proteasomal degradation, subcellular delocalization and stabilization, eventually having significant effects on cancer cell proliferation, invasion, metastasis and even tumorigenesis. In this review, we summarized the current knowledge on FAT10 and discussed its biological functions in cancer, as well as potential therapeutic strategies based on the FAT10 pathway.
+FAT10; FAT10ylation; cancer; post-translational modification; substrate; ubiquitin-like.

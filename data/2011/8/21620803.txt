@@ -1,0 +1,4 @@
+21620803
+2011 Aug 15
+Endogenous ribonucleotides and deoxyribonucleotides play a critical role in cell function, and determination of their levels is of fundamental importance in understanding key cellular processes involved in energy metabolism and molecular and biochemical signaling pathways. In this study, we determined the respective ribonucleotide and deoxyribonucleotide pool sizes in different human cell lines using a simple sample preparation method and LC/MS/MS. This assay was used to determine alterations in deoxyribonucleotide pools in human pancreatic PANC1 cells in response to hypoxia and to treatment with either hydroxyurea or aphidicolin. The levels of all deoxyribonucleotide metabolites decreased with hypoxia treatment, except for dUMP, which increased by two-fold. This LC/MS/MS assay is simple, fast, and sensitive, and it represents a significant advance over previously published methodologies.
+

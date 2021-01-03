@@ -1,0 +1,4 @@
+30874911
+2019 Mar 14
+In order to analyze the influence of different segmentation techniques on hepatocellular carcinoma (HCC) CT (Computed Tomography) imaging histological feature extraction, Grow Cut method and Graph Cut method are used to segment hepatocellular carcinoma from arterial CT images of HCC patients, and the stability and repeatability of imaging histological features are studied. Meanwhile, hierarchical clustering method is used to reduce the redundancy of features. The results show that the repeatability and redundancy mainly depend on the method of tumor segmentation. Semi-automatic segmentation method can improve the repeatability of image features, and hierarchical clustering can reduce the redundancy of features. Different segmentation techniques have different effects on the extraction of histological features of CT images of HCC.
+HCC; Imaging histological features; Repeatability; Segmentation.

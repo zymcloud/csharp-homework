@@ -1,0 +1,4 @@
+26481559
+2016 Mar 15
+A recent gene expression classification of hepatocellular carcinoma (HCC) includes a poor survival subclass termed S2 representing about one-third of all HCC in clinical series. S2 cells express E-cadherin and c-myc and secrete AFP. As the expression of fibroblast growth factor receptors (FGFRs) differs between S2 and non-S2 HCC, this study investigated whether molecular subclasses of HCC predict sensitivity to FGFR inhibition. S2 cell lines were significantly more sensitive (p
+AZD4547; BGJ398; FGFR; MAPK; liver cancer.

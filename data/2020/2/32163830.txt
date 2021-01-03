@@ -1,0 +1,4 @@
+32163830
+2020 Feb
+Telomerase regulation and telomere shortening act as a strong tumor suppressor mechanism in human somatic cells. Point mutations in the promoter of telomerase reverse transcriptase (TERT) are the most frequent non-coding mutation in cancer. These TERT promoter mutations (TPMs) create de novo ETS factor binding sites upstream of the start codon of the gene, which can be bound by different ETS factors. TPMs can occur early during tumorigenesis and are thought to be among the first mutations in melanoma, glioblastoma and hepatocellular carcinoma. Despite their association with increased TERT levels, TPMs do not prohibit telomere shortening and TPM-harboring cancers present with short telomeres. Their short telomere length combined with their high prevalence and specificity for cancer makes TPMs an attractive target for future therapeutic exploitation of telomerase inhibition and telomere deprotection-induced cell death.
+

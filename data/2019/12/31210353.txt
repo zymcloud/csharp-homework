@@ -1,0 +1,4 @@
+31210353
+2019 Dec
+Hepatocellular carcinoma (HCC) is one of the most common lethal cancers worldwide. To explore the potential prognosis-associated microRNAs (miRNAs) for HCC patients, we performed integrated analyses on the miRNA expression profiles from The Cancer Genome Atlas project. Genome-wide overall survival (OS)- and progression-free survival (PFS)-associated miRNA screening were performed by multivariate Cox proportional hazards regression analyses. A five-miRNA expression signature (miR-148a, miR-3677-3p, miR-744*, miR-210, and miR-3613-5p) was identified as an indicator for HCC OS (p
+biomarker; hepatocellular carcinoma; microRNA; overall survival; progression-free survival.

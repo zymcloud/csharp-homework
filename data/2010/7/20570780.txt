@@ -1,0 +1,4 @@
+20570780
+2010 Jul
+Stereotactic radiation therapy, consisting in irradiating the tumor with a high dose per fraction, has a therapeutic potential because of excellent local control. This technique requires a high accuracy level in order to minimize the risk of normal tissue toxicity. Initially used for cerebral localization, the stereotactic radiation therapy can be used for lung and liver tumors thanks to personalized immobilization devices, time resolved tomodensitometry for tumor deformation, collimators with small size leaves, advanced dose distribution calculation algorithms and 3D imaging for patient set-up. This article will review the different clinical applications and the different aspects (mechanical, dosimetric and biological) to evaluate before implementing this complex irradiation technique using adapted or dedicated linear accelerators.
+

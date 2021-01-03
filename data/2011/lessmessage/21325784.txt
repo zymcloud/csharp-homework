@@ -1,0 +1,4 @@
+21325784
+2012
+Objectives:To characterize the mutation pattern of a hepatitis B virus (HBV) core protein (HBcAg) derived from hepatocellular carcinoma (HCC) and adjacent nontumor tissues.Methods:HBV core gene fragments (nt. 1901-2365) were amplified from 98 HBV-related HCC tissues and 33 adjacent nontumor tissues. The deduced amino acids (AAs) of the core gene were aligned with the prototype sequences of HBV genotypes B and C.Results:In total, there were 54 positions that showed polymorphism at the deduced AA level. The mutations were predominantly located in three major (codons 83-87, 95-104 and 130-135) and three minor (codons 21-38, 59-63 and 151-155) mutation-clustering regions (MCRs). The substitution rate in MCRs was significantly higher than in mutation-devoid regions (p Conclusions:Accumulation of naturally occurring mutations in certain restricted segments of HBcAg may be related to the development of HCC.
+

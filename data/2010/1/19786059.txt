@@ -1,0 +1,4 @@
+19786059
+2010 Jan
+Leucomalachite green (LMG) is mutagenic and produces DNA-adducts in vivo, and is carcinogenic in rodent bioassays. Dose-response modelling of the data for hepatocellular adenomas and carcinomas in female mice gave a BMDL10 of 20 mg/kg-bw/day. Limited data are available on the concentrations present in fish for human consumption. Human exposure estimates assumed that all consumed fish is contaminated with LMG. The calculated MoEs were 4,000,000 and 400,000 respectively for average and high exposure estimates.
+

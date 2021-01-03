@@ -1,0 +1,4 @@
+28680813
+2017 Jun 5
+Nonalcoholic fatty liver disease (NAFLD) is increasing in prevalence worldwide and has been identified as a risk factor for cirrhosis and hepatocellular carcinoma. However, there is no effective pharmacologic treatment for NAFLD. FABP1 is a liver-specific fatty acid-binding protein (FABP) that plays important roles in intracellular lipid metabolism in the liver. We investigated the effect of repression of FABP1 expression on NAFLD, using adenovirus-mediated silencing of FABP1. FABP1 knockdown in the liver decreased the liver weight and hepatic triglyceride (TG) accumulation. The expression of inflammatory and oxidative stress markers in the liver was also reduced. The level of thiobarbituric acid-reactive substances, a marker of lipid peroxidation, in the liver of FABP1 knockdown mice was significantly decreased. These results suggest that FABP1 reduction in the liver is an effective approach against NAFLD.
+FABP1; NAFLD.

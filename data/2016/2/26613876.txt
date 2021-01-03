@@ -1,0 +1,4 @@
+26613876
+2016 Feb
+Magnetic resonance spectroscopy (MRS) is a noninvasive functional technique to evaluate the biochemical behavior of human tissues. This property has been widely used in assessment and therapy monitoring of brain tumors. MRS studies can be implemented outside the brain, with successful and promising results in the evaluation of prostate and breast cancer, although still with limited reproducibility. As a result of technical improvements, malignancies of the musculoskeletal system and abdominopelvic organs can benefit from the molecular information that MRS provides. The technical challenges and main applications in oncology of (1)H MRS in a clinical setting are the focus of this review.
+(1)H magnetic resonance spectroscopy metabolites; Brain tumor; Breast cancer; Choline; Hepatocellular carcinoma; Magnetic resonance spectroscopic imaging; Prostate cancer.

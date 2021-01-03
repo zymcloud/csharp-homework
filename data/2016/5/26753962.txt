@@ -1,0 +1,4 @@
+26753962
+2016 May
+Long non-coding RNAs (lncRNAs) are a family of non-protein-coding RNAs with length more than 200 nucleotides. LncRNAs played important roles in many biological processes such as cell development, proliferation, invasion and migration. Deregulation of LncRNAs was found in multiple tumors where they can act as a tumor suppressor gene or oncogene. LncRNA ANRIL was identified as an oncogene involved in a number of tumors such as gastric cancer, lung cancer, hepatocellular carcinoma, and esophageal squamous cell carcinoma. Inhibition of ANRIL suppressed the cancer cell proliferation, migration and invasion. Increasing data has showed that ANRIL may act as a diagnostic and prognostic biomarker for some tumors. In our review, we summarize an overview of current knowledge concerning the expression and role of ANRIL in various cancers.
+ANRIL; Cancer; Long non-coding RNAs; lncRNAs.

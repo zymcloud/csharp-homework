@@ -1,0 +1,4 @@
+24335617
+2013 Dec 11
+CIP2A is an oncoprotein that upregulates p-Akt and promotes cancer cell proliferation and survival. The proteasome inhibitor bortezomib has been shown to reduce CIP2A and lead to cell apoptosis. Here; we modified the functional group of bortezomib to generate a series of novel compounds and conducted a structure-activity relationship (SAR) study. The results showed that compound 1 was able to repress CIP2A expression and cell apoptosis in the same manner as bortezomib, but with less potency in inhibition of proteasome activity. This finding provides a new direction for the design of CIP2A inhibitors.
+

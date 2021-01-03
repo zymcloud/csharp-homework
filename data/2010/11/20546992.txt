@@ -1,0 +1,4 @@
+20546992
+2010 Nov 1
+Application of camptothecin (CPT) is hampered due to its extreme water insolubility and unpredictable side effects. Therefore, it is essential to establish an efficient and safe protocol for the administration of camptothecin against tumor growth and metastasis. Here, we encapsulated camptothecin with N-trimethyl chitosan (CPT-TMC) and tested it on BALB/c mice subcutaneously injected with murine hepatocellular carcinoma cells at the hindlimb feet pad. CPT-TMC effectively inhibited tumor growth and lymphatic metastasis, prolonged survival time, yet without apparent toxic effects. Thus, CPT-TMC may provide a novel and effective therapeutic strategy against human advanced hepatic cancer without conspicuous systemic toxic effects.
+

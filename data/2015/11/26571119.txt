@@ -1,0 +1,4 @@
+26571119
+2015 Nov 16
+Retinoic acid (RA) is an important biological signal that directly differentiates cells during embryonic development and tumorigenesis. However, the molecular mechanism of RA-mediated differentiation in hepatic cancer stem cells (hCSCs) is not well understood. In this study, we found that mRNA expressions of RA-biosynthesis-related dehydrogenases were highly expressed in hepatocellular carcinoma. All-trans retinoic acid (ATRA) differentiated hCSCs through inhibiting the function of β-catenin in vitro. ATRA also inhibited the function of PI3K-AKT and enhanced GSK-3β-dependent degradation of phosphorylated β-catenin. Furthermore, ATRA and β-catenin silencing both increased hCSC sensitivity to docetaxel treatment. Our results suggest that targeting β-catenin will provide extra benefits for ATRA-mediated treatment of hepatic cancer patients.
+

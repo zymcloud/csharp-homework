@@ -1,0 +1,4 @@
+29218242
+2017 Nov 1
+Ovarian cancer (OC) is one of the most fatal gynecological cancer in women worldwide. Long noncoding RNA (lncRNA) lncBRM was found to be associated with the progression and prognosis of hepatocellular carcinoma (HCC). However, the expression level, clinical significance and functions in OC tumorigenesis and progression remain unclear. Our present research demonstrated that lncBRM expression was significantly increased in OC tissues. Upregulation of lncBRM expression was correlated with histological grade, FIGO stages, lymph node metastasis and poor prognosis of patients with OC. Functional assays showed that lncBRM positively regulated cell proliferation, migration and invasion in OC. Moreover, lncBRM upregulated Sox4 by competitively binding miR-204. Together, lncBRM functions as an oncogene in OC and can be a promising therapeutic target for OC treatment.
+Sox4; lncBRM; miR-204.

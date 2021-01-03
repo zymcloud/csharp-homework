@@ -1,0 +1,4 @@
+20851854
+2010 Nov 15
+Purpose:We investigated the expression of high-mobility group box 2 (HMGB2) in patients with hepatocellular carcinoma (HCC) and its clinical effects with underlying mechanisms.Experimental design:HMGB2 mRNA levels were measured in 334 HCC patients by real-time reverse transcription-PCR and HMGB2 protein levels in 173 HCC patients by immunohistochemical studies. The HMGB2 expression level was measured by Western blotting for three HCC cell lines. To clarify the precise role of HMGB2 on cell proliferation, we did in vitro analysis with expression vectors and small interfering RNAs.Results:HMGB2 mRNA and protein expression were significantly higher in HCC than in noncancerous surrounding tissues (P Conclusions:Our clinical and in vitro data suggest that HMGB2 plays a significant role in tumor development and prognosis of HCC. These results can partly be explained by altered cell proliferations by HMGB2 associated with the antiapoptotic pathway.
+

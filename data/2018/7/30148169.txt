@@ -1,0 +1,4 @@
+30148169
+2018 Jul 26
+Hepatocellular carcinoma (HCC) is a global health problem and one of the most common malignant tumors. Recent studies have shown that noncoding RNAs (ncRNAs) contribute to the pathogenesis of hepatocellular carcinoma (HCC). These RNAs may be involved in a variety of pathological processes such as cell proliferation, apoptosis, angiogenesis, invasion, and metastasis. In addition, abnormal expression of ncRNAs in HCC may provide potential prognostic or diagnostic biomarkers. This review provides an overview of the role and potential applications of ncRNAs, miRNAs, lncRNAs, circRNAs, and snoRNAs in liver cancer.
+

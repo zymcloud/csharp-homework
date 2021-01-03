@@ -1,0 +1,4 @@
+26527170
+2015 Oct 28
+Infection by hepatitis C virus (HCV), a plus-stranded RNA virus that can cause cirrhosis and hepatocellular carcinoma, is one of the major health problems in the world. HCV infection is considered as a multi-step complex process and correlated with abnormal metabolism of lipoprotein. In addition, virus attacks hepatocytes by the initial attaching viral envelop glycoprotein E1/E2 to receptors of lipoproteins on host cells. With the development of HCV model system, mechanisms of HCV cell entry through lipoprotein uptake and its receptor have been extensively studied in detail. Here we summarize recent knowledge about the role of lipoprotein receptors, scavenger receptor class B type I and low-density lipoprotein receptor in the entry of HCV, providing a foundation of novel targeting therapeutic tools against HCV infection.
+CD81; Hepatitis C virus entry; Lipoprotein receptors; Low-density lipoprotein receptor; Scavenger receptor class B type I.

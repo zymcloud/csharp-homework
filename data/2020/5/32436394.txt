@@ -1,0 +1,4 @@
+32436394
+2020 May 21
+The Liver Imaging Reporting and Data System (LI-RADS) is a recently developed classification aiming to improve the standardization of liver imaging assessment in patients at risk of developing hepatocellular carcinoma (HCC). The LI-RADS v2017 implemented new algorithms for ultrasound (US) screening and surveillance, contrast-enhanced US diagnosis and computed tomography/magnetic resonance imaging treatment response assessment. A minor update of LI-RADS was released in 2018 to comply with the American Association for the Study of the Liver Diseases guidance recommendations. The scope of this review is to provide a practical overview of LI-RADS v2018 focused both on the multimodality HCC diagnosis and treatment response assessment.
+CEUS; CT; LI-RADS; MRI; US; hepatocarcinoma; management; treatment response.

@@ -1,0 +1,4 @@
+20840331
+2010 Oct
+The goal of hepatitis B treatment is to prevent the development of cirrhosis, liver failure, and hepatocellular carcinoma. Ideally, clinical studies should demonstrate that hepatitis B therapies can prevent liver-related complications; however, these clinical endpoints evolve over years or decades. Therefore, clinical trials have relied on intermediate endpoints to evaluate the efficacy of treatment and to determine when treatment can be stopped. Intermediate endpoints that have been used include biochemical, histological, virological, and serological endpoints. This review will discuss the validity of these intermediate endpoints as surrogates of clinical endpoints, and the rates at which these intermediate endpoints can be achieved with currently available therapies.
+

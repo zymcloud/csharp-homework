@@ -1,0 +1,4 @@
+21354905
+2011 Feb
+Objective:To investigate the roles of STAT1 and STAT2 in growth inhibition induced by phosphatidylethanolamine (PE) in human hepatoma HepG2 cells.Methods:The growth of HepG2 cells exposed to 0.125, 0.25, 0.5 and 1.0 mmol/L PE was assessed by MTT assay, and the expressions of STAT1 and STAT2 were analyzed using immunocytochemical assay.Results:PE inhibited the growth of HepG2 cells in a dose-dependent manner and increased the expression of STAT1 and STAT2 in comparison with those in the control group. AG490, an inhibitor of JAKs, partially reversed PE-induced growth inhibition of HepG2 cells.Conclusion:STAT1 and STAT2 are involved in the growth inhibition of human hepatoma HepG2 cells induced by PE.
+

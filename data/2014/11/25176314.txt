@@ -1,0 +1,4 @@
+25176314
+2014 Nov
+The model of Notch-driven carcinogenesis and development of hepatocellular carcinoma remains controversial and is based on observations of developmental stage- and dose-dependent Notch activation. In this study, the relevance of the spatial distribution of Notch cascade members to the promotion of hepatocellular carcinoma metastasis was evaluated. The spatial expression patterns of the members of the Jagged1 (JAG1)/Notch1 cascade in HCC were evaluated in a tissue microarray of 112 tumors and 46 peri-tumors. Regulation of JAG1/Notch1 on osteopontin (OPN) was evaluated by RNA interference. Tumor cells with JAG1 expressed on the membrane (JAG1(Mem)) were more likely to undergo extrahepatic metastasis [p
+

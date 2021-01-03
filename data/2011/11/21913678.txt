@@ -1,0 +1,4 @@
+21913678
+2011 Nov 1
+Detection of intracellular Zn(2+) has gained great attention because of its biological significances. Here we show the fabrication of silica-coated S(2-)-enriched Mn-doped ZnS quantum dots (SiO(2)-S-Mn-ZnS QDs) by enriching S(2-) with a silica shell on the surface of Mn-doped ZnS QDs via a sol-gel process for imaging intracellular Zn(2+) ions. The developed probe gave a good linearity for the calibration plot (the recovered PL intensity of the SiO(2)-S-Mn-ZnS QDs against the concentration of Zn(2+) from 0.3 to 15.0 μM), excellent reproducibility (1.2% relative standard deviation for 11 replicate measurements of Zn(2+) at 3 μM), and low detection limit (3s; 80 nM Zn(2+)). The SiO(2)-S-Mn-ZnS QDs showed negligible cytotoxicity, good sensitivity, and selectivity for Zn(2+) in a photoluminescence turn-on mode, being a promising probe for photoluminescence imaging of intracellular Zn(2+).
+

@@ -1,0 +1,4 @@
+25384940
+2015 Mar
+U.S. Environment Protection Agency benchmark doses for dichotomous cancer responses are often estimated using a multistage model based on a monotonic dose-response assumption. To account for model uncertainty in the estimation process, several model averaging methods have been proposed for risk assessment. In this article, we extend the usual parameter space in the multistage model for monotonicity to allow for the possibility of a hormetic dose-response relationship. Bayesian model averaging is used to estimate the benchmark dose and to provide posterior probabilities for monotonicity versus hormesis. Simulation studies show that the newly proposed method provides robust point and interval estimation of a benchmark dose in the presence or absence of hormesis. We also apply the method to two data sets on carcinogenic response of rats to 2,3,7,8-tetrachlorodibenzo-p-dioxin.
+Bayesian model averaging; benchmark dose; hormesis; multistage model.

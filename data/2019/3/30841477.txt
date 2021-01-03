@@ -1,0 +1,4 @@
+30841477
+2019 Mar
+Lysine crotonylation is a new posttranslational modification (PTM) type identified on histones, which is enriched on active gene promoters or potential enhancers in mammalian cell genomes. However, the function of lysine crotonylation in the cancer process is not known. Intriguingly, we found that lysine crotonylation expression is down-regulated in liver, stomach, kidney carcinomas, and up-regulated in thyroid, esophagus, colon, pancreas and lung carcinomas. In hepatocellular carcinoma (HCC), lysine crotonylation expression is correlated with Tumour, Node, and Metastasis (TNM) stage. Besides, the crotonylation level is increased by knocking down HDACs or adding HDACs inhibitor, TSA, and thus inhibits hepatoma cell motility and proliferation. Taken together, our findings opened up a new field for the investigation and understanding of the biological role of lysine crotonylation.
+Crotonylation; HCC; HDAC.

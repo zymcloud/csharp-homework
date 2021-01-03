@@ -1,0 +1,4 @@
+20007277
+2010 Feb
+Hepatitis C virus (HCV) is a liver-tropic pathogen with severe health consequences for infected individuals. Chronic HCV infection can progress to cirrhosis and hepatocellular carcinoma and is a leading indicator for liver transplantation. The HCV core protein is an essential component of the infectious virus particle, but many aspects of its role remain undefined. The C-terminal region of the core protein acts as a signal sequence for the E1 glycoprotein and undergoes dual processing events during infectious virus assembly. The exact C terminus of the mature, virion-associated core protein is not known. Here, we performed genetic analyses to map the essential determinants of the HCV core C-terminal region, as well as to define the minimal length of the protein that can function for infectious virus production in trans.
+

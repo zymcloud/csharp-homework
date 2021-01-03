@@ -1,0 +1,4 @@
+24704024
+2014 Jun 10
+MicroRNAs (miRNAs) can act as oncogenes or tumor-suppressor genes in human cancers including HCC. Previous studies have identified miR-34 family as an important component of the tumor suppressor network during carcinogenesis. In this study, we investigated the methylation status of miR-34 family in HCC tumor and adjacent non-tumor tissues using methylation-specific PCR (MSP). The methylation frequencies of miR-34a and miR-34b/c were 72.1% (31/43) and 79.1% (34/43) in HCC tissues, which were significantly higher than that in the adjacent non-tumor tissues (P
+Hepatocellular carcinoma; Methylation; miR-34a; miR-34b/c.

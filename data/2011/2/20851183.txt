@@ -1,0 +1,4 @@
+20851183
+2011 Feb
+Primary hepatocellular carcinoma (HCC) is a significant human cancer globally, with poor prognosis. New and efficacious therapy strategies are needed as well as new biomarkers for early detection of at-risk patients. In this review, we discuss select microarray studies of human HCCs, and propose a gene signature that has promise for clinical/translational application. This gene signature combines the proliferation cluster of genes and the hepatic cancer initiating/stem cell gene cluster for identification of HCCs with poor prognosis. Evidence from cell-based assays identifies the existence of a mechanistic link between these two gene clusters, involving the proliferation cluster gene polo-like kinase 1 (PLK1). We propose that PLK1 is a promising therapy target for HCC.
+

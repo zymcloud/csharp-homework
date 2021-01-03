@@ -1,0 +1,4 @@
+31056726
+2019 May 6
+In recent years, large scale genomics and genome-wide studies using comprehensive genomic tools have reshaped our understanding of cancer evolution and heterogeneity. Hepatocellular carcinoma, being one of the most deadly cancers in the world has been well established as a disease of the genome that harbours a multitude of genetic and epigenetic aberrations during the process of liver carcinogenesis. As such, in depth understanding of the cancer epigenetics in cancer specimens and biopsy can be useful in clinical settings for molecular subclassification, prognosis, and prediction of therapeutic responses. In this review, we present a concise discussion on recent progress in the field of liver cancer epigenetics and some of the current works that contribute to the progress of liver cancer therapeutics.
+DNA methylation; Epigenome; HCC; Histone methylation; Liver cancer; ncRNA.

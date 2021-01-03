@@ -1,0 +1,4 @@
+31121825
+2019 May 22
+In this study, a series of newly synthesized substituted pyridine 9, 11-18, naphthpyridine derivative 10 and substituted pyrazolopyridines 19-23 by using cycnopyridone 8 as a starting material. Some of the synthesized candidates are evaluated as anticancer agents against different cancer cell lines. In vitro cytotoxic activities against hepatocellular and cervical carcinoma cell lines were evaluated using standard MTT assay. Different synthesized compounds exhibited potential in vitro cytotoxic activities against both HepG2 and HeLa cell lines. Furthermore, compared to standard positive control drugs, compounds 13 and 19 showed the most potent cytotoxic effect with IC50 values of 8.78 ± 0.7, 5.16 ± 0.4 μg/mL, and 15.32 ± 1.2 and 4.26 ± 0.3 μg/mL for HepG2 and HeLa cells, respectively.
+HeLa; HepG2; anticancer activity; cyanopyridone; pyrazolopyridine; pyridotriazine; substituted pyridine; thioxotriazopyridine.

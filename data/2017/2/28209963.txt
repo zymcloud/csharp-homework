@@ -1,0 +1,4 @@
+28209963
+2017 Feb 17
+Whether or not esophagogastric varices (EGV) could determine the outcomes of patients with hepatocellular carcinoma (HCC) is still unclear. A total of 990 treatment-naive HCC patients who received an esophagogastroduodenoscopy at the time of HCC diagnosis were retrospectively enrolled. The factors in terms of prognosis were analyzed by Cox proportional hazards model and propensity score matching analysis. Among the enrolled patients, 480 (48.5%) patients had EGV. Patients with EGV had a significantly lower cumulative 5-year survival rate than those without EGV (24.9% versus 46.4%, p
+

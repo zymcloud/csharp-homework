@@ -1,0 +1,4 @@
+26156803
+2015 Dec
+MicroRNAs (miRNAs) are a class of small non-coding RNAs and have critical roles in tumorigenesis and metastasis. A growing body of evidence showed that microRNA-133a (miR-133a) was downregulated and played tumor suppressor roles in gastric, colorectal, bladder, and lung cancer. However, the role and underlying molecular mechanism of miR-133a in hepatocellular carcinoma (HCC) remain unclear. In this study, we analyzed the expression of miR-133a in HCC tissues and HCC cell lines. We find that miR-133a was downregulated in HCC tissues and cell lines and that miR-133a expression negatively correlated with tumor differentiation (P
+Hepatocellular carcinoma; IGF-1R; MicroRNAs; miR-133a.

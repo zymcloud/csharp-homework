@@ -1,0 +1,4 @@
+23324105
+2013 Sep
+In this article, new interstitial antenna operating at a frequency of 2.45 GHz for the treatment of hepatocellular carcinoma (HCC) using microwave ablation has been investigated. This antenna is basically an asymmetrical miniaturized choke dipole antenna with a pointed needle at the tip. A commercial finite element method (FEM) package, COMSOL Multiphysics 3.4a, has been used to simulate the performance of needle tip choke antenna. The performance of the antenna has been evaluated numerically, taking into account the specific absorption rate, antenna impedance matching and geometry of the obtained thermal lesion, and the temperature distribution plot obtained shows that maximum temperature was attained in this simulation. The antenna is also capable of creating a spherical-shaped ablation zone. The size and shape of the ablation zone can be slightly adjusted by adjusting the choke position in order to maintain spherical ablation zones.
+

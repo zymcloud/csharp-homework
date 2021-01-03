@@ -1,0 +1,4 @@
+33263850
+2020 Dec
+We studied the effects of lithium carbonate on the cell cycle, apoptosis, and autophagy in hepatocellular carcinoma-29 cells (HCC-29) in vitro. Flow cytofluorometry analysis revealed accumulation of G2/M-phase HCC-29 cells and increase in the number of apoptotic cells in 48 h after administration of 5 mM lithium carbonate. Induction of autophagy in HCC-29 cells was detected by transmission electron microscopy and immunofluorescence staining. Thus, lithium carbonate produces an antitumor effect by arresting cell cycle in the G2/M-phase and induction of apoptosis and autophagy in HCC-29 cells, which confirms the lithium potential as a promising drug for the treatment of hepatocellular carcinoma.
+apoptosis; autophagy; cell cycle; hepatocellular carcinoma; lithium carbonate (Li2CO3).

@@ -1,0 +1,4 @@
+23503119
+2013 Mar 15
+A new pregnane steroid, 1, and three known analogues 2-4, have been isolated from a gorgonian Carijoa sp. collected from the South China Sea. The planar structure and relative configuration of 1 were elucidated from comprehensive spectroscopic data. Its absolute configuration was determined by application of the modified Mosher method. Compounds 1, 3 and 4 exhibited cytotoxicity against the human hepatoma cell line Bel-7402, with IC50 values of 9.33, 11.02 and 18.68 µM, respectively. Additionally, compound 1 exhibited promising antibacterial activity against Pseudomona puido, with a MIC value of 31 nM, which is approximately 5-fold more potent than ciprofloxacin (MIC = 156 nM).
+

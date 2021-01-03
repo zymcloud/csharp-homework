@@ -1,0 +1,4 @@
+21473289
+2011
+To demonstrate in vivo tumor growth inhibition, the liver cancer cell lines HepG2, BEL7402, and SMMC7721 were independently inoculated into the livers of 45 6-week-old nude mice. After 24 h, mice were randomly divided into celecoxib (intragastric celecoxib suspension, 300 mg/kg), negative control (equal volume intragastric saline), and positive control (intraperitoneal injection of 6 mg/kg doxorubicin) and treated once per day for 3 days. Body weights, tumor diameters, and tumor expressions of proliferating cell nuclear antigen (PCNA) and c-Met were determined at 23 days posttreatments. Significant increases in body weight were observed in celecoxib- or doxorubicin-treated mice compared to saline-treated animals and tumor growth was significantly attenuated, accompanied by downregulation of tumor PCNA expression (p
+

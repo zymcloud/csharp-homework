@@ -1,0 +1,4 @@
+20645067
+2010
+Investigations on the biology of hepatitis C virus (HCV) have been hampered by the lack of small animal models. Efforts have therefore been directed to designing practical and robust cellular models of human origin able to support HCV replication and production in a reproducible and physiologically pertinent manner. Different systems have been constructed based on hepatoma or other cell lines, sub-genomic and genomic replicons, productive replicons, and immortalized hepatocytes. Although these models are practical for high-throughput screenings, they present several drawbacks related to the nature of the virions and the fact that the cells are not differentiated. Adult primary human hepatocytes infected with natural serum-derived HCV virions represent the model that most closely mimics the physiological situation. This chapter describes our experience with this culture model.
+

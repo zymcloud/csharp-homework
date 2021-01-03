@@ -1,0 +1,4 @@
+24867776
+2014 Jun
+Nonalcoholic fatty liver disease (NAFLD) is the most common chronic liver disease. Its incidence is rising worldwide. However, no specific therapy has been shown to be effective in its treatment. In the present study, the in vitro NAFLD model was established in human SMMC-7721 cells by using oleic acid (OA). Then, content changes of eight cations, including sodium, magnesium, potassium, calcium, iron, copper, zinc, and manganese, were investigated in the experimental model. The results showed that OA induced a decrease in magnesium level, while an increase in iron one. Additionally, the supplementation of magnesium in the cell culture model was studied. It showed that magnesium ameliorated lipid accumulation induced by OA. Our results suggest that magnesium could decrease the risk of NAFLD and be used as a promising candidate for the treatment of NAFLD.
+

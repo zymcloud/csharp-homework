@@ -1,0 +1,4 @@
+28035399
+2017 Feb
+It is well documented that A proliferation-inducing ligand (APRIL), a member of the tumor necrosis factor superfamily, plays a crucial role in the occurrence and development of tumors. In the present study, we evaluated the synergistic effect of APRIL knockdown and Jiedu Xiaozheng Yin (JXY), a Traditional Chinese Medicinal recipe, on the inhibition of hepatocellular carcinoma (HCC) cell proliferation and elucidated the underlying mechanism. The results demonstrated that both APRIL knockdown using small interfering RNA (siRNA) and JXY treatment could trigger cell cycle arrest and cell apoptosis, and suppress HCC cell proliferation through an NF-κB-related pathway. Synergism was further demonstrated between APRIL knockdown and JXY treatment. In conclusion, these results indicate that APRIL is a target gene for HCC and combination of siRNA-APRIL and JXY application holds great promise as a novel approach for the treatment of APRIL-positive HCC.
+

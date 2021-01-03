@@ -1,0 +1,4 @@
+29441798
+2018 Mar
+Aim:We aimed to examine the statistical association between serum expression of miRNA 661 (miR-661) and ATG-4B mRNA and hepatocellular carcinoma (HCC) based on in silico data analysis followed by clinical validation.Patients & methods:Quantitative reverse-transcriptase real-time PCR was used to examine the expression of miR-661 and ATG-4B mRNA in the sera of HCC patients versus control.Results:The expression of miR-661 and ATG-4B mRNA was positive in 97.14 and 77.14%, respectively, in HCC patients. The survival analysis showed that ATG-4B mRNA was an independent prognostic factor.Conclusion:Our data are the first report of its kind regarding the considerable clinical significance of miR-661 and ATG-4B mRNA in HCC patients.
+ATG-4B; bioinformatics; biomarkers; hepatocellular carcinoma; miR-661; prognosis.

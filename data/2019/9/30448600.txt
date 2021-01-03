@@ -1,0 +1,4 @@
+30448600
+2019 Sep
+Nonalcoholic fatty liver disease (NAFLD) is the most common chronic liver disease, affecting nearly 1 in 3 Americans.1 Nonalcoholic steatohepatitis (NASH), the clinically aggressive variant of NAFLD, has a propensity of fibrosis progression and increased risk of cirrhosis and hepatocellular carcinoma. NASH-related cirrhosis is now the most rapidly growing indication for liver transplantation (LT).2 Disease recurrence and progression to advanced fibrosis after LT are high3; however, the key contributors of these are unknown. We hypothesized that patients with NASH cirrhosis reside in a microenvironment conducive to not only development of NASH but also fibrosis progression, which likely persist after LT and contribute to disease recurrence. The hypothesis was tested by performing vibration-controlled transient elastography (VCTE) in primary caregivers and cohabitants of patients with decompensated cirrhosis awaiting LT.
+

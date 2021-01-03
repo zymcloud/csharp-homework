@@ -1,0 +1,4 @@
+22546866
+2012 Jul
+Hepatocellular carcinoma (HCC) is the fifth most common solid tumor and the third leading cause of cancer-related deaths. Currently available chemotherapeutic options are not curative due in part to tumor resistance to conventional therapies. We generated orthotopic HCC mouse models in immunodeficient NOD/SCID/IL2rγ null mice by injection of human alpha-feto protein (hAFP)- and/or luciferase-expressing HCC cell lines and primary cells from patients, where tumor growth and spread can be accurately monitored in a non-invasive way. In this model, low-dose metronomic administration of cyclophosphamide (LDM-CTX) caused complete regression of the tumor mass. A significant increase in survival (P
+

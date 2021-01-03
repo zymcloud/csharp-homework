@@ -1,0 +1,4 @@
+25920931
+2015 Jun
+There is a fast growing body of evidence that shows several miRNAs are essential to the key features of cancer stem cells (CSC) in hepatocellular carcinoma. However, the function of the miRNAs in different hepatic CSCs and their role in multidrug resistance mechanisms, in particular in those related to the CSC marker ABCG2, is still poorly understood. This limitation is mainly due to the heterogeneity of hepatocellular carcinoma tissues, different CSC markers and high number of deregulated miRNAs, both in primary tumor sites as well as in the circulation. The identification of CSC-related miRNAs and the modulation of hepatocellular carcinoma multidrug resistance would provide a systemic approach in the management of the disease.
+cancer stem cell; cell marker; hepatocellular carcinoma; miRNA; multidrug resistance.

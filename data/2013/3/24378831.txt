@@ -1,0 +1,4 @@
+24378831
+2014 Mar
+Osteosarcoma is a rare but aggressive bone neoplasm in humans, which is commonly treated with surgery, classical chemotherapy and radiation. Sorafenib, an inhibitor of a number of kinases targeting the Raf/MEK/ERK pathway, is a promising new chemotherapeutic agent in human medicine that has been approved since 2006 for the therapy of renal cell carcinoma and since 2007 for the treatment of hepatocellular carcinoma. Here, we studied the antimetastatic potential of 4 µM of this multikinase inhibitor in a human osteosarcoma cell line. DNA microarray-based gene expression profiling detected 297 and 232 genes upregulated or downregulated at a threshold of >2-fold expression alteration (P
+

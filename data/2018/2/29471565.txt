@@ -1,0 +1,4 @@
+29471565
+2018 Feb
+Fibrolamellar hepatocellular carcinoma (FLC) is a rare form of primary liver cancer that affects adolescents and young adults without underlying liver disease. Surgery remains the mainstay of therapy; however, most patients are either not surgical candidates or suffer from recurrence. There is no approved systemic therapy and the overall survival remains poor. Historically classified as a subtype of hepatocellular carcinoma (HCC), FLC has a unique clinical, histological, and molecular presentation. At the genomic level, FLC contains a single 400kB deletion in chromosome 19, leading to a functional DNAJB1-PRKACA fusion protein. In this review, we detail the recent advances in our understanding of the molecular underpinnings of FLC and outline the current knowledge gaps.
+

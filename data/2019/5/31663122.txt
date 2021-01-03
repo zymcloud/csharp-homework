@@ -1,0 +1,4 @@
+31663122
+2020 May
+Hepatocellular carcinoma (HCC) is one of the common malignant human tumors with high morbidity worldwide. Aberrant activation of the oncogenic phosphoinositide 3-kinase/protein kinase B/mammalian target of rapamycin (PI3K/AKT/mTOR) signaling is related to clinicopathological features of HCC. Emerging data revealed that microRNAs (miRNAs) have prominent implications for regulating cellular proliferation, differentiation, apoptosis, and metabolism through targeting the PI3K/AKT/mTOR signaling axis. The recognition of the crucial role of miRNAs in hepatocarcinogenesis represents a promising area to identify novel anticancer therapeutics for HCC. The present study summarizes the major findings about the regulatory role of miRNAs in the PI3K/AKT/mTOR pathway in the pathogenesis of HCC.
+PI3K/AKT/mTOR pathway; hepatocellular carcinoma; microRNA.

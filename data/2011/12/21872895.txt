@@ -1,0 +1,4 @@
+21872895
+2011 Dec
+Three monoterpenoids and two triterpenoids were isolated from Abies nephrolepis together with 53 known terpenoids. The structures of the compounds were established by 1D and 2D NMR spectroscopy. The absolute configuration of 3-hydroxycamphane-2-carboxylic acid was established as (1S,2R,3S,4R) by Cu-Kα X-ray crystallography. All 58 isolates were tested for cytotoxic activity against four tumor cells viz. A549 (human lung adenocarcinoma), Colo205 (colon adenocarcinoma), QGY-7703 (human hepatoma) and THP-1 (human monocytic leukemia). α-Cadinol exhibited the best effects on A549, Colo205 and QGY-7703 with IC(50) values of 8.6, 8.1 and 4.6 μg/mL, respectively.
+

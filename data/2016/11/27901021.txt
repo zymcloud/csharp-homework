@@ -1,0 +1,4 @@
+27901021
+2016 Nov 30
+Transmembrane p24 trafficking protein 3(TMED3) is a metastatic suppressor in colon cancer, but its function in the progression of hepatocellular carcinoma (HCC) is unknown. Here, we report that TMED3 was up-regulated in HCC and portal vein tumor thrombus. TMED3 up-regulation in HCC was significantly correlated with aggressive characteristics and predicted poor prognosis in HCC patients. TMED3 overexpression in HCC cell lines promoted cell migration and invasion. In contrast, TMED3 knockdown suppressed HCC metastasis both in vitro and in vivo. Gene microarray analysis revealed decreased IL-11 expression in TMED3-knockdown cells. We propose that TMED3 promotes HCC metastasis through IL-11/STAT3 signaling. Taken together, these findings demonstrate that TMED3 promotes HCC metastasis and is a potential prognostic biomarker in HCC.
+

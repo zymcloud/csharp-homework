@@ -1,0 +1,4 @@
+25086937
+2014 Aug
+Liver perfusion magnetic resonance (MR) imaging is currently being actively investigated as a functional imaging technique that provides physiologic information on the microcirculation and microenvironment of liver tumors and the underlying liver. It has gained importance in light of antiangiogenic therapy for hepatocellular carcinoma and colorectal liver metastases. This article explains the various model-free and model-based approaches for liver perfusion MR imaging and their relative clinical utility. Relevant published works are summarized for each approach so that the reader can understand their relative strengths and weaknesses, to make an informed choice when performing liver perfusion MR imaging studies.
+Cirrhosis; Dynamic contrast enhancement; Functional imaging; Hepatocellular carcinoma; Liver; MR imaging; Metastases; Perfusion.

@@ -1,0 +1,4 @@
+27723845
+2017
+Numerous evidences suggested that the hepatitis B virus (HBV) was recognized as an important factor in the development of hepatocellular carcinoma (HCC). Dickkopf-1 (DKK1) recently was reported to be involved in the progress of HCC. HBV may regulate DKK1 expression in hematoma carcinogenesis. Here, we demonstrated that HBV could regulate DKK1 promoter activity which resulted in upregulation of its mRNA and protein expression in several HBV existing cell lines, and HBx played a prominent role in this process. Transcription factor binding site search result showed that there is a SP1 site in DKK1 promoter region. Luciferase assay showed that overexpression of SP1 could increase DKK1 promoter activity in a dose dependent manner. Accordingly, siRNA inhibition of SP1 expression reduced DKK1 promoter activity and decreased the expression of DKK1 protein.
+DKK1; HBV; HCC; SP1.

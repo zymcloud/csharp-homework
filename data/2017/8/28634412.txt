@@ -1,0 +1,4 @@
+28634412
+2017 Aug
+Extracellular vesicles (EVs) are membranous vesicles originating from different cells in the liver. The pathophysiological role of EVs is increasingly recognized in liver diseases, including alcoholic liver disease, NAFLD, viral hepatitis and hepatocellular carcinoma. EVs, via their cargo, can provide communication between different cell types in the liver and between organs. EVs are explored as biomarkers of disease and could also represent therapeutic targets and vehicles for treatment delivery. Here, we review advances in understanding the role of EVs in liver diseases and discuss their utility in biomarker discovery and therapeutics.
+

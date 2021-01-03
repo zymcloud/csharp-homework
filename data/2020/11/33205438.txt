@@ -1,0 +1,4 @@
+33205438
+2020 Nov 18.</span
+Hepatitis C virus (HCV) is a major risk factor for hepatocellular carcinoma (HCC), one of the deadliest cancers with increasing incidence over the past few decades (1). Direct-acting antiviral (DAA) therapy in HCV-infected patients has been shown to lower the risk of liver-related events, including HCC (2). Despite sustained virological responses (SVR >95%), the risk of developing HCC in DAA-treated HCV patients with advanced fibrosis or cirrhosis remains high at 0.3 to 1.8% per year (3). On a molecular level, persistent epigenetic changes despite DAA cure are associated with hepatic carcinogenesis (4). Current AASLD-IDSA (5) and EASL (6) guidelines recommend lifelong surveillance for HCV-cured patients with cirrhosis; therefore, a more precise identification of clinical and molecular markers associated with HCC risk among these patients will have significant cost-effectiveness and resource utilization implications.
+

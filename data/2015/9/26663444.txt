@@ -1,0 +1,4 @@
+26663444
+2016 Sep
+The aim of the present study was to identify human cytosolic sulfotransferases (SULTs) that are capable of sulfating benzyl alcohol and to examine whether benzyl alcohol sulfation may occur in cultured human cells as well as in human organ homogenates. A systematic analysis revealed that of the 13 known human SULTs, SULT1A1 SULT1A2, SULTA3, and SULT1B1 are capable of mediating the sulfation of benzyl alcohol. The kinetic parameters of SULT1A1 that showed the strongest benzyl alcohol-sulfating activity were determined. HepG2 human hepatoma cells were used to demonstrate the generation and release of sulfated benzyl alcohol under the metabolic settings. Moreover, the cytosol or S9 fractions of human liver, lung, kidney and small intestine were examined to verify the presence of benzyl alcohol sulfating activity in vivo. Copyright © 2015 John Wiley & Sons, Ltd.
+SULT; benzyl alcohol; cytosolic sulfotransferase; human; sulfation.

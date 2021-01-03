@@ -1,0 +1,4 @@
+27936789
+2016 Dec 22
+Alpha-l-fucosidase is a known biomarker for hepatocellular carcinoma that has shown great potential in diagnostics. Most of the focus for this enzyme has been on the free form found in serum; however, little is known of the properties of the minor portion of membrane-bound alpha-l-fucosidase. To better understand the properties of membrane-bound alpha-l-fucosidase, this enzyme was surveyed at the air-water interface. Alpha-l-fucosidase is able to form a stable Langmuir monolayer, which was confirmed through surface-pressure and surface-potential area isotherms, as well as infrared reflection-absorption spectroscopy (IRRAS). Furthermore, an interaction between the alpha-l-fucosidase Langmuir monolayer and a specific antibody for this enzyme, FUCA2, was observed.
+

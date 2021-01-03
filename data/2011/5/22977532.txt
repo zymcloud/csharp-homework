@@ -1,0 +1,4 @@
+22977532
+2011 May
+Engulfment and cell motility 1 (Elmo1) has been linked to the invasive phenotype of glioma cells. The use of Elmo1 inhibitors is currently being evaluated in hepato-cellular carcinoma (HCC), but the molecular mechanisms of their therapeutic effect have yet to be determined. Elmo1 expression in HCC tissue samples from 131 cases and in 5 HCC cell lines was determined by immunohistochemistry, quantitative RT-PCR and Western blotting. To functionally characterize Elmo1 in HCC, Elmo1 expression in the HCCLM3 cell line was blocked by siRNA. Cell migration was measured by wound healing and transwell migration assays in vitro. Elmo1 overexpression was significantly correlated with cell invasion and the poor prognosis of HCC. Elmo1-siRNA-treated HCCLM3 cells demonstrated a reduction in cell migration. The present study demonstrated for the first time that the suppression of Elmo1 expression inhibits cell invasion in HCC.
+

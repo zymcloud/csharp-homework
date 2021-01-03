@@ -1,0 +1,4 @@
+20494699
+2010 Apr
+Intra-arterial delivery of chemotherapy is a well-established dominant treatment for hepatocellular carcinoma (HCC). This approach takes advantage of differential blood supply to the cancer, which is arterial, and to the liver, which is predominantly portal. Randomized trials demonstrating survival benefit have used transarterial chemoembolization (TACE) with arrest of blood flow and arterial obstruction to increase efficiency of drug delivery. Treatment-associated morbidity is significant but usually justified by the patient benefit. A number of alternative embolic particles have been explored to address efficacy and toxicity deficiencies of the original technology. In this article we list those materials. We then develop evidence that sub-selective arterial infusion therapy without embolic agents provides equivalent efficacy with less treatment morbidity.
+

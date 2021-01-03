@@ -1,0 +1,4 @@
+26017042
+2016 Jul
+The COII/tRNA(Lys) intergenic 9-bp deletion is one of the most commonly studied human mitochondrial DNA (mtDNA) polymorphisms. It consists of the loss of one of two tandemly repeated copies of the sequence CCCCCTCTA from a non-coding region located between cytochrome oxidase II (COII) and tRNA(Lys) gene. Most recently, case-control studies have shown a positive association between this deletion with hepatocellular cancer. In this study, we first performed a detailed analysis between this deletion and clinical diseases; moreover, we took the phylogenetic approach to examine the pathogenicity status of 9-bp deletion.
+COII/tRNALys intergenic 9-bp deletion; mitochondrial DNA; pathogenicity; phylogenetic analysis.

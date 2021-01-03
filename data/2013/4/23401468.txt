@@ -1,0 +1,4 @@
+23401468
+2013 Apr
+Pancreatic cancer is one of the most lethal human malignancies with a very low 5-year survival rate, which highlights urgent needs for more effective therapeutic strategies. In this study, we examined the potential therapeutic effects of an adenovirus encoding human interferon gamma (Ad-IFNγ) on pancreatic carcinoma cells Capan-2 in vitro and in vivo. The results indicated that Ad-IFNγ could significantly inhibit tumor cell growth via inducing cell apoptosis. After infection, IFNγ expressed durably and stably in xenografts, predominantly in tumor tissue, while much less in blood and liver. Thus, adenovirus-mediated intratumoral injection of human IFNγ gene could be an effective gene therapeutic system for the treatment of pancreatic carcinoma.
+

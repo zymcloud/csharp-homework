@@ -1,0 +1,4 @@
+28003097
+2017 Feb
+The Hippo signaling pathway, also known as the Salvador-Warts-Hippo pathway, is a regulator of organ size. The pathway takes its name from the Drosophila protein kinase, Hippo (STK4/MST1 and STK3/MST2 in mammals), which, when inactivated, leads to considerable tissue overgrowth. In mammals, MST1 and MST2 negatively regulate the transcriptional co-activators yes-associated protein 1 and WW domain containing transcription regulator 1 (WWTR1/TAZ), which together regulate expression of genes that control proliferation, survival, and differentiation. Yes-associated protein 1 and TAZ activation have been associated with liver development, regeneration, and tumorigenesis. How their activity is dynamically regulated in these contexts is just beginning to be elucidated. We review the mechanisms of Hippo signaling in the liver and explore outstanding questions for future research.
+TAZ; WWTR1; YAP1; YES-Associated Protein.

@@ -1,0 +1,4 @@
+30086075
+2018 Oct
+Rhenium-188 (Re) is a β, γ emitter and considered a theranostic radionuclide. It is used for bone pain palliation, treatment of unresectable hepatocellular carcinoma, skin keloids, etc. Re perrhenate is eluted from a W/Re generator in large volumes (8-14 ml) of 0.9% normal saline. Concentrating Re to 1-2 ml volume is important for high radiolabelling yield of various Re radiopharmaceuticals, especially when the generator is old. For this, ion exchange column was prepared in-house, and Re was concentrated using silver ion exchange column and QMA cartridge. Re perrhenate eluted in saline was concentrated to 1 ml with more than 99% yield.
+

@@ -1,0 +1,4 @@
+25915713
+2015 Jul
+Sorafenib is the only approved systemic treatment for advanced hepatocellular carcinoma patients and all the recently published randomized controlled trials on new systemic drugs have been unsuccessful. This is likely due to a lack of understanding of tumor progression, molecular drivers, and liver toxicity, as well as flaws in trial design. An important signaling pathway in hepatocarcinogenesis is the MEK cascade involved in various cellular responses, including adaptation and survival. A key role in this cascade is played by MEK, of which MEK 1/2 represent the prototypes and an interesting target for new oncological drugs. This review analyzes recent developments and future perspectives on the role of MEK inhibitors in hepatocellular carcinoma treatment.
+HCC; MEK; liver cancer; refametinib; sorafenib.

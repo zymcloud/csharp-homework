@@ -1,0 +1,4 @@
+32205534
+Mar/Apr 2020
+Ultrasound, computed tomography, magnetic resonance imaging, and [F]F-fluorodeoxyglucose positron emission tomography are invaluable in the clinical evaluation of human cancers. Radiomics and radiogenomics tools may allow clinicians to standardize interpretation of these conventional imaging modalities, while better linking radiographic hallmarks to disease biology and prognosis. These advances, coupled with next-generation positron emission tomography imaging tracers capable of providing biologically relevant tumor information, may further expand the tools available in our armamentarium against human cancers. We present current imaging methods and explore emerging research that may improve diagnosis and monitoring of local, oligometastatic, and disseminated cancers exhibiting heterogeneous uptake of [F]F-fluorodeoxyglucose, using hepatocellular carcinoma as an example.
+

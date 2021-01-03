@@ -1,0 +1,4 @@
+25091699
+2014 Nov 12
+Polymeric micelles with and without galactose are synthesized to study liver targeting ability in an orthotopic HCC rat model. Micelles with galactose accumulate more in the healthy liver tissue instead of HCC, while micelles without galactose amass in HCC by the EPR effect. These micelles show great potential as drug delivery carriers to target either the liver or HCC.
+biodistribution; galactose; liver targeting; micelles; polycarbonates.

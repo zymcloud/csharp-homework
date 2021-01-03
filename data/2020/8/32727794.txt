@@ -1,0 +1,4 @@
+32727794
+2020 Aug
+Background/aim:We investigated the anti-proliferative effect of quercetin on liver cancer cell lines.Materials and methods:Thirteen liver cancer cell lines were cultured followed by treatment with varying concentrations of quercetin (0-100 μM) or quercetin and 5-FU, and the cell viability was analysed by the MTT assay. Flow cytometry was also used to examine cell cycle progression after treatment with quercetin.Results:The addition of quercetin resulted in a dose- and time-dependent suppression of cell proliferation. In some cell lines, treatment with quercetin and 5-FU caused an additional or synergistic effect. Most cell lines displayed cell cycle arrest at different phases of the cell cycle.Conclusion:Quercetin inhibits the proliferation of liver cancer cells via induction of apoptosis and cell cycle arrest.
+Quercetin; antiproliferation effect; apoptosis; hepatocellular carcinoma.

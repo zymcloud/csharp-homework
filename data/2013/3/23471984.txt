@@ -1,0 +1,4 @@
+23471984
+2013 Mar 19
+Glypican-3 (GPC3) has emerged as a candidate therapeutic target in hepatocellular carcinoma (HCC), but the oncogenic role of GPC3 in HCC is poorly understood. Here, we report a human heavy-chain variable domain antibody, HN3, with high affinity (Kd = 0.6 nM) for cell-surface-associated GPC3 molecules. The human antibody recognized a conformational epitope that requires both the amino and carboxy terminal domains of GPC3. HN3 inhibited proliferation of GPC3-positive cells and exhibited significant inhibition of HCC xenograft tumor growth in nude mice. The underlying mechanism of HN3 action may involve cell-cycle arrest at G1 phase through Yes-associated protein signaling. This study suggests a previously unrecognized mechanism for GPC3-targeted cancer therapy.
+

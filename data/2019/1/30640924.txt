@@ -1,0 +1,4 @@
+30640924
+2019 Jan 14
+Background:Given the complexity of managing hepatocellular carcinoma (HCC), a multidisciplinary approach (MDT) is recommended to optimize management of HCC patients. However, evidence suggesting that MDT improves patient outcome is limited.Methods:We performed a retrospective cohort study of all patients newly-diagnosed with HCC between 2005 and 2013 (n = 6,619). The overall survival (OS) rates between the patients who were and were not managed via MDT were compared in the entire cohort (n = 6,619), and in the exactly matched cohort (n = 1,396).Results:In the entire cohort, the 5-year survival rate was significantly higher in the patients who were managed via MDT compared to that of the patients who were not (71.2% vs. 49.4%, P Conclusion:MDT management was associated with improved overall survival in HCC patients, indicating that MDT management can be a valuable option to improve outcome of HCC patients. This warrants prospective evaluations.
+

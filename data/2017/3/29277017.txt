@@ -1,0 +1,4 @@
+29277017
+2018 Mar 1
+We proposed the use of copper (Cu) doping to modify the mechanical properties of gold nanorods (AuNRs) and demonstrated the triggering of the cytotoxicity of Cu-doped AuNRs with ultrasonic wave. The mechanical properties of Cu-doped AuNRs were analyzed theoretically by using the density-function calculation and it was found that Cu-Au bond is much weaker than Au-Au bond. In experiments, AuNRs without and with Cu doping were synthesized and they were found to be low cytotoxic to both human liver hepatocellular carcinoma (HepG2) cells and normal liver cells (L02). It was found that Cu-doped AuNRs can be broken into small gold nanoparticles (
+Cytotoxicity; Gold nanoparticles; Gold nanorods; Ultrasonic wave.

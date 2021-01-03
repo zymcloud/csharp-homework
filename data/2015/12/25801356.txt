@@ -1,0 +1,4 @@
+25801356
+2015 Dec
+Background:Approximately one-quarter of patients with Barcelona Clinic Liver Cancer (BCLC) stage 0/A hepatocellular carcinoma (HCC) suffer from tumor relapse within the first year after surgical resection. Little data is available for inflammatory indices, including neutrophil-to-lymphocyte ratio (NLR), platelet-to-lymphocyte ratio (PLR), and prognostic nutritional index (PNI), in predicting the clinical outcome of patients with very early/early stage HCC who underwent curative surgery.Methods:A retrospective cohort study of 324 patients with BCLC stage 0/A primary HCC undergoing surgical resection was conducted to investigate the prognostic impacts of NLR, PLR, and PNI.Results:The low-PNI group (Conclusions:The PNI is a significant prognostic factor for OS and DFS of patients with very early/early stage HCC receiving curative surgery.
+

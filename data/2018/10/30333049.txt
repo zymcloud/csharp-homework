@@ -1,0 +1,4 @@
+30333049
+2018 Oct 17
+Current single-cell RNA-seq approaches are hindered by preamplification bias, loss of strand of origin information, and the inability to observe small-RNA and mRNA dual transcriptomes. Here, we introduce a single-cell holo-transcriptome sequencing (Holo-Seq) that overcomes all three hurdles. Holo-Seq has the same quantitative accuracy and uniform coverage with a complete strand of origin information as bulk RNA-seq. Most importantly, Holo-Seq can simultaneously observe small RNAs and mRNAs in a single cell. Furthermore, we acquire small RNA and mRNA dual transcriptomes of 32 human hepatocellular carcinoma single cells, which display the genome-wide super-enhancer activity and hepatic neoplasm kinetics of these cells.
+Anti-sense transcript; Liver cancer; Single cell; Small-RNA-Seq; Super-enhancer; Total RNA-Seq; mRNA-Seq.

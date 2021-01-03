@@ -1,0 +1,4 @@
+31157375
+2019 Sep 1
+Hepatocellular carcinoma (HCC) is one of the leading causes of cancer-related death worldwide. miR-484 is previously reported to be a crucial modulator during the process from precancerous lesion to cancer. Tumour suppressor candidate 5 (TUSC5) is a potential tumour suppressor, but its expression and function in HCC are obscure. In this study, we aimed to explore the roles of miR-484 and TUSC5 in HCC, and clarify the relationship between them. We demonstrated that miR-484 was significantly up-regulated in HCC, while TUSC5 was down-regulated. TUSC5 was validated as the target gene of miR-484 and both of them were associated with the prognosis of HCC patients. miR-484 mimics markedly promoted the malignant phenotypes while TUSC5 plasmid had the opposite effect. In conclusion, miR-484/TUSC5 is potential diagnostic biomarkers and therapy targets for HCC.
+TUSC5; hepatocellular carcinoma; miR-484; prognosis.

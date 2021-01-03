@@ -1,0 +1,4 @@
+22946842
+2012 Dec
+A series of novel diterpenoids including imines, amides and ureas with a dehydroabietyl skeleton were screened to hepatocellular carcinoma (SMMC-7721), lung cancer (A-549), glioma (C-6) and breast carcinoma (MCF-7) tumor cells by MTT method. Their antitumor activity and structure activity relationship were analyzed. Several of the title compounds such as I-2, I-10, I-6 and I-5, possess noticeable antitumor activity against SMMC-7721, A-549, C-6 and MCF-7 tumor cells, with lowest IC(50) values of 6.65, 0.75, 0.81 and 10.65μM, respectively. Based on the structure-activity relationship investigation, the three kinds of diterpenoids with a dehydroabietyl skeleton show high activity to SMMC-7721 cells. Imines derivatives exhibit broad spectrum and highly efficient activities to the selected four kinds of tumor cells.
+

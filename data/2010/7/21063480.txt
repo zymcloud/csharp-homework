@@ -1,0 +1,4 @@
+21063480
+2010 Jul 31
+Purpose:To evaluate the sequence variations in the enhancer II (EnhII)/basal core promotor (BCP)/precore (PC) and X genes of hepatitis B virus (HBV) in Thai patients with hepatocellular carcinoma (HCC) by conducting a cross-sectional case-control study.Methods:As much as 60 patients with HCC and 60 patients without HCC, who were matched for sex, age, hepatitis B e antigen (HBeAg) status, and HBV genotype, were included. Viral mutations in the EnhII/BCP/PC and X regions were characterized by direct sequencing in serum samples.Results:The prevalence of T1753C/A, A1762T/G1764A and G1899A mutations were significantly higher in the HCC group compared to the non-HCC group (43.3 vs. 23.3%, P = 0.02; 88.3 vs. 53.0%, P Conclusion:These data suggested that A1762T/G1764A and G1899A mutations were associated with the development of HCC in Thai patients.
+Core promoter; Enhancer II; Hepatitis B virus; Hepatocellular carcinoma; Precore; X genes.

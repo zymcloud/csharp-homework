@@ -1,0 +1,4 @@
+23467301
+2013 Apr
+The Hippo pathway controls organ size in diverse species, whereas pathway deregulation can induce tumours in model organisms and occurs in a broad range of human carcinomas, including lung, colorectal, ovarian and liver cancer. Despite this, somatic or germline mutations in Hippo pathway genes are uncommon, with only the upstream pathway gene neurofibromin 2 (NF2) recognized as a bona fide tumour suppressor gene. In this Review, we appraise the evidence for the Hippo pathway as a cancer signalling network, and discuss cancer-relevant biological functions, potential mechanisms by which Hippo pathway activity is altered in cancer and emerging therapeutic strategies.
+

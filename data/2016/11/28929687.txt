@@ -1,0 +1,4 @@
+28929687
+2016 Nov
+To investigate the anti-hepatoma mechanism of α-pinene, HepG2 cell was treated with α-pinene and the change of cell cycle was examined by flow cytometry. The expression of miR-221, which was related the regulation of G₂/M phase, was detected by quantitative Real-time PCR. Meanwhile, TargetScan and other online bioinformatics methods were used to analyze and predict the target genes of miR-221, then the expression level of related target genes were detected by quantitative Real-time PCR. The results showed that α-pinene inhibited the proliferation of HepG2 cells in dose-dependent manner. It was also proved that HepG2 cells were arrested at G₂/M phase by α-pinene (P
+G₂/M phase; miR-221; α-pinene.

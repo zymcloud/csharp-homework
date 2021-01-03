@@ -1,0 +1,4 @@
+26780929
+2016 Mar
+MicroRNA-497 (miR-497) has been reported to be downregulated in certain types of cancer, including breast, gastric, endometrial, colorectal and prostate cancer as well as hepatocellular and nasopharyngeal carcinoma. The present study aimed to investigate the underlying mechanism of the tumor suppressor function of miR‑497 in prostate cancer. Following transfection with miR‑497, the DU145 and PC‑3 prostate cancer cell lines were subjected to Transwell migration and invasion assays, western blot analysis and a luciferase assay. It was revealed that miRNA‑497 inhibited the migration and invasion of prostate cancer cells. In addition, is was indicated that miRNA‑497 directly targets hepatoma‑derived growth factor (HDGF) in prostate cancer cells. These results suggested that restoration of miR‑497 and the resulting downregulation of HDFG may represent a promising therapeutic strategy for prostate cancer.
+

@@ -1,0 +1,4 @@
+19807674
+2010 Aug
+A 66-kDa laccase, with an N-terminal sequence different from those of other mushroom laccases, was purified from fresh fruiting bodies of the edible mushroom Pleurotus cornucopiae by using affinity chromatography on Affi-gel blue gel, ion exchange chromatography on Mono Q and gel filtration on Superdex 75. The procedure resulted in a 16-fold purification and a specific enzyme activity of 17.3 U mg(-1). The optimum pH and temperature for the purified laccase were pH 4 and 40 degrees C, respectively. This laccase inhibited proliferation of murine leukemia cell line L1210 and human hepatoma cell line HepG2, and reduced the activity of HIV-1 reverse transcriptase with an IC50 of 22 microM. There was neither mitogenic activity toward mouse splenocytes, nor hemagglutinating/hemolytic activity toward rabbit erythrocytes. This study yielded information about the potentially exploitable activities of P. cornucopiae laccase.
+

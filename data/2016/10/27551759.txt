@@ -1,0 +1,4 @@
+27551759
+2016 Oct
+Our previous studies have shown that Annexin A7 is associated with the cell proliferation and apoptosis. Both the isoforms 47kDa and 51kDa of Annexin A7 are expressed in liver cancer cells. This study aimed at elucidating which isoform of Annexin A7 affects the cell apoptosis and how to affect in the hepatocarcinoma cell line. The results showed that Annexin A7 co-immunoprecipitated with Bcl2 and co-located in the cytoplasm and the mitochondria. Therein, the regulated 47kDa isoform of Annexin A7 altered the expression of Bcl2 and the mitochondrial membrane potential. These results indicate that 47kDa isoform of Annexin A7 could associated with the apoptosis of Hca-P cells through its interaction with Bcl2.
+47kDa isoform; Annexin A7; Apoptosis; Hca-P cell.

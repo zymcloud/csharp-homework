@@ -1,0 +1,4 @@
+25911218
+2015 Sep
+Hepatocellular liver carcinoma (HepG2), human skin derived keratinocyte (KERTr,) and lung epithelial carcinoma (A549) were employed in MTT assay to evaluate the cytotoxicity of water-soluble fraction of road dust, air-conditioning (AC) filter dust and PM2.5 via ingestion, dermal contact and inhalation. Their effects on cell growth were dependent on exposure time and concentration. The LC20s of PM2.5 for A549 cell were approximately one order of magnitude lower than those of road dust and AC filter dust for KERTr cell and HepG2 cell. The LC20s of aqueous extracts were negatively correlated to the water-soluble metal(loid)s contained in dust coarse particles (KERTr: p=0.004; HepG2: p0.05). Other water-soluble components in dust and PM might cause the cell hazards synergistically or additively with metal(loid)s.
+A549; Cytotoxicity; Dust and PM; HepG2; KERTr; Water-soluble metal(loid)s.

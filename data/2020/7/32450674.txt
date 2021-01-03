@@ -1,0 +1,4 @@
+32450674
+2020 Jul
+Irreversible electroporation (IRE) is a novel form of soft tissue ablation therapy that uses highcurrent electrical pulses to induce the formation of pores in the cell membrane, leading to cell death. Although outcome data for the ablation of hepatocellular carcinoma (HCC) by IRE are limited, early results are encouraging and may suggest equivalency to the outcomes achieved by thermal ablation methods such as radiofrequency ablation (RFA) and microwave ablation (MWA). However, IRE can be a challenging and very time-consuming procedure compared to RFA and MWA. In this review article, we not only evaluate the efficacy and safety of IRE for the treatment of HCC, but also discuss imaging guidance, ablation monitoring, and endpoint assessment, with a particular focus on ultrasonography.
+Ablation; Hepatocellular carcinoma; Irreversible electroporation; Ultrasonography.

@@ -1,0 +1,4 @@
+28923322
+2017 Dec
+Three cycloartane-type triterpene glycosides (anopanins A-C), together with three known monoacyldigalactosylglycerols gingerglycolipids A-C and (2S)-1-O-palmitoyl-3-O-[α-d-galactopyranosyl-(1→6)-β-d-galactopyranosyl]-sn-glycerol, were isolated from the aerial parts of Anodendron paniculatum collected in Viet Nam. The chemical structures of the present compounds were elucidated by means of 1D and 2D NMR and HRESIMS spectroscopy, and by comparing to the reported data in the literature. These compounds did not show significant growth inhibitory activities (IC50 > 100 μg/mL) against the tested cancer cell lines LU-1 (lung adenocarcinoma), KB (epidermoid carcinoma), Hep-G2 (hepatoma cancer), MKN-7 (stomach cancer), and SW-480 (colon adenocarcinoma).
+Anodendron paniculatum; Anopanins A–C; Anticancer activity; Apocynaceae; Cycloartane-type triterpene glycosides.

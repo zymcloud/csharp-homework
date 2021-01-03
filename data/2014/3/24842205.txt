@@ -1,0 +1,4 @@
+24842205
+2014 Mar 11
+Objective:To evaluate the prognostic significance of serum GGT in patients with intermediate HCC (Barcelona Clinic Liver Cancer (BCLC) stage B) treated with TACE.Methods:A retrospective analysis was conducted on 162 intermediate HCC patients receiving TACE treatment in 301 Hospital Department of Interventional Radiology from August 2008 to December 2011. Survival rates and prognostic significance were compared between the 116 patients (High GGT group) and 46 patients (normal GGT group). The survival rates were calculated using the Kaplan-Meier method. The Log-rank method was used for univariate analysis, and the Cox regression model was used for multivariate analysis.Results:The level of GGT was statistically different (P Conclusion:The level of GGT before TACE was an important prognostic factor to predict the effect of TACE on patients with intermediate HCC.
+

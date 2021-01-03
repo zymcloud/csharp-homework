@@ -1,0 +1,4 @@
+29688013
+2018 May 24
+Protein kinase C iota (PKC-ι) is an atypical kinase implicated in the promotion of different cancer types. A biochemical screen of a fragment library has identified several hits from which an azaindole-based scaffold was chosen for optimization. Driven by a structure-activity relationship and supported by molecular modeling, a weakly bound fragment was systematically grown into a potent and selective inhibitor against PKC-ι.
+

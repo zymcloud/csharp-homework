@@ -1,0 +1,4 @@
+23395973
+2013 Mar 15
+Cr(III), Mn(II), Fe(III), Co(II), Ni(II), Cu(II), Zn(II), Cd(II), Sr(II), Hg(II), Tl(I), UO(2)(II) and ZrO(II) complexes of (3E)-2-(hydroxyimino)-N-P-Tolyl-3-(P-tolylimino) butanamide have been prepared and characterized by elemental analyses, IR, UV-Vis spectra, magnetic moments, conductances, (1)H NMR and mass spectra (ligand and its Zn(II) complex), thermal analyses (DTA and TGA) and ESR measurements. The IR data show that, the ligand behaves as monobasic bidentate or neutral bidentate. Molar conductances in DMF indicate that, the complexes are non-electrolytes. ESR spectra of solid Cu(II) complexes at room temperature show axial type (d(x)(2-)(y)(2)) with covalent bond character in an octahedral environment. Complexes showed inhibitory activity against hepatocellular carcinoma (HepG-2 cell line).
+

@@ -1,0 +1,4 @@
+30258223
+2019 Jan
+4,4'-bond secalonic acid D (4,4'-SAD) is a known compound isolated from the marine-derived fungus Penicillium oxalicum. No study about the antitumor effect of this compound has been reported, except for a few focusing on its bactericidal properties. Herein, we performed an in vitro biology test and found that 4,4'-SAD stimulated the apoptosis of tumor cells in the human hepatocellular carcinoma cell lines PLC/PRF/5 and HuH-7 by activating caspase-3, caspase-8, caspase-9, PARP, p53, and cyclin B1, as well as by regulating the Bax/Bcl-2 ratio. In vivo studies showed that 4,4'-SAD had antitumor efficacy in H22 cell xenograft model. Immunohistochemical analysis revealed that 4,4'-SAD could regulate Bax expression, which is a biomarker of tumor growth. In summary, 4,4'-SAD significantly inhibited tumor growth both in vivo and in vitro.
+

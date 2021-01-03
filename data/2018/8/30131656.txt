@@ -1,0 +1,4 @@
+30131656
+2018 Aug 21
+The initiation and progression of liver cancer, including hepatocellular carcinoma and intrahepatic cholangiocarcinoma, are dependent on its tumor microenvironment. Immune cells are key players in the liver cancer microenvironment and show complicated crosstalk with cancer cells. Emerging evidence has shown that the functions of immune cells are closely related to cell metabolism. However, the effects of metabolic changes of immune cells on liver cancer progression are largely undefined. In this review, we summarize the recent findings of immunometabolism and relate these findings to liver cancer progression. We also explore the translation of the understanding of immunometabolism for clinical use.
+Cholangiocarcinoma; Hepatocellular carcinoma; Local immune status; Metabolite; Tumor microenvironment.

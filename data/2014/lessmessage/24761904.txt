@@ -1,0 +1,4 @@
+24761904
+2014
+Bioassay-guided chemical investigation of the roots of Anthriscus sylvestris (L.) Hoffm. resulted in the isolation of nine compounds, whose structures were determined by spectroscopic methods. Compound 1 was isolated from this plant for the first time and compounds 3 and 9 were first found from this genus. Different polar fractions of A. sylvestris extract and compounds 1, 6-8 and 9 were evaluated for antitumor activities against HepG2 (human hepatocellular carcinoma), MG-63 (human osteosarcoma cells), B16 (melanoma cells) and HeLa (human cervical carcinoma cells) lines by the MTT method. The petroleum ether fraction of A. sylvestris extract exhibited excellent inhibitory activity with an IC50 value of 18.3 μg/ml. Among the isolates from the petroleum ether fraction, compound 7 showed significant inhibition against the growth of the four tumor cells with IC50 values ranging from 12.2-43.3 μg/ml.
+

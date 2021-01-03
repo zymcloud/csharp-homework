@@ -1,0 +1,4 @@
+28617049
+2018 Mar
+A new withanolide (1), physagulide P, together with five known withanolides (2-6), was isolated from the aerial parts of Physalis angulata L. The structure of new compound was elucidated on the basis of extensive spectroscopic techniques, including 1D, 2D NMR and HRESIMS. The activity screening indicated that compound 1 showed significant cytotoxicities against the human osteosarcoma cell line MG-63, HepG-2 hepatoma cells and breast cancer cells MDA-MB-231 with the IC50 value of 3.50, 4.22 and 15.74 μM.
+Cytotoxic activity; Physalis angulata L; Withanolides.

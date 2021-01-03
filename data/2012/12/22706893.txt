@@ -1,0 +1,4 @@
+22706893
+2012 Dec
+Survival of patients with hepatocellular carcinoma (HCC) remains poor, which is largely attributed to active angiogenesis. However, the mechanisms underlying angiogenesis in HCC remain to be discovered. In this study, we found that long noncoding RNA associated with microvascular invasion in HCC (lncRNA MVIH) (lncRNA associated with microvascular invasion in HCC) was generally overexpressed in HCC. In a cohort of 215 HCC patients, the overexpression of MVIH was associated with frequent microvascular invasion (P = 0.016) and a higher tumor node metastasis stage (P = 0.009) as well as decreased recurrence-free survival (RFS) (P Conclusion:Deregulation of lncRNA MVIH is a predictor for poor RFS of HCC patients after hepatectomy and could be utilized as a potential target for new adjuvant therapies against active angiogenesis.
+

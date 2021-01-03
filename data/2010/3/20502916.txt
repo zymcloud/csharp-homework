@@ -1,0 +1,4 @@
+20502916
+2011 Mar
+Purpose:To investigate the expression of SUMO-1 in human hepatocellular carcinoma (HCC) cell lines and clinical HCC samples.Methods:RT-PCR and Western blot were used to detect the expressions of SUMO-1 in HCC cell lines, clinical HCC samples,and the non-neoplastic liver tissues adjacent to HCC. After transfection of SUMO-1 siRNA into HCC cell line SMMC-7721, the expression levels of Bcl-2, c-Myc and α-tubulin were examined, and MTT assay and cell cycle analysis were carried out as well.Results:Overexpressions of SUMO-1 were detected in HCC cell lines and clinical HCC samples, while the expression level of SUMO-1 in the non-neoplastic liver tissues was significantly lower (P Conclusions:Owing to overexpression of SUMO-1 in HCC and its important role in the development of HCC, SUMO-1 could be a latent target in diagnosis and therapy of HCC.
+

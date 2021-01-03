@@ -1,0 +1,4 @@
+29030911
+2017 Dec
+Sorafenib, the only approved drug for hepatocellular carcinoma, acts as a remarkable inhibitor of Raf serine-threonine kinases. However, Sorafenib is expensive, and clinical experience shows that it is not an effective treatment for many patients. Previous study has demonstrated that phosphorylated ERK (pERK) is a key downstream component in the RAF/MEK/ERK signaling pathway. Here, we investigate whether pERK is a useful biomarker for treating HCC with Sorafenib. In vitro cell viability assays showed that the efficacy of Sorafenib was distinctly different according to the level of pERK. Furthermore, in established patient-derived xenografts from HCC specimens, we found that the growth rate of tumors with high levels of pERK was significantly decreased by Sorafenib treatment. Taken together, pERK is a potential biomarker for the sensitivity to Sorafenib in treating HCC.
+Biomarkers; Hepatocellular carcinoma; Phosphorylated ERK; Sorafenib.

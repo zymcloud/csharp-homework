@@ -1,0 +1,4 @@
+21882606
+2011
+The paper deals with mulivariate regression analysis of effects of latitude, economic environment and electricity consumption on breast cancer morbidity in 35 countries (1985-2007). Our data are compared with the influence of the same factors on incidence rates for ovarian carcinoma, endometrial and cervical cancer as well as those of the stomach, liver, colon and lung. It was found that rates of morbidity for breast, endometrial, colonic and lung cancer tend to increase north of the equator while cervical, gastric and hepatic cancer incidence is relatively higher in circumequatorial populations. In 1985, geographic factors made a dramatic contribution to hormone-dependent tumors incidence while economic ones--to that of gastrointestinal neoplasms. In the 2000-ies, climate-related risks of hormone-dependent tumors have gradually slumped down while those of economic and social factors have increased.
+

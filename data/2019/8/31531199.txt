@@ -1,0 +1,4 @@
+31531199
+2019 Aug 23
+We conducted a structure-activity relationship study to explore simplified analogues of the itraconazole (ITZ) scaffold for their ability to inhibit the hedgehog (Hh) signaling pathway. These analogues were based on exploring the effects of chemical modifications to the linker and triazolone/side chain region of ITZ. Analogue 11 was identified as the most potent compound in our first generation, with an IC50 value of 81 nM in a murine Hh-dependent basal cell carcinoma. Metabolic identification studies led us to identify truncated piperazine (26) as the major metabolite in human liver microsomes (HLMs) and an improved Hh pathway inhibitor (IC50 = 22 nM). This work verifies that continued truncation of the ITZ scaffold is a practical method to maintain potent anti-Hh activity while also reducing the molecular weight for the ITZ scaffold and achieving improved pharmacokinetic properties.
+

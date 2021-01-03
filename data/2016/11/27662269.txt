@@ -1,0 +1,4 @@
+27662269
+2016 Nov
+There are over 350 million chronic carriers of hepatitis B virus (HBV) in the world, of whom about a third eventually develop severe HBV-related complications. HBV contributes to liver cirrhosis and hepatocellular carcinoma development. Remarkable progress has been made in selective inhibition of HBV replication by nucleoside analogs. However, how to generate protective antibody of HBsAb in HBV-infected patients after HBV-DNA becomes negative still remains a challenge for scientists. In this study, we show that OmpC-HBsAg 'a' epitope chimeric protein vaccine can break HBV tolerance and induce protective immunity in HBV transgenic mice based on mimicking T cell-independent antigen to bypass T cells from the adaptive immune system. The antibodies induced by the vaccine have the ability to prevent HBV virion infection of human hepatocytes.
+HBsAg ‘a’ antigenic determinant; OmpC; T cell-independent antigen; hepatitis B virus.

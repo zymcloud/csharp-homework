@@ -1,0 +1,4 @@
+27094113
+2016 Jun
+Hericium erinaceus is a well-known medicinal and edible mushroom, which is considered as a potential source to obtain antitumor candidates. In this work, five new isoindolinones, named erinaceolactams A-E (1-5), along with five known compounds (6-10), were isolated from 70% ethanol extract of the fruiting bodies of H. erinaceus. The structures of new compounds were validated by HRESIMS and 1D, 2D NMR. It's worth mentioning that there are two pairs of isomers included in the new compounds. Moreover, their cytotoxicity against metastatic human hepatocellular carcinoma cell lines SMMC-7221 and MHCC-97H were evaluated. The results showed that compounds 6 and 7 exhibited promising inhibitory potency against the growth of two cell lines.
+Cytotoxicity; Erinaceolactams A-E; Fruiting bodies; Hericium erinaceus; Isoindolinone.

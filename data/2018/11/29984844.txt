@@ -1,0 +1,4 @@
+29984844
+2018 Nov
+Weight gain after liver transplantation (LTx) facilitates development of new-onset obesity; however, its risk factors and outcomes are poorly understood. We identified the impact of new-onset obesity on cardiovascular events (CVEs) and patient survival, and risk factors for new-onset obesity. Multiple Cox regression models examined risk factors for CVEs, patient survival, and new-onset obesity in 253 adults (mean age 52.2 ± 11.6 years, male gender 63.6%, mean follow up 5.7 ± 2.1 years). Cumulative incidence of post-LTx CVE was 28.1%; that of new-onset obesity was 21.3%. Regardless of CVE at LTx, post-LTx CVEs were predicted by new-onset obesity [Hazard Ratio (HR), 2.95; P = 0.002] and higher age at LTx (HR, 1.05; P
+alcoholic liver disease; cardiovascular; genetics; obesity; survival.

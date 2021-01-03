@@ -1,0 +1,4 @@
+29899182
+2018 Jun
+Hepatocellular carcinoma (HCC) remains a major health problem for delayed diagnosis, inefficient surveillance and poor prognosis. Recent studies have indicated that non-coding RNAs contribute to the development of new strategies for diagnosis and treatment of HCC. In the present study, we employed 18 pairs of HCC and matched non-tumor tissues for the identification of differentially expressed microRNAs (miRNAs) in HCC, among which 7 paired specimens were selected randomly for microarray detection. Totally, twenty-three miRNAs were screened out to have statistically significant differences with the threshold of P
+diagnosis; hepatitis virus; hepatocellular carcinoma; microRNA; receiver operating characteristic.

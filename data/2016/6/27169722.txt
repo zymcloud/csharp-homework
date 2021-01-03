@@ -1,0 +1,4 @@
+27169722
+2016 Jun 13
+Photoactivated therapy has become a complementary and attractive modality for traditional cancer treatment. Herein, we demonstrated a novel single-stimulus dual-drug sensitive nanoplatform, Cur-loaded Dex-Pt(N3) nanoparticles (Cur@DPNs) for enhanced photoactivated therapy. The developed Cur@DPNs could be photoactivated by UVA light to simultaneously generate instant reactive oxygen species from Cur for fast photodynamic therapy and release lasting Pt(II) from Pt(N3) for long-acting photochemotherapy. Compared with small free drugs and individual photoactivated therapy, Cur@DPNs exhibited enhanced photoactivated cytotoxicity and in vivo antitumor efficacy with low systemic toxicity accompanied. Therefore, the single-stimulus dual-drug sensitive nanoplatform is convinced to be a promising strategy for multidrug delivery, site-selective and combinational photoactivated therapy in the near future.
+

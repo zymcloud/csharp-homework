@@ -1,0 +1,4 @@
+25714026
+2015 Mar 20
+Alpha fetoprotein (AFP) is a clinical biomarker of hepatocellular carcinoma (HCC). Here, we found that miR-1236 is down-regulated, whereas AFP is highly expressed in HCC tissues and cells. We demonstrated that miR-1236 directly targets the 3'UTR of AFP and down-regulates its expression. Also, miR-1236 inhibited and AFP stimulated proliferation, migration, invasion and vasculogenic mimicry (VM) of HCC. In agreement, AFP over-expression counteracted the inhibitory effect of miR-1236. We demonstrated that AFP promoted the ubiquitination of PTEN, thus decreasing PTEN levels, while miR-1236 inhibited the PI3K/Akt pathway.
+AFP; PTEN; hepatocellular cancer; microRNA; microRNA-1236.

@@ -1,0 +1,4 @@
+27216623
+2016 Jun 21
+To reduce the side effects of chemotherapy, nontoxic prodrugs activated by the tumor microenvironment are urgently required for use in cancer treatment. In this work, we developed prodrug 4 for tumor-targeting treatment and imaging of the anticancer drug release in vivo. Taking advantage of the high glutathione (GSH) concentration in cancer cells, the disulfide bond in prodrug 4 was cleaved, resulting in the release of an active anticancer drug and a near-infrared (NIR) fluorescence dye turn-on. Furthermore, contrast to the free anticancer drug, the prodrug exhibited higher cytotoxicity to hepatoma cells than that to normal HL-7702 cells. Thus, prodrug 4 is a promising platform for specific tumor-activatable drug delivery system, because of its favorable features of in situ and in vivo monitoring of the drug release and therapeutic efficacy.
+

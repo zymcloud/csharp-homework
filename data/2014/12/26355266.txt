@@ -1,0 +1,4 @@
+26355266
+2014 Dec
+Recently, microRNAs (miRNAs) have emerged as key factors involved in a series of biological processes, ranging from embryogenesis to programmed cell death. Its link to aberrant expression profiles has rendered it a potentially attractive tool for the diagnosis, prognosis, or treatment of various diseases. Accumulating evidence has indicated that miRNAs act as tumor suppressors in hepatocyte malignant transformation by regulating development, differentiation, proliferation, and tumorigenesis. Here, we summarize recent progress in the development of novel biomarker-based miRNA therapeutic strategies for hepatocellular carcinoma (HCC).
+Hepatocellular carcinoma; MicroRNA; Molecular target; Therapy.

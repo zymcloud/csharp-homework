@@ -1,0 +1,4 @@
+31376425
+2019 Oct
+Cellular protein kinases play critical roles in various steps of the hepatitis B virus life cycle. We found that viral replication in infected or transfected hepatoma cell was markedly inhibited by treatment with A-443654, a specific inhibitor of Akt. The antiviral mechanism of the drug mainly depended on the downregulation of Aurora A, a protein kinase that plays an essential role in mitosis but has not been implicated in the viral life cycle. Our data indicated that Aurora kinase A enhances viral replication and expression independently of its kinase activity required for mitotic function. Our findings suggest that mitotic kinases, considered to be an attractive target of antitumor agents, also provide a novel target for the development of antiviral therapy.
+A-443654; Akt; Antiviral; Aurora kinase; Hepatitis B virus.

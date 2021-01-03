@@ -1,0 +1,4 @@
+25764692
+2015 Feb
+Hepatitis C virus (HCV) infection is a major risk factor for developing hepatocellular carcinoma (HCC). The host genetic factors involved in the development of HCC in patients with HCV infection were investigated. To identify the genetic susceptibility factors for HCV-induced HCC, genome wide association studies (GWAS) were conducted in HCV-induced HCC cases and controls of Japanese origin. Single nucleotide polymorphisms (SNPs) which showed possible association in the GWAS were further genotyped using different cohorts. By these analyses, MICA and DEPDC5 SNPs were found to be strongly associated with HCV-induced HCC. These results highlight the importance of MICA and DEPDC5 genetic variations not only as predictive biomarkers for HCV-induced HCC but also as therapeutic targets against hepatocarcinogenesis or HCC.
+

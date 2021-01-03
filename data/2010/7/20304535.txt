@@ -1,0 +1,4 @@
+20304535
+2010 Jul
+Indolizine and annulated indolizine derivatives incorporating a cyclopropylcarbonyl group were synthesized in a one pot procedure by the tanden reactions of [3+2] cycloaddition of the corresponding N-ylide with electron deficient alkene. Seventeen indolizine derivatives were reported for the first time. All the compounds were examined for their antiproliferative activity against the human hepatocellular liver carcinoma (Hep-G2) cell line by MTT method. Among the compounds tested, 5a, 5d, 5 g and 5 j showed the most favorable activities with IC(50) values of 0.39, 0.48, 0.29 and 0.20 microg/mL. Especially, compound 5 j displayed potent antiproliferative activities with IC(50) value of 0.20 microg/mL, and showed significant EGFR kinase inhibitory activity with IC(50) value of 0.085 microM. Docking simulations of 5 j were carried out to illustrate the binding mode of the molecular into the EGFR active site.
+

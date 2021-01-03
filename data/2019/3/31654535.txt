@@ -1,0 +1,4 @@
+31654535
+2020 Mar
+Comparisons of time-to-event clinical outcomes between patients with or without a sustained virological response (SVR) after treatment of chronic hepatitis C infection have been repeatedly reported in emphasizing the potential clinical impact of treatment. Combining recently published data from different therapeutic eras with simple examples, we show that comparisons of incidence rates by SVR status between patients treated with interferon-based and interferon-free regimens are flawed through confounding by prognosis. The relevant analysis for evaluating and comparing the clinical impact of these regimens should be a comparison between randomized treatment groups, irrespective of the SVR status.
+antiviral agents; carcinoma; chronic; hepatitis C; hepatocellular; sustained virologic response; treatment outcome.

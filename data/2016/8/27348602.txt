@@ -1,0 +1,4 @@
+27348602
+2016 Aug 1
+Cancer stem cells (CSCs) are responsible for cancer drug resistance with high expression of ABCG2, which pumps the internalized chemotherapeutic out to escape drug-induced cytotoxicity. Here, we established a functionalized mesoporous silica nanoparticle (MSN) system to deliver shABCG2 and doxorubicin (Dox) synergistically. With excellent cell uptake and endosomal escape capacities, the dual-delivery carriers internalized shABCG2 and Dox into CSCs efficiently. ABCG2 depletion increased intracellular and intranuclear Dox enrichment, drove vigorous Dox-induced cell death, and impaired the self-renewal of CSCs. Additionally, the nanoparticles eliminated tumors efficiently and reduced tumor initiation by CSCs in vivo, with negligible side effects. Our findings suggest that well-designed delivery systems for conventional chemotherapeutic agents are promising for CSC therapy.
+cancer stem cells; dual delivery; mesoporous silica nanoparticles; shABCG2.

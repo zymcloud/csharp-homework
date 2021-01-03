@@ -1,0 +1,4 @@
+32348599
+2020 Apr 29.</span
+Current studies indicate that long non-coding RNA (lncRNA) is often abnormally expressed in hepatocellular carcinoma (HCC). We intend to generate a multi-lncRNA signal to improve the prognosis of HCC. By analyzing 12 pairs of HCC and adjacent normal mucosal tissues, 3900 differentially expressed lncrnas were identified as candidate biomarkers for the prognosis of HCC. Then, the 12-lncrna signature was constructed using the LASSO Cox regression method and verified in the TCGA training dataset. Finally, we established a novel 12-lncrna signature that was significantly associated with overall survival (OS) in the training data set. With the use of 12-lncrna markers, patients in the training cohort were divided into high-risk and low-risk groups with significant OV differences (P
+GSEA; ROC; hepatocellular carcinoma; lncRNA; nomogram; prognosis.

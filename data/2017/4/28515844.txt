@@ -1,0 +1,4 @@
+28515844
+2017 Apr 28
+MicroRNAs (miRNAs) are small RNAs regulate gene expression by inhibiting the turnover of their target mRNAs. In the last years, it became apparent that miRNAs are released into the circulation and circulating miRNAs emerged as a new class of biomarkers for various diseases. In this review we summarize available data on the role of circulating miRNAs in the context of acute and chronic liver diseases including hepatocellular and cholangiocellular carcinoma. Data from animal models are compared to human data and current challenges in the field of miRNAs research are discussed.
+Acute liver failure; Autoimmune hepatitis; Cholangiocarcinoma; Hepatocellular carcinoma; Liver disease; Liver fibrosis; MicroRNA.

@@ -1,0 +1,4 @@
+23582783
+2013 Jun
+MicroRNAs (miRNAs) are a new class of short noncoding RNAs with post-transcriptional regulation and participate in diverse physiological and pathological processes. MiR-22, ubiquitously expressed in various tissues, plays a functional important role in life processes and is recently proved to involve in many cancers. In present study, we had shown that miR-22 was down-regulated much more obviously in hepatitis B virus (HBV)-related hepatocellular carcinoma (HCC) cell lines as well as in clinical tissues. Cyclin-dependent kinase inhibitor 1A (CDKN1A) was found to be inversely correlated with miR-22 and was identified as a target of miR-22. Overexpression of miR-22 in vitro effectively suppressed CDKN1A expression and inhibited cell proliferation. We conclude that miR-29c may play an important role as a tumor suppressive microRNA in the development and progression of HBV-related HCC by targeting CDKN1A.
+

@@ -1,0 +1,4 @@
+21315276
+2011 Feb
+The iodinated oil lipiodol is commonly used as a carrier for in situ delivery of drugs or radioactivity to hepatic tumors. Recently, we reported a new kit formulation for high-activity labeling of lipiodol with the β-emitting radionuclide Re-188. Since the whole preparation involves different steps and complex manipulations of high-activity samples, we describe here an automated synthesis module that allows the easy preparation of sterile and pyrogen-free samples of Re-188 lipiodol ready to be administered to the patient. Important advantages include the possibility to incorporate high Re-188 activity into the lipiodol hydrophobic phase and a sharp reduction of radiation exposure of the operator assisting the labelling procedure. Application of this modular reaction system could be also extended to the preparation of other Re-188 radiopharmaceuticals and to compound labelled with different β-emitting therapeutic radionuclides.
+

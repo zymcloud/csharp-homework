@@ -1,0 +1,4 @@
+24473757
+Nov-Dec 2013
+Objective:To test the effectiveness of combining conventional antineoplastic drugs (cisplatin and etoposide) with metformin in the treatment of non-small cell lung cancer in the NCI-H460 cell line, in order to develop new therapeutic options with high efficacy and low toxicity.Methods:We used the 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) assay and calculated the combination index for the drugs studied.Results:We found that the use of metformin as monotherapy reduced the metabolic viability of the cell line studied. Combining metformin with cisplatin or etoposide produced a synergistic effect and was more effective than was the use of cisplatin or etoposide as monotherapy.Conclusions:Metformin, due to its independent effects on liver kinase B1, had antiproliferative effects on the NCI-H460 cell line. When metformin was combined with cisplatin or etoposide, the cell death rate was even higher.
+

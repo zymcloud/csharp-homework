@@ -1,0 +1,4 @@
+23576483
+2013
+Hepatocellular carcinoma (HCC) is a significant cause of death worldwide. HCC is a highly vascular tumor, and proangiogenic cytokines such as vascular endothelial growth factor (VEGF), platelet-derived growth factor (PDGF), and fibroblast growth factor may play crucial roles in this disease. Sorafenib, a multikinase inhibitor that blocks VEGF and PDGF signaling, was the first systemic therapy to demonstrate improved survival in patients with advanced HCC. Several other drugs targeting VEGF are in development. Because of the anticipation of eventual resistance to anti-VEGF therapies, drugs that also target alternative proangiogenic pathways are being investigated. Recent clinical and preclinical data along with ongoing studies are reviewed.
+

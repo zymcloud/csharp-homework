@@ -1,0 +1,4 @@
+21251911
+2011 Feb 18
+An acidic microenvironment induces disruption of adherens junctions (AJs) of hepatoma cells. This study investigated the impact of an acidic extracellular pH (pHe) on p120-catenin (p120-ctn) serine phosphorylation. pH 6.6 treatment increased intracellular calcium levels, activated protein kinase C (PKC)α and PKCδ, and decreased serine phosphorylation of p120-ctn. Further knockdown of PKCα and δ by small interference RNA (siRNA) prevented the pH 6.6-induced downregulation of p120-ctn at AJ and the serine dephosphorylation of p120-ctn. Moreover, PP2 pretreatment and siRNA of c-Src abrogated the pH 6.6-induced PKCδ activation. Together, the c-Src-PKCδ cascade and PKCα regulate the acidic pHe-induced AJ disruption.
+

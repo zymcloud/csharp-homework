@@ -1,0 +1,4 @@
+25295496
+2014 Sep
+In recent years, long non-coding RNAs (lncRNAs) are emerging as either oncogenes or tumor suppressor genes. Recent evidences suggest that lncRNAs play a very important role in digestive system carcinomas. However, the biological function of lncRNAs in the vast majority of digestive system carcinomas remains unclear. Recently, increasing studies has begun to explore their molecular mechanisms and regulatory networks that they are implicated in tumorigenesis. In this review, we highlight the emerging functional role of lncRNAs in digestive system carcinomas. It is becoming clear that lncRNAs will be exciting and potentially useful for diagnosis and treatment of digestive system carcinomas, some of these lncRNAs might function as both diagnostic markers and the treatment targets of digestive system carcinomas.
+diagnostic markers; digestive system carcinomas; long non-coding RNAs; treatment targets.

@@ -1,0 +1,4 @@
+23912081
+2013 Sep 17
+Hepatitis B x antigen up-regulates the liver expression of URG7 that contributes to sustain chronic virus infection and to increase the risk for hepatocellular carcinoma by its anti-apoptotic activity. We have investigated the subcellular localization of URG7 expressed in HepG2 cells and determined its membrane topology by glycosylation mapping in vitro. The results demonstrate that URG7 is N-glycosylated and located to the endoplasmic reticulum membrane with an Nlumen-Ccytosol orientation. The results imply that the anti-apoptotic effect of URG7 could arise from the C-terminal cytosolic tail binding a pro-apoptotic signaling factor and retaining it to the endoplasmic reticulum membrane.
+Apoptosis; Cellular localization; Endoplasmic reticulum; Hepatitis B x antigen; Topology; URG7.

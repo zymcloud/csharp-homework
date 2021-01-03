@@ -1,0 +1,4 @@
+30625307
+2019 Jan 8
+Oxidative stress is uniformly present in non-alcoholic steatohepatitis (NASH), but its role in the development of liver inflammation and hepatocellular cancer (HCC) and the relationship between these two pathologies are poorly understood. In a recent issue of Cell, Grohmann et al. (2018) demonstrate a vital role of obesity-induced oxidative stress in deactivating the phosphatase TCPTP, resulting in activation of STAT-1 and STAT-3, which each independently drive the development of NASH and HCC, respectively.
+

@@ -1,0 +1,4 @@
+30073400
+2019 Jan
+The goal of the Liver Imaging Reporting and Data System (LI-RADS) is to standardize the interpretation and reporting of liver observations on contrast-enhanced CT and MR imaging of patients at risk for hepatocellular carcinoma. Although LI-RADS represents a significant achievement in standardization of the diagnosis and management of cirrhotic patients, complexity and caveats to the algorithm may challenge correct application in clinical practice. The purpose of this paper is to discuss common pitfalls and potential solutions when applying LI-RADS in practice. Knowledge of the most common pitfalls may improve the diagnostic confidence and performance when using the LI-RADS system for the interpretation of CT and MR imaging of the liver.
+Hepatocellular carcinoma; Magnetic resonance imaging; Multidetector computed tomography.

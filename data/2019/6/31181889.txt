@@ -1,0 +1,4 @@
+31181889
+2019 Jun 19
+Current treatment approaches for hepatocellular carcinoma (HCC) have a narrow therapeutic index and alternate modes of treatment are thus required. We have utilized a gene delivery vector containing inducible caspase 9 (iCasp9) gene, which is a synthetic analogue based on the mammalian caspase 9 and fused to a human FK506 binding protein that allows its conditional dimerization to a synthetic, small molecule [chemical inducer of dimerization, AP20187] and results in target cell apoptosis. In our studies, we have tested these synthetic vectors based on an adeno-associated virus platform for their potential anti-tumorigenic effect in human HCC cells in vitro and in a HCC tumor model developed in nude mice. Our data demonstrates that the iCasp9-AP20187 bioconjugate is able to trigger terminal effectors of cellular apoptosis and presents a viable approach for the potential treatment of HCC.
+

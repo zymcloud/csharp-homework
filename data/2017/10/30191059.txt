@@ -1,0 +1,4 @@
+30191059
+2017 Oct
+Sorafenib has been the only approved systemic therapy for hepatocellular carcinoma until very recently. However, the radiologic assessment of its biological activity is a disputed matter as at least five different criteria have been proposed. In this review, we describe the characteristic of the Response Evaluation Criteria In Solid Tumors (RECIST), European Association for the Study of The Liver (EASL), modified RECIST (mRECIST), Response Evaluation Criteria In the Cancer of the Liver (RECICL) and Choi criteria. The existing comparative studies are reported together with recent pieces of evidence, analyzing the reasons behind the split between recommendations of the scientific societies and regulatory agencies. Future perspectives in the wake of the impending results of the immunotherapy trials are also discussed.
+Choi; RECICL; RECIST; hepatocellular carcinoma; immunotherapy; mRECIST; nivolumab; regorafenib; sorafenib.

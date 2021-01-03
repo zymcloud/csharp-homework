@@ -1,0 +1,4 @@
+21234723
+2011 Jun
+Yttrium-90 (Y-90) selective internal radiation therapy (SIRT) is increasingly used to treat inoperable hepatocellular carcinoma. We describe two patients where hepatic falciform ligament Technetium-99m-macroaggregated albumin (Tc-99m-MAA) activity was identified on single photon emission computed tomography with integrated low-dose CT (SPECT/CT) scan during pre-therapy planning, and the steps taken to prevent radiation dermatitis. The first patient underwent prophylactic coil embolization of the patent hepatic falciform artery; the second patient underwent super-selective infusion of Y-90 resin microspheres to avoid the patent hepatic falciform artery. The incidence of falciform ligament Tc-99m-MAA activity detected on SPECT/CT at our institution is 10%. Tc-99m-MAA SPECT/CT scan provides valuable diagnostic information for treatment planning prior to Y-90 SIRT.
+

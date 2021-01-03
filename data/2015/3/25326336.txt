@@ -1,0 +1,4 @@
+25326336
+2015 Mar
+Accumulated evidences indicate metformin is associated with reduced risk of hepatocellular carcinoma (HCC) in diabetic patients, which inspired researchers to explore its therapeutic potentials in HCC. Since Hepatic stellate cells (HSCs) are believed to be the key contributors to tumor microenvironment in HCC and promotes tumor development, here, we explored the effect of metformin on tumor angiogenesis induced by interplay of HCC and HSCs. Our results showed that conditional medium from co-culture of HCC/HSCs induced VEGF secretions and stimulated human umbilical vein endothelial cells (HUVEC) tube formation. However, 25 µM metformin could inhibit this angiogenesis effect. Furthermore, knockdown AMPK of HSCs, not HCC, could abolish inhibition caused by metformin. Our finding suggested that metformin could inhibit HCC angiogenesis through targeting on HSCs through AMPK pathway.
+

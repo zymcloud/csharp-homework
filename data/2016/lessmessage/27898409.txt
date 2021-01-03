@@ -1,0 +1,4 @@
+27898409
+2016
+Background/aims:Long non-coding RNAs (lncRNAs) have been reported to play pivotal roles in multiple tumors and can act as tumor biomarkers. In this study, we explored the association of the expression of an lncRNA, DGCR5 with clinicopathological features and prognosis in HCC.Methods:Expression levels of DGCR5 were detected by quantitative real-time PCR (qRT-PCR) and the clinical data was obtained, including basic information, data of clinicopathology and cancer specific survival rate. Receiver operating characteristic (ROC) curve, Kaplan-Meier methods and multivariable Cox regression models were used to analyze predictive efficiency, long-term survival outcomes and risk factors.Results:DGCR5 was found down-regulated in HCC tissues (PConclusions:Our results suggest that DGCR5 may be a participator in HCC and can serve as potential biomarker for the diagnosis and prognosis in HCC.
+

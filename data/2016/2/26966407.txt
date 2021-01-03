@@ -1,0 +1,4 @@
+26966407
+2016 Feb
+Objective:We explored the relationship between HLA-DRB1 allele polymorphisms and familial aggregation of hepatocellular carcinoma (fhcc).Methods:Polymerase chain reaction sequence-specific primers were used to determine HLA-DRB1 genotypes for 130 members of families with 2 or more liver cancer patients and for 130 members of families without any diagnosed cancers. The genotype profiles were then compared to explore the relationship between HLA-DRB1 gene polymorphism and fhcc.Result:Of 11 selected alleles, the frequencies of DRB1*11 and DRB1*12 were significantly lower in the fhcc group than in no-cancer group (p 0.05).Conclusions:Our research suggests that if genetic factors play a role in fhcc, the deficiency in the DRB1*11 and DRB1*12 alleles might be the risk factor at work in Guangxi Zhuang Autonomous Region, P.R.C.
+HLA-DRB1 alleles; familial aggregation; hepatocellular carcinoma; pcr-ssp; polymorphisms.

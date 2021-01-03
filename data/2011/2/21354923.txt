@@ -1,0 +1,4 @@
+21354923
+2011 Feb
+Objective:To investigate the expression of RUNX3 protein in hepatic cell carcinoma (HCC) and its relationship with the clinicopathological factors of HCC.Methods:Immunohistochemistry was performed to detect the expression of RUNX3 protein in HCC and the surrounding normal tissues, and the relation of RUNX3 with the clinicopathological factors of HCC was analyzed.Results:The positivity rate of RUNX3 protein expression was 49.02% (25/51) in HCC tissues, significantly lower than that in the surrounding normal tissues [82.35% (42/51), Χ(2)=12.5706, P0.05).Conclusion:RUNX3 protein expression is lowered in HCC as compared with that in the surrounding normal tissue, suggesting an important role of RUNX3 in the tumorigenesis and development of HCC and the possible identity of RUNX3 gene as an anti-oncogene of HCC.
+

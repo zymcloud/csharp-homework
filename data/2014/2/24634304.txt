@@ -1,0 +1,4 @@
+24634304
+2014 Feb 25
+Hepatitis B virus S protein (HBs) plays an important role in hepatocellular carcinoma progression. However, to date, no direct and effective methods exist to research the function of HBs. Here, we combined the technology of RNA interference with recombinant adenovirus, constructed a recombinant adenovirus-expressing small hairpin RNA of HBs, and infected HepG2.2.15 cells. Then, reverse transcription-polymerase chain reaction (RT-PCR), quantitative real-time PCR, enzyme-linked immunosorbent assay, and Western blot analysis were performed to verify the interference effects. As a result, a recombinant adenovirus was successfully constructed and effectively packaged in AD293 cells, and it significantly inhibited HBs mRNA and protein expression in vitro. Our study may provide a novel tool to study HBs function.
+

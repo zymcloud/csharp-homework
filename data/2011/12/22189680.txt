@@ -1,0 +1,4 @@
+22189680
+2011 Dec
+Aberrant GAPDH expression following S-nitrosoglutathione (GSNO) treatment was compared in HepG2 cells, which express functional p53, and Hep3B cells, which lack functional p53. The results of Western blotting and fluorescent immunocytochemistry revealed that nuclear translocation and accumulation of GAPDH occur in both HepG2 and Hep3B cells. This finding suggests that p53 may not be necessary for the GSNO-induced translocation of GAPDH to the nucleus during apoptotic cell death in hepatoma cells.
+

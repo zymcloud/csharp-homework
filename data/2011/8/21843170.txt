@@ -1,0 +1,4 @@
+21843170
+2011 Aug
+Background:The goal of this study was to use liver explant correlation to assess the diagnostic accuracy of diffusion-weighted (DW)-MRI for hepatocellular carcinoma (HCC).Materials and methods:Thirty-seven patients were retrospectively identified who had undergone liver transplantation and had preoperative, respiratory-triggered, single-shot echo-planar DW-MRI. Two independent blinded observers evaluated the DW-MRI images for HCC and comparison was made with the explanted specimens.Results:By pathology, 29 HCCs (mean largest diameter 2.0 cm; range 0.7-4.0 cm) were identified in 20 patients. Sensitivity and specificity for reader 1 were 55 and 92%, and for reader 2 were 45 and 100%. There was 'substantial' inter-observer agreement (kappa = 0.64).Conclusion:DW-MR is not sensitive enough for HCC to be used as a stand-alone sequence, although its high specificity suggests that it is likely valuable as a component of a liver MRI protocol.
+

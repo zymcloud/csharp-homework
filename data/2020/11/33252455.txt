@@ -1,0 +1,4 @@
+33252455
+2020 Nov 26.</span
+Introduction:We aimed to assess rates and predictors of hepatocellular carcinoma (HCC) screening among patients with cirrhosis.Methods:We reviewed electronic health records of 11,361 patients with cirrhosis from 11 U.S. Veterans Health Administration facilities for receipt of HCC screening in the 6 months preceding October 1, 2019.Results:Nearly half of the cohort (46%) received HCC screening over a 6-month period. Screening rates and modalities (ultrasound, computed tomography, magnetic resonance imaging, serum alpha fetoprotein) varied by facility. Screening was associated with race/ethnicity, body mass index ≥ 25, cirrhosis etiology, thrombocytopenia, Fibrosis-4 ≥ 3.25, and lower Model for End-Stage Liver Disease-Sodium.Discussion:HCC screening rates varied by facility. Higher risk patients were more likely to receive screening.
+

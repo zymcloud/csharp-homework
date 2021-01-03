@@ -1,0 +1,4 @@
+28580538
+2018 Jan
+LI-RADS v2017 introduces major changes to the diagnostic criteria for LR-M observations to better guide radiologists in the use of this malignant category designation. LR-M is intended to preserve the specificity of the LI-RADS algorithm for diagnosis of HCC while not losing sensitivity for diagnosis of malignancy. The purpose of this paper is to provide a brief background on LR-M, discuss the diagnostic criteria new to v2017, special considerations for its application, and management implications.
+CEUS; Cholangiocarcinoma; Combined tumors; LI-RADS; LR-M.

@@ -1,0 +1,4 @@
+25461322
+2015 Jan 27
+Based on the reported anticancer activity of coumarin and pyrazoline derivatives, the present investigation dealt with the design and synthesis of coumarin derivatives bearing diversely substituted pyrazoline moieties 7-10. The non-cyclic isosteres 11a-e of compounds 10a-e were synthesized for comparative reasons. The target compounds were synthesized from 8-acetyl-7-methoxycoumarin that underwent Claisen-Schmidt condensation with various aldehydes to give the chalcones 6a-e, followed by reaction with hydrazine hydrate, phenyl hydrazine or semicarbazide under the appropriate conditions. Cytotoxicity of the synthesized compounds was evaluated in vitro against liver HepG2 cell line. Compounds were active in the nanomolar range. The most active compounds were investigated for their telomerase inhibition and proapoptotic activities.
+Anticancer activity; Coumarin; Liver cancer; Pyrazoline; Telomerase inhibitor.

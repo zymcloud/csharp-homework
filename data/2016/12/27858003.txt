@@ -1,0 +1,4 @@
+27858003
+2016 Dec 1
+Drug delivery systems with targeting agents for precise drug release in cancer therapy are very significant and important. Herein, we report the rational design and synthesis of a DOX (doxorubicin) loaded UiO-68-type of nanoscale metal-organic framework (NMOF) with a tumor targeting agent (folic acid, FA), DOX@UiO-68-FA (3), as a multifunctional drug delivery system for hepatoma (Hep G2) therapy via tail-vein injection. Compared to free DOX, FA-unloaded DOX@Mi-UiO-68 (2), 3 exhibits a much higher antitumor efficacy, which was confirmed by cell imaging, standard 3-(4,5-dimethylthiahiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) proliferation and in vivo experiments.
+

@@ -1,0 +1,4 @@
+24583780
+2014
+In this study, the interactions of different groups substituted isoeuxanthone derivatives with calf thymus DNA (ct DNA) were investigated by spectrophotometric methods and viscosity measurements. Results indicated that the xanthone derivatives could intercalate into the DNA base pairs by the plane of xanthone ring and the various substituents may influence the binding affinity with DNA according to the calculated quenching constant values. Furthermore, two tumor cell lines including the human cervical cancer cell line (HeLa) and human hepatocellular liver carcinoma cell line (HepG2) were used to evaluate the cytotoxic activities of xanthone derivatives by acid phosphatase assay. Analyses showed that the oxiranylmethoxy substituted xanthone exhibited more effective cytotoxic activity against the cancer cells than the other substituted xanthones. The effects on the inhibition of tumor cells in vitro agreed with the studies of DNA-binding.
+

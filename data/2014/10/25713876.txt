@@ -1,0 +1,4 @@
+25713876
+2014 Oct
+Background/aims:The aim of this study was to determine the prognostic values of Foxp3+ Treg cells, CD4+ Tcells and CD8+ T cells in cancer cases of gallbladder, pancreas and liver.Methodology:This study included 20 patients with gallbladder cancer, 25 patients with pancreatic cancer and 8 patients with liver cancer. Foxp3, CD4 and CD8 were immunohistochemically evaluated and compared with histopathological and clinical prognostic parameters.Results:Foxp3, CD4 and CD8 expression levels were significantly higher in peritumoral areas than in intratumoral areas in patients with gallbladder, pancreas, liver cancers (pConclusion:Our results indicate that the ratio of Tregs/T helper cells (Foxp3+/CD4+) cells was higher in intratumoral area in hepatopancreatobiliary tumors. We conclude that intratumoral inlamatory cells might work for cancer cells, besides peritumoral cells work against cancer cells.
+

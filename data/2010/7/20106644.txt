@@ -1,0 +1,4 @@
+20106644
+2010 Jul
+The effects and mechanisms of action of beta-aescin and 5-fluorouracil (5-FU), alone and in combination, were studied in human hepatocellular carcinoma SMMC-7721 cells. Growth inhibition, cell cycle distribution, apoptosis, Bcl-2 expression and caspase activity were assessed. The Isobole-method/interaction-index analysis was applied to evaluate the synergy, additivity or antagonism of these agents. The results indicate that mixtures of beta-aescin and 5-FU showed a synergistic effect on the 50% inhibitory effect when their ratio was 4:1 when compared with either agent alone. The mechanism of action could be through the synergistic arrest of the cell cycle, induction of apoptosis, activation of caspases-3, 8 and 9, and down-regulation Bcl-2 expression. The results suggest that mixtures of these two agents had a synergistic inhibitory effect on SMMC-7721 cells, an observation which might be useful for the further development of anti-cancer drugs.
+

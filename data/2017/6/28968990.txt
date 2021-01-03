@@ -1,0 +1,4 @@
+28968990
+2017 Jun 28
+Approximately 50% hepatocellular carcinoma patients meeting the Milan criteria utilized to develop an improved prognostic model for predicting the recurrence in these patients. Using univariate and multivariate analysis, cytokeratin-19 and glypican-3 expression patterns, tumor number and histological grading from eight putative prognostic factors comprised the risk factor scoring model to predict the tumor recurrence. In the training cohort, the area under roc curve (AUC) value of the model was 0.715 [95% confidence interval (CI) = 0.645-0.786, P
+Milan criteria; cytokeratin 19; glypican 3; hepatocellular carcinoma; radical resection.

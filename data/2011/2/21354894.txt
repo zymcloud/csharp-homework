@@ -1,0 +1,4 @@
+21354894
+2011 Feb
+Objective:To observe the surface ultrastructure of different tumor cells in vivo using atomic force microscope (AFM) and analyze their common characteristics.Methods:We selected 60 specimens of each of normal liver cells, liver cancer, cervical squamous cells, cervical cancer cells, ductal epithelial cells and breast cancer cells for scanning using AFM. The cell surface scan images were analyzed using image analysis software to identify their common morphological features.Results:From normal cervical squamous epithelial cells, intermediate cells, and basal cells to HPV-infected cells, CIN2-3 cells and cervical cancer cells, the membrane surface roughness became gradually increased (PConclusion:Normal cells and tumor cells show different cell membrane morphologies, and such morphological features provide a reliable basis for clinical pathological diagnosis and differential diagnosis of malignancies.
+

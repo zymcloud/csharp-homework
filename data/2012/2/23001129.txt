@@ -1,0 +1,4 @@
+23001129
+2013 Feb
+Connexin 32 (Cx32) is a major gap junction protein in the liver. Neoplastic and non-neoplastic lesions were examined in Cx32-deficient (Cx32KO) mice maintained for 24-month, and compared with those in wild-type mice as a corresponding control. In neoplastic lesions, hepatocellular carcinoma increased significantly only in male Cx32KO mice, suggesting that Cx32 deficiency may be related to their pathogenesis. For females, the incidence of pituitary adenoma in the pars distalis of Cx32KO mice was lower than that of wild-type mice. No non-neoplastic lesions related to Cx32-deficiency were observed in the Cx32KO mice. In conclusion, these results demonstrate that the incidence of hepatocellular carcinoma increases only in male Cx32KO mice, presumably due to enhanced tumor promotion and progression signals associated with Cx32 deficiency.
+

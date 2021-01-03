@@ -1,0 +1,4 @@
+31527306
+2019 Sep 17
+Hepatocellular carcinoma (HCC) is one of the most prevalent and deadly cancers world-wide. miR-125a-5p is a tumor suppressor in HCC and other cancers, but its mechanisms of action during HCC tumorigenesis remain largely unknown. In this study, we found that miR-125a-5p expression was significantly lower in HCC tissues and cell lines than matched normal tissues and liver cells. miR-125a-5p overexpression inhibited HCC cell proliferation and induced apoptosis in vitro and in vivo, while miR-125a-5p knockdown had the opposite effects. In addition, PTPN1 and MAP3K11 were identified as targets of miR-125a-5p. Knocking down PTPN1 and MAP3K11 activated the JNK MAPK signaling pathway to suppress HCC cell proliferation and induce apoptosis. Our findings suggest that miR-125a-5p may be a useful therapeutic target for treatment of HCC patients.
+HCC; MAP3K11; MAPK signaling pathway; PTPN1; miR-125a-5p.

@@ -1,0 +1,4 @@
+31212180
+2019 Sep
+Oleanolic and ursolic acids are two ubiquitous isomeric triterpene phytochemicals known for their anticancer activity. A set of derivatives of the two compounds with a modified oxidation state and lipophylicity at C-3 and C-28 positions, were prepared and tested as anticancer agents versus the lines HepG2, Hep3B and HA22T/VGH of hepatocarcinoma, a strongly aggressive tumor that is not responsive toward the standard therapies. New derivatives containing a three carbons side chain on the C-3 position were synthetized in both stereoisomeric forms by the Barbier-Grignard procedure and three of them were found to be active toward all of the three targets. The implication of the transcriptional nuclear factor NF-κB in the mechanism of action was assessed for the more active compounds in the set, as hepatocellular carcinoma (HCC) cyto-types are known to overexpress NF-κB.
+Antitumor activity; HA22T/VGH; Hep3B; HepG2; NF−κB; Oleanolic acid; Ursolic acid.

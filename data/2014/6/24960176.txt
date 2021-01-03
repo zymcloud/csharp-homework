@@ -1,0 +1,4 @@
+24960176
+2014 Jun 24
+Transforming growth factor-β1 (TGF-β1) potently inhibits human hepatocellular carcinoma (HCC) cell growth. Here we demonstrated that TGF-β1-induced apoptosis is mediated by decreased phosphorylation of cdc2 at Tyr15 accompanied by down-regulation of Wee1 kinase expression. As expected from these results, a Wee1 kinase inhibitor efficiently induced apoptosis in HCC cells in the absence of TGF-β1 treatment. In surgically resected samples, Wee1 kinase was expressed in moderately to poorly differentiated HCC, whereas no Wee1 kinase expression was observed in non-cancerous tissue, including cirrhotic tissue. Our results suggest that Wee1 kinase inhibitors may be a practical novel therapeutic option against advanced HCC.
+

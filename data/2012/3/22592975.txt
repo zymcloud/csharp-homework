@@ -1,0 +1,4 @@
+22592975
+2013 Mar
+We performed an in vitro evaluation of the genotoxic potential of water extracts from four Hypoxis species (Hypoxis hemerocallidea, H. colchicifolia, H. rigidula, H. acuminata) and a commercial preparation thereof using the neutral red uptake (NRU) assay, the alkaline comet assay and the cytome assay in human hepatoma HepG2 cells. The relative cytotoxicity of these samples was established by determining their NI50 values (50% inhibition of NRU), and these results were used for dose-finding in genotoxicity tests. None of the tested extracts were identified as genotoxic in both the alkaline comet assay and cytome assay.
+

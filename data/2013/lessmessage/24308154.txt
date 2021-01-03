@@ -1,0 +1,4 @@
+24308154
+2013
+RBP-J-interacting and tubulin-associated (RITA) is a novel RBP-J-interacting protein that downregulates Notch-mediated transcription. The current study focuses on the antitumor effect of RITA in human hepatocellular carcinoma (HCC) and aims to explore its molecular mechanism. Thirty paired HCC and adjacent non-tumoral liver samples were analyzed by real-time quantitative reverse transcriptase polymerase chain reaction (qRT-PCR). RITA overexpression was induced by transfection of a pcDNA3.1-Flag-RITA plasmid into HepG2 cells. RITA knockdown was achieved by siRNA transfection. mRNA and protein expression of target genes were quantified by qRT-PCR and Western blotting, respectively. Cell proliferation and apoptosis were measured using MTT assay and flow cytometry. Our results demonstrate that adjacent nontumoral liver samples exhibited increased RITA expression compared to HCC tissues (p
+

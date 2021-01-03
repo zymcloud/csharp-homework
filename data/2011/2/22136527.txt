@@ -1,0 +1,4 @@
+22136527
+2013 Feb
+The synthesis, in vitro antimicrobial and cytotoxic activities of some novel hexahydroquinolines supported with various pharmacophores are described. The results revealed that 18 compounds displayed pronounced activity against Staphylococcus aureus and Escherichia coli bacteria beside a moderate antifungal activity. Compound 25 is the most active candidate with equipotency to ampicillin against S. aureus, E. coli and Pseudomonas aeruginosa, together with an obvious antifungal activity. Additionally, 12 compounds showed remarkable cytotoxic efficiency against human colon carcinoma HT29, hepatocellular carcinoma Hep-G2 and Caucasian breast adenocarcinoma MCF7 cell lines. Among these, the analogs 22 and 25 proved to be the most active cytotoxic members. Collectively, the results would suggest that compounds 22 and 25 could be considered as possible dual antimicrobial-anticancer agents.
+

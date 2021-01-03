@@ -1,0 +1,4 @@
+31834053
+2020 Jul
+Recent studies have reported albumin-bilirubin (ALBI) grade affected the prognosis of patients with hepatocellular carcinoma (HCC). To more precisely evaluate the relationship among the ALBI grade and the prognosis of patients with HCC after liver resection. We systematically retrieved articles from PubMed, Web of Science, Cochrane Library, and CNKI. The prognostic value of ALBI grade on overall survival (OS) and recurrence-free survival (RFS) of patients with HCC after liver resection was evaluated by pooled hazard ratio (HR) with 95% confidence interval (CI).Through multiple databases search, we enrolled 20 high-quality studies with 11365 patients, regarding the association between the ALBI grade and the prognosis of patients with HCC after liver resection. Our results showed that higher ALBI grade is associated with poored OS (HR, 1.64; 95% CI: 1.51-1.78; P
+

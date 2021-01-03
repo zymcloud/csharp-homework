@@ -1,0 +1,4 @@
+24954667
+2014 Aug 25
+The role of microRNA-30a (miR-30a) deregulation in tumor progression and its downstream signaling pathways remain unknown. Here we confirmed significant downregulation of miR-30a in hepatocellular carcinoma (HCC) tissues and cell lines compared with non-tumor counterparts. MiR-30a downregulation was significantly associated with worse disease-free survival (DFS) of HCC patients. Gain- and loss-of-function studies revealed that downregulation of miR-30a facilitated tumor cell migration, invasion and epithelial-mesenchymal transition (EMT). We identified SNAI1 as a direct target of miR-30a and demonstrated miR-30a as a novel regulator of EMT by targeting SNAI1, indicating its potential therapeutic value for reducing invasion and metastasis of HCC.
+EMT; HCC; MicroRNA-30a; SNAI1.

@@ -1,0 +1,4 @@
+20177846
+2010 Sep
+c-kit functions as a tyrosine kinase receptor and represents a target for small molecule kinase inhibitors. The expression pattern for c-kit was studied in different human tumor types to their correlation with prognosis. Paraffin-embedded tumor tissues from 282 patients were analyzed immunohistochemically for c-kit expression. Survival and follow-up data were available from 192/282 (68%) patients. c-kit immunopositivity was found in 62/282 (22%) cases. c-kit expression was found in 14/83 (17%) colorectal cancers, in 13/62 (21%) breast cancers, in 7/20 sarcomas (35%), in 5/14 (36%) renal cell carcinomas, in 2/12 ovarian cancers (17%) and in 2/12 (17%) hepatocellular carcinomas. We found no significant correlation between c-kit expression and prognosis although a trend to a worse prognosis in patients with c-kit positive tumors could be observed. Expression of c-kit was found in tumor samples with varying intensities and infrequently.
+

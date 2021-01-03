@@ -1,0 +1,4 @@
+29180937
+2017
+Using estrone and pregnenolone as starting materials, some steroidal copper complexes were synthesized by the condensation of steroidal ketones with thiosemicarbazide or diazanyl pyridine and then complexation of steroidal thiosemicarbazones or steroidal diazanyl pyridines with Cu (II). The complexes were characterized by IR, NMR, and HRMS. The synthesized compounds were screened for their cytotoxicity against HeLa, Bel-7404, and 293T cell lines in vitro. The results show that all steroidal copper (II) complexes display obvious antiproliferative activity against the tested cancer cells. The IC50 values of complexes 5 and 12 against Bel-7404 (human liver carcinoma) are 5.0 and 7.0 μM.
+

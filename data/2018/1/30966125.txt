@@ -1,0 +1,4 @@
+30966125
+2018 Jan 18
+In this study, we report the synthesis and characterisation of a thermogelling poly(carbonate urethane) system comprising poly(ethylene glycol) (PEG), poly(propylene glycol) (PPG) and poly(polytetrahydrofuran carbonate) (PTHF carbonate). The incorporation of PTHF carbonate allowed for the control of the lower critical solution temperature (LCST) and decreased critical gelation concentration (CGC) of the thermogels significantly. In addition, the as-prepared thermogels displayed low toxicity against HepG2, L02 and HEK293T cells. Drug release studies were carried out using doxorubicin (Dox). Studies conducted using nude mice models with hepatocellular carcinoma revealed that the Dox-loaded poly(PEG/PPG/PTHF carbonate urethane) thermogels showed excellent in vivo anti-tumour performance and effectively inhibited tumour growth in the tested model.
+cancer therapy; drug release; in-situ hydrogel; thermo-responsive polymers.

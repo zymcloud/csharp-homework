@@ -1,0 +1,4 @@
+21949574
+2011 Sep
+Antiangiogenic therapy has shown promise in the treatment of patients with hepatocellular carcinoma (HCC). Bevacizumab, sorafenib, and sunitinib showed efficacy in patients with HCC; and sorafenib is approved by the FDA for treatment of this cancer. In practice, the clinical benefit of these agents has been heterogeneous; and in patients who do respond, the benefit is modest and/or short-lived. Recent advances in the molecular understanding of tumor angiogenesis along with the rapid development of targeted drug discovery have made it possible to explore novel combination therapy for HCC. We review the clinical trial results, discuss possible molecular mechanisms of resistance, and suggest novel combinations with antiangiogenic therapy.
+

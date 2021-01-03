@@ -1,0 +1,4 @@
+28677738
+2017 Aug
+The function of sodium cantharidinate on inducing hepatocellular carcinoma cell apoptosis was investigated for the first time. Sodium cantharidinate inhibits HepG2 cell growth mainly by LC3 autophagy pathway. MTT results show that sodium cantharidinate effectively inhibits the proliferation of HepG2 cells in a dose- and time-dependent manner and induce cell apoptosis by caspase-3 activity. The further western blotting and FACS detection show that sodium cantharidinate initiates HepG2 cell autophagy program by LC3 pathway. Autophagy-specific inhibitor 3-MA reduce sodium cantharidinate-induced caspase-3 activity and HepG2 cell apoptosis. Silence of the LC3 gene in HepG2 cell lines also reduce sodium cantharidinate-induced cell apoptosis. Collectively, our data indicate that sodium cantharidinate induces HepG2 cell apoptosis through LC3 autophagy pathway. Sodium cantharidinate has potential for development as a new drug for treatment of human HCC.
+

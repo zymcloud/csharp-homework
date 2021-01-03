@@ -1,0 +1,4 @@
+33316376
+2020 Dec 13
+Hepatocellular carcinoma is rapidly becoming a major cause of global mortality due to the ever-increasing prevalence of obesity. DNA damage is known to play an important role in cancer initiation, however DNA repair systems are also vital for the survival of cancer cells. Given the function of the liver and its exposure to the gut, it is likely that DNA damage and repair would be of particular importance in hepatocellular carcinoma. However, many contemporary reports have neglected the role of individual pathways of DNA damage and repair in their hypotheses. This review, therefore, aims to provide a concise overview for researchers in the field of liver cancer to understand the pathways of DNA damage and repair and their individual roles in hepatocellular carcinoma.
+DNA repair; Hepatocellular carcinoma; Polymorphism; Synthetic lethality.

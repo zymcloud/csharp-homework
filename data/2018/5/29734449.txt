@@ -1,0 +1,4 @@
+29734449
+2018 May
+The American College of Radiology (ACR) endorsed the Liver Imaging Reporting and Data System (LI-RADS) for standardized reporting and data collection of computed tomography (CT) and magnetic resonance (MR) imaging for hepatocellular carcinoma (HCC) in high-risk patients (liver cirrhosis). The LI-RADS imaging criteria are used to classify 'observations' from 'definitely benign' (LR-1) to 'definitely HCC' (LR-5) based on imaging criteria.Coincidently, the recent approval in the United States of a microbubble contrast agent for liver imaging (Lumason®, known as SonoVue® in Europe and elsewhere), LI-RADS. is being expanded to include contrast-enhanced ultrasound (CEUS). An international working group was initiated in 2014. Herewith, the most current version of CEUS-LI-RADS is presented.
+

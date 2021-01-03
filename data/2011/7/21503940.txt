@@ -1,0 +1,4 @@
+21503940
+2011 Jul
+A randomized, open-label comparative study of entecavir versus adefovir therapy was performed in subjects with chronic hepatitis B who had hepatic decompensation (Child-Turcotte-Pugh score ≥7). Adult subjects were randomized and treated (n = 191) with entecavir 1.0 mg or adefovir 10 mg daily for up to 96 weeks from the date of last subject randomization. Subjects were positive or negative for hepatitis B e antigen and experienced or naive for treatment with nucleos(t)ide analogues. The primary efficacy endpoint was the mean reduction in serum hepatitis B virus (HBV) DNA, as determined by polymerase chain reaction, at week 24, adjusted for baseline HBV DNA and lamivudine resistance status by linear regression analysis. Entecavir demonstrated superiority to adefovir for this endpoint (treatment difference 1.74 log(10) copies/mL [95% confidence interval -2.30, -1.18]; P
+

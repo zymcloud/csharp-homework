@@ -1,0 +1,4 @@
+31941249
+2019 Nov 20
+Hepatocellular carcinoma (HCC) is a common malignant tumor in China, and most of the patients have a background of chronic HBV infection. Nucleos(t)ide drugs (NAs) are currently recommended by major guidelines as a first-line treatments for chronic hepatitis B. However, it is still clinically possible to observe that some patients who have acquired virological response (HBV DNA below the lower detection limit) after NAS treatment progress to HCC, and its mechanism of development is still unclear. In this review, the mechanism relevant to HCC progression in treatment of chronic hepatitis B patients with NAs is analyzed mainly from the aspects of gene integration and persistent inflammatory injury.
+Carcinoma, hepatocellular; Gene integration; Hepatitis B virus; Inflammatory damage; Nucleoside analogs.

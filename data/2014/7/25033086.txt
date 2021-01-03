@@ -1,0 +1,4 @@
+25033086
+2014 Jul 17
+Focal adhesions (FAs), integrin-mediated macromolecular complexes located at the cell membrane extracellular interface, have been shown to regulate cell adhesion and migration. Our previous studies have indicated that HAb18G/CD147 (CD147) is involved in cytoskeleton reorganization and FA formation in human hepatocellular carcinoma (HCC) cells. However, the precise mechanisms underlying these processes remain unclear. In the current study, we determined that CD147 was involved in vinculin-mediated FA focal adhesion formation in HCC cells. We also found that deletion of CD147 led to reduced vinculin-mediated FA areas (P
+

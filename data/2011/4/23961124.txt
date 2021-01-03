@@ -1,0 +1,4 @@
+23961124
+2011 Apr
+Hepatitis C virus (HCV) causes serious infections in the liver which may lead to liver cirrhosis and hepatocellular carcinoma. Non structural 3 (NS3) protein is one of the most important proteins of the virus which has protease and helicase activities. Protease activity has a crucial role in the replication and persistence of the virus. Site directed mutation was carried out in the protease region of one NS3 and another site directed mutation in the helicase region of another NS3. The expression of both mutated NS3 was compared with wild NS3. Expression of the three different NS3 types was confirmed by in situ staining and western blotting using an anti-NS3 antibody and correlated with a reduced antiviral response after treatment with interferon-α. Mutation analysis showed that the NS3 protease activity andnot the NS3 helicase was essential for the inhibition of the interferon-α response.
+Hepatitis C virus (HCV); Non structural 3 (NS3).

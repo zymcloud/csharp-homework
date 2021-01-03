@@ -1,0 +1,4 @@
+29544680
+2018 Sep
+Hepatocellular carcinoma (HCC) is a main cause of cancer-related mortality and its etiology is not fully understood. As prominent factors that regulate cellular homeostasis, both reactive oxygen species (ROS) and autophagy are considered to play an essential role in the liver carcinogenesis. However, the crosstalk between ROS and autophagy is not well characterized in the pathogenesis of HCC. This review summarizes the roles of autophagy in ROS-mediated hepatocarcinogenesis and discusses the role of ROS-induced autophagy in HCC cell fate decision following treatment with chemotherapeutic agents in preclinical settings, which may allow the identification of novel strategies for the treatment of HCC.
+Autophagy; Chemotherapy; Hepatocellular carcinoma (HCC); Pathogenesis; Reactive oxygen species (ROS).

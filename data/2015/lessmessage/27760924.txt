@@ -1,0 +1,4 @@
+27760924
+2015
+Hepatitis C virus (HCV) infects more than 170 million people in the world and chronic HCV infection develops into cirrhosis and hepatocellular carcinoma (HCC). Recently, the effective compounds have been approved for HCV treatment, the protease inhibitor and polymerase inhibitor (direct acting antivirals; DAA). DAA-based therapy enabled to cure from HCV infection. However, development of new drug and vaccine is still required because of the generation of HCV escape mutants from DAA, development of HCC after treatment of DAA, and the high cost of DAA. In order to develop new anti-HCV drug and vaccine, animal infection model of HCV is essential. In this manuscript, we would like to introduce the history and the current status of the development of HCV animal infection model.
+

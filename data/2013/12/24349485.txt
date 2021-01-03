@@ -1,0 +1,4 @@
+24349485
+2013 Dec 13
+Patients with chronic hepatitis C virus (HCV) infection frequently develop systemic iron overload, which exacerbates morbidity. Nevertheless, iron inhibits HCV replication in cell culture models and thereby exerts antiviral activity. We hypothesized that the cellular iron status is crucial for the establishment of HCV infection. We show that HCV infection of permissive Huh7.5.1 hepatoma cells promotes an iron deficient phenotype. Thus, HCV leads to increased iron regulatory protein (IRP) activity, accumulation of IRP2 and suppression of transferrin receptor 1 (TfR1) and divalent metal transporter 1 (DMT1) in the host. These data suggest that HCV regulates cellular iron levels to bypass iron-mediated inhibition in viral replication.
+

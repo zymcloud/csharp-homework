@@ -1,0 +1,4 @@
+25227574
+2015
+Introduction:Aberrant methylation levels in the cytosine-phosphate-guanine island (CpGi) region from exon 1 to intron 1 of the zygote arrest 1 (ZAR1) gene have been reported in several types of human cancers, including melanoma, brain tumor, and hepatocellular carcinoma. In the present study, methylation levels at the CpGi of ZAR1 exon 1/intron 1 in bladder cancer specimens were analyzed using mass spectrometry.Materials and methods:Genomic DNA was extracted from 20 sporadic bladder cancers, and the methylation levels at ZAR1 CpGi were quantitatively examined by the MassARRAY EpiTYPER method.Result:The methylation levels at specific CpG sites of the ZAR1 CpGi were significantly lower in high-grade bladder cancers than in low-grade tumors.Conclusions:The results of the present study indicated a decreased methylation level at CpG sites of ZAR1 exon 1/intron 1. CpGi could serve as a biomarker for invasive bladder cancer.
+

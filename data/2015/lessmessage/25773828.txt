@@ -1,0 +1,4 @@
+25773828
+2015
+Hepatoma-derived growth factor (HDGF) is a novel jack-of-all-trades in cancer. Here we quantify the prognostic impact of this biomarker and assess how consistent is its expression in solid tumors. A comprehensive search strategy was used to search relevant literature updated on October 3, 2014 in PubMed, EMBASE and WEB of Science. Correlations between HDGF expression and clinicopathological features or cancer prognosis was analyzed. All pooled HRs or ORs were derived from random-effects models. Twenty-six studies, primarily in Eastern Asia, covering 2,803 patients were included in the analysis, all of them published during the past decade. We found that HDGF overexpression was significantly associated with overall survival (OS) (HROS=2.35, 95%CI=2.04-2.71, p
+

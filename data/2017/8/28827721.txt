@@ -1,0 +1,4 @@
+28827721
+2017 Aug 21
+Screening for possible development of hepatocellular carcinoma (HCC) in patients with chronic hepatitis B (CHB) is essential for risk prediction and early therapy. This study reported a novel model comprised of routine laboratory variables for predicting HCC from CHB. A retrospective study was performed among 463 participants. alpha-fetoprotein (AFP), platelet and alanine aminotransferase (ALT) ratio (APAR) was constructed to differentiate HCC from CHB or non-cancer with area under the receiver operating characteristic curves (AUC) of 0.815 and 0.868 in the training set, 0.831 and 0.861 in the validation set, respectively. In participants with low or normal AFP (
+

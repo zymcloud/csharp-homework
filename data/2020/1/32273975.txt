@@ -1,0 +1,4 @@
+32273975
+2020 Jan 31
+Hepatocellular carcinoma (HCC) is the most common primary liver cancer. Most patients present with advanced or metastatic HCC at diagnosis and face a dismal prognosis. Tyrosine kinases are the gold standard treatment for this disease but yield limited survival benefits. Immune checkpoint inhibitors that augment adaptive immunity have been tested in HCC. Complex interactions between tumor cells, lymphocytes and the tumor environment determine the efficacy of such immunotherapies. Innate immune mechanisms - known drivers of liver disease progression in pre-HCC conditions such as fibrosis or cirrhosis - may either support or counteract tumor-related immune activation. In this review, we will highlight current concepts of the role of the innate immune system in hepatocarcinogenesis and discuss their relevance for translation into clinics.
+HCC; checkpoint inhibition; hepatocellular carcinoma; immunotherapy; innate immune system; macrophages.

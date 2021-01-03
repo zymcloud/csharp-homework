@@ -1,0 +1,4 @@
+28464313
+2017 Sep
+Background and objectives:Hepatocellular carcinoma (HCC) patients are often not candidates for resection. This study hypothesized that external beam radiation (XRT) could be equally effective compared to ablation therapy (AT) for selected HCC patients.Methods:The Surveillance, Epidemiology, and End Results (SEER) database was used to identify HCC patients (2004-2012) undergoing XRT or AT for solitary HCC lesions. Propensity score modeling was utilized to adjust for baseline characteristics.Results:Propensity matching identified 784 patients: 157 (20%) XRT and 627 (80%) AT. Median OS for XRT and AT was 22, and 32 months (P 5 cm (25 vs 9 m, P 3 were identified as negative predictors of survival.Conclusions:Similar survival for solitary HCC lesions 3 cm. This 3 cm reference point may serve as a valuable metric to guide treatment decisions and future investigations.
+HCC; beam radiation; liver; outcomes; radiofrequency ablation.

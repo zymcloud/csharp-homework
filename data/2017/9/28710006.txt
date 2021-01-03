@@ -1,0 +1,4 @@
+28710006
+2017 Sep 28
+Embolic microspheres or beads used in transarterial chemoembolization are an established treatment method for hepatocellular carcinoma patients. The occlusion of the tumor-feeding vessels by intra-arterial injection of the beads results in tumor necrosis and shrinkage. In this short review, we describe the utility of using these beads as devices for local drug delivery. We review the latest advances in the development of non-biodegradable and biodegradable drug-eluting beads for transarterial chemoembolization. Their capability to load different drugs, such as chemotherapeutics and anti-angiogenic compounds with different physicochemical properties, like charge and hydrophilicity/hydrophobicity, are discussed. We specifically address controlled and sustained drug release from the microspheres, and the resulting in vivo pharmacokinetics in the plasma vs. drug distribution in the targeted tissue.
+Antiangiogenic; Bevacizumab (PubChem CID

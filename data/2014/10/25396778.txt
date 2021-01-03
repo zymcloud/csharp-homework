@@ -1,0 +1,4 @@
+25396778
+2014 Oct
+The development of new treatment options for hepatocellular carcinoma has changed not only the way in which cancer is treated, but also how it is diagnosed, especially the assessment of tumor response. The traditional radiologic methods, which are mainly based on the evaluation of changes in tumor size, are considered to be insufficiently sensitive and unreliable for determining tumor progression when targeted therapies such as sorafenib are involved. Several lines of research are currently focusing on the development of new assessment tools that try to combine morphological and vascular functional data in order to obtain an accurate measurement of tumor characteristics, such as volume, density or vascularization. This article presents some of the new instruments that have reported positive results.
+HCC; RECIST; dynamic contrast-enhanced ultrasound; perfusion CT; sorafenib; volumetric assessment.

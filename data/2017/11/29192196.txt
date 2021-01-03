@@ -1,0 +1,4 @@
+29192196
+2017 Nov 30
+The discovery of sodium taurocholate cotransporting polypeptide (NTCP) as the hepatitis B virus (HBV) receptor enabled researchers to create hepatoma cell lines susceptible to HBV infection. Infection in current systems, however, is inefficient and virus fails to spread. Infection efficiency is enhanced by treating cells with polyethylene glycol 8000 (PEG) during infection. However, this alone does not promote virus spread. Here we show that maintaining PEG in culture medium increases the rate of infection by at least one order of magnitude, and, most importantly, promotes virus spread. To demonstrate the utility of this system, we show that two interferon-stimulated genes (ISGs), ISG20 and tetherin, restrict HBV spread in NTCP-expressing hepatoma cells. Thus, this protocol can be easily applied to existing cell culture systems to study the complete HBV life cycle, including virus spread.
+

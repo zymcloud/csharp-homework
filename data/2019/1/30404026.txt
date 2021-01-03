@@ -1,0 +1,4 @@
+30404026
+2019 Jan
+The pathogenesis of hepatocellular carcinoma (HCC) is poorly understood, but recent advances in genomics have increased our understanding of the mechanisms by which hepatitis B virus, hepatitis C virus, alcohol, fatty liver disease, and other environmental factors, such as aflatoxin, cause liver cancer. Genetic analyses of liver tissues from patients have provided important information about tumor initiation and progression. Findings from these studies can potentially be used to individualize the management of HCC. In addition to sorafenib, other multi-kinase inhibitors have been approved recently for treatment of HCC, and the preliminary success of immunotherapy has raised hopes. Continued progress in genomic medicine could improve classification of HCCs based on their molecular features and lead to new treatments for patients with liver cancer.
+Epigenetics; HCC; Hepatitis; Immunotherapy; Tert.

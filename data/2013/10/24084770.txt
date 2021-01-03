@@ -1,0 +1,4 @@
+24084770
+2013 Oct 29
+Background:Interferon (IFN)-based therapies could eradicate hepatitis C (HCV) and reduce the risk of hepatocellular carcinoma (HCC). However, HCC could still happen after sustained virological response (SVR). We aimed to develop a simple scoring system to predict the risk of HCC development among HCV patients after antiviral therapies.Methods:From 1999 to 2009, 1879 patients with biopsy-proven HCV infection treated with IFN-based therapies were analyzed.Results:Multivariable analysis showed old age (adjusted HR (aHR)=1.73, 95% CI=1.13-2.65 for aged 60-69 and aHR=2.20, 95% CI=1.43-3.37 for aged ≥ 70), Male gender (aHR=1.74, 95% CI=1.26-2.41), platelet count Conclusion:The risk scoring system is accurate in predicting HCC development for HCV patients after antiviral therapies.
+

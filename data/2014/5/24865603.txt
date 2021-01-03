@@ -1,0 +1,4 @@
+24865603
+2014 May 26
+This research attempted to study the effect of lipophilicity on the anticancer activity of N-substituted norcantharimide derivatives. Twenty-three compounds were synthesized and their cytotoxicities against five human cancer cell lines studied. The lipophilicity of each derivative was altered by its substituent, an alkyl, alkyloxy, terpenyl or terpenyloxy group at the N-position of norcantharimide. Further, among all synthesized derivatives studied, the compounds N-farnesyloxy-7-oxabicyclo[2.2.1]heptane-2,3-dicarboximide (9), and N-farnesyl-7-oxabicyclo[2.2.1]heptane-2,3-dicarboximide (18), have shown the highest cytotoxicity, anti-proliferative and apoptotic effect against human liver carcinoma HepG2 cell lines, yet displayed no significant cytotoxic effect on normal murine embryonic liver BNL CL.2 cells. Their overall performance led us to believe that these two compounds might be potential candidates for anticancer drugs development.
+

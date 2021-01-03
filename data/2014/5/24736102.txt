@@ -1,0 +1,4 @@
+24736102
+2015 May
+Genomic analysis of hepatocellular carcinoma (HCC) has been shown to provide clues about local risk factors. In the last decades, the mortality from malignant liver tumors increased sharply in Romania, where both hepatitis viruses and environmental pollutants are known to be highly prevalent. To date, HCC from this country has not been subject to molecular characterization. We analyzed a series of 48 consecutive HCC cases. Point mutations were searched in 9 nuclear genes and the mitochondrial D-loop. Oxidative stress response was monitored through measurement of gene expression (NRF2, KEAP1, SRXN1, and CES1) by qRT-PCR. An atypical mutation spectrum was observed, as more than 40% of DNA changes were oxidative stress-associated T>C or T>G lesions (T>S). These mutations affected primarily genes encoding for β-catenin and NRF2 (P
+

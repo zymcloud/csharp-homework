@@ -1,0 +1,4 @@
+32314598
+2020 Jun
+Aim: To describe the factors affecting distant metastasis of Merkel cell carcinoma (MCC) and the prognosis of metastatic MCC. Materials & methods: The MCC patient information was downloaded from the SEER database. Logistic regression and Cox proportional hazard models were conducted to screen for significant factors. Results: A total of 3449 patients were enrolled. Surgery and chemotherapy were significantly correlated with the occurrence of distant metastasis. In the cause-specific survival rate of MCC, regional lymph node removal, sentinel lymph node biopsy, radiation and chemotherapy can significantly reduce the prognostic risk of patients with distant metastases. Conclusion: Our study screened out the factors affecting the distant metastasis and prognosis of MCC and more prospective studies are needed to verify our findings.
+merkel cell carcinoma; metastasis; prognosis; survival.

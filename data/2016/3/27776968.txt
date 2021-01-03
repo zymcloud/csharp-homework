@@ -1,0 +1,4 @@
+27776968
+2017 Mar
+Background:The expression profiles and biological relevance of long non-coding RNA XIST and its activator JPX in hepatocellular carcinoma (HCC) are not well elucidated. We measured JPX and XIST expression levels in HCC, evaluated their clinical significance in HCC progression, and verified their potential as biomarkers for diagnosing HCC.Methods:JPX and XIST expression in 68 HCC tissues and adjacent normal tissues were evaluated by quantitative reverse transcription-PCR (qRT-PCR); their association with pathologic features and overall survival was analyzed. Plasma JPX/XIST levels in 42 patients with HCC and 68 healthy controls were measured by qRT-PCR to determine their potential as biomarkers.Results:JPX and XIST levels were significantly decreased in HCC and associated with histological grade and tumor-node-metastasis stage (PConclusions:Downregulated JPX and XIST may serve as novel biomarkers of poor prognosis in HCC.
+

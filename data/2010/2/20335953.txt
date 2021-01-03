@@ -1,0 +1,4 @@
+20335953
+2010 Feb 10
+A new 1,4-diazepine, callysponine (1), was isolated from a South China Sea Callyspongia sp. marine sponge, together with four known proline-based diketopiperazines: cyclo-(S-Pro-R-Leu) (2), cyclo-(S-Pro-R-Val) (3), cyclo-(S-Pro-R-Ala) (4), andcyclo-(S-Pro-R-Tyr) (5). The new structure was determined on the basis of NMR and MS analysis, and the absolute stereochemistry was defined by NOESY spectroscopy and optical rotation. The structures of the known compounds were identified by comparison of their spectroscopic data with those reported in the literature. Callysponine (1) did not inhibit the growth of HepG2 (hepatoma carcinoma cell), A549 (lung carcinoma cell), and HeLa (cervical cancer cell) cell lines.
+

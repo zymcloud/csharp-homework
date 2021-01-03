@@ -1,0 +1,4 @@
+27525839
+2016 Jul 15
+A previous study has revealed that miR-29c functions as a tumor suppressor in hepatocellular carcinoma (HCC), but the clinical significance and prognostic value of miR-29c in HCC have not been investigated. Paired human HCC tissues and adjacent noncancerous tissues were obtained from 91 patients, between 2008 to 2014. Quantitative real-time PCR (qRT-PCR) was used to analyze miR-29c expression. Kaplan-Meier survival plots and log-rank tests were used to assess differences in the overall survival of different subgroups of HCC patients. It was observed that miR-29c expression was remarkably decreased in HCC tissues relative to that in normal hepatic tissues (P
+

@@ -1,0 +1,4 @@
+24796461
+2014 Feb
+Objective:To investigate the clinical value of serum anti-Ku86 in early detection of hepatocellular carcinoma (HCC).Methods:Expression levels of Ku86 protein in HCC and adjacent normal liver tissues were detected by Western blotting. Serum anti-Ku86 level in 83 patients with early HCC and 124 patients with liver cirrhosis were detected by enzyme-linked immunosorbent assay (ELISA). Chemiluminescence was used to measure the serum level of α-fetoprotein (AFP).Results:Expression of Ku86 protein in HCC was increased when compared with the adjacent normal liver tissues (0.21 ± 0.05 vs. 0.08 ± 0.02, P Conclusions:Serum anti-Ku86 level is significantly elevated and is not related to HBV and HCV infection in HCC patients. Serum anti-Ku86 antibody may be a potential biomarker for early detection of HCC, and can be used in combination with AFP in clinics.
+

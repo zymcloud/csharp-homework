@@ -1,0 +1,4 @@
+29274785
+2018 Jan 29
+Hepatocellular carcinoma (HCC) is a disease with poor prognosis. Nuclear accumulation of YB-1 is closely related to the malignancy of HCC. Treatment with anticancer agents often induces translocation of YB-1 from cytoplasm to nucleus and activates the expression of multidrug resistance gene 1 (MDR1). Therefore, any effective inhibitor of this phenomenon would be useful for cancer treatment. Here we examined various indirubin derivatives and found that indirubin 3'-oxime inhibits actinomycin D-induced nuclear transport of YB-1 and suppresses the activation of MDR1 gene expression in the human hepatocellular carcinoma cell line HepG2. Furthermore, use of both indirubin 3'-oxime and actinomycin D in combination increased the anticancer effect on HepG2 cells. Indirubin 3'-oxime is a novel and efficient inhibitor of anticancer agent-induced YB-1 nuclear translocation.
+HepG2; Indirubin 3′-oxime; Inhibitor; Nuclear translocation; YB-1.

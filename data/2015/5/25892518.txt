@@ -1,0 +1,4 @@
+25892518
+2015 May 29
+The promyelocytic leukemia protein PML acts as a tumor suppressor by forming transcription-regulatory complexes with a variety of repressor proteins. In the present study, we found that endogenous PML suppresses interleukin (IL)-6-induced gene expression as well as phosphorylation and transcriptional activation of STAT3 in hepatoma cells. We also found that PML-mediated suppression of IL-6-induced STAT3 activation by disrupting interactions between STAT3 and HDAC3. These results indicate that PML modulates IL-6-induced STAT3 activation and hepatoma cell growth by interacting with HDAC3.
+HDAC3; Hepatoma; IL-6; PML; STAT3; Transcriptional regulation.

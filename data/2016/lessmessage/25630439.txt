@@ -1,0 +1,4 @@
+25630439
+Mar-Apr 2016
+Recent data have shown that synthetic polymers and nanomaterials display phenotypic effects in cells and signal transduction mechanisms involved in inflammation, differentiation, proliferation, and apoptosis.Aim:This article aims to investigate the effect of poly(ethylene oxide)-poly(propylene oxide) (PEO-PPO) block copolymers with a wide range of biomedical and pharmaceutical applications on apoptosis and/or cell immortalization, by flow cytometry and multiplex RT-PCR for bax, bcl-2, and human telomerase reverse transcriptase (hTERT).Results:PEO-PPO amphiphiles upregulated bax and hTERT and induced apoptosis of two human hepatoma cell lines.Conclusions:PEO-PPO block copolymers-considered safe for human use-can drastically alter gene expression profiles of genes related to apoptosis/cell proliferation.
+bax; bcl-2; hTERT; multiplex RT-PCR; poloxamers; poloxamines.

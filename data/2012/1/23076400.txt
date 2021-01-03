@@ -1,0 +1,4 @@
+23076400
+2013 Jan
+Hepatocellular carcinoma (HCC) is one of the most common tumors in the world. At present, the details of the mechanism responsible for HCC formation and maintenance remain unclear. However, the cancer stem cell (CSC) theory suggests that liver cancer stem cells (LCSCs) may be responsible for the biological characteristics of HCC. Dysregulation of signaling pathways, including transforming growth factor β (TGF-β), Wnt, Notch and Hedgehog pathways, has been found to be involved in the process of hepatocarcinogenesis and is considered the key determinant of LCSC function. Numerous LCSC biomarkers have been identified including CD133, epithelial cell adhesion molecule (EpCAM), ABCG2 and CD90, which would contribute to the isolation of LCSCs.
+

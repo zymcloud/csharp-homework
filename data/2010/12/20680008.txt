@@ -1,0 +1,4 @@
+20680008
+2010 Dec
+Liver cirrhosis and hepatocellular carcinomas are two major causes of morbidity and mortality worldwide, and can synergistically interact to expedite the tumor progression. How fibrosis promotes the hepatoma growth remains completely unexplained. Using an in situ murine hepatoma model together with fibrosis induction by thioacetamide (TAA), the hepatoma growth and the immune factors in the fibrotic liver were analyzed. We found that TAA-fibrosis induction enhanced hepatoma cell growth in the liver and increased the mortality of hepatoma-bearing mice. The tumor-infiltrating CD4(+) or CD8(+) T cells are downregulated by fibrosis induction. The Foxp3(+) regulatory T cells (Treg) cells were induced. We conclude that fibrosis induction causes further immunosuppression, in which Treg cells exert a downregulation effect on the antitumor immunity.
+

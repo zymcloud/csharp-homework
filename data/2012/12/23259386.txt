@@ -1,0 +1,4 @@
+23259386
+2012 Dec
+The carcinoembryonic antigen glypican-3 (GPC3) is an ideal target of tumor antigen-specific immunotherapy against hepatocellular carcinoma (HCC), because it is overexpressed specifically in HCC. We have reported that a GPC3-derived peptide vaccination was well-tolerated, and immune responses and antitumor efficacy were noted in a phase I trial for HCC patients. We have begun a phase II study of the GPC3-derived peptide vaccine as an adjuvant therapy for HCC patients, and a pilot study of liver biopsies performed before and after GPC3 peptide vaccination for advanced HCC to determine whether tumor-infiltrating lymphocytes are indeed GPC3 peptide-specific CTLs. Furthermore, we are initiating clinical trials of a GPC3-derived peptide vaccine for patients with hepatoblastoma or ovarian clear cell carcinoma.
+

@@ -1,0 +1,4 @@
+21984362
+2015 Mar
+Hepatocellular carcinoma (HCC) is a common primary malignancy of the liver. Estimates of the future HCC burden are important for health planning. The authors applied an age-period-cohort (APC) model for a 15-year forecast of HCC mortality in Taiwan (based on mortality data between the years 1976 and 2005). It is found that for men, the mortality trend reverses itself in the period 2011-2015, from an increasing one to a slightly deceasing one. For women, the increasing trend reverses itself in the period 2001-2005. The age-adjusted HCC mortality for men and women in the most recent available years, 2006-2008, both fall in the range forecast by the APC model. Forecasting using the APC model can provide an advanced warning of trend reversals.
+age-adjusted rates; age-period-cohort analysis; forecasting; hepatocellular carcinoma.

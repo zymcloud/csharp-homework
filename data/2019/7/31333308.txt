@@ -1,0 +1,4 @@
+31333308
+2019 Jul 7
+Liver cancer is one of the most common malignancies, and various pathogenic factors can lead to its occurrence and development. Among all primary liver cancers, hepatocellular carcinoma (HCC) is the most common. With extensive studies, an increasing number of molecular mechanisms that promote HCC are being discovered. Surgical resection is still the most effective treatment for patients with early HCC. However, early detection and treatment are difficult for most HCC patients, and the postoperative recurrence rate is high, resulting in poor clinical prognosis of HCC. Although immunotherapy takes longer than conventional chemotherapy to produce therapeutic effects, it persists for longer. In recent years, the emergence of many new immunotherapies, such as immune checkpoint blockade and chimeric antigen receptor T cell therapies, has given new hope for the treatment of HCC.
+Hepatocellular carcinoma; Immunotherapy; Mechanisms.

@@ -1,0 +1,4 @@
+27741441
+2016 Oct
+Hepatitis C virus (HCV) infection is one of the major causes of advanced liver disease and hepatocellular carcinoma (HCC) worldwide. While the knowledge about the molecular virology of HCV infection has markedly advanced, the molecular mechanisms of disease progression leading to fibrosis, cirrhosis and HCC are still unclear. Accumulating experimental and clinical studies indicate that HCV may drive hepatocarcinogenesis directly via its proteins or transcripts, and/or indirectly through induction of chronic liver inflammation. Despite the possibility to eradicate HCV infection through direct-acting antiviral treatment, the risk of HCC persists although specific biomarkers to estimate this risk are still missing. Thus, a better understanding of HCV-induced HCC and more physiological liver disease models are required to prevent cancer development.
+

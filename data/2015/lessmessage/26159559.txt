@@ -1,0 +1,4 @@
+26159559
+Sep-Oct 2015
+Objectives:To compare diagnostic accuracy of gadoxetic acid-enhanced magnetic resonance imaging (MRI) (original set) and original MRI combined with the arterial phase of low-tube-voltage computed tomography (CT) (hybrid set).Methods:In hybrid set, we substituted the CT arterial phase for MRI arterial phase. Three observers independently interpreted. The accuracy of each image set was evaluated using the alternative-free response receiver operating characteristic method.Results:The mean Az values for original set (0.96±0.01) was higher than that for hybrid set (0.94±0.01), but the difference was not significant (P=.10).Conclusions:In cases with degradation of magnetic resonance arterial phase, reuse of CT arterial phase might be helpful instead of repeating MRI.
+Arterial phase; Gadoxetic acid; Hepatocellular carcinoma; Low kVp CT; MRI.

@@ -1,0 +1,4 @@
+27216880
+2016 Sep
+The use of SonoVue combined with ultrasound exposure increases the transfection efficiency of short interfering RNA (siRNA). The objective of this study was to prepare targeted nanobubbles (TNB) conjugated with NET-1 siRNA and an antibody GPC3 to direct nanobubbles to hepatocellular carcinoma cells. SMMC-7721 human hepatocellular carcinoma cells were treated with six different groups. The transfection efficiency and cellular apoptosis were measured by flow cytometry. The protein and messenger RNA (mRNA) expression were measured by Western blot and quantitative real-time PCR, respectively. The migration and invasion potential of the cells were determined by Transwell analysis. The results show that US-guided siRNA-TNB transfection effectively enhanced gene silencing. In summary, siRNA-TNB may be an effective delivery vector to mediate highly effective RNA interference in tumor treatment.
+Hepatocellular carcinoma; Nanobubbles; Ultrasound; siRNA.

@@ -1,0 +1,4 @@
+31949688
+2018 Dec 1
+Objective:To study the relationship between interleukin (IL)-1β and nuclear factor kappa-light-chain-enhancer of activated B cells (NFκB) expressions in tumor tissue and the recurrence of hepatocellular carcinoma (HCC) after hepatectomy.Methods:The expressions of IL-1β and NFκB in tumor tissues of 92 patients with HCC were measured using immunohistochemical staining. The correlations between IL-1β and NFκB expressions with clinical factors and postoperative recurrence were analyzed.Results:Compared with the low expression group, the disease-free survival (DFS) of HCC with high expression of IL-1β and NFκB was more significantly prolonged (P Conclusions:The low expressions of IL-1β and NFκB in HCC tissues are an independent risk factor for the recurrence of HCC after hepatectomy, but a high expression can significantly prolong DFS.
+IL-1β; NFκB; hepatocellular carcinoma; prognosis; recurrence.

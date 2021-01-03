@@ -1,0 +1,4 @@
+21952823
+2012 Apr
+SEPT4 belongs to the Septin family with multiple functions in cell division, cytoskeletal organization and other processes. This study aims to investigate the relationship between SEPT4_i1 isoform and human hepatocellular carcinoma (HCC). We showed that over-expression of SEPT4_i1 in HCC cells was able to sensitize cells to serum starvation-induced apoptosis. By contrast, knockdown of SEPT4_i1 expression in HCC cells was able to rescue cells from apoptosis induced by serum deprivation and to promote cell growth. Expressional analysis of SEPT4_i1 in tumor tissues further revealed that SEPT4_i1 was significantly down-regulated in human HCC tissues. Taken together, these data suggests a tumor suppressor role of SEPT4_i1 in HCC through regulating HCC cell apoptosis.
+

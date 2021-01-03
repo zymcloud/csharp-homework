@@ -1,0 +1,4 @@
+22193438
+2012 Sep
+Background/aims:There are no satisfactory biomarkers for hepatocellular carcinoma (HCC). The surface-enhanced laser desorption/ionization time-of-flight mass spectrometry (SELDI-TOF-MS) technique has been used to identify biomarkers for cancer.Methodology:Four hundred thirty five serum samples were tested by SELDI-TOF-MS matching on a gold chip. Samples were assigned to a training set and a testing set according to collection order. The training set was used to identify statistically significant peaks and to develop the artificial neural network (ANN) model for diagnosing HCC. The testing set was used in a blind test to validate the diagnostic efficiency of the ANN model.Results:A total of 75 proteins that differed between patients and controls were identified (pConclusions:These results suggest that patients with HCC may have serum proteins that differ from healthy controls. The ANN is a new method for diagnosing and identifying HCC.
+

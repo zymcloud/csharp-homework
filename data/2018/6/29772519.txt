@@ -1,0 +1,4 @@
+29772519
+2018 Jun 1
+Chemoresistance is a critical obstacle to the treatment of hepatocellular carcinoma (HCC). The mechanisms underlying resistance to doxorubicin, cisplatin, and 5-fluorouracil involve p53 and P-glycoprotein (P-gp). p53 plays a role in cell growth; therefore, resistance mechanisms involve chemotherapy-induced apoptosis and p53 mutation and inactivation. P-gp is an energy-dependent drug efflux pump regulated by p53. Its role in drug resistance has provided new insights into the mechanisms underlying the involvement of p53 and P-gp in chemoresistance and may alter our traditional understanding of p53 and P-gp function. This review outlines the roles and principal mechanisms of p53 and P-gp mediated chemoresistance in HCC.
+

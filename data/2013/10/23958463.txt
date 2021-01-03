@@ -1,0 +1,4 @@
+23958463
+2013 Oct 15
+Hepatocellular carcinoma (HCC) cells undergo the epithelial-mesenchymal transition (EMT) during chemotherapy, which reduces the efficacy of doxorubicin-based chemotherapy. We investigated N1-guanyl-1,7-diaminoheptane (GC7) which inhibits eukaryotic translation initiation factor 5A2 (eIF5A2) activation; eIF5A2 is associated with chemoresistance. GC7 enhanced doxorubicin cytotoxicity in epithelial HCC cells (Huh7, Hep3B and HepG2) but had little effect in mesenchymal HCC cells (SNU387, SNU449). GC7 suppressed the doxorubicin-induced EMT in epithelial HCC cells; knockdown of eIF5A2 inhibited the doxorubicin-induced EMT and enhanced doxorubicin cytotoxicity. GC7 combination therapy may enhance the therapeutic efficacy of doxorubicin in HCC by inhibiting eIF5A2 activation and preventing the EMT.
+Cytotoxicity; Doxorubicin; Epithelial–mesenchymal transition; Hepatocellular carcinoma; N1-guanyl-1,7-diaminoheptane (GC7).

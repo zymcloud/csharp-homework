@@ -1,0 +1,4 @@
+21732145
+2012 Feb
+Background:Our aim was to assess the capability of Barcelona Clinic Liver Cancer (BCLC) staging system in allocating stage A patients to hepatic resection (HR) and the effect on survival.Methods:We enrolled 132 patients with hepatocellular carcinoma (HCC) amenable to HR. All patients underwent ultrasound (US)-guided anatomical resection (≤2 segments) and then postoperative results were evaluated.Results:Results showed 95% of patients were Child A, 49% in BCLC A1, 21% in A2, 6% in A3, and 24% in A4. No 30-day mortality occurred. Overall survival got worse from A1 to A4 (P = 0.0271), while no differences were found in Childs A patients with or without portal hypertension (P = 0.1674). Multivariate analysis (Cox model) shows that only AFP (Conclusion:Our experience stressed the high value of BCLC system in staging of patients with HCC, but underlined that in selected patients (normal AFP) even A2 group may benefit from HR with a good survival.
+

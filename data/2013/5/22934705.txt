@@ -1,0 +1,4 @@
+22934705
+2013 May
+Focal adhesion kinase (FAK) is implicated in cancer cell survival, proliferation and migration. Expression of FAK expression is elevated and associated with tumor progression and metastasis in various tumors, including hepatocellular carcinoma (HCC). Increased 14-3-3ε expression is shown to be a potential prognostic factor to predict higher risk of distant metastasis and worse overall survival in HCC. The aim of this study is to investigate whether FAK is associated or regulated by 14-3-3ε to modulate tumor progression in HCC. In this study, 114 primary HCC tumors including 34 matched metastatic tumors were subjected to immunohistochemistry analysis of FAK and 14-3-3ε expression. Overexpression of FAK was significantly associated with increased risk of extrahepatic metastasis (p=0.027) and reduced 5-year overall survival rate (p=0.017). A significant correlation of FAK and 14-3-3ε expression was observed in primary tumor (p
+

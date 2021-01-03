@@ -1,0 +1,4 @@
+27333866
+2016 Jun 23
+BACKGROUND It is widely recognized that astaxanthin (ASX), a member of the carotenoid family, has strong biological activities including antioxidant, anti-inflammation, and immune-modulation activities. Previous studies have confirmed that ASX can effectively inhibit hepatoma cells in vitro. MATERIAL AND METHODS MTT was used to assay proliferation of mice H22 cells, and flow cytometry was used to determine apoptosis and cell cycle arrest of H22 cells in vitro and in vivo. Moreover, anti-tumor activity of ASX was observed in mice. RESULTS ASX inhibited the proliferation of H22 cells, promoted cell necrosis, and induced cell cycle arrest in G2 phase in vitro and in vivo. CONCLUSIONS This study indicated that ASX can inhibit proliferation and induce apoptosis and cell cycle arrest in mice H22 hepatoma cells in vitro and in vivo.
+

@@ -1,0 +1,4 @@
+30719823
+2019 Apr
+Hepatocellular carcinoma (HCC) is one of the most common malignancies worldwide. The most important reason for the occurrence of HCC is hepatitis C or B infection. Moreover, genetic factors play an important role in the tumorigenesis of HCC. Here, we demonstrated that Krüppel-like factor 2 (KLF2) expression was downregulated in HCC samples compared with adjacent tissues. Additionally, KLF2 was shown to inhibit the growth, migration and colony-formation ability of liver cancer cells. Further mechanistic studies revealed that KLF2 can compete with Gli1 for interaction with HDAC1 and restrains Hedgehog signal activation. Together, our results suggest that KLF2 has potential as a diagnostic biomarker and therapeutic target for the treatment of HCC.
+HDAC1; Hedgehog signaling; Krüppel-like factor 2; hepatocellular carcinoma; intrahepatic metastasis.

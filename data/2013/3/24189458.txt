@@ -1,0 +1,4 @@
+24189458
+2014 Mar 28
+Nemo-like kinase (NLK), an evolutionarily conserved MAP kinase-related kinase, has been reported to be involved in the development of hepatocellular carcinoma (HCC), but the underlying mechanisms leading to oncogenic NLK are poorly understood. A comprehensive microRNA (miRNA) profiling analysis on human HCC tissues identified four downregulated miRNAs that may target NLK. Ectopic expression of miRNA mimics suggested that miR-101 could suppress NLK in HCC cells. Notably, ectopic miR-101 expression repressed cancer cell growth and proliferation and imitated NLK knockdown effect on HCC cells. In conclusion, we suggest that miR-101 functions as a tumor suppressor by regulating abnormal NLK activity in liver.
+Liver cancer; MiR-101; NLK; Tumor suppressor.

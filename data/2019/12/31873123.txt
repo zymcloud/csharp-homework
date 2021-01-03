@@ -1,0 +1,4 @@
+31873123
+2019 Dec 23
+The mitotic serine/threonine kinase aurora kinase-A (AURKA) has been identified as carcinogenic in hepatocellular carcinoma (HCC). AURKAPS1, a long non-coding RNA (lncRNA), is the pseudo-gene of AURKA, which play important roles in the cancer. Its underlying functions and mechanisms in liver cancer progression remain largely unknown. The mRNA expression of AURKAPS1 in HCC tumor tissues was significantly higher, which is associated with tumor size and TNM stage. The high expression of AURKAPS1 promotes cell movement, migration and invasion. AURKAPS1 can increases the protein expression of RAC1, promotes the activation of ERK, and enhance the formation of membrane ruffles by binding with miR-182, miR-155 and miR-142 competively. Thus, AURKAPS1 could be a useful marker, and the combination of AURKAPS1/miRNAs (miR-142, miR-155 and miR-182) may be a new theoretical basis for the treatment of HCC.
+

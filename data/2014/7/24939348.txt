@@ -1,0 +1,4 @@
+24939348
+2014 Jul
+Prognosis of patients with chronic liver disease is determined by the extent and progression of liver fibrosis, which may ultimately lead to hepatocellular carcinoma (HCC). Liver biopsy (LB) is regarded as the gold standard to estimate the extent of liver fibrosis. However, because LB has several limitations, the foremost being its invasiveness, several non-invasive methods for assessing liver fibrosis have been proposed. Of these, transient elastography (TE) provides an accurate representation of the extent of liver fibrosis. Furthermore, recent studies have focused on the usefulness of TE for assessing the risk of HCC development and HCC recurrence after curative treatment, and developed novel models to calculate the risk of HCC development based on TE findings. These issues are discussed in this expert review.
+FibroScan®; hepatocellular carcinoma; liver cirrhosis; liver fibrosis; liver stiffness; prediction; transient elastography.

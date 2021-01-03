@@ -1,0 +1,4 @@
+30319277
+2018 Oct 1
+Background:The hyperactivation of β-catenin signaling is frequently observed in clinical hepatocellular carcinoma (HCC) samples. Further understanding the mechanisms involved in activating β-catenin/TCF signaling would benefit the treatment of HCC.Method and results:Here, it was found that NOP7 was a binding partner of β-catenin. NOP7 strengthened the interaction between β-catenin and TCF4, which led to the activation of β-catenin/TCF signaling. The upregulation of NOP7 in HCC promoted the growth (in both liquid culture and soft agar) and migration of HCC cancer cells.Conclusion:Taken together, we have demonstrated the oncogenic functions of NOP7 in HCC, suggesting that targeting NOP7 would benefit the treatment of HCC.
+NOP7; cell growth; cell migration; hepatocellular carcinoma; β-catenin/TCF pathway.

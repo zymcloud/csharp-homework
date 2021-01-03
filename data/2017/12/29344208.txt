@@ -1,0 +1,4 @@
+29344208
+2017 Dec
+At present, there is a high incidence of viral hepatitis and high mortality rates due to hepatocellular carcinoma (HCC) in China. In the current study, the quantification of antibodies against the cancer-testis antigen sperm-associated antigen 9 (SPAG9), alone and combined with α-fetoprotein (AFP), were evaluated as biomarkers for the diagnosis of HCC. The levels of anti-SPAG9 antibody and AFP were quantified in serum samples from patients with HCC and hepatitis or cirrhosis, as well as healthy volunteers. The results revealed that the serum levels of anti-SPAG9 immunoglobulin G antibody in patients with HCC were significantly higher compared with those in patients with hepatitis/cirrhosis and healthy controls. Using receiver operator characteristic curves, the area under the curve (AUC, 0.870) of SPAG9 as a diagnostic marker of HCC was significant [P
+autoantibody; biomarker; diagnosis; hepatocellular carcinoma; sperm-associated antigen 9.

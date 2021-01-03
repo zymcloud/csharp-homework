@@ -1,0 +1,4 @@
+23127889
+2012 Dec 15
+We evaluated 2-styrylindolium derivatives (6-11) as novel and selective probes for neurofibrillary tangles (NFTs) on brain sections of AD patients. The staining experiments indicated that these compounds may bind selectively to NFTs in the presence of ß-amyloid (Aß) plaques. Cell free binding assays confirmed that 2-[2-[4-(1-pyrrolidinyl)phenyl]ethenyl]-1,3,3-trimethyl-3H-indolium iodide (9) and 2-[2-[4-(diethylamino)phenyl]ethenyl]-1-butyl-3,3-dimethyl-3H-indolium iodide (11) display excellent affinities to Tau-aggregates (IC(50) values of 5.1 and 1.4 nM, respectively) in the displacement of Thiazin Red R. These probes have good solubility in distilled water and low or no cytotoxicity in zebrafish embryo and liver hepatocellular carcinoma cell assays.
+

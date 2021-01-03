@@ -1,0 +1,4 @@
+26099564
+2015 Jun 23
+Kynurenine 3-monooxygenase (KMO) is a pivotal enzyme in the kynurenine pathway of tryptophan degradation and plays a critical role in Huntington's and Alzheimer's diseases. This study aimed to examine the expression of KMO in human hepatocellular carcinoma (HCC) and investigate the relationship between its expression and prognosis of HCC patients. We first analyzed KMO expression in 120 paired HCC samples (HCC tissues vs matched adjacent non-cancerous liver tissues), and 205 clinical HCC specimens using immunohistochemistry (IHC). Kaplan-Meier survival and Cox regression analyses were executed to evaluate the prognosis of HCC. The results of IHC analysis showed that KMO expression was significantly higher in HCC tissues than that in normal liver tissues (all p
+

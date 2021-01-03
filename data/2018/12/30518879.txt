@@ -1,0 +1,4 @@
+30518879
+2018 Dec 5
+Hepatocellular carcinoma-related protein-1 (HCRP-1), a subunit of mammalian endosomal sorting complex required for transport-I (ESCRT-I), is frequently downregulated in various kinds of malignant tumors. The role of HCRP-1 in colorectal cancer (CRC) remains unknown. We investigate the clinical value of HCRP-1 and its impact on anoikis in CRC. The negative expression of HCRP-1 was significantly correlated with tumor size (P = 0.033), PT status (P = 0.001), TNM stage (P = 0.039), and histological grade (P = 0.01). Univariate and multivariate analyses revealed that HCRP-1 was an independent prognostic factor for CRC (hazard ratio (HR) = 0.237, P
+

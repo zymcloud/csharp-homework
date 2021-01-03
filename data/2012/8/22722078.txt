@@ -1,0 +1,4 @@
+22722078
+2012 Aug
+Hepatitis B virus (HBV) is a widespread human pathogen responsible for acute and chronic liver diseases. The hepatitis B burden is particularly heavy in endemic countries, where liver cirrhosis and hepatocellular carcinoma are leading causes of death. However, the oncogenic role of HBV remains enigmatic. As the virus has no cytopathic effect, liver damage is attributed to immune responses that induce inflammation, apoptosis and regeneration, fostering the accumulation of genetic and epigenetic alterations. In a more direct action, frequent integration of HBV DNA into host chromosomes may lead to insertional mutagenesis of cancer-related genes and chromosomal instability. HBV proteins, notably the HBx transactivator, participate as co-factors in oncogenesis. Better understanding of hepatitis B pathogenesis is mandatory for improving disease management.
+

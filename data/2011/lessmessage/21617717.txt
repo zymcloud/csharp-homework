@@ -1,0 +1,4 @@
+21617717
+Mar-Apr 2011
+Aims and background:Mounting evidence indicates that deregulated cell adhesion is involved in the mechanisms of cancer pathogenesis. A recent study showed that the paxillin gene (PXN) encoding a focal adhesion protein was somatically mutated in lung cancers. The aim of this study was to confirm the presence of PXN mutations in lung cancers as well as in other common solid cancers.Methods:We analyzed somatic PXN mutations in 45 lung, 45 gastric, 45 colorectal, 45 breast, 45 liver and 45 prostate cancers by polymerase chain reaction and single-strand conformation polymorphism assay.Results:Neither lung nor other cancers were found to be associated with somatic mutations of PXN.Conclusions:In contrast to the previous report, our study revealed that PXN mutation was absent in lung cancers and other common solid cancers, suggesting that PXN mutation may not play a principal role in solid cancer development.
+

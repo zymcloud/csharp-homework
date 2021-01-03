@@ -1,0 +1,4 @@
+22326393
+2012 Mar 1
+Among the seven natural resveratrol analogs separated and identified from Pholidota yunnanensis R(OLFE), we found phoyunbene B (PYB, trans-3,4'-dihydroxy-2',3',5-trimethoxystilbene) was more effective in inhibiting the growth of HepG2 hepatocellular carcinoma cells than resveratrol. The inhibitory effect of PYB in HepG2 cells was due to its induction of G2/M cell cycle arrest and apoptosis. Induction of G2/M phase cell cycle arrest by PYB was associated with its up-regulation of Cyclin B1, while its induction of apoptosis was accompanied with its down-regulation of Bcl-2 and up-regulation of Bax. Our in vitro invasion/migration assays also showed that PYB could inhibit the invasion of hepatocellular carcinoma cells.
+

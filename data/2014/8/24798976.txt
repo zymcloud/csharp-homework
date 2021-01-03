@@ -1,0 +1,4 @@
+24798976
+2014 Aug
+Rsf-1 (HBXAP) was recently reported to be overexpressed in various cancers and associated with the malignant behavior of cancer cells. However, the expression of Rsf-1 and its clinical significance in human hepatocellular carcinoma (HCC) have not been reported. In the present study, we analyzed the expression pattern of Rsf-1 in human HCC tissues and found that Rsf-1 was overexpressed in 41.1 % of HCC specimens. There was a significant association between Rsf-1 overexpression and tumor stage (p = 0.0322), AFP (p = 0.0184), and tumor relapse (p = 0.0112). Furthermore, Rsf-1 overexpression correlated with poor overall survival in HCC patients (p
+

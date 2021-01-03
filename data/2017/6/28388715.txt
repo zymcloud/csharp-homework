@@ -1,0 +1,4 @@
+28388715
+2017 Jun 1
+Elevated total tissue pressure (TTP) in pancreatic adenocarcinoma is often associated with stress applied by cellular proliferation and hydrated hyaluronic acid osmotic swelling; however, the causal roles of collagen in total tissue pressure have yet to be clearly measured. This study illustrates one direct correlation between total tissue pressure and increased deposition of collagen within the tissue matrix. This observation comes from a new modification to a conventional piezoelectric pressure catheter, used to independently separate and quantify total tissue pressure, solid stress (SS), and interstitial fluid pressure (IFP) within the same tumor location, thereby clarifying the relationship between these parameters. Additionally, total tissue pressure shows a direct correlation with verteporfin uptake, demonstrating the impediment of systemically delivered molecules with increased tissue hypertension.
+

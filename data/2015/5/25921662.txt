@@ -1,0 +1,4 @@
+25921662
+2015 May
+Different approaches predict the outcome for patients with hepatocellular carcinoma (HCC). The expression of biliary-hepatic progenitor cell markers generally correlates with poor prognosis. This article focuses on the pathogenesis of HCC, how differentiation or dedifferentiation leads to a phenotype switch, and heterogeneity in the same tumor. A tumor cell decides its fate based on a complex interplay of signaling pathways. Interaction with the microenvironment decides whether it will invade, proliferate, or enter survival mode. Several signaling pathways contribute to stemness features, reflecting a small chemoresistant subpopulation of the tumor that expresses biliary-hepatic progenitor cell markers.
+Cell of origin; Chemoresistant cancer stem cells; Hepatic progenitor cell features; Microenvironment; Phenotype switching; Prognosis; Tumor behavior.

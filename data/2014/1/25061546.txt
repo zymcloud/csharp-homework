@@ -1,0 +1,4 @@
+25061546
+2014 Jan 16
+Immunostimulatory monoclonal antibodies can be given in combinations, hence modulating the activity of 2 or more receptors of the immune system. Some of these combinations have been shown to synergize at the elicitation of therapeutically relevant immune responses in transgenic mice developing spontaneous, oncogene-driven tumors, including multifocal hepatocellular carcinomas expressing ovalbumin as a surrogate tumor-associated antigen.
+B7-H1 (PD-L1); CD137 (4-1BB); OX40 (CD134); T lymphocytes; immunotherapy.

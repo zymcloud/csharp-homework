@@ -1,0 +1,4 @@
+26803513
+2016 Jul
+Increasing evidence has indicated that dysregulation of long non-coding RNAs (lncRNAs) can contribute to the progression and metastasis of human cancer, including HCC. Previous studies have shown that the lncRNA AFAP1-AS1 plays a critical role in cancer. However, the roles of AFAP1-AS1 in HCC remain to be determined. In the present study, AFAP1-AS1 was found to be increased in HCC tissues, and high AFAP1-AS1 expression was associated with tumor size, TNM stage, vascular invasion, and poor prognosis. Silencing of AFAP1-AS1 significantly reduced cell proliferation, clonal growth, cell migration, and invasion and increased apoptosis in vitro. Furthermore, AFAP1-AS1 silencing markedly reduced tumor growth in a murine allograft model in vivo. The results suggested that AFAP1-AS1 is important in HCC development and serves as a therapeutic target of HCC.
+AFAP1-AS1; HCC; Invasion; Prognosis; Proliferation.

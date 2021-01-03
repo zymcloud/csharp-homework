@@ -1,0 +1,4 @@
+24344828
+2014 Jan 8
+Intracellular synthesis of near-infrared fluorescent silver sulfide quantum dots in HepG2 cancer cells is demonstrated. By delivering quantum dot precursors into cultured hepatoma carcinoma cells (HepG2 cells), silver sulfide quantum dots with emission efficiency qualified for in vivo imaging were successfully synthesized with the aid of endogenous glutathione in the cells.
+

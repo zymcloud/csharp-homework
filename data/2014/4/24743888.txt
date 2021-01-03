@@ -1,0 +1,4 @@
+24743888
+2014 Apr 16
+Chemokines and their receptors have recently been shown to play major roles in cancer metastasis. Chemokine receptor 6 (CCR6) and its ligand, CCL20, were highly expressed in a variety of human cancers. In our present study, we aimed to clarify whether CCR6/CCL20 was correlated with the migration of hepatocellular carcinoma (HCC). RT-PCR and Western blot results showed that CCR6 was overexpressed in different invasive potential HCC cell lines (p0.05). CCR6 was suppressed by siRNA in HCCLM6, and then the biological behaviors of HCCLM6 cells were observed. The results showed that the CCR6/CCL20 biological axis increased the capacity of proliferation and adhesion, as well as the chemotactic migration and the level of cytokines related to degraded extracellular matrix. In conclusion, these findings indicate that CCR6 indeed participates in regulating the migration and invasion of HCC, and it might become a prognostic factor of HCC.
+

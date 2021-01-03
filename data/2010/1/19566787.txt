@@ -1,0 +1,4 @@
+19566787
+2010 Jan
+Approximately 3.2 million people in the United States have chronic hepatitis C virus (HCV) infection; the primary cause for adult liver transplantation and a significant burden on healthcare resources. The role of HCV and other risk factors in development of HCC in patients with chronic kidney disease is not well defined. We studied predictors of hepatocellular carcinoma (HCC) in dialysis patients with chronic HCV by analyzing factors associated with its development. Data were extracted from the United States Renal Database System (USRDS) using ICD-9 codes. Variables included were gender, race, duration on dialysis and co-morbidities (alcohol abuse, drug abuse, HIV, hepatitis B, diabetes and/or presence of cirrhosis). Among the 32 806 HCV infected subjects, 262 cases had HCC. HCC was 12 times more likely in subjects with cirrhosis (P
+

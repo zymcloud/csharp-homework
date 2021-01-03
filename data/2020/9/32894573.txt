@@ -1,0 +1,4 @@
+32894573
+2020 Sep 7.</span
+We read with interest the article by Saillard et al [1] which developed two deep-learning models based on whole-slide digitized histological slides (WSI) to predict the survival of patients with HCC treated by surgical resection. The study showed the models have a greater discriminatory power in two independent cohorts than an optimal combination of all classical and relevant clinical, biological and pathological features. We also appreciate their effort for insights into the most relevant features used by the network for prediction.
+

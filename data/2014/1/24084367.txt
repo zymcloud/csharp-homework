@@ -1,0 +1,4 @@
+24084367
+2014 Jan 1
+MicroRNA-148a (miR-148a) which suppresses tumor growth by directly decreasing DNMT1 expression has been demonstrated as an important role for cancer therapy. The mechanisms for miR-148a in cancer will become potential future researches.
+CAFs; DNA methyltransferase 1; DNMT1; HCC; NFs; RUNX3; Runt-related transcription factor 3; cancer-associated fibroblasts; hepatocellular carcinoma; miR-148a; microRNA-148a; normal tissue fibroblasts.

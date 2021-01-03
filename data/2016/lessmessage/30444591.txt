@@ -1,0 +1,4 @@
+30444591
+2016
+In this study we established a HER2/neu expressing mouse tumor model using hepatoma MH-22a cell line tumorigenic in DBA mice. G10 clone with high level of HER2/neu expression was obtained by stable transfection and cloning. Solid tumors induced by subcutaneous injection of G10 cells into immunocompetent mice retain the expression of human receptor for at least three weeks. Treatment with trastuzumab results in statistically significant inhibition of tumor growth. This model can be used to evaluate in vivo efficiency of novel anti-HER2/neu antibodies and to test antibody-based conjugates for diagnostics.
+

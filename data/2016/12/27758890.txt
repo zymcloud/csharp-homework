@@ -1,0 +1,4 @@
+27758890
+2016 Dec 1
+Fatty acid synthase (FASN) is the terminal enzyme in de novo lipogenesis and plays a key role in cell proliferation. Pharmacologic inhibitors of FASN are being evaluated in clinical trials for treatment of cancer, obesity, and other diseases. Here, we report a previously unknown mechanism of FASN regulation involving its acetylation by KAT8 and its deacetylation by HDAC3. FASN acetylation promoted its degradation via the ubiquitin-proteasome pathway. FASN acetylation enhanced its association with the E3 ubiquitin ligase TRIM21. Acetylation destabilized FASN and resulted in decreased de novo lipogenesis and tumor cell growth. FASN acetylation was frequently reduced in human hepatocellular carcinoma samples, which correlated with increased HDAC3 expression and FASN protein levels. Our results suggest opportunities to target FASN acetylation as an anticancer strategy. Cancer Res; 76(23); 6924-36. ©2016 AACR.
+

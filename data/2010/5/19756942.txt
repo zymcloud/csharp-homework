@@ -1,0 +1,4 @@
+19756942
+2010 May
+This study identifies interactions between transport of the aromatic amino acid L: -tryptophan (Trp) and thyroid hormones (TH) in HepG2 human hepatoma cells. The major portion of Trp uptake in HepG2 cells occurs via the NEM-sensitive amino acid transport System L2 (consistent with hepatic LAT3 expression), with a smaller aromatic-AA selective System T (MCT10) component. LAT3 and MCT10 mRNA were both detected in HepG2 cells. Uptake of TH does not involve System L2, but a significant portion of T(3) uptake is mediated by System T, alongside a taurocholate-sensitive organic anion transporter. T(4) uptake into HepG2 cells appears to be mediated principally by organic anion/monocarboxylate transporters, with smaller contributions by System T and receptor-mediated endocytosis. TH-Trp transport interactions in liver cells centre on System T which, due to a perivenous localisation alongside deiodinase 1, may impact on hepatic T(3) generation and release.
+

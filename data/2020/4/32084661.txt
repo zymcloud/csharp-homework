@@ -1,0 +1,4 @@
+32084661
+2020 Apr 17
+This paper presents a prospective study evaluating the impact on image quality and quantitative dynamic contrast-enhanced (DCE)-MRI perfusion parameters when varying the number of respiratory motion states when using an eXtra-Dimensional Golden-Angle Radial Sparse Parallel (XD-GRASP) MRI sequence. DCE acquisition was performed using a 3D stack-of-stars gradient-echo golden-angle radial acquisition in free-breathing with 100 spokes per motion state and temporal resolution of 6 s/volume, and using a non-rigid motion compensation to align different motion states. Parametric analysis was conducted using a dual-input single-compartment model. Nonparametric analysis was performed on the time-intensity curves. A total of 22 hepatocellular carcinomas (size: 11-52 mm) were evaluated. XD-GRASP reconstructed with increasing number of spokes for each motion state increased the signal-to-noise ratio (SNR) (p
+

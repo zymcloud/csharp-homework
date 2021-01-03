@@ -1,0 +1,4 @@
+20452352
+2010 Jul 2
+A novel splice variant of hPirh2, named hPirh2b, was isolated from human fetal liver cDNA library. hPirh2b has a 38-nucleotide deletion and encodes a 188-amino acid protein with a truncated RING-H2 domain. It shows no ubiquitin protein ligase activity. A low level of expression of hPirh2 was found both at transcriptional and translational level in human hepatocellular carcinoma (HCC) when compared to non-cancerous tissue. Statistical analysis showed that the low expression is associated with lack of differentiation of HCC. In direct binding studies hPirh2b bound p53 indicating that RING-H2 domain is not needed for this interaction.
+

@@ -1,0 +1,4 @@
+24491563
+2014 Feb 28
+NADPH-P450 reductase (NPR) was previously found to contribute to the hypoxic response of cells, but the mechanism was not clarified. In this study, we identified a cellular stress response (CSR) as a new factor interacting with NPR by a yeast two-hybrid system. Overexpression of CSR enhanced the induction of erythropoietin and hypoxia response element (HRE) activity under hypoxia in human hepatocarcinoma cell lines (Hep3B), while knockdown of CSR suppressed them. This new finding regarding the interaction of NPR with CSR provides insight into the function of NPR in hypoxic response.
+Cellular stress response; Hypoxic response; NADPH-P450 reductase.

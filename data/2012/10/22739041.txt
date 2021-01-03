@@ -1,0 +1,4 @@
+22739041
+2012 Oct
+Impact of different cancer-associated fibroblast (CAF) cell lines on proliferation, migration, invasion and differential expressions of genes in different hepatocellular carcinoma (HCC) cell lines was investigated. Two human CAF cell lines (F26/KMUH, F28/KMUH) and two human HCC cell lines (HCC24/KMUH, HCC38/KMUH) were studied. Influence of F28/KMUH cells on expressions of genes in HCC38/KMUH cells was detected by microarray to select genes for further analysis. Both CAF cell lines promoted proliferation (all P
+

@@ -1,0 +1,4 @@
+20619105
+2010 Aug
+Aim:To inhibit the expression of WT1 gene in HepG2 cells by siRNA, to study the effect of WT1 on the proliferation and apoptosis.Methods:HepG2 cells was transfected with WT1-siRNA by liposomes. The protein expression of WT1 in HepG2 cells was detected by immunocytochemistry to detect the effect of WT1 gene silencing. Tumor cells growth was detected by MTT assay. Morphology of apoptotic cells was observed by electron microscope and fluorescence.Results:HepG2 cells was transfected with WT1-siRNA by liposomes, and the expression of WT1 were inhibited signifycantly. The transfection rate was over 70%.Silencing of WT1 by siRNA can inhibit cell proliferation and promote apoptosis.Conclusion:Sequence-specific siRNA targeting to WT1 can inhibit WT1 gene expression significantly. The decreesed expression of WT1 gene inhibits cell proliferation and promotes apoptosis of hepG2 cells.
+

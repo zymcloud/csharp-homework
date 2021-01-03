@@ -1,0 +1,4 @@
+29027085
+2018 Jan
+Two new stilbenoid dimers, cajanstilbenoids A (1) and B (2), were isolated from the leaves of Cajanus cajan. Planar structures of these compounds were verified by NMR (1D and 2D) and high-resolution electrospray ionization mass spectroscopy (HR-ESI-MS). Absolute configurations were assigned by comparing experimental and calculated electronic CD values. The cytotoxicity of 1 and 2 against human hepatoma (HepG2), human breast adenocarcinoma (MCF-7), and human lung cancer (A549) cells were evaluated in vitro. Compound 1 showed strong cytotoxicity against all the tested cell lines (IC50 values: 2.14-2.56 µM), whereas compound 2 showed strong toxicity only against HepG2 (IC50 value: 5.99 µM) and A549 cells (IC50 value: 6.18 µM).
+Cyclobutane; Cytotoxicity; Pigeon pea; Stilbene dimer.

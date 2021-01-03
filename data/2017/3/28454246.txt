@@ -1,0 +1,4 @@
+28454246
+2017 Mar
+Human primary hepatocytes are able to survive in a medium without glucose and arginine, but supplemented with galactose and ornithine (hepatocyte selection medium; HSM). To address the possibility of the application of HSM in cancer therapy, hepatocellular carcinoma cells, pancreatic cancer cells and gastric cancer cells were cultured in HSM. Cell proliferation was analyzed using an MTS assay. Morphological changes were analyzed using hematoxylin and eosin staining. Apoptosis was analyzed using a TUNEL assay and cell motility was assessed with a scratch assay. Cell proliferation was significantly suppressed in cell lines grown in HSM (P
+arginine; galactokinase; galactose; glucose; ornithine; urea cycle.

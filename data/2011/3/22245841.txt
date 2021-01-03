@@ -1,0 +1,4 @@
+22245841
+2012 Mar
+Chromatographic investigation of fruits obtained from Citrullus colocynthis, growing in Saudi Arabia, led to isolation of two compounds; Cucurbitacin E glucoside (Cu E, 1), and Cucurbitacin I glucoside (Cu I, 2). The chemical structures of 1 and 2, were elucidated by spectroscopic analyses include; 1D ((1)H and (13)C) and 2D (COSY, HMQC and HMBC) NMR and ESI-MS spectroscopy. The in vitro cytotoxic activity against hepatoma cell line (HepG2) and mice-bearing tumor of Ehrlich's ascites carcinoma (EAC) of the compounds were estimated. Both compounds had potent inhibitory activity on HepG2 with IC(50) 3.5 and 2.8 nmol/mL, respectively. In addition to these activities, the in vivo study employing EAC, showed the capability of both compounds to prolong the survival time, life span and normalize the biochemical parameters of the infected mice with EAC.
+

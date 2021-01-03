@@ -1,0 +1,4 @@
+25187728
+2014 Aug 21
+In the last decade, cancer research efforts in the field of noncoding microRNA (miRNA) have been growing exponentially. miRNA-based therapeutics have been tested in both preclinical and clinical settings, and miRNA-based cancer diagnostics and prognostics have moved into clinics to help better manage cancer treatment. A growing body of evidence in recent literature suggests miRNA-129 plays important roles in gastrointestinal cancer, including gastric, colorectal, hepatocellular carcinoma, and esophageal cancer. In this review, we focus on accumulating evidence demonstrating the key roles that miRNA-129 plays in tumorigenesis, disease progression, chemoresistance, proliferation, and cell cycle control. Understanding the emerging roles and mechanisms of miRNA-129 in cancer will help us realize the therapeutic and diagnostic/prognostic potential.
+5-FU; biomarker; cancer; miR-129; therapeutics.

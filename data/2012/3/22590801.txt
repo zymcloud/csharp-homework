@@ -1,0 +1,4 @@
+22590801
+2012 Mar
+Background:Cancer prevalence trends are rarely reported in the published literature, and until now, have not been reported for Canada.Data and methods:Based on incidence data from the Canadian Cancer Registry linked with mortality data from the Canadian Vital Statistics Death Database, trends in prevalence proportions overtime were calculated by time since diagnosis for a large number of the most common cancers.Results:Statistically significant increases in prevalence proportions were observed for most individual cancers, and most prevalence durations studied. Aging of the population contributed to these increases. Relatively large increases were observed for liver and thyroid cancer, while decreases occurred for cancers of the larynx and cervix uteri.Interpretation:Information on how and why trends vary by cancer can inform resource allocation planning.
+

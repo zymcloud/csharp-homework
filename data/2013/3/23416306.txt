@@ -1,0 +1,4 @@
+23416306
+2013 Mar 18
+The alterations of integrin glycosylation play a crucial role in tumor metastasis. Our previous studies indicated that caveolin-1 promoted the expression of the key α2,6-sialytransferase ST6Gal-I and fibronectin-mediated adhesion of mouse hepatocarcinoma cell. Herein, we investigated the role of α2,6-sialylated α5-integrin in the adhesion of mouse hepatocarcinoma H22 cell. We demonstrated that caveolin-1 up-regulated cell surface α2,6-linked sialic acid via stimulating ST6Gal-I transcription. Cell surface α2,6-sialylation was required for integrin α5β1-dependent cell adhesion to fibronectin, and an increase in α2,6-linked sialic acid on α5-subunit facilitated fibronectin-mediated focal adhesion kinase phosphorylations, suggesting that α2,6-sialylated α5-subunit promoted integrin α5β1-dependent cell adhesion.
+

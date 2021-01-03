@@ -1,0 +1,4 @@
+25924422
+2015 Mar
+Objective:To study the effect and mechanism of 4-amino-1, 8-naphthalimide (4-AN) on the sensitive effect of arsenic trioxide (ATO) in hepatocellular carcinoma cells.Methods:Hepatocellular carcinoma HepG2 cells were divided into two groups according to whether they were treated with 4-AN or not. Cell viability was evaluated by MTT assay, population doubling experiment and colony formation assay; genic mechanism was explored by 8-OH-dG assay, single cell gel electrophoresis (comet assay) and microriucleus test.Results:At 2-10 micromol/L concentration of ATO, the cell viability and colony formation efficiency of the combinatio group (4-AN+ATO) were significantly lower than that of the ATO group (PConclusion:4-AN can significantly increase the sensitivity of ATO in treatment with hepatocellular carcinoma cells and prevent DNA damage repair may be a primary mechanism for this effect.
+

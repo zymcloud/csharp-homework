@@ -1,0 +1,4 @@
+28429228
+2017 Apr
+We studied the possibility of using BSA-coated magnetic iron oxide nanoparticles for magnetic resonance imaging diagnosis of C6 glioblastoma, 4T1 mammary adenocarcinoma, and RS-1 hepatic mucous carcinoma. In all three cases, magnetic nanoparticles accumulated in the tumor and its large vessels. Magnetic resonance imaging with contrast agent allows visualization of the tumor tissue and its vascularization.
+cancer; magnetic nanoparticles; magnetic resonance imaging (MRI); tumor; tumor vessels.

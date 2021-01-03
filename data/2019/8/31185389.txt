@@ -1,0 +1,4 @@
+31185389
+2019 Aug
+A search for bioactive natural products as anticancer lead compounds has led to the isolation of five new clerodane diterpenoids (1-5) from the twigs of Casearia kurzii. Their structures were elucidated by extensive analysis of their NMR, IR, and HRESIMS data, and the absolute configurations were determined by experimental and calculated electronic circular dichroism (ECD) data analysis. The isolates were biologically evaluated and showed cytotoxic activities toward human lung cancer cells (A549), human cervical cancer cells (HeLa), and human hepatocellular carcinoma cells (HepG2). The most active compound (5) with an IC50 value of 5.3 μM against HeLa cells, was found to induce apoptosis and arrest the HeLa cell cycle at G0/G1 stage to exert cytotoxic effects.
+Apoptosis; Casearia kurzii; Cell cycle; Clerodane diterpenoids; Cytotoxic activities.

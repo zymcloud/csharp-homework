@@ -1,0 +1,4 @@
+21600201
+2011 Aug
+DNA methylation is a promising biomarker for cancer. This study was aimed at investigating the methylation levels of multiple genes in hepatocellular carcinoma (HCC) and to identify a combination of methylation markers that would be useful for the diagnosis of HCC. The methylation status of a panel of nine tumor-associated genes (APC, GSTP1, RASSF1A, CDKN2A, SFRP1, RUNX3, SOCS1, Hint1, and HIC-1) in 8 normal liver tissues and 47 paired HCCs and non-tumorous tissues (NTs) was determined using a modified methylation-sensitive, restriction enzyme-based quantitative PCR (MSRE-qPCR) method. The methylation levels of six genes (APC, CDKN2A, GSTP1, RASSF1A, SFRP1 and RUNX3) were significantly higher in HCCs than in adjacent NTs (P
+

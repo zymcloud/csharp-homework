@@ -1,0 +1,4 @@
+23367194
+2012
+Microwave tumor ablation is an attractive option for thermal ablation because of its inherent benefits over radiofrequency ablation (RFA) in the treatment of solid tumors such as hepatocellular carcinoma (HCC). Microwave energy heats tissue to higher temperatures and at a faster rate than RFA, creating larger, more homogenous ablation zones. In this study, we investigate microwave heating near large vasculature using coupled fluid-flow and thermal analysis. Low-flow conditions are predicted to be more likely to cause cytotoxic heating and, therefore, vessel thrombosis and endothelial damage of downstream tissues. Such conditions may be more prevalent in patient with severe cirrhosis or compromised blood flow. High-flow conditions create the more familiar heat-sink effect that can protect perivascular tissues from the intended thermal damage. These results may help guide placement and use of microwave ablation technologies in future studies.
+

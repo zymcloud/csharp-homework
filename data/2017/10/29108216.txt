@@ -1,0 +1,4 @@
+29108216
+2017 Oct 20
+The Hippo signaling pathway consists of four core components in mammals, i.e., Mst1/2, WW45, Mob1, and LATS1/2, which can inhibit the transcriptional coactivator YAP from entering the nucleus, maintain the balance between cell proliferation and apoptosis, control organ size, and maintain homeostasis. If the core components of the Hippo signaling pathway are inactivated due to gene mutation or epigenetic alterations, YAP is overexpressed and activated in the nucleus, which then induces excessive cell proliferation and inhibits cell apoptosis. It has been confirmed that this process is closely associated with the formation of various tumors including liver cancer. Research on the Hippo signaling pathway may provide new directions for exploring the pathogenesis of liver tumor and developing effective therapies.
+Carcinoma, hepatocellular; Signal transduction; Yes-associated protein.

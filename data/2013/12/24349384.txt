@@ -1,0 +1,4 @@
+24349384
+2013 Dec 5
+Several protein transfection reagents are commercially available and are powerful tools for elucidating function of a protein in a cell. Here we described protein transfection studies of the commercially available reagents, Pro-DeliverIN, Xfect, and TuboFect, using Huh-7 multicellular tumor spheroid (MCTS) as a three-dimensional in vitro tumor model. A cellular uptake study using specific endocytosis inhibitors revealed that each reagent was internalized into Huh-7 MCTS by different mechanisms, which were the same as monolayer cultured Huh-7 cells. A certain amount of Pro-DeliverIN and Xfect was uptaken by Huh-7 cells through caveolae-mediated endocytosis, which may lead to transcytosis through the surface-first layered cells of MCTS. The results presented here will help in the choice and use of protein transfection reagents for evaluating anti-tumor therapeutic proteins against MCTS models.
+

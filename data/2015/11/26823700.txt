@@ -1,0 +1,4 @@
+26823700
+2015 Nov 1
+Gelsolin (GSN), which is a Ca(2+)-dependent actin filament severing and capping protein, plays a critical role in the cancer progress and has the potential for providing a novel thread for cancer therapy. In current study, we demonstrate the roles of GSN on anti-apoptosis of hepatocarcinoma cells by transcriptome RNA-seq method. Then flow cytometry (FCM), in-cell immunoblotting and transmission electron microscopy (TEM) were used to examine the GSN regulatory cell apoptosis. The results revealed GSN significantly suppresses apoptosis-associated functional categories through down-regulating apoptosis-associated genes in 5 apoptosis terms and 6 relevant KEGG pathways. FCM showed a significant lower apoptotic rate in GSN-SMMC7721 (P
+Hepatocarcinoma; RNA-seq; anti-apoptosis; gelsolin; transcriptomics.

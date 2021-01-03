@@ -1,0 +1,4 @@
+24092435
+2014
+A novel computer model based on a discrete event simulation procedure describes quantitatively the processes underlying the metastatic cascade. Analytical functions describe the size of the primary tumor and the metastases, while a rate function models the intravasation events of the primary tumor and metastases. Events describe the behavior of the malignant cells until the formation of new metastases. The results of the computer simulations are in quantitative agreement with clinical data determined from a patient with hepatocellular carcinoma in the liver. The model provides a more detailed view on the process than a conventional mathematical model. In particular, the implications of interventions on metastasis formation can be calculated.
+

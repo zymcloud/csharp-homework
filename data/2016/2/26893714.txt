@@ -1,0 +1,4 @@
+26893714
+2016 Feb
+Liver cancer is one of the most common types of cancer, and hepatoma demonstrates a poor long-term prognosis. The present study reports that glaucocalyxin A (GLA), a natural product isolated from Rabdosia umbrosa, inhibits the growth of the liver cancer Focus and SMMC-7721 cell lines in a dose- and time-dependent manner. The present study revealed that GLA arrested the liver cancer cells at the G2/M stage of the cell cycle and led to decreased expression of caspase 3 and the cleavage of poly(adenosine diphosphate-ribose) polymerase. Overall, the present study demonstrated that GLA inhibits the growth of liver cancer cells by G2/M stage cell-cycle arrest and cell apoptosis.
+G2/M arrest; apoptosis; growth inhibition; liver cancer.

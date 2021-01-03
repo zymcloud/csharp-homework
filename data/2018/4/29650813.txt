@@ -1,0 +1,4 @@
+29650813
+2018 Apr
+Sarcoma is well-known rare cancer with few therapeutic options. Recent comprehensive genomic analyses of adult soft tissue sarcoma revealed few somatic mutations and massive copy number variations(CNVs)by the specific chromosomes. Those features are quite different from the genomics of carcinoma such as lung and colon cancers in which driver and passenger mutations play a central role in the pathogenesis. Furthermore, it has been demonstrated that substantial population of sarcoma patients has pathological germline variants of cancer predisposition genes. These findings imply that, in addition to somatic mutations, inherited germline variants may play a role in the disease state of sarcoma via dosage effects. On this basis, we also discuss on the prospect and limitation of the precision medicine of sarcoma.
+

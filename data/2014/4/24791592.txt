@@ -1,0 +1,4 @@
+24791592
+2014 Apr
+The polycation transfection agent, polyethylenimine (PEI) was introduced into cisplatin (CDDP)-encapsulated liposomes by modification with amphiphilic PEI-cholesterol (PEI-Chol) to evaluate its potential application in chemotherapeutic drug delivery. Compared with unmodified neutral liposomes (CDDP-NL), the remarkable features of PEI-modified cationic liposomes (CDDP-CL) increased cytotoxicity attributed to enhanced cellular uptake and extended cellular retention resulting from endosome escape in vitro. In a H22 hepatoma-bearing mouse model, CDDP-CL reduced the nephrotoxicity associated with CDDP and had an antitumor activity similar to free drug, without inducing obvious system toxicity. These results confirm that the cationic modification of liposomes with PEI is efficient and safe for antitumor drug delivery.
+

@@ -1,0 +1,4 @@
+25453816
+2014 Dec 15
+Human DNA topoisomerase IIα (htIIα) is a validated target for the development of anticancer agents. Starting from the available information about the binding of the purine-based htIIα inhibitors in the ATP binding site we designed a virtual screening campaign combining structure-based and ligand-based pharmacophores with a molecular docking calculation searching for compounds that would contain a monocycle mimetic of the purine moiety. We discovered novel 4-amino-6-(phenylamino)-1,3,5-triazines 6, 7 and 11 as monocyclic htIIα inhibitors targeting the ATP binding site. Compound 6 from the 1,3,5-triazine series also displayed cytotoxicity properties in hepatocellular carcinoma (HepG2) cell lines and selectivity against human umbilical vein endothelial (HUVEC) cell lines.
+Anticancer agents; Catalytic inhibitors; Drug design; Human DNA topoisomerase IIα; Virtual screening.

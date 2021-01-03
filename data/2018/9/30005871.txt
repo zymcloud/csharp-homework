@@ -1,0 +1,4 @@
+30005871
+2018 Sep 10
+Emerging evidence has supported that TAZ (transcriptional co-activator with PDZ binding motif), one transcription co-activator in Hippo signaling pathway, plays an oncogenic role in liver carcinogenesis. Targeting TAZ could be a potential therapeutic approach for liver cancer patients. In the current study, we aim to determine whether diosgenin could be an inhibitor of TAZ in liver cancer cells. We found that diosgenin inhibited the expression of TAZ in liver cancer cells. Moreover, we found that diosgenin inhibited cell growth, induced apoptosis, suppressed cell migration and invasion in part via inhibition of TAZ in liver cancer cells. Our study provides the evidence to support that diosgenin could be a potential agent for treating human liver cancer.
+Diosgenin; Hepatocellular carcinoma; Invasion; Migration; Proliferation; TAZ.

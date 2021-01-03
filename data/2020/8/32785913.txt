@@ -1,0 +1,4 @@
+32785913
+2020 Aug
+In recent years, immune checkpoint inhibitors (ICIs) were successfully introduced to cancer therapy, and these drugs have already become essential for the treatment of various noncurable tumors. However, monotherapy in advanced hepatocellular carcinoma (aHCC) failed to show statistically significant improvement.Recently, the combination of atezolizumab and bevacizumab demonstrated efficacy of combining ICI and VEGF inhibition, further substantiating previous data on synergistic mechanisms among respective substance classes.As TKI treatment is currently standard of care for aHCC, and ICIs are approved by the FDA and available in many areas of the world, numerous patients may have been treated with monotherapy of those drugs. However, it remains unclear if failure to monotherapy has an impact on combination therapy. We therefore report a patient well responding to combination therapy despite previous failures to TKI and ICI monotherapy.
+

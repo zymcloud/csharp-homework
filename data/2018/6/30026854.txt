@@ -1,0 +1,4 @@
+30026854
+2018 Jun 22
+Hepatocellular carcinoma (HCC) accounting for roughly 90% of all primary liver neoplasms is the sixth most frequent neoplasm and the second prominent reason of tumor fatality worldwide. As regulators of diverse biological processes, long non-coding RNAs (lncRNAs) are involved in onset and development of neoplasms. With the continuous booming of well-featured lncRNAs in HCC from 2016 to now, we reviewed the newly-presented comprehension about the relationship between lncRNAs and HCC in this study. To be specific, we summarized the overview function and study tools of lncRNAs, elaborated the roles of lncRNAs in HCC, and sketched the molecule mechanisms of lncRNAs in HCC. In addition, the application of lncRNAs serving as biomarkers in early diagnosis and outcome prediction of HCC patients was highlighted.
+long non-coding RNAs, hepatocellular carcinoma, function, mechanism, diagnosis; prognostic biomarker.

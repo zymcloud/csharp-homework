@@ -1,0 +1,4 @@
+27332862
+2016
+Liver fibrosis results from many chronic injuries and often progresses to cirrhosis, liver failure, portal hypertension, and hepatocellular carcinoma. Liver transplantation is the only treatment available for patients with advanced stages of liver fibrosis. Therefore, new strategies for anti-fibrotic therapy are required. Various kinds of hepatocyte damage result in inflammation, which leads to the activation of hepatic stellate cells (HSCs), which are the major source of myofibroblasts in the liver. Myofibroblasts proliferate in response to various kinds of cytokines, chemokines, and growth factors and produce extracellular matrix proteins, which forms the fibrous scar. Myofibroblasts undergo apoptosis and inactivation when the underlying causative etiologies are cleared. Here we describe our current knowledge of targeting the steps in HSC activation as therapeutic target for liver fibrosis.
+

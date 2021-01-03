@@ -1,0 +1,4 @@
+25005949
+2012 Oct 1
+Burdock (Arcticum lappa L.) root is used in folk medicine and also as a vegetable in Asian countries. In the present study, burdock root treatment significantly reduced body weight in rats. To evaluate the bioactive compounds, we successively extracted the burdock root with ethanol (AL-1), and fractionated it with n-hexane (AL-2), ethyl acetate (AL-3), n-butanol (AL-4), and water (AL-5). Among these fractions, AL-2 contained components with the most effective hypolipidemic potential in human hepatoma HepG2 cells. AL-2 decreased the expression of fatty acid synthase (FASN) and inhibited the activity of acetyl-coenzyme A carboxylase (ACC) by stimulating AMP-activated protein kinase (AMPK) through the LKB1 pathway. Three active compounds were identified from the AL-2, namely α-linolenic acid, methyl α-linolenate, and methyl oleate. These results suggest that burdock root is expected to be useful for body weight management.
+

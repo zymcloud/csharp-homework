@@ -1,0 +1,4 @@
+22187657
+2011
+Tumor associated fibroblasts (TAFs) are considered a microenvironmental element critical for tumor growth and progression. Experimental studies suggest that their origin could be from mesenchymal stem cells (MSCs) derived from the bone marrow. However, the role played by TAFs in cirrhosis, hepatocellular carcinoma development, and progression is largely unknown, and in vitro human models are missing. This paper for the first time demonstrates that (1) human neoplastic livers possess a population of multipotent adult stem cells (MASCs) with properties of TAFs; (2) a population of MASC-derived TAFs is already present in cirrhotic, not yet neoplastic, livers; (3) MASCs isolated from nonneoplastic and noncirrhotic liver scan acquire a TAF phenotype when grown in a medium conditioned by tumor cell lines, supporting the notion that TAF could originate from resident primitive cells (MASCs), possibly through a paracrine mechanism.
+

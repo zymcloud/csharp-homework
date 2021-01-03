@@ -1,0 +1,4 @@
+25218345
+2014 Dec 28
+B cell CLL/lymphoma 6 member B (BCL6B) is a novel tumor suppressor silenced in human cancer. In this study, we investigated the functional role and underlying mechanisms of BCL6B in hepatocellular carcinoma (HCC). BCL6B was expressed in normal HCC tissues, but its expression was suppressed in 6 out of 9 HCC cell lines. Loss of BCL6B expression was associated with promoter hypermethylation. Ectopic expression of BCL6B in HepG2 and Huh7 cell lines inhibited colony formation (P
+B cell CLL/lymphoma 6 member B; Epigenetic alteration; Hepatocellular carcinoma; Tumor metastasis; Tumor suppressive gene.

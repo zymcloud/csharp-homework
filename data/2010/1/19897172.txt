@@ -1,0 +1,4 @@
+19897172
+2010 Jan
+Background and aims:This study assessed glucose metabolism via continuous intraoperative monitoring of blood glucose in patients undergoing hepatic resection.Methods:Thirty patients who underwent hepatic resection were enrolled. During hepatic resection, blood glucose concentration was continuously measured by an artificial pancreas.Results:Glucose concentrations followed a similar up-and-down pattern in all patients during the Pringle maneuver series. The concentration decreased marginally during the first clamping of the hepatoduodenal ligament but showed a rapid increase after unclamping. However, this increase declined with the number of Pringle cycles (P Conclusions:The present study showed a rapid and profound transition in glucose concentration during hepatic resection. The mechanism underlying the transition of blood glucose concentration may involve glycogen break down within hepatocytes because of hypoxia.
+

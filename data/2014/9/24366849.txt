@@ -1,0 +1,4 @@
+24366849
+2014 Sep 30
+Prostate cancer (PCa) is the most frequent cancer among men in many developing countries, and the second leading cause of cancer-related death in men. A genetic component has been implicated in PCa onset and development. The cerebellar degeneration-related autoantigen 1 (CDR1) gene, mapping in Xq26-q27.2, is expressed in cerebrum, cerebellum, heart, lung, liver, and kidney. In addition, CDR1 expression has been detected in neuroblastoma, renal carcinoma cell lines, and other cancer cell lines. In this study, we investigated the expression of the CDR1 gene in the LNCaP and PC-3 PCa cell lines, and in the PNT1A normal prostate cell line. CDR1 mRNA expression was evaluated by qRT-PCR. We found that the CDR1 gene was overexpressed in the LNCaP and PC-3 PCa cell lines as compared with the PNT1A normal prostate cell line. These data suggest that CDR1 could be a new biomarker for PCa identification.
+

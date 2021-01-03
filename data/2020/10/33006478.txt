@@ -1,0 +1,4 @@
+33006478
+2020 Oct
+Aim: There is little information in the literature regarding assays for measuring CDH17 in tissues. Numerous studies indicate overexpression of CDH17 in a variety of diseases including hepatocellular carcinoma, colorectal and gastric cancer. Here we present an immunoaffinity enrichment LC-MS/MS approach for analysis of CDH17 in human tissues, plasma and serum as well as preclinical models. Results: CDH17 levels were measured in colon and ileum tissues from healthy donors and inflamed tissues from patients with Ulcerative Colitus or Crohn's disease. Applicability of the immunocapture LC-MS/MS approach is demonstrated for colon tissues from non-diseased mouse and cynomolgus monkey. Conclusion: The analytical approaches discussed here are suitable for quantitation of CDH17 in various tissues to enable both preclinical and clinical assessment.
+CDH17; ELISA; extracellular domain; immunoaffinity enrichment; intracellular cytoplasmic tail.

@@ -1,0 +1,4 @@
+32687388
+2020 Sep
+Aim: To evaluate the prognostic role of EGFR mutations in patients with multi-site metastases from non-small-cell lung cancer (NSCLC). Patients & methods: A total of 215 advanced NSCLC patients with multi-site metastases were included. The overall survival (OS) was the primary end point. Results: EGFR tyrosine kinase inhibitors (TKIs) significantly improved the OS in patients with brain metastases (p = 0.031) and bone metastases (p = 0.048). Meanwhile, it prolonged the OS in patients with lung or adrenal metastases, but not in patients with liver metastases. However, in patients without liver metastases, EGFR TKIs significantly improved the OS (p < 0.001). Conclusion: EGFR TKIs improved the prognosis in NSCLC patients with brain, bone, lung and adrenal metastases, but not in patients with liver metastases.
+liver metastases; metastatic sites; non-small-cell lung carcinoma; prognosis; tyrosine kinase inhibitors.

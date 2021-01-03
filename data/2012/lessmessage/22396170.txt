@@ -1,0 +1,4 @@
+22396170
+2012
+Fibroblast growth factors (FGFs) and their cognate receptors, FGF receptors (FGFRs), play critical roles in a variety of normal developmental and physiological processes. Numerous reports support a role for deregulation of FGF-FGFR signaling, whether it is at the ligand and/or receptor level, in tumor development and progression. The FGF19-FGFR4 signaling axis has been implicated in the pathogenesis of several cancers, including hepatocellular carcinomas in mice and potentially in humans. This chapter focuses on recent progress in the understanding of the molecular mechanisms of FGF19 action and its potential involvement in cancer.
+

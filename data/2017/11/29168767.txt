@@ -1,0 +1,4 @@
+29168767
+2017 Nov 23
+Hepatocellular carcinoma (HCC) is the fifth most common cancer and the third leading cause of cancer death in the world. Hepatitis B virus (HBV) and its X gene-encoded protein (HBx) play important roles in the progression of HCC. Although long non-coding RNAs (lncRNAs) cannot encode proteins, growing evidence indicates that they play essential roles in HCC progression, and contribute to cell proliferation, invasion and metastasis, autophagy, and apoptosis by targeting a large number of pivotal protein-coding genes, miRNAs, and signaling pathways. In this review, we briefly outline recent findings of differentially expressed lncRNAs in HBV-related HCC, with particular focus on several key lncRNAs, and discuss their regulation by HBV/HBx, their functions, and their underlying molecular mechanisms in the progression of HCC.
+HBV; HBx; HCC; apoptosis; autophagy; epithelial-mesenchymal transition; invasion and metastasis; lncRNAs; proliferation.

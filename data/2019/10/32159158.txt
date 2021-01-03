@@ -1,0 +1,4 @@
+32159158
+2019 Oct 25
+To overcome the dilemma between passive tissue targeting and active cell targeting, nanomaterials are often required to exhibit the transition from 'stealth' to 'active targetable' in response to the pathological microenvironment. Here, we introduced a ternary surface modification method that incorporating active targeting ligand lactobionic acid with pH-sensitive mixed-charge surface. The resulted mixed-charge gold nanoparticles (LA@MC-GNPs) showed resistance to non-specific adsorption of proteins and uptake by HepG2 cells at normal tissue pH 7.4, while they underwent pH-sensitive aggregation and recovered active targeting capability at tumor acidic pH 6.5. The ternary surface modification method provided a simplest strategy to solve the dilemma between passive and active targeting of nanomedicine.
+Active targeting; Antifouling; Mixed-charge; pH sensitivity.

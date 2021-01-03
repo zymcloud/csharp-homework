@@ -1,0 +1,4 @@
+22627138
+2012 Jun 22
+We identified the interaction between HBV X (HBx) protein and the oncogene AIB1 (amplified in breast cancer 1). A serine/proline motif (SSPSPS) in HBx was found to be required for the interaction. Two LXD motifs [LLXX(X)L, X means any amino acids], LLRNSL and LLDQLHTLL in AIB1 were also found to be involved in the HBx-AIB1 interaction. The HBx-AIB1 interaction was important for the activation of NFκB signal transduction, the HBx mutant that did not interact with AIB1showed dramatically lower NFκB activation activity than the WT HBx. These findings contribute to the new understanding on signal transduction activation mechanisms of HBx.
+

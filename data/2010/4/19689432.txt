@@ -1,0 +1,4 @@
+19689432
+2010 Apr 9
+A dimeric 64 kDa HA (haemagglutinin) was isolated with a high yield from dried Phaseolus vulgaris cultivar 'French bean number 35' seeds. It inhibited the proliferation of hepatoma HepG2 cells and breast cancer MCF-7 cells with an IC50 of 100 and 2 microM respectively. After exposure of MCF-7 cells to the HA for 24 h, a number of changes were detected in the cells. Growth arrest in the G0/G1 and G2/M phases was observed. The number of cells undergoing early apoptosis and late apoptosis increased. Disruption of the mitochondrial transmembrane potential and disorganization of the inner mitochondrial membrane were induced. Western-blot analysis disclosed that the HA induced apoptosis through the death receptor-mediated pathway.
+

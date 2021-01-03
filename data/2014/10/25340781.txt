@@ -1,0 +1,4 @@
+25340781
+2014 Oct 23
+Emerging evidence showed miR499a could not only function as an oncogene but also as a tumor suppressor in various types of cancer, such as melanoma. However, whether miR499a was involved in hepatocarcinogenesis remains unknown. We previously reported that miR499a was up-regulated in HBV-mediated hepatocellular carcinoma (HCC). In this study, we found that HBV could induce the expression of miR499a by promoting its promoter activity. In addition, we reported that miR499a increased cell proliferation and cell migration of HCC cells. MAPK6 was further identified as a target of miR499a, which could also be down-regulated by HBV. Moreover, we demonstrated that MAPK6 could rescue the cell growth induced by miR499a and HBV. These findings indicated that miR499a might play an oncogene role by targeting MAPK6 in the development and progression of HBV-related HCC.
+

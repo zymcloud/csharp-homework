@@ -1,0 +1,4 @@
+33123287
+2020 Oct 12
+Long noncoding RNAs (lncRNAs) have been wildly explored in various cellular processes and their aberrant expression could lead to tumorigenesis, development and progression. Differentiation antagonizing non-protein coding RNA (DANCR), a well-known lncRNA that is aberrant expression in various tumors, including hepatocellular carcinoma, gastric cancer, colorectal cancer, breast cancer, lung cancer and glioma and so on, in which it functions as oncogene mainly, contributing to cancer development and progression. High expressed DANCR is correlated with poor prognosis. In the present review, we summarize recent progression concerning the role, potential clinical utilities and underlying molecular mechanisms of DANCR related to occurrence and development of multiple cancers.
+DANCR; biomarker; long noncoding RNA; therapeutic target.

@@ -1,0 +1,4 @@
+21557022
+2011 Jun
+Due to the imaging of dynamic perfusion, hepatocellular carcinoma can be detected with a sensitivity of >90% using contrast-enhanced sonography. The characterization of liver tumors with contrast-enhanced sonography is comparable to the diagnostic accuracy of contrast-enhanced computed tomography. The dynamic detection of microvascularization with contrast-enhanced sonography allows the differentiation between vascularized tumors and non-vascularized necrotic lesions before, during and after transarterial chemoembolization or percutaneous radiofrequency ablation. Image fusion with volume navigation can be useful in the followup control.
+

@@ -1,0 +1,4 @@
+23291979
+2013 Mar
+MicroRNA-372 (miR-372) has been demonstrated to play a crucial role in cellular proliferation and apoptosis of cancer cells. However, its effects in hepatocellular carcinoma (HCC) have not been explored. The aim of this study was to investigate the clinical significance of miR-372 in human HCC. Quantitative RT-PCR was performed to detect miR-372 expression in HCC clinical samples and cell lines. Then, Kaplan-Meier and Cox proportional regression analyses were performed to determine the association of miR-372 expression with survival of HCC patients. Moreover, the effects of miR-372 on tumorigenicity of HCC cell lines were evaluated by in vitro assays. miR-372 expression in HCC tissues was significantly higher than in the corresponding normal adjacent liver tissues (P
+

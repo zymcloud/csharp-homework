@@ -1,0 +1,4 @@
+32616189
+2020 Jul
+Adriamycin resistance in HCC seriously hinders the treatment of patients, it is necessary to investigate the mechanisms. Autophagy is involved in adriamycin resistance and JNK2 is related to autophagy. However, whether JNK2 inducing drug resistance though autophagy is unknown. GL-V9, a new synthesized flavonoid derivative, has been proved of its anti-tumor effects. The aim of the study is to explore the role of JNK2-related autophagy on adriamycin-induced drug resistance and the effects of GL-V9 on reversing adriamycin resistance. We concluded that JNK2 played an important role in drug resistance induced by adriamycin. The high expression of JNK2 activated protective autophagy in Hep G2-DOXR cells under non-stress condition, which protected cells from drug attacking. Furthermore, we found that GL-V9 reversed adriamycin resistance by blocking the JNK2-related protective autophagy in HCC.
+Autophagy; Drug resistance; GL-V9; JNK2.

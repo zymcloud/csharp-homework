@@ -1,0 +1,4 @@
+29864897
+2018 Jul
+Hepatocellular carcinoma (HCC) is one of the common malignant cancer worldwide, and its molecular pathogenesis remains elusive and recently long non-coding RNAs (lncRNAs) have been reported that play divergent roles in HCC tumorigenesis and development. In current study, we found a lncRNA, CRNDE is more commonly up-regulated in HCC malignant tissues and associated with poor clinical outcomes. Furthermore, both loss- and gain-functions assays revealed that CRNDE promotes HCC cell proliferation and growth in vitro and in vivo. In addition, we found that CRNDE regulates PI3K/Akt/GSK3β-Wnt/β-catenin axis to exert its oncogenic role in HCC cell proliferation and growth. In conclusion, our findings enlarged our knowledge in the roles of lncRNAs in the progression of HCC and CRNDE as a lncRNA could be a novel target for HCC treatment.
+CRNDE; HCC; Long non-coding RNA; PI3K/Akt/GSK3β; Proliferation and growth; Wnt/β-catenin.

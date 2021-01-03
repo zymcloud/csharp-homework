@@ -1,0 +1,4 @@
+25982956
+2015 Jun 15
+A synthetic method to prepare 3a,6-methanoisoindole esters efficiently by gold(I)-catalyzed tandem 1,2-acyloxy migration/Nazarov cyclization followed by Diels-Alder reaction of 1,4,9-dienyne esters is described. We also report the ability of one example to inhibit binding of tumor necrosis factor-α (TNF-α) to the tumor necrosis factor receptor 1 (TNFR1) site and TNF-α-induced nuclear factor κ-light-chain-enhancer of activated B cells (NF-κB) activation in cell at a half-maximal inhibitory concentration (IC50 ) value of 6.6 μM. Along with this is a study showing the isoindolyl derivative to exhibit low toxicity toward human hepatocellular liver carcinoma (HepG2) cells and its possible mode of activity based on molecular modeling analysis.
+alkynes; cycloisomerization; cytokine antagonists; gold; homogeneous catalysis.

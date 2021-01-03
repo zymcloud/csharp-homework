@@ -1,0 +1,4 @@
+26865127
+2016
+Hepatocellular carcinoma (HCC) is a fatal disease with rising incidence in the world. For advanced HCC, sorafenib, a multikinase inhibitor, is the only systemic therapy with proven survival benefits. Sorafenib is a pan-VEGF receptor inhibitor, and thus many studies have focused its antivascular effects. But VEGF also acts as an immunosuppressive molecule. VEGF can inhibit maturation of dendritic cells, promote immune suppressive cell infiltration and enhance immune checkpoint molecules expression. On the other hand, potent VEGF inhibition may increase tumor hypoxia, which could hinder antitumor immunity or immunotherapy. Thus, achieving synergy when combining anti-VEGF therapy with immunotherapy may require proper polarization of the tumor microenvironment by dose titration or combination with other immunomodulating agents.
+CTLA-4; LAG-3; PD-1; PD-L1; TIM-3; VEGF; VEGFR2; hepatocellular carcinoma; immune checkpoint.

@@ -1,0 +1,4 @@
+26469082
+2015 Oct 15
+Growing evidence has revealed high expression levels of stanniocalcin-1 (STC1) in different types of human cancers. Numerous experimental studies using cancer cell lines demonstrated the involvement of STC1 in inflammatory and apoptotic processes; however the role of STC1 in carcinogenesis remains elusive. Hepatocellular carcinoma (HCC) an exemplified model of inflammation-related cancer, represents a paradigm of studying the association between STC1 and tumor development. Therefore, we conducted a statistical analysis on the expression levels of STC1 using clinicopathological data from 216 HCC patients. We found that STC1 was upregulated in the tumor tissues and its expression levels was positively correlated with the levels of interleukin (IL)-6 and IL-8. Intriguingly tumors with greater expression levels of STC1 (tumor/normal ≥ 2) were significantly smaller than the lower level (tumor/normal
+

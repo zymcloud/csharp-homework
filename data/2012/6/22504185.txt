@@ -1,0 +1,4 @@
+22504185
+2012 Jun
+MicroRNAs are small noncoding RNA molecules that regulate gene expression posttranscriptionally through complementary base pairing with thousands of messenger RNAs. They regulate diverse physiological, developmental, and pathophysiological processes. Recent studies have uncovered the contribution of microRNAs to the pathogenesis of many human diseases, including liver diseases. Moreover, microRNAs have been identified as biomarkers that can often be detected in the systemic circulation. We review the role of microRNAs in liver physiology and pathophysiology, focusing on viral hepatitis, liver fibrosis, and cancer. We also discuss microRNAs as diagnostic and prognostic markers and microRNA-based therapeutic approaches for liver disease.
+

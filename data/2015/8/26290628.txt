@@ -1,0 +1,4 @@
+26290628
+2015 Aug 14
+Hepatocellular carcinoma (HCC) is the predominant form of primary liver cancer and represents the third leading cause of cancer-related death worldwide. Current available therapeutic approaches are poorly effective, especially for the advanced forms of the disease. In the last year, short double stranded RNA molecules termed small interfering RNAs (siRNAs) and micro interfering RNAs (miRNA), emerged as interesting molecules with potential therapeutic value for HCC. The practical use of these molecules is however limited by the identification of optimal molecular targets and especially by the lack of effective and targeted HCC delivery systems. Here we focus our discussion on the most recent advances in the identification of siRNAs/miRNAs molecular targets and on the development of suitable siRNA/miRNAs delivery systems.
+Delivery; Hepatocellular carcinoma; Micro interfering RNA; Small interfering RNA; Therapeutic potential.

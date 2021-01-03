@@ -1,0 +1,4 @@
+26424075
+2015 Oct 1
+Hepatocellular carcinoma (HCC) is the second-leading cause of cancer-related death worldwide, and the factors influencing HCC progression are poorly understood. Here we reveal that HCC progression via induction of epithelial-mesenchymal transition (EMT) is closely associated with the expression of CD36/fatty acid translocase and elevated free fatty acid (FFA) levels. Although obesity is manifested as elevated FFA levels, the degree of EMT was not associated with the body mass index of the patients, highlighting the specific roles of CD36 and FFA uptake. Treatment of human liver cancer cell lines with FFAs exacerbated the EMT phenotype, whereas chemical inhibition of CD36 mitigated these effects. Furthermore, the Wnt and TGF-β signaling pathways were activated upon FFA treatment, potentially acting as upstream activators of the EMT program. These results provide the first direct evidence associating CD36 and elevated FFAs with HCC progression.
+

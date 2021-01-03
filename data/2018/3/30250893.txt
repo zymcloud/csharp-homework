@@ -1,0 +1,4 @@
+30250893
+2018 Mar 13
+Non-alcoholic fatty liver disease (NAFLD) is the most common chronic liver disease and is the major risk factor leading to hepatocellular carcinoma (HCC). Cisd2 haploinsufficiency in mice causes NAFLD by disrupting Ca2+ homeostasis, indicating that CISD2 is a molecular target for the treatment of NAFLD and the prevention of HCC.
+CISD2; ER stress; Serca2b; calcium homeostasis; haploinsufficiency; hepatocellular carcinoma; nonalcoholic fatty liver disease; tumor suppressor gene.

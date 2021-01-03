@@ -1,0 +1,4 @@
+22982119
+2012 Oct
+Obatoclax is a linear oligopyrrole compound which antagonizes the antiapoptotic effects of the Bcl-2 family. Herein we describe the synthesis of obatoclax derivatives by replacement of the pyrrole and indole ring of obatoclax with thiophene, furan and thiazolidinedione. The in vitro cytotoxicity of the newly synthesized compounds is evaluated against hepatocellular carcinoma cells. Pyrrole and indole substituents of obatoclax analogues exhibited potent inhibition of cell growth. Among the tested compounds, 5d and 5e were active at 6.3 and 13.2 μM against PLC5 cells. Further assays confirmed a correlation between cell death, and p-STAT3 inhibition and SHP-1 activation by these analogues.
+

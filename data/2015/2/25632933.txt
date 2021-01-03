@@ -1,0 +1,4 @@
+25632933
+2015 Feb
+Alcoholic liver disease (ALD) is characterized by hepatocyte damage, inflammatory cell activation and increased intestinal permeability leading to the clinical manifestations of alcoholic hepatitis. Selected members of the family of microRNAs are affected by alcohol, resulting in an abnormal miRNA profile in the liver and circulation in ALD. Increasing evidence suggests that mRNAs that regulate inflammation, lipid metabolism and promote cancer are affected by excessive alcohol administration in mouse models of ALD. This communication highlights recent findings in miRNA expression and functions as they relate to the pathogenesis of ALD. The cell-specific distribution of miRNAs, as well as the significance of circulating extracellular miRNAs, is discussed as potential biomarkers. Finally, the prospects of miRNA-based therapies are evaluated in ALD.
+

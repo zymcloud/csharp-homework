@@ -1,0 +1,4 @@
+21906871
+2011 Dec 15
+xCT, the functional subunit of the system x(c)(-) which plays an important role in maintaining intracellular glutathione (GSH) levels, is expressed in various malignant tumors. Here, we demonstrated that xCT expression is often elevated in HCC and is associated with poor prognosis in HCC patients; moreover, disruption of xCT suppressed HCC cell growth both in vitro and in vivo. xCT dysfunction has also been shown to increase intracellular reactive oxygen species (ROS) levels, thus in turn led to autophagic cell death of HCC cells. Taken together, these findings suggest that xCT may be a promising therapeutic target for human HCC.
+

@@ -1,0 +1,4 @@
+24212770
+2011 Mar 24
+Hepatocellular carcinoma (HCC) is the most common primary malignant tumor of the liver. Detection of HCC can be difficult, as most of the patients who develop this tumor have no symptoms other than those related to their longstanding liver disease. There is an urgent need to understand the molecular mechanisms that are responsible for the development of this disease so that appropriate therapies can be designed. Methionine adenosyltransferase (MAT) is an essential enzyme required for the biosynthesis of S-adenosylmethionine (AdoMet), an important methyl donor in the cell. Alterations in the expression of MAT genes and a decline in AdoMet biosynthesis are known to be associated with liver injury, cirrhosis and HCC. This review focuses on the role of MAT genes in HCC development and the scope for therapeutic strategies using these genes.
+

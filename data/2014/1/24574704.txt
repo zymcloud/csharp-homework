@@ -1,0 +1,4 @@
+24574704
+2014 Jan 14
+Hepatocellular carcinoma (HCC), the predominant form of adult liver malignancies, is a global health concern. Its dismal prognosis has prompted recent significant advances in the understanding of its etiology and pathogenesis. The deregulation of epigenetic mechanisms, which maintain heritable gene expression changes and chromatin organization, is implicated in the development of multiple cancers, including HCC. This review summarizes the current knowledge of epigenetic mechanisms in the pathogenesis of HCC, with an emphasis on HCC mediated by chronic hepatitis B virus infection. This review also discusses the encouraging outcomes and lessons learnt from epigenetic therapies for hematological and other solid cancers, and highlights the future potential of similar therapies in the treatment of HCC.
+DNA methylation; Epigenetics; Hepatocellular carcinoma; Histone modification; lncRNA; miRNA.

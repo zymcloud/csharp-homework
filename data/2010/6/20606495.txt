@@ -1,0 +1,4 @@
+20606495
+2010 Jun
+Infection of hepatitis B virus (HBV) is a main cause of liver diseases including hepatitis, cirrhosis and hepatocellular carcinoma (HCC). Among the HBV-encoded proteins, the HBV X protein (HBx) has been suspected to be strongly involved in HBV-associated liver pathogenesis. HBx, a virally encoded multifunctional regulator, has been shown to induce apoptosis, anti-apoptosis, proliferation, and transformation of cells depending on the cell lines, model systems used, assay protocols, and research groups. Among the several activities of HBx, the pro-apoptotic function of HBx will be discussed in this review. Given that the disruption of apoptosis pathway by HBx contributes to the liver pathogenesis, a better understanding of the molecular interference in the cellular pro-apoptotic networks by HBx will provide useful clues for the intervention in HBV-mediated liver diseases.
+

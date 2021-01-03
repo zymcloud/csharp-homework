@@ -1,0 +1,4 @@
+19897424
+2010 Aug
+The effectiveness of the delivery of small charged molecules, including anticancer drugs into MH22 hepatoma cells in vitro was investigated. It was shown that for each kind of small molecules one can find a specific set of pulse strength-duration combinations that define electrotransfer of chosen compounds into the same amount of electroporated cells. Analysis of experimental data from the point of theory of hydrophilic aqueous pores and the estimation of the contribution of the electrostatic Born's energy to the change in free energy suggests that the main factors defining small molecules transfer through the membrane are: the charge and size of molecules, the permittivities of external medium, membrane material, and the electropores respectively as well as the size of electropores. The joint impact of all mentioned factors on transfer efficiency is essential.
+

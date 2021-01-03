@@ -1,0 +1,4 @@
+25421632
+2015
+Compound 1, a triterpenoid saponin from Ardisia gigantifolia Stapf showing potential anti-tumour activity, was hydrolysed into two deglycosyl derivatives (2 and 3) by Alternaria alternata AS 3.6872. Both these derivatives are new compounds. Their structures were elucidated on the basis of 1D, 2D NMR, HR-ESI-MS and optical rotation spectral data. Compounds 1-3 were evaluated for their cytotoxicity against human hepatocellular carcinoma and normal liver cells by Cell Counting Kit 8 colorimetric assay.
+Alternaria alternata AS 3.6872; Ardisia gigantifolia Stapf; biotransformation; triterpenoid saponin.

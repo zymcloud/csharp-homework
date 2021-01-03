@@ -1,0 +1,4 @@
+21427632
+2011 Jun 15
+Effects of immunosuppressive drug on tumor development in transplantation are understudied. Tumors are especially concerning when liver transplantation recipients have a pretransplant hepatocellular carcinoma (HCC). Because immunosuppressive drugs likely influence HCC recurrence, with mammalian target of rapamycin inhibitors showing antineoplastic properties especially experimentally, we sought for practical medical guidance from published clinical studies. Although the current literature review revealed 14 studies regarding immunosuppression in this context, suggesting antitumor effects for mammalian target of rapamycin inhibitors, the quality of evidence is low. Therefore, randomized controlled trials investigating effects of immunosuppression on HCC recurrence in liver transplantation are lacking, exposing a gap between basic science knowledge and clinical evidence.
+

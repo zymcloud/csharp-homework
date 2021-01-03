@@ -1,0 +1,4 @@
+31973229
+2020 Jan 21
+Hepatocellular carcinoma (HCC) is the sixth most common cancer and the third highest cause of mortality from cancer, largely because of delays in diagnosis. There is currently no effective therapy for advanced stage HCC, although sorafenib, the standard treatment for HCC, systemic therapy (including tyrosine kinase inhibitors and anti-angiogenesis agents), and more recently, immunotherapy, have demonstrated some survival benefit. The measurement and modification of extracellular vesicle (EVs) cargoes-composed of nucleic acids, including miRNAs, proteins, and lipids-holds great promise for future HCC diagnosis, prognosis, and treatment. This review will provide an overview of the most recent findings regarding EVs in HCC, and the possible future use of EVs as "liquid biopsy"-based biomarkers for early diagnosis and as a vehicle for targeted drug-delivery.
+drug delivery; extracellular vesicles; hepatocellular carcinoma; liquid biopsy.

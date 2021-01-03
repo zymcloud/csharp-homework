@@ -1,0 +1,4 @@
+22333546
+2011 Nov 1
+Objective:To explore the clinical therapeutic efficacies of combined three-dimensional conformal radiotherapy (3DCRT) plus transcatheter arterial chemoembolization (TACE) for portal vein tumor thrombus (PVTT) in hepatocellular carcinoma (HCC).Methods:A total of 145 HCC patients with tumor thrombus in portal vein were divided randomly into 2 groups. Group A (n = 64) was treated with surgical intervention alone while group B (n = 81) underwent 3DCRT plus TACE. The gross tumor volume (GTV) was defined as PVTT only.Results:Survival rates of group A at year 1 and 2 were 40.3% and 21.9% with a mean survival time (MST) of 15.2 months while that of group B were 41.2% and 22.5% with a MST of 15.8 months. The total effective rates of groups A and B was 40.6% (28/64) and 44.4% (36/81) respectively.Conclusion:The therapeutic efficacy of 3DCRT plus TACE is similar to that of surgical intervention.
+

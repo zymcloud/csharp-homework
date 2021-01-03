@@ -1,0 +1,4 @@
+30394104
+2019 Aug
+Microarray expression profiles of lncRNAs and mRNAs were investigated in HepG2 cells treated with 20 μg/ml ginsenoside Rh2 as well as in ginsenoside Rh2-untreated cells. Microarray analysis showed 618 upregulated lncRNAs and 161 downregulated lncRNAs in HepG2 cells treated with ginsenoside Rh2 compared with the control group. Moreover, three differentially expressed lncRNAs were validated by quantitative real-time polymerase chain reaction (qRT-PCR). This may be beneficial to patients as an anti-cancer treatment and potentially provide novel targets for HCC (hepatocellular carcinoma) therapy.
+HepG2; Long non-coding RNA; gene expression profile; ginsenoside Rh2; hepatocellular carcinoma.

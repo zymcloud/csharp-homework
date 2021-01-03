@@ -1,0 +1,4 @@
+29186115
+2017 Dec 7
+Transfer-RNA-derived small RNAs (tsRNAs; also called tRNA-derived fragments) are an abundant class of small non-coding RNAs whose biological roles are not well understood. Here we show that inhibition of a specific tsRNA, LeuCAG3'tsRNA, induces apoptosis in rapidly dividing cells in vitro and in a patient-derived orthotopic hepatocellular carcinoma model in mice. This tsRNA binds at least two ribosomal protein mRNAs (RPS28 and RPS15) to enhance their translation. A decrease in translation of RPS28 mRNA blocks pre-18S ribosomal RNA processing, resulting in a reduction in the number of 40S ribosomal subunits. These data establish a post-transcriptional mechanism that can fine-tune gene expression during different physiological states and provide a potential new target for treating cancer.
+

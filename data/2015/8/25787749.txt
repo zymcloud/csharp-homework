@@ -1,0 +1,4 @@
+25787749
+2015 Aug
+Hepatocellular carcinoma (HCC) is one of the most common malignancies with a poor response to chemotherapy. It is very important to identify novel therapeutic targets. Squalene epoxidase (SQLE), one of the rate-limiting enzymes in the cholesterol biosynthesis, recently has been found to be involved in the tumorigenesis. However, its expression profile and function in the progression of HCC remain largely unknown. Here, we found that the expression of SQLE was upregulated in the HCC tissues. Moreover, overexpression of SQLE in HCC cells promoted cell proliferation and migration, while downregulation of SQLE inhibited the tumorigenicity of HCC cells in vitro and in vivo. Mechanistically, SQLE positively regulated the ERK signaling. Taken together, our study suggests that SQLE is a promising therapeutic target in HCC.
+

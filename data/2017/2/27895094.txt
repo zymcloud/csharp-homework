@@ -1,0 +1,4 @@
+27895094
+2017 Feb
+MicroRNA-122 (miR-122) is liver specific and plays an important role in physiology as well as diseases including hepatocellular carcinoma (HCC). Downregulation of miR-122 in HCC modulates apoptosis. Similarly, the putative targets of miR-122, the forkhead box (FOX) family genes also play an important role in the regulation of apoptosis. Hence, an interplay between miR-122 and FOX family genes has been explored in this study. Initially, an augmentation of apoptosis was noticed in HepG2 cells after transfection with miR-122. Further, the predicted miR-122 targets, the FOX family genes ( FOXM1b, FOXP1, and FOXO4) were selected via in silico analysis based on their role in apoptosis. We checked the expression of all these genes at transcript level after the transfection of miR-122 and found that the relative expression of FOXP1 and FOXM1b was significantly downregulated (p
+Fox family genes; apoptosis; hepatocellular carcinoma; microRNA-122.

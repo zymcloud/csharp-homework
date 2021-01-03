@@ -1,0 +1,4 @@
+31595729
+2019 Nov.
+Hepatocellular carcinoma (HCC) is one of the most common types of liver cancer and is the second leading cause of cancer mortality with an estimated 745 500 deaths annually (Jemal et al., 2011). Although new therapeutic modalities including novel chemotherapeutic interventions and targeted therapy have been applied, the prognosis of HCC patients remains unsatisfactory due to the high incidence of intrahepatic and distal metastases (Siegel et al., 2018).
+miR-210; The Cancer Genome Atlas (TCGA); Hepatocellular carcinoma (HCC); Hypoxia; prognostic biomarker.

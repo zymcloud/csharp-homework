@@ -1,0 +1,4 @@
+26184404
+2015 Jul 17
+Ribosome-inactivating proteins (RIPs) belong to a family of enzymes that attack eukaryotic ribosomes and potently inhibit cellular protein synthesis. RIPs possess several biomedical properties, including anti-viral and anti-tumor activities. Multiple RIPs are known to inhibit tumor cell proliferation through inducing apoptosis in a variety of cancers, such as breast cancer, leukemia/lymphoma, and hepatoma. This review focuses on the anti-tumor activities of RIPs and their apoptotic effects through three closely related pathways: mitochondrial, death receptor, and endoplasmic reticulum pathways.
+

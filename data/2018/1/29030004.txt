@@ -1,0 +1,4 @@
+29030004
+2018 Jan
+Tumor-associated macrophages (TAMs) are well accepted and the pathological role of macrophages in hematopoietic malignancies have been proposed. Hepatomegaly is frequently observed in T cell acute lymphoblastic leukemia (T-ALL) patients with poor prognosis. However, the role of leukemia-associated macrophages (LAMs) in hepatic microenvironment remains unclear. Here, the characteristics of hepatic LAMs (H-LAMs) were studied in Notch1 induced T-ALL model. Increase in proportion and absolute counts of H-LAMs was detected with infiltration of inflammatory cells. Furthermore, H-LAMs exhibited a more M1-like phenotype distinct from that of TAMs in hepatocellular carcinoma and LAMs from BM or spleen in leukemia. Moreover, H-LAMs expressed increased level of cytokines in charge of recruiting inflammatory cells, which contributed to pro-inflammatory hepatic microenvironment.
+Hepatic leukemia-associated macrophages; Hepatomegaly; M1 polarization; iNOS.

@@ -1,0 +1,4 @@
+25740822
+2015 Apr
+A major etiological risk factor for hepatocellular carcinoma (HCC) is infection by Hepatitis viruses, especially hepatitis B virus and hepatitis C virus. Hepatitis B virus and hepatitis C virus do not cause aggressive activation of an oncogenic pathway, but they transactivate a broad array of genes, cause chronic inflammation, and, through interference with mitotic processes, lead to mitotic error-induced chromosome instability (ME-CIN). However, how ME-CIN is involved in the development of HCC remains unclear. Delineating the effect of ME-CIN on HCC development should help in identifying measures to combat HCC. In this study, we used ME-CIN model mice haploinsufficient in Shugoshin 1 (Sgo1(-/+)) to assess the role of ME-CIN in HCC development. Treatment with the carcinogen azoxymethane caused Sgo1(-/+) ME-CIN model mice to develop HCCs within 6 months, whereas control mice developed no HCC (P
+

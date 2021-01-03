@@ -1,0 +1,4 @@
+24155390
+2014 Jan
+We previously reported that exosomal transfer of hepatitis C virus (HCV) positive-strand RNA from human Huh-7 hepatoma cells to human plasmacytoid dendritic cells (pDCs) triggers pDC alpha/beta interferon (IFN-α/β) production in a Toll-like receptor 7 (TLR7)-dependent, virus-independent manner. Here we show that human pDCs are also activated by a TLR7-dependent, virus-independent, exosomal RNA transfer mechanism by human and mouse hepatoma and nonhepatoma cells that replicate the negative-strand lymphocytic choriomeningitis virus (LCMV).
+

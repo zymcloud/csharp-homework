@@ -1,0 +1,4 @@
+33031259
+2020 Oct 9
+It is controversial regarding the treatment allocation for patients with stage I hepatocellular carcinoma (SI-HCC). The aim of the present study was to compare the long-term survival in SI-HCC patients undergoing liver transplantation (LT), liver resection (LR), local tumor destruction (LTD), or none. SI-HCC patients diagnosed between 2004 and 2015 were extracted from the SEER 18 registry database. Multivariable Cox models and propensity score matching (PSM) method were used to explore the association between surgical methods and long-term prognosis. A total of 5165 patients with stage I (AJCC, 6th or 7th) HCC were included in the study. Only 36.9% of patients diagnosed with HCC in stage I received surgical therapy. The incidence of LT was decreased over time (P
+

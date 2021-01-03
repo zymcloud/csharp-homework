@@ -1,0 +1,4 @@
+21519973
+2011 Aug
+Background:Bile leakage is the most common complication after hepatectomy and its incidence is not declining. The aim of the present study was to identify predictive factors for bile leakage.Methods:Clinical data from 505 consecutive patients who underwent hepatectomy without extrahepatic bile duct resection in our department between January 2006 and December 2009 were reviewed retrospectively.Results:The incidence of bile leakage was found to be 6.7%. Multivariate analysis identified three independent factors that were significantly correlated with the occurrence of bile leakage: (1) repeat hepatectomy (P = 0.002; odds ratio [OR] 3.439; 95% confidence interval [CI] 1.552-7.618), (2) a cut surface area ≥57.5 cm(2) (P = 0.004; OR 5.296; 95% CI 1.721-16.302), and (3) intraoperative blood loss ≥775 ml (P = 0.01; OR 2.808; 95% CI 1.280-6.160).Conclusion:More meticulous management is needed to prevent bile leakage in high-risk patients.
+

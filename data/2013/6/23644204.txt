@@ -1,0 +1,4 @@
+23644204
+2013 Jun
+A series of enmein-type diterpenoid analogs (11-20) derived from natural kaurene-type diterpenoid oridonin were synthesized and biologically evaluated. All target compounds showed improved anti-proliferative activities against four human cancer cell lines compared with natural oridonin and parent compound 10. Some compounds were more potent than positive control Taxol. Furthermore, mechanistic investigation showed that the representative compound 17 affected cell cycle and induced apoptosis at low micro-molar level in human hepatoma Bel-7402 cells, via an oxidative stress triggered mitochondria-related caspase-dependent pathway.
+

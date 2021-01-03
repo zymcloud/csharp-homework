@@ -1,0 +1,4 @@
+26535689
+2015 Oct 29
+A number of previous studies have demonstrated that the HFE H63D polymorphism is associated with increased risk of incidence multiple types of cancer, including colorectal cancer, breast cancer, liver cancer, pancreatic cancer, and gynecological malignant tumors. However, the clinical outcomes were inconsistent. Therefore, this meta-analysis was conducted to summarize the effect of the H63D variant on the incidence of solid tumor. PubMed and EMBASE databases were searched for articles associating the HFE H63D polymorphism with cancer risk. The relationships were evaluated by calculating the pooled odds ratios (ORs) with 95% confidence intervals (CIs). A total of 28 studies, including 7728 cancer cases and 11,895 controls, were identified. Statistically significant associations were identified between the HFE H63D polymorphism and solid cancer risk (CG vs CC, OR = 1.14, 95%CI = 1.07-1.23, P
+

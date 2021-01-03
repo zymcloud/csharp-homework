@@ -1,0 +1,4 @@
+27698809
+2016 Oct
+Deregulated expression of C-terminal-binding protein 2 (CTBP2) has been observed previously in a number of tumors, such as hepatocellular carcinoma and prostatic cancer, in the colorectal cancer SW480 cell line and in the human embryonic kidney 293 cell line. In the present study, western blot analysis and immunohistochemistry were performed to investigate whether gliomas exhibit deregulated CTBP2 expression. Kaplan-Meier survival analyses were performed to evaluate the associations between CTBP2 expression, clinicopathological data and patient survival in glioma patients. The results revealed that CTBP2 expression was significantly upregulated in high grade glioma tissues compared with that in low grade glioma and normal brain tissues. Furthermore, increased CTBP2 expression in gliomas was significantly associated with a higher World Health Organization (WHO) tumor grade (P
+CTBP2; clinical significance; expression; gliomas.

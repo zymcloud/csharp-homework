@@ -1,0 +1,4 @@
+21207082
+2011 May
+Raf1 kinase is a central component of many signaling pathways that are involved in normal cell growth and oncogenic transformation. The expression of Raf1 is significantly increased in hepatocellular carcinoma (HCC). HBV is a major risk factor for HCC. HBx protein can increase the expression of Raf1; however, the mechanism of how HBV regulates Raf1 expression is still unknown. In this study, we showed the Raf1 expression was significantly higher in HepG2.2.15 cells than that in HepG2 cells in vitro. HBV could up-regulate Raf1 expression by enhancing the activity of its promoter in a dose-dependent manner, and HBs and HBx may be involved in this process. After silencing HBs and HBx by using RNA interference, the expression of Raf1 in HepG2.2.15 cells could be significantly inhibited. These results might provide useful information for understanding the mechanism of HCC induced by HBV infection.
+

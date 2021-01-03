@@ -1,0 +1,4 @@
+25469305
+2015 Jan
+Hepatocellular carcinoma (HCC) is an aggressive malignant tumor with a high mortality rate. The optimal therapeutic choice for early HCC is surgical resection. However, the rate of intrahepatic recurrence is high. The objective of this study was to evaluate the effect of various factors on the survival of patients with early HCC. Between January 1st, 2006 and December 31st, 2013, a total of 89 patients who underwent surgery for HCC were retrospectively enrolled. The analysis was conducted using the Student's t-test, Chi-square test, Kaplan-Meier method and Cox proportional hazard regression model to assess potential confounding and predictive variables. The 3-year overall survival (OS) rate was 71%. The 3-year OS rates in patients with and those without vascular invasion were 62.1 and 92.8%, respectively (P
+hepatocellular carcinoma; surgery; vascular invasion.

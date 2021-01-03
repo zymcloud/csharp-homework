@@ -1,0 +1,4 @@
+29616093
+2018 May
+The aims of the present study were to identify the expression profile of microRNA (miR)-143/145 in hepatitis B virus (HBV)-associated hepatocellular carcinoma (HCC), explore its association with prognosis and investigate whether the serum miR-143/145 expression levels may serve as a diagnostic indicator of HBV-associated HCC. The microRNA (miRNA) chromatin immunoprecipitation dataset was obtained from The Cancer Genome Atlas (TCGA) and the Gene Expression Omnibus databases, and analyzed using the Wilcoxon signed-rank test. It was observed that the expression of miR-143 and miR-145 was decreased 1.5-fold in HBV-associated HCC samples compared with non-tumor tissue in the TCGA and the GSE22058 datasets (P
+hepatitis B virus-associated hepatocellular carcinoma; histological differentiation; microRNA-143/145; tumorigenesis.

@@ -1,0 +1,4 @@
+31035531
+2019 Apr 26
+A series of new thiazoline derivatives were synthesized. Structure analyses were accomplished employing 1H-NMR, 13C-NMR, X-ray and MS techniques. The in vitro antitumor activities were assessed against human hepatocellular carcinoma (HepG-2) and colorectal carcinoma (HCT-116) cell lines. The results revealed that the thiazolines 5b and 2c exhibited significant activity against the two cell lines. The in vitro antimicrobial screening showed that the thiazolines 2c, 5b and 5d showed promising inhibition activity against Salmonella sp. Additionally, the inhibition activity of thiazolines 2e and 5b against Escherichia coli was comparable to that of the reference compound gentamycin.
+X-ray crystallography; antimicrobial activity; cytotoxic activity; molecular docking; thiazoline.

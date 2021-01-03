@@ -1,0 +1,4 @@
+33144187
+2020 Nov 2
+Circular RNAs (circRNAs) are formed from the genome through diverse back splicing and feature the closed loop. circRNAs are widely available in a variety of cells and characterized by conservation, structural stability, high abundance and tissue-specific or developmental-specific expression. Recent studies have shown that circRNAs are closely related to liver diseases, such as metabolic-associated fatty liver disease, hepatitis, liver cirrhosis and hepatocellular carcinoma. circRNAs play an important role in the progression of liver diseases, are potential diagnostic and prognostic markers, and have translational value in therapy. This article reviews the research on circRNAs in liver diseases, with a view to providing a theoretical basis and new ideas for future research and treatment of liver diseases.
+Circular RNA; Hepatitis; Hepatocellular carcinoma; Liver cirrhosis; Metabolic-associated fatty liver disease.

@@ -1,0 +1,4 @@
+25391428
+2015 Mar
+Hepatocellular carcinoma (HCC) is one of the most common malignancies with a poor response to chemotherapy. It is very important to identify novel diagnosis biomarkers and therapeutic targets. RIP140, a regulator of estrogen receptor, recently has been found to be involved in the tumorigenesis. However, its function in the progression of HCC remains poorly understood. Here, we found that the expression of RIP140 was downregulated in the HCC tissues. Moreover, overexpression of RIP140 in HCC cells inhibited cell proliferation and migration, while downregulation of RIP140 promoted the tumorigenicity of HCC cells in vitro and in vivo. Mechanistically, RIP140 interacted with beta-catenin and negatively regulated beta-catenin/TCF signaling. Taken together, our study suggests the suppressive roles of RIP140 in the pathogenesis of HCC.
+

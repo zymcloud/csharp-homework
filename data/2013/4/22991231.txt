@@ -1,0 +1,4 @@
+22991231
+2013 Apr 15
+Hepatic stellate cells (HSCs) have immunosuppressive capabilities and contribute to the occurrence and development of hepatocellular carcinoma (HCC). Thus, activated HSCs may be a suitable target for HCC therapy. Our study used mixed leukocyte reactions (MLR) in vitro to demonstrate that 18β-glycyrrhetinic acid (GA) could reverse HSC-mediated immunosuppression by reducing T-cell apoptosis and regulatory T (Treg) cells expression, thereby enhancing the ability of T cells to attack tumor cells and attenuating HCC cell invasiveness. Moreover, we established a HCC orthotopic implantation model in immunocompetent C57BL/6 mice, which suggested that GA played a protective role in HCC development by reducing immunosuppression mediated by HSCs in the tumor microenvironment.
+

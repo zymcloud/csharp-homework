@@ -1,0 +1,4 @@
+20976041
+2010 Mar
+Microbial pathogens contribute to the development of more than 1 million cases of cancer per year. Gastric adenocarcinoma is the second leading cause of cancer-related death in the world, and gastritis induced by Helicobacter pylori is the strongest known risk factor for this malignancy. H. pylori colonizes the stomach for years, not days or weeks, as is usually the case for bacterial pathogens and it always induces inflammation; however, only a fraction of colonized individuals ever develop disease. Identification of mechanisms through which H. pylori co-opts host defenses to facilitate its own persistence will not only improve diagnostic and therapeutic modalities, but may also provide insights into other diseases that arise within the context of long-term pathogen-initiated inflammatory states, such as chronic viral hepatitis and hepatocellular carcinoma.
+

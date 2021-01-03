@@ -1,0 +1,4 @@
+21620529
+2011 Aug
+From the anti-tumor active N-tryptophanyl-β-carboline-3-carboxylic acid benzyl ester and β-carboline-3-carbonyltryptophan benzyl ester, a pharmacophore, Trp-Trp-OBzl, was drawn. Based on the DOCK scores amino acid residue was inserted into the C-terminus of Trp-Trp-OBzl and twenty Trp-Trp-AA-OBzls (AA = amino acid residues) were provided as DNA intercalators. On the in vitro and in vivo models seventeen Trp-Trp-AA-OBzls were anti-tumor active, and twelve Trp-Trp-AA-OBzls were more active than cytarabine. In acute toxicity assay Trp-Trp-AA-OBzls did not damage the immunologic function and had an LD(50) of more than 500 mg/kg. The relationships of structure and activity were analyzed with 3D QSAR. The action mechanism studies revealed that the in vivo anti-tumor action of Trp-Trp-AA-OBzls was the result of DNA intercalation.
+

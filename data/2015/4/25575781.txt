@@ -1,0 +1,4 @@
+25575781
+2015 Apr
+Human hepatoma cells (HepG2) were exposed to purified cylindrospermopsin (CYN), a potent toxicant for eukaryotic cells produced by several cyanobacteria. CYN was not toxic at concentrations up to 10 μgl(-1), leading to increased viability and metabolism in cells cultured with 10% fetal bovine serum (FBS). Reduction of FBS concentration to 2% and induction of cytochrome P450 (CYP) isoforms were performed in order to make xenobiotic-metabolizing capacity of HepG2 cells closest to that of 'normal' cells. HepG2 cells proliferated less after CYPs-induction, and this induction has lead to similar results of non-induced cells, except for few individual parameters such lipid peroxidation. Foremost, low concentrations of CYN (below or equal 10 μgl(-1)) have induced HepG2 cells proliferation and metabolism increase, which was not expected.
+CYPs; Cell lineage; Cyanotoxin; Cylindrospermopsin; HepG2.

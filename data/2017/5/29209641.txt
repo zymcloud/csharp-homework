@@ -1,0 +1,4 @@
+29209641
+2017 May 19
+Cancer cells harness nutrients to support its rapid proliferation through metabolic reprogramming. Our report identified folate cycle as a metabolic target in hepatocellular carcinoma. Folate cycle stagnation via inhibition of its mitochondrial folate enzyme methylenetetrahydrofolate dehydrogenase 1-like (MTHFD1L) greatly induced oxidative stress improving HCC cells' response to sorafenib.
+Folate cycle; HCC; MTHFD1L; NADPH; metabolism; oxidative stress.

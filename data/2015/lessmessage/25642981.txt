@@ -1,0 +1,4 @@
+25642981
+2015
+Hepatocellular carcinoma (HCC) is one of the most malignant cancers, with the second highest cancer death rate world-wide, next to lung cancer. The signaling mechanisms in HCC are currently not clear. Notch signaling, which is highly conserved and plays a critical role in many cancers, was found to be aberrantly upregulated in HCC tissues compared to normal liver tissues. Accumulating evidence supports that Notch signaling plays a significantly important role in HCC carcinogenesis. This review discusses the functions of Notch signaling in HCC and its potential therapeutic applications against this cancer.
+

@@ -1,0 +1,4 @@
+23836039
+2013 Jun
+Using a meta-analysis on gene expression data of hepatocellular carcinomas (HCC) from the Oncomine database, we identified that the Notch3 gene ranked as the highest up-regulated Notch pathway member in HCC tissues compared with normal liver tissues. We further detected the expression of Notch3 in 95 cases of HCC samples by immunohistochemistry, and evaluated its clinicopathological and prognostic significance. We confirmed that Notch3 is overexpressed in HCC tissues compared with normal liver tissues, and a high expression level of Notch3 was significantly associated with bigger tumor size (p = 0.014), multiple tumors (p = 0.026), late tumor-node-metastasis (TNM) stage (p
+

@@ -1,0 +1,4 @@
+28206772
+2017 Apr 28
+Six new fusicoccane-type diterpenoids (2-7) were isolated from the fermentation broth of Streptomyces violascens, which was isolated from Ailuropoda melanoleuca (giant panda) feces. The structures of these new compounds were elucidated by a detailed spectroscopic data and X-ray crystallographic analysis. Compounds 5-7 demonstrated cytotoxicity against five human cancer cell lines, with IC50 values ranging from 3.5 ± 0.7 to 14.1 ± 0.8 μM. Cell adhesion, migration, and invasion assays showed that 6 inhibited the migration and invasion of human hepatocellular carcinoma SMMC7721 cells in a dose-dependent manner. Through further investigation, it was revealed that 6 inhibited the enzymatic activity of matrix metalloproteinase-2 (MMP-2) and matrix metalloproteinase-9 (MMP-9), in addition to down-regulating the expressions of MMP-2 and MMP-9 at both the protein and mRNA levels to influence the migration and invasion of cancer cells.
+

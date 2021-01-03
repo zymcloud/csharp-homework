@@ -1,0 +1,4 @@
+24761610
+2014 Feb
+Sphingosine kinase 1 (SphK1) plays critical roles in cell biological functions. Here we investigated the effects of SphK1 inhibitor SKI II on hepatoma HepG2 cell cycle progression and invasion. Cell survival was determined by SRB assay, cell cycle progression was assayed by flow cytometry, the ability of cell invasion was measured by Matrigel-Transwell assay and protein expression was detected by Western blotting. The results showed that SKI II markedly inhibited HepG2 cell survival in a dose-dependent manner, induced G1 phase arrest in HepG2 cell and inhibited cell invasion. SKI II markedly decreased the expressions of G1-phase-related proteins CDK2, CDK4 and Cdc2 and the levels of cell invasion-associated proteins MMP2 and MMP9. The results showed that SKI II inhibited cell cycle progression and cell invasion, implying SphK1 as a potential target for hepatoma treatment.
+

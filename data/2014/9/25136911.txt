@@ -1,0 +1,4 @@
+25136911
+2014 Sep 26
+A phytochemical study on the rhizomes of Cimicifuga foetida resulted in the isolation of two new cycloartane triterpenoids (1 and 2), eight new cycloartane glycosides (3-10), and six known cycloartane glycoside analogues (11-16). The structures of 1-10 were determined by application of spectroscopic methods, with the absolute configuration of 1 determined by X-ray crystallography. Compounds 1-6, as three pairs of epimers at C-10 and C-24, belong to a seven-membered-ring variant of 9,10-seco-9,19-cycloartane triterpenoids, and glycosides 3-10 were found to be 3-O-β-D-xylopyranosides. The cytotoxicity of the isolates was evaluated against five selected human tumor cell lines, and the known compounds 15 and 16 showed cytotoxicity against the hepatocellular carcinoma SMMC-7721 cell line with IC50 values of 5.5 and 6.3 μM, respectively.
+

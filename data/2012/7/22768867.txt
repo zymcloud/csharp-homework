@@ -1,0 +1,4 @@
+22768867
+2012 Jul
+Aim:To study the expression and clinical significance of tumor susceptibility gene 101 (TSG101) expression in hepatocellular carcinoma (HCC) tissues.Methods:The expression of TSG101 in HCC and corresponding non-tumor tissues was detected by immunohistochemistry and Western blotting. Statistical analyses were conducted to test the relationships of TSG101 expression with clinical parameters such as age, gender, TNM stage, tumor metastasis, and so on.Results:Immunohistochemistry and Western blotting showed that the expression of TSG101 in HCC was significantly higher than that in corresponding non-tumor tissues (P0.05). Multiple regression analysis indicated that TSG101 expression rate was significantly associated with TNM stage and metastasis (P0.05).Conclusion:The expression of TSG101 in HCC is higher than that in corresponding non-cancer tissues and the expression level is closely correlated with TNM stage and metastasis of HCC.
+

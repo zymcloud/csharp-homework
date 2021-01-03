@@ -1,0 +1,4 @@
+24039090
+2013 Dec
+The Model for End-Stage Liver Disease (MELD) score is an imperfect prognosticator of waitlist dropout, so transplant centers may apply for exception points to increase a waitlist candidate's priority on the waitlist. Exception applications are categorized as recognized exceptional diagnoses (REDs; eg, hepatocellular carcinoma) and non-REDs (eg, cholangitis). Although prior work has demonstrated regional variation in the use of exceptions, no work has examined the between-center variability. We analyzed all new waitlist candidates from February 27, 2002 to June 3, 2011 to explore variations in the use of non-REDs, for which no strict exception criteria exist. There were 58,641 new waitlist candidates, and 4356 (7.4%) applied for a non-RED exception. The number of applications increased steadily over time, as did the approval rates for such applications: from
+

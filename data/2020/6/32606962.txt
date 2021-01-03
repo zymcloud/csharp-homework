@@ -1,0 +1,4 @@
+32606962
+2020 Jun 18
+Objective:This study aimed to determine the effects of the long non-coding (lnc) RNA MT1JP on the apoptosis and migration of hepatocellular carcinoma cells.Patients and methods:Patients with liver cancer admitted to the Second People's Hospital of Liaocheng were included in this study. We transfected hepatocellular carcinoma cells with MT1JP and miR-24-3p and assessed their expression and effects on apoptosis and migration. Correlations were verified using a dual-luciferase reporter and RNA-binding protein coimmunoprecipitation.Results:The expression of MT1JP was downregulated (P 2 tests). Rescue experiments showed that upregulating miR-24-3p expression could counteract MT1JP overexpression in hepatocellular carcinoma cells.Conclusion:MT1JP, even when expressed at low levels, participates in the proliferation, apoptosis, and migration of liver cancer cells by regulating miR-24-3p.
+apoptosis; liver cancer; lncRNA MT1JP; miR-24-3p; migration.

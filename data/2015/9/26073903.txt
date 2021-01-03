@@ -1,0 +1,4 @@
+26073903
+2015 Sep
+Background:Hepatocellular carcinoma (HCC) is a leading cause of death in Asian countries. Sonic hedgehog (Shh) pathway plays a role in hepatocarcinogenesis. We investigated the treatment effect of mouse HCC with Shh inhibitor GDC-0449.Methods:Mouse hepatoma ML-1 cells were implanted in B6 mice. Fifteen days later, GDC-0449 (vismodegib), antagonist of smoothened, was used to treat HCC-bearing mice. The tumor size and liver histopathological features were analyzed, as well as gene expression in Shh pathways.Results:GDC-0449 treatment effectively reduced tumor size and cell infiltration of the HCC in mice. Gene expression of Shh pathway molecules was altered, including upregulated Shh expression and downregulated smoothened expression in tumor fractions after GDC-0449 treatment.Conclusion:GDC-0449 could effectively mitigate HCC growth in vivo.
+GDC-0449; Gli-1; Ptch-1; Shh; Smo; Sonic hedgehog pathway.

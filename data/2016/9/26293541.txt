@@ -1,0 +1,4 @@
+26293541
+2016 Sep
+In this study, we used proteomic profiling to compare hepatocellular carcinoma (HCC) and peri-tumoral tissues to identify potential tumor markers of HCC. We identified eight differentially expressed proteins (>3-fold), including Peroxiredoxin 6 (PRDX6). PRDX6 is a bifunctional enzyme with both peroxidase and calcium-independent phospholipase A2 (iPLA2) activity. We found that peri-tumoral tissues expressed higher levels of PRDX6 mRNA (n = 59, P = 0.018) and protein (n = 265, P
+apoptosis; hepatectomy; proteomics.

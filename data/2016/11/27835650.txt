@@ -1,0 +1,4 @@
+27835650
+2016 Nov 11
+Zinc-fingers and homeoboxes 1 (ZHX1) is a transcription repressor that has been associated with the progressions of hepatocellular carcinoma, gastric cancer, and breast cancer. However, the functional roles of ZHX1 in cholangiocarcinoma (CCA) have not been determined. We investigated the expression and roles of ZHX1 during the proliferation, migration, and invasion of CCA cells. In silico analysis and immunohistochemical studies showed amplification and overexpression of ZHX1 in CCA tissues. Furthermore, ZHX1 knockdown using specific siRNAs decreased CCA cell proliferation, migration, and invasion, whereas ZHX1 overexpression promoted all three characteristics. In addition, results suggested EGR1 might partially mediate the effect of ZHX1 on the proliferation of CCA cells. Taken together, these results show ZHX1 promotes CCA cell proliferation, migration, and invasion, and present ZHX1 as a potential target for the treatment of CCA.
+

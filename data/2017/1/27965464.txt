@@ -1,0 +1,4 @@
+27965464
+2017 Jan 17
+In this study, we explored the roles of Snail and NF-κB in hepatocellular carcinoma (HCC). Samples of HCC tumor tissue were collected from 83 Chinese HCC patients. Snail and NF-κB expression was then examined based on immunohistochemical staining, and the relations between Snail and NF-κB expression and the clinical characteristics of the patients were assessed using Cox model analysis. Snail and NF-κB were both expressed in HCC tissue, and their levels were strongly correlated. In addition, levels of both Snail and NF-κB expression were negatively related to tumor differentiation, which was an independent factor predictive of survival in HCC patients. Snail and NF-κB may thus be useful markers of tumor differentiation and survival in HCC, and may also be useful for guiding treatment and exploring molecular mechanisms.
+Chinese population; NF-κB; Snail; hepatocellular carcinoma; survival.

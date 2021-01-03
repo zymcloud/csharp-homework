@@ -1,0 +1,4 @@
+23225693
+2013 Mar 25
+A unique peptide nanofibrous indicator (NFI) is fabricated by mixing a borono-peptide with alizarin red S, followed by subsequent binding and self-assembly. The NFI thus obtained exhibits an intense response to sialyl Lewis X tetrasaccharide, which is overexpressed in human hepatocellular carcinoma cell lines. Importantly, this NFI has the capability of specifically recognizing human hepatocellular liver carcinoma (HepG2) cells through the eye-detectable color change resulting from strong binding-induced displacement. This novel technique for cancer cell identification through direct unaided eye judgment will open up an innovative platform for cancer cell detection.
+

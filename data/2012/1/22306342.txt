@@ -1,0 +1,4 @@
+22306342
+2014 Jan 28
+Hepatocellular carcinoma (HCC) is one of the most lethal and prevalent cancers in humans. The molecular mechanisms leading to the development of HCC are extremely complicated and consist of prominent genetic, genomic, and epigenetic alterations. This review summarizes the current knowledge of the role of epigenetic aberrations, including changes in DNA methylation, histone modifications, and expression of microRNAs in the pathogenesis of HCC. It also emphasizes that identification of the underlying epigenetic alterations that drive cell transformation and promote development and progression of HCC is crucially important for understanding mechanisms of hepatocarcinogenesis, its detection, therapeutic intervention, and prevention.
+DNA methylation; Hepatocellular carcinoma; Histone modifications; MicroRNAs.

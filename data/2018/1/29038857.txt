@@ -1,0 +1,4 @@
+29038857
+2018 Jan
+The Liver Imaging Reporting and Data System (LI-RADS) was created to provide a standardized way to both assess and communicate the likelihood of benignity or malignancy of observations seen in patients at risk for development of hepatocellular carcinoma (HCC). The LI-RADS categories allow radiologists to convey the full spectrum of concern for malignancy, from definitely benign to definitely HCC. Additional categories are available for non-categorizable observations, observations that are concerning for a non-HCC malignancy, and the presence of tumor in vein. The goal of this paper is to discuss the LI-RADS categories, including criteria for each category, and point out changes to the categories from prior versions of LI-RADS.
+CT; Categories; Hepatocellular carcinoma; LI-RADS; Liver; MRI.

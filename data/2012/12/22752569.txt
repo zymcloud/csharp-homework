@@ -1,0 +1,4 @@
+22752569
+2012 Dec
+Hepatocellular carcinoma (HCC) is highly invasive with a high frequency of recurrence following surgery and poor prognosis. The underlying molecular mechanisms for HCC recurrence are not well understood. Here, we used microarray technology for genome-wide analysis to identify genes who may be involved in tumor recurrence. cDNA from HCC tumor tissues of patients with early recurrence (ER; n = 10) and patients whose HCC had not recurred ≥ 2 years postsurgery (nER; n = 10) was hybridized to the Affymetrix Human Geome U133 plus 2.0 whole-genome microarray. Gene clusters were identified and used for hierarchial clustering and principal component analysis. Genes with more than twofold change in expression between ER and nER groups were further analyzed. Expression levels of a subset of genes were validated using RT-PCR and immunohistochemistry. A total of 1,646 genes had significantly different expression between the ER and nER groups (P
+

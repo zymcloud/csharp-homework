@@ -1,0 +1,4 @@
+25449085
+2014 Dec
+Objective:To investigate the association of single nucleotide polymorphisms in the HLA-DP and DQ genes with the outcome of chronic hepatitis B virus infection.Methods:Two hundred and four healthy subjects, 255 clearance subjects, 204 asymptomatic HBV carriers (AsC), 136 chronic hepatitis B (CHB), 68 liver cirrhosis (LC) and hepatocellular carcinoma (HCC) were enrolled. Genotypes of rs3077, rs9277535 and rs2647050 were determined by sequence specific primers-PCR (PCR-SSP).Results:By using healthy subjects and clearance subjects as the control groups, rs3077 and rs9277535 were significantly associated with chronic HBV infection under additive and dominant models (P 0.05).Conclusion:HLA-DP gene polymorphisms are strongly associated with chronic HBV infection. The presence of A allele at rs3077 and rs9277535 of the HLA-DP gene may decreased the risk for chronic HBV infection.
+

@@ -1,0 +1,4 @@
+30337229
+2018 Dec 15
+In this research several series of novel dioxygenated ring fused 4-anilinoquinazolines (10a-d) and 4-anilinoquinazoline-substituted triazole hybrid compounds (11-14) have been designed and synthesized. Their biological significance was highlighted by evaluating in vitro for anticancer activities, wherein several compounds displayed excellent activity specifically against three human cancer cell lines (KB, epidermoid carcinoma; HepG2, hepatoma carcinoma; SK-Lu-1, non-small lung cancer). Especially, compound 13a exhibited up to 100-fold higher cytotoxicity in comparison with erlotinib. Docking the most cytotoxic compounds (11d, 13a, 13b, and 14c) into the ATP binding site of different EGFR tyrosine kinase domains was perfomed to predict the analogous binding mode of these compounds to the EGFR targets.
+4-Anilinoquinazolines; Cytotoxic agents; EGFR inhibitors; Hybrids; Triazole.

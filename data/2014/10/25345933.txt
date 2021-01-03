@@ -1,0 +1,4 @@
+25345933
+2014 Oct
+Objective:To investigate the expression of microRNA-128a (miR-128a) and its role in hepatocellular carcinoma (HCC).Methods:Nineteen pairs of fresh surgical specimens of HCC and adjacent tissues were examined for miR-128a expression using qRT-PCR. A miR-128a mimics or inhibitor was transfected into HCC cells, and the cell viability was analyzed by MTT assay. RND3, one of the potential targets of miR-128a, was predicted by bioinformatics software and demonstrated by dual luciferase reporter assay. The expression of RND3 after transfection was detected using qRT-PCR and Western blotting, and the cell cycle-related proteins were determined with Western blotting.Results:The expression of miR-128a were significantly up-regulated in HCC tissues as compared to the adjacent tissues (PConclusion:miR-128a is up-regulated in HCC and promotes HCC cell proliferation by targeting RND3.
+

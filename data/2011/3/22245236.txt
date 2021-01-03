@@ -1,0 +1,4 @@
+22245236
+2012 Mar
+IL28B single nucleotide polymorphisms (SNPs) are associated with spontaneous and treatment-induced elimination of hepatitis C virus (HCV). To assess whether the IL28B rs8099917 SNP also affects the progression of chronic HCV infection, we genotyped 511 Japanese HCV patients, including 69 with hepatocellular carcinoma (HCC). The T/T genotype of rs8099917 was not associated with the development of HCC (p = 0.623), although stepwise logistic regression analysis showed that liver cirrhosis, age greater than 68 years, and serum albumin
+

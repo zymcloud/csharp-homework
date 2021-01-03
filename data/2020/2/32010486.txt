@@ -1,0 +1,4 @@
+32010486
+2020 Feb 1
+The natural killer group 2D (NKG2D) receptor and its ligands play important roles in immune surveillance. In this study, we observed that the average serum soluble MICA (sMICA) concentration of 174 hepatocellular carcinoma (HCC) patients was significantly higher than that in 80 healthy subjects (602.17 ± 338.15 vs. 72.26 ± 87.88 pg/ml, t = 3.107, P=0.002). The levels of serum sMICA in 44 HCC patients with initial levels above 400 pg/ml declined significantly after surgical removal of the liver cancer tissue (Phigh serum of HCC patients, the dead target cells were reduced to 30.8%. Compared in presence of sMICAlow serum from HCC patients, there were 63.7% of target cells dead (p=0.043). Thus, our data suggested that sMICA obstructs the activation of NKG2D pathway to protect tumor cells from NK cell-mediated cytotoxicity.
+NKG2D; NKG2D receptor pathway; hepatocellular carcinoma (HCC); soluble MICA; tumor immune escape.

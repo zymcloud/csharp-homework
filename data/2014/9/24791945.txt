@@ -1,0 +1,4 @@
+24791945
+2014 Sep
+Background:The long-term outcome after curative resection of hepatocellular carcinoma (HCC) remains unsatisfactory because of the high incidence of recurrence. The present study was intended to assess the impact of hepatitis B virus (HBV) DNA level and nucleos(t)ide analog therapy on posthepatectomy recurrence of HBV-related HCC.Methods:Eligible studies were identified through a computerized literature search. The pooled relative risk ratio (RR) with 95 % confidence interval (CI) was calculated using Review Manager 5.1 Software.Results:Twenty studies with a total of 8,204 participants were included for this meta-analysis. Pooled analysis showed that high viral load was significantly associated with risk of recurrence (RR: 1.85, 95 % CI: 1.41-2.42; P Conclusions:High DNA level is associated with posthepatectomy recurrence of HBV-related HCC. Nucleos(t)ide analog therapy improves the prognosis of HBV-related HCC after resection.
+

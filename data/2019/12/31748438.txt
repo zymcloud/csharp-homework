@@ -1,0 +1,4 @@
+31748438
+2019 Dec 26
+The metacestode stage of Echinococcus granulosus and Echinococcus multilocularis cause cystic echinococcosis and alveolar echinococcosis, respectively, which result in severe medical and veterinary problems. In this study, as an exploration of novel treatment agents against echinococcosis, we demonstrated that ampelopsin (AMP), which is extracted from Ampelopsis grossedentata and has been clinically used for treatments of various types of diseases including cancers for a long time, exhibited profound in vitro effect against E. granulosus protoscoleces and E. multilocularis metacestodes. Furthermore, in vitro cytotoxicity assay also demonstrated that AMP at the effective dose against E. granulosus protoscoleces and E. multilocularis metacestodes did not show significant toxicity to human hepatocytes. These results suggest that AMP has the potential as an alternative agent against echinococcosis.
+ampelopsin; echinococcosis; efficacy; toxicity.

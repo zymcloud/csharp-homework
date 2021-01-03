@@ -1,0 +1,4 @@
+30572498
+2018 Dec
+Background:Liver fibrosis index FIB-4 has been reported to be linked with hepatocellular carcinoma (HCC) prognosis, but the results were not consistent. This study aimed to synthetically explore the relationship between FIB-4 and clinical outcomes of HCC.Methods:A number of online databases were searched for relevant articles published before March 1, 2018. Hazard ratios (HRs) with 95% confidence intervals (95% CIs) were calculated to assess the prognostic value of the FIB-4 index in patients with HCC using Stata SE 12.0.Results:Eight articles (including 10 cohort studies) with 3485 HCC patients were finally included for analysis. The pooled results showed that FIB-4 index was significantly associated with overall survival (OS) for patients with HCC (HR = 1.74, 95% CI: 1.41-2.07, P Conclusions:FIB-4 index might be a useful predictive marker in patients with HCC.
+

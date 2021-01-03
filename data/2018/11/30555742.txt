@@ -1,0 +1,4 @@
+30555742
+2018 Nov 1
+Inhibitor of DNA binding/differentiation (Id2) is an important regulator involved in the initiation and progression of cancer. However, the function and mechanism of the regulation of Id2 in hepatocellular carcinoma (HCC) was unclear. In the present study, we found that the overexpression of Id2 increased HCC cell proliferation in vitro and in vivo. Knockdown of Id2 inhibited HCC cell proliferation in vitro and in vivo. Furthermore, knockdown of Id2 enhanced sorafenib-induced apoptosis in HCC. Conversely, overexpression of Id2 weakened sorafenib-induced apoptosis in HCC. In addition, the transcription factor CCAAT/enhancer-binding protein alpha (C/EBPα) bound to the Id2 promoter and decreased its expression in HCC cells. Therefore, all results suggest that Id2 promotes the proliferation of HCC cells by inhibiting cell apoptosis. Id2 may serve as a potential target in HCC therapy.
+C/EBPα; Id2; hepatocellular carcinoma; proliferation; sorafenib.

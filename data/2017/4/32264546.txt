@@ -1,0 +1,4 @@
+32264546
+2017 Apr 7
+We report the synthesis and characterization of lactobionic acid-modified multifunctional polyethyleneimine-entrapped gold nanoparticles for targeted dual mode computed tomography/magnetic resonance imaging. The nanodevice displays good X-ray attenuation properties, good r1 relaxivity, and hepatocellular carcinoma targeting specificity, and can be used for targeted CT/MR imaging of hepatocellular carcinoma in vitro and in vivo.
+

@@ -1,0 +1,4 @@
+24898892
+2014 Aug
+Identification of the epigenetic mechanisms involved in the transmission of Notch signaling is useful for personalized medicine. We observed that aberrantly high levels of Notch activity resulted in H4K16ac downregulation in hepatocellular carcinoma and breast cancer cell lines and tissues. This downregulated acetylation was a consequence of increased male on the first degradation following the upregulation of full-length murine double minute 2 in different cancer types. We observed that increases in male on the first could attenuate heterogeneity induced by aberrantly high levels of Notch activity. Our results provide new insights into the analysis and treatment of Notch-induced hepatocellular carcinoma and breast cancer.
+MDM2; MOF; Notch; acetylation; histone modification.

@@ -1,0 +1,4 @@
+29273278
+2018 Apr
+Background:The ability to evaluate the prognosis of hepatocellular carcinoma (HCC) patients following hepatectomy with biological markers is of great importance.Methods:In this study, we collected samples from 90 patients with HCC after hepatectomy. Immunohistochemistry was used to detect the expression of PDGF-B and VEGFR-3 in these HCC samples.Results:According to the immunohistochemical results, PDGF-B and VEGFR-3 staining were significantly associated with clinical features. Additionally, a significant association between high PDGF-B and VEGFR-3 levels and shorter overall survival was noted, when PDGF-B and VEGFR-3 co-expression been analyzed.Conclusion:These results suggest that the correlative expression level of PDGF-B and VEGFR-3 has strong value in the prognosis of HCC patients following hepatectomy.
+

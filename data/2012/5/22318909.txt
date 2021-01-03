@@ -1,0 +1,4 @@
+22318909
+2012 May
+Previous studies have reported that telomere length in peripheral blood leukocytes can predict the clinical outcome of several cancers. However, whether leukocyte telomere length is associated with the prognosis of hepatocellular carcinoma (HCC) remains to be determined. In this study, relative telomere length (RTL) in peripheral blood leukocytes was measured using a real-time PCR-based method for 269 HCC patients treated with transarterial chemoembolization (TACE) from two independent hospitals. The association between RTL and the overall survival (OS) of HCC was analyzed. The immunological function of the HCC patients with different leukocyte RTLs was evaluated. Multivariate analyses indicated that long leukocyte RTL was significantly associated with poor OS of HCC patients, with a hazard ratio of 2.04 (95% confidence interval, 1.46-2.86; P
+

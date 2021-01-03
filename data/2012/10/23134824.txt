@@ -1,0 +1,4 @@
+23134824
+2012 Oct
+Objective:To assess the diagnostic value of magnetic resonance imaging (MRI) in the follow-up of patients with hepatocellular carcinomas treated with radiofrequency ablation (RFA) and to compare it with that of computed tomography (CT).Methods:From December 2009 to September 2011, 40 patients (47 hepatocellular carcinomas) were treated with RFA after transcatheter arterial chemoembolization and underwent MRI and CT for follow-up. RFA margins were assessed on a five-point scale with receiver operating characteristic curve analysis. Sensitivity, specificity, positive predictive value, negative predictive value, and accuracy were evaluated.Results:The interobserver agreement rate for MRI was significantly higher (Kappa=0.935) than for CT (Kappa=0.714; P Conclusion:MRI is superior to CT in assessing the RFA margins in terms of the diagnostic accuracy and detection rate .
+

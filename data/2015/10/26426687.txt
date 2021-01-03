@@ -1,0 +1,4 @@
+26426687
+2015 Oct
+Persistent infection with hepatitis C virus (HCV) is associated with an increased risk of hepatocellular carcinoma (HCC). Cancer typically develops in a setting of chronic hepatic inflammation and advanced fibrosis or cirrhosis, and such tissue represents a pre-neoplastic 'cancer field'. However, not all persistent infections progress to HCC and a combination of viral and host immune factors likely contributes to carcinogenesis. HCV may disrupt cellular pathways involved in detecting and responding to DNA damage, potentially adding to the risk of cancer. Efforts to unravel how HCV promotes HCC are hindered by lack of a robust small animal model, but a better understanding of molecular mechanisms could identify novel biomarkers for early detection and allow for development of improved therapies.
+

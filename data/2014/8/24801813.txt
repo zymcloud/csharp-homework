@@ -1,0 +1,4 @@
+24801813
+2014 Aug
+5-Amino-1-p-tolyl-1H-pyrazole-4-carbonitrile (1) was used for the preparation of some novel pyrazoles and pyrazolo[3,4-d]pyrimidines 2-10. Moreover, the cytotoxicity and in vitro anticancer activities of the prepared compounds were also assessed against the MCF-7 breast cancer, HepG2 liver cancer, and A549 lung carcinoma cell lines, along with investigation of the effect of the synthesized compounds on the expression of urokinase plasminogen activator (uPA). The tested compounds exhibited remarkable cytotoxic activity against MCF-7 and HepG2 cells. Among the tested compounds, 2 and 9 revealed promising anticancer activity compared to the activity of the commonly used anticancer drug, doxorubicin, by inhibiting the expression of uPA.
+Anticancer; Pyrazole; Pyrazolopyrimidine; Pyrazolothiazolopyrimidine; Urokinase.

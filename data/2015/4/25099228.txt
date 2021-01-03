@@ -1,0 +1,4 @@
+25099228
+2015 Apr
+Chronic infection with hepatitis B virus (HBV) is a risk factor for developing hepatocellular carcinoma (HCC). The life cycle of HBV is complex and has been difficult to study because HBV does not infect cultured cells. The HBV regulatory X protein (HBx) controls the level of HBV replication and possesses an HCC cofactor role. Attempts to understand the mechanism(s) that underlie HBx effects on HBV replication and HBV-associated carcinogenesis have led to many reported HBx activities that are likely influenced by the assays used. This review summarizes experimental systems commonly used to study HBx functions, describes limitations of these experimental systems that should be considered, and suggests approaches for ensuring the biological relevance of HBx studies.
+

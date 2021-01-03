@@ -1,0 +1,4 @@
+28206942
+2016 Nov 1
+We present the case of a 76-year-old male found to have a large tumor involving the left lateral lobe of the liver, presumed to be hepatocellular carcinoma (HCC). After resection, pathologic features demonstrated both high-grade HCC and high-grade neuroendocrine carcinoma (NEC). Areas of NEC stained strongly for synaptophysin, which was not present in HCC component. The HCC component stained strongly for Hep-Par 1, which was not present in the NEC component. The patient underwent genetic analysis for biomarkers common to both tumor cell types. Both tumor components contained gene mutations in CTNNB1 gene (S33F located in exon 3). They also shared mutations in PD-1, PGP, and SMO. Mixed HCC/NEC tumors have been rarely reported in the literature with generally poor outcomes. This patient has been referred for adjuvant platinum-based chemotherapy; genetic biomarker analysis may provide some insight to guide targeted chemotherapy.
+

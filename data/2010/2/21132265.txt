@@ -1,0 +1,4 @@
+21132265
+2011 Feb
+It has been demonstrated that the Agaricus blazei Murill (ABM) mushroom, which primarily consists of polysaccharides, possesses anti-tumor activities. However, the mechanisms by which ABM inhibits human hepatocellular carcinoma growth remain unknown. Our study demonstrates that ABM acts as an enhancer to sensitize doxorubicin (Dox)-mediated apoptotic signaling, and this sensitization can be achieved by enhancing intracellular Dox accumulation via the inhibition of NFκB activity. These findings suggest that ABM, when combined with low doses of Dox, has the potential to provide more efficient therapeutic effects against drug-resistant human hepatocellular carcinoma.
+

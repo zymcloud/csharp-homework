@@ -1,0 +1,4 @@
+23211536
+2013 Apr 28
+AFP and its receptor (AFPR) are early indicators of HBx-driven hepatocarcinogenesis. Clinical specimens, normal human liver cells L-02 and HCC cell lines were selected for analyzing the effects of HBx on expression of AFP, AFPR, Src, CXCR4, and Ras. Results showed that AFPR localized in the membranes of HCC samples. HBx upregulated the expression of AFPR and AFP prior to expression of Src, CXCR4, and Ras in L-02 cells and in liver specimens; Target-labeled AFPR was able to reveal the location and metastatic status of HCC in vivo. In this way, actuated expression of AFPR served as an indicator suitable for use in the early diagnosis of HBx-driven malignant transformation of hepatocytes. Labeled AFPR may be applied to trace primary and metastatic HCC.
+

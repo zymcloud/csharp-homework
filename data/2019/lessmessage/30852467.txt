@@ -1,0 +1,4 @@
+30852467
+2019
+Introduction:Retrospective studies have evaluated the approach of stereotactic radiotherapy (SRT) to address oligoprogression in patients with EGFR mutant NSCLC on TKI therapy, it has never been prospectively studied.Materials and methods:We treated 25 patients with EGFR mutant NSCLC on erlotinib who had 3 or fewer sites of extra-cranial progression with SRT to progressing sites, followed by re-initiation of erlotinib.Results:Median PFS from the initiation of SRT was 6 months (95% CI 2.5 to 11.6) and median OS was 29 months (95% CI 21.7 to 36.3). Neither baseline nor changes in the Veristrat proteomic predicted PFS.Conclusions:SRT and TKI continuation may be considered for select patients with EGFR mutant NSCLC and oligo-progression on EGFR TKI therapy.
+EGFR; Erlotinib; Oligoprogression; Stereotactic radiosurgery.

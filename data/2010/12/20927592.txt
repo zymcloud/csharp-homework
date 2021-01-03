@@ -1,0 +1,4 @@
+20927592
+2010 Dec
+First reported in 1978, occult hepatitis B is a term used to describe the presence of hepatitis B virus (HBV) DNA without hepatitis B surface antigenemia. The prevalence of occult HBV is unclear and depends in part on the sensitivity of the hepatitis B surface antigen (HBsAg) and DNA assays used as well as the prevalence of HBV infection in the study population. The origin of occult HBV also remains in question. Several mechanisms have been hypothesized including mutations in the regulatory regions of the HBV genome, persistence of Ig-bound HBV immune complexes, viral interference, and blockage of free HBsAg secretion. Occult HBV has important clinical implications such as transmission through blood transfusion, reactivation in the setting of immunosuppression, and interference with hepatitis C treatment. To date, there is little data pertaining to the treatment of occult HBV outside of the setting of chemotherapy-induced HBV reactivation.
+

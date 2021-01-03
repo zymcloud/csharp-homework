@@ -1,0 +1,4 @@
+24204382
+2013
+MicroRNA-429 (miR-429) may modify the development and progression of cancers; however, the role of this microRNA in the hepatocellular carcinoma (HCC) has not been well elaborated. Here, we tested miR-429 expression in 138 pathology-diagnosed HCC cases and SMMC-7721 cells. We found that miR-429 was upregulated in HCC tumor tissues and that the high expression of miR-429 was significantly correlated with larger tumor size (odd ratio (OR), 2.70; 95% confidence interval (CI), 1.28-5.56) and higher aflatoxin B1-DNA adducts (OR = 3.13, 95% CI = 1.47-6.67). Furthermore, this microRNA overexpression modified the recurrence-free survival and overall survival of HCC patients. Functionally, miR-429 overexpression progressed tumor cells proliferation and inhibited cell apoptosis. These results indicate for the first time that miR-429 may modify HCC prognosis and tumorigenesis and may be a potential tumor therapeutic target.
+

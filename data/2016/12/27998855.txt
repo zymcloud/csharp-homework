@@ -1,0 +1,4 @@
+27998855
+2016 Dec 20
+Objective:To explore the inhibitory effect of estrogen against metastasis of human hepatocellular carcinoma MHCC97H cells and explore the molecular mechanism.Methods:The inhibitory effect of estrogen on the migration and invasion of MHCC97H cells was evaluated with wound healing assay and Transwell assay. Western blotting was used for investigating the expression of MMP-2, MMP-9, AKT and p-AKT in the cells treated with estrogen.Results:Estrogen treatment significantly inhibited the migration and invasion of MHCC97H cells in a dose-dependent manner. Estrogen significantly down-regulated the protein expressions of MMP-2 and MMP-9 and lowered the phosphorylation level of AKT.Conclusion:The anti-metastatic effect of estrogen involves inhibition of MMP-2 and MMP-9 in MHCC97H cells probably by regulating AKT signal pathway.
+

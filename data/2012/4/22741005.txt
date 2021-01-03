@@ -1,0 +1,4 @@
+22741005
+2012 Apr 1
+Bax-interacting factor-1 (Bif-1) interacts with Beclin1 [the mammalian ortholog of yeast autophagy-related gene 6 (Atg6)] and affects the formation of autophagosomes during autophagy. The aim of this study was to explore Bif-1 expression and its prognostic significance in comparison with various clinicopathological predictors of survival. Bif-1 protein expression was determined by immunohistochemistry in 206 hepatocellular carcinomas. Cytoplasmic immunoreactivity was scored semi-quantitatively. The results were analyzed in correlation with various clinicopathological characteristics, including patient survival. The Chi-square test and Kaplan-Meier survival analysis were applied. The expression of Bif-1 was significantly higher in the hepatocellular cancers than in the adjacent matched non-tumor tissues (51.5 vs. 33.0%, P
+

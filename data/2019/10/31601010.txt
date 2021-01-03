@@ -1,0 +1,4 @@
+31601010
+2019 Oct 9
+Background:We aimed to explore the relative dose intensity (RDI) and post-regorafenib treatments in regorafenib therapy.Methods:The medical records of 38 patients treated with regorafenib between July 2017 and June 2019 at our institution were collected. The RDI of regorafenib for the first month (1M-RDI) was calculated.Results:The overall survival (OS) and progression-free survival (PFS) were 12.4 and 3.7 months. The objective response rate and disease control rate were 13.2% and 71.1%. The median total dose of regorafenib in the first month was 2080 mg (240-3360 mg), and the median 1M-RDI was 61.9% (7.1%-100%). Patients with 1M-RDI ≥ 50% showed significantly longer OS and PFS than patients with 1M-RDI Conclusion:A 1M-RDI ≥ 50% is clinically significant. Post-regorafenib therapies are commonly performed in real-world practice.
+Hepatocellular carcinoma; regorafenib; relative dose intensity (RDI); sequential therapy; sorafenib.

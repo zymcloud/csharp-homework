@@ -1,0 +1,4 @@
+25093037
+2014 Aug 1
+The p21-activated kinases (PAKs) are downstream effectors of the Rho family small GTPases as well as a wide variety of mitogenic factors and have been implicated in cancer formation, development and metastasis. PAKs phosphorylate a wide spectrum of substrates to mediate extracellular signals and regulate cytoskeletal remodeling, cell motility and survival. In this review, we aim to summarize the findings regarding the oncogenic role and the underlying mechanisms of PAKs signaling in various cancers, and in particular highlight the prime importance of PAKs in hepatocellular carcinoma (HCC) progression and metastasis. Recent studies exploring the potential therapeutic application of PAK inhibitors will also be discussed.
+Cdc42; Hepatocellular carcinoma; Rac1; p21-activated kinases.

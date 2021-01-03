@@ -1,0 +1,4 @@
+27118975
+2016
+Hepatocellular carcinoma (HCC) is the fifth most common cancer worldwide malignancy and the third leading cause of cancer death in patients. Several studies demonstrated that hepatic cancer stem cells (HCSCs), also called tumor-initiating cells, are involved in regulation of HCC initiation, tumor progression, metastasis development, and drug resistance. Despite the extensive research, the underlying mechanisms by which HCSCs are regulated remain still unclear. MicroRNAs (miRNAs) are able to regulate a lot of biological processes such as self-renewal and pluripotency of HCSCs, representing a new promising strategy for treatment of HCC chemotherapy-resistant tumors. In this review, we synthesize the latest findings on therapeutic regulation of HCSCs by miRNAs, in order to highlight the perspective of novel miRNA-based anticancer therapies for HCC treatment.
+

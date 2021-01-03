@@ -1,0 +1,4 @@
+26287602
+2015 Nov 17
+Previous studies showed that miR-454 acted as an oncogene or tumor suppressor in cancer. However, its function in HCC remains unknown. In this study, we found that miR-454 expression was upregulated in HCC cell lines and tissues. Knockdown of miR-454 inhibited HCC cell proliferation and invasion and epithelial mesenchymal transition (EMT), whereas overexpression of miR-454 promoted HCC cell proliferation and invasion and EMT. Furthermore, we identified the CHD5 as a direct target of miR-454. CHD5 was downregulated in HCC tissues and cell lines and the expression level of CHD5 was inversely correlated with the expression of miR-454 in HCC tissues. In addition, knockdown of miR-454 inhibited the growth of HepG2-engrafted tumors in vivo. Taken together, these results indicated that miR-454 functioned as an oncogene in HCC.
+CHD5; hepatocellular carcinoma; miR-454; microRNA.

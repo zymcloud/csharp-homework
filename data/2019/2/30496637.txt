@@ -1,0 +1,4 @@
+30496637
+2019 Feb 15
+We report a glycyrrhetinic-acid (GA)-decorated small-molecule conjugate for pH-triggered near-infrared (NIR) fluorescence imaging of hepatocellular carcinoma (HCC). Our in vitro studies demonstrated that the conjugate, referred to as NIR-GA, was efficiently taken up by liver cancer cell lines such as HepG2 and Huh7 through an endocytic pathway mediated by GA receptors. As suggested by co-localization studies, NIR-GA mainly localized in the lysosome, where the acidic pH results in the activation of the fluorescent dye through H+ -triggered spirolactam ring opening to give strong fluorescence in the NIR region.
+fluorescent probes; glycyrrhetinic acid; hepatocellular carcinoma; imaging agents; natural products.

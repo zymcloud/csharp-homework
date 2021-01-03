@@ -1,0 +1,4 @@
+30739444
+2019 Mar 14
+Focal adhesion tyrosine kinase (PTK2) is often overexpressed in human hepatocellular carcinoma (HCC), and several reports have linked PTK2 depletion and/or pharmacological inhibition to reduced tumorigenicity. However, the clinical relevance of targeting PTK2 still remains to be proven. Here, we present two highly selective and functional PTK2 proteolysis-targeting chimeras utilizing von Hippel-Lindau and cereblon ligands to hijack E3 ligases for PTK2 degradation. BI-3663 (cereblon-based) degrades PTK2 with a median DC50 of 30 nM to >80% across a panel of 11 HCC cell lines. Despite effective PTK2 degradation, these compounds did not phenocopy the reported antiproliferative effects of PTK2 depletion in any of the cell lines tested. By disclosing these compounds, we hope to provide valuable tools for the study of PTK2 degradation across different biological systems.
+

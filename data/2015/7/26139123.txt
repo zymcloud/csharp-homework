@@ -1,0 +1,4 @@
+26139123
+2015 Jul
+Aims:To develop salinomycin-loaded poly(lactic-co-glycolic acid) nanoparticles conjugated with both CD133 aptamers A15 and EGFR aptamers CL4 (CESN), to target hepatocellular carcinoma (HCC) cells simultaneously expressing EGFR and CD133.Materials & methods:The antitumor activity and mechanism of CESN were investigated.Results & conclusion:The cytotoxicity of CESN in HCC cells and CD133(+) HCC cells was superior to that of A15 or CL4-conjugted or nontargeted salinomycin-loaded nanoparticles. The antitumor assay in mice bearing HCC xenograft tumors confirmed the superior antitumor activity of CESN over other controls. We speculated that the improved therapeutic effect of CESN may be attributed to both targeting a higher percentage of HCC cells and increased delivery of salinomycin to HCC cells.
+CD133; EGFR; hepatocellular carcinoma; nanoparticles; salinomycin.

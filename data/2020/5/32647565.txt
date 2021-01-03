@@ -1,0 +1,4 @@
+32647565
+2020 May 28
+For almost a decade, systemic therapy of advanced hepatocellular carcinoma (HCC) was limited to the tyrosine kinase inhibitor (TKI) sorafenib. Different agents including checkpoint inhibitors, TKIs and anti-VEGFR antibodies demonstrated efficacy in treatment. For the first time, the combination of atezolizumab and bevacizumab, a first-line treatment that is superior to the current standard was identified, potentially changing the way we treat HCC. In this review, we summarize current data on systemic treatment of patients with advanced HCC, focusing on combination therapies comprising immune checkpoint inhibitors, TKIs and locoregional therapies. We elucidate findings from recent trials and discuss such challenges as the lack of predictive biomarkers for identification of subgroups that will benefit from novel treatment strategies.
+VEGFR2; combination therapies; hepatocellular carcinoma; immunotherapy; tyrosine kinase inhibitor.

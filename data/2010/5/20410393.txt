@@ -1,0 +1,4 @@
+20410393
+2010 May
+Objective:We describe our experience with the application of a novel technology in which fluoroscopy and 3D imaging from C-arm cone beam CT systems are combined with integrated navigation software.Conclusion:We applied this technology to five cases in which radiofrequency ablation was performed for hepatocellular carcinoma. Technical success was achieved without treatment-related complications in all cases. We conclude that this novel technology is potentially useful for targeting hepatic lesions.
+

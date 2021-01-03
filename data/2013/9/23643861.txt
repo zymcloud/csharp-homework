@@ -1,0 +1,4 @@
+23643861
+2013 Sep 1
+Breast cancer metastasis suppressor 1 (BRMS1) is able to suppress tumor metastasis without affecting primary tumor growth in various cancers. Here, we report a novel transcript variant of human BRMS1, termed BRMS1.vh. BRMS1.vh is identical to the major BRMS1 variant (BRMS1.v1) except for missing base pairs 683-775, encoding a 215-amino acid protein lacking a functional nuclear localization sequence. Expression of BRMS1.vh in hepatocellular carcinoma (HCC) cells suppressed NF-κB signaling pathway, sensitized cells to apoptotic stimuli, leading to suppressed tumor growth. Taken together, our results suggest a potential role for BRMS1.vh in regulating cell apoptosis and tumor growth in HCC.
+Apoptosis; Breast cancer metastasis suppressor 1 (BRMS1); Hepatocellular carcinoma (HCC); Transcript variant.

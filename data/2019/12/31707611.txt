@@ -1,0 +1,4 @@
+31707611
+2019 Dec
+The objective of this study was to investigate the potential role of p38 mitogen-activated protein kinases (MAPK) in benzo(a)pyrene (BaP)-induced hepatoma cell migration and invasion. Western blot assay was applied to detect the expression of proteins. qRT-PCR assay was used to measure the expression of mRNA. Wound healing assay and Transwell invasion assay were performed to evaluate cell migratory ability and cell invasive ability, respectively. Our data showed that BaP exposure increased the expression of p-p38 protein in human hepatoma HepG2 cells. Exposure to BaP facilitated HepG2 cell migration and invasion, which could be blocked by p38 MAPK inhibitors. In addition, BaP exposure induced upregulation of MMP9 mRNA expression, which was modulated by p-p38. In conclusion, p38 MAPK pathway was involved in BaP-induced hepatoma cell migration and invasion.
+Benzo(a)pyrene; HepG2 cells; Invasion; MMP9; Migration; p38 MAPK.

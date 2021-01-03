@@ -1,0 +1,4 @@
+28255543
+2017 Feb 17
+The increasing incidence and high morbidity and mortality of hepatocellular carcinoma (HCC) have inspired the creation of the Liver Imaging Reporting and Data System (LI-RADS). LI-RADS aims to reduce variability in exam interpretation, improve communication, facilitate clinical therapeutic decisions, reduce omission of pertinent information, and facilitate the monitoring of outcomes. LI-RADS is a dynamic process, which is updated frequently. In this article, we describe the LI-RADS 2014 version (v2014), which marks the second update since the initial version in 2011.
+cirrhosis; hepatocellular carcinoma; hyperenhancement washout; imaging; reporting.

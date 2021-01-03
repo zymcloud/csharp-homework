@@ -1,0 +1,4 @@
+30663937
+2019 Dec
+Fluid shear stress (FSS) regulates the metastasis of hepatocellular carcinoma (HCC). In the present study, we aimed to study the role of autophagy in HCC cells under FSS. The results showed that FSS upregulated the protein markers of autophagy, induced LC3B aggregation and formation of autophagosomes. Inhibition of integrin by Cliengitide (Cli) or inhibition of the microfilaments formation both inhibited the activation of autophagy in HepG2 under FSS. In addition, Cli inhibited the microfilaments formation and expressions of Rac1 and RhoA in HepG2 cells under FSS. Finally, inhibition of autophagy suppressed the cell migration and invasion in HepG2 under FSS. In conclusion, FSS induced autophagy to promote migration and invasion of HepG2 cells via integrin/cytoskeleton pathways.
+Fluid shear stress; autophagy; cytoskeleton; integrin; metastasis.

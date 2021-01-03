@@ -1,0 +1,4 @@
+25661391
+2015 Feb
+Clic1 is a member of the family of chloride intracellular ion channels. Previous studies suggest that Clic1 is involved in migration and invasion of the lymphatic metastasis in hepatocarcinoma, however, the mechanism is not fully understood. In the present study, we observed Clic1 is abundant in cytoplasm, higher expression in Hca-F cell than Hca-P cell, and we showed that downregulation of Clic1 by RNA interference was able to markedly enhance the expression of tumor metastasis genes Annexin A7 and Gelsolin in vitro, and downregulation of Annexin A7 and Gelsolin also enhanced the expression of Clic1 in vitro and in vivo. Our results provide novel insight that Clic1 have a role in migration and invasion in hepatocarcinoma maybe via modulating the expression of Annexin A7 and Gelsolin, and provide novel insight into the mechanisms of Clic1 for hepatocarcinoma treatment.
+Annexin A7; Chloride intracellular channel 1(Clic1); Gelsolin; Hepatocarcinoma.

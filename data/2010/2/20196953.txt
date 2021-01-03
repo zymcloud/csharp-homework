@@ -1,0 +1,4 @@
+20196953
+2010 Feb
+Objective:To study the effects of silencing CLIC1 gene expression on the proliferation and invasion of Hca-F cells.Methods:The mouse CLIC1 cDNA sequence was retrieved from NCBI. Three shRNA sequences were designed and cloned into pGPU6/GFP/Neo plasmids. The plasmids were transfected into Hca-F cells with Lipofectamine 2000. Cell Counting-8 (CCK-8) kit and transwell chamber were used to study the effects of CLIC1 on the proliferation and invasion of Hca-F cells.Results:The pGPU6/GFP/Neo-shRNA-3 plasmid effectively repressed the expression of CLIC1 mRNA. Inhibition of CLIC1 gene expression led to decreased cell proliferation and reduced invasion.Conclusion:CLIC1 is essential for the proliferation and invasion of Hca-F cells.
+

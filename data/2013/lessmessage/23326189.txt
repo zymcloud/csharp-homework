@@ -1,0 +1,4 @@
+23326189
+2013
+Background:Cobalt oxide nanoparticles (Co(3)O(4)NPs) are increasingly recognized for their utility in biological applications, magnetic resonance imaging, and drug delivery. However, little is known about the toxicity of Co(3)O(4)NPs in human cells.Methods:We investigated the possible mechanisms of genotoxicity induced by Co(3)O(4)NPs in human hepatocarcinoma (HepG2) cells. Cell viability, reactive oxygen species (ROS), glutathione, thiobarbituric acid reactive substance, apoptosis, and DNA damage were assessed in HepG2 cells after Co(3)O(4)NPs and Co(2+) exposure.Results:Co(3)O(4)NPs elicited a significant (P Conclusion:Our results demonstrated that Co(3)O(4)NPs induced cytotoxicity and genotoxicity in HepG2 cells through ROS and oxidative stress.
+DNA damage; HepG2 cells; cobalt oxide nanoparticles; cytotoxicity; oxidative stress.

@@ -1,0 +1,4 @@
+26357602
+2013 Sep
+Hepatitis C virus (HCV) infects nearly 170 million people worldwide and causes chronic hepatitis, cirrhosis, and hepatocellular carcinoma. The search for a drug regimen that maximizes efficacy and minimizes side effects is quickly evolving. This review will discuss a wide range of drug targets currently in all phases of development for the treatment of HCV. Direct data from agents in phase III/IV clinical trials will be presented, along with reported side-effect profiles. The mechanism of action of all treatments and resistance issues are highlighted. Special attention is given to available trial data supporting interferon-free treatment regimens. HCV has become an increasingly important public health concern, and it is important for physicians to stay up to date on the rapidly growing novel therapeutic options.
+Drug; HCV; Polymerase; Protease; Triple therapy.

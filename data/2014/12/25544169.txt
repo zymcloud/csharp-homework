@@ -1,0 +1,4 @@
+25544169
+2014 Dec
+Objective:To explore the correlation between the expression of C-terminal tensin-like protein (CTEN) and the prognosis of hepatocellular carcinoma (HCC).Methods:Using immunohistochemistry, we detected CTEN protein level in samples of primary lesion and adjacent non-tumor lesion collected from 240 patients with HCC. The relationship between CTEN expression and clinicopathology, 5 year recurrent-free survival, or overall survival was evaluated by Chi-square test, Kaplan-Meier, or Cox regression analysis.Results:High CTEN expression was detected in 55% of hepatocellular carcinoma tissues and 20% of adjacent carcinoma tissues (PConclusion:CTEN protein may play a role in the genesis and development of HCC, and it can function as a prognostic marker.
+

@@ -1,0 +1,4 @@
+31966789
+2017 Sep 1
+MicroRNAs (miRNAs) are involved in the pathogenesis of diverse types of malignancies, including hepatocellular carcinoma (HCC). However, miR-365 has rarely been reported in HCC. The purpose of the current study was to identify the clinical relevance of miR-365 in HCC and examine the potential downstream signaling effectors.Using real-time RT-qPCR, we confirmed that miR-365 expression was markedly decreased in HCC tissues (3.5138 ± 2.2527) compared to that in paraneoplastic liver tissues (6.5950 ± 4.1230, P
+Hepatocellular carcinoma; bioinformatics enrichment analysis; metastasis; miR-365; progression; target genes.

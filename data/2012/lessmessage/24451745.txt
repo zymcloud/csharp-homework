@@ -1,0 +1,4 @@
+24451745
+2012
+Stereotactic body radiotherapy (SBRT), in which highly conformal potent radiation doses are delivered in fewer fractions than traditional radiation therapy (RT), is an increasingly popular treatment for hepatocellular carcinoma (HCC). The great majority of HCCs smaller than 6 cm and with Child-Pugh A liver function are controlled with SBRT with limited toxicity. Long-term local control is reduced in larger tumors, and toxicity is increased in patients with Child-Pugh B or C liver function. SBRT is an effective treatment for tumor vascular thrombi and can lead to sustained vascular recanalization. The first site of recurrence following SBRT is most often within the liver, away from the high dose volume, providing rationale for combining SBRT with regional or systemic therapies. Randomized trials of SBRT are warranted.
+

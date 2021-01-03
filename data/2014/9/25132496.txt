@@ -1,0 +1,4 @@
+25132496
+2014 Sep 8
+Endoplasmic reticulum (ER) stress has been implicated in the pathogenesis of viral hepatitis, insulin resistance, hepatosteatosis, and nonalcoholic steatohepatitis (NASH), disorders that increase risk of hepatocellular carcinoma (HCC). To determine whether and how ER stress contributes to obesity-driven hepatic tumorigenesis we fed wild-type (WT) and MUP-uPA mice, in which hepatocyte ER stress is induced by plasminogen activator expression, with high-fat diet. Although both strains were equally insulin resistant, the MUP-uPA mice exhibited more liver damage, more immune infiltration, and increased lipogenesis and, as a result, displayed classical NASH signs and developed typical steatohepatitic HCC. Both NASH and HCC development were dependent on TNF produced by inflammatory macrophages that accumulate in the MUP-uPA liver in response to hepatocyte ER stress.
+

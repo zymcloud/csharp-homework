@@ -1,0 +1,4 @@
+25372641
+2014 Sep
+Objective:To investigate the roles of phosphatidylinositol 3 kinase regulatory subunit alpha (PIK3R1）gene in the development of hepatocellular carcinoma （HCC）.Methods:Surgical specimens of liver cancer and corresponding pericancerous liver tissue were collected from 20 patients with hepatocellular carcinoma. Expression of p85α, encoded by PIK3R1, in HCC tissue specimens was detected by Western blotting and immunohistochemistry. HCC HepG2 cells were transfected with PIK3R1 siRNA or PIK3R1-cDNA. The expression of PIK3R1 in transfected HepG2 cells or control cells were detected by real-time PCR. Cell proliferation was evaluated by MTT, colony formation assays and flow cytometry respectively. The expression of PI3K/AKT pathway-related proteins were detected by Western blotting.Results:The expression of p85α in liver tissue was higher than that in pericancerous tissues (1.27±0.58 vs 0.99±0.47，t=-3.25，P
+

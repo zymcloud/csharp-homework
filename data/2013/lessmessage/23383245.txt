@@ -1,0 +1,4 @@
+23383245
+2013
+βKlotho is a regulator in multiple metabolic processes, while its role in cancer remains unclear. We found the expression of βKlotho was down-regulated in human hepatocellular carcinoma tissues compared with that in paired adjacent non-tumourous liver tissues. Hepatoma cells also showed decreased expression of βKlotho compared with normal hepatocyte cells. Reintroduction of βKlotho into hepatoma cells inhibited their proliferation. The anti-proliferative effect of βKlotho might be linked with G1 to S phase arrest, which was mediated by Akt/GSK-3β/cyclin D1 signaling, since forced expression βKlotho reduced the phosphorylation level of Akt and GSK-3β and induced down-regulation of cyclin D1. Furthermore, βKlotho overexpression could inhibit tumorgenesis, while constitutively activated Akt could override the suppressive effects of βKlotho in vivo. These data suggest βKlotho suppresses tumor growth in hepatocellular carcinoma.
+

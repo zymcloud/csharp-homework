@@ -1,0 +1,4 @@
+32289598
+2020 Jul
+Seven undescribed terpenylated coumarins, named altissimacoumarin I-O, together with seven known compounds, altissimacoumarin C, altissimacoumarin E, altissimacoumarin G, altissimacoumarin H, puberulin, 7-(3-Methyl-2-butenyloxy)-6-methoxycoumarin and artelin were isolated from the root bark of Ailanthus altissima (Mill.) Swingle. Their structures were elucidated by comprehensive spectra data analysis, NMR calculation, DP4+ analysis and ACD/Structure Elucidator software simulation. The absolute configurations of altissimacoumarins K, L, M and N were determined by modified Mosher's method. All isolates were tested for their cytotoxic effect against two hepatoma carcinoma cell lines (HepG2, Hep3B). Altissimacoumarin C exhibited moderate cytotoxic effect against Hep3B cells, with IC50 of 45.21 μM.
+Ailanthus altissima (Mill.) Swingle; Modified Mosher's method; NMR calculation; Simaroubaceae; Terpenylated coumarins.

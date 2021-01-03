@@ -1,0 +1,4 @@
+20200147
+2010 Mar
+For many drugs, it is important to adjust the dose for individual patients. To estimate the dose, a patient's body weight or body surface area (BSA) is often used. BSA is difficult to measure directly, but may be calculated using formulae involving the patient's weight and height. Here we discuss BSA and when it is used in practice, in particular, for calculating drug doses in children and for cancer chemotherapy.
+

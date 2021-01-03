@@ -1,0 +1,4 @@
+21554200
+2011 Jul
+Hepatocellular carcinoma (HCC) is the third most common cause of cancer-related mortality in the world because current treatments, including both surgical and non-surgical ones, cannot effectively cure this disease. Increasing evidence has revealed the importance of cancer stem cells (CSCs) in hepatocarcinogenesis, and the idea of targeting CSCs sheds light on more effective therapeutic strategies for HCC. In this review, normal stem cells and putative CSCs in the liver are briefly introduced. Studies about signaling pathways that regulate pathophysiological activities of liver CSCs and the therapeutic potential by targeting CSCs are also summarized and discussed.
+

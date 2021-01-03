@@ -1,0 +1,4 @@
+22085493
+2012 Apr 1
+Previously, we demonstrated that cancerous inhibitor of protein phosphatase 2A (CIP2A) mediates bortezomib-induced apoptosis in hepatocellular carcinoma cells. Herein, we report that bortezomib sensitizes solid tumor cells to radiation-induced apoptosis. Treatment with a combination of bortezomib and radiation downregulated CIP2A in a dose-dependent manner in solid tumor cells. Knockdown of CIP2A enhanced radiation-induced apoptosis in cancer cells, and ectopic expression of CIP2A in cancer cells abolished radiation-induced apoptosis. Finally, our in vivo data showed that bortezomib and radiation combination treatment decreased tumor growth significantly. Thus, bortezomib sensitized solid tumor cells to radiation through the inhibition of CIP2A.
+

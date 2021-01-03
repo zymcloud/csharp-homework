@@ -1,0 +1,4 @@
+30974464
+2019 May
+Four pairs of β-carboline enantiomers (1A: /1B: -4A: /4B: ), 2 β-carboline derivatives (5: - 6: ) with a single enantiomeric configuration, together with 2 known achiral congeners (7: - 8: ) were isolated from the stems of Picrasma quassioides. Their structures were elucidated on the basis of extensive spectroscopic analyses and quantum mechanical calculations. Compound 5: possesses a 4,5-seco β-carboline framework and represents the first example of this type of β-carboline alkaloids from nature. A possible biosynthetic pathway is proposed to generate the racemate 4: and the enantiomerically pure compounds 5: and 6: . All isolates were screened for their cytotoxicity against hepatocellular carcinoma Hep3B and HepG2 cells, which revealed that enantiomeric compounds 4A: and 4B: had distinctive effects in HepG2 cells. Further investigation showed that 4B: could induce apoptosis in HepG2 cells.
+

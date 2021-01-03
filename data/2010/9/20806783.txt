@@ -1,0 +1,4 @@
+20806783
+2010 Sep 24
+The inhibition of protein tyrosine phosphatase 1B (PTP1B) is of substantial interest for the treatment of type-2 diabetes mellitus. Using an in vitro enzyme assay with human recombinant PTP1B 1,2,3,4,6-penta-O-galloyl-D-glucopyranose was isolated from the roots of Paeonia lactiflora as an inhibitor of PTP1B, with an IC(50) value of 4.8 μM. Additionally, 1 was shown to act as an insulin sensitizer in human hepatoma cells (HCC-1.2) at a concentration of 10 μM. Thus, a potential new mechanism of action is provided explaining the antidiabetic properties of P. lactiflora.
+

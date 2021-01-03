@@ -1,0 +1,4 @@
+25646692
+2015 Mar 6
+Publicly available microarray data suggests that the expression of FAM83D (Family with sequence similarity 83, member D) is elevated in a wide variety of tumor types, including hepatocellular carcinoma (HCC). However, its role in the pathogenesis of HCC has not been elucidated. Here, we showed that FAM83D was frequently up-regulated in HCC samples. Forced FAM83D expression in HCC cell lines significantly promoted their proliferation and colony formation while FAM83D knockdown resulted in the opposite effects. Mechanistic analyses indicated that FAM83D was able to activate the MEK/ERK signaling pathway and promote the entry into S phase of cell cycle progression. Taken together, these results demonstrate that FAM83D is a novel oncogene in HCC development and may constitute a potential therapeutic target in HCC.
+Cell cycle; FAM83D; HCC; MEK/ERK; Proliferation.

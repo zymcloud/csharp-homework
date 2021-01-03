@@ -1,0 +1,4 @@
+28415659
+2017 May 9
+Several previous studies have reported the prognostic value of hexokinase 2 (HK2) in digestive system tumors. However, these studies were limited by the small sample sizes and the results were inconsistent among them. Therefore, we conducted a meta-analysis based on 15 studies with 1932 patients to assess the relationship between HK2 overexpression and overall survival (OS) of digestive system malignancies. The relationship of HK2 and clinicopathological features was also evaluated. Hazard ratio (HR) or odds ratio (OR) with its 95% confidence intervals (CI) were calculated to estimate the effect size. Positive HK2 expression showed poor OS in all tumor types (HR = 1.75 [1.41-2.18], P
+digestive system; hexokinase 2; meta-analysis; prognosis; solid tumors.

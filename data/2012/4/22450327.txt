@@ -1,0 +1,4 @@
+22450327
+2012 Apr 13
+Developmentally regulated GTP-binding protein 2 (DRG2), an evolutionarily conserved member of the DRG subfamily in the GTP-binding protein, is thought to play an essential role in the control of cell growth and differentiation. However, the role of DRG2 in hepatocellular carcinoma cells is largely unknown. Here, we show that DRG2 is down-regulated during chemotherapeutic drug induced apoptosis in four hepatocellular carcinoma cell lines. We further provided evidence that DRG2 was a substrate of a SKP1-CULLIN1-F-box E3 ligase complex and inhibition the function of Cullin1 prevented the degradation of DRG2 during apoptosis. Moreover, over-expression of DRG2 inhibited doxorubicin induced apoptosis in hepatocellular carcinoma cells. Taken together, these results demonstrate that regulated degradation of DRG2 has a role in chemotherapeutic drug induced hepatocellular carcinoma cells apoptosis.
+

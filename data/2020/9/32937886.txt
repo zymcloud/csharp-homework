@@ -1,0 +1,4 @@
+32937886
+2020 Sep 14
+The three major members of non-coding RNAs (ncRNAs), named microRNAs (miRNAs), long non-coding RNAs (lncRNAs), and circular RNAs (circRNAs), play an important role in hepatocellular carcinoma (HCC) development. Recently, the competing endogenous RNA (ceRNA) regulation model described lncRNA/circRNA as a sponge for miRNAs to indirectly regulate miRNA downstream target genes. Accumulating evidence has indicated that ceRNA regulatory networks are associated with biological processes in HCC, including cancer cell growth, epithelial to mesenchymal transition (EMT), metastasis, and chemoresistance. In this review, we summarize recent discoveries, which are specific ceRNA regulatory networks (lncRNA/circRNA-miRNA-mRNA) in HCC and discuss their clinical significance.
+circular RNA; competing endogenous RNA; hepatocellular carcinoma; long non-coding RNA; microRNA.

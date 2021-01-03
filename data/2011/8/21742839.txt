@@ -1,0 +1,4 @@
+21742839
+2011 Aug 1
+Background:We studied whether quantification of serum HBsAg and HBV DNA levels could predict spontaneous HBsAg clearance in patients with negative hepatitis B e antigen (HBeAg).Methods:Serum HBsAg and HBV DNA levels were measured at baseline among a longitudinal cohort of 103 HBeAg-negative patients recruited since 1997.Results:Twelve (12%) patients developed HBsAg seroclearance after 88 ± 26 months (range, 21-139) of follow-up. At baseline, the serum HBsAg level among patients who cleared HBsAg (1.30 ± 1.27 log IU/mL) was significantly lower than those who did not clear HBsAg (2.96 ± 0.84 log IU/mL; P Conclusions:Single-point serum HBsAg level can predict the chance of HBsAg seroclearance in chronic hepatitis B patients with negative HBeAg.
+

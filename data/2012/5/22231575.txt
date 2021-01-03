@@ -1,0 +1,4 @@
+22231575
+2012 May
+Background:Nucleotide analogues have recently been approved for the treatment of patients with hepatitis B virus (HBV) infection. However, it is still controversial whether the decrease of HBV-DNA amount induced by treatment with nucleotide analogues can reduce the risk of hepatocellular carcinoma (HCC) development in HBV patients.Methods:A total of 293 HBV patients without HCC who were treated with lamivudine (LAM) were enrolled in a multicenter trial. The incidence of HCC was examined after the start of LAM therapy, and the risk factors for liver carcinogenesis were analyzed. The mean follow-up period was 67.6 ± 27.4 months.Results:On multivariate analysis for HCC development in all patients, age ≥50 years, platelet count Conclusions:These results suggest that the incidence of HCC in HBV patients with cirrhosis can be reduced in those with an MVR induced by consecutive LAM treatment.
+

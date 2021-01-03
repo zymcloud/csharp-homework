@@ -1,0 +1,4 @@
+25176213
+2014 Aug
+Objective:To investigate the effect of ischemia/reperfusion (I/R) on tumor metastasis in a experimental mouse model of hematogenous metastasis after I/R and to quantify expression of vascular cell adhesion molecule-1 (VCAM-1) during I/R.Methods:An experimental mouse model of metastasis after partial hepatic I/R was designed to determine the effects of I/R on tumor metastasis to liver. Tumor loads were valued 14 days after operation. In addition, the expressions of alanine transaminase (ALT), aspartate transaminase (AST), and VCAM-1 were detected.Results:Two hours after hepatic reperfusion, ALT and AST levels in ischemia 45-minute group and ischemia 30-minute group were significantly higher than in the sham group (all P Conclusion:Hepatic I/R promotes liver hematogenic metastasis of hepatocellular carcinoma in mice and at least in part, through the induction of VCAM-1 expression.
+

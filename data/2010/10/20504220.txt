@@ -1,0 +1,4 @@
+20504220
+2010 Oct
+In this study, we evaluated SEA-H61D, a staphylococcal enterotoxin A mutant without emetic activity, as an antitumor agent in vitro and in vivo. It showed that SEA-H61D could significantly inhibit the growth of many cancer cell lines in vitro at very low concentrations by activating human peripheral blood mononuclear cells (PBMCs). CD4+ and CD8+ T lymphocytes could be activated at a dose between 125 and 500 μg/kg. Systemic administration of SEA-H61D in vivo significantly inhibited tumor growth, with the treated group undergoing tumor necrosis and showing a strong infiltration of lymphocytes to the tumor area.
+

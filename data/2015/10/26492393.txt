@@ -1,0 +1,4 @@
+26492393
+2015 Oct 22
+Long noncoding RNAs (lncRNAs) regulate gene expression by acting with microRNAs (miRNAs). However, the roles of cancer specific lncRNA and its related competitive endogenous RNAs (ceRNA) network in hepatocellular cell carcinoma (HCC) are not fully understood. The lncRNA profiles in 372 HCC patients, including 372 tumor and 48 adjacent non-tumor liver tissues, from The Cancer Genome Atlas (TCGA) and NCBI GEO omnibus (GSE65485) were analyzed. Cancer specific lncRNAs (or HCC related lncRNAs) were identified and correlated with clinical features. Based on bioinformatics generated from miRcode, starBase, and miRTarBase, we constructed an lncRNA-miRNA-mRNA network (ceRNA network) in HCC. We found 177 cancer specific lncRNAs in HCC (fold change ≥ 1.5, P
+

@@ -1,0 +1,4 @@
+29686039
+2019 Mar 1
+Similar to other hepatotropic viruses, hepatitis E virus (HEV) has been notoriously difficult to propagate in cell culture, limiting studies to unravel its biology. Recently, major advances have been made by passaging primary HEV isolates and selecting variants that replicate efficiently in carcinoma cells. These adaptations, however, can alter HEV biology. We have explored human embryonic or induced pluripotent stem cell (hESC/iPSC)-derived hepatocyte-like cells (HLCs) as an alternative to conventional hepatoma and hepatocyte cell culture systems for HEV studies. HLCs are permissive for nonadapted HEV isolate genotypes (gt)1-4 replication and can be readily genetically manipulated. HLCs, therefore, enable studies of pan-genotype HEV biology and will serve as a platform for testing anti-HEV treatments. Finally, we discuss how hepatocyte polarity is likely an important factor in the maturation and spread of infectious HEV particles.
+

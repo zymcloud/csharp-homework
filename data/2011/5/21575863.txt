@@ -1,0 +1,4 @@
+21575863
+2011 May 17
+The human gene Ptpn11, which encodes the tyrosine phosphatase Shp2, may act as a proto-oncogene because dominantly activating mutations have been detected in several types of leukemia. Herein we report a tumor-suppressor function of Shp2. Hepatocyte-specific deletion of Shp2 promotes inflammatory signaling through the Stat3 pathway and hepatic inflammation/necrosis, resulting in regenerative hyperplasia and development of tumors in aged mice. Furthermore, Shp2 ablation dramatically enhanced diethylnitrosamine (DEN)-induced hepatocellular carcinoma (HCC) development, which was abolished by concurrent deletion of Shp2 and Stat3 in hepatocytes. Decreased Shp2 expression was detected in a subfraction of human HCC specimens. Thus, in contrast to the leukemogenic effect of dominant-active mutants, Ptpn11/Shp2 has a tumor-suppressor function in liver.
+

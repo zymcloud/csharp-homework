@@ -1,0 +1,4 @@
+21617590
+2011 Jun 15
+Background:Systemic inflammation markers, such as neutrophil-to-lymphocyte ratio (NLR), have recently emerged as the prognostic factors for recurrence of liver tumors.Methods:We assessed the ability of NLR and of other variables to predict the outcomes of orthotopic liver transplantation (OLT) for hepatocellular carcinoma (HCC). A retrospective analysis was performed in 219 patients with HCC who underwent OLT between 1997 and 2009, with a median follow-up of 40 months.Results:Overall 3- and 5-year patient survival rates were 76.6% and 70.7%, respectively. Overall 3- and 5-year recurrence-free survival (RFS) rates were 83.8% and 82.1%, respectively. On univariate analysis, the factors affecting overall survival were α-fetoprotein more than 30 ng/mL (P=0.006), NLR more than or equal to 5 (PConclusions:NLR is an important predictor of outcome after OLT for HCC and should be used to identify OLT candidates at high risk of recurrence.
+

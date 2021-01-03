@@ -1,0 +1,4 @@
+23747849
+2013 Jun 1
+Bone marrow mesenchymal stem cells (BMSCs) are non-hematopoietic multipotent stem cells capable of differentiating into mature cells. Studies in animal models have indicated that hepatocellular carcinoma (HCC) may originate from genetically mutated BMSCs. Moreover, it has been shown that BMSCs are influenced by and can modulate their micro-environment via secreted cytokines that promote tumor initiation, growth, and homing to tumor sites. Based on these features, BMSCs have been recognized as a putative target of molecular therapies to treat and prevent HCC. In this review we discuss the role of human BMSCs in HCC pathogenesis and their therapeutic potential.
+

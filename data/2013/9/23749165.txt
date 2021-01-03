@@ -1,0 +1,4 @@
+23749165
+2013 Sep
+The aim of the current study was to investigate how proinflammatory conditions affect growth and progression of hepatocellular carcinoma. Human hepatoma cell lines were treated with lipopolysaccharide (LPS) or cyclooxygenase-2 inhibitor, Celecoxib, and in vitro proliferation, apoptosis, and cell cycle progression were assessed. This was followed up with in vivo xenograft assays to monitor tumor growth and metastatic progression under different treatment conditions. While LPS induced cell proliferation, Celecoxib induced apoptosis. Flow cytometry analysis demonstrated that S-phase cell count in LPS group was higher than control group (41.9 ± 3.2 vs 30.6 ± 0.1%, respectively), whereas G0/G1-phase cells were significantly higher in the Celecoxib group in comparison with the control group (69.6 ± 5.0 vs 50.4 ± 1.6%, respectively) (p
+

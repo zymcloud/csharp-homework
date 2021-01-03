@@ -1,0 +1,4 @@
+29945926
+2018 Jul 12
+Recurrence is one of the major causes of poor prognosis for patients with hepatocellular carcinoma (HCC), and drug resistance is closely associated with disease recurrence. Histone deacetylase (HDAC) inhibitor scriptaid functions as an anticancer agent in many different types of tumors, but its possible roles in HCC progression have not been explored to date. Herein, we show that HDAC inhibitor scriptaid decreases HCC cell proliferation and induces cell cycle G2/M-phase arrest in a dose-dependent manner. Furthermore, scriptaid triggered HCC cell death via transcriptional activation of p21 and subsequent elevated global H3Ac levels. Importantly, we found that scriptaid showed robust antitumor activity against HCC. Thus, our findings indicate that HDAC inhibitor scriptaid could be an important potential candidate for treatment of HCC patients.
+Scriptaid; apoptosis; hepatocelluar carcinoma; proliferation.

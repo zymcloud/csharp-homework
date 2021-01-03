@@ -1,0 +1,4 @@
+22005063
+2011 Oct
+In this study, we investigated the mechanisms by which the chemotherapeutic agent paclitaxel (PTX) induced the expression of B7-H1 immunosuppressive molecules in the human colorectal adenocarcinoma cell line SW480 and the hepatocellular carcinoma cell line HepG2. We found ptX induced B7-H1 protein expression in SW480 and HepG2 cells as demonstrated by immunofluorescence and flow cytometry and mRNA expression by using real-time quantitative polymerase chain reaction (PCR). Moreover, PTX treatment induced Erk½ phosphorylation in both cell lines. PTX-increased B7-H1 mRNA expression was significantly blocked by MEK inhibitor U0126. However, the protein expression caused by PTX was only partially blocked by U0126. Our results suggest that PTX upregulated B7-H1 expression in cultured SW480 and HepG2 cells via both transcriptional and post-transcriptional mechanisms. This may help us better understand PTX-related tumor immune evasion.
+

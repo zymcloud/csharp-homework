@@ -1,0 +1,4 @@
+22465013
+2012 Apr 20
+Xanthorrhizol is a plant-derived pharmacologically active sesquiterpenoid compound isolated from Curcuma xanthorrhiza. Previously, we have reported that xanthorrhizol inhibited the proliferation of HepG2 human hepatoma cells by inducing apoptotic cell death via caspase activation. Here, we attempt to further elucidate the mode of action of xanthorrhizol. Apoptosis in xanthorrhizol-treated HepG2 cells as observed by scanning electron microscopy was accompanied by truncation of BID; reduction of both anti-apoptotic Bcl-2 and Bcl-X(L) expression; cleavage of PARP and DFF45/ICAD proteins and DNA fragmentation. Taken together, these results suggest xanthorrhizol as a potent antiproliferative agent on HepG2 cells by inducing apoptosis via Bcl-2 family members. Hence we proposed that xanthorrhizol could be used as an anti-liver cancer drug for future studies.
+

@@ -1,0 +1,4 @@
+31472743
+2019 Oct
+Pretreatment dual-tracer (18F-fluorodeoxyglucose and 11C-acetate) PET/computed tomography (CT) has potential to predict treatment response for 90Y microsphere radioembolization (RE) in patients with inoperable hepatocellular carcinoma (HCC). Patients with 11C-acetate-avid HCC have a better response to 90Y microsphere RE, and possibly better survival. Pretreatment dual-tracer PET/CT has a significant theranostic value on 90Y microsphere RE in determining target tumor dose for HCCs with different cellular differentiation, metabolic tumor volume, and functioning liver volume, and can be used to prescribe individual injected activity of 90Y microspheres.
+(11)C-acetate; (18)F-FDG; (90)Y microspheres; HCC; PET/CT; Radioembolization.

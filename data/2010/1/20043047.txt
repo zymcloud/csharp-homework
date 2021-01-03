@@ -1,0 +1,4 @@
+20043047
+2010 Jan
+Hepatoma-derived growth factor (HDGF), a nuclear protein with both mitogenic and angiogenic activity, has been reported to be mainly involved in tumorigenesis and the progression of non-small cell lung cancer. In this study, the HDGF expression was knocked down by specific-shRNA with lentivirus expression vector targeting HDGF in lung squamous cell carcinoma 520 cells. HDGF knocked down by shRNA suppressed the cell proliferation significantly both in vitro and in vivo as indicated by MTT, plate clone and transplanted tumor model assays. In addition, the knocked-down expression of HDGF also inhibited cell migration and invasion as shown in transwell and Boyden experiments. We concluded that HDGF acts as an oncogene participating in the pathogenesis of squamous cell lung cancer, and HDGF may be a key therapeutic target for non-small cell lung cancer.
+

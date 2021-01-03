@@ -1,0 +1,4 @@
+27348267
+2016 Jun 27
+Ras-Association Domain Family 10 (RASSF10) is the last identified member of the RASSF family. The functional characteristics of this new gene in human cancers remain largely unclear. Here, we examined RASSF10 for the biological functions and related molecular mechanisms in hepatocellular carcinoma (HCC). We found that RASSF10 is expressed in normal human liver tissue, but is silenced or down-regulated in 62.5% (5/8) of HCC cell lines. The mean expression level of RASSF10 was significantly lower in primary HCCs compared with their adjacent normal tissues (P
+

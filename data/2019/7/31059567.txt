@@ -1,0 +1,4 @@
+31059567
+2019 Jul 20
+Early recurrence of hepatocellular carcinoma (HCC) is implicated in poor patient survival and is the major obstacle to improving prognosis. The current staging systems are insufficient for accurate prediction of early recurrence, suggesting that additional indicators for early recurrence are needed. Here, by analyzing the gene expression profiles of 12 Gene Expression Omnibus data sets (n = 1533), we identified 257 differentially expressed genes between HCC and non-tumor tissues. Least absolute shrinkage and selection operator regression model was used to identify a 24-messenger RNA (mRNA)-based signature in discovery cohort GSE14520. With specific risk score formula, patients were divided into high- and low-risk groups. Recurrence-free survival within 2 years (early-RFS) was significantly different between these two groups in discovery cohort [hazard ratio (HR): 7.954, 95% confidence interval (CI): 4.596-13.767, P
+

@@ -1,0 +1,4 @@
+20590901
+2010 Jun
+Staging of hepatocellular carcinoma (HCC) is complex and relies on multiple factors including tumor extent and hepatic function. No single staging system is applicable to all patients with HCC. The staging of the American Joint Committee on Cancer / International Union for Cancer Control should be used to predict outcome following resection or liver transplantation. The Barcelona Clinic Liver Cancer scheme is appropriate in patients with advanced HCC not candidate for surgery. Dual phase computed tomography or magnetic resonance imaging can be used for pretreatment assessment of tumor extent but the accuracy of these methods remains poor to characterize
+

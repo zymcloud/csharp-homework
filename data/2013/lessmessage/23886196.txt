@@ -1,0 +1,4 @@
+23886196
+2013
+Purpose:Liver cancer, one of the most common cancers in China, is reported to feature relatively high morbidity and mortality. Curcumin (Cum) is considered as a drug possessing anti-angiogenic, anti-inflammation and anti-oxidation effect. Previous research has demonstrated antitumor effects in a series of cancers.Materials and methods:In this study the in vitro cytotoxicity of Cum was measured by MTT assay and pro-apoptotic effects were assessed by DAPI staining and measurement of caspase-3 activity. In vivo anti-hepatoma efficacy of Cum was assessed with HepG2 xenografts.Results:It is found that Cum dose-dependently inhibited cell growth in HepG2 cells with activation of apoptosis. Moreover, Cum delayed the growth of liver cancer in a dose-dependent manner in nude mice.Conclusions:Cum might be a promising phytomedicine in cancer therapy and further efforts are needed to explore this therapeutic strategy.
+

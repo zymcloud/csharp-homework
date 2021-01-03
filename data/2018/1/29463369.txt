@@ -1,0 +1,4 @@
+29463369
+2018 Jan 1
+Norcantharidin (NCTD), the demethylated analogue of cantharidin, has been confirmed to have a good anti-tumor effect against hepatocellular carcinoma (HCC). However, its use is limited by its poor water solubility and low tumortargeting efficacy. In the present study, an active-targeted drug delivery nanoplatform was designed to deliver NCTD using a glycyrrhetinic acid (GA)-decorated copolymer (mPEG-PCL-PEI-GA, MPG). The NCTD-loaded polymeric nanoparticles (MPG/NCTD) formed by self-assembly in water exhibited a mean hydrodynamic diameter of roughly 89 nm. In vitro studies revealed that GA-conjugated nanoparticles (AT NPs) had superior cytotoxicity and higher targeting efficacy on HepG2 cells compared to non-conjugated nanoparticles (Non-AT NPs, NAT NPs). Determination of cell apoptosis and cell cycle phase showed that AT NPs resulted in increased cell apoptosis and a distinct increase in the G2 phase (65.30 ± 3.52%, P
+

@@ -1,0 +1,4 @@
+22355221
+2011
+Microarray analysis has been applied to comprehensively reveal the abnormalities of DNA copy number (CN) and gene expression in human cancer research during the last decade. These analyses have individually contributed to identify the genes associated with carcinogenesis, progression, metastasis of tumor cells and poor prognosis of cancer patients. However, it is known that the correlation between profiles of CN and gene expression does not highly correlate. Factors which determine the degree of correlation remain largely unexplained. To investigate one such factor, we performed trend analyses between the lengths of CN segments and corresponding gene expression profiles from microarray data in hepatocellular carcinoma (HCC) and colorectal carcinoma (CRC). Significant correlations were observed in CN gain of HCC and CRC (p
+colorectal carcinoma; copy number alteration; gene expression; hepatocellular carcinoma; microarray.

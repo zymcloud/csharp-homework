@@ -1,0 +1,4 @@
+20674562
+2010 Oct 25
+Hepatoma-derived growth factor (HDGF) is correlated with aggressive tumor behaviors such as invasion and angiogenesis. Nevertheless, the potential involvement of HDGF in cell resistance to natural plant phenols-based chemotherapy is still unclear. This study demonstrated that over-expression of HDGF could confer the resistance of human colorectal cancer (CRC) cells to nordihydroguaiaretic acid (NDGA) toxicity. Enforced expression of HDGF could inhibit NDGA-induced apoptosis through the mitochondrial pathway in CRC cells, and attenuate the inhibitory effect of NDGA on tumor growth. Therefore, our results suggest that HDGF represents a potential molecule associated with chemotherapy resistance, which may have major implications in improving chemotherapy of colorectal cancer.
+

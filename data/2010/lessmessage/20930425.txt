@@ -1,0 +1,4 @@
+20930425
+2010
+Xanthine oxidase (XO) catalyzes the oxidation of endogenous and exogenous purines and pyrimidines. In the present study, we investigated polymorphisms in the promoter region of the XO gene. Sequence variations in the 5'-flanking region were screened using denaturing high-performance liquid chromatography (DHPLC) on DNA samples from 196 unrelated Japanese individuals. Thirteen polymorphisms were identified and 13 haplotypes were classified by haplotype analysis. The promoter activities of these polymorphisms were measured by luciferase assay in the human hepatoma cell lines HepG2 and Huh-7. Transcriptional activity was significantly lower in cell lines transfected with the reporter construct containing 5-kb upstream fragments with -1756T than in those with wild-type -1756C. Our results indicate that genetic variation in the promoter region of XO may determine interindividual differences in XO gene expression.
+

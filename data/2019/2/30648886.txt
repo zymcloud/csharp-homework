@@ -1,0 +1,4 @@
+30648886
+2019 Feb
+The receptor tyrosine kinase Axl and its ligand Gas6 regulate fundamental biological processes, including cell proliferation, survival and motility, through multiple downstream signaling pathways. Evidence to date suggests that aberrant Axl expression frequently occurs in many malignancies, including hepatocellular carcinoma, and that this is critical for promoting cell proliferation, migration, angiogenesis and metastasis. Moreover, deregulated Axl expression or activation is reportedly associated with resistance to cancer drugs and targeted cancer therapies. Thus, Axl inhibitors may represent a novel therapeutic approach for cancer treatment. This Review summarizes the latest advances concerning the biological role of Axl in hepatocellular carcinoma and its potential clinical relevance.
+Axl; function; hepatocellular carcinoma; receptor tyrosine kinase; therapeutic target.

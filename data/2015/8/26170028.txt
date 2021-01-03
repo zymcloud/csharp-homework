@@ -1,0 +1,4 @@
+26170028
+2015 Aug 4
+This study aimed at identifying potential microRNAs that modulate hepatic lipid droplets (LD) through targeting the Tail interacting protein of 47 kDa (TIP47) in HCV infection. Bioinformatics analysis revealed that miR-148a and miR-30a potentially target TIP47. Expression profiling showed that both microRNAs were downregulated, while TIP47 was upregulated in liver biopsies of HCV-infected patients. Forcing the expression of both microRNAs in JFH-I infected, oleic acid-treated Huh7 cells, significantly suppressed TIP47 expression and reduced cellular LDs with marked decrease in viral RNA. This study shows that miR-148a and miR-30a, regulate TIP47 expression and LDs in HCV infected cells.
+HCV; Lipid droplets; Tail interacting protein of 47kDa; miR-148a; miR-30a.

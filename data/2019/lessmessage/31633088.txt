@@ -1,0 +1,4 @@
+31633088
+Jul-Dec 2019
+Proprotein convertase subtilisin-kexin 9 (PCSK9) appears to be involved in multiple processes. A ProtoArray Human Protein Microarray was used to identify proteins interacting with biotinylated PCSK9. Fifteen novel proteins interacting with PCSK9 were identified using this technique. Only two of these proteins, sterol carrier protein 2 and hepatoma-derived growth factor, related protein 3, have known functions. The identification of proteins that could affect the expression/function of PCSK9 is of great interest due to potential implications in personalized medicine for hypercholesterolemic patients.
+Hypercholesterolemia; Metabolic diseases; PCSK9; Protein-protein interaction; Protoarray.

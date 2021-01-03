@@ -1,0 +1,4 @@
+20872120
+2010 Oct
+Objective:To investigate the mechanism of norcantharidin (NCTD)-induced SMMC-7721 hepatoma cell apoptosis.Methods:SMMC-7721 cell growth inhibition was measured by the MTT method. Apoptosis was detected by Annexin V/propidium iodide staining. The mitochondrial membrane potential was measured by flow cytometry. Western blot analysis was used to evaluate the level of cytochrome c, caspase-3, AIF, Bcl-2 and Bax expression.Results:NCTD inhibited SMMC-7721 cell growth in a time- and dose-dependent manner. The cells treated with NCTD showed the loss of mitochondrial membrane potential. The activities of caspase-3, cytochrome c, AIF, and Bax were up-regulated after NCTD treatment at different doses. The expression of Bcl-2 was decreased after treatment with NCTD.Conclusions:NCTD could induce SMMC-7721 cell apoptosis. The activation of the mitochondrial pathway was involved in the process of NCTD-induced SMMC-7721 cell apoptosis.
+

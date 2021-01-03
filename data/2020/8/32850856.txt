@@ -1,0 +1,4 @@
+32850856
+2020 Aug 5
+Snail2 has an important role in the epithelial-mesenchymal transition (EMT) and tumor metastasis. Here, we report that Snail2 is highly expressed during TGF-β induced EMT in HL-7702 cells. Additionally, overexpression of Snail2 successfully promotes the migration and invasion of these cells, both in vitro and in a mouse model. Furthermore, our results show that HDAC1 and HDAC3 could suppress the Snail2 gene promoter. Moreover, we find that the acetylation of H3K4 and H3K56 are significantly reduced during the EMT process of liver HL-7702 cells. Thus, our results indicate that HDAC1 and HDAC3 epigenetically suppress the expression of Snail2 during the EMT of liver cells, revealing an opposing function of HDACs during the migration of malignant tumors.
+Snail2; epithelial-mesenchymal transition; hepatocellular carcinoma; histone deacetylases; metastasis.

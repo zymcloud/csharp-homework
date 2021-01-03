@@ -1,0 +1,4 @@
+27583916
+2016 Aug
+Patients with hepatocellular carcinoma (HCC) satisfying the Milan criteria are candidates for liver transplantation (LT), but locoregional therapies could be another options for them.A total of 1859 treatment-naïve HCC patients fulfilling the Milan criteria were analyzed. Survival tree analysis was performed to generate survival nodes with similar survival risks in 1729 non-LT group, and compared with the survival of 130 patients who received LT.Among patients who did not receive LT, survival tree analysis classified patients into 6 nodes according to Child-Pugh (CP) score, serum alphafetoprotein (AFP) levels, tumor size, and age, with different mortality risks (5-year survival rate of 87.3%, 77.5%, 65.8%, 64.7%, 44.0%, and 28.7% for nodes 1-6, respectively; P 0.05), but the survival rates of patients in nodes 3 to 6 were worse than that of LT (P
+

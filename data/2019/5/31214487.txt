@@ -1,0 +1,4 @@
+31214487
+2019 May 31
+FOXN3 (forkhead box N3; CHES1: check point suppressor 1) belongs to the forkhead box (FOX) protein family. FOXN3 displays transcriptional inhibitory activity, and is involved in cell cycle regulation and tumorigenesis. FOXN3 is a tumor suppresser and alterations in FOXN3 are found in of a variety of cancers including melanoma, osteosarcoma, and hepatocellular carcinoma. While the roles of FOXN3 role in some cancers have been explored, its role in breast cancer remains unclear. Here we describe current state of knowledge of FOXN3 functions, and focus on its roles (known and potential) in breast cancer.
+FOXN3; breast; cancer; forkhead; function; malignancy; regulation; review.

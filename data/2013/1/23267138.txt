@@ -1,0 +1,4 @@
+23267138
+2013 Jan
+Gambogic acid (GA), a natural xanthone, has a wide spectrum of pharmacological activities, including repression of telomerase expression and induction of apoptosis of cancer cells. GA has also been reported to reduce the steady-state level of thymidylate synthetase mRNA in a gastric carcinoma cell line. Therefore, it has recently emerged as a candidate for use in cancer treatment. Using hepatoma cells with a dihydrofolate reductase (DHFR) gene amplification and cells transfected with an inducible DHFR transgene, we observed a negative relationship between DHFR expression and resistance to GA. Furthermore, DHFR assays in vitro indicated that in the presence of GA, DHFR activity was slightly inhibited and the affinity of the enzyme for dihydrofolate was markedly decreased. Treatment of rat hepatoma and other human and murine cancer cell lines with methotrexate and GA revealed that the two drugs displayed a marked synergistic lethal effect.
+

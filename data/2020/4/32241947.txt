@@ -1,0 +1,4 @@
+32241947
+2020 Apr 3
+Ferroptosis is a form of cell death that results from the catastrophic accumulation of lipid reactive oxygen species (ROS). Oncogenic signaling elevates lipid ROS production in many tumor types and is counteracted by metabolites that are derived from the amino acid cysteine. In this work, we show that the import of oxidized cysteine (cystine) via system xC - is a critical dependency of pancreatic ductal adenocarcinoma (PDAC), which is a leading cause of cancer mortality. PDAC cells used cysteine to synthesize glutathione and coenzyme A, which, together, down-regulated ferroptosis. Studying genetically engineered mice, we found that the deletion of a system xC - subunit, Slc7a11, induced tumor-selective ferroptosis and inhibited PDAC growth. This was replicated through the administration of cyst(e)inase, a drug that depletes cysteine and cystine, demonstrating a translatable means to induce ferroptosis in PDAC.
+

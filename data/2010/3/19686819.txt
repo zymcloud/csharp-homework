@@ -1,0 +1,4 @@
+19686819
+2010 Mar
+Aster flaccidus bge has been used as traditional medicine in northwestern China. Two new phenylpropanoids (1-2) including one lignan: (7'R, 8S)-9'-lariciresinol-(alpha-methyl)-butanoate (1), 5,9-dimethoxyl-7-(alpha-methyl)-butanoxyl-phenyl-2E-propenol-(alpha-methyl)-butanoate (2) isolated from the chloroform extract of the root of Aster flaccidus bge were identified by means of extensive spectroscopic studies: 1D and 2D NMR spectra as well as HRMS analysis. They have not obvious anti-HIV-1 therapeutic activity (TI=1.0-1.1) compared with AZT (TI=55,556) as the result of the determination of their in vitro anti-HIV-1 activity while compound 2 displays strong antitumor activity against BEL 7402 (human liver carcinoma) with cisplatin as a positive control and the effect increases with the measuring-time going on (24 h, IC(50): 106.67+/-8.47 microM - 72 h, IC(50): 50.51+/-6.11 microM).
+

@@ -1,0 +1,4 @@
+25764670
+2015 Feb
+Over 70% of individuals acutely infected with hepatitis C virus (HCV) develop chronic infection at significant risk of progressive liver fibrosis and subsequent liver cirrhosis and hepatocellular carcinoma. Various viral, host, and environmental factors have been reported to affect the natural history of HCV infection such as chronicity in acute phase and disease progression in chronic phase. Recent genome-wide association studies (GWAS) identified several host factors which are associated with treatment efficacy and clinical course in HCV infection. In this review, we focus on the host factors identified by GWAS, especially on HCV spontaneous clearance and disease progression in chronic HCV infection.
+

@@ -1,0 +1,4 @@
+21878328
+2011 Oct 3
+Hepatitis B viral X protein (HBx) is a multifunctional transactivator and implicated in hepatitis B virus (HBV) replication and hepatocarcinogenesis. HBx can be ubiquitinated and degraded through ubiquitin-proteasome pathway. However, the E3 ubiquitin ligase regulating HBx ubiquitin-dependent degradation is still unknown. In this study, we identified Siah-1 as a novel E3 ubiquitin ligase for HBx, which interacted with HBx and facilitated HBx poly-ubiquitylation and proteasomal degradation. Co-expression of Siah-1 attenuated the transcriptional transactivation of HBx on glucocorticoid response element (GRE), heat shock response element (HSE) and cAMP response element (CRE) signal pathways. Moreover, Siah-1 participated in p53-mediated HBx degradation. Therefore, Siah-1 may play important roles in ubiquitin-dependent degradation of HBx and may be involved in suppressing the progression of hepatocellular carcinoma (HCC).
+

@@ -1,0 +1,4 @@
+24903477
+2014 Jul 25
+Chimeric peptides composed of arginine-rich RNA-binding and tumor cell-targeting motifs have been employed to condense siRNA to form supramolecular nanoparticles via electrostatic associations and deliver siRNA agents in a tumor cell-specific manner.
+

@@ -1,0 +1,4 @@
+29988667
+2018 Jul 3
+Hepatocellular carcinoma (HCC) is one of the most common human solid malignancies worldwide. Although the MRI is the technique that is best adapted to characterize HCC, there is not an agreement regarding the study protocol and even what the role of Diffusion-weighted imaging (DWI). The possibility that imaging study can correlate to histologic grade to selecting the therapeutic strategy would be valuable in helping to direct the proper management of HCC. Apparent Diffusion Coefficient (ADC) and IVIM-derived perfusion fraction (fp) and tissue diffusivity (Dt) values of HCC showed significantly better diagnostic performance in differentiating high-grade HCC from low-grade HCC, and significant correlation was observed between ADC, fp, Dt and histological grade.
+Diffusion weighted imaging; HCC; Histologic grade; Magnetic resonance imaging.

@@ -1,0 +1,4 @@
+33019185
+2020 Jul
+In addition to socioeconomic influences, biological factors are believed to play a role in health disparities. In this paper, we investigate miRNA, mRNA, and DNA methylation patterns that contribute to disparities in hepatocellular carcinoma (HCC). This is accomplished by integration of mRNA-Seq, miRNA-Seq, and DNA methylation data we acquired by analysis of liver tissues from 30 HCC patients consisting of European Americans (EAs), African Americans (AAs), and Asian Americans (Asians). Mixed-ANOVA models are applied to identify miRNAs, mRNAs, and DNA methylation sites that are significantly altered in tumor vs. adjacent normal tissues in a race-specific manner. Through integrated analysis, a refined list of differentially expressed mRNAs is obtained by selecting those that are targets of differentially expressed miRNAs and consist of promoter regions that are differentially methylated.
+

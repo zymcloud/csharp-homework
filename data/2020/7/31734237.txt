@@ -1,0 +1,4 @@
+31734237
+2020 Jul
+Background:While resection is a recommended treatment for patients with stage 1 hepatocellular carcinoma (HCC), it remains controversial for multifocal disease. We sought to identify patients with multifocal HCC with survival after resection similar to patients with clinical stage 1 HCC.Methods:The National Cancer Database was queried to identify patients that underwent resection for HCC.Results:In this study, 2990 patients with a single tumor, and 1087 patients with multifocal disease confined to one lobe underwent resection. In the multifocal cohort, patients with clinical stage 3 (HR 1.54, CI 1.31-1.81, p Conclusions:Patients with well-differentiated, clinical stage 2 multifocal HCC confined to one lobe experience similar OS following hepatic resection to patients with clinical stage 1 disease. These findings may impact the management of select patients with multifocal HCC.
+

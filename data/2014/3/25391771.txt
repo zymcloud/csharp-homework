@@ -1,0 +1,4 @@
+25391771
+2015 Mar
+Recently, serum miRNAs have been evolved as possible biomarkers for different diseases including hepatocellular carcinoma and other types of cancers. Investigating certain serum miRNAs as novel non-invasive markers for early detection of HCV-positive cirrhosis and hepatocellular carcinoma (HCC). The expression profiles of 58 miRNA were analyzed in patient's plasma of chronic hepatitis C (CHC), HCV-positive cirrhosis and HCV-positive HCC and compared with control group samples. Totally 94 plasma samples; 64 patient plasma (26 CHC, 30 HCV-positive cirrhosis, 8 HCV-positive HCC) and 28 control group plasma, were included. The expression profiles of 58 miRNAs were detected for all patient and control group plasma samples by qRT-PCR using BioMarkTM 96.96 Dynamic Array (Fluidigm Corporation) system. In CHC group, expression profiles of miR-30a-5p, miR-30c-5p, miR-206 and miR-302c-3p were found significantly deregulated (p
+

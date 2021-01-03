@@ -1,0 +1,4 @@
+27481558
+2016 Sep 1
+We delineate herein the synthesis and anti-cancer effects of 15 matrine derivatives. The in vitro growth inhibitory assays showed that most of the prepared compounds exhibited improved anti-proliferative activities towards cancer cells with IC50 17-109 times lower than that of matrine. Compounds CH6 showed the most potent anti-proliferative activities in the four tested cancer cell lines. Moreover, compound CH6 could induce G1 cell cycle arrest and inhibit cell migration in human hepatocellular cancer cell lines Bel-7402 and HepG2 through up-regulation of P21, P27 and E-cadherin and down-regulation of N-cadherin.
+Anticancer activity; Cell cycle; Hepatocarcinoma; Matrine derivatives; Migration.

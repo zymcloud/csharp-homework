@@ -1,0 +1,4 @@
+28493839
+2017 Jul 11
+Hepatocellular carcinoma is one of the most prevalent and lethal cancers with limited therapeutic options. Pathogenesis of this disease involves tumor hypoxia and the activation of hypoxia inducible factors. In this review, we describe the current understanding of hypoxia signaling pathway and summarize the expression, function and target genes of hypoxia inducible factors in hepatocellular carcinoma. We also highlight the recent progress in hypoxia-targeted therapeutic strategies in hepatocellular carcinoma and discuss further the future efforts for the study of hypoxia and/or hypoxia inducible factors in this deadly disease.
+HIF; hepatoma; hypoxia; liver cancer; therapy.

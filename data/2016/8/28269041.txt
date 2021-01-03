@@ -1,0 +1,4 @@
+28269041
+2016 Aug
+Multi-omic approaches offer the opportunity to characterize complex diseases such as cancer at various molecular levels. In this paper, we present transcriptomic, proteomic/glycoproteomic, glycomic, and metabolomic (TPGM) data we acquired by analysis of liver tissues from hepatocellular carcinoma (HCC) cases and patients with liver cirrhosis. We evaluated changes in the levels of transcripts, proteins, glycans, and metabolites between tumor and cirrhotic tissues by statistical methods. We demonstrated the potential of multi-omic approaches and network analysis to investigate the interactions among these biomolecules in the progression of liver cirrhosis to HCC. Also, we showed the significance of multi-omic approaches to identify pathways altered in HCC.
+

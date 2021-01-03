@@ -1,0 +1,4 @@
+21987248
+2012
+The baculovirus Autographa californica multiple nuclear polyhedrosis virus (AcMNPV) has been widely used in biotechnology for protein expression in insect cells. Baculoviruses use arthropods as their natural hosts and are unable to replicate in mammalian cells. However, AcMNPV is able to enter many mammalian cell types and can be used for transgene expression if engineered to contain suitable expression cassettes. In this chapter, we describe the construction and application of a recombinant baculovirus containing a bicistronic expression cassette that can be used for stable protein expression in mammalian cells. As an example, the generation of glioblastoma and hepatocellular carcinoma cell lines stably expressing green fluorescent protein after puromycin selection is shown.
+

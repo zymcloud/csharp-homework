@@ -1,0 +1,4 @@
+26621785
+2016 Jan
+The established size-based image biomarkers for tumor burden measurement continue to be applied to solid tumors, as size measurement can easily be used in clinical practice. However, in the setting of novel targeted therapies and liver-directed locoregional treatments for hepatocellular carcinoma (HCC), simple tumor anatomic changes can be less informative and usually appear later than biologic changes. Functional magnetic resonance (MR) imaging has the potential to be a promising technique for assessment of HCC response to therapy. Diffusion-weighted MR imaging is now widely used as a standard imaging modality to evaluate the liver. This review discusses the current clinical value of diffusion-weighted MR imaging in the evaluation of tumor response after nonsurgical locoregional treatment of HCC.
+

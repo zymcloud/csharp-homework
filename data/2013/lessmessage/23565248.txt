@@ -1,0 +1,4 @@
+23565248
+2013
+Transarterial chemoembolization (TACE) has therapeutic effects in patients with unresectable hepatocellular carcinoma (HCC), but its impact on the cellular immune response during disease progression is largely unknown. Here we conducted a prospective study to evaluate the effect of TACE on immune status and to identify prognostic immune markers governing treatment success. In this study, 51 stage III HCC patients, 28 stage I HCC patients (TNM classification) and 20 healthy donors were enrolled. Flow cytometry and cytometric bead array were used to evaluate the circulating immune cell subsets, including CD4(+) T cells (Th1, Th17 and Treg cells), CD8(+) T cells, NK cells, and NKT cells, and plasma cytokines before TACE and 30 days after TACE. Interestingly, among those immune parameters, the frequency of circulating Th17 cells was higher in stage III HCC patients than in stage I HCC patients (P = 0.015) and healthy donors (P
+

@@ -1,0 +1,4 @@
+21862941
+2011 Dec
+The goal of this study was to assess the use of quantitative single-photon emission computed tomography/computed tomography (SPECT/CT) analysis for vascularized volume measurements in the use of the yttrium-90-radiolabeled microspheres (TheraSphere). A phantom study was conducted for the validation of SPECT/CT volume measurement. SPECT/CT quantitative analysis was used for the measurement of the volume of distribution of the albumin macroaggregates (MAA; i.e., the vascularized volume) in the liver and the tumor, and the total activity contained in the liver and the tumor in four consecutive patients presenting with a complex liver vascularization referred for a treatment with TheraSphere. SPECT/CT volume measurement proved to be accurate (mean error
+

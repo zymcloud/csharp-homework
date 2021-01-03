@@ -1,0 +1,4 @@
+26163264
+2015 Aug 21
+MicroRNAs (miRNAs) play a key role in carcinogenesis and tumor progression in hepatocellular carcinoma (HCC). In the present study, we demonstrated that miR-502 significantly inhibits HCC cell proliferation in vitro and tumor growth in vivo. G1/S cell cycle arrest and apoptosis of HCC cells were induced by miR-502. Phosphoinositide 3-kinase catalytic subunit gamma (PIK3CG) was identified as a direct downstream target of miR-502 in HCC cells. Notably, overexpression of PIK3CG reversed the inhibitory effects of miR-502 in HCC cells. Our findings suggest that miR-502 functions as a tumor suppressor in HCC via inhibition of PI3KCG, supporting its utility as a promising therapeutic gene target for this tumor type.
+Hepatocellular carcinoma; PIK3CG; Proliferation; miR-502.

@@ -1,0 +1,4 @@
+26838843
+2016 Apr 1
+Four-arm PEG-PCL copolymer with porphyrin core (POR-PEG-PCL) exhibits beneficial fluorescence ability in vivo. To further develop an application of thermosensitive porphyrin hydrogel based on four-arm PEG-PCL copolymer as a drug carrier, a POR-PEG-PCL nanogel was tracked and located to tumor tissue with porphyrin as a fluorescence tag via intravenous injection. The structure and function of the nanogel were evaluated by TEM, DLS, H-NMR, UV-vis and fluorescence spectra. The fluorescent nanogel was monitored by an in vivo imaging system with hepatoma tumor-bearing mice. Good biocompatibility and safety in vitro and in vivo show that the POR-PEG-PCL nanogel is a potential drug carrier that targets tumor tissues with fluorescence bioimaging.
+Fluorescence imaging; Hepatoma tumor; Porphyrin; Thermosensitive nanogels.

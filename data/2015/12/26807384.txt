@@ -1,0 +1,4 @@
+26807384
+2015 Dec 28
+Hepatitis B virus (HBV) infection is a major cause of chronic liver diseases that may progress to liver cirrhosis and hepatocellular carcinoma. Host immune responses are important factors that determine whether HBV infection is cleared or persists. After infection, viral replication occurs inside hepatocytes, and the secretion of infectious virions can take place at high rates for decades. Consequently, HBV DNA and viral proteins, like HBV early antigen (HBeAg) and HBV surface antigen (HBsAg), can be easily detected in serum. Chronic infection with HBV is the result of an ineffective antiviral immune response towards the virus. In this review, we discuss the role of immune cells in chronic HBV infection.
+CD8+ T cells; Hepatitis B virus; Immune cells; Natural killer cells.

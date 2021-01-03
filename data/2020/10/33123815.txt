@@ -1,0 +1,4 @@
+33123815
+2020 Oct 29.</span
+Recently we read a paper in Investigational New Drugs "An orally antitumor chalcone hybrid inhibited HepG2 cells growth and migration as the tubulin binding agent". Chalcone hybrid 9, a novel chalcone derivative, may be a promising agent for the treatment of hepatocellular carcinoma. However, there are some problems in this paper that are worthy of comment. Human hepatocellular carcinoma HepG2 cells from Shanghai Research Science Limited Company could generate xenograft in nude mice and chalcone hybrid 9 suppressed the growth of HepG2 tumor. However, according to the description of cell bank of Chinese Academy of Science and ATCC, HepG2 cells are no tumorigenic. Similarly, our lab also confirmed that HepG2 cells cannot demonstrate tumorigenic ability in nude mice. Therefore, this discrepancy raised our concern about HepG2 xenograft in the paper.
+Chalcone hybrid; HepG2; Nude mice.

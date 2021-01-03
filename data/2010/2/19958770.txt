@@ -1,0 +1,4 @@
+19958770
+2010 Feb 5
+The hepatitis B viral X protein (HBx) is a multifunctional protein that plays a role in the activation of the NF-kappaB signaling pathway. In this study, we demonstrate that HBx up-regulates expression of TANK-binding kinase-1 (TBK1) at the transcriptional level. Increased levels of TBK1 protein then induce the phosphorylation of NF-kappaB p65 at serine 536. Because TBK1 is up-regulated by HBx as part of its promotion of NF-kappaB activation, it is possible that increased TBK1 levels play a role in the development of hepatocellular carcinoma (HCC). From these data, we suggest that TBK1 may play a role in the HBx-mediated activation of the NF-kappaB signaling pathway and the development of HCCs.
+

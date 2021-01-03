@@ -1,0 +1,4 @@
+33267707
+Jan-Dec 2020
+USP15 is a member of ubiquitin-specific proteases (USPs, the largest subfamily of deubiquitinases) and functions as a stabilize factor of target proteins in reversible ubiquitiantion progression. Dysregulated expression of USP15 has been observed in various cancers. However the expression profile and regulatory mechanism of USP15 in hepatocellular carcinoma (HCC) remains largely elusive. To exam the USP15 expression changes in the progression of HCC, we performed IHC analysis to test USP15 expression in a series of cancer-prone diseases including 2 normal liver tissues, 6 liver cirrhosis, 16 primary liver lesions and 15 metastases of hepatocellular carcinoma. The expression of USP15 was upregulated in various liver diseases in compared with normal tissue significantly (p
+USP15 expression; hepatocellular carcinoma; metastasis; potential target; survival.

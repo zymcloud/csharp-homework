@@ -1,0 +1,4 @@
+29207612
+2017 Jun 27
+High concentrations of arsenic trioxide (As2O3) are used to treat acute promyelocytic leukemia and solid tumors, with negative side effects to normal cells. Andrographolide is a traditional Chinese medicine that exerts anti-cancer, anti-inflammatory, anti-virus, and anti-diabetic effects. Here, we tested the effects of combined andrographolide with As2O3 against hepatocellular carcinoma (HCC). We found that by increasing apoptosis, andrographolide synergistically enhanced the anti-tumor effects of As2O3 in HepG2 cells in vitro and in vivo. Furthermore, results from our microarray assays and experiments with mouse xenografts showed that EphB4 was downregulated by the combination of As2O3 plus andrographolide. These findings suggest that the combination of andrographolide and As2O3 could yield therapeutic benefits in the treatment of HCC.
+As2O3; EphB4; HepG2 cells; andrographolide; apoptosis.

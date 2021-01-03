@@ -1,0 +1,4 @@
+25832874
+2015
+The incidence and mortality from renal cell cancer (RCC) is increasing. RCC tumors are particularly vascular in nature as a result of disruption of the VHL gene and/or its upstream pathway leading to upregulation of the hypoxia-inducible factor transcription factor. The hypoxia-inducible factor pathway drives angiogenesis by upregulating VEGF and bFGF, amongst other proangiogenic downstream target genes. Therapies which target angiogenesis have been successful in treating metastatic RCC (mRCC) and the receptor tyrosine kinase inhibitor, pazopanib, is licensed for first line treatment of mRCC. This review details the past, current and future roles of pazopanib in the treatment of mRCC.
+antiangiogenic; kidney; pazopanib; renal cancer; treatment; tyrosine kinase inhibitor.

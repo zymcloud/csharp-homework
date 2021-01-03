@@ -1,0 +1,4 @@
+31629256
+2019 Dec
+Eleven aromatic compounds, including four pairs of undescribed phenylpropanoids and two undescribed dibenzofurans (1a/1b-4a/4b and 5-6), were isolated from the fruits of C. pinnatifida. Their structures were established by extensive spectroscopic analyses. Their relative and absolute configurations were determined by the assistance of quantum chemical calculations of NMR chemical shifts and electronic circular dichroism (ECD). All isolates were screened for the cytotoxicity against two human hepatoma cell lines, HepG2 and Hep3B. It was found that compound 7 exhibited noticeable cytotoxicity against both cells with the IC50 values of 12.24 (HepG2) and 24.90 (Hep3B) μM. Further Annexin VFITC/ PI staining assay suggested that 7 could induce apoptosis in a concentration-dependent manner to exert antiproliferative activities on hepatoma cells.
+Apoptosis; Chiral resolution; Crataegus pinnatifida; Cytotoxicity; Enantiomers.

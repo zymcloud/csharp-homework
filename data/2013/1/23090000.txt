@@ -1,0 +1,4 @@
+23090000
+2013 Jan
+Using commercial quantitative assays, quantitative hepatitis B surface antigen (qHBsAg) has improved our understanding and management of chronic hepatitis B (CHB). The HBsAg level is highest in the immune tolerance phase, starts to decline during the immune clearance phase, and decreases slowly but progressively after hepatitis B e antigen (HBeAg) seroconversion. The HBsAg level is lowest in individuals with an inactive carrier state but higher in those who develop HBeAg-negative hepatitis. It has been shown that a reduction of HBsAg by 1 log IU/mL or more reflects improved host immune control of HBV infection. A combination of HBsAg 1000 IU/mL have been shown to be at higher risks of HBeAg-negative hepatitis, cirrhosis, and hepatocellular carcinoma than those with HBsAg
+

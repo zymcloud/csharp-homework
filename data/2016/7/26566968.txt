@@ -1,0 +1,4 @@
+26566968
+2016 Jul
+Uncoordinated cell growth is one of the fundamental concepts in carcinogenesis and occurs secondary to dysregulation of the cell cycle. The E2Fs are a large family of transcription factors and are key regulators of the cell cycle. The activation of E2Fs is intimately regulated by retinoblastoma 1 (RB1). The RB pathway has been implicated in almost every human malignancy. Recently there have been exciting developments in the E2F field using animal models to better understand the role of E2Fs in vivo. Genetic mouse models have proven essential in implicating E2Fs in hepatocellular carcinoma (HCC) and liver disease. In this review, the general structure and function of E2Fs as well as the role for E2Fs in the development of HCC and liver disease is evaluated. Specifically, what is known about E2Fs in human disease is explored in depth, and future directions are discussed.
+

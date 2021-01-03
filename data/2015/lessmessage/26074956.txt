@@ -1,0 +1,4 @@
+26074956
+2015
+Introduction. Metabolic conditions, including type 2 diabetes, have been related to hepatocellular carcinoma (HCC) risk. We have further analyzed the role of diabetes and antidiabetic treatments on HCC. Methods. Data derived from a hospital-based case-control study (Italy, 2005-2012) on 224 HCC patients and 389 controls. Odds ratios (ORs) were estimated using multiple logistic regression models. Results. Sixty-nine (30.9%) cases versus 52 (13.5%) controls reported a diabetes diagnosis, corresponding to a multivariate OR of 2.25 (95% confidence interval, CI = 1.42-3.56). A stronger excess risk emerged for a longer time since diabetes diagnosis (OR = 2.96 for
+

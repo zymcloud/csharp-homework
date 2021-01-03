@@ -1,0 +1,4 @@
+21063843
+2010 Oct
+In this study, the mechanism by which Ad-p27mt inhibits the growth, invasion and metastasis of transplanted liver tumor was studied by examining the effects of Ad-27mt gene transfer on the expression of Bax, Bcl-2, VEGF and MMP-9 in the transplanted liver tumors in nude mice. The model of transplanted hepatic tumor was established in nude mice. The mice were then divided into three groups, which were injected with PBS, Ad-LacZ and Ad-p27mt and the growth of the transplanted liver tumor was observed. The expressions of P27, Bax and Bcl-2 proteins were detected by Western blotting and the expressions of VEGF and MMP-9 were immunohistochemically determined. Our result showed that the tumor size, expressions of Bax, Bcl-2 proteins, VEGF and MMP-9 were all lower than those in PBS and Ad-LacZ groups and the differences were statistically significant (P
+

@@ -1,0 +1,4 @@
+28296595
+2017 Mar
+Alpha-lipoic acid (LA) is a powerful antioxidant. LA has two enantiomers, R(+)-LA (R-LA) and S(-)-LA (S-LA). Of these, R-LA is naturally occurring and an essential cofactor in energy metabolism. R-LA treatment has been reported to affect glucose metabolism in rat hepatoma cells. This study analyzed the time course of metabolite levels in LA-treated cultured H4IIEC3 rat hepatoma cells, including a specific evaluation of the effect of R-LA and the enantioselectivity of LA. Principal component analysis showed that this experiment was well designed to observe enantioselectivity. R-LA treatment was found to inhibit the glycolysis and Thr-Gly-Ser pathways, as well as lactic acid production, leading to the inhibition of gluconeogenesis in starved H4IIEC3 cells. This study may provide mechanistic insight into how R-LA induces apoptosis in hepatoma cells.
+H4IIEC3; amino acids; enantioselectivity; glyconeogenesis; hepatoma cells; lipoic acid; metabolomics.

@@ -1,0 +1,4 @@
+30119889
+2018 Sep 18
+The DEAD-box-protein DDX5 is an ATP-dependent RNA helicase and also acts as co-activator that contributes to progression and metastasis of various tumours. However, its expression as well as prognostic roles of DDX5 in hepatocellular carcinoma (HCC) remain elusive. In this study, we investigated clinical significance and biological functions of DDX5 in HCC. Our results suggested that DDX5 showed overexpression at both transcriptional and translational levels in HCC tissues compared with adjacent normal tissues. Moreover, DDX5 expression was demonstrated to be correlated with tumor size (p
+Akt; DDX5; HCC; Proliferation; Tumorigenesis.

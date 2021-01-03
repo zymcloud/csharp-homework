@@ -1,0 +1,4 @@
+31116417
+2019 Jul
+Alpha1-antitrypsin (AAT) deficiency predisposes individuals to emphysema and liver diseases such as cirrhosis and hepatocellular carcinoma. The deficiency results from mutations in the SERPIN1A gene encoding AAT molecules that cause hepatotoxic retention within the endoplasmic reticulum. Since the E342K mutation is the basis for destabilization leading to lung and liver pathologies, we used the crystal structure of the mutated AAT as the basis for molecular docking selection of candidate compounds that may bind and stabilize the 342K structural pocket. We identified compounds that inhibited intracellular accumulation of AAT in hepatocytes in vitro. These data suggest that drug binding to a structural site encoded by a mutation associated with AAT deficiency has the potential for clinical utility by modulating conformational transitions.
+alpha-1 antitrypsin; liver disease; molecular docking; structure-based drug discovery.

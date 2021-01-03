@@ -1,0 +1,4 @@
+25323822
+2015 May
+In this study, we have synthesized novel water soluble derivatives of natural compound aloe emodin 4(a-j) by coupling with various amino acid esters and substituted aromatic amines, in an attempt to improve the anticancer activity and to explore the structure-activity relationships. The structures of the compounds were determined by (1) H NMR and mass spectroscopy. Cell growth inhibition assays revealed that the aloe emodin derivatives 4d, 4f, and 4i effectively decreased the growth of HepG2 (human liver cancer cells) and NCI-H460 (human lung cancer cells) and some of the derivatives exhibited comparable antitumor activity against HeLa (Human epithelial carcinoma cells) and PC3 (prostate cancer cells) cell lines compared to that of the parent aloe emodin at low micromolar concentrations.
+Hep G2 cells; NCI-H460 cells; aloe emodin; aloe emodin derivatives; antitumor activity; structure activity relationship.

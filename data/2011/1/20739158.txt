@@ -1,0 +1,4 @@
+20739158
+2011 Jan 15
+Artemisinin (ART) is isolated from the medicinal plant Artemisia annua L. To determine its effects on the invasion and metastasis of tumors, the human hepatocellular carcinoma (HCC) cell lines HepG2 and SMMC-7721 were treated with different concentrations of ART. Starting at 12.5μM, ART had inhibitory effects in migration and invasion assays that increased at higher concentrations. The inhibitory effect also became stronger with time, from 24 to 72h. ART significantly inhibited the in vivo metastatic abilities of the HepG2 HCC cell line. ART inhibited the invasion and metastasis of HCC cells both in vitro and in vivo by reducing the level of the MMP2 metalloproteinase, and by inducing the TIMP2 protein. ART activated Cdc42, which enhanced E-cadherin activity, resulting in greater cell-cell adhesion, and significantly reduced metastasis.
+

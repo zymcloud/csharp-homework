@@ -1,0 +1,4 @@
+30911692
+2019 Mar 11
+Hepatocellular carcinomas (HCCs), which often arise from chronic liver damage, have poor conditional 5-year survival and are recognized as heterogeneous tumors. Considering the heterogeneity of HCCs, diverse perspectives need to be addressed for treating such tumors, besides the findings of conventional imaging modalities and tumor markers. Data from the latest technologies, such as liquid biopsy, and the detection of the presence of cancer cells with stem/progenitor cell markers, gene mutations and diverse pathways, crosstalk with immune cells and cancer-associated fibroblasts, and mechanisms of epithelial-mesenchymal transition provide diverse lines of information. Integration of these data with clinical data might be necessary to develop effective therapies for precision medicine. Here, we review several aspects of dealing with the complexity of heterogeneous HCCs.
+Cancer research; Medicine.

@@ -1,0 +1,4 @@
+33320844
+2020 Dec 15
+BACKGROUND Alpha-fetoprotein (AFP) is widely used to screen for hepatocellular carcinoma (HCC). However, the use of this biomarker has been challenged due to its low sensitivity and high rate of false negatives. In this study, we evaluated the diagnostic capability of cyclin D2 (CCND2) promoter methylation in patients with HCC related to hepatitis B virus (HBV). MATERIAL AND METHODS Using methylation-specific PCR and quantitative real-time PCR, we measured methylation status and mRNA levels of CCND2 in plasma and peripheral blood mononuclear cells (PBMCs) from 275 subjects: 75 patients with chronic hepatitis B (CHB), 47 with liver cirrhosis (LC), 118 with HCC, and 35 healthy controls (HCs). RESULTS The methylation rate of the CCND2 promoter was significantly higher in HCC patients than in patients without HCC (P
+

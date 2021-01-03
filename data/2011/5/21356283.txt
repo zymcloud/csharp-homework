@@ -1,0 +1,4 @@
+21356283
+2011 May 16
+The principle objective of this research was to develop and characterize pH-responsive and biocompatible nanogels as a tumor-targeting drug delivery system. The nanogels were self-assembled from chitosan-based copolymers, chitosan-graft-poly(N-isopropylacrylamide) (CS-g-PNIPAm). The copolymers were synthesized via free radical copolymerization and characterized for their chemical structure by FT-IR and (1)H NMR. These copolymers could be efficiently loaded with oridonin (ORI) and the characteristics of ORI-loaded nanogels were evaluated. Drug release researches indicated that the ORI-loaded nanogels displayed pH-dependent release behaviors. Based on MTT assay and cellular morphological analysis, the anti-tumor activity of ORI-loaded nanogels was higher at pH 6.5 than at pH 7.4. In conclusion, the obtained nanogels appeared to be of great promise in tumor extracellular pH targeting for ORI.
+

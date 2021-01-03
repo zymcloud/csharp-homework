@@ -1,0 +1,4 @@
+30068984
+2018 Aug 1
+Patients with hepatocellular carcinoma (HCC) release tumor cells to the bloodstream, which can be detected using cell surface markers. Despite numerous reports suggest a direct correlation between the number of circulating tumor cells (CTCs) and poor clinical outcomes, few studies have provided a thorough molecular characterization of CTCs. Due to the limited access to tissue samples in patients at advanced stages of HCC, it is crucial to develop new technologies to identify HCC cancer drivers in routine clinical conditions. Here, we describe a method that sequentially combines image flow cytometry and high density single-cell mRNA sequencing to identify CTCs in HCC patients. Genome wide expression profiling of CTCs using this approach demonstrates CTC heterogeneity and helps detect known oncogenic drivers in HCC such as IGF2. This integrated approach provides a novel tool for biomarker development in HCC using liquid biopsy.
+

@@ -1,0 +1,4 @@
+30508959
+2018 Nov
+Recently, modified fibrosis-4 index (mFIB-4) and the easy liver fibrosis test (eLIFT) were developed for predicting liver fibrosis in chronic liver disease patients. We evaluated whether the 2 tests can predict hepatocellular carcinoma (HCC) risk in alcoholic liver cirrhosis (ALC) patients.A retrospective cohort of 924 ALC patients was assessed for HCC development. Four non-invasive serum biomarkers, mFIB-4, the eLIFT score, fibrosis-4 index (FIB-4), and aspartate aminotransferase to platelet ratio index (APRI) were tested using time-dependent analysis of areas under receiver operating characteristic curve (AUROC), DeLong, and log-rank tests.During a median 4.8 years of follow-up, HCC occurred in 83 patients (9.0%). For predicting HCC development at 3 years, the mFIB-4 showed a significantly higher AUROC than APRI and eLIFT scores (0.71 vs 0.61 and 0.56, respectively, all P 4) (P
+

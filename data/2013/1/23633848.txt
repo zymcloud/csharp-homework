@@ -1,0 +1,4 @@
+23633848
+2013 Jan
+Objective:The role of limonin as potent anti carcinogenic, apoptosis and chemotherapeutic agents has been supported by limited studies.Materials and methods:In this study, limonin is identified as a potent anti proliferative agent against human hepatoma HepG2 cells based on the cell viability study, LDH leakage assay. Induction of apoptosis in HepG2 cells by limonin was evidenced by western blot analysis of Bax, Cyclin D1, Caspase 3 and Caspase9.Results:Since Wnt signalling is involved in the initiation and sustaining of hepatocellular carcinoma we studied differential expression of LRP5, LRP6 and DKK wnt players.Conclusion:Limonin found to down regulate these players which forms a rationale for further investigation on effect on limonin in cancer therapy.
+Apoptosis; Wnt; caspases; hepatocellular carcinoma; limonin; β-catenin.

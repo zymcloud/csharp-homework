@@ -1,0 +1,4 @@
+31222176
+2019 Jun 20
+A reliable and sensitive cancer cells DNA-templated silver nanoclusters probe has been proposed for screening DNA-targeted anticancer drugs in vitro. In this paper, the DNA-templated silver nanoclusters was used to investigate the binding between anthracycline antibiotics and DNA. The template of DNA-templated silver nanoclusters was extracted from human liver carcinoma cells directly, which can express the drug activities against cancer cells more direct than the normal cells DNA. The anti-tumor activities of the four drugs were validated by MTT and apoptotic assay as Mitoxantrone > Epirubicin > Daunorubicin > Adriamycin.
+

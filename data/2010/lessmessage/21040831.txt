@@ -1,0 +1,4 @@
+21040831
+2010
+The hepatitis C virus (HCV) is a global public health problem affecting approximately 2% of the human population. The majority of HCV infections (more than 70%) result in life-long persistence of the virus that substantially increases the risk of serious liver diseases, including cirrhosis and hepatocellular carcinoma. The remainder (less than 30%) resolves spontaneously, often resulting in long-lived protection from persistence upon reexposure to the virus. To persist, the virus must replicate and this requires effective evasion of adaptive immune responses. In this review, the role of humoral and cellular immunity in preventing HCV persistence, and the mechanisms used by the virus to subvert protective host responses, are considered.
+

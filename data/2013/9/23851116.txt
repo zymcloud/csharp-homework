@@ -1,0 +1,4 @@
+23851116
+2013 Sep
+A series of pyrazolo[3,4-d]pyrimidine analogues 3, 4, 5a-f, 6a-f with various amines and ester groups at C-4 and N-1 were synthesized and evaluated for antitumour activity. They were also evaluated for xanthine oxidase inhibitory activity, with most compounds having no significant impact. Compound 5e had the strongest activity against human hepatoma carcinoma cells 7402 and 7221, with half-maximal inhibitory concentration values of 4.55 and 6.28, respectively. Structure-activity relationship studies indicate that chlorine atoms in the structure of 4-((4-(substituted amides)phenyl)amino pyrazolo[4,3-d]pyrimidine analogues is crucial for antitumour activity.
+17AAG; Allopurinol; Antitumour; Pyrazolo[3,4-d]pyrimidines; XOD.

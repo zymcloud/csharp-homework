@@ -1,0 +1,4 @@
+26676187
+2015 Dec 14
+Aim:To determine the expression of microRNA-210 (miR-210) in hepatocellular carcinoma (HCC) and to examine its role using HCC cells.Methods:The expression of miR-210 was determined in 21 pairs of HCC samples and the corresponding surrounding non-tumor tissues. The effects of miR-210 on proliferation and cell cycle progression were examined using HepG2 and HuH7 cells. Over-expression and inhibition of miR-210 was achieved by transfection of the cells with miR-210 mimic or inhibitor. Luciferase reporter constructs were used to identify the miR-210 interacting site on Yes1. Yes1 expression was examined after miR-210 transfection, as well as in the HCC samples.Results:miR-210 was significantly up-regulated by 3.4 fold (P Conclusion:Up-regulation of miR-210 inhibits cell proliferation. Yes1 is a target of miR-210 and affects cell proliferation in HCC.
+Hepatocellular carcinoma; MicroRNA-210; Proliferation; Yes1.

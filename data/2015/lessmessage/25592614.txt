@@ -1,0 +1,4 @@
+25592614
+2015
+Objectives:Interferon (IFN)-based therapy for chronic hepatitis C (CHC) is cost-effective and is associated with reduced risk of disease progression. We aimed to assess the incidence of cirrhosis and hepatocellular carcinoma (HCC) and to identify risk factors associated with disease progression.Methods:We retrospectively reviewed 280 CHC patients who were registered at our hospital between 2001 and 2010.Results:About 80% of patients received antiviral treatment. The 10-year cumulative incidence of cirrhosis was significantly lower among patients who received antiviral therapy than among those who did not (8.3 vs. 44.0%; p = 0.001). Among them, patients with sustained virological response (SVR) had a significantly lower incidence of cirrhosis than those without SVR (0.6 vs. 33.9%; p Conclusions:SVR secondary to IFN-based therapy could reduce cirrhosis development in CHC patients. Underlying cirrhosis was the strongest predictor of HCC development.
+

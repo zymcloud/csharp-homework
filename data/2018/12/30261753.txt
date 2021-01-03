@@ -1,0 +1,4 @@
+30261753
+2018 Dec
+The unregulated activation of STAT3 has been demonstrated to occur in many cancers and enhances tumour growth, migration, and invasion. Stimulation by cytokines, growth factors, and hormones triggers this activation by phosphorylating STAT3 at tyrosine 705. Novel imidazopyridine compounds were synthesized to evaluate the inhibition of STAT3 at Y705. Among the tested compounds, 16 reduced the level of phospho-STAT3, inhibited the downstream signalling cascade and subsequently attenuated the survival of hepatocellular carcinoma (HCC) cells. Further assays showed that the reduction effects of compound 16 on tyrosine 705 of STAT3 were attributed to up-regulation of protein tyrosine phosphatase SHP-1.
+HCC; SHP-1; STAT3; imidazopyridine.

@@ -1,0 +1,4 @@
+27699089
+2016 Aug 1
+Minimally-invasive surgery of hepatocellular carcinoma (HCC) can be limited by poor tumor visualization with white light. We demonstrate systemic administration of a Cy5.5-labeled peptide specific for epidermal growth factor receptor (EGFR) to target HCC in vivo in a mouse xenograft model. We attached a compact imaging module to the proximal end of a medical laparoscope to collect near-infrared fluorescence and reflectance images concurrently at 15 frames/sec. We measured a mean target-to-background ratio of 2.99 ± 0.22 from 13 surgically exposed subcutaneous human HCC tumors in vivo in 5 mice. This integrated imaging methodology is promising to guide laparoscopic resection of HCC.
+(110.0110) Imaging systems; (170.0170) Medical optics and biotechnology.

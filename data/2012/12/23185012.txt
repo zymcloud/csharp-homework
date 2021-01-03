@@ -1,0 +1,4 @@
+23185012
+2012 Dec 18
+Expression of late embryogenesis abundant (LEA) proteins is highly correlated with desiccation tolerance in anhydrobiotic animals, selected land plants, and bacteria. Genes encoding two LEA proteins, one localized to the cytoplasm/nucleus (AfrLEA2) and one targeted to mitochondria (AfrLEA3m), were stably transfected into human HepG2 cells. A trehalose transporter was used for intracellular loading of this disaccharide. Cells were rapidly and uniformly desiccated to low water content (
+

@@ -1,0 +1,4 @@
+29339752
+2018 Jan 16
+Liver functional capacity is a crucial survival determinant for hepatocellular carcinoma (HCC). Noninvasive models were proposed to assess hepatic reserve, but their performance in outcome prediction is unclear. We aimed to investigate 10 currently used liver function models in HCC patients undergoing radiofrequency ablation (RFA). A total 499 HCC patients were prospectively identified. Homogeneity and corrected Akaike information criteria (AICc) were compared. Cox proportional hazards model was used to identify independent survival predictors. Significance survival differences were found across 10 noninvasive models (all p
+

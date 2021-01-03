@@ -1,0 +1,4 @@
+27023858
+Jul-Aug 2016
+The authors describe a case of a patient with a solitary hepatocellular carcinoma status post transarterial chemoembolization. Follow-up imaging was performed using dual-energy computed tomography. The study was performed with and without contrast and a virtual noncontrast data set was constructed from the postcontrast images. The evaluation of this patient status post transarterial chemoembolization with virtual noncontrast alone erroneously suggested enhancement and viable tumor. However, examination of true noncontrast images revealed these findings to be due to the subtraction of iodine in Ethiodol within the treated lesion.
+

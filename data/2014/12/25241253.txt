@@ -1,0 +1,4 @@
+25241253
+2014 Dec
+Extracellular regulated kinase 1/2 (ERK1/2) has been shown to be activated in renal cell carcinoma (RCC). Previously, we have reported aberrant expression/activity of Liver/Bone/Kidney alkaline phosphatase (L/B/K ALP) in RCC. The present study was conducted to find out whether L/B/K ALP has any role in the dephosphorylation of ERK1/2 in renal cancer cell lines. Two renal cancer cell lines viz. ACHN and A498 were transfected with full length L/B/K ALP cDNA. ALP expression/activity and ERK1/2 phosphorylation were evaluated. Increased L/B/K ALP expression/activity was associated with significantly reduced (P = 0.001) phosphorylation status of ERK1/2 in ALP cDNA transfected cells in comparison to that of control. This is the first study that suggests deactivation of ERK1/2 by stimulation of ALP in renal cancer cell lines which can be used as a therapeutic target of RCC.
+ERK1/2; L/B/K alkaline phosphatase; Phosphorylation; Transfection.

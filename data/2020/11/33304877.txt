@@ -1,0 +1,4 @@
+33304877
+2020 Nov 16
+Interleukin 6 (IL-6) is one of the markers of immune system activation indicating existent infection and inflammation. We present here a case of a 55-year-old male COVID-19 patient with an unusual high level of interleukin 6 (IL-6). Further investigation revealed he had hepatocellular carcinoma (HCC) with underlying hepatitis B. He did not present with respiratory symptoms although a baseline chest x-ray showed changes, and the patient was categorized as Class 3A of COVID-19. Routine investigations proceeded with high-resolution computed tomography and IL-6 to monitor for progression to severe COVID-19. Notably, there was a high IL-6 level but other parameters did not show he was in severe COVID-19. In this report, we conclude that elevated IL-6 level in a COVID-19 patient is not necessarily associated with severe COVID-19.
+COVID-19; HBV infection; HCC; IL-6; cytokine release syndrome.

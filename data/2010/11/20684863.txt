@@ -1,0 +1,4 @@
+20684863
+2010 Nov 1
+The function of EZH2 in tumorigenesis and liver metastasis of pancreatic cancer has never been elucidated in vivo. EZH2 was overexpressed in pancreatic carcinomas and its overexpression was associated with tumor differentiation and pT status. Suppression of EZH2 caused a significant growth inhibition of pancreatic cancer cells in vitro and markedly diminished their tumorigenicity in vivo. Knock-down of EZH2 inhibited liver metastasis of pancreatic cancer in vivo. EZH2 has a crucial role in tumor growth and liver metastasis of pancreatic cancer.
+

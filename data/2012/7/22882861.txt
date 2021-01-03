@@ -1,0 +1,4 @@
+22882861
+2012 Jul
+Epigenetic changes refer to stable alterations in gene expression with no underlying modifications in the genetic sequence itself. It has become clear that not only gene variations but also epigenetic modifications may contribute to varied diseases, including cancer. This review will provide an overview of how epigenetic factors, including genomic DNA methylation, histone modifications, and miRNA regulation, contribute to hepatocellular carcinoma (HCC) dissemination, invasion, and metastasis. Additionally, the reversal of dysregulated epigenetic changes has emerged as a potential strategy for the treatment of HCC, and we will summarize the latest epigenetic therapies for HCC.
+

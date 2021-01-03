@@ -1,0 +1,4 @@
+32775903
+2020 Jul 23
+Current tumor imaging agents are often limited by their liability to dissipate from tumor tissues. As cell sugar sorting enables exogenous sugars to be delivered into predetermined subcellular locations, we synthesized sialic acid (Sia) derivatives with rhodamine-X conjugated at C-9 (ROXSia), which hitchhikes cell sialic acid sorting to target tumor cell lysosomes, exhibiting pH-independent long-term probe retention in lysosomes. ROXSia gives selective, bright, and endured fluorescence signals in subcutaneous tumors and orthotopic tumors in mice models. These results indicate the potential of ROXSia as a lysosome-targeted optical agent for fluorescence-guided tumor resection.
+

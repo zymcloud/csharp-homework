@@ -1,0 +1,4 @@
+31171489
+2019 Dec
+Background:We identified the predictive factors and prognostic significance of transarterial chemoembolization (TACE) for achieving pathologic complete response (pCR) before curative surgery for hepatocellular carcinoma (HCC) in hepatitis B-endemic areas.Methods:Among 753 HCC patients treated with surgery, 124 patients underwent preoperative TACE before liver resection (LR), and 166 before liver transplantation (LT) between 2005 and 2016. Overall survival (OS) and recurrence-free survival (RFS) were analyzed. Pathologic response (PR) was defined as the mean percentage of necrotic area, and pCR was defined as the absence of viable tumor.Results:A total of 34 (27%) and 38 (23%) patients had pCR before LR and LT, respectively. Alpha-fetoprotein (AFP) Conclusion:Overall, our data clearly demonstrate that pCR predicts favorable prognosis after curative surgery for HCC, and predictors of pCR are AFP
+

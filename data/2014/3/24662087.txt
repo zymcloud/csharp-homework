@@ -1,0 +1,4 @@
+24662087
+2014 Mar 24
+In an effort to decrease the toxicity of camptothecin (CPT) and improve selectivity for hepatoma and colon cancer cells, bile acid groups were introduced into the CPT 20 or 10 positions, resulting in the preparation of sixteen novel CPT-bile acid analogues. The compounds in which a bile acid group was introduced at the 20-hydroxyl group of CPT showed better cytotoxic selectivity for human hepatoma and colon cancer cells than for human breast cancer cells. Fluorescence microscopy analysis demonstrated that one compound (E2) entered human hepatoma cells more effectively than it did human breast cancer cells. Compound G4 exhibited the best anti-tumour activity in vivo. These results suggested that introduction of a bile acid group at the 20-position of CPT could decrease toxicity in vivo and improve selectivity for hepatoma cells.
+

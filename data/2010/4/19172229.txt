@@ -1,0 +1,4 @@
+19172229
+2010 Apr
+The activity of the histone deacetylase inhibitor PXD101 was investigated in three hepatocellular carcinoma (HCC) cell lines. PXD101 was found to inhibit cell growth at a dose-dependent manner and induce histone acetylation in PLC/PRF/5, Hep3B and HepG2 cells. In PLC/PRF/5 and Hep3B cells which express hepatitis B-related genes (HBx, HBc and HBc), treatment with PXD101 resulted in apoptosis without a significant effect on viral gene expression. Exposure to PXD101 for up to 48 h had varying effects on the expression of 12 cellular genes with tumor suppressor functions, including p21, SOCS1, CMTM5, RASAL1, DLEC1, SFRP (-1, -2, -4 and -5), ADAMTS (-8 and -9). This study provided the basis for a phase II clinical trial of PXD101 in inoperable hepatitis-B associated HCC.
+

@@ -1,0 +1,4 @@
+30990333
+2019 Apr 16
+This study examined the inhibition and mechanism of natural product pentagalloyl glucose (PGG) against HepG2 cells and determined the effects of its combination with the clinical chemotherapeutic drug, 5-FU. PGG was found to inhibit the proliferation, migration and invasion of HepG2 cells, induced G1 arrest and apoptosis in both concentration- and time- dependent manners. The combination of PGG and 5-FU had synergistic effects on reversal the aggressive phenotypes of HepG2 cells, increasing the proportion of Bax/Bcl-2, promoting the activation of caspase-9 and caspase-3, and inducing apoptosis. This combination upregulated P27 and cyclin B1, and downregulated cyclin E1, leading to G1 phase arrest. The combination significantly downregulated MDR1 and LRP1, suggesting the potential to reverse the resistance to 5-FU.
+5-fluorouracil (5-FU); Pentagalloyl glucose (PGG); anti-hepatoma; combination; synergistic effect.

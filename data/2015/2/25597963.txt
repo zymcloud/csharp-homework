@@ -1,0 +1,4 @@
+25597963
+2015 Feb
+Point-wise ex vivo electrical impedance spectroscopy measurements were conducted on excised hepatic tissue from human patients with metastatic colorectal cancer using a linear four-electrode impedance probe. This study of 132 measurements from 10 colorectal cancer patients, the largest to date, reports that the equivalent electrical conductivity for tumor tissue is significantly higher than normal tissue (p < 0.01), ranging from 2-5 times greater over the measured frequency range of 100 Hz-1 MHz. Difference in tissue electrical permittivity is also found to be statistically significant across most frequencies. Furthermore, the complex impedance is also reported for both normal and tumor tissue. Consistent with trends for tissue electrical conductivity, normal tissue has a significantly higher impedance than tumor tissue (p < 0.01), as well as a higher net capacitive phase shift (33° for normal liver tissue in contrast to 10° for tumor tissue).
+

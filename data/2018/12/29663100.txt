@@ -1,0 +1,4 @@
+29663100
+2018 Dec
+A series of quinazoline clubbed 1,3,5-triazine derivatives (QCT) were synthesized and evaluated for their in vitro anticancer activity against HeLa (human cervical cancer), MCF-7 (human breast cancer cell), HL-60 (human promyelocytic leukemia cell), HepG2 (human Hepatocellular carcinoma cell), and one normal cell line HFF (human foreskin fibroblasts). In vitro assay result encouraged to further move towards in ovo anticancer evaluation using chick embryo. The series of QCT derivatives showed higher anticancer and antiangiogenic activity against HeLa and MCF-7 cell lines. In the series, synthetic molecule 8d, 8l, and 8m displayed significant activity. Further, these results substantiated by docking study on VGFR2. SAR study concluded that the potency of drugs depends on the nature of aliphatic substitution and the heterocyclic ring system.
+1,3,5-Triazine; Angiogenesis inhibition assay; MTT assay; Quinazoline derivative; VGFR2 docking.

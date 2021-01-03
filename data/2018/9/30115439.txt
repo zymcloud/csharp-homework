@@ -1,0 +1,4 @@
+30115439
+2018 Sep
+The prognosis for hepatocellular carcinoma (HCC) is dependent on tumor stage at diagnosis, with curative treatment options more available to early-detected HCCs. Professional organizations have produced HCC screening guidelines in at-risk groups, with ultrasound the most commonly used screening tool and increased interest in MRI in specific populations. HCC may be diagnosed by imaging features alone and have been universally incorporated into management guidelines. The radiology community has standardized imaging criteria for HCC with the development of the Liver Imaging Reporting and Data System, which has expanded to incorporate computed tomography, MR, and contrast-enhanced ultrasound for diagnostic purposes.
+Hepatocellular carcinoma; LI-RADS; Liver; MR; Screening; Ultrasound.

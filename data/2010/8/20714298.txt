@@ -1,0 +1,4 @@
+20714298
+2010 Aug 3
+A natural alkynol group-substituted thiophene, 2-(penta-1,3-diynyl)-5-(3,4-dihydroxybut-1-ynyl)-thiophene (PDDYT), was isolated from the roots of Echinops grijsii Hance. It possessed potent NAD(P)H: quinone oxidoreductase1 (NQO1) inducing activity and could activate Keap1-Nrf2 pathway effectively in murine hepatoma Hepa 1c1c7 cells. Further investigations indicated that the activation of Keap1-Nrf2 pathway by PDDYT might be attributed to the activation of Akt and depleting the cellular glutathione (GSH).
+

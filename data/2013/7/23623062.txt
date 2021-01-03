@@ -1,0 +1,4 @@
+23623062
+2013 Jul 1
+In this work, PEG-PLLA electrospun fibers were developed as a new controlled release system for macrolide antibiotic drug brefeldin A (BFA). SEM and XRD analyses of the BFA-loaded PEG-PLLA fibers revealed that the average diameter of fibers was below 950 nm with smooth surfaces, and the drug was well incorporated into the fibers in amorphous form. The release profiles of BFA in PBS were measured by HPLC, demonstrating that the controlled release of BFA could be gained for long time. The in vitro antitumor activity against human liver carcinoma HepG2 cells of the fibers containing 3%, 6%, 9%, 12% and 15% BFA were examined by MTT method, and the results showed that cell growth inhibition rates at 72 h were 64%, 77%, 80%, 81% and 85%, respectively. These results strongly suggested that the BFA/PEG-PLLA fibers had an effect of controlled release of BFA and were suitable for postoperative chemotherapy of cancers.
+

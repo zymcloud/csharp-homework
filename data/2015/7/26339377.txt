@@ -1,0 +1,4 @@
+26339377
+2015 Jul 1
+Hepatocellular carcinoma (HCC) is the most common primary liver tumor. Due to the asymptomatic nature of early HCC and lack of effective screening strategies, 80% of patients present with advanced HCC at the time of diagnosis. Novel molecular marker identification will be valuable for effective diagnosis and treatment. In this study we reported HCLS1-associated protein X-1 (HAX-1) is overexpression in HCC in human HCC sample. Furthermore, we provided evidence that HAX-1 expression positively correlated with that of Ki67 in patient sample. Statistic analysis indicated that HAX-1 expression level significantly correlated with clinic outcome of HCC. Cell based assay revealed that knockdown of HAX-1 inhibits cell proliferation. This result suggests that HAX-1 can be a novel molecular marker for HCC.
+HAX-1; Human hepatocellular carcinoma (HCC); cell proliferation.

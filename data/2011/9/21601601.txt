@@ -1,0 +1,4 @@
+21601601
+2011 Sep
+The MAP3-kinase TGF-beta-activated kinase 1 (TAK1) critically modulates innate and adaptive immune responses and connects cytokine stimulation with activation of inflammatory signaling pathways. Here, we report that conditional ablation of TAK1 in liver parenchymal cells (hepatocytes and cholangiocytes) causes hepatocyte dysplasia and early-onset of hepatocarcinogenesis, coinciding with biliary ductopenia and cholestasis. TAK1-mediated cancer suppression is exerted through activating NF-kappaB in response to tumor necrosis factor (TNF) and through preventing Caspase-3-dependent hepatocyte and cholangiocyte apoptosis. Moreover, TAK1 suppresses a procarcinogenic and pronecrotic pathway, which depends on NF-kappaB-independent functions of the I kappaB-kinase (IKK)-subunit NF-kappaB essential modulator (NEMO). Therefore, TAK1 serves as a gatekeeper for a protumorigenic, NF-kappaB-independent function of NEMO in parenchymal liver cells.
+

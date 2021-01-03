@@ -1,0 +1,4 @@
+21211574
+2011 May
+Impaired respiration was proposed by Warburg to be responsible for aerobic glycolysis in cancer cells. However, intact mitochondria isolated from human ovarian and peritoneal cancer tissues exhibit substantive oxidative phosphorylating activities in terms of membrane potential, ATP biosynthesis and oxygen consumption. The specific activities of succinate, malate and glutamate dehydrogenases are comparable to reported values for human skeletal muscle, heart and liver but the rate of ATP production is one order of magnitude lower compared to human skeletal muscle. It was concluded that the TCA cycle is functional in these ovarian cancer tissues which contain OXPHOS competent mitochondria.
+

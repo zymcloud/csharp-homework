@@ -1,0 +1,4 @@
+25774560
+2016
+The present study was undertaken to investigate the antiproliferative action of isolated M1 (6,7-dimethoxy-1,2,3,4-tetrahydroisoquinoline-3-carboxylic acid) from Mucuna pruriens seeds using human hepatic carcinoma cell line (Huh-7 cells). Initially, docking studies was performed to find out the binding affinities of M1 to caspase-3 and 8 enzymes. Later, cytotoxic action of M1 was measured by cell growth inhibition (MTT), followed by caspase-3 and 8 enzymes assay colorimetrically. Our results collectively suggested that M1 had strong binding affinity to caspase-8 in molecular modelling. M1 possessed antiproliferative activity on Huh-7 cells (EC50 = 13.97 μM) and also inhibited the action of caspase-8 enzyme, signified process of apoptosis. M1 was active against Huh-7 cells that may be useful for future hepatic cancer treatment.
+Huh-7 cells; caspase-3 and 8; isoquinoline alkaloid; molecular docking.

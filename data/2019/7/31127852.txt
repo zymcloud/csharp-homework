@@ -1,0 +1,4 @@
+31127852
+2019 Jul
+Pescadillo (PES1) is a key molecule for ribosome formation in mammalian cells. In this study, human hepatoma C3A cells were reprogrammed by four transcription factors, Oct4, Sox2, Klf4 and c-Myc, into induced cancer stem cells, termed C3A-induced cancer stem cells (C3A-iCSCs). We found that PES1 was up-regulated in C3A-iCSCs and promoted cell proliferation. Moreover, the cancer stem cell marker CD44, which is located in the cytomembrane, translocated to the nucleus and was up-regulated in C3A-iCSCs. Our results suggest that CD44 has a negative effect on miR-105-5p. We found that PES1 is a direct target of, and was negatively regulated by, miR-105-5p. In summary, CD44 regulates PES1 in liver cancer stem cells via miR-105-5p to promote cell growth.
+C3A cells; CD44; PES1; induced cancer stem cells; miR-105-5p.

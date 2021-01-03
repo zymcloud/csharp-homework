@@ -1,0 +1,4 @@
+24882622
+2014 Oct 1
+Hepatitis B X-interacting protein (HBXIP) is an important oncoprotein in hepatocarcinogenesis. Here, we found that the expression levels of HBXIP were positively associated with those of Secretogranin III (SCG3) in clinical hepatocellular carcinoma tissues. We identified that HBXIP up-regulated the expression of SCG3 through modulating both E2F transcription factor 1 (E2F1) and miR-509-3p. HBXIP suppressed miR-509-3p through activating NF-κB. In function, we showed that SCG3 increased the proliferation of hepatoma cells and HBXIP enhanced the proliferation of the cells via SCG3 in vitro and in vivo. Thus, we conclude that HBXIP facilitates the proliferation of hepatoma cells through up-regulating SCG3.
+E2F1; HBXIP; Hepatocellular carcinoma; SCG3; miR-509-3p.

@@ -1,0 +1,4 @@
+24815485
+2014
+Background:Pine needle oil from crude extract of pine needles has anti-tumor effects, but the effective component is not known.Methods:In the present study, compounds from a steam distillation extract of pine needles were isolated and characterized. Alpha-pinene was identified as an active anti-proliferative compound on hepatoma carcinoma BEL-7402 cells using the MTT assay.Results:Further experiments showed that α-pinene inhibited BEL-7402 cells by arresting cell growth in the G2/M phase of the cell cycle, downregulating Cdc25C mRNA and protein expression, and reducing cycle dependence on kinase 1(CDK1) activity.Conclusion:Taken together, these findings indicate that α-pinene may be useful as a potential anti-tumor drug.
+

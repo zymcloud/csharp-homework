@@ -1,0 +1,4 @@
+30251931
+2018 Dec
+The Liver Imaging Reporting and Data System (LI-RADS) is composed of four individual algorithms intended to standardize the lexicon, as well as reporting and care, in patients with or at risk for hepatocellular carcinoma in the context of surveillance with US; diagnosis with CT, MRI, or contrast material-enhanced US; and assessment of treatment response with CT or MRI. This report provides a broad overview of LI-RADS, including its historic development, relationship to other imaging guidelines, composition, aims, and future directions. In addition, readers will understand the motivation for and key components of the 2018 update.
+

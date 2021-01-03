@@ -1,0 +1,4 @@
+22176836
+2012 Jul
+The nuclear factor κ-light-chain enhancer of activated B-cells (NF-κB) signaling pathway is regarded as an important factor in inflammation and carcinogenesis. Recently, a role in hepatocarcinogenesis has been attributed to the NF-κB regulatory subunit IKKγ (NEMO) using knockout mice. However, a detailed investigation of NEMO expression in human hepatocellular carcinomas (HCCs) has not yet been reported. We selected 85 HCC patients who had undergone curative liver resection and analyzed NEMO expression of the respective tumors by immunohistochemistry, Western blotting, and real-time PCR. NEMO expression was correlated with clinicopathological parameters, and the impact on 5-year disease-free survival and 5-year overall survival was calculated using multivariate Cox proportional models. In our study, complete loss of NEMO immunoreactivity was found in 34 (40%) of 85 HCCs compared with their adjacent nonneoplastic tissue (P
+

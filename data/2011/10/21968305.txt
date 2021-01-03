@@ -1,0 +1,4 @@
+21968305
+2011 Oct
+Aim:To construct the eukaryotic expression vector pEGFP-N1/ACRBP and stably express ACRBP in human hepatocarcinoma cells, providing functional clues for ACRBP.Methods:A recombinant plasmid pMAL-C2/ACRBP was used as a template to amplify ACRBP cDNA. The PCR product was ligated into an eukaryotic expression vector pEGFP-N1 to construct a recombinant plasmid pEGFP-N1/ACRBP. Then the pEGFP-N1/ACRBP was transfected by Fugene HD into ACRBP-negative HepG2 cells. The stably transfected clones were selected by G418. RT-PCR and immunohistochemistry were used to detect the expression of ACRBP in HepG2 cells.Results:The eukaryotic expression vector pEGFP-N1/ACRBP was constructed and confirmed by sequencing. The stably transfected HepG2 cells expressed ACRBP.Conclusion:The eukaryotic expression vector pEGFP-N1/ACRBP has been successfully constructed and transfected into HepG2 cells, resulting in stable expression of ACRBP.
+

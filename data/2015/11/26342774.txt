@@ -1,0 +1,4 @@
+26342774
+2015 Nov 15
+Self-assembly of anticancer small molecules into nanostructures may represent an attractive approach to improve the treatment of experimental solid tumors. As a proof of concept, we designed and synthesized the conjugate prodrug of hydrophilic gemcitabine by its covalent coupling to hydrophobic chlorambucil via a hydrolyzable ester linkage. The resulting amphiphilic conjugates self-assembled into nanoparticles in water and exhibited significant anticancer activity in vitro against a variety of human cancer cells. In vivo anticancer activity of these nanoparticles has been tested on subcutaneous grafted SMMC-7721 hepatocellular carcinoma model. Such chlorambucil gemcitabine conjugate nanomedicine should have potential applications in cancer therapy.
+Chlorambucil; Conjugate; Gemcitabine; Nanodrug; Nanoparticle.

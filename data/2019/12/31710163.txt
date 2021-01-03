@@ -1,0 +1,4 @@
+31710163
+2019 Dec
+Nivolumab is a fully human monoclonal antibody that inhibits programmed cell death-1 activation. To assess covariate effects on nivolumab clearance (CL), a population pharmacokinetics model was developed using data from 6,468 patients with colorectal cancer, hepatocellular carcinoma, melanoma, non-small cell lung cancer, renal cell carcinoma, or small cell lung cancer who received nivolumab as monotherapy or in combination with ipilimumab or chemotherapy across 25 clinical studies. Nivolumab CL was similar across the tumor types examined; CL was higher for ipilimumab 1 mg/kg every 6 weeks (by 17%) and 3 mg/kg every 3 weeks (by 29%) vs. nivolumab monotherapy. Nivolumab CL over time was partially explained by time-varying covariates. A greater decrease in nivolumab time-varying CL was associated with increased albumin and body weight and a responder status. Our findings support the observed association between nivolumab CL and disease severity.
+

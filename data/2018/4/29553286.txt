@@ -1,0 +1,4 @@
+29553286
+2018 Apr
+Aim:To compare the overall survival (OS) and liver cancer-specific survival of advanced-stage hepatocellular carcinoma (HCC) patients who received transarterial radioembolization (TARE) with those who received nonoperative/interventional treatment (NOT).Materials & methods:A total of 12,520 HCC patients from the Surveillance, Epidemiology and End Results database were categorized by treatment with either radioembolization or NOT. Kaplan-Meier and multivariate Cox regression were conducted.Results:The TARE group had both a significantly longer median overall survival than the NOT group (TARE = 9 months; NOT = 2 months; p Conclusion:TARE appears to provide a significant survival advantage over the NOT population in advanced HCC patients.
+advanced hepatocellular carcinoma; comparative effectiveness; hazard ratio; liver cancer-specific survival; nonoperative treatment; overall survival; palliation; prognostic prediction.

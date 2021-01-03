@@ -1,0 +1,4 @@
+27999200
+2017 Jan 31
+Hepatocellular carcinoma is associated with a high rate of intra-hepatic invasion that carries a poor prognosis. Meprin alpha (Mep1A) is a secreted metalloproteinase with many substrates relevant to cancer invasion. We found that Mep1A was a target of Reptin, a protein that is oncogenic in HCC. We studied Mep1A regulation by Reptin, its role in HCC, and whether it mediates Reptin oncogenic effects.MepA and Reptin expression was measured in human HCC by qRT-PCR and in cultured cells by PCR, western blot and enzymatic activity measurements. Cell growth was assessed by counting and MTS assay. Cell migration was measured in Boyden chambers and wound healing assays, and cell invasion in Boyden chambers.Silencing Reptin decreased Mep1A expression and activity, without affecting meprin β. Mep1A, but not meprin β, was overexpressed in a series of 242 human HCC (2.04 fold, p
+RUVBL2; prognosis; proteolysis.

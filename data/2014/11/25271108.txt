@@ -1,0 +1,4 @@
+25271108
+2014 Nov
+Many endogenous and xenobiotic substances and their metabolites are substrates for drug metabolizing enzymes and cellular transporters. These proteins may not only contribute to bioavailability of molecules but also to uptake into organs and, consequently, to overall elimination. The coordinated action of uptake transporters, metabolizing enzymes, and efflux pumps, therefore, is a precondition for detoxification and elimination of drugs. As the understanding of the underlying mechanisms is important to predict alterations in drug disposal, adverse drug reactions and, finally, drug-drug interactions, this review illustrates the interplay between selected uptake/efflux transporters and phase I/II metabolizing enzymes.
+

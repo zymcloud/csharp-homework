@@ -1,0 +1,4 @@
+20645813
+2010 Mar
+Matrine, one of the main active components extracted from dry roots of Sophora flavescens Ait (Leguminosae), has been reported to have anticancer effects on a number of cancer cell lines, but the anticancer mechanism of matrine remains elusive. This study shows that matrine also displays anticancer activity on human hepatocellular carcinoma (HepG2) cells. In this work, the optimal cultivation condition for HepG2 cells was determined using the combinatorial orthogonal test design [L18 (21 x 37)]. Exposure of HepG2 cells to matrine resulted in inhibition of proliferation in both a time- and dose-dependent manner, as measured by morphology observation, hematoxylin and eosin (H&E) staining, and MTT assay (p
+

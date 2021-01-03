@@ -1,0 +1,4 @@
+28917249
+2017 Sep
+Stereotactic body radiotherapy (SBRT) is increasingly used in the management of unresectable liver metastases and hepatocellular carcinoma (HCC) as it allows delivery of high-dose conformal radiotherapy with limited toxicities. However, it may be difficult to differentiate viable tumour from radiotherapy-related changes after SBRT. The imaging changes observed after SBRT may also differ from those observed following conventionally fractionated radiotherapy. Hence, we aim to review the imaging changes that occur within the tumour and adjacent normal liver after SBRT which may help to identify local relapse in clinical practice.
+CT; Liver; magnetic resonance imaging (MRI); stereotactic body radiotherapy (SBRT).

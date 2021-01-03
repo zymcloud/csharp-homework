@@ -1,0 +1,4 @@
+26428660
+2016 Jun
+Background:To determine whether the use of radiofrequency ablation (RFA) plus transcatheter arterial chemoembolization (TACE) is more effective than the use of RFA alone for patients with hepatocellular carcinoma (HCC).Methods:A computer-based search was performed. Randomised trials comparing RFA plus TACE and RFA alone for treatment of HCC were included in this meta-analysis. The outcome of interest for our analysis was survival (recurrence-free survival and overall survival).Results:Eight trials with 648 patients were eligible for this meta-analysis. Our pooled results suggest that RFA plus TACE is associated with a significant advantage in recurrence-free survival (RFS) (HR=0.58; 95% CI=0.42-0.80, P=0.001), and overall survival (OS) (HR=0.60; 95% CI=0.47-0.76, PConclusion:TACE combined with RFA was more effective than RFA alone, especially for treatment for intermediate and large-size hepatic tumours or younger patients with HCC.
+

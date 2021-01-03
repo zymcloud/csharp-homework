@@ -1,0 +1,4 @@
+24757675
+2014
+Long noncoding RNAs (lncRNAs) have been attracting immense research interests. However, only a handful of lncRNAs had been thoroughly characterized. They were involved in fundamental cellular processes including regulation of gene expression at epigenetics as well as tumorogenesis. In this paper, we give a systematic and comprehensive review of existing literature about lncRNA involvement in hepatocellular carcinoma. This review exhibited that lncRNAs played important roles in tumorigenesis and subsequent prognosis and metastasis of hepatocellular carcinoma and elucidated the role of some specific lncRNAs such as MALAT1 and HOTAIR in the pathophysiology of hepatocellular carcinoma and their potential of being therapeutic targets.
+

@@ -1,0 +1,4 @@
+28742200
+2017 Jul
+Objective:To investigate whether hypoxia microenvironment induced hepatocellular carcinoma cells SMMC-7721 epithelial-mesenchymal transition (EMT) and to explore the underlying molecular mechanism.Materials and methods:In this study, SMMC-7721 cells were cultured under normoxia and hypoxia conditions, respectively. RT-PCR and Western blot were used to monitor the expression level of EMT-related markers, E-cadherin, and vimentin, as well as hypoxia inducible factor-1α (HIF-1α) and Twist1. Then we performed the transwell invasion assays to detect the ability of cell invasion.Results:The results demonstrated that hypoxia micro-environment could induce hepatocellular carcinoma cells SMMC-7721 EMT and enhance the cell invasion ability. Furthermore, knockdown of Twist1 by using specific siRNA could reverse hypoxia-induced EMT process.Conclusions:Hypoxia promotes hepatocellular carcinoma cells SMMC-7721 EMT by upregulating the expression of Twist1.
+

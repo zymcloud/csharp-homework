@@ -1,0 +1,4 @@
+25218269
+2014 Oct
+MicroRNA-130a (miR-130a) has recently been found to be implicated in many critical processes in various types of human cancer. However, the prognostic value of miR-130a in hepatocellular carcinoma (HCC) remains unclear. In the present study, we investigated the expression of miR-130a in HCC and analyzed its association with clinical features and prognosis of HCC patients. We determined the expression level of miR-130a in 102 cases of paired HCC and adjacent non-tumor tissues by quantitative real-time PCR (qRT-PCR). The qRT-PCR results showed that the miR-130a expression was significantly down-regulated in tumor tissues compared with the adjacent non-tumor tissues (P
+

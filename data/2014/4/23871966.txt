@@ -1,0 +1,4 @@
+23871966
+2014 Apr 10
+Hepatitis C virus (HCV) is a cause of liver diseases that range from steatohepatitis, to fibrosis, cirrhosis, and hepatocellular carcinoma (HCC). The challenge of understanding the pathogenesis of HCV-associated liver cancer is difficult as most standard animal models used in biomedical research are not permissive to HCV infection. Herein, we provide an overview of a number of creative in vivo, mostly in the mouse, and in vitro models that have been developed to advance our understanding of the molecular and cellular effects of HCV on the liver, specifically with their relevance to HCC.
+Cancer; Hepatitis C virus; Liver; Mechanisms; Models.

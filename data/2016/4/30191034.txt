@@ -1,0 +1,4 @@
+30191034
+2016 Apr
+Imaging plays a key role in the clinical management of hepatocellular carcinoma (HCC), but conventional imaging techniques have limited sensitivity in visualizing small tumors and assessing response to locoregional treatments and sorafenib. Functional imaging techniques allow visualization of organ and tumor physiology. Assessment of functional characteristics of tissue, such as metabolism, proliferation and stiffness, may overcome some of the limitations of structural imaging. In particular, novel molecular imaging agents offer a potential tool for early diagnosis of HCC, and radiomics may aid in response assessment and generate prognostic models. Further prospective research is warranted to evaluate emerging techniques and their cost-effectiveness in the context of HCC in order to improve detection and response assessment.
+CT; MRI; PET; functional imaging; hepatocellular carcinoma; molecular imaging; radiomics; ultrasound.

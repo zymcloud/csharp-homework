@@ -1,0 +1,4 @@
+21641806
+2011 Jul 1
+Folate (FOL) mediated poly-lactide-co-glycolide-polyethylene glycol nanoparticles (FOL-PEG-PLGA NPs) bearing paclitaxel (PTX) were prepared for the effective delivery of drug to endometrial carcinoma. The average size, zeta potential and encapsulation efficiency of FOL-targeted NPs were found to be around 220 nm, -30.43 mV and 95.6%. Cellular uptake was observed. The accumulation of FOL-targeted NPs depends on dual effects of passive and active targeting. The FOL-targeted PTX NPs showed a greater cytotoxicity against HEC-1A cancer cells in vitro and in vivo, which might be induced by apoptosis. H&E staining did not showed apparent tissue damage to liver and kidney of the mice after injecting NPs intravenously. These results suggest that the novel FOL-PEG-PLGA NPs could be a potential delivery system with excellent therapeutic efficacy for targeting the drugs to cancer cells.
+

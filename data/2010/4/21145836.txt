@@ -1,0 +1,4 @@
+21145836
+2011 Apr
+Hepatocellular carcinoma (HCC) is one of the most common malignancies worldwide with limited therapeutic options. Since HCC has been shown to be immunogenic, T cell-based immunotherapy is considered a promising treatment. In this review, we summarize current knowledge of T cell responses against tumour-associated antigens, as well as the mechanisms underlying the poor quality of these responses in patients with HCC. Insights into these important aspects of HCC immunology are crucial for the further development of novel immunotherapies.
+

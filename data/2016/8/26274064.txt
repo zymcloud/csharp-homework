@@ -1,0 +1,4 @@
+26274064
+2016 Aug
+Hepatitis C virus (HCV) is a major health problem across the world affecting the people of all age groups. It is the main cause of hepatitis and at chronic stage causes liver cirrhosis and hepatocellular carcinoma. Various therapeutics are made against HCV but still there is a need to find out potential therapeutics to combat the virus. The goal of this study is to identify the phytochemicals of Azadirachta indica leaves having antiviral activity against HCV NS3 protease through molecular docking and simulation approach. Results show that the compound 3-Deacetyl-3-cinnamoyl-azadirachtin possesses good binding properties with HCV NS3/4A protease. It can be concluded from this study that Deacetyl-3-cinnamoyl-azadirachtin may serve as a potential inhibitor against NS3/4A protease.
+Azadirachta indica; HCV; NS3/4A protease; molecular docking.

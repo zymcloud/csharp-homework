@@ -1,0 +1,4 @@
+25730904
+2015 Mar 20
+O-glycosylation is a common protein modification. Aberrant O-glycosylation is associated with many cancers. GALNT1 is a GalNAc-transferase that initiates protein O-glycosylation. We found that GALNT1 is frequently up-regulated in hepatocellular carcinoma (HCC) and is associated with poor patient survival. Overexpression of GALNT1 increased and knockdown decreased HCC cell migration and invasion. Knockdown of GALNT1 inhibited EGF-induced migration and invasion. Knockdown of GALNT1 decreased EGFR activation and increased EGFR degradation, by decreasing EGFR O-glycosylation. This study demonstrates that down-regulation of GALNT1 is sufficient to suppress malignant phenotype of HCC cells by decreasing EGFR signaling. Thus, GALNT1 is a potential target in HCC.
+GALNT1; GalNAc-transferase; O-glycosylation; epidermal growth factor receptor; receptor tyrosine kinase.

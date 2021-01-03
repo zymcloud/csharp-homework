@@ -1,0 +1,4 @@
+21330691
+2011
+As an important risk factor for Hepatocellular Carcinoma (HCC), Hepatitis C Virus (HCV) infection can induce cirrhosis and HCC. But, the molecular mechanisms of HCV-induced transformation remain largely unknown. In this study, first, we identified the dysfunctional protein interaction networks in cirrhosis and HCC based on the gene expression profiles of 19 normal, 58 cirrhotic and 47 HCC liver tissues. Then, the relationship between dysfunctional networks and HCV infection was analysed. Our results may help understand the mechanisms of HCV-induced malignant transformation and provide clues to cirrhosis and HCC therapy or prevention.
+

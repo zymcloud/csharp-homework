@@ -1,0 +1,4 @@
+23167353
+2012
+Objective:The results from studies on associations of the glutathione S-transferase T1 (GSTT1) gene polymorphism and hepatocellular carcinoma (HCC) risk in Chinese populations are still conflicting. This meta- analysis was performed to evaluate the relationship in detail.Methods:Eligible reports were recruited into this meta-analysis from the databases of PubMed, Embase, Cochrane Library and CBM-disc (China Biological Medicine Database). Results were expressed with odds ratios (OR) for dichotomous data, and 95% confidence intervals (CI) were also calculated.Results:Eighteen investigations were identified for the analysis of association between polymorphic deletion of GSTT1 and HCC, consisting of 2,693 patients with HCC and 4,696 controls. Null genotype of GSTT1 was associated with HCC susceptibility in Chinese (OR=1.53, 95%CI: 1.28-1.82; PConclusion:The GSTT1 null genotype is associated with HCC susceptibility in Chinese.
+

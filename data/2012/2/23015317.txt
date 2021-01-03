@@ -1,0 +1,4 @@
+23015317
+2013 Feb
+The aim of this study was to investigate the expression of LSD1 in human hepatocellular carcinoma (HCC) cell lines and HCC samples. In this study, we examined LSD1 expression in 60 paired liver cancer tissues and adjacent noncancerous tissues by Western blot. In addition, we analyzed LSD1 expression in 198 HCC samples by immunohistochemistry. The relationship between LSD1 expression and clinicopathological features was investigated. The HCC cell line SMMC-7721 was transfected with LSD1 siRNA expressing plasmids. We subsequently examined in vitro cell growth using the MTT assay and anchorage-independent growth through a soft-agar colony-formation assay. In addition, the expression levels of Bcl-2 and c-Myc were also examined. Immunohistochemistry and Western blotting consistently confirmed LSD1 overexpression in HCC tissues compared with adjacent non-neoplastic tissues (P
+

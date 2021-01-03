@@ -1,0 +1,4 @@
+30304523
+2019 Apr 8
+Objective:To determine the clinical relevance of long noncoding RNA (lncRNA) HAR1A and HAR1B expression in hepatocellular carcinoma (HCC).Methods:In this study, we enrolled 50 cases of chronic hepatitis B (CHB) without cirrhosis, 50 cases of CHB and liver cirrhosis (LC), and 100 cases of HBV and HCC. The expression profiles of lncRNA HAR1A and HAR1B were analyzed using reverse transcription-quantitative polymerase chain reaction (RT-qPCR).Results:The expression levels of HAR1A and HAR1B were significantly lower in the HCC group, compared with the CHB and LC groups (P Conclusion:Decreased HAR1A and HAR1B expression in HCC indicates poor prognosis.
+HAR1A; HAR1B; RT-qPCR; expression; hepatocellular carcinoma; survival.

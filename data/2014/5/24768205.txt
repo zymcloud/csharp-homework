@@ -1,0 +1,4 @@
+24768205
+2014 May 12
+The role of TGF-β-induced epithelial-mesenchymal transition (EMT) in cancer cell dissemination is well established, but the involvement of lncRNAs in TGF-β signaling is still unknown. In this study, we observed that the lncRNA-activated by TGF-β (lncRNA-ATB) was upregulated in hepatocellular carcinoma (HCC) metastases and associated with poor prognosis. lncRNA-ATB upregulated ZEB1 and ZEB2 by competitively binding the miR-200 family and then induced EMT and invasion. In addition, lncRNA-ATB promoted organ colonization of disseminated tumor cells by binding IL-11 mRNA, autocrine induction of IL-11, and triggering STAT3 signaling. Globally, lncRNA-ATB promotes the invasion-metastasis cascade. Thus, these findings suggest that lncRNA-ATB, a mediator of TGF-β signaling, could predispose HCC patients to metastases and may serve as a potential target for antimetastatic therapies.
+

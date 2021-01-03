@@ -1,0 +1,4 @@
+30191009
+2015 Jul
+Hepatocellular carcinoma (HCC) is a highly heterogeneous disease leading to a major diversity. Since staging systems are used in patient care, molecular and histopathological features remain to be incorporated in management algorithms. HCC, as other malignant solid tumors, exhibit a complex genetic diversity and genomic instability, driving tumorigenesis. The recent development of deep sequencing techniques has revealed different subgroups of tumors defined by specific patterns of genomic alterations that are related to clinical and histopathological diversity in HCC. Additionally, several genomic defects identified in HCC will be used in the future to develop clinical trial design for tumorized treatment.
+ARID1A; CTNNB1; TERT; TP53; genomic heterogeneity; hepatocellular carcinoma; liver cancer; mutational signatures; next-generation sequencing; transcriptomic groups.

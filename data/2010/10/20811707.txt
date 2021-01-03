@@ -1,0 +1,4 @@
+20811707
+2010 Oct
+Hepatocellular carcinoma (HCC) is an aggressive type of cancer, and it may be at an advanced stage when it is detected. It has been shown that TC21, a member of the Ras superfamily, is associated with the proliferation, migration and transformation of tumor cells. Previous studies have shown that TC21 is overexpressed in breast, esophageal and oral carcinomas, and that it is closely associated with the early stages of tumorigenesis. In this study, we demonstrate that TC21 overexpression promotes the motility of HCC cells in vitro and intrahepatic metastasis in vivo. Furthermore, experiments examining the effects of both the ectopic expression of TC21 and siRNA treatment in HCC cells showed that TC21 alters the expression of the adhesive molecules E-cadherin and N-cadherin. Our data suggest that TC21 is associated with tumor progression and poor prognosis in HCC.
+

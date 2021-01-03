@@ -1,0 +1,4 @@
+20495861
+2010 Aug
+A 14.5-kDa ribonuclease, with an optimum pH of 6 and a temperature optimum at 70 degrees C, was isolated from fresh fruiting bodies of the edible mushroom Lyophyllum shimeiji. It was purified by ion exchange chromatography on DEAE cellulose, Q Sepharose, and SP Sepharose, followed by FPLC gel filtration on Superdex 75, and was adsorbed on all three ion exchangers. It showed the highest ribonucleolytic potency toward poly (U), 25% as much activity toward poly (C), and undetectable activity toward poly (A) and poly (G). Its ribonucleolytic activity at 100 degrees C was similar to that at 20 degrees C. It suppressed proliferation of hepatoma HepG2 cells and breast cancer MCF7 cells with an IC(50) of 10 and 6.2 microM, respectively. It inhibited the activity of HIV-1 reverse transcriptase with an IC(50) of 7.2 microM.
+

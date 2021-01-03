@@ -1,0 +1,4 @@
+26314548
+2015 Nov
+Hepatitis C virus (HCV) infection often leads to chronic hepatitis, liver cirrhosis, and hepatocellular carcinoma. The stability of the HCV proteins is controlled by ubiquitin-dependent and ubiquitin-independent proteasome pathways. Many viruses modulate proteasome function for their propagation. To examine the interrelationship between HCV and the proteasome pathways we employed a quantitative activity-based protein profiling method. Using this approach we were able to quantify the changes in the activity of several proteasome subunits and found that proteasome activity is drastically reduced by HCV replication. The results imply a link between the direct downregulation of the activity of this pathway and chronic HCV infection.
+Activity-based protein profiling; Functional proteomics; Hepatitis C virus; Microbiology; Proteasome; Quantitative dimethyl labeling.

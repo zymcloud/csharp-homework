@@ -1,0 +1,4 @@
+31793786
+2020 Jan 6
+The synergy of chemotherapy and antiangiogenesis therapy is a new strategy for cancer treatment. In this paper, a well-developed core-shell nanoparticle loaded with gambogic acid (GA), heparin (HP), and the immunoadjuvant cytosine-phosphate-guanine oligonucleotide (CpG ODN), called GHC NP, was constructed to treat hepatocellular carcinoma. GHC NPs with liver targeting activity can effectively inhibit tumor cell proliferation and angiogenesis. With the delivery of nanocarriers and the assistance of GA and HP, the GHC NPs can more effectively upregulate cytotoxic T cell (CTL) levels, promote helper T cell (Th cell) differentiation, and induce Th1 immune responses in long-term treatment compared with single CpG ODN. This synergistically enhanced immunotherapy might have universal application in cancer treatments.
+core−shell nanoparticles; immune amplification; multiple antitumor.

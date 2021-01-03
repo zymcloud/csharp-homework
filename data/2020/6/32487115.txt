@@ -1,0 +1,4 @@
+32487115
+2020 Jun 1
+Hepatocellular carcinoma (HCC) is one of the most common malignancies today. Patients suffer from HCC since its high malignancy and limited treatment means. With the development of genetic research, new therapeutic strategy comes up in the way of gene editing. Clustered regularly interspaced short palindromic repeat/CRISPR-associated nuclease 9 (CRISPR/Cas9) was discovered as an immune sequence in bacteria and archaea. After artificial transformation and follow-up research, it is widely used as a gene editing tool. In this review, the development of CRISPR/Cas9 is summarized in retrospect. Through the evaluation of novel research in HCC, it is concluded that CRISPR/Cas9 would promote cancer research and provide a new tool for genetic treatment in prospect.
+Cancer treatment; Clustered regularly interspaced short palindromic repeat/CRISPR-associated nuclease 9; Gene editing; Hepatocellular carcinoma.

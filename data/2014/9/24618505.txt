@@ -1,0 +1,4 @@
+24618505
+2014 Sep
+Goals:We evaluated whether prior infection with the hepatitis B virus (HBV) influences the development of pancreatic cancer or hepatocellular carcinoma (HCC).Background:Prior infection with HBV may predispose patients to developing pancreatic cancer or HCC.Study:We conducted a retrospective cohort study using administrative data from an integrated health care system. We identified all patients who had HBV testing over a 13-year period. These patients were divided into 1 of 3 cohorts based on HBV status: negative infection (n=28,719), previous exposure (n=5141), or active infection (n=404). Pancreatic cancer and HCC data were obtained from pathology reports in the health system's cancer registry.Results:In a multivariable model, age [hazards ratio (HR), 1.08; confidence interval (CI), 1.06-1.09; PConclusions:Data from this study indicate that previous HBV exposure is not a risk factor for the development of either pancreatic cancer or HCC.
+

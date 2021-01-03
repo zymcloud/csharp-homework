@@ -1,0 +1,4 @@
+28512387
+2017
+Hepatocellular carcinoma is highly refractory cancer which is resistant to conventional chemotherapy and radiotherapy, carrying a dismal prognosis. Although many anticancer drugs have been developed for treating HCC, sorafenib is the only effective treatment, but it only prolongs survival duration for about 3 months. Recently, oncolytic virotherapy has shown promising results in treating HCCs and the effects can be more enhanced by adopting immune modulatory molecules. This review discusses the current status of treating HCC and the effective strategy of oncolytic virus-based immunotherapy for the treatment of HCCs.
+

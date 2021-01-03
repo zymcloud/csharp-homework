@@ -1,0 +1,4 @@
+25157983
+2014 Dec
+Hypoxia inducible transcription factors (HIFs) activate diverse pathways that regulate cellular metabolism, angiogenesis, proliferation, and migration, enabling a cell to respond to a low oxygen or hypoxic environment. HIFs are regulated by oxygen-dependent and independent signals including: mitochondrial dysfunction, reactive oxygen species, endoplasmic reticular stress, and viral infection. HIFs have been reported to play a role in the pathogenesis of liver disease of diverse aetiologies. This review explores the impact of HIFs on hepatocellular biology and inflammatory responses, highlighting the therapeutic potential of targeting HIFs for an array of liver pathologies.
+HIF; Hypoxia; Inflammation; Liver; Viral hepatitis.

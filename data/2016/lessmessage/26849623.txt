@@ -1,0 +1,4 @@
+26849623
+2016
+DYC-279 is a newly synthesized compound. In this study, we revealed that DYC-279 could inhibit the proliferation of HepG2 cells in a dose- and time-dependent manner using the CCK-8 test. FACS showed that DYC-279 induced a G2/M arrest and apoptosis in a dose-dependent manner. Western blot demonstrated that DYC-279-induced G2/M arrest effect was correlated with the inhibition of cyclin-dependent kinase 1 activity, including a concomitant downregulation of cyclinD1 and cdc2 and upregulation of cyclinB1 in HepG2 cells. DYC-279 also significantly increased the ratio of Bax/Bcl-2, and stimulated the released of cytochrome c into cytosol and also activated caspase-9 and caspase-3, suggesting DYC-279 induced apoptosis via mitochondrial apoptotic pathway. These data support that DYC-279 has anticancer properties in HepG2 cells and may be used as a novel effective reagent in the treatment of human liver cancer.
+

@@ -1,0 +1,4 @@
+23228421
+2013 Feb
+The efficacy of nanoparticle-mediated drug delivery is limited by its peri-vascular sequestration, thus necessitating a strategy to trigger drug release from such intra-tumoral nanocarrier-drug depots. In our efforts to explore remotely-activated nanocarriers, we have developed carbon nanocapsules comprised of an ultra-short carbon nanotube shell (US-tubes) loaded with cisplatin (CDDP@US-tubes) and covered with a Pluronic surfactant wrapping to minimize passive release. We demonstrate here that non-invasive radiofrequency (RF) field activation of the CDDP@US-tubes produces heat that causes Pluronic disruption which triggers cisplatin release in an RF-dependent manner. Furthermore, release-dependent cytotoxicity is demonstrated in human hepatocellular carcinoma cell lines.
+

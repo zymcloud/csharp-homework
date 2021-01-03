@@ -1,0 +1,4 @@
+23519571
+2013 Apr
+A series of nitrogen mustard-linked chalcones were synthesized and evaluated for their antitumor activity in vitro against the K562 and HepG2 cell lines. The aldol condensation of [N,N-bis(chloroethyl)-3-amino]-acetophenone (2) with aromatic aldehydes afforded the nitrogen mustard-linked chalcones. Among the analogs tested, compounds 5e and 5k exhibited significant anti-proliferation activities against K562 cells with IC50 values of 2.55 and 0.61 µM, respectively, which revealed higher cell toxicity than the standard drugs cisplatin (IC50>200 µM) and adriamycin (IC50=14.88 µM). The methoxyl and N,N-dimethyl groups on the B-ring of the chalcone frame enhanced the inhibitory activities against both the K562 and HepG2 cell lines. The structure-activity relationship study indicated that the inhibitory activities significantly varied with the position(s) and species of the substituted group(s).
+

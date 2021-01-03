@@ -1,0 +1,4 @@
+26807173
+2015 Nov 15
+MicroRNAs (miRNAs) have been widely reported, which play important roles in cancer development. CXCL2 acts as an oncogene, however, its regulation by miRNAs is not clear in hepatocellular carcinoma (HCC). In our research, it is aimed to study the role of CXCL2 in HCC and the regulation of its expression by miRNAs. Firstly, we found that CXCL2 was up-regulated in the blood of patients with HCC and cell lines compared with the normal controls. CXCL2 could enhance HCC cell proliferation and metastasis. miR-532-5p was predicted as a regulatory miRNA of CXCL2 in HCC, and negatively associated with CXCL2 in HCC samples. It was also verified that miR-532-5p inhibited cell proliferation and metastasis of HCC cells by inhibition CXCL2. Collectively, our findings suggested that miR-532-5p may function as a tumor suppressor in HCC by targeting CXCL2.
+CXCL2; HCC; cell proliferation; metastasis; miR-532-5p.

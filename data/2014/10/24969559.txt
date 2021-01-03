@@ -1,0 +1,4 @@
+24969559
+2014 Oct
+SUMOylation and deSUMOylation are dynamic mechanisms regulating a spectrum of protein activities. The SUMO proteases (SENP) remove SUMO conjugate from proteins, and their expression is deregulated in cancers. SENP2 has been reported to play a critical role in the control of hepatocellular carcinoma (HCC) cell growth by modulating the stability of β-catenin. However, the underlying mechanism remains largely unknown. Here, we show that the WW domain-containing oxidoreductase (WWOX), a novel inhibitor of the Wnt/β-catenin pathway, is required for stabilization of β-catenin regulated by SENP2 in HCC cells. The transcriptional level of WWOX is tightly regulated by SENP2. Moreover, knockdown of WWOX by siRNA attuned SENP2-induced β-catenin degradation and decreased SENP2-mediated HCC cell proliferation arrest. Taken together, our data suggested that WWOX is a key downstream modulator of the SENP2 tumor suppressor function in HCC cell.
+

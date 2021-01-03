@@ -1,0 +1,4 @@
+25495578
+2015 Feb
+PLC/PRF/5 cells show limited permissiveness, meaning that almost all subclones are permissive; however, some subclones do not exhibit permissiveness for hepatitis E virus (HEV) infection. In this study, the single-cell cloning of PLC/PRF/5 was performed and heterogeneous subclones characterized. Notably, the efficiency of intracellular virus replication did not correlate with the permissiveness for HEV infection. However, as well as binding permissive subclones, virus-like particles bound non-permissive subclones on various levels, suggesting that these subclones have some deficiencies in the attachment and entry steps of infection. Our data would be useful for investigating the HEV life cycle.
+attachment; cloning cell lines; hepatitis E virus; non-permissive.

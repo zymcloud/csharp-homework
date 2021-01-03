@@ -1,0 +1,4 @@
+27015444
+May-Jun 2016
+Transcatheter arterial chemoembolization (TACE) is the most widely used treatment modality for patients with hepatocellular carcinoma who are not eligible for surgery. Selective tumor embolization is very important, more so in patients with mild to moderate liver cell failure, but determining feeder vessels could be difficult with two-dimensional angiogram alone. Cone beam computed tomography and detection software are available for intraprocedural accurate feeder vessel detection; however, these facilities are not widely available. We have evaluated and successfully applied a very simple technique using only a portable ultrasonography machine to ensure superselective feeder cannulation prior to embolization.
+

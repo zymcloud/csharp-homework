@@ -1,0 +1,4 @@
+30079390
+2018 May 28
+Background:Non-anatomical liver resection (NAR) and radiofrequency ablation (RFA) are treatment options for early-stage hepatocellular carcinoma (HCC). The aim was to compare the outcomes of NAR and RFA for HCC in patients with three or fewer tumour nodules, each measuring not more than 3 cm in maximum diameter.Methods:Eligible patients undergoing NAR or RFA with curative intent between September 2002 and December 2014 were identified. A propensity score-matching analysis was performed to reduce bias, and outcomes in these patients were analysed.Results:From a total of 199 patients, 1:1 propensity score matching identified 70 matched pairs. Patients having NAR had a longer hospital stay (median 10 days versus 4 days for those who had RFA; P Conclusion:RFA was an independent risk factor for shorter recurrence-free survival, with a significantly higher local recurrence rate than NAR. Despite these differences, overall survival was not affected.
+

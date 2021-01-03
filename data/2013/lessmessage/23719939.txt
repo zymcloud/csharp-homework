@@ -1,0 +1,4 @@
+23719939
+2013
+MicroRNA can be transferred across cells within extracellular vesicles such as exosomes. In order to analyze the biological effects of extracellular vesicle microRNA, it is necessary to isolate these vesicles and to extract their miRNA content.Here, we describe an approach to the isolation of cellular nanovesicles from liver cancer cell lines that can be used for the isolation of RNA and microRNA.
+

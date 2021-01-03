@@ -1,0 +1,4 @@
+21035947
+2011 Jan 28
+Impact of viral load of HCV on the incidence of hepatocellular carcinoma was investigated using a population-based cohort consisting of 20,794 Japanese. A total of 114 newly arising cases of hepatocellular carcinoma were diagnosed during follow-up. Compared to the hepatitis virus-negative group, the hazard ratio (HR) of developing hepatocellular carcinoma was 35.8-fold higher in HCV monoinfection (95% confidence interval [CI], 20.7-62.7). A titer-dependent increase in risk was not identified. The risk was 3.86-fold higher (CI; 1.73-8.62) for genotype 1 than genotype 2. Our findings suggest that HCV viremia strongly influences the occurrence of hepatocellular carcinoma without titer-dependence.
+

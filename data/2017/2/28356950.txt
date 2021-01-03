@@ -1,0 +1,4 @@
+28356950
+2017 Feb
+Hepatocellular carcinoma (HCC) is the third leading cause of cancer-associated death. Due to rapid progression and metastasis, the long-term survival remains poor for most patients. Thus, it is important to discover and develop novel preventive strategies and therapeutic approaches for HCC. Recent data show that chondrolectin (CHODL) is commonly overexpressed in the majority of lung cancers, indicating a possible correlation between CHODL and metastasis of lung cancer cells. Our investigation shows that the expression of CHODL is significantly decreased in HCC clinical samples and in HCC cell lines. Overexpression of CHODL in SMMC7721 cells with a lentiviral vector increased SMMC7721 cell migration and invasion. Our findings establish for the first time an association between human CHODL and HCC metastasis.
+CHODL; hepatocellular carcinoma; invasion; migration.

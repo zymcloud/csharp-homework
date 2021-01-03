@@ -1,0 +1,4 @@
+29710484
+2018 Mar
+Circular RNAs (circRNAs) are non-coding RNAs that play key roles in the pathogenesis of diseases and are associated with human hepatocellular carcinoma (HCC). Previous reports have shown the circRNA hsa_circ_0005075 is highly expressed in HCC tissues, but its function is unknown. In this study, we confirmed circ_0005075 is significantly increased in HCC tissues and cell lines. This overexpression was associated with increased numbers of proliferative, migrated and invasive SMMC-7721 cells. In addition, hsa_circ_0005075 inhibited the transcription activity of miR-431 measured by dual-luciferase reporter assays. In contrast, silencing hsa_circ_0005075 decreased cell number. Finally, effects after hsa_circ_0005075 silencing were rescued by co-transfection with miR-431 inhibitor. These results suggest hsa_circ_0005075 promotes HCC via miR-431 regulation.
+HCC; Sponge; hsa_circ_0005075; miR-431.

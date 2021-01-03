@@ -1,0 +1,4 @@
+25174755
+Aug-Sep 2014
+Ferroptosis is a form of cell death that has recently been reported during exposure to erastin, a chemical compound identified in a screen for molecules able to kill cancer cells carrying an active Ras oncogene. In cells exposed to inducers of ferroptosis, a catastrophic alteration of the cellular redox metabolism occurs, resulting in massive lipid peroxidation in the plasma membrane and loss of cell viability. We present our recent observations suggesting that sorafenib, the only medical treatment with proven efficacy against hepatocellular carcinoma, induces ferroptosis, a new anti-oncogenic mode of action of this drug. The discovery of ferroptosis sheds light on the critical adaptations of the redox metabolism in cancer cells. It might also foster the discovery of new biomarkers and innovative approaches for the treatment of cancer.
+

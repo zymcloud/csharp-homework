@@ -1,0 +1,4 @@
+21887461
+2012 Jan
+Mitochondrial DNA-depleted ρ0 cells are resistant to apoptosis, but the mechanism remains unclear. A human hepatoma cell line (SK-Hep1) depleted of mtDNA (ρ0SK-Hep1) was induced by ethidium bromide treatment. The ρ0SK-Hep1 cells were resistant to both doxorubicin- and cisplatin-induced apoptosis, while cybrids (SK-Hep1Cyb) prepared by fusing ρ0SK-Hep1 cells with platelets showed restored susceptibility to both drugs. We observed P-glycoprotein and MRP1 were both overexpressed in ρ0 cells, and more P-glycoproteins were localized in the mitochondria and were functionally active. ρ0 cells showed resistance to chemotherapeutic drug-induced apoptosis. The increased expression and localization of P-glycoproteins in the mitochondria of ρ0 cells may facilitate the exclusion of chemotherapeutic drugs from the mitochondria to the cytosol.
+

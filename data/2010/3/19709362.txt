@@ -1,0 +1,4 @@
+19709362
+2010 Mar
+This study was undertaken to investigate the effect of interferon (IFN) monotherapy on the risk of hepatocellular carcinoma (HCC) in aged-patients with chronic hepatitis C. Seven hundred and twenty-five patients with histologically proven chronic hepatitis C were enrolled in this retrospective cohort study; 531 received IFN monotherapy for 6 months between 1992 and 1995, and 157 were collected as a historical control. The effect of IFN therapy on the development of HCC was compared between the patients with chronic hepatitis C under 60 years old (non-aged group, n = 531) and those 60 and over (aged group, n = 194). A stepwise Cox proportional-hazards regression analysis in the non-aged group revealed that IFN therapy (risk ratio 0.52, 95% CI 0.33-0.81, P = 0.004), older age (P = 0.001), and higher histological stage (P
+

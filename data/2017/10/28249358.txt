@@ -1,0 +1,4 @@
+28249358
+2017 Oct
+Aim:Our objective is to study the clinical characteristics of cirrhosis patients with SIRS and investigate its prognostic factors.Methods:We analyzed 285 consecutive patients and their data were evaluated retrospectively. Data were compared in patients with/without SIRS during hospitalization. Univariate and multivariate Cox regression analyses were undertaken separately for cirrhotic patients with SIRS to assess predictive factors for 90-day mortality.Results:The mortality was 38.24% (52/136) in patients with SIRS and 6.04% (9/149) in patients without SIRS for 90-day follow-up (P 175 µmol/L (P Conclusion:Cr ≥ 175 µmol/L, CRP ≥ 25 mg/L, multi-site infection, ACLF, and advanced HCC independently predicted a higher rate of 90-day mortality in liver cirrhosis with SIRS.
+cirrhosis; mortality; prognosisrisk factorsystemic inflammatory response syndrome (SIRS).

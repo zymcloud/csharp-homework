@@ -1,0 +1,4 @@
+29454995
+2018 Jun
+Chronic hepatitis B virus infection is a significant risk factor for cirrhosis and hepatocellular carcinoma. The HBx protein is required for virus replication, but the lack of robust infection models has hindered our understanding of HBx functions that could be targeted for antiviral purposes. We briefly review three properties of HBx: its binding to DDB1 and its regulation of cell survival and metabolism, to illustrate how a single viral protein can have multiple effects in a cell. We propose that different functions of HBx are needed, depending on the changing hepatocyte environment encountered during a chronic virus infection, and that these functions might serve as novel therapeutic targets for inhibiting hepatitis B virus replication and the development of associated diseases.
+

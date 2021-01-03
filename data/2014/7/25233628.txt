@@ -1,0 +1,4 @@
+25233628
+2014 Jul
+To investigate the cell-killing effect and its possible mechanism of rClone30-hDR5 in combination with TRAIL on human hepatic carcinoma (HCC) cell line, first of all, recombinant plasmid pee12.4-hDR5 was introduced into HepG2 cells by liposome transfection. After five rounds of screening by flow cytometry, HepG2 cells expressing high levels of DR5 on cell surface were isolated. The cytotoxicity of TRAIL to selected cells was higher than that of TRAIL to HepG2 cells by MTT method (P
+

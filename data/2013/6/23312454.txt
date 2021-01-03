@@ -1,0 +1,4 @@
+23312454
+2013 Jun
+Background:Hepatoblastoma is a rare childhood liver cancer with an obscure etiology, however it is potentially associated with selected pregnancy events and hepatoblastoma risk in offspring.Methods:Adjusted unconditional logistic regression estimated odds ratios (OR) and corresponding 95% confidence intervals (CI) for self-reported pregnancy events and medication use in a sample of mothers of 383 childhood hepatoblastoma cases and 387 controls.Results:Risk of hepatoblastoma was significantly associated with maternal first trimester weight gain (OR = 1.02; 95% CI 1.00, 1.04 per 1 lb increase and nearly significantly with maternal multivitamin use (OR = 0.73; 95% CI 0.51, 1.03). Hepatoblastoma was not associated with other maternal weight changes, maternal illness or medication use during pregnancy.Conclusion:We found little evidence that maternal illness or most medication use during pregnancy are associated with hepatoblastoma in offspring.
+

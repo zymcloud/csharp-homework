@@ -1,0 +1,4 @@
+30333872
+2018 Nov
+The identification of novel biomarkers for hepatocellular carcinoma (HCC) is of great importance in improving the outcome of patients with HCC. The present study aimed to determine the prognostic significance of the soluble intercellular adhesion molecule (sICAM)-1 in patients with HCC. The present study prospectively collected clinicopathological data from 36 patients with HCC who had undergone successful hepatectomy. An analysis using a receiver operating characteristic (ROC) curve was performed to determine the cut-off value for predicting prognosis. Overall survival (OS), recurrence-free survival (RFS) and potential prognostic factors were analyzed. The ROC curve analysis revealed a sICAM-1 cut-off value of 440 ng/ml. HCC patients with sICAM-1 ≥440 ng/ml exhibited a poorer OS and RFS than those with sICAM-1
+hepatocellular carcinoma; intercellular adhesion molecule-1; overall survival; prognosis; recurrence-free survival.

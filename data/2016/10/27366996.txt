@@ -1,0 +1,4 @@
+27366996
+2016 Oct
+Hepatitis C virus (HCV) infection tends persistent and causes chronic liver diseases, including inflammation, cirrhosis and hepatocellular carcinoma. Innate immune responses triggered by HCV infection, particularly the production of interferons and pro-inflammatory cytokines, shape the early host antiviral defense, and orchestrate subsequent HCV-specific adaptive immunity. Host has evolved multifaceted means to sense HCV infection to induce innate immune responses, whereas HCV has also developed elaborate strategies to evade immune attack. Recent studies in the field have provided many new insights into the interplay of HCV and innate immunity. In this review, we summarized these recent advances, focusing on pathogen recognition by innate sensors, newly discovered anti-HCV innate effectors and new viral strategies to evade innate immunity.
+

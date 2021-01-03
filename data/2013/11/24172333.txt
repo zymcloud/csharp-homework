@@ -1,0 +1,4 @@
+24172333
+2013 Nov
+The first cancer-targeted microRNA (miRNA) drug - MRX34, a liposome-based miR-34 mimic - entered Phase I clinical trials in patients with advanced hepatocellular carcinoma in April 2013, and miRNA therapeutics are attracting special attention from both academia and biotechnology companies. Although miRNAs are the most studied non-coding RNAs (ncRNAs) to date, the importance of long non-coding RNAs (lncRNAs) is increasingly being recognized. Here, we summarize the roles of miRNAs and lncRNAs in cancer, with a focus on the recently identified novel mechanisms of action, and discuss the current strategies in designing ncRNA-targeting therapeutics, as well as the associated challenges.
+

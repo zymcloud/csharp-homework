@@ -1,0 +1,4 @@
+26206498
+2016 May
+MicroRNAs (miRNAs) have a large number of various target genes in different cancer types, which may result in many biological functions. Thus, identifying the molecular mechanisms of miRNAs may effect on the complexity of cancer progression via regulation of gene. In the current study, we utilized real-time PCR to quantify the diction of miR-148b in trail hepatocellular carcinoma (HCC) specimen and normal tissues. Furthermore, we evaluated the relationship of miR-148b and clinicopathological features with survival of HCC patients. Therefore, we evaluated the level of miR-148b expression in 101 HCC patients and also in 40 normal control cases. The result suggested lower expression in tumor tissues than normal control tissues (0.96 ± 0.14; 1.84 ± 0.20, P
+Cancer; Liver; PCR; Pathology; miRNA.

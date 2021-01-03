@@ -1,0 +1,4 @@
+24257301
+2013 Jul
+Objective:To explore the clinical significance and diagnostic value of GP73 in early-stage primary hepatocelluar carcinoma (PHC).Methods:GP73 levels in 50 healthy controls, 65 cases of liver cirrhosis and 40 early stage PHC were detected by ELISA. The areas under ROC, sensitivities and specificities were also compared. The relationship between GP73 and liver function parameters was analyzed.Results:The median of serum GP73 in early PHC was 291.3 µg/L, significantly higher than that in the cirrhosis group 211.8 µg/L and in the control group 58.3 µg/L (all PConclusions:GP73 has a superior sensitivity in detecting early-stage PHC in liver cirrhosis patients. The sensitivity can be further increased by combining with AFP. The changes of GP73 expression may be related with the decline of liver function.
+

@@ -1,0 +1,4 @@
+30528319
+2019 Jun
+Myeloid cell leukemia-1 (Mcl-1) is highly expressed in tumor tissues and cells of hepatocellular carcinoma (HCC), yet the role of Mcl-1 in cancer stem-like cells (CSLCs) remains largely unclear. Herein, we showed that knockdown of Mcl-1 significantly inhibited HCC cells to form spheres under ultra-low attachment condition in serum-free medium, and also attenuated clone formation. Inhibition of Mcl-1 by specific inhibitors S63845 or A-1210477 hindered secondary sphere formation, triggered apoptosis signaling and reduced the level of stem cell transcription factor Nanog, Sox2 and KLF4 in HCC spheroids cells. This study suggests that Mcl-1 is an essential factor for the survival and self-renewal of HCC CSLCs.
+Cancer stem-like cells; Hepatocellular carcinoma; Mcl-1; Mcl-1 inhibitor.

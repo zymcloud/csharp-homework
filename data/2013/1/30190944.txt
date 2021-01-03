@@ -1,0 +1,4 @@
+30190944
+2014 Jan
+The current algorithm for the imaging diagnosis of hepatocellular carcinoma accurately detects large, progressed tumors displaying the classical imaging features of arterial hyperenhancement with 'washout' and/or 'capsule' appearance. Liver MRI with the relatively newer hepatobiliary agent, gadoxetate disodium, provides information on hepatocellular function in addition to vascularity, facilitates detection of small progressed tumors, as well as early/vaguely nodular tumors, and shows promise for characterizing hepatocellular carcinoma biology. Prediction of tumor grade, presence of biliary and stem cell markers, microvascular invasion, future hypervascularization and post-treatment recurrence have all been studied with gadoxetate disodium-enhanced MRI with encouraging results. Incorporation of gadoxetate disodium-enhanced MRI into standard diagnostic and management algorithms will likely unfold in the future.
+

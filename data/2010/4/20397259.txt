@@ -1,0 +1,4 @@
+20397259
+2010 Apr 21
+Chemokines play a paramount role in tumor progression. In hepatocellular carcinoma (HCC) progression, chemokines and their receptors play an intricate role. Currently, chemokines and their receptors such as the CXCL12-CXCR4 axis, CX3CL1-CX3CR1 axis and the CCL20-CCR6 axis have received much research attention. Although a large number of studies show that these axes are strongly associated with HCC, the exact mechanism by which these axes promote the growth and progression of HCC remains unknown. In this paper, several chemokines and their receptor interactions in HCC progression, growth and metastasis and immune response to HCC are reviewed.
+Chemokines; Hepatocellular carcinoma.

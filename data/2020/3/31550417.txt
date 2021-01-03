@@ -1,0 +1,4 @@
+31550417
+2020 Mar
+Nivolumab is an immune checkpoint inhibitor (ICI) currently in phase 3 clinical trials for hepatocellular carcinoma. The safety of ICIs in recipients of organ allotransplant is unclear, and several reports of fatal alloimmune injury after posttransplant ICI use have been published. We present the first published case of nivolumab used in the pretransplant setting for HCC resulting in fatal acute hepatic necrosis in the immediate postoperative period from a profound immune reaction likely propagated by nivolumab. Further investigation and significant caution are needed in the evaluation of patients awaiting transplant who are receiving ICI therapy.
+alloantigen; cancer; clinical research; dysfunction; editorial; graft survival; hepatology; immune modulation; immune regulation; immunosuppression; liver allograft function; liver transplantation; malignancy; neoplasia

@@ -1,0 +1,4 @@
+30602418
+2019 Feb 5
+The Hepatitis C virus (HCV) core protein plays a crucial role in the development of chronic liver diseases such as chronic hepatitis, cirrhosis, and hepatocellular carcinoma (HCC). Its involvement in these diseases is reportedly abolished by a knockout of the proteasome activator PA28γ gene in transgenic mice, suggesting an interaction between the core protein and the PA28γ-proteasome system. This study found a direct interaction between the N-terminal 1-71 fragment of HCV core protein (Core71) and PA28γ in vitro, and that this interaction was found to enhance PA28γ-20S proteasome complex formation. While 20S proteasome activity was increased by PA28γ, it was significantly reduced by Core71 attachment in a dose-dependent manner. These results suggest that the Core-PA28γ interaction has an important role in regulating 20S proteasome activity and furthers our understanding of the pathogenesis of HCV.
+20S-proteasome; HCV core protein; PA28γ.

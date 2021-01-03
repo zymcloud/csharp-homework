@@ -1,0 +1,4 @@
+31034943
+2019 Jul 20
+Micro RNA-34a-5p (miR-34a-5p) is an important molecule that can act as a modulator of tumor growth. It controls expression of a plenty of proteins controlling cell cycle, differentiation and apoptosis and opposing processes that favor viability of cancer cells, their metastasis and resistance to chemotherapy. Bioinformatics analysis indicated that minichromosome maintenance protein 2 (MCM2) is a target gene of miR-34a-p. In this study, RT-qPCR was employed to detect the expression of miR-34a-5p and MCM2 in 10 hepatocellular carcinoma (HCC) tissues. The functional role of miR-34a-5p in HCC was investigated and the interaction between miR-34a-5p and MCM2 was explored. Results showed miR-34a-5p expression in HCC tissues was significantly lower than in non HCC liver tissues (P
+Hepatocellular carcinoma; MCM2; Proliferation; miR-34a-5p.

@@ -1,0 +1,4 @@
+20672352
+2010 Dec 1
+Background:To improve the efficacy of radiofrequency ablation (RFA) for the treatment of intermediate-sized hepatocellular carcinomas (HCCs), the authors compared RFA combined with transcatheter arterial chemoembolization (TACE) to RFA alone.Methods:The authors randomly assigned 37 patients with solitary HCCs (diameter, 3.1-5.0 cm in the greatest dimension) to 2 groups: the TACE-RFA group, in which the patients received TACE followed by RFA on the same day, and the RFA group, in which the patients received only RFA.Results:Technical success was achieved after 1.4±0.5 RFA sessions in the RFA group and after 1.1±0.2 RFA sessions in the TACE-RFA group (PConclusions:In patients with intermediate-sized HCCs, RFA combined with TACE is more effective than RFA alone for extending the ablated area in fewer treatment sessions and for decreasing the local tumor progression rate.
+

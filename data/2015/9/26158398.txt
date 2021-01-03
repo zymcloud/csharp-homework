@@ -1,0 +1,4 @@
+26158398
+2015 Sep
+Aims:To evaluate sorafenib dosing and safety in the Global Investigation of therapeutic GIDEON study's European subpopulation.Patients & methods:Patient demographics, disease characteristics and treatment history were recorded at enrollment; dose, adverse events and efficacy were recorded at follow-up.Results:Of 1113 evaluable patients, 82% started on 800 mg/day sorafenib; patients starting on 400 mg/day were slightly older, had baseline characteristics indicative of greater disease progression and higher adverse events incidences (96 vs 88%). Treatment duration (18.0 vs 13.0 weeks) and median overall survival (12.1 vs 9.4 months) were longer in patients receiving 800 mg/day.Conclusion:Imbalances in independent predictive factors may have led to longer survival in patients receiving 800 mg/day sorafenib; nonetheless, results suggest that the majority can start on this dose.
+GIDEON; dosing; safety; sorafenib; unresectable hepatocellular carcinoma.

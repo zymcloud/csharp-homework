@@ -1,0 +1,4 @@
+32202949
+2020 Apr
+Plexin domain containing 2 (PLXDC2) is expressed in endothelial cells of tumor stroma, neural progenitor cells, and pluripotent stem cells, but their respective tissue expression pattern is not fully understood. In this study, we investigated the expression pattern of PLXDC2 in human hepatocellular carcinoma (HCC) tissues using a highly specific anti-PLXDC2 rabbit monoclonal antibody, which was recently developed. PLXDC2 was expressed in human HCC tissues including HCC cells, tumor vascular endothelial cells, and some infiltrating cells. The developed anti-PLXDC2 antibody allowed for highly specific and low background staining. Based on these current findings of PLXDC2 expression in human HCC tissues, the window may now be open to explore the role of PLXDC2 in human HCC.
+hepatocellular carcinoma; plexin domain containing 2; tumor marker.

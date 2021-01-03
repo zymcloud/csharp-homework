@@ -1,0 +1,4 @@
+25041030
+2014
+Activation of a patient's immune system offers an attractive approach to prevent and treat hepatocellular carcinoma (HCC). However, the antitumor efficacy of current HCC vaccines was weak owing to insufficient immune activation of targeting self/tumor antigens. We recently found that epitope-optimized α-fetoprotein effectively activated CD8 T cells and generated potent antitumor effects in the carcinogen-induced autochthonous HCC mouse model. We predict that the same antigen engineering approach of epitope-optimization will enable us to develop effective human vaccines to prevent HCC recurrence after liver resection. The engineered human HCC vaccines may also allow us to identify high-affinity T-cell receptors and antibodies that can be used to reprogram T cells to treat HCC tumors via adoptive transfer.
+antigen engineering; cancer vaccine; epitope optimization; genetic immunization; hepatocellular carcinoma; immunotherapy; recombinant lentivector.

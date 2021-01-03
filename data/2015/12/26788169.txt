@@ -1,0 +1,4 @@
+26788169
+2015 Dec
+Tumor necrosis factor (TNF)-related apoptosis-inducing ligand (TRAIL) is known for its ability to selectively induce apoptosis in malignant cells. However, human hepatocellular carcinoma (HCC) cells display resistance to TRAIL-induced cell death. The present study investigated whether TRAIL-induced apoptosis in HCC cells was enhanced by the administration of an inhibitor of glycogen synthase kinase-3β (GSK-3β) or by short hairpin RNA-mediated inhibition of GSK-3β. The results of the current study demonstrated that inhibition of GSK-3β significantly impairs the expression of the nuclear factor-κB (NF-κB) target genes Bcl-xL and clAP2 in HCC cells (P
+apoptosis; glycogen synthase kinase-3β; hepatocellular carcinoma; nuclear factor-κB; tumor necrosis factor-related apoptosis-inducing ligand.

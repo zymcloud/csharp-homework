@@ -1,0 +1,4 @@
+21971559
+2012 Mar
+Hepatocellular cancer is a significant global health problem yet the prognosis for the majority of patients has not changed significantly over the past few decades. For patients with advanced disease, sorafenib is currently the standard of care providing a survival advantage of 2-3 months in selected patients. Cytotoxic chemotherapy has been used for over 30 years but definite evidence that it prolongs survival has been lacking. Resistance remains a significant barrier for both targeted and cytotoxic agents and an understanding of the underlying mechanisms is critical if outcomes are to be improved. Here, we summarise the past and current data that constitute the evidence base for chemotherapy in HCC, review the causes of chemoresistance and suggest strategies to overcome these barriers.
+

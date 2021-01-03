@@ -1,0 +1,4 @@
+28496001
+2017 Jul 4
+Hepatocellular Carcinoma (HCC) is one of the most fatal cancers, whose incidence and death rates are still rising. Here, we report the identification of long non-coding RNAs (IncRNAs) that associated with HCC progression and metabolism based on the systematically analysis of large scale RNA-seq data from HCC patients. We identified seven lncRNAs with high confidence which were highly related with prognostic of HCC. Of note, three of them had quite different expression patterns between the control samples and the patients, and their critical roles in cancer progression were validated. We proposed that DDX11-AS1 play important role during HCC oncogenesis and may serve as potential therapy target for HCC.
+DDX11-AS1; liver hepatocellular carcinoma; lncRNAs.

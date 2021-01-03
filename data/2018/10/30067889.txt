@@ -1,0 +1,4 @@
+30067889
+2018 Oct
+Given the increasing incidence of hepatocellular carcinoma (HCC) and regional variation in liver transplantation (LT) rates for HCC, we investigated temporal and geographic disparities in LT and wait-list dropout. LT candidates receiving Model for End-Stage Liver Disease (MELD) exception from 2005 to 2014 were identified from the United Network for Organ Sharing database (n = 14,320). Temporal differences were compared across 2 eras (2005-2009 and 2010-2014). Regional groups were defined based on median wait time as long-wait region (LWR; regions 1, 5, and 9), mid-wait region (MWR; regions 2, 4, 6, 7, and 8), and short-wait region (SWR; regions 3, 10, and 11). Fine and Gray competing risk regression estimated risk of wait-list dropout as hazard ratios (HRs). The cumulative probability of LT within 3 years was 70% in the LWR versus 81% in the MWR and 91% in the SWR (P
+

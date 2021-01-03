@@ -1,0 +1,4 @@
+30127954
+2018 Sep
+Previous studies have detected a higher level of ferritin in patients with hepatocellular carcinoma (HCC), but a potential causal association between serum ferritin level and hepatocarcinogenesis remains to be clarified. Using a well-established prospective cohort and longitudinally collected serial blood samples, the association between baseline ferritin levels and HCC risk were evaluated in 1,152 patients infected with hepatitis B virus (HBV), a major risk factor for HCC. The association was assessed by Cox proportional hazards regression model using univariate and multivariate analyses and longitudinal analysis. It was demonstrated that HBV patients who developed HCC had a significantly higher baseline ferritin level than those who remained cancer-free (188.00 vs. 108.00 ng/ml, P
+ferritin; hepatitis B virus; hepatocellular carcinoma; prospective; risk.

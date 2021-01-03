@@ -1,0 +1,4 @@
+29856195
+2016 Feb
+Hepatic cellular cancer (HCC) is one of the most common cancers in the world, which is a serious threat to human health and life quality. More than 700,000 people die of HCC each year on average, and its incidence increases in many countries. Chronic hepatitis B virus (HBV) infection has been identified as a dominant risk factor for HCC. The pathogenesis of HBV-induced hepatocarcinogenesis is, however, incompletely understood. Evidence currently available supports a key role of the HBV X protein (HBx) in the cancer transformation and malignant tumor metastasis. HBx is a multifunctional regulator that may cooperate with the host factors to exert its effects on transcription, signal transduction, cell cycle progression, apoptosis, protein degradation, expression of oncogene and anti-oncogene. This review presents the current knowledge in the molecular pathogenesis of HBx in the induction of HCC.
+

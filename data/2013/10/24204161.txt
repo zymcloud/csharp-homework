@@ -1,0 +1,4 @@
+24204161
+2013 Oct 16
+Background:The purpose of this study was to develop and validate a novel transient elastography-based predictive model for occurrence of hepatocellular carcinoma (HCC).Methods:A total of 1,250 patients with chronic hepatitis B and baseline liver stiffness values were recruited between May 2005 and December 2007. The predictive model for HCC occurrence was constructed based on a Cox proportional hazards model. We estimated baseline disease-free probabilities at 3 years. Discrimination and calibration were used to validate the model.Results:HCC occurred in 56 patients during a median follow-up of 30.7 months. Multivariate analysis revealed that age, male gender, and liver stiffness values were independent predictors of HCC (all PConclusion:This novel model accurately estimated the risk of HCC occurrence in patients with chronic hepatitis B.
+hepatitis B; hepatocellular carcinoma; prediction; transient elastography.

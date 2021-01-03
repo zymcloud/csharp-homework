@@ -1,0 +1,4 @@
+21243650
+2011 Apr 8
+A CMB monomer was polymerized on a glass plate with a surface-confined ATRP initiator containing a 2-bromoisobutyryl group. The glass plate modified with a PCMB brush was highly hydrophilic and showed a strong resistance against non-specific adsorption of proteins and cell adhesion. Upon ion beam irradiation, furthermore, the PCMB brush was ablated and a hollow space with a designed shape could be made to which HEK293 cells (from human embryonic kidney) and Hep G2 (from human hepatoma) cells non-specifically adhered, while no adhesion of these cells to the non-treated area on the brush was observed. The present results clearly indicate the usefulness of ion beam-printed patterns of anti-biofouling zwitterionic polymer brushes in the biomedical field.
+

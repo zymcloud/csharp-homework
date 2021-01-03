@@ -1,0 +1,4 @@
+32129747
+2020 Feb
+The incidence of chronic liver disease is constantly increasing, owing to the obesity epidemic. Non-alcoholic fatty liver disease (NAFLD) is currently affecting 20-30% of the general population and 75-100% of obese individuals. NAFLD ranges from simple steatosis to damaging non-alcoholic steatohepatitis (NASH), potentially developing into hepatocellular carcinoma. No efficient pharmacological treatment is yet available. During obesity, the hepatic ER stress response can arise from extracellular stress (lipids, glucose, cytokines) and from intracellular stress including lipid buildup in the hepatocyte (steatosis), a hallmark of NAFLD. The chronic activation of the hepatic ER stress response may be a crucial event in the steatosis-NASH transition, triggering cell death, inflammation and accelerating metabolic disorders. We discuss these aspects and we propose that targeting the ER stress response could be effective in treating NAFLD.
+

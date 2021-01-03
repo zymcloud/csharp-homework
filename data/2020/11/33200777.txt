@@ -1,0 +1,4 @@
+33200777
+2020 Nov 17
+MicroRNAs play important roles in regulating hepatocellular carcinoma (HCC) formation, progression and metastasis. However, their functions and the underlying molecular mechanisms are still unclear. Here, we found that miR-3677-3p was highly expressed in primary tumor tissues of HCC patients. And its inhibition by using sponge in HCC cells could suppress cell proliferation significantly, but it has no effect on cell apoptosis. Through directly targeting to the 3' untranslated region of glycogen synthase kinase 3-β (GSK3β), miR-3677-3p could inhibit GSK3β expression. Our study revealed that the miR-3677-3p/GSK3β axis may play a crucial role in HCC and miR-3677-3p may serve as a potential diagnostic biomarker or a therapeutic target for HCC.
+GSK3β; hepatocellular carcinoma; miR-3677-3p; proliferation.

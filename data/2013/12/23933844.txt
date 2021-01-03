@@ -1,0 +1,4 @@
+23933844
+2013 Dec
+Fluorescent carbon dots (CDs) were synthesized by a solvothermal method with glucose as carbon source and surface-modified with 1,6-hexamethylene diamine. In this hybrid CDs, the modification played important role for improving the fluorescent performance by introducing nitrogenous compound to passivate CD's surface, making the CDs emit strong fluorescence. The as-prepared CDs were linked with mouse anti-human Alpha fetoprotein (AFP) antibody and goat anti-mouse immunoglobulin (IgG) to directly and indirectly label fixed human hepatocellular carcinoma cells, respectively. The cytotoxicity of these CDs were also tested using the human hepatocellular carcinoma cells. No apparent cytotoxicity was observed, which suggested the potential application of the as-prepared CDs in bioimaging.
+Cytotoxicity; Fluorescence spectra; Fluorescent carbon dots; Human hepatocellular carcinoma cells.

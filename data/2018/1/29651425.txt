@@ -1,0 +1,4 @@
+29651425
+2018 Jan 31
+High-mobility group box 1 (HMGB1) is a potential therapeutic target and novel biomarker in a variety of malignant tumors, including hepatocellular carcinoma (HCC). More recently, a number of microRNAs (miRNAs) are identified as a class of regulators for broad control of HMGB1-mediated biological actions in eukaryotic cells. In this review article we will describe representative miRNAs involved in regulating the HMGB1 signaling pathways in HCC cell lines and/or animal models. We also propose the possible mechanisms underlying the miRNA/HMGB1 axis and discuss the future clinical significance of miRNAs targeting HMGB1 molecule for HCC therapy.
+

@@ -1,0 +1,4 @@
+29038925
+2018 Jan
+Objectives:To investigate whether miR-1260b can regulate migration and invasion of hepatocellular carcinoma (HCC) by targeting RGS22.Results:miR-1260b was up-regulated in HCC tissues compared with their corresponding non-cancerous tissues. Over-expression of miR-1260b increased migration and invasion of HepG2 and SMMC-7721 cells associated with HCC. Regulator of G-protein signaling 22 (RGS22) was identified as a directly target of miR-1260b and was inhibited by miR-1260b. Knockdown of RGS22 increased proliferation of HCC cells.Conclusions:The new identified miR-1260b/RGS22 axis provides useful therapeutic methods for treatment of HCC deepening on our understanding of underlying mechanisms of HCC tumorigenesis.
+G Protein-coupled receptors; Hepatocellular carcinoma; Invasion; MIR-1260B; Migration; RGS22.

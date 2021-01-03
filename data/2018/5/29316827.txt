@@ -1,0 +1,4 @@
+29316827
+2018 May
+Aim:The MAGE family member H1 (MAGEH1) belongs to melanoma-associated antigen (MAGE) superfamily. The role of MAGEH1 in hepatocellular carcinoma (HCC) is largely undefined.Materials & methods:We used quantitative reverse transcription PCR and immunohistochemistry to detect MAGEH1 expression in HCC tissues. CCK-8 assay, wound healing migration assay and Transwell Matrigel invasion assay were used to measure HCC cell proliferation, migration and invasion ability.Results:MAGEH1 expression was downregulated in HCC tumor tissues compared with adjacent normal liver tissues and in samples from patients with tumor recurrence. MAGEH1 reduced HCC cell proliferation, migration and invasion ability. Low MAGEH1 expression was significantly correlated with poor prognosis in HCC patients.Conclusion:MAGEH1 may serve as a potential biomarker and a new prognostic factor for HCC.
+MAGEH1; hepatocellular carcinoma; prognosis.

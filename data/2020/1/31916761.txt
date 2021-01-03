@@ -1,0 +1,4 @@
+31916761
+2020 Jan 24
+A phytochemical survey aiming to acquire pharmacologically active substances has resulted in the isolation of nine new clerodane diterpenoids, named graveospenes A-I (1-9), from the leaves of Casearia graveolens. Spectroscopic methods were employed to establish the structures with their absolute configurations being confirmed by ECD data analysis. A biological evaluation was performed, and compound 1 was found to be cytotoxic to both human lung cancer cells (A549) and human hepatocellular carcinoma cells (HepG2). A mechanism-of-action study on 1 revealed this compound to induce apoptosis of A549 cells and impede them at the G0/G1 stage.
+

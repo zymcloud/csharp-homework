@@ -1,0 +1,4 @@
+27880978
+2017 Mar
+The relationship between hepatitis B virus X protein (HBx), farsenoid X receptor (FXR) and hepatocellular carcinoma (HCC) is a complicated one in that we have a viral protein interaction that can drive tumorigenesis or inhibit HCC depending upon transactivation of full-length or truncated HBx. In the current article the authors have elegantly described a system of HBx-FXR interaction that demonstrates inhibition of HCC tumor growth via activation of full-length HBx. The paper employs both in vivo and in vitro studies including using FXR knockout mice crossed with HBx induced mice. Overall, studies on the interaction between HBx and FXR have been riddled with complication and this paper sheds important light on the relationship that may be key in developing much needed therapies for HCC.
+

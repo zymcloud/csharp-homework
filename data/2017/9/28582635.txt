@@ -1,0 +1,4 @@
+28582635
+2017 Sep
+A phytochemical study on the stem bark of Commiphora opobalsamum looking for cytotoxic compounds afforded eleven flavonoids, including six previously undescribed prenylated congeners, comophorin A-E, and comophoroside A. The structures of the isolated compounds were elucidated on the basis of spectroscopic evidences and correlated with known compounds. Isolated compounds were biologically evaluated using in vitro cytotoxicity MTT-based assay against two cancer cell lines; namely human hepato-cellular carcinoma (HepG-2) and human breast adenocarcinoma (MCF-7). Comophoroside A revealed to retain the strongest cytotoxic activity against MCF-7 and HepG-2 cell lines with IC50 values of 8 and 12 μg/mL, respectively.
+Burseraceae; Commiphora opobalsamum; Cytotoxic activity; Flavonoids; Prenylated flavonoids.

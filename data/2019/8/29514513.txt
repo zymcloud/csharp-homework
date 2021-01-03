@@ -1,0 +1,4 @@
+29514513
+2019 Aug
+The paper investigated the synergistic inhibitory effects of 1 (triene urushiol), 2 (monoene urushiol), 3 (urushiol pechmann derivative) and paclitaxel on proliferation of human hepatocellular carcinoma cell line HepG2. The inhibitory rate of cell proliferation was detected by MTT assay after HepG2 cells were separately treated with compounds 1, 2 and 3 combined with paclitaxel at different concentrations for 72 h. The joint index analysis was used to examine whether those compatible drugs had synergistic effect. The results showed that compounds 1, 2 and 3 had significant inhibitory effect on the proliferation of HepG2 cells in a dose-dependent manner, and their half inhibitory concentrations IC50 were 29.3, 55.5 and 27.1 μM respectively. The synergistic effect of compounds 1, 2 and 3 combined with paclitaxel significantly inhibited the proliferation of HepG2 cells in vitro.
+HepG2; Urushiol; paclitaxel; synergistic.

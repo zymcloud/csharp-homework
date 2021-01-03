@@ -1,0 +1,4 @@
+20226659
+2010 Apr 1
+Blood borne hepatitis C infections are the primary cause for liver cirrhosis and hepatocellular carcinoma. HCV NS3 protease, a pivotal enzyme in the replication cycle of HCV virus has been the primary target for development of new drug candidates. Boceprevir and telaprevir are two novel ketoamide derived inhibitors that are currently undergoing phase-III clinical trials. These inhibitors include ketoamide functionality as serine trap and have an acidic alpha-ketoamide center that undergoes epimerization under physiological conditions. Our initial attempts to arrest this epimerization by introducing quaternary amino acids at P(1) had resulted in significantly diminished activity. In this manuscript we describe alpha quaternized P(1) group that result in potent inhibitors in the enzyme assay and demonstrate cellular activity comparable to boceprevir.
+

@@ -1,0 +1,4 @@
+29365018
+2018 Jan 29
+Objectives:Recent research has demonstrated that forkhead box O3a (FoxO3a) may function as an oncogenic transcription factor. We sought to validate the clinicopathologic significance of FoxO3a expression in hepatocellular carcinoma (HCC).Methods:Western blotting and immunohistochemistry were used to determine FoxO3a expression. In vitro cell proliferation and migration assays were performed in a HepG2 cell line.Results:FoxO3a was overexpressed in 121 (64.71%) cases of HCC. FoxO3a overexpression was associated with aggressive phenotypes of HCC, such as histologic grade (P Conclusions:These results suggest a role for FoxO3a in HCC progression and support the potential use as a prognostic biomarker.
+Forkhead box O3A protein (FoxO3A); Hepatocellular carcinoma; Immunohistochemistry; Prognosis.

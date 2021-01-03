@@ -1,0 +1,4 @@
+30544063
+2019 Feb
+TNF-related apoptosis inducing ligand (TRAIL) is a potential antitumor protein known for its ability to selectively eliminate various types of tumor cells without exerting toxic effects in normal cells and tissues. TRAIL has recently been suggested as a potential therapeutic target in hepatocellular carcinoma (HCC) because it promotes apoptosis in cancer cells. Furthermore, studies on the role of TRAIL in liver injury have reported that TRAIL plays an essential role in viral hepatitis, fatty liver diseases, etc. However, several contradictory and confounding effects of TRAIL in these liver diseases have not been fully elucidated or placed into perspective. Hence, this review summarizes recent progress in studies on TRAIL, including its role in apoptotic signaling, potential therapeutic applications of TRAIL in HCC, hepatitis virus infection, and liver fibrosis and cirrhosis.
+Apoptosis; Hepatocellular carcinoma; Liver disease; TRAIL.

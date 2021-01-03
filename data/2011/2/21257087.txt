@@ -1,0 +1,4 @@
+21257087
+2011 Feb
+The study was designed to evaluate the role of real-time elastography in differentiating metastatic from nonmetastatic liver nodules, which include various benign lesions, hepatocellular carcinoma (HCC) nodules and lymphoma. Out of 1000 prospective patients who underwent abdominal ultrasound (US) examination, 48 patients had liver nodules. Nodule stiffness was determined by real-time elastography (ES) using color maps and shear wave velocity (SWV) and nodules having marked stiffness or SWV of more than 2.5 m/s were diagnosed as metastatic. The final diagnosis was made on fine needle aspiration cytology. No statistically significant differences were seen on elastomaps in the stiffness of metastatic and nonmetastatic nodules (p = 0.16) while SWV showed statistically significant differences in the strain velocities of benign, metastatic and heptocellular carcinoma nodules p
+

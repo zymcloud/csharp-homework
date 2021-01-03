@@ -1,0 +1,4 @@
+30756531
+2019 Jan 25
+As a member of the Sirtuins family in mammals, SIRT7 locates in nucleus and is a highly specific H3K18Ac (acetylated lysine 18 of histone H3) deacetylase. Recent studies showed that SIRT7 could participate in the ribosomal RNA transcription, cell metabolism, cell stress and DNA damage repair through various signaling pathways. In addition, SIRT7 is also closely related with aging, heart disease and fatty liver. In particular, SIRT7 plays important roles in the regulation of initiation and development of various tumors, such as liver cancer, gastric cancer, breast cancer, bladder cancer, colorectal cancer, and head/neck squamous cell carcinoma. This review describes the cellular and molecular functions of SIRT7, and systematically summarizes recent progress of SIRT7 in human disease.
+SIRT7; cell metabolism; deacetylation; ribosome; stress response; tumor.

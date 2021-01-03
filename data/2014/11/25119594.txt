@@ -1,0 +1,4 @@
+25119594
+2014 Nov
+MicroRNAs are small 19-25 nucleotides which have been shown to play important roles in the regulation of gene expression in many organisms. Downregulation or accumulation of miRNAs implies either tumor suppression or oncogenic activation. In this study, differentially expressed hsa-miR-195 in hepatocellular carcinoma (HCC) was identified and analyzed. The prediction was done using a consensus approach of tools. The validation steps were done at two different levels in silico and in vitro. FGF7, GHR, PCMT1, CITED2, PEX5, PEX13, NOVA1, AXIN2, and TSPYL2 were detected with high significant (P
+

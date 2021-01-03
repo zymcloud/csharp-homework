@@ -1,0 +1,4 @@
+27093573
+2016
+This study aimed to detect the cross-reactive proteins in filarial parasite adult worm Setaria equina and two different tumor cell lines (MCF-7 human breast cancer and Huh-7 hepatoma cells). This was performed using rabbit anti-S. equina extract (SeqE) or DEC (Diethylcarbamazine citrate) polyclonal IgG antibodies by indirect ELISA and western blotting. The results indicated cross-reactive bands at 70 and 75 kDa in all extracts by anti-DEC and SeqE antibodies, respectively. In addition, the expression of 70 kDa protein was only reduced in filarial worms and Huh-7 after in vitro DEC treatment compared to the control.
+cross-reaction; diethylcarbamazine citrate; filarial parasite; tumor cell line; western blotting.

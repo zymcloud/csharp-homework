@@ -1,0 +1,4 @@
+30531910
+2019 Jan
+N6-Methyladenosine (m6A) RNA modification is present in messenger RNAs (mRNA), ribosomal RNAs (rRNA), and spliceosomal RNAs (snRNA) in humans. Although mRNA m6A modifications have been extensively studied and shown to play critical roles in many cellular processes, the identity of m6A methyltransferases for rRNAs and the function of rRNA m6A modifications are unknown. Here we report a new m6A methyltransferase, ZCCHC4, which primarily methylates human 28S rRNA and also interacts with a subset of mRNAs. ZCCHC4 knockout eliminates m6A4220 modification in 28S rRNA, reduces global translation, and inhibits cell proliferation. We also find that ZCCHC4 protein is overexpressed in hepatocellular carcinoma tumors, and ZCCHC4 knockout significantly reduces tumor size in a xenograft mouse model. Our results highlight the functional significance of an rRNA m6A modification in translation and in tumor biology.
+

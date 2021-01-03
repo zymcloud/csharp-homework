@@ -1,0 +1,4 @@
+31866520
+2020 Feb 1
+Autophagy is a metabolic process that maintains the homeostasis of the intracellular environment by degrading damaged proteins and organelles in lysosomes. Recently, independent studies have indicated that some hepatitis viruses develop abilities to hijack autophagy for their replication, such as hepatitis B (HBV) and C (HCV); these two viruses are structurally unrelated, but both of them can cause hepatitis, liver cirrhosis, and even hepatocellular carcinoma (HCC). In this review, we will summarize the current knowledge about the mechanism of autophagy induction in HBV- and HCV-infected hepatocytes, discuss how induced autophagy promotes HBV and HCV replication and describe some autophagy-related therapeutic strategies, which may provide perspective with which to cure HBV and HCV infections and their related liver diseases.
+Autophagy; Hepatitis B; Hepatitis C.

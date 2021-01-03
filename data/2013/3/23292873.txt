@@ -1,0 +1,4 @@
+23292873
+2013 Mar
+Glycoproteomics is an important aspect in the research of cancer biomarker discovery. The objective of our study is to screen the profile of serum glycoproteins in hepatocellular carcinoma (HCC) patients and to discover differentially expressed glycoproteins in HCC with or without metastasis. We collected serum from HCC patients and divided them into two groups (non-metastatic HCC group and metastatic HCC group) according to 2002 UICC TNM staging system. Wheat germ agglutinin (WGA) lectin was used to enrich the serum glycoproteins by lectin affinity chromatography. The enriched glycoproteins were labeled with mass-balanced isobaric tags (iTRAQ) and analyzed by liquid chromatography-tandem mass spectrometry (LC-MS/MS). Two differential glycoproteins were validated by Western blot and biochemical methods, respectively. Fifteen differential serum glycoproteins with WGA affinity were identified (p 1.5-folds) and six were down-regulated (
+

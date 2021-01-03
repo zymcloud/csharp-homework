@@ -1,0 +1,4 @@
+30423146
+2019 Apr 8
+Objective:To develop a multiplex quantitative polymerase chain reaction (qPCR) assay based on the GenomeLab™ GeXP Genetic Analysis System (GeXP) for detection of long noncoding RNA in hepatocellular carcinoma (HCC).Methods:From PubMed database articles published between 2011 and 2016, we selected 8 kinds of long noncoding RNAs (lncRNAs) related to HCC. Further, we examined 23 pairs of HCC and adjacent noncancerous tissues, using the optimized GeXP multiplex reverse transcription polymerase chain reaction (RT-PCR) assay.Results:The expression level of lncRNA NEAT1, H19, MALAT1, HOTAIR, DANCR, UCA1, and BCAR4 were significantly decreased, compared with that in adjacent noncancerous tissues (all P Conclusions:The GeXP-based multiplex RT-PCR assay may be used as an alternative method for assisting in the histopathological diagnosis of HCC in liver lesions.
+GeXP system; hepatocellular carcinoma; liver lesions; lncRNA; multiple RT-PCR; qPCR.

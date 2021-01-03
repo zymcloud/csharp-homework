@@ -1,0 +1,4 @@
+27694689
+2016 Sep 20
+Hepatocellular carcinoma (HCC) is the third most common cause of cancer-related death worldwide. Despite the therapeutic advances that have been achieved during the past decade, the molecular pathogenesis underlying HCC remains poorly understood. In this study, we discovered that increased expression eukaryotic translation initiation factor 5B (eIF5B) was significantly correlated with aggressive characteristics and associated with shorter recurrence-free survival (RFS) and overall survival (OS) in a large cohort. We also found that eIF5B promoted HCC cell proliferation and migration in vitro and in vivo partly through increasing ASAP1 expression. Our findings strongly suggested that eIF5B could promote HCC progression and be considered a prognostic biomarker for HCC.
+ASAP1; eIF5B; hepatocellular carcinoma; invasion; proliferation.

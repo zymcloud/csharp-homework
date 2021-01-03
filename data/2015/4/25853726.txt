@@ -1,0 +1,4 @@
+25853726
+2015 Apr 8
+Amplification, overexpression, and somatic mutation of the HER2 gene have been reported to play a critical role in tumorigenesis of various cancers. The HER2 H878Y mutation was recently reported in 11% of hepatocellular carcinoma (HCC) patients. However, its functional impact on the HER2 protein and its role in tumorigenesis has not been determined. Here, we show that HER2 H878Y is a gain-of-function mutation. Y878 represents a phosphorylation site, and phospho-Y878 interacts with R898 residue to stabilize the active conformation of HER2, thereby enhancing its kinase activity. H878Y mutant is transforming and the transformed cells are sensitive to HER2 kinase inhibitors. Thus, our study reveals the following novel mechanism underlying the tumorigenic function of the HER2 H878Y mutation: the introduction of a tyrosine residue into the kinase activation loop via mutagenesis modulates the conformation of the kinase, thereby enhancing its activity.
+

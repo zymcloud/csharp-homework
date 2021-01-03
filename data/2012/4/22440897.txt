@@ -1,0 +1,4 @@
+22440897
+2012 Apr
+We have previously demonstrated that chloride intracellular channel 1 (CLIC1) is involved in the lymphatic metastasis of tumors. In this study, a self-designed shRNA sequence of mouse CLIC1 gene was synthesized and inserted into a pGPU6/GFP/Neo plasmid, then stably transfected into mouse hepatic carcinoma cell line Hca-F cells to down-regulate the expression of CLIC1 gene. The levels of expression of CLIC1 mRNA and protein were detected by real-time quantitative polymerase chain reaction (qRT-PCR) and western blot (WB) analysis, respectively. The down-regulation of CLIC1 enhanced proliferative activity, increased the ratio of G2/M and decreased percentage of apoptosis. In addition, the capability of migration and invasion decreased significantly. The results indicate that CLIC1 is a critical factor in the development of lymphatic metastasis.
+

@@ -1,0 +1,4 @@
+30642635
+2019 Feb 19
+Lipin-1 has multiple functions that regulate lipid and energy metabolism according to its subcellular localization. The subcellular localization of Lipin-1 is determined by kinase-dependent phosphorylation; however, the phosphatase that dephosphorylates and inactivates Lipin-1 has remained elusive. Using an immunoprecipitation and LC-MS/MS approach we have identified phosphoglycerate mutase family member 5 (PGAM5), a serine/threonine specific protein phosphatase, as a regulator of Lipin-1 activity. Treatment of human hepatocellular carcinoma cells with carbonyl cyanide m-chlorophenyl hydrazone (CCCP), which activates endogenous PGAM5, promoted dephosphorylation and nuclear accumulation of Lipin-1. Our findings further elucidate the molecular mechanisms that regulate Lipin-1.
+Dephosphorylation; Lipid metabolism; Lipin-1; PGAM5; Phosphatase; Subcellular localization.

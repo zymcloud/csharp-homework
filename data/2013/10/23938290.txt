@@ -1,0 +1,4 @@
+23938290
+2013 Oct 1
+Purpose:We evaluated the impact of the killer immunoglobulin-like receptors (KIR) of natural killer (NK) cells and of their HLA ligands over the clinical outcome of hepatitis C virus (HCV)-related hepatocellular carcinoma after curative treatment by either surgical resection or radiofrequency thermal ablation (RTA).Experimental design:Sixty-one consecutive patients with HCV-related hepatocellular carcinoma underwent KIR genotyping and HLA typing. A phenotypic/functional characterization of NK cells was carried out in patients with different KIR/KIR-ligand genotype.Results:Activating KIR2DS5 was associated with significantly longer time to recurrence (TTR) and overall survival (OS; P Conclusions:These results support a central role of NK cells in the immune response against hepatocellular carcinoma, providing a strong rationale for therapeutic strategies enhancing NK response and for individualized posttreatment monitoring schemes.
+

@@ -1,0 +1,4 @@
+24073364
+2013 Jul 1
+The accumulation of immunosuppressive cells and exhausted effector T cells highlight an important immune dysfunction in advanced stage hepatocellular carcinoma (HCC) patients. These cells significantly hamper the efficacy immunotherapies and facilitate HCC progression. We have recently demonstrated that the multipronged depletion of immunosuppressive cells potentially restores effector T-cell function in HCC.
+GARP; HCC; MDSCs; Tregs; granzyme B.

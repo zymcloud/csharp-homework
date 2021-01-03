@@ -1,0 +1,4 @@
+21571531
+2011 Jun 15
+A series of 17a-aza-D-homo-andrester-17-one derivatives, bearing hydroxyl, hydroximino, carbonyl and thiosemicarbazido groups at the position-3 or position-6 of steroidal nucleus, were prepared and evaluated in vitro against two human cell lines (Hela (human cervical carcinoma) and SMMC 7404 (human liver carcinoma)). The results showed that these compounds could exhibit a high cytotoxicity to Hela tumor cell line, especially for compounds 8 and 12, the IC(50) values are 15.1 and 14.0 nmol/mL, respectively. Our findings could provide new evidence showing the relationship between the chemical structure and biological activity and may be useful for the discovery of new anti-cancer drugs.
+

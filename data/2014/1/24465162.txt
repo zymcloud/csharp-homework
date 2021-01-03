@@ -1,0 +1,4 @@
+24465162
+2014 Jan 7
+Background:G-protein-coupled bile acid receptor Gpbar1 (TGR5) is a newly identified liver tumor suppressor in carcinogenesis. This present study was therefore to determine the potential value of serum TGR5 promoter methylation in identifying hepatocellular carcinoma (HCC) from chronic hepatitis B (CHB) patients.Methods:The circulating cell-free DNA (cfDNA) was extracted from a retrospective dataset including 160 HCC, 88 CHB and 45 healthy controls (HCs). Methylation status of TGR5 promoter was examined by methylation-specific polymerase chain reaction (MSP).Results:Hypermethylation of the TGR5 promoter occurred significantly more frequent in HCC (77/160, 48.13%) than CHB (12/88, 13.64%; pConclusions:Our findings strongly suggested the combination of serum TGR5 promoter methylation and AFP enhanced the diagnostic value of AFP alone in discriminating HCC from CHB patients.
+DNA methylation; Hepatocellular carcinoma; MSP; TGR5; serum.

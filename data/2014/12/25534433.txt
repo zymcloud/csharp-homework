@@ -1,0 +1,4 @@
+25534433
+2014 Dec 23
+Hepatitis C virus (HCV) infections are the major cause of chronic liver disease, cirrhosis and hepatocellular carcinoma worldwide. Both spontaneous and treatment-induced clearance of HCV depend on genetic variation within the interferon-lambda locus, but until now no clear causal relationship has been established. Here we demonstrate that an amino-acid substitution in the IFNλ4 protein changing a proline at position 70 to a serine (P70S) substantially alters its antiviral activity. Patients harbouring the impaired IFNλ4-S70 variant display lower interferon-stimulated gene (ISG) expression levels, better treatment response rates and better spontaneous clearance rates, compared with patients coding for the fully active IFNλ4-P70 variant. Altogether, these data provide evidence supporting a role for the active IFNλ4 protein as the driver of high hepatic ISG expression as well as the cause of poor HCV clearance.
+

@@ -1,0 +1,4 @@
+32108284
+2020 Feb 27
+Purpose of review:Proton beam therapy (PBT) allows for improved sparing of surrounding normal tissues compared with X-ray-based radiation therapy. This is especially important in the setting of liver malignancies, where an increase in integral dose leads to a higher risk of radiation-induced liver disease (RILD) as well as close proximity to vital gastrointestinal (GI) organs.Recent findings:We have data from multiple centers demonstrating that PBT can safely deliver high, ablative doses of radiation therapy conferring excellent local control with good tolerance of treatment. PBT is an effective treatment with longstanding evidence of efficacy that is increasing in availability.
+Hepatocellular carcinoma (HCC); Intrahepatic cholangiocarcinoma (IHC); Liver metastases; Proton beam therapy (PBT); Radiation.

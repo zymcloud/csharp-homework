@@ -1,0 +1,4 @@
+30971822
+2019 Apr
+The cell cycle is a tightly regulated process that is controlled by the conserved cyclin-dependent kinase (CDK)-cyclin protein complex1. However, control of the G0-to-G1 transition is not completely understood. Here we demonstrate that p38 MAPK gamma (p38γ) acts as a CDK-like kinase and thus cooperates with CDKs, regulating entry into the cell cycle. p38γ shares high sequence homology, inhibition sensitivity and substrate specificity with CDK family members. In mouse hepatocytes, p38γ induces proliferation after partial hepatectomy by promoting the phosphorylation of retinoblastoma tumour suppressor protein at known CDK target residues. Lack of p38γ or treatment with the p38γ inhibitor pirfenidone protects against the chemically induced formation of liver tumours. Furthermore, biopsies of human hepatocellular carcinoma show high expression of p38γ, suggesting that p38γ could be a therapeutic target in the treatment of this disease.
+

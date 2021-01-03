@@ -1,0 +1,4 @@
+22870803
+2012 Jun
+Tungstosilicic acid hydrate was employed as an efficient catalyst for the synthesis of bisindolylmethanes 4 using the Friedel-Crafts reaction of N-sulfonyl tryptamine 5 with various aromatic aldehydes, except 3-formylindole. In the excluding case, tris-indolylmethane 7 was formed via a sequential addition-elimination-addition process. The bioactivity test revealed that the phenolic hydroxyl group plays an important role in cytotoxicity; it demonstrated that ortho- and para-hydroxy bis-indolylmethane (BIM) analogs (4b and 4d) displayed cytotoxic potency toward HepG2 (human hepatocellular liver carcinoma cell line) and MOLT-3 (human lymphoblastic leukemia cell line) cancer cell lines. Significantly, both analogs showed slightly higher inhibitory efficacy than the control drug, etoposide, in HepG2 cells, and the analog 4d exhibited the most potent activity against MOLT-3 cell lines, with an IC(50) value of 1.62 μg/mL.
+

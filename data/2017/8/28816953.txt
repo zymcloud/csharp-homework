@@ -1,0 +1,4 @@
+28816953
+2017 Aug
+Recently, it has been suggested that peritumoral decreased uptake area (PDUA) in the hepatobiliary phase (HBP) of gadoxetic acid (Gd-EOB-DTPA)-enhanced magnetic resonance imaging (MRI) was associated with vascular invasion in hepatocellular carcinoma (HCC). We aimed to investigate correlations between microvascular invasion and PDUA, and elucidate the predictability of PDUA for tumor recurrence after resection.We retrospectively analyzed clinicopathological and radiological data from 126 consecutive patients with single HCC ≤5 cm without macrovascular invasion who underwent preoperative Gd-EOB-DTPA-enhanced MRI and surgical resection. The presence of a faint and hypointense area around the tumor in the HBP was defined as PDUA.Among 126 patients with HCCs, microvascular invasion was observed in 29 (23.0%) patients and PDUA was observed in 15 (11.9%) patients. PDUA [odds ratio (OR) 20.06, confidence interval (CI) 4.74-84.96, P
+

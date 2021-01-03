@@ -1,0 +1,4 @@
+26573490
+2016 Jan
+The aim of the present study was to investigate the effect of hepatitis B virus X protein (HBx) on the expression of DNA methyltransferase (DNMT)3A/3B and suppressors of cytokine signaling‑1 (SOCS‑1), as well as promoter CpG island methylation of the SOCS‑1 gene. Stable hepatocyte cell lines expressing the HBx gene (pcDNA‑X/QSG7701) or an empty gene (pcDNA3.0/QSG7701) were established. Reverse transcription quantitative polymerase chain reaction (PCR) was used to detect the mRNA expression levels of DNMT3A/3B and SOCS‑1. Immunohistochemistry was used to detect the protein expression of DNMT3A/3B. Methylation‑specific PCR (MSP) was used to detect the methylation status of the SOCS‑1 gene promoter. The mRNA and protein expression levels of DNMT3A/3B were significantly higher in the pcDNA‑X/QSG7701‑transfected cells, compared with those in the pcDNA3.0/QSG7701 or non‑transfected QSG7701 cells (P
+

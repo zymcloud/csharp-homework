@@ -1,0 +1,4 @@
+33118393
+2020 Oct 29
+Three undescribed prenylated benzoic acid derivatives berberisides A-C (1-3) and a new clerodane glycoside berberiside D (4) were isolated from Berberis tsarica Aherndt. Their structures were elucidated on the basis of extensive NMR and HR-ESI-MS analysis. The in vitro cytotoxic activities of all isolates were studied against lung carcinoma A549, hepatocellular carcinoma HepG2 and breast carcinoma MDA-MB-231 cell lines. Among them, compounds 1 and 4 exhibited anti-proliferative effects against three tumor cell lines with IC50 ranging from 28.97 ± 2.18 to 35.83 ± 0.72 μM.
+Berberis tsarica Aherndt.; Berberisides A-D; cytotoxicity; diterpene; prenylated benzoic acids.

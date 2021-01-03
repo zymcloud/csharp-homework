@@ -1,0 +1,4 @@
+28437633
+2017 Jul
+Increased expression of microRNA-500a (miR-500a) has been reported in the serum of hepatocellular carcinoma (HCC) patients. However, the biological effects and mechanisms of miR-500a in hepatoma cells remain unclear. In this study, we found that miR-500a expression was up-regulated in HCC cell lines and tissues, and that high levels of miR-500a was associated with poor prognosis. We found that miR-500a upregulation promoted migration and invasion in two hepatoma cell lines, HCCLM3 and SMMC7721, while miR-500a downregulation had the opposite effect. We demonstrated that miR-500a activates the Wnt/β-catenin signaling pathway by directly binding to the 3'-untranslated region (UTR) of SFRP2 and GSK-3β mRNA. In conclusion, our results indicate miR-500a promotes HCC migration and invasion through activating Wnt/β-catenin signaling by directly binding to SFPR2 and GSK-3β.
+Hepatocellular carcinoma; Invasion; Migration; Wnt/β-catenin pathway; miR-500a.

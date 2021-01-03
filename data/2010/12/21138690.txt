@@ -1,0 +1,4 @@
+21138690
+2010 Dec
+Aim:To clone and express human alanine aminotransferase 2 (ALT2) in E.coli Rosetta (DE3), and to prepare monoclonal antibodies(mAb) against ALT2 for diagnostic purpose.Methods:The gene encoding alanine aminotransferase 2 (ALT2) was cloned from hepatoma carcinoma cell by RT-PCR, and then inserted into pET28a vector. Recombination plasmids (pET28a-ALT2) were transformed into E.coli BL21. Human ALT2 was expressed as His-tagged fusion proteins and purified by immobilized Ni(2+);-affinity chromatography. The purified fusion ALT2 protein was used as an antigen to prepare mAb against it.Results:The fusion ALT2 protein was expressed in recombinant E.coli Rosetta (DE3). The enzymatic activity of purified His-tag ALT2 is over 10 000 U/L. Mice were immunized with the purified fusion ALT2 protein, and 5 mAbs against ALT2 were generated.Conclusion:Two mAbs with high specificity for ALT2 were selected for further quantitative diagnostic reagent development.
+

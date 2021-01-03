@@ -1,0 +1,4 @@
+26189981
+2015 Sep
+Fibrosis is a common and important pathology associated with progressive chronic liver diseases and underlies the development of cirrhosis and hepatocellular carcinoma. Research into the molecular regulation of fibrosis has discovered that it is under the control of a number of epigenetic mechanisms including DNA methylation, histone modifications and the activities of non-coding RNAs. A deeper understanding of how epigenetic regulators such as DNA methyltranserases, methyl-DNA binding proteins, histone modifying enzymes and regulatory RNA molecules impact on the fibrogenic process is expected to result in new biomarkers for disease progression as well as novel therapeutic targets. The aim of this mini-review is to briefly introduce the reader to the major epigenetic regulators so far identified as being implicated in fibrosis.
+

@@ -1,0 +1,4 @@
+32438969
+2020 Aug
+Alpha-fetoprotein (AFP) is one of the most commonly used and reliable biomarkers for Hepatocellular carcinoma (HCC). However, the underlying mechanism of AFP expression in HCC is poorly understood. In this study, we found that TCP10L, a gene specifically expressed in the liver, is down-regulated in HCC and that its expression inversely correlates with AFP expression. Moreover, overexpression of TCP10L suppresses AFP expression whereas knockdown of TCP10L increases AFP expression, suggesting that TCP10L might be a negative regulator of AFP. We found that TCP10L is associated with the AFP promoter and inhibits AFP promoter-driven transcriptional activity. Taken together, these results indicate that TCP10L negatively regulates AFP expression in HCC and that it could be a potential prognostic marker and therapeutic target for HCC. [BMB Reports 2020; 53(8): 431-436].
+

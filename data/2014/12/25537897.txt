@@ -1,0 +1,4 @@
+25537897
+2014 Dec
+Objective:To study the effect of Biejiajian Pills on Wnt signal pathway and the mechanisms underlying its action to suppress the invasiveness of hepatocellular carcinoma.Methods:HepG2 cells cultured in the serum of rats fed with Biejiajian Pills for 48 h were examined for β-catenin expression using immunofluorescence, β-catenin/TCF4 complex activity with luciferase, and expressions of the downstream proteins cyclin D1 and MMP-2 using qRT-PCR.Results:Biejiajian Pills-treated sera significantly reduced the expressions of cytoplasmic and nuclear β-catenin protein, cyclin D1 and MMP-2 proteins and lowered the activities of β-catenin/TCF4 complex.Conclusion:Biejiajian Pills may serve as a potential anti-tumor agent, whose effect might be mediated by inhibiting the Wnt/β-catenin pathway.
+

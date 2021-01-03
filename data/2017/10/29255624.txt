@@ -1,0 +1,4 @@
+29255624
+2017 Oct 25
+Aim:Simultaneous inhibition of hepatitis C virus (HCV) and hepatocellular carcinoma (HCC) may enhance anti-HCV effects and reduce resistance and side effects.Results/methodology:Novel hybrid derivatives were designed and synthesized to exhibit dual activity against HCV and its associated major complication, HCC. The synthesized compounds were screened for their potential activity against HCV and HCC. Compounds 5f, 5j, 5l, 5p, 5q, 5r, 6c and 6d exhibited potential in vitro anticancer activity against HCC cell line HepG2, while compounds 5a, 5l, 5p and 5v showed in vitro anti-HCV activity. Docking studies suggested that the newly synthesized compounds could suppress HCC through VEGFR2 tyrosine kinase inhibition.Conclusion:Compounds 5l and 5p exhibited dual activity against HCV and HCC in vitro.
+HCC inhibitors; HCV inhibitors; benzimidazole; benzofuran; docking; thiazolidinone.

@@ -1,0 +1,4 @@
+20108172
+2011 Mar
+The p27(Kip1) cyclin-dependent kinase inhibitor is a negative regulator of cell cycle progression in G(1) phase; recent studies suggested that oncogenically activated kinase Akt/PKB can also phosphorylate p27(kip1) at T157 inducing its relocalization to the cytoplasm. To evaluate the significance of p-p27 Thr157 and PI3K pathway in hepatocellular carcinoma (HCC), we studied 51 hepatocellular carcinomas along with corresponding nontumoral tissue and the HCC cell lines. Immunohistochemistry and western blot analysis suggested that p-p27 Thr157 was overexpressed in HCC, which was positively correlated with proliferation marker Ki-67. Correlation analysis was performed among immunohistochemistry-assessed level of p-p27 Thr157, survival, and major clinical and pathological variables. Overexpressed p-p27 Thr157 was correlated with histological differentiation (P
+

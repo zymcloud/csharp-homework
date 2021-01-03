@@ -1,0 +1,4 @@
+25307746
+2015 Dec
+Pioglitazone (PGZ), a synthetic PPARγ ligand, is known to have anti-tumor activity. However, it is unclear how it acts against hepatocellular carcinoma (HCC). We hypothesized that the pathological receptor for advanced glycation end products (RAGE) is involved in the PGZ anti-tumor process. To test this notion, human primary HCC tissues and corresponding adjacent non-cancerous tissues (ANCT) from 75 consecutive cases were analyzed. The expression and clinical significance of RAGE was assessed by immunohistochemical assay through tissue microarray. After HCC cells were pretreated with different concentrations of PGZ, cell proliferation, apoptosis, cell invasion, and cell cycle distribution were evaluated by multiple assays. The results showed that, the positive expression of RAGE was significantly higher in HCC tissues than in ANCT (66.7% vs. 36.0%, P
+RAGE; growth; hepatocellular carcinoma; invasion; pioglitazone.

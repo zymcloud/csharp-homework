@@ -1,0 +1,4 @@
+26398845
+2015 Jul
+Objective:To investigate the regulatory functions and molecular mechanisms of miR211 in hepatocellular carcinoma (HCC).Methods:Real-time reverse transcription-PCR was used to analyze the expression of miR-211 in 20 paired clinical specimens of HCC and adjacent noncancerous tissues.QGY7703 and HepG2 cells with stimulation or inhibition of miR-211 expression were used to evaluate the effects on malignant phenotypes with the transwell invasion assay. Candidate target genes of miR-211 were identified by bioinformatic screening and verified by the EGFP report assay, real-time PCR and western blotting. Moreover, the regulatory functions of miR-211 on the target genes were investigated by RNA interference and cell phenotype assays.Results:miR-211 was up-regulated in HCC tissue specimens (t =6.26, P Conclusion:miR-211 promotes invasion of carcinoma cells by directly targeting ESR1.
+

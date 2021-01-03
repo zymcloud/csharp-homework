@@ -1,0 +1,4 @@
+20053145
+2010 May
+Today, many patients suffer from acute liver failure and hepatoma. This is an area of high unmet clinical need as these conditions are associated with very high mortality. There is an urgent need to develop techniques that will enable liver tissue engineering or generate a bioartificial liver, which will maintain or improve liver function or offer the possibility of liver replacement. Liver tissue engineering is an innovative way of constructing an implantable liver and has the potential to alleviate the shortage of organ donors for orthotopic liver transplantation. In this review we describe, from an engineering perspective, progress in the field of liver tissue engineering, including three main aspects involving cell sources, scaffolds and vascularization.
+

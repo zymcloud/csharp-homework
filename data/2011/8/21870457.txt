@@ -1,0 +1,4 @@
+21870457
+2011 Aug
+To achieve early-stage diagnosis, a high-sensitivity assay method is needed. As a biomarker, vascular endothelial growth factor (VEGF) has played a growing role in diagnosing and treating hepatocellular carcinoma (HCC). In this work, an immunomagnetic reduction (IMR) through bio-functionalized magnetic nanoparticles and a high-temperature superconducting-quantum-interference-device magnetometer were utilized for quantitative detection of low-concentration VEGF in serum from rats with HCC. The precision and accuracy of IMR on VEGF were characterized. Further, the results of assaying VEGF in the serum of rats were compared with those of using enzyme-linked immunosorbant assay (ELISA). It was found the correlations between the detected VEGF concentration in the rat serum and tumor burdens were 0.99 and 0.90 for IMR and ELISA, respectively, within the range from 2 pg/ml to 8000 pg/ml of VEGF concentration.
+

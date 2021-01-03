@@ -1,0 +1,4 @@
+26551737
+2015
+Aim:VEGFR-1 can promote invasion through epithelial-mesenchymal transition induction in hepatocellular carcinoma (HCC). This study aims to elucidate VEGFR-1 impact on proteolytic enzymes profile involved with invasion.Materials & methods:The effect on cell invasion was evaluated by invasive and migration assays with and without VEGFR-1 activation. The mechanism was investigated by real-time PCR, western blot and gelatin zymography using inhibitors for MMP-9. In total, 95 HCC patients were enrolled for its clinical value evaluation.Results:VEGFR-1 activation induced invasion in HCC cells with an increase in the expression and activity of MMP-9 and Snail. MMP-9 blockage effectively inhibited VEGFR-1-induced invasion. High coexpression of both in HCC predicted a worse clinical outcome.Conclusion:Data show a novel VEGFR-1 activation-to-MMP-9 mechanism promoting HCC invasion.
+MMP-9; Snail; VEGFR-1; hepatocellular carcinoma; invasion.

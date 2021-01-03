@@ -1,0 +1,4 @@
+26349959
+2015 Aug
+Annexin A7 caused an anti-apoptosis phenotype in mouse hepatocarcinoma cells. Yet, the underlying mechanism remains unclear. In this study, we found that Annexin A7 had an inhibitory effect on the mitochondrial Cytochrome C release and Caspase-3 cleavage. Furthermore, Annexin A7 was identified to form a complex with BAG4 which is a negative regulator of apoptosis. Moreover, Annexin A7 was positively correlated with the protein levels of BAG4, Hsp70 and Bcl-2. Both Hsp70 and Bcl-2 bind BAG4 and inhibit Cytochrom C dependent activation of Caspase-3. Taken together, our study indicated Annexin A7 modulated BAG4 and BAG4-binding proteins in mitochondrial apoptosis.
+Annexin A7; Apoptosis; BAG4.

@@ -1,0 +1,4 @@
+32070778
+2020 Apr 28
+Hepatocellular carcinoma (HCC), the main cause of liver cancer-related death, is one of the main cancers in terms of incidence and mortality. However, HCC is difficult to target and develops strong drug resistance. Therefore, a new treatment strategy is urgently needed. The clinical application of the concept of synthetic lethality in recent years provides a new therapeutic direction for the accurate treatment of HCC. Here, we introduce the concept of synthetic lethality, the screening used to study synthetic lethality, and the identified and potential genetic interactions that induce synthetic lethality in HCC. In addition, we propose opportunities and challenges for translating synthetic lethal interactions to the clinical treatment of HCC.
+Genetic interactions; Hepatocellular carcinoma; Screening technology; Synthetic lethality.

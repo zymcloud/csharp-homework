@@ -1,0 +1,4 @@
+20212373
+2010 Jan
+Due to ongoing technological advances, the range of clinical applications for diffusion-weighted MR imaging has expanded to now include abdominal pathology. Current applications for liver pathology include two main directions. First, oncologic imaging with detection, characterization and follow-up of lesions. Second, evaluation of diffuse liver diseases, including hepatic fibrosis. The diagnostic impact and role of diffusion-weighted MR imaging remain under investigation, but appear promising. Because of its short acquisition time, sensitivity, and additional information it provides, diffusion-weighted MR imaging should be included in routine liver imaging protocols.
+

@@ -1,0 +1,4 @@
+21397858
+2011 Mar 8
+We screened 124 genes that are amplified in human hepatocellular carcinoma (HCC) using a mouse hepatoblast model and identified 18 tumor-promoting genes, including CCND1 and its neighbor on 11q13.3, FGF19. Although it is widely assumed that CCND1 is the main driving oncogene of this common amplicon (15% frequency in HCC), both forward-transformation assays and RNAi-mediated inhibition in human HCC cells established that FGF19 is an equally important driver gene in HCC. Furthermore, clonal growth and tumorigenicity of HCC cells harboring the 11q13.3 amplicon were selectively inhibited by RNAi-mediated knockdown of CCND1 or FGF19, as well as by an anti-FGF19 antibody. These results show that 11q13.3 amplification could be an effective biomarker for patients most likely to respond to anti-FGF19 therapy.
+

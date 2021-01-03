@@ -1,0 +1,4 @@
+23855294
+2013 Aug
+Activation of innate immune systems including Toll-like receptor (TLR) signaling is a key in chronic liver disease. Recent studies suggest that gut microflora-derived bacterial products (i.e. lipopolysaccharide [LPS], bacterial DNA) and endogenous substances (i.e. high-mobility group protein B1 [HMGB1], free fatty acids) released from damaged cells activate hepatic TLRs that contribute to the development of alcoholic (ASH) and non-alcoholic steatohepatitis (NASH) and liver fibrosis. The crucial role of TLR4, a receptor for LPS, has been implicated in the development of ASH, NASH, liver fibrosis, and hepatocellular carcinoma. However, the role of other TLRs, such as TLR2 and TLR9 in chronic liver disease remains less clear. In this review, we will discuss the role of TLR2, 4, and 9 in Kupffer cells and hepatic stellate cells in the development of ASH, NASH, and hepatocarcinogenesis.
+LPS; MyD88; TLR4; intestinal microflora; liver fibrosis.

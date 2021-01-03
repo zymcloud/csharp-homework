@@ -1,0 +1,4 @@
+27610139
+2016
+Accumulating evidence suggests that hepatocellular carcinoma (HCC) is organized by liver cancer stem cells (LCSCs), which are a subset of cells with "stem-like" characteristics. Identification of the LCSCs is a fundamental and important problem in HCC research. LCSCs have been investigated by various stem cell biomarkers. There is still lack of consensus regarding the existence of a "global" marker for LCSCs in HCC. In this review article, we summarize the progress and prospects of putative biomarkers for LCSCs in the past decades, which is essential to develop future therapies targeting CSCs and to predict prognosis and curative effect of these therapies.
+

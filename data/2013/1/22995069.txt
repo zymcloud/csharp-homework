@@ -1,0 +1,4 @@
+22995069
+2013 Jan 1
+Riccardin D-26 is a synthesized macrocyclic bisbibenzyl compound. We investigated the effect of Riccardin D-26 on human hepatocellular carcinomas. Riccardin D-26 possessed stronger activity against SMMC-7721 cells than human normal liver cells. Riccardin D-26 injection effectively delayed the growth of SMMC-7721 xenografts in mice without significant toxicity. This effect of Riccardin D-26 was associated with the status of p53 and its targets, bax and p21(Waf1)(/)(Cip1). Riccardin D-26 activated p53 expression and induced cancer cells to apoptosis through the p53-mediated transcription-dependent and -independent pathway. Overall, Riccardin D-26 may inhibit hepatocellular carcinoma growth through induction of apoptosis in p53-dependent pathway.
+

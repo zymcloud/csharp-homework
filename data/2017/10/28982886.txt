@@ -1,0 +1,4 @@
+28982886
+2017 Oct
+Aim:Prospective comparison of cone beam C-Arm CT based parenchymal liver blood volume (PLBV) and dynamic volume perfusion CT (dVPCT) measurements in patients with hepatocellular carcinoma (HCC) undergoing transarterial chemoembolisation (TACE) with drug-eluting beads (DEB).Patients and methods:In 16 patients, changes of PLBV and dVPCT measurements [arterial liver parenchyma (ALP); temporal maximum intensity projection (MIP); hepatic perfusion index (HPI); portal venous parenchyma] were correlated to one another and to the modified Response Evaluation Criteria in Solid Tumors (mRECIST).Results:After TACE, the following parameters showed a statistically significant change (p2<0.24).Conclusion:Although PLBV and dVPCT parameters showed only a weak to very weak correlation, both methods validly assessed changes in arterial tumor vascularity after DEB TACE.
+DEB TACE; HCC; PLBV; cone beam CT.

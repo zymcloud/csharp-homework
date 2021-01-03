@@ -1,0 +1,4 @@
+23290049
+2013 Feb 1
+Novel 9-aminoacridine derivatives were synthesized by linking the heteroaromatic core to different cinnamic acids through an aminobutyl chain. The test compounds demonstrated mid-nanomolar in vitro activity against erythrocytic stages of the chloroquine-resistant W2 strain of the human malaria parasite Plasmodium falciparum. Two of the most active derivatives also showed in vitro activity against liver-stage Plasmodium berghei, with activity greater than that of the reference liver-stage antimalarial primaquine. The compounds were not toxic to human hepatoma cells at concentrations up to 5 μM. Hence, 9-(N-cinnamoylbutyl)aminoacridines are a new class of leads for prevention and treatment of malaria.
+

@@ -1,0 +1,4 @@
+25430863
+2015 Aug
+In this study, a series of novel N-(piperidine-4-yl)benzamide derivatives was designed, synthesized, and evaluated for antitumor activity. Some compounds were found to have potent antitumor activity. In particular, compound 47 showed the most potent biological activity against HepG2 cells, with an IC50 value of 0.25 μm. Western blot analysis demonstrated that compound 47 inhibited the expression of cyclin B1 and p-Rb and enhanced the expression of p21, p53, Rb, and phospho-adenosine monophosphate-activated protein kinase (p-AMPK). Further, cell cycle arrest was observed by flow cytometry (FCM). In summary, compound 47 was screened to have potential activity for the treatment of hepatocarcinoma via the induction of cell cycle arrest by a p53/p21-dependent pathway.
+HepG2; N-(piperidine-4-yl) benzamide derivatives; cell cycle; p53/p21-dependent pathway.

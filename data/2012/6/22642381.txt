@@ -1,0 +1,4 @@
+22642381
+2012 Jun 22
+Bioactivity-directed fractionation of a methanol extract of Ligularia hodgsonii afforded two new monoterpenoids, liguhodgcins A (1) and B (2), with an unusual δ-lactone-containing skeleton. Moreover, liguhodgcin A (1) contained a chlorine atom. The structures and absolute configurations of the two compounds were elucidated using NMR spectroscopy, X-ray crystallography, ECD data, and computational approaches. A probable biosynthesis pathway to 1 and 2 was also proposed and discussed. The cytotoxicity of compounds 1 and 2 was evaluated against the human leukemia (HL-60), human hepatoma (SMMC-7721), and human cervical carcinoma (HeLa) cell lines.
+

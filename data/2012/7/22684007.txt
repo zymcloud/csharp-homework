@@ -1,0 +1,4 @@
+22684007
+2012 Jul 30
+MicroRNAs are known to be involved in the pathogenesis of hepatocellular carcinoma (HCC). This study aims to explore the potential biological function of miR-376a, which was found to be inhibited after partial hepatectomy, in HCC. We discovered that miR-376a was frequently down-regulated in HCC cell lines and HCC tissues, while higher relative level of miR-376a was significantly associated with high serum AFP level. Over-expression of miR-376a not only inhibited proliferation but induced apoptosis in Huh7 cells. Additionally, p85α (PIK3R1) was identified as a direct and functional target of miR-376a in Huh7 cells. Moreover, we confirmed that p85α and miR-376a were inversely correlated in HCC. These findings suggest that down-regulation of miR-376a may contribute to the development of HCC by targeting p85α.
+

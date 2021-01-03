@@ -1,0 +1,4 @@
+23276918
+2013 Jan 1
+Primary liver tumors are mainly represented by hepatocellular hepatocarcinoma (HCC), one of the most aggressive and resistant forms of cancer. Numerous studies have reported the key role of microRNAs (miRNAs) in development, cell proliferation, apoptosis, and tumor biology. The alteration of cancer-related miRNA expression can be associated with tumorigenesis. In HCC, deregulated miRNAs frequently act as oncogenes or altered tumor suppressors. Distinct subtypes of hepatic cancer can also be related to an aberrant expression of particular miRNAs, arguing for the significance of using miRNAs as tumor biomarkers in order to refine the HCC grading assessment. In this article, we review the latest reports regarding miRNA profiling and the potential of small RNAs in HCC diagnosis. The relevance of cancer-related miRNA signatures for the prognosis and better understanding of liver cancer outcome is then considered.
+

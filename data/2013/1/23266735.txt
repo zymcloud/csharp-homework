@@ -1,0 +1,4 @@
+23266735
+2013 Jan
+Fourteen sterols (1-14), including two new sterols, trihydroxysitosterol (2) and 5α,6β,7α-7α-acetoxysitosterol (3), were isolated from the branches and leaves of Phyllanthus emblica L. The isolated compounds and a structurally related sterol 15 from Aphanamixis grandifolia were screened for cytotoxicity in two tumor cell lines (HL-60 and SMMC-7721) and a non-tumor cell line (HL-7702) using RSB assay. Within the series of phytosterol derivatives tested, compound 15 was the most active, displaying potent cytotoxicity against HL-60 with IC(50) of 5.10μmol/L, and most of the active compounds showed selective cytotoxicity against tumor and non-tumor cell lines, especially compound 10 with a safety index of 4.42.
+

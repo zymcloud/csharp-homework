@@ -1,0 +1,4 @@
+24392241
+2013 Dec 10
+Objectives. The objective of this study was to determine whether there is a relationship between depression and risk of hepatocellular carcinoma (HCC) in older people in Taiwan. Methods. A case-control study was conducted to analyze the database from the Taiwan National Health Insurance program. We selected 1815 subjects aged 65 years or older with newly diagnosed HCC as the case group and 7260 subjects without HCC as the comparison group, from 2000 to 2010. Both groups were compared to measure the risk of HCC. Results. After controlling for confounders, the odds ratio of HCC was 0.81 in subjects with depression (95% confidence interval = 0.59, 1.11), as compared with nondepressed subjects. Conclusions. We conclude that no association is detected between depression and risk of hepatocellular carcinoma in older people in Taiwan.
+

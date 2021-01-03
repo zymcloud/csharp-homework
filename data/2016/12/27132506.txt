@@ -1,0 +1,4 @@
+27132506
+2016 Dec 8
+Epidemiological studies showed that obesity and its related non-alcoholic fatty liver disease (NAFLD) promote hepatocellular carcinoma (HCC) development. We aimed to uncover the genetic alterations of NAFLD-HCC using whole-exome sequencing. We compared HCC development in genetically obese mice and dietary obese mice with wild-type lean mice fed a normal chow after treatment with diethylnitrosamine. HCC tumor and adjacent normal samples from obese and lean mice were then subjected to whole-exome sequencing. Functional and mechanistic importance of the identified mutations in Carboxyl ester lipase (Cel) gene and Harvey rat sarcoma virus oncogene 1 (Hras) was further elucidated. We demonstrated significantly higher incidences of HCC in both genetic and dietary obese mice with NAFLD development as compared with lean mice without NAFLD. The mutational signatures of NAFLD-HCC and lean HCC were distinct, with
+

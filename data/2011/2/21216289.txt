@@ -1,0 +1,4 @@
+21216289
+2011 Feb
+The mouse alpha-fetoprotein (AFP) gene is abundantly expressed in the fetal liver, normally silent in the adult liver but is frequently reactivated in hepatocellular carcinoma. The basis for AFP expression in the fetal liver has been studied extensively. However, the basis for AFP reactivation during hepatocarcinogenesis is not well understood. Two novel factors that control postnatal AFP repression, Zhx2 and Zbtb20, were recently identified. Here, we review the transcription factors that regulate AFP in the fetal liver, as well as Zhx2 and Zbtb20, and raise the possibility that the loss of these postnatal repressors may be involved in AFP reactivation in liver cancer.
+

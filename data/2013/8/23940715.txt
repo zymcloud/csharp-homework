@@ -1,0 +1,4 @@
+23940715
+2013 Aug 5
+Microvessel density (MVD) as an angiogenesis predictor is inefficient per se in cancer prognosis. We evaluated prognostic values of combining intratumoral alpha-smooth muscle actin (α-SMA)-positive stromal cell density and MVD after curative resection in hypervascular hepatocellular carcinoma (HCC) and hypovascular pancreatic cancer (PC). Tissue microarrays were constructed from tumors of 305 HCC and 57 PC patients who underwent curative resection and analyzed for α-SMA and CD34 expression by immunostaining. Prognostic values of these two proteins and other clinicopathological features were examined. Both low α-SMA density and high MVD-CD34 were associated in HCC with the presence of intrahepatic metastasis and microvascular invasion, and they were related to lymph node involvement and microvascular invasion in PC (p
+

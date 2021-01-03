@@ -1,0 +1,4 @@
+20379969
+2010 Jul
+New derivatives of thiophenes 2, 12, iminoaminothieno[2,3-d]pyrimidines 3, 5, and 6, triazolothieno[2,3-d]pyrimidines 8-11, pyrazolo- and triazinothieno[2,3-d]pyrimidines 4, 7, respectively, have been prepared by different synthetic procedures. Structure elucidation of the newly synthesized compounds was carried out via elemental analyses and spectral data. The antitumor activity of compounds 2, 3, and 9-12 was evaluated against in-vitro cell lines (HEPG-2 and MCF-7). Compounds 2, 3, 10, 11, and 12 showed significant in-vitro cytotoxic activity against hepatocellular carcinoma (HEPG-2) compared to the reference drug Doxorubicin. Compound 2 showed significant in-vitro cytotoxic activity against breast cancer (MCF-7) cells compared to the reference drug Doxorubicin. The augmenting effect of gamma-radiation was assessed; here, compounds 2, 3, 10, and 11 showed the most potent in-vitro anticancer activity.
+

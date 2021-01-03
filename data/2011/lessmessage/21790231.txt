@@ -1,0 +1,4 @@
+21790231
+2011
+Phosphatase of regenerating liver (PRL) belongs to a class of the protein tyrosine phosphatase family, which is known so far to consist of 3 members, PRL-1, PRL-2, and PRL-3. The aim of this study was to uncover the role of PRL genes in development of oral malignancy. We analyzed expression levels of the 3 PRL genes in 50 human oral squamous cell carcinomas (OSCCs), 11 dysplasia and 12 normal mucosa tissues by a real-time RT-PCR method. PRL-3 but not PRL-1 or PRL-2 expressions were significantly higher in OSCC and dysplasia than in normal mucosa tissues. Additionally, PRL-3 expressions were significantly higher in OSCC tissues harboring dominant-negative p53 or recessive p53 mutation than in those harboring wild-type p53. These results suggest that PRL-3 plays a role in oral cancer development and can be useful as a marker of pre-malignant and malignant lesion of oral mucosa.
+

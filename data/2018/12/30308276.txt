@@ -1,0 +1,4 @@
+30308276
+2018 Dec 1
+Local delivery of viruses via nanomaterials has been demonstrated in the treatment of colon cancer. A cancer-favoring oncolytic vaccinia virus (CVV), which is an evolutionary cancer-favoring engineered vaccinia virus carrying the green fluorescent protein (GFP) gene, has antitumor efficacy in drug-resistant colon cancer and metastatic liver cells. Here, we present the antitumor efficacy of a CVV coated a poly lactic-co-glycolic acid (PLGA) nanofiber for local drug delivery in theranostic approaches. In vitro- and in vivo-based analyses using mouse colon carcinoma models confirmed the therapeutic efficacy of CVV-PLGA nanofibers through diagnostic localization of the tumors and reduced tumor burden as a result of enhanced apoptosis. We propose that the CVV-PLGA nanofiber may be used for theranostic purposes in cancer therapy.
+Cancer therapy; Cancer-favoring oncolytic vaccinia virus; Poly (lactic-co-glycolic acid) nanofibers; Theranostics.

@@ -1,0 +1,4 @@
+23366100
+2012
+One treatment increasing in use for solid tumors in the liver is radioembolization via the delivery of (90)Y microspheres to the vascular bed within or near the location of the tumor. It is desirable as part of the treatment for the microspheres to embed preferentially in or near the tumor. This work details an approach for analyzing the deposition of microspheres with respect to the location of the tumor. The approach used is based upon thin-slice serial sectioning of the tissue sample, followed by high resolution imaging, microsphere detection, and 3-D reconstruction of the tumor surface. Distance from the microspheres to the tumor was calculated using a fast deterministic point inclusion method.
+

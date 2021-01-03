@@ -1,0 +1,4 @@
+29891022
+2019 Mar 29
+Hepatocellular carcinoma (HCC) is one of the major malignant tumors that lead to death. Chronic hepatitis B virus infection is an important risk factor for HCC initiation. HBx protein, encoded by the HBV X gene, is a significant factor that promotes HBV-related HCC, although the exact molecular mechanism remains unclear. This article summarizes the pathological roles and related mechanisms of HBx in HCC. HBx plays a carcinogenic role by promoting cell proliferation, metastasis, and angiogenesis and inhibiting apoptosis in HCC. A detailed study of the biological functions of HBx will help to elucidate the mechanism of hepatocarcinogenesis and lead to the development of novel therapeutic targets for the treatment of HBV-related HCC.
+

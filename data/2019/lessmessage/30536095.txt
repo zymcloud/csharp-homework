@@ -1,0 +1,4 @@
+30536095
+2019
+Bipotent liver progenitor cells (LPCs) are promising cell sources for cell transplantation therapy in hepatic disorders as well as biliary dysfunctions. Using a cocktail of small molecules, we recently reported a novel approach to generate bipotent LPCs, named chemically induced liver progenitors (CLiPs), from adult rat hepatocytes. In this chapter, we describe a detailed protocol for the induction of rat CLiPs. We first describe the method to isolate primary rat hepatocytes and then describe how to induce CLiPs from the hepatocytes. In addition, we describe methods to induce the generated CLiPs to differentiate into hepatocytes and biliary epithelial cells.
+Biliary epithelial cell; Bipotentiality; CLiP; Hepatocyte; Liver progenitor cell; Reprogramming.

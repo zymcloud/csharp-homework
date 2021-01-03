@@ -1,0 +1,4 @@
+27743347
+2017 Mar
+UHRF2 is a ubiquitin-protein ligase E3 that regulates cell cycle, genomic stability and epigenetics. We conducted a co-immunoprecipitation assay and found that TIP60 and HDAC1 interact with UHRF2. We previously demonstrated that UHRF2 regulated H3K9ac and H3K14ac differentially in normal and cancer cells. However, the accurate signal transduction mechanisms were not clear. In this study, we found that TIP60 acted downstream of UHRF2 to regulate H3K9ac and H3K14ac expression. TIP60 is stabilized in normal cells by UHRF2 ubiquitination. However, TIP60 is destabilized in cancer cells. Depletion or inhibition of TIP60 disrupts the regulatory relationship between UHRF2, H3K9ac and H3K14ac. In summary, the findings suggest that UHRF2 mediated the post-translational modification of histones and the initiation and progression of cancer.
+TIP60; UHRF2; acetylation; hepatocellular carcinoma; ubiquitination.

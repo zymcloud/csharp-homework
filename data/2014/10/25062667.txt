@@ -1,0 +1,4 @@
+25062667
+2014 Oct
+Stratifying patients with brain metastasis (BM) from hepatocellular carcinoma (HCC) by prognostic factors can be useful when making treatment decisions. Nevertheless, a diagnosis-specific graded prognostic assessment (GPA) for HCC has not been well established. We retrospectively reviewed the data from 118 HCC patients newly diagnosed with BM at the Yonsei University Health System between 1985 and 2011. After univariate and multivariate analyses of prognostic factors, those shown to significantly affect survival were used to develop a HCC-specific GPA (HCC-GPA) index. The median overall survival after BM in all patients was 6.1 weeks (95% confidence interval 4.8-7.4 weeks). Using the prognostic factors identified via multivariate analysis, we developed a HCC-GPA index, including number of brain metastases (single: 0.5, multiple: 0 points), alpha-feto protein (
+

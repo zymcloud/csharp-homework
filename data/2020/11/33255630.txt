@@ -1,0 +1,4 @@
+33255630
+2020 Nov 25
+Hepatocellular carcinoma (HCC) has emerged as a major cause of cancer-related death and is the most common type of liver cancer. Due to the current paucity of drugs for HCC therapy there is a pressing need to develop new therapeutic concepts. In recent years, the role of Serum Response Factor (SRF) and its coactivators, Myocardin-Related Transcription Factors A and B (MRTF-A and -B), in HCC formation and progression has received considerable attention. Targeting MRTFs results in HCC growth arrest provoked by oncogene-induced senescence. The induction of senescence acts as a tumor-suppressive mechanism and therefore gains consideration for pharmacological interventions in cancer therapy. In this article, we describe the key features and the functional role of senescence in light of the development of novel drug targets for HCC therapy with a focus on MRTFs.
+DLC1; HCC; MRTF; SRF; senescence; senolytics.

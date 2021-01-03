@@ -1,0 +1,4 @@
+23700879
+Oct-Dec 2012
+Evaluation of tumor response (the change in tumor volume) represents the basis for assessing therapeutic efficacy. Furthermore, objective response and progression are endpoints in clinical trials. Response Evaluation Criteria in Solid Tumors (RECIST) is an assessment tool derived from the conversion of quantitative imaging observations. Version 1.1 has been validated and its criteria are useful in all studies intended to assess objective response, disease stabilization and tumor progression, or time to progression analysis. In addition to changes regarding the disease assessment criteria of measurable and non-measurable lesions, the new system integrates volumetric assessment and functional imaging. The REC1ST's utility system follows from the applicability in clinical trials and the possible use in clinical practice. However, adapting it to assess liver tumors requires evaluation in prospective trials.
+

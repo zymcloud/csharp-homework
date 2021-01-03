@@ -1,0 +1,4 @@
+30274538
+2018 Dec
+A series of 2-arylbenzo[b]furan-appended 4-aminoquinazoline hybrids were prepared and evaluated for cytotoxicity in vitro against the human lung cancer (A549), colorectal adenocarcinoma (Caco-2), hepatocellular carcinoma (C3A) and cervical cancer (HeLa) cell lines. Compounds 10d and 10j exhibited significant cytotoxicity against the C3A and Caco-2 cell lines and induced apoptosis in these cell lines. Likewise, compounds 10d and 10e exhibited significant inhibitory activity towards epidermal growth factor receptor-tyrosine kinase phosphorylation (IC50 values of 29.3 nM and 31.1 nM, respectively) against Gefitinib (IC50 = 33.1 nM). Molecular docking of compounds 10 into EGFR-TK active site suggests that they bind to the region of EGFR like Gefitinib does. [Formula: see text].
+Benzofuran-aminoquinazolines; EGFR-TK; apoptosis; cytotoxicity; molecular docking.

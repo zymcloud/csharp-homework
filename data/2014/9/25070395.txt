@@ -1,0 +1,4 @@
+25070395
+2014 Sep
+Our previous studies have shown that annexin A7 (ANXA7) gives different expressions in the mouse hepatocarcinoma cell lines with low or high lymphatic metastatic potential in both gene and protein levels. In this study, whether by using RNA interference (RNAi) technique downregulating ANXA7 in the gene level or by using antibody against ANXA7 in the protein level, the depressed expression of ANXA7 could induce apotosis and decrease the invasion, migration capacities of the Hca-P cell, a hepatocarcinoma cell line with low lymphatic metastatic potential in vitro. The results indicate that ANXA7 is an important factor in tumors with the lymphatic metastasis.
+Annexin A7 (ANXA7); Apoptosis; Lymphatic metastasis.

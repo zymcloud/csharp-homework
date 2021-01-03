@@ -1,0 +1,4 @@
+25773831
+2015
+Background:Associations between the NQO1 C609T polymorphism and hepatocellular carcinoma (HCC) risk are a subject of debate. We therefore performed the present meta-analysis to evaluate links with HCC susceptibility.Materials and methods:Several major databases (PubMed, EBSCO), the Chinese national knowledge infrastructure (CNKI) and the Wanfang database were searched for eligible studies. Crude odds ratios (ORs) with 95% confidence intervals (CIs) were used to measure the strength of associations.Results:A total of 4 studies including 1,325 patients and 1,367 controls were identified. There was a significant association between NQO1 C609T polymorphism and HCC for all genetic models (allelic model: OR=1.45, 95%CI=1.23-1.72, pConclusions:The current meta-analysis suggested that the NQO1 C609T polymorphism could be a risk factor for developing HCC, particularly in the Chinese population.
+

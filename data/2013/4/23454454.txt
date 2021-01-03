@@ -1,0 +1,4 @@
+23454454
+2013 Apr 15
+Polypyrrole (Ppy) is known as biocompatible material, which is used in some diverse biomedical applications and seeming to be a very promising for advanced biotechnological applications. In order to increase our understanding about biocompatibility of Ppy, in this study pure Ppy nanoparticles (Ppy-NPs) of fixed size and morphology were prepared by one-step oxidative polymerization and their cyto-compatibility was evaluated. The impact of different concentration of Ppy nanoparticles on primary mouse embryonic fibroblasts (MEF), mouse hepatoma cell line (MH-22A), and human T lymphocyte Jurkat cell line was investigated. Cell morphology, viability/proliferation after the treatment by Ppy nanoparticles was evaluated. Obtained results showed that Ppy nanoparticles at low concentrations are biocompatible, while at high concentrations they became cytotoxic for Jurkat, MEF and MH-22A cells, and it was found that cytotoxic effect is dose-dependent.
+

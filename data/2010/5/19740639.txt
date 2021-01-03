@@ -1,0 +1,4 @@
+19740639
+2010 May
+A dimeric 64-kDa hemagglutinin was isolated with a high yield from dried Phaseolus vulgaris cultivar "French bean number 35" seeds using a chromatographic protocol that involved Blue-Sepharose, Q-Sepharose, and Superdex 75. The yield was exceptionally high (1.1g hemagglutinin per 100g seed), which is around 10-85 times higher than other Phaseolus cultivars. Its N-terminal sequence resembled those of other Phaseolus hemagglutinins. The hemagglutinating activity of the hemagglutinin was stable in the pH range 6-8, and in the temperature range 0 degrees C-50 degrees C. It inhibited HIV-1 reverse transcriptase with an IC50 of 2microM. It suppressed mycelial growth in Valsa mali with an IC50 of 10microM. It inhibited proliferation of hepatoma HepG2 cells and breast cancer MCF-7 cells with an IC50 of 100 and 2microM, respectively. It had no antiproliferative effect on normal embryonic liver WRL68 cells.
+

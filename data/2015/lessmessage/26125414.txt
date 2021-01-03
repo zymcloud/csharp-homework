@@ -1,0 +1,4 @@
+26125414
+2015
+Aflatoxin M1 (AFM1) occurrence was analysed in 80 samples of milk and 21 samples of infant formulae on the Serbian market, using high-performance liquid chromatography with fluorescence detection. All milk samples collected in 2013 showed AFM1 contamination in the range 0.02-0.32 μg kg(-1), with a mean level of 0.13 μg kg(-1). The EU maximum level for AFM1 in milk (0.05 μg kg(-1)) was exceeded in 75% of the samples. In 2014, AFM1 was found in 83%, 70%, 80% and 58% of the samples collected in April, July, September and December, respectively, exceeding the limit in 5% of the samples taken in July. The additional number of liver cancer cases per year associated with exposure to AFM1 was estimated to be 0.004 in the adult population. Regarding infant formulae, AFM1 was found in only one sample.
+HPLC-FLD; Serbia; aflatoxin M1; exposure; infant formula; milk.

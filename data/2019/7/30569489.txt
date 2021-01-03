@@ -1,0 +1,4 @@
+30569489
+2019 Jul
+Homeobox transcript antisense intergenic RNA (HOTAIR), one of the well-known long noncoding RNAs (lncRNAs), plays an important role in initiation and development of various tumors. Elevated level of HOTAIR is associated with metastatic behavior of primary tumor and poor outcome in several cancers. Therefore, we conducted a meta-analysis to clearly measure the prognostic impact of HOTAIR in patients with digestive system carcinomas. Fourteen studies including 2,666 patients with five different type of digestive system cancers were selected to be entered in meta-analysis. Finding demonstrated that HOTAIR overexpression could predict unfavorable outcome in digestive system carcinomas (hazard ratio [HR] = 2.4, 95% confidence interval [CI]: 2.0-2.9; p
+HOTAIR; digestive system carcinomas; overall survival; prognostic biomarker.

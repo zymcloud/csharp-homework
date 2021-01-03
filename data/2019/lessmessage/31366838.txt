@@ -1,0 +1,4 @@
+31366838
+2019
+New sugar hydrazones incorporating furan and/or 1,3,4-thiadiazole ring systems were synthesized by reaction of the corresponding hydrazide with different aldose sugars. Heterocyclization of the formed hydrazones afforded the derived acyclic nucleoside analogues possessing the 1,3,4-oxadiazoline as modified nucleobase via acetylation followed by the heterocyclization process. The anticancer activity of the synthesized compounds was studied against human liver carcinoma cell (HepG-2) and at human normal retina pigmented epithelium cells (RPE-1). High activities were revealed by compounds 3, 12 and 14 with IC50 values near to that of the reference drug doxorubicin.
+1,3,4-oxadiazole; acyclic nucleoside; anticancer; hydrazone; sugar; thiadiazole.

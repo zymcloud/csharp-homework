@@ -1,0 +1,4 @@
+21683517
+2011 Oct 1
+Macrophages play an important role in tumor inflammatory microenvironment, lipoxin (LX), the 'stop signal' for inflammation, has been extensively studied preclinically for its anti-inflammatory or inflammatory pro-resolving effect. Here, we showed that LXA(4) could promote the apoptosis and inhibit the proliferation, migration and angiogenesis of HepG2 hepatocarcinoma cells stimulated by lipopolysaccharide (LPS) or activated macrophage-conditioned media (ACM). Moreover, BML-111, the analog of LXA(4), effectively inhibited the proliferation, invasion and angiogenesis of tumor in H22 hepatocarcinoma cell bearing mice. These results showed that LXA(4) could be a possible candidate for liver cancer therapy, and blocking the activation of macrophages would be an effective drug target.
+

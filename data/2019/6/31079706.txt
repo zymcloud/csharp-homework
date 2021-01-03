@@ -1,0 +1,4 @@
+31079706
+2019 Jun
+Transarterial radioembolization (TARE) with beta particle emitting microspheres via Yttrium-90 decay has become a fundamental component of the contemporary Interventional Oncology practice. TARE continues to advance as a result of increased utilization, clinical study, technological improvements, and evolving applications. To maximize TARE safety and efficacy, a core understanding of dosimetry is essential. The intent of this overview is to provide the reader with a general survey of radiation physics and biology, device differentiation, patient selection, anatomic assessment, activity administration models, and procedural techniques involved with TARE dosimetry.
+BSA; MIRD; Partition; Radiation Lobectomy; Radiation Segmentectomy; Radioembolization.

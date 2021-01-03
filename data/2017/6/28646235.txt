@@ -1,0 +1,4 @@
+28646235
+2017 Jun 23
+It has been reported that long non-coding RNA PANDA was disregulated in varieties types of tumor, but its expression level and biological role in hepatocellular carcinoma (HCC) remains contradictory. We detected PANDA expression in two independent cohorts (48 HCC patients following liver transplantation and 84 HCC patients following liver resection), and found that PANDA was down-regulated in HCC. Thereafter we explored its function in cancer biology by inversing its low expression. Surprisingly, overexpression of PANDA promoted HCC proliferation and carcinogenesis in vitro and in vivo. Mechanistically, PANDA repressed transcriptional activity of senescence associated inflammatory factor IL8, which leaded to inhibition of cellular senescence. Therefore, our research help to better understand the complex role of PANDA in HCC, and suggest more thoughtful strategies should be applied before it can be treated as a potential therapeutic target.
+

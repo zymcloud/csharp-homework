@@ -1,0 +1,4 @@
+28956007
+2017 Jan 5
+Proinflammatory cytokines, including TNF-α and IL-6, can contribute to insulin resistance. Conversely, insulin has some actions that can be considered anti-inflammatory. Hemopexin is a Class 2 acute phase reactant and control of its transcription is predominantly regulated by IL-6, with TNF-α and IL-1β also inducing hemopexin gene expression. Thus, we asked whether insulin could inhibit the ability of TNF-α to stimulate hemopexin mRNA expression. In cultured rat hepatoma (H4IIE) cells, TNF-α significantly increased hemopexin mRNA accumulation. The TNF-α-induced increase of hemopexin mRNA was dramatically attenuated by insulin, even though TNF-α reduced peak insulin activation of ERK. Thus, even though TNF-α can contribute to insulin resistance, the residual insulin response was still able to counteract TNF-α actions.
+Acute Phase; Anti-inflammatory; Hemopexin; Insulin; Insulin Resistance; TNF-α.

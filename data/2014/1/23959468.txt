@@ -1,0 +1,4 @@
+23959468
+2014 Jan
+Studies investigating the association between genetic polymorphism of glutathione S-transferase T1 (GSTT1) and hepatocellular carcinoma (HCC) risk have reported conflicting results. Therefore, we conducted this meta-analysis to provide more precise evidence. Databases including PubMed, Embase, SCOPUS, ISI Web of Science, and Wangfang were searched for relevant studies. Potential sources of heterogeneity were also assessed by subgroup analysis. Funnel plots and Egger's linear regression were used to test publication bias among the articles. Finally, a total of 28 studies involving 3,897 HCC patients and 6,117 controls were included in this meta-analysis. In a combined analysis, the summary odds ratio for HCC of the GSTT1 null genotype was 1.43 (95% confidence interval (CI) 1.22–1.68, P
+

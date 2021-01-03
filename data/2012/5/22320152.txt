@@ -1,0 +1,4 @@
+22320152
+2012 May
+To reduce cancer mortality, understanding of mechanisms of cancer metastasis is crucial. We have established six rat hepatocellular carcinoma (HCC) cell lines, which exhibit differing metastatic potential to the lung after inoculation into the tail veins of nude mice. In the present experiment, we investigated the process of cell attachment to metastatic sites and possible regulating factors. One hour after inoculation, two of two HCC cell lines with high metastatic potential and one of two HCC cell lines with low metastatic potential exhibited many attached cells in the lung. One day after inoculation, lung metastatic foci were observed only with highly-metastatic cells with elevated connexin 43 (Cx43) expression as assessed by cDNA array analysis. Furthermore, 24 or 48 h after transfection of an siRNA targeting Cx43, in vitro invasion and migration were suppressed by 68% (P
+

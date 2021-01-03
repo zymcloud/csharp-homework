@@ -1,0 +1,4 @@
+31203308
+2019 Jun 16
+BACKGROUND Formiminotransferase cyclodeaminase (FTCD) is a candidate tumor suppressor gene in hepatocellular carcinoma (HCC). However, the mechanism for reduced expression of FTCD and its functional role in HCC remains unclear. In this study, we explored the biological functions of FTCD in HCC. MATERIAL AND METHODS The expression and clinical correlation of FTCD in HCC tissue were analyzed using TCGA (The Cancer Genome Atlas) and a cohort of 60 HCC patients. The MEXPRESS platform was accessed to identify the methylation level in promoter region FTCD. CCK-8 assay and flow cytometry analysis were used to explore the proliferation, cell apoptosis proportion, and DNA damage in HCC cells with FTCD overexpression. Western blot analysis was performed to identify the downstream target of FTCD. RESULTS FTCD is significantly downregulated in HCC tissues and cell lines. Low FTCD expression is correlated with a poor prognosis (P
+

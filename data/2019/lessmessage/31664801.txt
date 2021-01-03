@@ -1,0 +1,4 @@
+31664801
+
+In vitro models of the liver have led to important insights into the pathogenesis of liver disease. These models are essential tools in the discovery and preclinical stages of drug development. The clinical application of these models is also emerging as a promising avenue for validating genetic target-matched treatments, in a precision medicine approach to treatment. Recent advances in ‘liver-on-a-chip’ technology and liver organoid research have opened up new opportunities for the functional and clinical use of organotypic in vitro models. This chapter focuses on the currently available in vitro liver models and the opportunities and limitations they present in the context of evaluating their use in disease modeling, drug discovery, and clinical application.
+

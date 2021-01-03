@@ -1,0 +1,4 @@
+21623521
+2011 Jun
+A new drimane sesquiterpenoid glycoside, named 7-drimen-3β,11-diol 3-O-β-d-glucopyranoside, was isolated from the 95% EtOH extract of the seeds of Antiaris toxicaria (Pers.) Lesch. The chemical structure was completely elucidated using a combination of 1D and 2D NMR techniques (COSY, HMQC, HMBC, and ROESY) and HR-ESI-MS analysis. The compound showed inhibitory activities toward methicillin-resistant Staphylococcus aureus (MRSA), chronic myelogenous leukemia (K562), and human hepatoma (SMMC-7721) cell lines.
+

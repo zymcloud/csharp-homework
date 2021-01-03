@@ -1,0 +1,4 @@
+32404272
+2020 May 11
+There are well-established and emerging screening examinations aimed at identifying malignant and nonmalignant conditions at early, treatable stages. The Radiology Research Alliance's "Role of Imaging in Health Screening" Task Force provides a comprehensive review of specific imaging-based screening examinations. This work reviews and serves as a reference for screening examinations for breast and colon cancer in a healthy population along with screening for lung cancer, hepatocellular carcinoma, and the use of whole body magnetic resonance imaging in at-risk individuals. American College of Radiology scoring systems, along with case-based examples, are included to illustrate the different disease entities. The future of screening is discussed, particularly in the context of artificial intelligence.
+Breast cancer screening; CT colonography; Imaging screening; Lung cancer screening; Whole body MRI.

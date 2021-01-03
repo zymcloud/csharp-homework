@@ -1,0 +1,4 @@
+28438689
+2017 Sep
+The majority of the human genome is not translated into proteins but can be transcribed into RNA. Even though the resulting non-coding RNAs (ncRNAs) do not encode for proteins, they contribute to diseases such as cancer. Here, we review examples of the functions of ncRNAs in liver cancer and their potential use for the detection and treatment of liver cancer.
+Cancer stem cell; Epithelial–to-mesenchymal transition; HCC; Hepatocellular carcinoma; Liver cancer; Long non-coding RNA; STAT3; Wnt; lncRNA; microRNA.

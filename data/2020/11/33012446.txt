@@ -1,0 +1,4 @@
+33012446
+2020 Nov
+Hepatocellular carcinoma (HCC) is increasing in prevalence and is the third leading cause of cancer-related death worldwide. Unlike other malignancies, HCC can be diagnosed with dynamic imaging with very high accuracy, and tissue diagnosis is not needed for cancer therapy. There is a unique role of established as well as developing biomarkers in diagnosis, prognosis, and management of HCC. Sequencing HCC tumors has yielded substantial insights into HCC tumor biology and has raised the possibility of precision oncology in which therapy decisions are guided by cancer genetics. However, it is not ready for prime time yet.
+AFP; AFP-L3; DCP; Liquid biopsy; PIVKA-II; Sequencing.

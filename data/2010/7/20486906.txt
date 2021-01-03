@@ -1,0 +1,4 @@
+20486906
+2010 Jul
+Patients with hepatocellular carcinoma (HCC) within Milan criteria receive priority on the liver transplant waiting list (WL) and compete with non-HCC patients. Dropout from the WL is an indirect measure of transplant access. Competing risks (CR) evaluation of dropout for HCC and non-HCC patients has not previously been reported. Patients listed between 16 March 2005 and 30 June 2008 were included. Probability of dropout was estimated using a CR technique as well as a Cox model for time to dropout. Overall, non-HCC patients had a higher dropout rate from the WL than HCC patients (p
+

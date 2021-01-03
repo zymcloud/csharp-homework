@@ -1,0 +1,4 @@
+32524416
+2020 Jun 10.</span
+Background/aims:Adherence to medication and maintained virologic response (MVR) are related to the risk of adverse clinical outcomes. This study aimed to compare the efficacy of entecavir (ETV) and tenofovir disoproxil fumarate (TDF) in relation to the adverse clinical outcomes among chronic hepatitis B (CHB) patients stratified according to adherence to medication and MVR.Methods:A total of 1794 treatment-naive CHB patients treated with ETV (n = 894) or TDF (n = 900) for > 1 year were identified.Results:Adherence rates were significantly higher in the TDF than in the ETV (93.4% vs. 89.1%, respectively; P Conclusions:After adjustment for adherence and MVR, ETV, and TDF did not differ in terms of the risk of HCC and death or transplantation in all patients and propensity score-matched cohorts.
+Cirrhosis; Hepatitis B; Hepatocellular carcinoma; Viral hepatitis.

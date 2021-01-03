@@ -1,0 +1,4 @@
+21278901
+2011 Jan 8
+Hepatitis C virus (HCV) is a bloodborne infection that is one of the leading causes of liver disease. If left untreated, HCV can lead to cirrhosis, hepatocellular carcinoma, and death. The current standard of care for HCV is a combination of pegylated-interferon (peg-IFN) and ribavirin (RBV) in which the goal of treatment is to decrease complications and death due to HCV. HCV displays genetic polymorphism, where patients with HCV genotype 1 may have higher viral replication rates and are less likely to respond to treatment. These patients require a longer duration of treatment and a higher RBV dose. The interleukin (IL) 28B genotype test is associated with a sustained virologic response (SVR), defined as an undetectable HCV ribonucleic acid (RNA) upon completion of treatment and 24 weeks thereafter.
+

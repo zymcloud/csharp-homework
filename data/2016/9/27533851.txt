@@ -1,0 +1,4 @@
+27533851
+2016 Sep
+Aim:Sorafenib-treated patients display a substantial variation in the incidence of toxicity. We aimed to investigate the association of genetic polymorphisms with observed toxicity on sorafenib.Patients & methods:We genotyped 114 patients that were treated with sorafenib at the Erasmus MC Cancer Institute, the Netherlands, for SLCO1B1, SLCO1B3, ABCC2, ABCG2, UGT1A1 and UGT1A9.Results:The UGT1A1 (rs8175347) polymorphism was associated with hyperbilirubinemia and treatment interruption. Polymorphisms in SLCO1B1 (rs2306283, rs4149056) were associated with diarrhea and thrombocytopenia, respectively. None of the investigated polymorphisms was associated with overall or progression-free survival in hepatocellular cancer patients.Conclusion:Polymorphisms in SLCO1B1 and UGT1A1 are associated with several different sorafenib side effects.
+drug transporters; hepatocellular carcinoma; pharmacogenetics; renal cell cancer; sorafenib; toxicity.

@@ -1,0 +1,4 @@
+26927037
+2016 Feb 24
+Two new platinum(II)-based complexes bearing a bone-targeting group were synthesized and characterized. They both have excellent affinity for hydroxyapatite (HA), which is abundant in human bone tissues. Their antitumor activities against five human cancer cell lines (U2OS, A549, HCT116, MDA-MB-231 and HepG2) were evaluated and compared with cisplatin (CDDP). Though the antitumor efficacies of new complexes are lower than that of CDDP, they show higher selectivity against the HepG2 hepatoma cell line than the L02 normal liver cell line. Morphology studies exhibited typical characteristics of cell apoptosis and the cell cycle distribution analysis indicated that the complexes can inhibit cancer cells by inducing cell cycle arrest at the G2/M phase, a similar mechanism of action to CDDP.
+action mechanism; antitumor activity; dipicolyamine bisphosphonate ester; hydroxyapatite affinity; platinum complex.

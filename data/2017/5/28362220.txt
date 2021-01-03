@@ -1,0 +1,4 @@
+28362220
+2017 May 4
+A first reported direct method for preparation of thymine thioglycoside analogs utilizing novel pyrimidine-2(1H)-thiones and α-bromoglucose or α-bromogalactose tetraacetate as starting components is described. The synthetic potential of the method is demonstrated. The evaluation of antiproliferative activity against HepG-2 cell lines (Liver carcinoma cell lines) shows that most of the compounds have high antitumor activities especially 6b, 6e, 11b, and 12b. Moreover, molecular modelings of these compounds reveal that they have high binding affinity through hydrogen bond interaction with the binding pocket of thymidylate synthase dihydrofolate reductase (TS-DHFR).
+Thymine thioglycoside; in vitro anticancer activity; pyrimidine 2(1H)-thiones; α-bromoglucose.

@@ -1,0 +1,4 @@
+27236067
+2016 Oct 4
+A series of polyamine conjugates of flavonoids with a naphthalene motif were synthesized and evaluated for their anti-hepatocellular carcinoma properties using in vitro and in vivo assays. Compound 8a displayed favorable selectivity between hepatocellular carcinoma cells and normal hepatocyte cells, and the combination of 8a with aspirin resulted in additive inhibition of in vitro tumor cell growth and migration. The 8a-aspirin combination also inhibited H22 liver tumor growth and pulmonary metastasis and improved body weight index in animal models. Preliminary mechanistic studies indicated that 8a increased the expression of apoptosis-related proteins such as p-p38, p-JNK, p53 and Bcl-2, an effect that was further amplified by aspirin. Therefore, a cocktail therapy of flavonoid-polyamine conjugates with aspirin has potential use as an antitumor therapy.
+Antitumor; Flavonoids; Polyamine; Synthesis.

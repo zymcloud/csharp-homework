@@ -1,0 +1,4 @@
+31547836
+2019 Sep 23
+Hepatocellular carcinoma (HCC) is a lethal disease, and recurrence and metastasis are the major causes of death in HCC patients. Cancer-associated fibroblasts (CAFs), a major stromal cell type in the HCC microenvironment, promote HCC progression, and have gradually become a hot research topic in HCC-targeted therapy. This review comprehensively describes and discusses the heterogeneous tissue distribution, cellular origin, phenotype, and biological functions of HCC-associated fibroblasts. Furthermore, the possible use of CAFs for predicting HCC prognosis and in targeted therapeutic strategies is discussed, highlighting the critical roles of CAFs in HCC progression, diagnosis, and therapy.
+Cancer-associated fibroblasts (CAFs); Hepatocellular carcinoma (HCC); Tumor microenvironment (TME).

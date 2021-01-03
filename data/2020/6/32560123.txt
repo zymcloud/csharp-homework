@@ -1,0 +1,4 @@
+32560123
+2020 Jun 16
+Chronic infection with viral hepatitis is a major risk factor for liver injury and hepatocellular carcinoma (HCC). One major contributing factor to the chronicity is the dysfunction of virus-specific T cell immunity. T cells engineered to express virus-specific T cell receptors (TCRs) may be a therapeutic option to improve host antiviral responses and have demonstrated clinical success against virus-associated tumours. This review aims to give an overview of TCRs identified from viral hepatitis research and discuss how translational lessons learned from cancer immunotherapy can be applied to the field. TCR isolation pipelines, liver homing signals, cell type options, as well as safety considerations will be discussed herein.
+T-cell immunotherapy; chronic infection; viral hepatitis.

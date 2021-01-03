@@ -1,0 +1,4 @@
+31099615
+2019 Jan
+The incidence and death rates of hepatocellular carcinoma (HCC) are rising. For more than a decade, the multikinase inhibitor sorafenib was the only U.S. Food and Drug Administration (FDA)-approved systemic therapy for HCC. However, since 2017, five additional agents have been approved in the first- or second-line setting. Although this represents an incredible victory for the field, there are no clear guidelines for agent selection on the basis of either patient or tumor characteristics. Here, we review the available systemic therapy options for advanced HCC and reported clinical data for each. We outline each agent's unique toxicity profile, potential impact on patient quality of life, monitoring recommendations, and supportive strategies. Last, we review molecular and immunologic classifications of HCC as well as preclinical data that may serve as a basis for future biomarker enriched clinical trials to enable precision oncology care in HCC.
+

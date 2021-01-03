@@ -1,0 +1,4 @@
+25036756
+2014 Oct
+With the technical development of ultrasonography (US), electromagnetic tracking-based fusion imaging of real-time US and computed tomography/magnetic resonance (CT/MR) images has been used for percutaneous hepatic intervention such as biopsy and radiofrequency ablation (RFA). Because of the fusion imaging technique, the fused CT or MR images show the same plane and move synchronously while performing real-time US. With this information, fusion imaging can enhance lesion detectability and reduce the false positive detection of focal hepatic lesions with poor sonographic conspicuity. Three-dimensional US can also be fused with realtime US for the percutaneous RFA of liver tumors requiring overlapping ablation. When fusion imaging is not sufficient for identifying small focal hepatic lesions, contrast-enhanced US can be added to fusion imaging.
+Biopsy; Fusion imaging; Hepatocellular carcinoma; Liver; Radiofrequency ablation.

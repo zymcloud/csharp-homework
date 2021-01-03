@@ -1,0 +1,4 @@
+24686083
+2014 Jul
+HIF-1α is implicated in hepatocellular carcinoma (HCC) pathologies. Here, we screened a human liver cDNA library for HIF-1α-interacting partners using a yeast two-hybrid system. We identified 53 genes, including formiminotransferase cyclodeaminase (FTCD), which was confirmed by co-immunoprecipitation. Moreover, our data indicated that HIF-1α mediated the effects of hypoxia on FTCD induction via binding to the hypoxia-responsive elements of the FTCD promoter. Knockdown of FTCD reduced the effects of HIF-1α in hypoxia and enhanced chemosensitivity in HepG2 cells. Our findings suggested crosstalk between FTCD and HIF signaling and promoted HCC progression, thus implicating FTCD as a therapeutic target for HCC.
+Chemosensitivity; FTCD; HIF-1α; Hypoxia; Yeast two-hybrid.

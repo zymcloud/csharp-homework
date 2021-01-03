@@ -1,0 +1,4 @@
+32524859
+2020 Nov
+The spectrum of nonalcoholic fatty liver disease (NAFLD) ranges from simple steatosis to nonalcoholic steatohepatitis (NASH) with hepatic fibrosis up to liver cirrhosis and hepatocellular carcinoma, displaying a global health problem with no effective therapy yet. Multiple preclinical models reflecting different aspects of the disease helped to identify a variety of different targets over the last years. However, some recent clinical trials have revealed a lack of translatability, emphasizing the need for more effective preclinical research. In this editorial, we discuss different NAFLD mouse models as well as emerging ex vivo and in vitro models that have been used in drug discovery and dissect the translational challenges that have to be considered in drug development.
+Nonalcoholic fatty liver disease (NAFLD); drug discovery; liver fibrosis; nonalcoholic steatohepatitis (NASH); preclinical models.

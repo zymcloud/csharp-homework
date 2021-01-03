@@ -1,0 +1,4 @@
+22817977
+2012 Sep
+Purpose:To compare the apparent diffusion coefficient (ADC) values of malignant liver lesions on diffusion-weighted MRI (DWI) before and after successful radiofrequency ablation (RF ablation).Materials and methods:Thirty-two patients with 43 malignant liver lesions (23/20: metastases/hepatocellular carcinomas (HCC)) underwent liver MRI (3.0 T) before (Results:Thirty-one patients were successfully treated, while one patient was excluded due to focal recurrence. In metastases (n=22), the ADC in the whole lesion and in MRDA showed an up-and-down evolution. In HCC (n=20), the evolution of ADC was more complex, but with significantly higher values (p=0.013) at 1 and 6 months after RF ablation.Conclusion:The ADC values of malignant liver lesions successfully treated by RF ablation show a predictable evolution and may help radiologists to monitor tumor response after treatment.
+

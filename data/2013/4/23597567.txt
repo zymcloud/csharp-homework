@@ -1,0 +1,4 @@
+23597567
+2013 Apr 15
+The identification and targeted therapy of cells involved in hepatocellular carcinoma (HCC) recurrence remain challenging. Here, we generated a monoclonal antibody against recurrent HCC, 1B50-1, that bound the isoform 5 of the α2δ1 subunit of voltage-gated calcium channels and identified a subset of tumor-initiating cells (TICs) with stem cell-like properties. A surgical margin with cells detected by 1B50-1 predicted rapid recurrence. Furthermore, 1B50-1 had a therapeutic effect on HCC engraftments by eliminating TICs. Finally, α2δ1 knockdown reduced self-renewal and tumor formation capacities and induced apoptosis of TICs, whereas its overexpression led to enhanced sphere formation, which is regulated by calcium influx. Thus, α2δ1 is a functional liver TIC marker, and its inhibitors may serve as potential anti-HCC drugs.
+

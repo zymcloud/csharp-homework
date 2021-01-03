@@ -1,0 +1,4 @@
+23426995
+2013 May
+The anticancer activities of gambogic acid (GA) on two hepatocellular carcinoma cells with either p53 deletion (Hep3B) or p53 mutation (Huh7) were investigated in the present study. GA inhibited the growth of Hep3B and Huh7 through similar apoptotic pathways. After treatment of Hep3B and Huh7 with GA for 24 h, the IC₅₀ was determined for both cell lines at 1.8 and 2.2 µM, respectively. The results showed that both cancer cells underwent morphological changes and DNA fragmentation. GA induced apoptosis in the two cell lines through caspases-3/7, -8 and -9 in the mitochondrial pathway. The results suggest that both the caspases in the extrinsic death receptor pathway and the mitochondrial-dependent pathway are involved in the GA-induced cell apoptosis. The inhibitory effects of GA on Hep3B and Huh7 are independent of p53-associated pathway.
+

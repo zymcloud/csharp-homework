@@ -1,0 +1,4 @@
+23108121
+2013 Apr
+Objective:To explore the prognostic value of the postsurgical half-life (HL) of serum alpha-fetoprotein (AFP).Background:There is still a paucity of early surrogate indicators of clinical endpoints after liver resection of hepatocellular carcinoma (HCC).Methods:The analysis was based on cohorts of 225 (exploration set) and 117 (validation set) treatment-naïve HCC patients undergoing curative liver resection. We defined 3 categories of AFP HL: early complete resolution of AFP, normal HL, and prolonged HL if the HL exceeded 7 days. Overall, probabilities of recurrence and survival were estimated and compared across the AFP HL categories.Results:In the exploration cohort, 48 patients (21.3%) achieved early AFP complete resolution, 116 (51.6%) had normal HL, and 61 (27.1%) had prolonged HL. Long AFP HL was significantly associated with early postoperative recurrence (P
+

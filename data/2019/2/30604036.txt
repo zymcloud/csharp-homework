@@ -1,0 +1,4 @@
+30604036
+2019 Feb
+Carbon dots (Cdots) with bright green fluorescence were applied to the rapid and selective cell imaging for a variety of cell lines. Different labeling distributions of hepatoma cells (HepG2) and normal human liver cells (LO2) were achieved using Cdots as imaging agents. For HepG2 cells, the Cdots could rapidly permeate the cell membrane and diffuse into the cytoplasm and nucleus within 3 min, and retained their location in the targets for 24 h. However, the Cdots exhibited bright fluorescence only in the cytoplasm of LO2 cell lines. Moreover, the Cdots were almost non-cytotoxic and exhibited superior photostability over a wide range of pH. Therefore, these Cdots have great potential for rapid, luminous and selective bioimaging applications, and are expected to be used as a nucleus-staining agent in cancer diagnosis. Graphical abstract ᅟ.
+Carbon dots; Rapid nuclear targeting; Selective fluorescence imaging.

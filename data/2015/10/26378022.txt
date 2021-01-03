@@ -1,0 +1,4 @@
+26378022
+2015 Oct 20
+Golgi Protein 73 (GP73) is a serum biomarker for hepatocellular carcinoma (HCC), however its role in HCC is not clear. We report that GP73 promotes cell invasion, the hallmark of malignancy, through the upregulation of matrix metalloproteinase-13 (MMP-13). GP73 enhances MMP-13 expression through cAMP responsive element binding protein (CREB)-mediated transcription activation. Levels of GP73 and MMP-13 are increased and positively correlated in human HCC tissues. Augmented MMP-13 potentiates HCC cell metastasis. Thus, the GP73-CREB-MMP-13 axis potentiates cancer cell invasion and may be a target for HCC treatment.
+GP73; hepatocellular carcinoma; invasion; matrix metalloproteinase-13.

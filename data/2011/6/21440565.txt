@@ -1,0 +1,4 @@
+21440565
+2011 Jun
+Using cholic acid and deoxycholic acid as starting materials, a series of 3-aza-A-homo-4-one bile acid and 7-deoxycholic acid derivatives were synthesized by the esterification, oxidation, reduction, oximation and Beckman rearrangement etc. The cytotoxicity of the synthesized compounds against MGC 7901 (human ventriculi carcinoma cell line), hela (human cervical carcinoma cell line), SMMC 7404 (human liver carcinoma cell line) were investigated. The results showed that bile acid and 7-deoxycholic-acid derivatives with 3-aza-A-homo-4-one configuration bearing a 6-hydroximino or 12-hydroximino group displayed a distinct cytotoxicity to Hela tumor cell line. In particular, the IC(50) values of the compounds 6 and 13 were 14.3 and 24.3 μmol/L against Hela human tumor cell line respectively. The information obtained from the studies may be useful for the design of novel chemotherapeutic drugs.
+

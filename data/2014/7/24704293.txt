@@ -1,0 +1,4 @@
+24704293
+2014 Jul 10
+About 61-72% of transcribed regions possess long noncoding RNAs in antisense orientation (Antisense long noncoding RNAs, aslncRNAs). However, the function of aslncRNAs in HCC remains unclear. We found numerous aslncRNAs were deregulated and might be involved in regulatory gene-net of HCC. The PCNA-AS1, antisense to PCNA, is significantly up-regulated in HCC and could promote tumor growth in vitro and in vivo. The effects of PCNA-AS1 rely on regulation of PCNA via forming RNA hybridization to increase PCNA mRNA stability. We concluded that aslncRNAs might act as upstream regulators in HCC and PCNA-AS1 could serve as a novel therapeutic target.
+Antisense RNA; Long noncoding RNA; RNA hybridazation; RNA stability; Tumor growth.

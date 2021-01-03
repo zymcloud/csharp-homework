@@ -1,0 +1,4 @@
+30578408
+2018 Dec 22
+BACKGROUND Hepatocellular carcinoma (HCC) is the fifth most common malignancy in China, and China's annual number of new cases accounts for about 45% of the world total. This research was aimed to study the expression of TBX3 protein in HCC and exploring its clinical significance. MATERIAL AND METHODS We collected tumor tissues and adjacent non-tumoral tissues of 174 patients with HCC undergoing surgical resection. The expression of TBX3 protein in different tissues and cell lines in vitro (LO2, HHL-5, MHC97-L, MHC97-H) was detected by immunohistochemistry or Western blotting, and the relationship between TBX3 expression and clinical data of patients with HCC was analyzed. RESULTS The expression of TBX3 protein in HCC was significantly correlated with histological grade, tumor size, cancer cell metastasis, hepatitis B surface antigen, and the expression of Ki-67 in tumor tissues (P
+

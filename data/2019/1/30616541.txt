@@ -1,0 +1,4 @@
+30616541
+2019 Jan 7
+Exosomes are a class of extracellular vesicles released by multiple cells types including tumor cells, with a size range of 30-100 nm and a lipid bilayer membrane. Recently, the role of exosomes in cell-to-cell communication has been extensively studied, showed that exosomes can deliver their functional RNAs and proteins to recipient cells, impacting transcription and translation of recipient cells. Emerging evidence suggests that hepatocellular carcinoma (HCC) cell-derived exosomes can construct a fertile environment to support HCC cells proliferation, grow, invasion and metastasis, development of drug resistance. Circulating exosomes can be used as noninvasive biomarkers for early diagnosis, moreover as drug delivery vehicles, provide new insights into the treatment of HCC.
+Biomarkers; Exosomes; Hepatocellular carcinoma; Therapy.

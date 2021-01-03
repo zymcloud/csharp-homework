@@ -1,0 +1,4 @@
+19654421
+2010 Feb
+Mobilization of hepatic triacylglycerol stores provides substrates for mitochondrial beta-oxidation and assembly of VLDLs; however, the identity of lipolytic enzymes involved in the regulation of this process remains largely unknown. Arylacetamide deacetylase (AADA) shares homology with hormone-sensitive lipase and therefore could potentially participate in hepatic lipid metabolism, including the regulation of hepatic triacylglycerol levels. We have established McArdle-RH7777 (rat hepatoma) cell lines stably expressing mouse AADA cDNA and performed metabolic labeling as well as lipid mass analyses. Expression of AADA cDNA in McArdle-RH7777 cells significantly reduced intracellular triacylglycerol levels and apolipoprotein B secretion and increased fatty acid oxidation. These results suggest that fatty acids released by AADA-mediated hydrolysis of lipids are channeled for -oxidation rather than for the assembly of lipoproteins.
+

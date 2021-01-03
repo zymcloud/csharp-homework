@@ -1,0 +1,4 @@
+23404534
+2013
+Background:Arsenic is a ubiquitous environmental toxicant, and abnormalities of the skin, lung, kidney, and liver are the most common outcomes of long-term arsenic exposure. This study was designed to investigate the possible mechanisms of genotoxicity induced by arsenic trioxide in human hepatocellular carcinoma cells.Methods and results:A mild cytotoxic response of arsenic trioxide was observed in human hepatocellular carcinoma cells, as evident by (3-(4,5-dimethyl thiazol-2-yl)-2, 5-diphenyl tetrazolium bromide) and lactate dehydrogenase assays after 24 and 48 hours of exposure. Arsenic trioxide elicited a significant (P Conclusion:The results demonstrate that arsenic trioxide induces apoptosis and genotoxicity in human hepatocellular carcinoma cells through reactive oxygen species and oxidative stress.
+DNA damage; apoptosis; arsenic trioxide; hepatocellular carcinoma cells; oxidative stress.

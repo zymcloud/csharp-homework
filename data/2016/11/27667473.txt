@@ -1,0 +1,4 @@
+27667473
+2016 Nov
+Cancer stem cells (CSCs) play important roles in cancer initiation, progression and metastasis. The aim of the present study was to identify the potential targets that may contribute to the generation of hepatocellular carcinoma stem cells (HCSCs) from hepatocellular carcinoma (HCC) cells. The RNA sequencing (RNA‑Seq) dataset GSE70537 was downloaded from the Gene Expression Omnibus (GEO) database. Raw RNA sequences were mapped to the GRCh37/hg19 genome based on TopHat and assembled through Cufflinks. Cuffdiff of Cufflinks was used for the screening of differentially expressed genes (DEGs) in the two types of HCSCs (Hep3B‑C and Huh7‑C) compared with the two types of HCC cells (Hep3B and Huh7) which were satisfied by the criteria of |log2(RPKMHCSC/RPKMHCC)| >1 and p
+

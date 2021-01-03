@@ -1,0 +1,4 @@
+24103789
+2014 May
+Erythropoietin-producing hepatoma (EPH) receptors are considered the largest family of receptor tyrosine kinases and play key roles in physiological and pathologic processes in development and disease. EPH receptors are often overexpressed in human malignancies and are associated with poor prognosis. However, the functions of EPH receptors in epithelial-mesenchymal transition (EMT) remain largely unknown. This review depicts the relationship between EPH receptors and the EMT marker E-cadherin as well as the crosstalk between EPH receptors and the signaling pathways involved EMT. Further discussion is focused on the clinical significance of EPH receptors as candidates for targeting in cancer therapeutics. Finally, we summarize how targeted inhibition of both EPH receptors and EMT-related signaling pathways represents a novel strategy for cancer treatment.
+

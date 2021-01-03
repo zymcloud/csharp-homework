@@ -1,0 +1,4 @@
+25003523
+2014 Jun 15
+Our SNP-Chip data demonstrated 7/60 (12%) hepatocellular carcinoma (HCC) patients had PRL-1 copy number amplification. However, its biological functions and signaling pathways in HCC are deficient. Here, we investigated its oncogenic function and prognostic significance in HCC. PRL-1 protein levels were examined in 167 HCC samples by immunohistochemisty (IHC). The relationship of PRL-1 expression and clinicopathological features was assessed by correlation, Kaplan-Meier and Cox regression analyses. The oncogenic function of PRL-1 in HCC cells and its underlying mechanism were investigated by ectopic overexpression and knockdown model. PRL-1 levels in primary HCC and metastatic intravascular cancer thrombus were also determined by IHC. PRL-1 levels were frequently elevated in HCC tissues (81%), and elevated expression of PRL-1 was significantly associated with more aggressive phenotype and poorer prognosis in HCC patients (p
+

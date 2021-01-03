@@ -1,0 +1,4 @@
+30582799
+2019 Mar 20
+Hepatocellular carcinoma (HCC) is the sixth most common cancer worldwide with poor prognosis and limited options for treatment. Life expectancy after diagnosis is short; the currently available treatments are not well tolerated and have limited clinical benefit. There is a clear unmet clinical need for the development of new treatments. In this study, ultrasmall, 2 nm gold core nanoparticles (MidaCore) conjugated with the potent maytansine analogue DM1 (MTC-100038) were assessed as a systemic nanomedicine for the treatment of hepatocellular carcinoma. The platform improved overall tolerability of DM1, permitting ∼3-fold higher levels of drug to be administered compared to free drug. Dose for dose, MTC-100038 also facilitated delivery of ∼2.0-fold higher ( p = 0.039) levels of DM1 to the tumor compared to free DM1. MTC-100038 produced significant efficacy (tumor growth index ∼102%; p =
+

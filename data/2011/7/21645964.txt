@@ -1,0 +1,4 @@
+21645964
+2011 Jul
+Nonalcoholic fatty liver disease (NAFLD) is one of the most common causes of hepatic damage in developed countries. For this reason, mouse models of NAFLD have been developed to show progression of the disease because it perfectly resembles the human pathology. Here we show that diagnostic high-frequency ultrasound imaging (US) may be used as an effective method for monitoring the progression of liver disease, from steatosis to hepatocellular carcinoma in the methionine adenosyl transferase and glycine N-methyltransferase-deficient mice models. US reliably detected murine liver lesions associated with NAFLD in the two mice strains tested, with excellent agreement among US images, gross pathology and histological sections. Our results suggest US as a relevant approach for the study of NAFLD in mice, with interesting technical and therapeutic implications.
+

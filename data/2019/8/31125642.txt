@@ -1,0 +1,4 @@
+31125642
+2019 Aug 28
+Esophageal cancer (EC) has been a leading cause of cancer death worldwide in part due to late detection and lack of precision treatment. EC includes two major malignancies, esophageal squamous cell carcinoma (ESCC) and esophageal adenocarcinoma (EAC). Recent studies reveal that ESCC and EAC have distinct cell of origin and contain cancer stem cells (also known as tumor initiating cells) expressing different cell surface markers. These biomarkers have potentially important values for both early detection and finding effective therapy. In this review we summarize the updated findings for cell of origin and provide an overview of cancer cell biomarkers that have been tested for ESCC and EAC. In addition, we also discuss recent progress in the study of molecular mechanisms leading to these malignancies.
+Barrett's esophagus; Basal cells; Cancer initiation cells; Esophageal adenocarcinoma; Esophageal squamous cell carcinoma.

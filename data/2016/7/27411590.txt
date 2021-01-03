@@ -1,0 +1,4 @@
+27411590
+2016 Jul 11
+Obesity increases hepatocellular carcinoma (HCC) risks via unknown mediators. We report that hepatic unconventional prefoldin RPB5 interactor (URI) couples nutrient surpluses to inflammation and non-alcoholic steatohepatitis (NASH), a common cause of HCC. URI-induced DNA damage in hepatocytes triggers inflammation via T helper 17 (Th17) lymphocytes and interleukin 17A (IL-17A). This induces white adipose tissue neutrophil infiltration mediating insulin resistance (IR) and fatty acid release, stored in liver as triglycerides, causing NASH. NASH and subsequently HCC are prevented by pharmacological suppression of Th17 cell differentiation, IL-17A blocking antibodies, and genetic ablation of the IL-17A receptor in myeloid cells. Human hepatitis, fatty liver, and viral hepatitis-associated HCC exhibit increased IL-17A correlating positively with steatosis. IL-17A blockers may prevent IR, NASH, and HCC in high-risk patients.
+

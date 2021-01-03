@@ -1,0 +1,4 @@
+27462777
+2016 Aug 16
+Aims:This study was designed to identify novel microRNAs (miRNAs) in plasma for detecting and monitoring hepatocellular carcinoma (HCC), independent of hepatic function and background liver diseases with different etiologies.Results:(1) Four oncogenic miRNAs (miR-151, 155, 191 and 224) with high expression in HCC tissues were selected as candidates. (2) Quantitative RT-PCR using plasma samples from 107 HCC patients and 75 healthy volunteers revealed a significantly higher level of plasma miR-224 in HCC patients than in healthy volunteers according to a small-scale analysis (P Methods:We performed a systematic review of the NCBI database and selected candidate miRNAs reported as highly expressed in HCC tissue.Conclusions:Plasma miR-224 may be a sensitive biomarker for screening HCC and monitoring tumor dynamics.
+circulating microRNA; liquid biopsy; liver cirrhosis; plasma; tumor marker.

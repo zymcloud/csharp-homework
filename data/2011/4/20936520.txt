@@ -1,0 +1,4 @@
+20936520
+2011 Apr
+Objective:To investigate dual-energy CT of hypervascular liver lesions in patients with HCC.Methods:Forty patients with hepatocellular carcinomas were investigated with abdominal dual-energy CT. In each patient unenhanced and contrast-enhanced imaging with arterial und portovenous delay were performed. Hypervascular lesions were documented on arterial phase 80-kVp images, 140-kVp images, and the averaged arterial images by two radiologists. Subjective image quality (5-point scale, from 5 [excellent] to 1 [not interpretable]) was rated on all images.Results:The mean number of hypervascular HCC lesions detected was 3.37 ± 1.28 on 80-kVp images (p Conclusion:Low-kVp images of dual-energy datasets are more sensitive in detecting hypervascular liver lesions. However, this increase in sensitivity goes along with a decrease in the subjective image quality of low-kVp images.
+

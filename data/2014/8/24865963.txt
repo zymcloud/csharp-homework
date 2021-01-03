@@ -1,0 +1,4 @@
+24865963
+2014 Aug
+5-fluorouracil (5-FU)-based chemotherapy is widely used in the treatment of human hepatocellular carcinoma. However, despite impressive initial clinical responses, the majority of patients eventually develop resistance to 5-FU. The microRNA (miR)-125 family has been implicated in a variety of carcinomas as either a tumor suppressor or promoter. In the present study, the role of miR-125b in acquired 5-FU resistance in multiple human hepatocellular carcinoma cell lines was investigated using transfection of miR-125b. Compared with 5-FU?sensitive cells, 5?FU?resistant cells exhibited reduced expression levels of miR?125b. Furthermore, transfection of pre?miR-125b into liver cancer cells resulted in sensitization of 5-FU?resistant cells to 5-FU. In addition, the glucose uptake and lactate production in 5-FU?resistant liver cancer cells were demonstrated to be significantly increased compared with 5?FU?sensitive cells (P
+

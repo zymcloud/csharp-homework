@@ -1,0 +1,4 @@
+28586005
+2017 Jul
+Sex determining region Y‑box 7 (SOX7) is known to function as a tumor suppressor in a number of types of cancer; however, its role in liver and pancreatic carcinoma remains unclear. The present study investigated the association between SOX7 expression and the clinical pathology of these carcinomas, in particular if SOX7 expression may be used to predict recurrence and patient prognosis following radical resection of liver and pancreatic carcinoma. SOX7 expression in human liver and pancreatic carcinoma was detected by immunohistochemical analyses and validated using mRNA data from a high‑throughput sequencing dataset from The Cancer Genome Atlas (TCGA). SOX7 expression was significantly downregulated in liver and pancreatic carcinoma relative to the adjacent benign tissues [immunoreactivity scores: Liver carcinoma (3.53±1.57) vs. benign (7.00±0.00), P
+

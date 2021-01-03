@@ -1,0 +1,4 @@
+24332041
+2013 Dec 9
+Type 2 diabetes (T2D) and male gender are associated with hepatocellular carcinoma (HCC) development. We demonstrate that heterozygous deletion of the Ncoa5 gene causes spontaneous development of HCC exclusively in male mice. Tumor development is preceded by increased interleukin-6 (IL-6) expression, early-onset glucose intolerance, and progressive steatosis and dysplasia in livers. Blockading IL-6 overexpression averts glucose intolerance and partially deters HCC development. Moreover, reduced NCOA5 expression is associated with a fraction of human HCCs and HCCs with comorbid T2D. These findings suggest that NCOA5 is a haploinsufficient tumor suppressor and that NCOA5 deficiency increases susceptibility to both glucose intolerance and HCC, partially by increasing IL-6 expression. Thus, our findings open additional avenues for developing therapeutic approaches to combat these diseases.
+

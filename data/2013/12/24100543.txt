@@ -1,0 +1,4 @@
+24100543
+2013 Dec
+Hypoxia-inducible factor-1α (HIF-1α) and differentiated embryo-chondrocyte expressed gene 1 (DEC1) are two key factors that protect hepatocellular carcinoma (HCC) cells from a hypoxic microenvironment. However, little is known concerning the effects of hypoxia on the expression of HIF-1α and DEC1 in HCC. In the present study, RT-PCR and western blotting were conducted to assay the mRNA and protein levels of HIF-1α and DEC1 under normoxia and hypoxia induced by exposure to CoCl2 for different time periods (0, 2, 4, 6, 24 and 48 h). In addition, the HIF-1α protein inhibitor, YC-1, was used to analyze the interaction between DEC1 and HIF-1α expression and the related mechanism. Results showed that expression of DEC1 in HCC was significantly upregulated at both the mRNA and protein levels, when compared with that in normal liver cells (P0.05). A positive correlation was found between HIF-1α and DEC1 expression in both BEL-7402 (r=0.885, P
+

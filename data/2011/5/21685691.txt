@@ -1,0 +1,4 @@
+21685691
+2011 May
+Objective:To explore the biological function and molecular mechanism of membrane associated guanylate kinase, WW and PDZ domain containing 1 (MAGI1) in hepatocellular carcinoma.Methods:HepG2(MAGI1) stable cell line was constructed by transfecting HepG2 cells with pcDNA3.1-MAGI1 plasmid. Wound healing and invasion assay were performed to compare the migration and invasion ability of HepG2(MAGI1) and HepG2 cells. Furthermore, the expression of MAGI1 and phosphatase and tensin homolog deleted on chromosome ten (PTEN) was also examined by Western blot and the relationship was analyzed.Results:The wound healing assay showed that the closure of HepG2(MAGI1) cells was significantly slower than that of HepG2 cells [(90 ± 10)% vs. (50 ± 15)%, PConclusion:MAGI1 may inhibit the cancer cell migration and invasion of hepatocellular carcinoma via regulating PTEN.
+

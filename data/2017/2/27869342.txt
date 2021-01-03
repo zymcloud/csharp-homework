@@ -1,0 +1,4 @@
+27869342
+2017 Feb
+A 2D peptidosheet unravels CD47 as a potential biomarker to image hepatocarcinoma and cholangiocarcinoma cells and tissues. Supramolecular assembly between water-soluble 2D MoS2 and a peptide probe produces the 2D peptidosheet suited for the profiling of hepatocarcinoma and cholangiocarcinoma tissues over healthy tissues on clinical specimens.
+2D materials; CD47; biomarkers; cancer; imaging.

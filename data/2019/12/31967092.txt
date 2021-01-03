@@ -1,0 +1,4 @@
+31967092
+2019 Dec 20
+Objectives:To evaluate the reliability of self-reporting chronic diseases in the baseline data of the Ravansar Non-Communicable Diseases (RaNCD) cohort study in Kermanshah province, western Iran.Methods:The study was conducted in RaNCD cohort study. To assess the reliability of self-report of chronic disease, a random sample of 202 participants were asked about some of chronic conditions 30-35 days (mean = 32) after recruitment.Results:A range of kappa agreement between 39.52-100%, which the lower statistics was for hypertension and hepatitis and the higher one for cancer, cardiac ischemic, and diabetes.Conclusion:The self-report of chronic diseases was relatively reliable. Therefore self-reporting data for some conditions can be used in situations where the validity is acceptable.
+Chronic diseases; Reliability; Self-reported; Test-retest.

@@ -1,0 +1,4 @@
+27258521
+2016 May
+There is increasing evidence that circular RNAs (circRNAs) are involved in cancer development; however, their role in hepatocellular carcinoma (HCC) remains unclear. Here, we aimed to determine the circRNA expression profile in HCC, and investigate relevant mechanisms for cancer progression. The global circRNA expression profile between HCC (n = 3) and adjacent normal liver (n = 3) tissue was significantly different. Three circRNAs (hsa_circ_0000520, hsa_circ_0005075, and hsa_circ_0066444) showed significantly different expression levels in HCC tissues, which were further validated in 60 matched tissue samples using real-time qRT-PCR. Only hsa_circ_0005075 exhibited significant difference in expression (P
+

@@ -1,0 +1,4 @@
+22460558
+2012 Jun
+Objective:Genetic studies implicated upstream stimulatory factor 1 (USF1) in familial combined hyperlipidemia because the rs2073658 minor allele was associated with reduced risk of familial combined hyperlipidemia and related disorders. The molecular mechanisms whereby rs2073658 influences trait expression have remained elusive.Methods and results:Plasma lipids, rs2073658 genotypes (N=372), and hepatic transcript levels (N=96) of USF1 and genes involved in hepatic lipoprotein production were determined in obese subjects. The rs2073658 minor allele was associated with reduced plasma triglycerides (TGs) (PConclusions:A feed-forward loop comprising activation of USF1 transcription by FOXA2 and activation of FOXA2 transcription by USF1, driving microsomal TG transfer protein expression, is modulated by rs2073658. Hence, rs2073658 likely influences hepatic TG secretion.
+

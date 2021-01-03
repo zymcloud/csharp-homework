@@ -1,0 +1,4 @@
+30981753
+2019 Sep
+A series of novel low-toxic hepatoma cell-targeting lipid materials were designed and synthesized, in which monogalactose, digalactose, and galactose-biotin were used as targeting moieties and hydrophilic heads while stearate was used as hydrophobic tail (Mono-Gal-ST, Di-Gal-ST, and Gal-Biotin-ST). The corresponding galactose-biotin-modified liposomes (Mono-Gal-LPs, Di-Gal-LPs, and Gal-Biotin-LPs) and conventional liposomes (LPs) were prepared. These galactose-biotin-modified liposomes can distinguish hepatoma cells from other tissue cells owing to the recognition of asialoglycoprotein receptor by galactose group. Moreover, the ability of liposomes to distinguish hepatoma cells from normal hepatocytes follows a trend of LPs
+biotin; galactose; hepatoma cell–targeting; lipid material.

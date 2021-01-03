@@ -1,0 +1,4 @@
+29449409
+2018 Feb 15
+Pre-mRNA splicing can contribute to the switch of cell identity that occurs in carcinogenesis. Here, we analyze a large collection of RNA-seq data sets and report that splicing changes in hepatocyte-specific enzymes, such as AFMID and KHK, are associated with HCC patients' survival and relapse. The switch of AFMID isoforms is an early event in HCC development and is associated with driver mutations in TP53 and ARID1A The switch of AFMID isoforms is human-specific and not detectable in other species, including primates. Finally, we show that overexpression of the full-length AFMID isoform leads to a higher NAD+ level, lower DNA-damage response, and slower cell growth in HepG2 cells. The integrative analysis uncovered a mechanistic link between splicing switches, de novo NAD+ biosynthesis, driver mutations, and HCC recurrence.
+

@@ -1,0 +1,4 @@
+27685621
+2016 Sep 29
+In our previous study we found that miR-612 negatively regulated stem cell-like property and tumor metastasis of hepatocellular carcinoma cells (HCC). In this study, we try to elucidate underlying mechanism of the regulation, and find that miR-612 inversely modulate the mRNA and protein level of epithelial cell adhesion molecule as well as CD133, negatively regulate the numbers and sizes of tumor spheres, directly inhibit the protein level of Sp1, and subsequently reduce transcription activity of Nanog. Of importance, the higher levels of Sp1 and Nanog in biopsies are the more unfavorable prognoses of HCC patients are found after tumor resection. Taken together, miR-612 has a suppressive role on HCC stemness via Sp1/Nanog signaling pathway.
+

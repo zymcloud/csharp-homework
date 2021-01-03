@@ -1,0 +1,4 @@
+25730441
+2015
+Innate lymphoid cells (ILCs) are involved in the development of mucosal-associated lymphoid tissues and serve as a rapid and early source of the effector cytokines that are typically associated with the T helper cell subsets in response to pathogen-induced changes in the microenvironment. Recent research has implicated ILCs as potential contributing factors to the spectrum of inflammation-related hepatic diseases, particularly hepatitis, fibrosis and carcinoma. In this review, we summarize the current knowledge on the roles of ILCs in these hepatic pathogeneses, providing insights into the underlying cellular and signaling mechanisms to help guide the future research to elucidate the ILCs' characters under normal and diseased conditions and provide interventional targets with therapeutic potential.
+hepatic fibrosis; hepatitis; hepatoma; innate lymphoid cells.

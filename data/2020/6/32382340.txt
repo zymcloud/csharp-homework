@@ -1,0 +1,4 @@
+32382340
+2020 Jun
+Expression of long non-coding RNA SNHG7 (lncRNA-SNHG7) and its clinical significance in hepatocellular carcinoma (HCC) were explored. Quantitative real-time polymerase chain reaction (qRT-PCR) was used to detect the expression level of lncRNA-SNHG7 in cancer tissues. Kaplan-Meier curves and multivariate Cox proportional models were used to study the impact on clinical outcome. Expression of lncRNA-SNHG7 was much higher in cancer tissues than that in para-cancer tissues. The lncRNA-SNHG7 expression was correlated with tumor number, lymph node metastasis and clinical stage (P
+hepatocellular carcinoma; long non-coding RNA SNHG7; overall survival; progression-free survival.

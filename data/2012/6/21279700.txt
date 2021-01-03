@@ -1,0 +1,4 @@
+21279700
+2012 Jun
+This study aimed to analyze the expression of CD45 on HBV-specific T cells in patients who underwent liver transplantation (LT). We detected the distribution of two CD45 isoforms (CD45RA, CD45RO) and CD27 on peripheral blood lymphocytes including two HBV-specific pentamer cells by flow cytometry. Meanwhile, the levels of tacrolimus, plasma IL-7, and IL-15 were tested by ELISA. CD45RA decreased sharply after LT, whereas the expression of CD45RO(+) changed a very little. The proportion of CD4(+) CD27(+) subsets increased in the span from first 6-36 months after LT. With the up-regulation of IL-7, CD45RA(+) CD27(+) was reduced and CD45RO(+) was increased on HBV-specific T cells in LT group compared with CHB. Therefore, the switch from CD45RA to CD45RO probably depended on IL-7, without being stimulated by hepatitis B virus (HBV) and proliferated by IL-15. IL-7 could aid in maintaining HBV-specific T cells effectively during 3 years.
+

@@ -1,0 +1,4 @@
+29291226
+2017 Dec
+Hepatitis C virus (HCV) is associated with one of the major health problem in world that ultimate results in the liver cirrhosis and leads to carcinoma of hepatocellular components round the world. More than 185 million people were found to be infected with HCV. MicroRNAs are small oligonucleotide RNA having 18-22 nucleotides. Circulating mi-RNAs regulate the replication of HCV and HCV-induced liver fibrosis and HCC. By comparing the expression profiles of mi-RNAs of normal individuals with HCV infected patients, aberrant changes in expression of different mi-RNAs have been observed so it can be predicted that these mi-RNAs are associated with and play a central role in the hepatitis C infection and diseases associated with it. This review demonstrates the major role of circulatory microRNAs in the HCV and HCV associated ailments.
+HCC; HCV; MiRNA; Pathogenecity.

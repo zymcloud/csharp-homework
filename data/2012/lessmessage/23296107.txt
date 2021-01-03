@@ -1,0 +1,4 @@
+23296107
+2012
+Aim:To identify predictors of postoperative ascites after liver resection for patients with or without preoperative portal vein embolization (PVE).Methods:Patients undergoing PVE prior to hepatectomy (PVE group; n = 37) were compared with patients who underwent liver resection without PVE (n = 503). Ascites was defined as postoperative daily drainage of clear ascitic fluid exceeding 200 ml/day. Pre-, intra-, and postoperative variables were retrospectively analyzed using uni- and multivariate analyses.Results:Postoperative ascites was present in 13.5% (5/37) of patients who underwent PVE before hepatectomy, compared to 5.8% (29/503) in the group undergoing liver resection without PVE (p = 0.061). In all patients, cirrhosis (OR 54.505, p Conclusion:Operation time and the use of the Pringle maneuver were significant predictors of ascites after hepatectomy. Cirrhosis was a significant risk factor associated with postoperative ascites.
+

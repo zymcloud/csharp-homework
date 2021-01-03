@@ -1,0 +1,4 @@
+26105696
+2015 May
+Hepatocellular carcinoma (HCC) is one of the most deadly cancers in the world due to its high metastatic potential. By using the isobaric tags for relative and absolute quantitation (iTRAQ)-based quantitative N-glycoproteomic analysis, 26 differentially expressed serum glycoproteins derived from defined stages in orthotopic xenograft tumor model were identified. Among them, expression level of soluble EGFR (sEGFR) was verified in HCC cell lines. We found that non-metastasis HCC cell lines express significantly more sEGFR than HCC cell lines with metastasis potential both in cell lysates and culture media. Serum samples from 28 non-metastatic HCC patients and 28 metastatic HCC patients were assayed. Compared with the non-metastatic HCC group, serum level of sEGFR in metastatic HCC group was statistically lower (p
+

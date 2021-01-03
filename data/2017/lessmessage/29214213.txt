@@ -1,0 +1,4 @@
+29214213
+2017
+Hepatocellular carcinoma (HCC), the dominant form of primary liver cancer, is the sixth most common cancer in the world with more than 700,000 people diagnosed annually. Arsenic trioxide (ATO) has been shown to be a potent anticancer agent in various carcinomas, proving particularly effective in the clinical treatment of relapsed and refractory acute promyelocytic leukemia. However, its bioactivity and molecular mechanisms against HCC has not been fully studied. Using human HCC (HepG2) cells as a test model, we studied the effects of ATO and examined the role of oxidative stress (OS) and apoptosis in cytotoxicity. OS biomarkers showed a significant increase (p
+ATO; Apoptosis; DNA fragmentation; HepG2 cells; Oxidative stress.

@@ -1,0 +1,4 @@
+30872650
+2019 Mar 14
+In the recent years, new molecular methods have been proposed to discriminate multicentric hepatocellular carcinomas (HCC) from intrahepatic metastases. Some of these methods utilize sequencing data to assess similarities between cancer genomes, whilst other achieved the same results with transcriptome and methylome data. Here, we attempt to classify two HCC patients with multi-centric disease using the recall-rates of somatic mutations but find that difficult because their tumors share some chromosome-scale copy-number alterations (CNAs) but little-to-no single-nucleotide variants. To resolve the apparent conundrum, we apply a phasing strategy to test if those shared CNAs are identical by descent. Our findings suggest that the conflicting alterations occur on different homologous chromosomes, which argues for multi-centric origin of respective HCCs.
+

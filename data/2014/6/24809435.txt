@@ -1,0 +1,4 @@
+24809435
+2014 Jun
+The prognosis for hepatocellular carcinoma (HCC) remains dismal due to the lack of diagnostic markers for early detection. This review will discuss the clinical potential of the dickkopf (DKK) family members as diagnostic and/or prognostic markers for HCC. In comparison to serum α-fetoprotein (AFP) level, which remains the gold standard for HCC diagnosis, high serum DKK1 levels have higher diagnostic value for HCC, especially for AFP-negative HCC, and can distinguish HCC from non-malignant chronic liver diseases. Additionally, the combination of serum DKK1 and AFP levels enhances diagnostic accuracy for HCC compared to serum DKK1 or AFP levels alone. Although DKK1 offers potential for its use in HCC diagnosis this review will discuss the challenges facing DKK1 and also shed some light on recent developments on the remaining DKK family members: DKK2, DKK3 and DKK4.
+AFP; diagnosis; dickkopfs; hepatocellular carcinoma; prognosis.

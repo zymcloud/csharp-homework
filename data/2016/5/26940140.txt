@@ -1,0 +1,4 @@
+26940140
+2016 May 28
+We reported that poor prognoses of hepatocellular carcinoma (HCC) patients after radiofrequency ablation (RFA) are owing to up-regulation of expression of hypoxia-inducible factor-1 and epithelial cell adhesion molecule. We investigated aggressive progression in residual liver tumors (RLTs) after RFA to focus on expression of epithelial-mesenchymal transition (EMT)-related genes and miRNAs. Ten patients with recurrent HCC post-RFA who underwent hepatectomy (RFA group) and 78 patients with HCC without prior RFA (non-RFA group) were enrolled. We examined expression of transforming growth factor (TGF)-β, Twist, vimentin, and Snail-1 mRNAs in tumor tissues, and expression of miR-34a and miR-200c. Expression of TGF-β, Twist and Snail-1 in the RFA group was significantly higher than that in the non-RFA group (P
+Epithelial–Mesenchymal Transition (EMT); Hepatocellular carcinoma (HCC); MicroRNA; Radiofrequency ablation (RFA).

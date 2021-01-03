@@ -1,0 +1,4 @@
+31546948
+2019 Sep 19
+Hepatocellular carcinoma (HCC) is a frequently encountered cancer type, and its alarming incidence is explained by genetic and epigenetic alterations. Epigenetic changes may represent diagnostic and prognostic biomarkers of HCC. In this review we discussed deoxyribonucleic acid (DNA) hypomethylation, DNA hypermethylation, and aberrant expression of small non-coding ribonucleic acid (RNA), which could be useful new biomarkers in the early diagnosis of HCC. We selected the articles on human subjects published in English over the past two years involving diagnostic markers detected in body fluids, cancer diagnosis made on histopathological exam, and a control group of those with benign liver disease or without liver disease. These biomarkers need further investigation in clinical trials to develop clinical applications for early diagnosis and management of HCC.
+biomarkers; hepatocellular carcinoma DNA methylation; micro-RNAs.

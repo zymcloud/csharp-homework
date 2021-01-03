@@ -1,0 +1,4 @@
+25572981
+2015 May
+The cysteine protease cathepsin B (Cat B) is important in the progression of tumor cells, however, the function and molecular mechanisms of Cat B in hepatocellular carcinoma (HCC) remain to be elucidated. Our previous study demonstrated that integrin αvβ3 regulated the biological behavior of HCC. The present study demonstrated that Cat B was also important in cell proliferation and apoptosis in HCC. Notably, Cat B was observed to activate the phosphoinositide 3‑kinase (PI3K)/Akt signaling pathway to promote HCC proliferation. Furthermore, inhibition of integrin αvβ3 significantly prevented Cat B‑induced activation of PI3K/Akt and the progression of HCC. Thus, the results of the present study suggested the presence of a Cat B/integrin αvβ3/PI3K/Akt axis in the regulation of the progression of HCC.
+

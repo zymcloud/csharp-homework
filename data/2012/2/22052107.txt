@@ -1,0 +1,4 @@
+22052107
+2012 Feb
+Background:Amplified in breast cancer 1 (AIB1) has been shown to promote growth and invasion in several types of human cancers and to have a prognostic role in some of cancers. However, its prognostic significance in hepatocellular carcinoma (HCC) remains unknown. This study aimed to address the issue.Methods:Immunohistochemical staining of AIB1 was performed for HCC and paired paratumorous liver (PTL) tissues from 139 patients. Associations between AIB1 expression with clinicopathological variables and patient survival were evaluated.Results:The expression rate of AIB1 was significantly higher in HCC (71/139, 51.1%) than in PTL tissues (1/139, 0.72%, P Conclusions:AIB1 is independently associated with poor prognosis of HCC.
+

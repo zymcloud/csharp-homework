@@ -1,0 +1,4 @@
+28081729
+2017 Jan 2
+Rap2B, a member of the Ras family of small GTP-binding proteins, was found to be highly expressed in various human tumors and plays an important role in the development of tumors. However, the function of Rap2B in hepatocellular carcinoma (HCC) remains unclear. Therefore, in this study, we investigated the biological functions of Rap2B in HCC and the potential underlying mechanisms. Our results indicated that Rap2B was highly expressed in HCC tissues and cell lines. Rap2B silencing obviously inhibited the proliferation, migration, and invasion of HCC cells, as well as attenuated xenografted tumor growth in vivo. Furthermore, Rap2B silencing greatly reduced the expression levels of phosphorylated focal adhesion kinase (p-FAK), matrix metalloproteinase-2 (MMP-2), and MMP-9 in HCC cells. In conclusion, our data suggest that Rap2B silencing inhibits the proliferation and invasion in HCC cells. Thus, Rap2B may have potential as a treatment for HCC.
+

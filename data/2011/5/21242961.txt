@@ -1,0 +1,4 @@
+21242961
+2011 May 12
+Downregulation of hSSB1, a single-stranded DNA-binding protein, causes increased radiosensitivity, defective checkpoint activation and genomic instability. However, the mechanisms of hSSB1 function in these responses remain to be uncovered. Here, we present evidence that hSSB1 directly binds p21 and this interaction may prevent p21 from ubiquitin-mediated degradation. Furthermore, both promotion of the G1/S transition and abrogation of the G2/M checkpoints induced by hSSB1 knockdown are partially dependent on p21. Most importantly, hSSB1 and p21 levels are positively correlated in human hepatocellular carcinomas (HCC), as determined by immunostaining. Therefore, hSSB1 may positively modulate p21 to regulate cell cycle progression and DNA damage response, implicating hSSB1 as a novel, promising therapeutic target for cancers such as HCC.
+

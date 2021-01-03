@@ -1,0 +1,4 @@
+28952275
+2017 Sep 27
+Objective: We assessed the possibility of using mitochondrial (mt) DNA deletion as a molecular biomarker for disease progression in HCV-related hepatocellular carcinoma (HCC) and to identify its association with folic acid status. Methods: Serum folic acid and lymphocytic mtDNA deletions were assessed in 90 patients; 50 with HCC, 20 with liver cirrhosis (LC), and 20 with chronic hepatitis C (CHC) compared to 10 healthy control subjects. The diagnostic accuracy of mtDNA deletions frequency was evaluated using receiver-operating characteristic (ROC) curve analysis Survival analysis was performed using the Kaplan-Meier method. Differences in the survival rates were compared using log-rank test. Result: Our data revealed a significant elevation of mtDNA deletions frequency in the HCC group compared to the other groups (P-value
+HCC; Egyptian patients; mitochondrial DNA deletions; serum folic acid; diagnosis; prognosis.

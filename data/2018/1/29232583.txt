@@ -1,0 +1,4 @@
+29232583
+2018 Jan 1
+A series of bis-pyrazole derivatives were designed and synthesized, and their antitumor effects in vitro and in vivo were investigated. Several compounds displayed good antiproliferative activity with IC50 values in low-micromolar range against three human cancer cell lines in vitro, superior to 5-FU. The most potent compound 10M selectively inhibited human hepatocellular carcinoma cells but not non-tumor liver cell proliferation in vitro, and significantly triggered SMMC-7721 cell apoptosis by cleavage of both PARP and caspase-3 in a concentration-dependent manner. Further study revealed that the potent activity in the cell growth inhibition and apoptosis induction effects of 10M were related to DNA damage and activation of the p53 signaling pathway. Moreover, 10M showed low acute toxicity to mice and significant growth inhibition of the hepatoma tumor in vivo.
+Antitumor agent; Apoptosis; Bis-pyrazole derivatives; DNA damage; Synthesis.

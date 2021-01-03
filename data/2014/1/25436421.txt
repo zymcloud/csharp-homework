@@ -1,0 +1,4 @@
+25436421
+2015 Jan 2
+Hepatocellular carcinoma (HCC) is the third leading cause of cancer-related death worldwide. Aberrant expression of miRNAs contributes to HCC development. Here, we observed elevated miR-520g expression in tumor samples from HCC patients with relapse and metastasis, and this high miR-520g expression was correlated with poor survival. Through gain- and loss-of-function studies, miR-520g was demonstrated to facilitate HCC cell migration, invasion and epithelial-mesenchymal transition (EMT). SMAD7 was identified as a direct target of miR-520g. Accordingly, we conclude that high miR-520g expression promotes HCC cell mobility and EMT by targeting SMAD7, and this is correlated with reduced survival in HCC patients.
+Cancer metastasis; Epithelial–mesenchymal transition; Hepatocellular carcinoma; MicroRNA-520g; SMAD family member 7.

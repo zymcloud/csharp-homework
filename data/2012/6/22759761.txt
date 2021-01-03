@@ -1,0 +1,4 @@
+22759761
+2012 Jun
+Nelfinavir is a protease inhibitor with potential antitumour activity against certain cancer types. The objective of this study was to evaluate the antitumour effects of nelfinavir in hepatocellular carcinoma cell lines, HepG2 and WCH-17. Results indicate that nelfinavir inhibited the proliferation of Hep G2 and WCH-17 cell lines, with IC50 of 5.1 and 62.0 μmol/l, respectively. Nelfinavir induced apoptosis in both cell lines, although the extent as indicated by Annexin V staining varied. The concentration of nelfinavir needed to induce apoptosis in liver cancer cells were 10 and 100 μmol/l for HepG2 and WCH-17, respectively. At the same concentrations, nelfinavir induced cell cycle arrest at G0/G1 phase in HepG2 and WCH-17 cell lines. Our results suggest that nelfinavir inhibit hepatoma cell growth, through the induction of apoptosis and cell cycle arrest. However, the clinical relevance of these findings warrants further investigation.
+

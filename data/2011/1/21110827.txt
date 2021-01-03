@@ -1,0 +1,4 @@
+21110827
+2011 Jan
+Hepatocellular carcinoma (HCC), a major form of primary liver cancer, is one of the leading causes of cancer related deaths worldwide. Hepatitis B and C infections are major risk factors for the development of HCC. Currently, the treatment options are rather limited, and the prognosis for this malignancy is poor for most of these patients. RNA interference has emerged as an innovative technology for gene silencing and as a potential therapeutic for various diseases, including cancer. HCC has been widely chosen as a model system for the development of RNAi therapy due to the convenience and availability of effective delivery of RNA molecules into liver tissues. Targets for HCC treatment include HBV and HCV viruses, oncogenes, as well as cellular genes mediating angiogenesis, tumor growth and metastasis. Here, we summarized the progress of RNAi therapeutics in HCC treatment, relevant patents, potential challenges and prospects in the future.
+

@@ -1,0 +1,4 @@
+30069768
+2018
+Lenvatinib is an oral receptor tyrosine kinase inhibitor (TKI) with activity against vascular endothelial growth factor (VEGF) receptors 1-3, fibroblast growth factor receptors (FGFR) 1-4, platelet-derived growth factor receptor-alpha (PDGFRα), and RET and KIT proto-oncogenes. Lenvatinib is approved for the treatment of radioiodine-refractory differentiated thyroid cancer and in combination with everolimus for the treatment of advanced renal cell carcinoma following anti-VEGF treatment. In hepatocellular carcinoma lenvatinib was non inferior to sorafenib in first line with an improved progression-free survival and approval in this indication is expected. Lenvatinib is currently investigated for further indications as single agent and in combinations. Side effects include typical TKI induced toxicities such as hypertension, diarrhea, hypothyroidism, and fatigue.
+Differntiated thyroid cancer; Hepatocellular carcinoma; Lenvantinib; Renal cell carcinoma.

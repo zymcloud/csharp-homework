@@ -1,0 +1,4 @@
+29445087
+2018 Feb 14
+The receptor for advanced glycation end products (Rage) is involved in the development of various tumors and acts as an oncogenic protein. Rage is overexpressed in tumors including hepatocellular carcinoma (HCC). However, the molecular mechanism of Rage in HCC progression and sorafenib resistance remains unclear. In this study, enhanced Rage expression is highly associated proliferation and contributes to sorafenib resistance. Rage deficiency contributed to autophagy induction through activating AMPK/mTOR signaling pathway, which is important for sorafenib response. Moreover, the interactions between Rage and Rage ligands such as high mobility group box 1 (HMGB1) and s100a4 positively increased Rage expression. Our data indicate that Rage may be a potential target for therapeutic intervention in HCC and biomarker for sorafenib resistance.
+

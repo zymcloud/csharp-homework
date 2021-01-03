@@ -1,0 +1,4 @@
+32904329
+2020 Aug 7
+The transcriptomic dataset (whole genome microarray Affymetrix Human U133 plus 2.0 and Affymetrix Mouse Genome 430 2.0) presented in this paper describes the differential gene expression profile of a human in vitro model of drug-induced cholestasis and a well-known mouse in vivo model of cholestasis. The in vitro model consists of human hepatoma HepaRG cells in monolayer configuration exposed to 3 different cholestatic drugs with or without bile acids. For in vivo modelling of cholestasis, mice were subjected to bile duct ligation surgery. Consecutive normalization, summarization and background adjustments have been made by means of Robust Multichip Average Express software.
+Bile duct ligation; Drug-induced cholestasis; Human hepatoma HepaRG cells; Microarray; Transcriptomics.

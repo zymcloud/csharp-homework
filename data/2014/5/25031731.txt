@@ -1,0 +1,4 @@
+25031731
+2014 May 15
+Natural killer (NK) cells are important effector cells for the first line of defense against tumor. Distant MHC class I homolog MICA has been identified as human ligand for NK cell activating receptor NKG2D. Engagement of MICA triggers NK cells and augments antigen-specific CTL anti-tumor immunity. However, the expression level of MICA and its clinical significance in hepatocellular carcinoma remains to be elucidated. In the present study, a hospital-based study cohort of 143 HCC patients was involved. MICA expression levels were determined by immunohistochemical staining. The association of MICA expression with tumor clinicopathologic features, disease-free survival, and overall survival of HCC patients were analyzed. Significantly decreased expression of MICA was detected in tumor specimens. MICA expression was significantly associated with AFP level (P
+MHC class I-related chain; hepatocellular carcinoma; immunohistochemistry.

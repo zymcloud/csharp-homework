@@ -1,0 +1,4 @@
+26551334
+2016 Jan 13
+In vivo MEO2 MA@MEO2 MA-co-OEGMA-CuS-DOX (G-CuS-DOX) nanocapsules increase the temperature of tumors from room temperature to 57 °C due to the photothermal effect under irradiation from a 915-nm laser. When the temperature exceeds 42 °C, photothermal therapy of G-CuS-DOX is switched on. Simultaneously, higher temperatures (>LCST, 42 °C) induce volume shrinkage of G-CuS-DOX in vivo, leading to the controllable release of the anticancer drug DOX. If the NIR laser is switched off, both therapy effects are interrupted immediately.
+NIR lasers; chemotherapy; photothermal therapy; smart nanocapsules; switches; tumors.

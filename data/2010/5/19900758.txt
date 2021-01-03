@@ -1,0 +1,4 @@
+19900758
+2010 May 1
+Chronic ethanol consumption is a known risk factor for developing hepatocellular carcinoma (HCC). The use of plant-derived antioxidants is gaining increasing clinical prominence as a potential therapy to ameliorate the effects of ethanol on hepatic disease development and progression. This study demonstrates silibinin, a biologically active flavanoid derived from milk thistle, inhibits cytochrome p4502E1 induction, ethanol metabolism and reactive oxygen species generation in HCC cells in vitro. These silibinin-mediated effects also inhibit ethanol-dependent increases in HCC cell proliferation in culture.
+

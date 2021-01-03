@@ -1,0 +1,4 @@
+31167419
+2019 Jun 4
+Hepatocellular carcinoma (HCC) is the sixth most common type of cancer, with an increasing mortality rate. Aberrant expression of fibroblast growth factor 19-fibroblast growth factor receptor 4 (FGF19-FGFR4) is reported to be an oncogenic-driver pathway for HCC patients. Thus, the FGF19-FGFR4 signaling pathway is a promising target for the treatment of HCC. Several pan-FGFR (1-4) and FGFR4-specific inhibitors are in different phases of clinical trials. In this review, we summarize the information, recent developments, binding modes, selectivity, and clinical trial phases of different available FGFR4/pan-FGF inhibitors. We also discuss future perspectives and highlight the points that should be addressed to improve the efficacy of these inhibitors.
+FGF19; FGFR4; HCC; inhibitors; prognosis.

@@ -1,0 +1,4 @@
+27373160
+2016 Jul 19
+The development of non-alcoholic fatty liver disease (NAFLD) is a multiple step process. Here, we show that activation of cdk4 triggers the development of NAFLD. We found that cdk4 protein levels are elevated in mouse models of NAFLD and in patients with fatty livers. This increase leads to C/EBPα phosphorylation on Ser193 and formation of C/EBPα-p300 complexes, resulting in hepatic steatosis, fibrosis, and hepatocellular carcinoma (HCC). The disruption of this pathway in cdk4-resistant C/EBPα-S193A mice dramatically reduces development of high-fat diet (HFD)-mediated NAFLD. In addition, inhibition of cdk4 by flavopiridol or PD-0332991 significantly reduces development of hepatic steatosis, the first step of NAFLD. Thus, this study reveals that activation of cdk4 triggers NAFLD and that inhibitors of cdk4 may be used for the prevention/treatment of NAFLD.
+C/EBP; NAFLD; cdk4; cyclin D3; hepatic steatosis; p300.

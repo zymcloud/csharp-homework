@@ -1,0 +1,4 @@
+29865221
+2018 Jun 2
+Aleuritolic acid (AA) is a triterpene that is isolated from the root of Croton crassifolius Geisel. In the present study, the cytotoxic effects of AA on hepatocellular carcinoma cells were evaluated. AA exerted dose- and time-dependent cytotoxicity by inducing mitochondria-dependent apoptosis in the hepatocellular carcinoma cell line, HepG2. Meanwhile, treatment with AA also caused dysregulation of autophagy, as evidenced by enhanced conversion of LC3-I to LC3-II, p62 accumulation, and co-localization of GFP and mCherry-tagged LC3 puncta. Notably, blockage of autophagosome formation by ATG5 knockdown or inhibitors of phosphatidylinositol 3-kinase (3-MA or Ly294002), significantly reversed AA-mediated cytotoxicity. These data indicated that AA retarded the clearance of autophagic cargos, resulting in the production of cytotoxic factors and led to apoptosis in hepatocellular carcinoma cells.
+aleuritolic acid; apoptosis; autophagy.

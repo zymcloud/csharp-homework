@@ -1,0 +1,4 @@
+25308436
+2014 Sep 1
+Epidemiological studies have correlated exposure to ultraviolet-irradiated particulate matter with cardiovascular, respiratory, and lung diseases. This study investigated the DNA damage induced by two major inorganic particulate matter compounds found in diesel exhaust, ammonium nitrate and ammonium sulfate, on Burkitt's lymphoma (Raji) and hepatocellular carcinoma (HepG2) cell lines. We found a dose-dependent positive correlation of accumulated DNA damage at concentrations of ammonium nitrate (25 μg/ml, 50 μg/ml, 100 μg/ml, 200 μg/ml, 400 μg/ml) with ultraviolet exposure (250 J/m(2), 400 J/m(2), 600 J/m(2), 850 J/m(2)), as measured by the comet assay in both cell lines. There was a significant difference between the treated ammonium nitrate samples and negative control samples in Raji and HepG2 cells (p
+Apoptosis; Comet assay; HepG2 cells; Particulate matter; Raji cells.

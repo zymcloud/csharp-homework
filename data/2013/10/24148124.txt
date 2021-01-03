@@ -1,0 +1,4 @@
+24148124
+2013 Oct
+microRNA are small non coding RNA, which negatively regulate the expression of their targets. Due to their various targets, miRNAs play a key role in number of physiological processes and in oncogenesis. The identification of specific miRNA signatures in various types of tumours, including hepatocellular carcinoma (HCC), highlights the dual role of miRNA, both oncogenes and tumour suppressors. Here, we review the current knowledge concerning the deregulation of miRNA expression in liver disease. All studies focusing on miRNAs argue for their possible use as diagnostic, prognostic and therapeutic markers. Here, we preferentially discuss the promising therapeutic strategies based on miRNAs that have been tested in HCC.
+

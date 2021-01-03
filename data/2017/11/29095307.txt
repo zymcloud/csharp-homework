@@ -1,0 +1,4 @@
+29095307
+2017 Nov
+We retrospectively compared overall survival (OS) and progression-free survival (PFS) of patients with single (3-5 cm) hepatocellular carcinoma (HCC) with Barcelona Clinic Liver Cancer (BCLC) stage A treated by surgical resection (SR), radiofrequency ablation (RFA), or transarterial chemoembolization (TACE).Of the 38,167 HCC patients registered between 2008 and 2010 at Korea Central Cancer Registry, National Cancer Center of South Korea, 13% patients were randomly abstracted, and 4596 patients could be analyzed. Of these 4596 patients, 337 patients with single 3 to 5 cm sized HCC with BCLC stage A were enrolled. OSs and PFSs among SR (n = 151), RFA (n = 36), and TACE groups (n = 150) were compared, respectively. Propensity score (PS) weighting was used to adjust differences among 3 groups.Median follow-up duration was 45 months (range, 1-73 months). After PS weighting, the cumulative OS rates were significantly higher in the SR (P
+

@@ -1,0 +1,4 @@
+24234682
+2014 Mar
+Hypoxia is a common phenomenon in hepatocellular carcinoma (HCC). Hypoxia stabilizes transcription factor, hypoxia-inducible factor (HIF), to activate gene transcription. Expression of HIF is closely associated with metastasis and poor prognosis in HCC. HIF mediates expression of genes that are involved in every step of HCC metastasis including epithelial-mesenchymal transition, invasion of the extracellular matrix, intravasation, extravasation, and secondary growth of the metastases. Because HIF is the central regulator of HCC metastasis, HIF inhibitors are attractive tools when used alone or as combined treatment to curb HCC metastasis. This review will summarize the current findings on the impact of hypoxia/HIF in HCC, with a particular focus on cancer metastasis.
+

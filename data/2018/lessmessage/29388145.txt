@@ -1,0 +1,4 @@
+29388145
+2018
+As endogenous biological nanoparticles capable of uptake by cells, extracellular vesicles (EVs) have the capacity to deliver their RNA cargo to recipient cells. The use of EVs as a drug delivery system remains in its infancy, and there are several barriers to the use of EV for this purpose. Amongst these is the need to ensure that adequate amounts of EV are available. The use of milk-derived EV provides a scalable approach and loading of these EVs with RNA is possible with the use of chemical transfection reagents. This method describes the use of milk-derived EV for delivery of small interfering RNA. These EVs were shown to be taken up by hepatocellular carcinoma cells in vitro, with a reduction in the expression of target gene.
+Drug delivery; Drug loading method; Extracellular vesicles; Lipofection; Milk; Ultracentrifugation; siRNA.

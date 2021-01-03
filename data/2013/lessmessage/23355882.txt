@@ -1,0 +1,4 @@
+23355882
+2013
+Hepatocellular carcinoma (HCC) is the third most common cause of cancer fatalities worldwide, with limited treatment options and five year survival rates of between 50% growth inhibition by HBF-0079. In Huh7 cells, HBF-0079 induced cell cycle arrest in G1 and concomitant apoptosis, and its effects were irreversible after removal of the compound. These observations corroborate a loss of AKT phosphorylation at the mTORC2-targeted residue S473, with concurrent loss of phosphorylation of the mTORC1 targets SK6 and 4EBP1 in Huh7 but not PH5CH cells. Finally, growth of Hep3B-derived tumors in a murine xenograft model was significantly repressed by the compound through either systemic or intratumoral administration of formulated HBF-0079. The potential for development of this drug candidate is discussed.
+

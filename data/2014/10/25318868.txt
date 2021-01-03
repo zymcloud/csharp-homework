@@ -1,0 +1,4 @@
+25318868
+2014 Oct
+Tumors are believed to consist of a heterogeneous population of tumor cells originating from rare cancer stem cells (CSCs). However, emerging evidence suggests that tumor may also originate from non-CSCs. To support this viewpoint, we are here to present definitive evidence indicating that the number of tumorigenic tumor cells is greater than that of CSCs in tumor, and tumor can also derive from non-CSCs. To achieve this, an idealized mathematical model was employed in the present study and theoretical calculation revealed that non-CSCs could initiate the occurrence of tumor if their proliferation potential was adequate. Further, experimental studies demonstrated that 17.7%, 38.6% and 5.2% of tumor cells in murine B16 solid melanoma, H22 hepatoma and Lewis lung carcinoma, respectively, were potentially tumorigenic. Thus, based on the aforementioned findings, we propose that the scarce CSCs, if exist, are not the sole source of a tumor.
+

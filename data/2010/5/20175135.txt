@@ -1,0 +1,4 @@
+20175135
+2010 May
+A single-voxel Carr-Purcell-Meibloom-Gill sequence was developed to measure localized T(2) relaxation times of (13)C-labeled metabolites in vivo for the first time. Following hyperpolarized [1-(13)C]pyruvate injections, pyruvate and its metabolic products, alanine and lactate, were observed in the liver of five rats with hepatocellular carcinoma and five healthy control rats. The T(2) relaxation times of alanine and lactate were both significantly longer in HCC tumors than in normal livers (p
+

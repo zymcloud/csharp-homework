@@ -1,0 +1,4 @@
+20195960
+2010 Jul
+A new cytotoxic roridin-type trichothecene macrolide named roritoxin E(1) was characterized from the solid culture of Myrothecium roridum IFB-E091 (residing originally inside Artemisia annua root), together with the known compounds lumichrome (2), (22 E,24 S)-cerevisterol (3), and (22 E,24 R)-6 beta-methoxy-ergosta-7,22-diene-3 beta,5 alpha-diol (4). The structure of the new macrolide (1) was elucidated by a combination of spectroscopic (UV, IR, MS, and 1D and 2D NMR) analyses. Compound 1 was demonstrated to be inhibitory in vitro against the gastric carcinoma SGC-7901 and hepatocarcinoma SMMC-7721 cell lines, with IC (50) values of 0.26 and 10.54 microg/mL, respectively. 5-Fluorouracil co-assayed as a positive control had an IC (50) value of 6.66 microg/mL against SGC-7901 cells, and it demonstrated only a 9.98 % growth inhibition against SMMC-7721 cells at 10 microg/mL.
+

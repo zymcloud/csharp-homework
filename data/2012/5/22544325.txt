@@ -1,0 +1,4 @@
+22544325
+2012 May 15
+The generation of knockout mice for the Cbx7 gene validates the tumor suppressor role of CBX7, whose expression is lost in several human malignancies. Indeed, these mice developed liver and lung adenomas and carcinomas. Cyclin E overexpression due to the lack of Cbx7 negative regulation of its expression likely accounts for the phenotype of the Cbx7-KO mice. A similar mechanism is likely involved in human lung carcinogenesis, since cyclin E upregulation associated with the loss of CBX7 expression has been observed in most of the human lung carcinomas analyzed.
+

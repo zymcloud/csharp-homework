@@ -1,0 +1,4 @@
+19900759
+2010 May 28
+Extracellular adenosine-induced apoptosis of HepG2 cells, a human hepatoma cell line, in a concentration (0.1-20mM)- and treatment (24-72h)-dependent manner by activating caspase-3, -8, and -9. In the gene expression assay using a DNA microalley, adenosine upregulated mRNAs for tumor necrosis factor (TNF), TNF receptor 1-associated death domain protein (TRADD), TNF related apoptosis-inducing ligand receptor 2 (TRAIL-R2), TRADD/receptor-interacting protein kinase 1 (RIPK1), Fas-associated death domain protein (FADD), and caspase-9, involving activation of caspase-8 and -9 followed by the effector caspase-3. The results of the present study suggest that adenosine induces HepG2 cell apoptosis by activating those caspases as a result from tuning apoptosis-mediator gene transcription.
+

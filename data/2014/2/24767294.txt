@@ -1,0 +1,4 @@
+24767294
+2014 Feb 25
+Objective:To assess the diagnostic value of hepatobiliary phase imaging with GD-EOB-DTPA for hepatocellular carcinomas (HCC) in cirrhosis.Methods:A total of 43 cirrhotic patients with 45 HCC lesions underwent the examinations of T2WI, DWI, T1WI in-phase and opposed-phase and dynamic contrast enhancement and hepatobiliary phase. Two separate analyses of imaging set with and without hepatobiliary phase images were performed. The confidence scores for HCC diagnosis, consistency, area under the receiver operating characteristic (ROC) curve and sensitivity and positive predictive values of two observers were compared.Results:After adding hepatobiliary phase, there was a significant increase of confidence scores in diagnosing HCC by both observers (P 0.05). The sensitivity increased significantly (P 0.05).Conclusion:Hepatobiliary phase imaging may improve the diagnostic confidence and sensitivity of GD-EOB-DTPA for HCC in cirrhosis.
+

@@ -1,0 +1,4 @@
+32599667
+2020 Sep
+Efficacy of photodynamic therapy (PDT) with hypericin was compared using two cell lines in monolayer culture. Photokilling was substantially impaired in the A549 (human-derived lung tumor) when compared with the 1c1c7 murine hepatoma. The efficacy of PDT with regard to photokilling was correlated with the steady-state intracellular hypericin concentration. There was otherwise no difference in subcellular targets or the pathway to cell death: paraptosis. In a prior study involving cell lines derived from patients with head and neck cancer, differences in response to PDT had shown no correlation with photosensitizer uptake.
+

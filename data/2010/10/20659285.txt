@@ -1,0 +1,4 @@
+20659285
+2010 Oct
+Background:Hepatocellular carcinoma (HCC) is third most common cause of tumour-related death in the US with hepatitis C virus (HCV) the most common aetiology. Surgical resection and tumour ablation are curative in patients who cannot be transplanted. With native liver having cirrhosis, HCC recurrence is a potential problem.Aim:To perform a systematic review and meta-analysis of studies evaluating efficacy of IFN to prevent HCC recurrence after its curative treatment in HCV-related cirrhosis.Methods:Ten studies (n = 645, 301 treated with IFN) on the use of IFN after resection or ablation of HCV-associated HCC were analysed.Results:Pooled data showed benefit of IFN for HCC prevention with OR (95% CI) of 0.26 (0.15-0.45); P Conclusion:Interferon treatment after curative resection or ablation of HCC in HCV-related cirrhotics prevents HCC recurrence and improves survival.
+

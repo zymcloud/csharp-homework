@@ -1,0 +1,4 @@
+22079466
+2012 Feb 28
+CD133 is a cancer stem-cell (CSC) marker associated with radioresistance and chemoresistance in various cancers. In the present study, CD133-expressing liver cancer cells following radiation exposure showed higher activation of MAPK/PI3K signaling pathway and reduction in reactive oxygen species levels compared to CD133- cells. The in vivo study with a xenograft model showed increased tumor formation in irradiated CD133+ cell-injected nude mice compared to the CD133- group, suggesting that CD133 contributes to radioresistance in HCC. Therefore, CD133-expressing liver cancer cells have anti-apoptotic and radioresistance properties that may be useful to improve anti-cancer treatments, including chemotherapy/radiotherapy of HCC.
+

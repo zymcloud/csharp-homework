@@ -1,0 +1,4 @@
+22326283
+2012 Aug 28
+Hepatitis C virus Core plays a vital role in the development of hepatocellular carcinoma; however, the mechanism is still controversial. Here, we show that Core overcomes premature senescence provoked by a reactive oxygen species inducer, H2O2, in human liver cells. For this effect, Core down-regulated levels of p16 via promoter hypermethylation and subsequently induced phosphorylation of Rb in the presence of H2O2. Levels of p21 and p27, however, were little affected by Core under the condition. The potentials of Core to inactivate Rb and suppress H2O2-mediated cellular senescence were abolished when levels of p16 were recovered by either exogenous complementation or inhibition of DNA methylation. Considering that cellular senescence provoked by oxidative stresses is an important tumor suppression process, our present study provides a new strategy by which HCV promotes development of hepatocellular carcinoma.
+

@@ -1,0 +1,4 @@
+22903718
+2012
+Hepatitis D virus (HDV) is the causative agent of one of the most severe forms of virus hepatitis. HDV is a satellite virus of Hepatitis B virus (HBV) and coinfects or superinfects liver cells already infected with HBV. Investigation of HDV biology and pathogenesis has been so far impaired by the lack of an appropriate cell culture system capable of replicating and propagating the virus. This is usually partially overcome using transiently transfection systems and stably transfected cell lines. Here, we used a well-characterized human liver hepatoma cell line stably transfected with HDV cDNA (Huh7-D12) to study the changes in the host proteome induced by the expression of the virus. A 2-DE and MS approach was performed allowing the identification of 23 differentially expressed proteins when compared with the parental non-transfected Huh7 cell line. The proteomic results were validated by western blot and real-time qPCR.
+

@@ -1,0 +1,4 @@
+21212669
+2011
+Background:To study the effects of cadmium chloride (CdCl(2)) combined with hSmac on the proliferation and apoptosis of hepatocellular carcinoma cells, i.e. SMMC-7721.Methods:SMMC-7721 cells were transfected with pcDNA3.1(+)-hSmac using a lipofectamine-mediated method, and then cell viability was detected by MTT assay after exposure to 10, 20, and 30 μmol/l CdCl(2). Apoptosis was determined by both acridine orange-ethidium bromide staining and flow cytometry, and expressions of caspase-3, caspase-9, and cytochrome c by Western blot.Results:CdCl(2) had cytotoxicity to SMMC-7721 cells, and it could inhibit proliferation in a dose-dependent manner and induce apoptosis; hSmac could inhibit proliferation and induce apoptosis independently in SMMC-7721 cells. Furthermore, cotreatment with CdCl(2) and hSmac could enhance antiproliferative and proapoptotic effects in SMMC-7721 cells.Conclusions:hSmac could enhance the cytotoxicity of CdCl(2).
+

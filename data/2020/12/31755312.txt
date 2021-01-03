@@ -1,0 +1,4 @@
+31755312
+2020 Dec
+A new series of C-3'-N-sulfonyl paclitaxel analogs were designed and synthesized from 1-deoxybaccatin VI and their structures were confirmed by 1H NMR, 13C NMR and high resolution MS. The synthesized compounds were evaluated for their in vitro anti-Hepatocellular carcinoma (HCC) activity against human hepatoma (HepG2) cell line. Bioassay results showed that compounds 17c, 17d and 17f exhibited more potent inhibitory activity against HepG2 cell line in comparison with paclitaxel. It is suggested that paclitaxel analogs containing the C-3'-N-sulfonyl could be considered as a precursor structure for further synthesis of more potent analogues.
+1-deoxybaccatin VI; 3′-N-sulfonyl; Paclitaxel; anti-HCC activity; synthesis.

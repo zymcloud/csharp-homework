@@ -1,0 +1,4 @@
+33293827
+2020 Dec 1
+Purpose:To establish a novel circRNA-miRNA-mRNA network associated with the poor prognosis of hepatocellular carcinoma (HCC).Materials and methods:Quantitative real-time PCR was used to verify the differentially expressed circRNA. Moreover, the competing endogenous RNA networks were established using bioinformatics methods. Meanwhile, the prognostic value and potential mechanism of ceRNA network in hepatocellular carcinoma (HCC) were analyzed.Results:This work found that circ_0130911 was highly expressed in HCC tissues and early recurring HCC. Further, we effectively constructed a ceRNA network. The ceRNA network regulated by circ_0130911 might influence the prognosis of HCC by regulating cell cycle-related pathways.Conclusion:The ceRNA network proposed here can be used as a novel biomarker for the prognosis of HCC, thereby providing new insights for the targeted therapy of HCC.
+biomarker; ceRNAs; circRNAs; hepatocellular carcinoma.

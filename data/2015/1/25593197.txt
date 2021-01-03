@@ -1,0 +1,4 @@
+25593197
+2015 Jan 30
+This study explored combinational anticancer therapy using α-helical peptides HPRP-A1/HPRP-A2 with the chemical drugs doxorubicin (DOX) and epirubicin (EPI). The in vitro activity of these drugs against different cancer cell lines was synergistically increased, as was their activity in a HeLa xenograft model in BALB/c nude mice. We delineated the mechanism of this synergy by studying the apoptosis pathway and morphologic changes in the HeLa cell membrane. The mechanism of the HPRP-A1/DOX combination was found to involve enhanced apoptosis, which seemed to be caspase-dependent and involved both the extrinsic and intrinsic parts of the caspase cascade in HeLa cells. Combined application of HPRP-A1 and DOX at low concentrations was significantly more effective than either drug alone against HeLa tumors in the mouse xenograft model. This type of combination therapy appears to have great clinical potential.
+

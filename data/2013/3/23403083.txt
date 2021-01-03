@@ -1,0 +1,4 @@
+23403083
+2013 Mar 15
+Single-stranded DNA aptamers recognizing human hepatocarcinoma were isolated by means of a systematic evolution of ligands by exponential enrichment using whole cells as targets (cell-SELEX). After 11 rounds of cell-SELEX procedure using human hepatoma HepG2 cells as targets and human normal hepatocyte cells as counterparts, 12 independent DNA aptamer candidate sequences were obtained. The specific interaction between selected DNA aptamers and targeted cell was confirmed. Dissociation constants of the 12 sequences obtained were also estimated in the range of 19-450nM. Moreover, the consensus secondary structure was found in the isolated aptamers, which was responsible to the recognition of HepG2 cells.
+

@@ -1,0 +1,4 @@
+30669066
+2019 Apr
+Two transition metal complexes of [M(TMP)2(H2O)2] (TMP-Cu, M = Cu; TMP-Co, M = Co) with (E)-2-(((4H-1,2,4-triazol-4-yl)imino)methyl)-6-methoxyphenol (H-TMP) were first synthesized and characterized by infrared analysis, elemental analysis and single crystal X-ray diffraction analysis. Notably, MTT (3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide) assay showed that TMP-Cu displayed relatively high cytotoxic activity against Hep-G2 cancer cells, and high selectivity between human hepatocellular carcinoma cells and normal HL-7702 cells, in comparison to TMP-Co and cisplatin. Further studies showed that TMP-Cu and TMP-Co caused cell cycle arrest at S phase through regulation of S phase related protein expressions and induced Hep-G2 cell apoptosis via the mitochondrial pathway.
+(E)-2-(((4H-1,2,4-triazol-4-yl)imino)methyl)-6-methoxyphenol; Cell apoptosis; Cell cycle; Cu(II) complex; Mitochondrial dysfunction.

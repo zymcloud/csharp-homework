@@ -1,0 +1,4 @@
+24756788
+2014
+The epidermal growth factor receptor (EGFR) has been implicated in a multiplicity of cancer-related signal transduction pathways such as cellular proliferation, adhesion, migration, neoangiogenesis and apoptosis inhibition, all of them are important features of cancerogenesis and tumour progression. Its tyrosine kinase activity plays a central role in mediating these processes and has been intensely studied to exploit it as a therapeutic target. Inhibitors of this pathway have been developed and assessed in trials with significant efficacy in clinical applications. The current review focuses in particular on the clinical data of EGFR tyrosine kinase inhibition in different tumour entities, preferably non-small cell lung cancer and pancreatic cancer with emphasis to the approved small molecule erlotinib. Its clinical applications, evidence-based efficacy and toxicity as well as predictive markers of response are discussed.
+

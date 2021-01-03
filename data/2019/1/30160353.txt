@@ -1,0 +1,4 @@
+30160353
+2019 Jan
+Hepatoblastoma can be associated with chronic kidney disease and genitourinary anomalies. Cisplatin is a key agent for treating hepatoblastoma but renal clearance and toxicity can limit its use in end-stage renal disease. We present pharmacokinetic data and clinical outcomes using cisplatin on hemodialysis for three patients with hepatoblastoma. All patients were initially treated with surgery and adjuvant cisplatin [1.67 mg/kg (2 patients) or 50 mg/m2 (1 patient)]. The patient treated with body surface area-based dosing had higher exposures and ototoxicity. Treating hepatoblastoma with cisplatin on hemodialysis using 1.67 mg/kg achieved clinical efficacy with minimal morbidity.
+cisplatin; hemodialysis; hepatoblastoma; pediatric oncology; pharmacokinetics.

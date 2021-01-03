@@ -1,0 +1,4 @@
+20159990
+2010 Mar
+Pulmonary metastasis is the most significant prognostic determinant for osteosarcoma, but methods for its prediction and treatment have not been established. Using oligonucleotide microarrays, we compared the global gene expression of biopsy samples between seven osteosarcoma patients who developed pulmonary metastasis within 4 years after neoadjuvant chemotherapy and curative resection, and 12 patients who did not relapse. We identified argininosuccinate synthetase (ASS) as a gene differentially expressed with the highest statistical significance (Welch's t test, P = 2.2 x 10(-5)). Immunohistochemical analysis of an independent cohort of 62 osteosarcoma cases confirmed that reduced expression of ASS protein was significantly correlated with the development of pulmonary metastasis after surgery (log-rank test, P
+

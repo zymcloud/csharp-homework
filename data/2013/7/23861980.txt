@@ -1,0 +1,4 @@
+23861980
+2013 Jul 8
+We provided a cross-tissue comparative analysis of between-subtype molecular commonality for ovarian cancer, breast cancer, hepatocellular carcinoma, glioma, lung squamous carcinoma and nasopharyngeal carcinoma. Our analysis showed that molecular subtypes with similar phenotype or similar clinical outcome could be correlated by their transcriptional profile and pathway profile. Pathway dysregulation across multiple cancer subtypes was also revealed by Gene Set Enrichment Analysis. Dysregulation of 'complement and coagulation cascades' was observed in a total of eleven subtypes across five tissues, implicating that the role of this process in personalized immune-based therapy may be worth further exploring.
+

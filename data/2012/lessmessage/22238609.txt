@@ -1,0 +1,4 @@
+22238609
+2012
+Plasmodium sporozoites are transmitted by Anopheles mosquitoes and infect hepatocytes, where a single sporozoite replicates into thousands of merozoites inside a parasitophorous vacuole. The nature of the Plasmodium-host cell interface, as well as the interactions occurring between these two organisms, remains largely unknown. Here we show that highly dynamic hepatocyte actin reorganization events occur around developing Plasmodium berghei parasites inside human hepatoma cells. Actin reorganization is most prominent between 10 to 16 hours post infection and depends on the actin severing and capping protein, gelsolin. Live cell imaging studies also suggest that the hepatocyte cytoskeleton may contribute to parasite elimination during Plasmodium development in the liver.
+

@@ -1,0 +1,4 @@
+30088967
+2018 Oct
+The advent of therapeutic mRNAs significantly increases the possibilities of protein-based biologics beyond those that can be synthesized by recombinant technologies (eg, monoclonal antibodies, extracellular enzymes, and cytokines). In addition to their application in the areas of vaccine development, immune-oncology, and protein replacement therapies, one exciting possibility is to use therapeutic mRNAs to program undesired, diseased cells to synthesize a toxic intracellular protein, causing cells to self-destruct. For this approach to work, however, methods are needed to limit toxic protein expression to the intended cell type. Here, we show that inclusion of microRNA target sites in therapeutic mRNAs encoding apoptotic proteins, Caspase or PUMA, can prevent their expression in healthy hepatocytes while triggering apoptosis in hepatocellular carcinoma cells.
+RNA modifications; mRNA; miRNA; suicide therapy; therapeutic.

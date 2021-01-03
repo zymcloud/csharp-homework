@@ -1,0 +1,4 @@
+31188741
+2020 Feb 25
+The gene encoding transmembrane protein 100 (TMEM100) was first discovered to be transcribed by the murine genome. It has been recently proven that TMEM100 contributes to hepatocellular carcinoma and non-small-cell lung carcinoma (NSCLC). This study investigates the impact of TMEM100 expression on gastric cancer (GC). TMEM100 expression was remarkably downregulated in GC samples compared to the surrounding non-malignant tissues (p
+BMP9; TMEM100; gastric cancer; metastasis.

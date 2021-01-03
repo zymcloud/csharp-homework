@@ -1,0 +1,4 @@
+32556990
+2020 Sep
+Emerging evidence suggested that long non-coding RNAs (lncRNAs) play pivotal roles in tumorigenesis. LINC01133 is a newly identified lncRNA first discovered as an oncogene in lung squamous cell carcinoma. Subsequent studies further demonstrated this lncRNA was deregulated in a wide spectrum of tumors, including colorectal, gastric, lung, and pancreatic ductal adenocarcinoma as well as osteosarcoma and hepatocellular carcinoma. Intriguingly, this lncRNA exerted oncogenic or tumor-suppressive action in a tissue-dependent manner. This review sought to summarize our current understanding concerning the deregulation of LINC01133 in human tumors in relation to its molecular mechanisms and cellular functions. The clinical utilization of LINC01133 as a potential prognostic biomarker and a treatment target is also discussed.
+LINC01133; Long non-coding RNAs; Osteosarcoma; lncRNAs.

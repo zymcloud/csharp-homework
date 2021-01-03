@@ -1,0 +1,4 @@
+28780680
+2018 May
+Hepatocellular carcinoma is among the most prevalent solid organ cancers, and, unlike many cancers, may be diagnosed non-invasively by imaging criteria [1] with the preferred modality recently shifting from multiphasic computed tomography (MDCT) to magnetic resonance imaging (MRI). The purpose of this article is to help facilitate radiologists and radiology trainees in the transition to MRI by providing a step-wise approach to exam interpretation to improve the MRI detection of HCC. A methodical, consistent approach to navigating a HCC screening MRI exam, in conjunction with the LI-RADS framework for characterization, should lead to improved HCC detection and diagnosis.
+Hepatocellular carcinoma; Liver imaging; MRI protocol; Magnetic resonance imaging.

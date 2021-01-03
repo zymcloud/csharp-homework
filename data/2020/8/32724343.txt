@@ -1,0 +1,4 @@
+32724343
+2020 Aug
+Glioma is the most common and lethal type of primary brain tumor, with a high mortality and recurrence rate. Rab5, which serves as a classic ontogenetic gene, is highly expressed in various types of tumor, including lung cancer, hepatocellular carcinoma and ovarian cancer. However, the exact role and the underlying mechanism of Rab5 in glioma remain unknown. Herein, the role of Rab5 in the tumorigenesis and metastasis of glioma cells was investigated. The upregulation of Rab5 in glioma tissues and cells was observed. The expression of Rab5 was positively associated with proliferation, migration and invasion of glioma cells. Moreover, Rab5 was involved in the cell cycle of glioma cells via the regulation of cyclin E. Data presented in the present study suggest Rab5 as a potential novel diagnostic and prognosis marker of glioma.
+Rab5; cyclin E; glioma; metastasis; tumorigenesis.

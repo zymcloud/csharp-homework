@@ -1,0 +1,4 @@
+24922670
+2014 Jun
+Aim:To compare clinical outcome in patients with Child-Pugh C hepatocellular carcinoma (HCC) treated with non-transplant therapies and those treated with best supportive care.Patients and methods:A total of 182 patients with HCC with Child-Pugh C cirrhosis were analyzed. Patients were classified into two groups: patients treated with non-transplant therapies (n=113, treated group) and untreated patients (n=69, untreated group). Furthermore, for reducing the bias in patient selection, a propensity score matching analysis was performed (55 pairs).Results:The median survival time in the treated group was significantly longer than that in the untreated group (1.16 years vs. 0.21 years, pConclusion:In patients with HCC with Child-Pugh C cirrhosis, those treated with non-transplant therapies might have longer survival than untreated patients.
+Child-Pugh C; Hepatocellular carcinoma; best supportive care; non-transpalnt therapies; overall survival.

@@ -1,0 +1,4 @@
+23009756
+2013 May
+Nitric oxide (NO) is a lipophillic, highly diffusible, and short-lived physiological messenger which regulates a variety of physiopathological responses. NO may exert its cellular action through cGMP-dependent and cGMP-independent pathways which includes different postranslational modifications. The effect of NO in cancer depends on the activity and localization of NOS isoforms, concentration and duration of NO exposure, cellular sensitivity, and hypoxia/re-oxygenation process. NO regulates critical factors such as the hypoxia inducible factor-1 (HIF-1) and p53 generally leading to growth arrest, apoptosis or adaptation. NO sensitizes hepatoma cells to chemotherapeutic compounds probably through increased p53 and cell death receptor expressions.
+

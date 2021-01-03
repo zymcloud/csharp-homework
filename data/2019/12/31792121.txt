@@ -1,0 +1,4 @@
+31792121
+2019 Dec
+This issue reports two studies, one by Hatlen and colleagues and the other by Kim and colleagues, that detail the drug-development journey of the FGFR19-FGFR4 inhibitor fisogatinib (BLU-554), from identification of the drug to preclinical validation studies to finally the results of the proof-of-concept first-in-human phase I trial of this potent and selective, type I irreversible inhibitor of FGFR4. Moreover, Hatlen and colleagues also report a resistance mechanism acquired after therapy that targets selective FGF4 inhibition, which validates FGF as a specific target in hepatocellular cancer.See related article by Hatlen et al., p. 1686.See related article by Kim et al., p. 1696.
+

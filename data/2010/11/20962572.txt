@@ -1,0 +1,4 @@
+20962572
+2010 Nov
+Hepatocellular carcinoma (HCC) is the fifth most common cancer and the third leading cause of cancer death worldwide. Drug treatments for HCC have been largely unsuccessful. Histone deacetylase inhibitors can reactivate tumor suppressor genes in cancer cells and serve as potential anti-cancer drugs. Two potent HDAC inhibitors OSU-HDAC42 and SAHA induced autophagy in HCC cells as revealed by transmission electron microscopy, immunofluorescence and LC3-II accumulation. We found that SAHA and OSU-HDAC42 induced autophagy through downregulation of Akt/mTOR signaling and induction of ER stress response. Inhibition of autophagy by 3-MA or Atg5 knockout reduced SAHA-induced cytotoxicity, indicating that SAHA-induced autophagy led to cell death. Our results show that the combination of autophagy inducers with SAHA might be attractive for the treatment of HCC and pharmacological targeting of autophagy provides promise for the management of cancer therapy.
+

@@ -1,0 +1,4 @@
+24497876
+2014 Jan 19
+Background:Hepatocellular carcinoma (HCC), a major fatal cancer worldwide, is induced by different etiological factors in the liver.Objectives:To gain insight into serum protein profiling of HCC with different etiologies.Patients and methods:We subjected the sera of HBV-HCC, HCV-HCC, non-B non-C-HCC patients, and healthy volunteers to two-dimensional gel electrophoresis (2-DE) and liquid chromatography tandem mass spectrometry (LC-MS/MS).Results:We found 30 differentially expressed protein spots (≥ 1.5 fold P Conclusions:Serum proteome analyses of HCC with different origins showed a differential protein pattern, presumably related to different hepatopathogenesis in liver induced by different agents. Further studies are required to clarify the importance of identified proteins for early diagnosis of HCC with different origins.
+Biological Markers; Carcinoma, Hepatocellular; Electrophoresis, Gel, Two-Dimensional; Hepatitis B Virus; Hepatitis C.

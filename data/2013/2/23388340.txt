@@ -1,0 +1,4 @@
+23388340
+2013 Feb
+Objective:To investigate the expression of GRAMD4 and its correlation with the clinicopathological features in hepatocellular carcinoma (HCC).Methods:We freshly collected 40 samples of surgically resected paired HCC and normal tumor-adjacent tissues and detected the GRAMD4 expression in the samples using RT-PCR and immunohistochemical staining. The correlation between GRAMD4 mRNA expression and clinicopathological features was analyzed. The GRAMD4 mRNA expression in normal liver cell line (LO2) and HCC cell lines (HepG2, Hep3B and SMMC-7721) was detected with RT-PCR.Results:The mRNA and protein expressions of GRAMD4 in HCC tissues were significantly upregulated compared to those of the normal tumor-adjacent tissues (PConclusion:The expression of GRAMD4 is up-regulated in HCC cell lines and HCC tissues, and the increased expression is correlated with the clinicopathological characteristics of HCC.
+

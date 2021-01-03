@@ -1,0 +1,4 @@
+30723051
+2019 May
+Background:TONSL has been suggested to function as an oncogene in lung, esophageal and cervical cancer. This study was aimed to identify the expression of TONSL and its role in hepatocellular carcinoma (HCC).Methods:By data mining in the Cancer Genome Atlas (TCGA) and Human Protein Atlas (HPA) databases, the expression profile of TONSL, its clinical significance, the potential mechanisms of its dysregulation and its underlying biological function in HCC were investigated.Results:TONSL was significantly upregulated in HCC tissues relative to normal liver tissues (P Conclusions:TONSL holds promise for serving as a prognostic biomarker for HCC. DNA amplification, hypomethylation and miR-133b downregulation could be the mechanisms associated with TONSL upregulation in HCC. TONSL might function as an oncogene via cell cycle regulation pathways in HCC.
+Hepatocellular carcinoma; Prognosis; TONSL; miR-133b.

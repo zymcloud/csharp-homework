@@ -1,0 +1,4 @@
+30600538
+2019 Feb
+An improved methodology is reported for the synthesis of new series of mesotetrakis[aryl]-21H,23H-porphyrin derivatives 2a-h and was considered as a model to study their antioxidant and cytotoxic activities. The structures of the novel compounds were determined in 1 H and 13 C NMR, UV-Vis, and elemental analyses. Among the derivatives, compounds 2c, 2d, and 2h showed strongest radical-scavenging activity. Moreover, according to our results, compounds 2c, 2d, 2g, and 2h have very strong activity against the HepG2 hepatoma cell line, with IC50 values from 9 to 25 μg/mL. Molecular docking was performed to investigate the binding between the most active porphyrin derivatives 2c, 2d, 2g, 2h and the two molecular targets Bcl-2 and caspase-3. Compounds 2c and 2d seem to have better affinities to both proteins than 2g and 2h.
+aldehydes; antioxidant; cytotoxicity; molecular docking; porphyrins; pyrrole.

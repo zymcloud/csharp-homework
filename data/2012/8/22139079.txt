@@ -1,0 +1,4 @@
+22139079
+2012 Aug 30
+Deleted in Liver Cancer 1 (DLC1) is a tumor suppressor whose allele is lost in 50% of liver, breast, lung and 70% of colon cancers. Here, we show that the transcriptional coactivators Megakaryoblastic Leukemia 1 and 2 (MKL1/2) are constitutively localized to the nucleus in hepatocellular and mammary carcinoma cells that lack DLC1. Moreover, DLC1 loss and MKL1 nuclear localization correlate in primary human hepatocellular carcinoma. Nuclear accumulation of MKL1 in DLC1-deficient cancer cells is accomplished by activation of the RhoA/actin signaling pathway and concomitant impairment of MKL1 phosphorylation, which results in constitutive activation of MKL1/2 target genes. We provide evidence that MKL1/2 mediates cancerous transformation in DLC1-deficient hepatocellular and mammary carcinoma cells. Depletion of MKL1/2 suppresses cell migration, cell proliferation and anchorage-independent cell growth induced by DLC1 loss.
+

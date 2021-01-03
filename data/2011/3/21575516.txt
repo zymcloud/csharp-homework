@@ -1,0 +1,4 @@
+21575516
+2011 Mar
+Objective:The aim of this study was to transfect TPT1 into cell lines SMMC-7721 and L-02, seperately, and to observe the changes of biological behaviors of the cell lines.Methods:Through lipofectamine, the eukaryotic report expression vector containing TPT1 ORF (open reading frame), pEGFP-N3TPT1, were transducted into hepatocarcinoma cell line SMMC-7721 cells and normal liver cell line L-02 cells, seperately. The transduction was repeated three times in 24 hrs. The differences of biological behaviors between the pEGFP-N3TPT1 and pEGFP-N3 groups were studied by RT-PCR, MTT assay, soft agar colony formation assay and cell cycle analysis.Results:The pEGFP-N3TPT1 transfected cells had a high mRNA level in the two cell lines (P Conclusions:TPT1 can enhance malignant phenotype of SMMC-7721 cells and promote the growth of L-02 cells, but not transform L-02 into malignant phenotype.
+

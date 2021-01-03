@@ -1,0 +1,4 @@
+25333732
+2015 Dec
+Predicting which patients will benefit from radioembolization remains a challenge, as reliable prognostic indicators are not defined. Abnormal tumor vascular anatomy could not only impact the ability of cancer therapies to penetrate tumors, but may also contribute to a lesion's metastatic potential. Specifically, intratumoral vascular shunts could allow circulating tumor cells to initiate metastases by allowing them to gain access to distant sites in the body, bypassing capillary beds. Here, we describe how tumoral angiogenesis occurs and how intratumoral vascular shunts may form.
+

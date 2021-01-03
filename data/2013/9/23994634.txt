@@ -1,0 +1,4 @@
+23994634
+2013 Sep 20
+SOX1 was aberrant methylated in hepatocellular cancer and non-small cell lung cancer (NSCLC). Long-term cisplatin exposure promotes methylation of SOX1 in ovarian cancer cell, suggesting that SOX1 may be involved in cisplatin resistance. Our aim was to test the hypothesis that cisplatin resistance is associated with alteration of SOX1 expression in NSCLC. Expression of levels of SOX1 was examined using RT-PCR in cisplatin resistance cells and parental cells. The level of SOX1 mRNA in cisplatin resistance cells was markedly reduced when compared to parental cells. Promoter methylation of SOX1 was induced in cisplatin resistance cells. We also found that SOX1 silencing enhanced the cisplatin-mediated autophagy in NSCLC. This study shows that inactivation of SOX1 by promoter hypermethylation, at least in part, is responsible for cisplatin resistance in human NSCLC.
+Cisplatin; Hypermethylation; Non-small cell lung cancer; SOX1.

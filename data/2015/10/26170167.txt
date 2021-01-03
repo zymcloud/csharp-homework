@@ -1,0 +1,4 @@
+26170167
+2015 Oct 10
+Sorafenib, an orally-available kinase inhibitor, is the only standard clinical treatment against advanced hepatocellular carcinoma. However, development of resistance to sorafenib has raised concern in recent years due to the high-level heterogeneity of individual response to sorafenib treatment. The resistance mechanism underlying the impaired sensitivity to sorafenib is still elusive though some researchers have made great efforts. Here, we provide a systemic insight into the potential molecular, cellular and microenvironmental mechanism of sorafenib resistance in hepatocellular carcinoma depending on abundant previous studies and reports.
+Acquired resistance; Advanced hepatocellular carcinoma (HCC); Cancer stem cells (CSCs); Epithelial–mesenchymal transitions (EMT) and mesenchymal–epithelial transitions (MET); Microenvironment.

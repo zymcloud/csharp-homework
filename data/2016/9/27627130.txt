@@ -1,0 +1,4 @@
+27627130
+2016 Sep 23
+Twelve new flavan derivatives including four pairs of enantiomers, daphnegiralins A1-A4 (1) and daphnegiralins B1-B4 (2), and two pairs of epimers, daphnegiralins C1/C2 (3) and daphnegiralins D1/D2 (4), were isolated from the stem bark and roots of Daphne giraldii. Their structures were elucidated using spectroscopic analyses, computational approaches, and chemical methods. Separation of the enantiomeric mixtures (1a, 1b, 2a, and 2b) was achieved using chiral HPLC. The compounds were evaluated against a small panel of human cancer cell lines, and 1b-2, 2a, and 2b were cytotoxic against Hep3B human hepatoma cells.
+

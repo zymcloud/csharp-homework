@@ -1,0 +1,4 @@
+26530887
+2016 Jan
+The compound 3-bromopyruvate (3BP) is an analogue of pyruvate, which is the final product of glycolysis that enters the citric acid cycle. The present study aimed to investigate the suppressive effects of 3BP on the proliferation and motility of hepatocellular carcinoma (HCC) cells. HLF and PLC/PRF/5 cells were cultured with 3BP and subjected to an MTS assay. Apoptosis was analyzed by hematoxylin and eosin staining. Cell motility was analyzed using a scratch assay. Real-time quantitative polymerase chain reaction (PCR) was performed to determine the expression levels of cyclin D1 and matrix metalloproteinase (MMP)9. Proliferation of both cell lines was significantly suppressed by 3BP at 100 µM (P
+

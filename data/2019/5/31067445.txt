@@ -1,0 +1,4 @@
+31067445
+2019 May 7
+CTNNB1, encoding β-catenin, is frequently mutated in hepatocellular carcinoma, the most rapidly growing solid cancer in the US, and activating mutations in this gene are associated with increased expression of glutamine synthetase. A new report by Adebayo Michael et al. (2019) identifies mTOR as a direct target of WNT/β-catenin signaling through increased production of glutamine, which is required for the carcinogenic effects of WNT/β-catenin activity in the liver.
+

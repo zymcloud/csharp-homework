@@ -1,0 +1,4 @@
+26099533
+2015 Aug 15
+Seven holostane-type triterpene saponins (1-7), including five new compounds namely cercodemasoides A-E (2-6), were isolated from the sea cucumber Cercodemas anceps. Their structures were elucidated on the basis of spectroscopic evidence including HR ESI MS, ESI MS/MS, 1D and 2D NMR. The cytotoxic effects of isolated compounds were evaluated by SRB method on five human cancer cell lines including Hep-G2 (hepatoma cancer), KB (epidermoid carcinoma), LNCaP (prostate cancer), MCF7 (breast cancer), and SK-Mel2 (melanoma). Compounds 1-7 showed potent cytotoxicity on five tested cancer cell lines with IC50 values ranging from 0.03 ± 0.01 to 7.36 ± 0.46 μM. With respect to the potent cytotoxicity of the isolated saponins, further studies are required to confirm efficacy in vivo and the mechanism of cytotoxic effects.
+Cercodemas anceps; Cercodemasoide; Cucumariidae; Cytotoxic activity; Sea cucumber.

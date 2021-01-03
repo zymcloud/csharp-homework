@@ -1,0 +1,4 @@
+26622168
+2015 Nov 13
+As tumor angiogenesis is one of the hallmarks of cancer, the inhibition of vascular endothelial growth factor signaling has become an attractive anticancer approach. Apatinib, a small-molecule inhibitor of vascular endothelial growth factor receptor-2, has demonstrated encouraging anticancer activity across a broad range of malignancies, including gastric cancer, non-small-cell lung cancer, breast cancer, and hepatocellular carcinoma. In this up-to-date review, focus is not only on the structure, mechanisms, and pharmacokinetics of apatinib, but also on summarizing clinical trials and making recommendations of apatinib for patients with advanced solid tumors.
+angiogenesis; apatinib; molecular targeted therapy; tumor; vascular endothelial growth factor receptor-2.

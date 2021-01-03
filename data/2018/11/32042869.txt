@@ -1,0 +1,4 @@
+32042869
+2018 Nov 28
+Argininosuccinate lyase (ASL) plays an important role in the hepatic urea cycle, and can catalyze the reversible reaction of argininosuccinate to arginine and fumarate. However, the function of ASL in hepatocellular carcinoma (HCC) is not fully understood. In this study, we found that ASL expression was frequently upregulated in HCC tissues and HCC cell lines. Knock down of ASL inhibited cell proliferation and induced apoptosis in HCC cells. Mechanistic studies revealed the BCL2-associated X protein (Bax) signaling pathway which determines cancer cell apoptosis was regulated by ASL. Moreover, the depletion of Bax restored the inhibition of cell growth and reduced apoptosis initiated by ASL silencing. Together, the study demonstrated that ASL regulated HCC cell growth and apoptosis by modulating Bax signaling. Thus, the therapeutic targeting of ASL may offer options for HCC treatment.
+ASL; Apoptosis; Bax; HCC; Proliferation.

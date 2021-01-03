@@ -1,0 +1,4 @@
+27222429
+2016 Jul
+As a member of the tissue inhibitor of metallo-proteinases (TIMP) family, it has been reported that TIMP-3 is involved in human cancer development. However, the function of TIMP-3 in hepatocellular carcinoma (HCC) development is unclear. We aimed to determine the biological role of TIMP-3 in HCC by evaluating the effects of its methylation status and expression on HCC cell function. TIMP-3 expression in HCC tissues was visibly analyzed by immunohistochemistry. Methylation of the TIMP-3 promoter was evaluated by methylation-specific PCR. Effects of TIMP-3 on HCC cell growth, apoptosis, migration, and invasion were examined by transfecting the TIMP-3-expressing plasmid, pCMV6. TIMP-3 was expressed in non-tumorous live tissue, but silenced or downregulated in 60% of HCC cases (P
+

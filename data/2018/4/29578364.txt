@@ -1,0 +1,4 @@
+29578364
+2018 Apr
+Aim:The aim was to evaluate cost-effectiveness of yttrium-90 transarterial radioembolization (TARE) in comparison to sorafenib treatment.Patients & methods:A single-center, retrospective, observational study was performed, 166 patients with intermediate-/advanced-stage hepatocellular carcinoma were treated with sorafenib and 19 with TARE. The patients out of the sorafenib group matching the inclusion criteria for TARE, were reassigned to a subgroup SOR3.Results:Mean costs for SOR3 patients amounted to €27,992 per patient, instead for TARE treatment, mean expense per patient was €17,761 (p = 0.028). Overall survival was similar between the two groups, while midterm survival rates (p = 0.012) were significantly higher with TARE treatment.Conclusion:TARE causes significantly lower treatment costs than sorafenib with better outcome in midterm survival.
+TARE; cost analysis; hepatocellular carcinoma; overall survival; sorafenib.

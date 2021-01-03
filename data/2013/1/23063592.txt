@@ -1,0 +1,4 @@
+23063592
+2013 Jan
+This study was aimed at evaluating the anti-tumor mechanism of corn peptides (CPs). In vitro, the results showed that CPs significantly inhibited cell viability in both a dose- and a time-dependent manner. CPs treatment induced S cell-cycle arrest and caused apoptotic death in HepG2 cells. It was observed that CPs caused the increased in Bax/Bcl-2 ratio and triggered the activation of Cleaved-caspase-3, p53 in HepG2 cells. In vivo, the results showed that CPs could not only inhibit the growth of the tumor, but also enhance the spleen index, as well as the level of IL-2, IFN-γ and TNF-α. Moreover, CPs could prolong the survival time in H22-bearing mice. This study demonstrated that CPs was an apoptosis inducer in HepG2 cells, that it could effectively inhibit hepatocellular carcinoma in vivo via enhancement of host immune system function, and that it could be a safe and effective anticancer, bioactive agent or functional food.
+

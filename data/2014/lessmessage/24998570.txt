@@ -1,0 +1,4 @@
+24998570
+2014
+Purpose:To investigate IQGAP1 and IQGAP2 expression in hepatocellular carcinoma (HCC) and itsassociation with HCC clinicopathological characteristics and survival outcomes.Methods:IQGAP1 and IQGAP2 mRNA and protein were measured in HCC tissues, para-tumor tissues and normal tissues by RT-PCR and Western blotting. We further examined 150 HCC samples with adjacent para-tumor tissues and 11 normal specimens by immunohistochemistry to evaluate the correlation of IQGAP1 and IQGAP2 with clinicopathological features and prognosis.Results:IQGAP1 mRNA and protein were up-regulated while IQGAP2 mRNA and protein were down-regulated in human HCC tissues compared with para-tumor and normal liver tissues (pConclusion:Positive IQGAP1 and negative IQGAP2 expression were closely correlated with tumor progression and could be used as adjunctive biomarkers to improve prognostication for HCC patients.
+

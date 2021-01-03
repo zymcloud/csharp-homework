@@ -1,0 +1,4 @@
+29505792
+2018 Apr 6
+Hypoxia promotes HCC progression and therapy resistance, and there is no systemic treatment for HCC patients after sorafenib resistance. Thus, it is urgent to develop potential therapeutic regimens for HCC patients by targeting hypoxia signaling. In this study, we showed that evodiamine might be a potential therapeutic medicine for HCC by suppressing HIF-1α. In addition, evodiamine could sensitize the anti-HCC effect of vorinostat in HCC cells under hypoxia. Furthermore, evodiamine plus vorinostat accelerated the degradation of HIF-1α in HCC cells under hypoxia. In general, evodiamine might be a potential therapeutic candidate for HCC patients, and evodiamine combining with vorinostat might be an attractive chemotherapy strategy for HCC treatment.
+Apoptosis; Combination; Evodiamine; HIF-1α; Hypoxia; Vorinostat.

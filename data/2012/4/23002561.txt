@@ -1,0 +1,4 @@
+23002561
+2012 Apr
+Objective:To explore the diagnostic value of the measurement of serum Golgi protein 73 (GP73) in the diagnosis of hepatocellular carcinoma (HCC).Methods:Enzyme-linked immunosorbent assay (ELISA) was used to detect the serum GP73 in the 81 cases of HCC, 71 cases of chronic hepatitis or cirrhosis (CH/LC) and 65 cases of healthy blood donors, and to evaluate the sensitivity and specificity in the diagnosis of HCC through the ROC curves.Results:The average levels of serum GP73 in HCC, CH/LC and Normal groups were (152.67 +/- 33.59) ng/ml, (93.15 +/- 20.02) ng/ml and (58.95 +/- 17.29) ng/ml(o) After calculating through the ROC curves, 120 ng/ml was set as the optimal cut-off point, GP73 has a sensitivity of 77.80% and a specificity of 78.00%.Conclusions:GP73 as a serum marker in the diagnosis of HCC had a higher sensitivity than AFP, and the combined detection of GP73 and AFP could improve HCC diagnosis.
+

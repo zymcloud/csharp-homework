@@ -1,0 +1,4 @@
+30310913
+2019 Feb 13
+Squaraine dyes have recently attracted interest as potential second generation photosensitizers for photodynamic therapy. Several cationic aminosquaraine dyes bearing benzoselenazole terminal nuclei were synthezised and their cytotoxic activity was tested against four different human tumor cell lines - breast (MCF-7), non-small cell lung (NCI-H460), cervical (HeLa) and hepatocellular (HepG2) carcinomas - and against a non-tumor porcine liver primary cell line (PLP2), both in the absence of light and under irradiation. All dyes, which displayed strong absorption within the phototherapeutic window, were found to exhibit photodynamic activity and were shown to be, in most cases, more cytotoxic, both in the dark and upon irradiation, than their benzothiazole analogues.
+

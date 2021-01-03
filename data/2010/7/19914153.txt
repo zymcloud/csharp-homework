@@ -1,0 +1,4 @@
+19914153
+2010 Jul
+Background:The role of prognostic variables in the treatment of hepatocellular carcinoma (HCC) by transarterial chemoembolisation (TACE) is controversial.Aims:To evaluate the survival of patients with HCC on cirrhosis treated with TACE and to analyse the prognostic factors affecting survival.Methods:From 1996 to 2006, 580 consecutive patients with HCC in cirrhosis were observed. Of these 194 patients underwent TACE. The primary end-point was survival. Independent predictors of survival were identified using the Cox model.Results:The cumulative 1-year, 3-year, and 5-year survival rates were 96%, 60%, and 41%, respectively. The multivariate analysis showed significant reduction of survival among patients with serum bilirubin values >2mg/dl compared to patients with values Conclusions:TACE was well tolerated and overall survival rate was 41% after 5 years. Complete tumour response and serum bilirubin
+

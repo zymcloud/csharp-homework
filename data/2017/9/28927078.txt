@@ -1,0 +1,4 @@
+28927078
+2017 Sep
+Hepatocellular carcinoma (HCC) is a common type of malignant tumor. The early-diagnosis and treatment options for HCC are limited, which is primarily due to an incomplete understanding of the underlying molecular mechanisms of the disease. Yes-associated protein (YAP) overexpression promotes proliferation and phenotypic transformation of HCC cells. Recently, elucidating the molecular mechanisms of the Hippo/YAP signaling pathway and investigating the interactions between the signaling molecules, as a potential strategy for the treatment of HCC, has become an area of interest. The present review will discuss the role of YAP in HCC pathogenesis, and the significance of YAP in diagnosis, treatment and determining the prognosis.
+Hippo signaling; hepatocellular carcinoma; oncoprotein; targeted treatment; yes-associated protein.

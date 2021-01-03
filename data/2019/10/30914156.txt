@@ -1,0 +1,4 @@
+30914156
+2019 Oct
+Background:Posthepatectomy liver failure (PHLF) is the main limitation to extending liver resection but its pathophysiology is not yet fully understood. The aim of the study was to describe the metabolic adaptations that occur with PHLF.Methods:A retrospective study of 82 patients using nuclear magnetic resonance metabolomics to identify and quantify intra-hepatic metabolites was performed. The metabolite levels were compared using metabolic network analysis ADEMA between fatal PHLF (FLF) and non fatal PHLF and according to PHLF/ACLF grading.Results:Metabolomic profiles were significantly different between patients presenting FLF and non FLF or grade 3 ACLF versus Conclusion:Clinical andbiological severity of ACLF and PHLF correlate with specific metabolic adaptations. Metabolomics can predict fatal liver failure after hepatectomy and underline significant differences in the metabolic patterns of ACLF and PHLF.
+

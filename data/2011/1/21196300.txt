@@ -1,0 +1,4 @@
+21196300
+2011 Jan 1
+Transcatheter Arterial Chemoembolization (TACE) is the first line of treatment in inoperable hepatocellular carcinoma. Magnetic affinity beads can be used to extract peptides from un-fractionated serum samples. Matrix-assisted laser desorption/ionization time-of-flight mass spectrometry (MALDI-TOF-MS) can detect the presence and the molecular mass of peptides. In this study, we used a highly optimized ClinProt-matrix-assisted laser desorption/ionization time-of flight mass spectrometer (MALDI-TOF-MS) to screen hepatocellular carcinoma markers for TACE. 40 sera from 20 patients, including before and after TACE to explore those biomarkers, might be related with therapy efficiency, and some of the patients who received another therapy were analyzed as well. The spectra were analyzed statistically using FlexAnalysis™ and Clin-Prot™ bioinformatic software. The seven most significant differential peaks (p
+

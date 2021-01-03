@@ -1,0 +1,4 @@
+27652310
+2015 Sep 1
+Deciphering genomic diversity could improve clinical care for patients with hepatocellular carcinoma. Recently, our study group identified 161 putative driver genes and 2 new mutational signatures, and demonstrated that 28% of patients harbor targetable alterations. This could be the first promising step in the development of genome-based clinical trials.
+ARID1A (AT rich interactive domain 1A); AXIN1 (axin 1); Aflatoxin B1; CTNNB1 (catenin ?); TERT (telomerase reverse transcriptase); TP53 (tumor protein p53); cancer driver genes; disease stage; exome sequencing; genome-based clinical trials; genomics; hepatocellular carcinoma (HCC); mutational signatures; overall survival; risk factors.

@@ -1,0 +1,4 @@
+29209739
+2018 Jan
+Hepatocarcinogenesis is a multi-step process characterized by progressive cellular and molecular dedifferentiation of hepatocytes and culminating in the emergence of hepatocellular carcinoma (HCC). Knowledge of hepatocarcinogenesis is important because familiarity with the associated imaging features can lead to improved diagnosis of HCC at its early stages. The article reviews the alterations that accumulate leading to HCC result in abnormal imaging features, many of which are included in LI-RADS v2017 as major and ancillary features.
+CT; Hepatocarcinogenesis; Hepatocellular carcinoma; LI-RADS; Liver; MRI.

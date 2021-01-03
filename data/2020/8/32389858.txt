@@ -1,0 +1,4 @@
+32389858
+2020 Aug
+Although hepatocellular carcinoma (HCC) is a type of carcinoma with high malignancy, high morbidity and low survival rate, its underlying mechanism has not been entirely elucidated. Abnormal lncRNAs involve many diseases such as neurological diseases, tumors, cardiovascular diseases, immune-mediated disorders, and genetic disorders. The abnormal expression of several lncRNAs is involved in HCC. This paper describes the roles of lncRNAs in promoting and maintaining tumor initiation and progression, interactions between lncRNAs and miRNAs, and exosomes associated with lncRNAs in HCC. We introduce their prospective clinical applications as tumor markers for the diagnosis, treatment, prognosis, and recurrence of HCC. This paper will help us better understand how lncRNAs produce their effects on HCC and provide general directions and strategies to conduct further research.
+Exosomes; Hepatocellular carcinoma; Long non-coding RNA.

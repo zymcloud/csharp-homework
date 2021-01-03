@@ -1,0 +1,4 @@
+23567363
+2013 Apr 8
+An asymmetric synthesis of a series of novel 4-methyl-(3'S,4'S)-cis-khellactone derivatives 3a-o is reported for the first time. Their structures were confirmed by 1H-NMR, 13C-NMR and MS. Their cytotoxic activity was evaluated by the MTT assay against three selected human cancer cell lines: HEPG-2 (human liver carcinoma), SGC-7901 (human gastric carcinoma), LS174T (human colon carcinoma). Some compounds showed high inhibitory activity against these human cancer cell lines. Among them, compound 3a exhibited strong cytotoxicity, with IC50 values ranging from 8.51 to 29.65 μM. The results showed that 4-methyl-cis-khellactone derivatives with S,S configuration could be a potential antitumor agents.
+

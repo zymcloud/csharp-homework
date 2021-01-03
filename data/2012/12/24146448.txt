@@ -1,0 +1,4 @@
+24146448
+2012 Dec 31
+In this study, isoegomaketone(IK) was isolated from Perilla frutescens(L.), a Chinese herbal. The effects of IK were examined by cell viability assay, colony formation assay, xenograft tumor assay and western blotting in HCC cells. We found that IK inhibited cell viability, and its administration decreased tumor volume and weight profoundly. The presence of IK(10 nmol/l) produced a dramatic decrease of pAkt, while total Akt level was not affected. The data suggested that IK from perilla suppressed HCC tumor growth via blocking PI3K/Akt signaling pathway.
+HCC; IK; PI3K/AKT; Perilla Frutescens; Tumor Proliferation.

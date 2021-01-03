@@ -1,0 +1,4 @@
+30070392
+2018 Nov
+Multidisciplinary hepatocellular carcinoma (HCC) treatment is associated with optimal outcomes. There are few data analyzing the impact of treating hospitals' therapeutic offerings on survival. We performed a retrospective cohort study of patients aged 18-70 years with HCC in the National Cancer Database (2004-2012). Hospitals were categorized based on the level of treatment offered (Type I-nonsurgical; Type II-ablation; Type III-resection; Type IV-transplant). Associations between overall risk of death and hospital type were evaluated with multivariable Cox shared frailty modeling. Among 50,381 patients, 65% received care in Type IV hospitals, 26% in Type III, 3% in Type II, and 6% in Type I. Overall 5-year survival across modalities was highest at Type IV hospitals (untreated: Type IV-13.1% versus Type I-5.7%, Type II-7.0%, Type III-7.4% [log-rank, P
+

@@ -1,0 +1,4 @@
+20704394
+2010 Aug 15
+A highly sensitive and rapid sandwich enzyme-linked immunosorbent assay (ELISA) procedure was developed for the detection of human fetuin A/AHSG (alpha2-HS-glycoprotein), a specific biomarker for hepatocellular carcinoma and atherosclerosis. Anti-human fetuin A antibody was immobilized on aminopropyltriethoxysilane-mediated amine-functionalized microtiter plates using 1-ethyl-3-[3-dimethylaminopropyl]carbodiimide hydrochloride and N-hydroxysulfosuccinimide-based heterobifunctional cross-linking. The analytical sensitivity of the developed assay was 39 pg/mL, compared to 625 pg/mL for the conventional assay. The generic nature of the developed procedure was demonstrated by performing human fetuin A assays on different polymeric matrixes, i.e., polystyrene, poly(methyl methacrylate), and polycyclo-olefin (Zeonex), in a modified microtiter plate format. Thus, the newly developed procedure has considerable advantages over the existing method.
+

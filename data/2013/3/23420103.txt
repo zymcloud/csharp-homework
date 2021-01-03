@@ -1,0 +1,4 @@
+23420103
+2013 Mar 1
+Liver cancer, particularly hepatocellular carcinoma (HCC), is the third leading cause of cancer death in the world. Bile acids (BAs) are liver-produced amphipathic molecules that are required to facilitate the absorption of cholesterol, fat-soluble vitamins, and lipids in the intestine. However, BAs are also known to act as potential carcinogens and deregulation of BA homeostasis has been linked to HCC formation. Two key BA receptors, farnesoid X receptor (FXR) and G protein-coupled bile acid receptor 1 (TGR5), were recently identified, which provides great insights into BAs' normal physiological functions as well as their carcinogenic effects. In this review, we focus on the potential links among BAs, two BA receptors, and HCC. FXR and TGR5 not only play key roles in regulating BA homeostasis but also are essential in suppressing BAs' carcinogenic effects on liver cancer.
+Bile acids; FXR; Inflammation; Liver cancer; Metabolism; TGR5.

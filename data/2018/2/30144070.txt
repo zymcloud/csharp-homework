@@ -1,0 +1,4 @@
+30144070
+2019 Feb
+The development and progression of hepatocellular carcinoma (HCC) have been associated with abnormal cellular metabolism. Gene Expression Profiling Interactive Analysis RNA sequencing data revealed caveolin-1 (CAV-1) and hexokinase 2 (HK2) messenger RNA (mRNA) were significantly upregulated in human HCC compared with normal tissues, and high HK2 expression was associated with significantly poorer overall survival in HCC ( p
+CAV-1; HCC; HK2; metabolism.

@@ -1,0 +1,4 @@
+26685314
+2016 Jan 1
+Hepatocytes are targeted for infection by a number of major human pathogens, including hepatitis B virus, hepatitis C virus, and malaria. However, hepatocytes are also immunological agents in their own right. In systemic immunity, they are central in the acute-phase response, which floods the circulation with defensive proteins during diverse stresses, including ischemia, physical trauma, and sepsis. Hepatocytes express a variety of innate immune receptors and, when challenged with pathogen- or damage-associated molecular patterns, can deliver cell-autonomous innate immune responses that may result in host defense or in immunopathology. Important human pathogens have evolved mechanisms to subvert these responses. Finally, hepatocytes talk directly to T cells, resulting in a bias toward immune tolerance.
+

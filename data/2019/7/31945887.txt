@@ -1,0 +1,4 @@
+31945887
+2019 Jul
+Recent advancement of omic technologies provides researchers with opportunities to search for disease biomarkers at the systems level. However, selection of biomarker candidates from a large number of molecules involved at various layers of the biological system is challenging. In this paper, we propose multi-omic integrative analysis (MOTA), a network-based method that uses information from multi-omic data to identify candidate disease biomarkers. We evaluated the performance of MOTA in selecting disease-associated molecules from four sets of multi-omic data representing three cohorts of hepatocellular carcinoma (HCC) cases and patients with liver cirrhosis. The results demonstrate that MOTA leads to selection of more biomarker candidates that shared by two different cohorts compared to traditional statistical methods. Also, the networks constructed by MOTA allow users to investigate biological significance of the selected biomarker candidates.
+

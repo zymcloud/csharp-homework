@@ -1,0 +1,4 @@
+29459779
+2018 Feb 19
+Hepatocellular carcinoma with bile duct tumor thrombus (BDTT) is a malignant disease. The most commonly used diagnosis methods for BDTT are MRCP/ERCP, ultrasonic diagnosis or CT scan. However, BDTT is often misdiagnosed as other bile duct diseases, such as extrahepatic cholangiocarcinoma (EHCC), choledochal cyst (Cyst) and common bile duct stone (Stone). Diagnostic methods, which are more accurate and less destructive, are urgently needed. In this paper, we analyzed the small molecule metabolites in the serum of BDTT, Stone, Cyst and EHCC patients and normal people using untargeted GC-MS, and identified 21 metabolites that show different levels among different samples. Using targeted UHPLC-QQQ-MS analysis, we found that several metabolites are significantly changed. ROC curve analysis revealed two metabolites, L-citrulline and D-aspartic acid, as potential biomarkers that can distinguish BDTT from other bile duct diseases.
+

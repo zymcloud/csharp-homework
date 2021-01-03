@@ -1,0 +1,4 @@
+20070404
+2010 Feb
+Aim:Regulatory T (Treg) cells may play a pivotal role in the persistence of hepatitis C virus (HCV) infection and the development of hepatocellular carcinoma (HCC). Therefore, we examined their frequency in peripheral blood from patients with HCV-positive chronic hepatitis (CH), cirrhosis (LC) and HCC.Methods:Treg cells were identified as CD4(+), CD25(+) and FoxP3(+) T lymphocytes using three-color FACS. The frequency of Treg cells was expressed as a percentage of the total CD4(+) T lymphocytes, and the phenotype of Treg cells was examined using CD45RA.Results:Treg cells were significantly increased in CH (5.88 +/- 0.19%, n = 76; P Conclusion:We observed an increase in Treg cells in HCV-related chronic liver disease, particularly in HCC, and these cells were shown to be memory-type Treg cells.
+

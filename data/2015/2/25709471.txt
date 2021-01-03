@@ -1,0 +1,4 @@
+25709471
+2015 Feb 5
+Spontaneous regression of hepatocellular carcinoma (HCC) is a rare event. However, only a few of the causes of cases of HCC spontaneous regression are clear. More cases are ambiguous. We report on a patient who had a spontaneous regression of HCC as detected by histological and immunohistochemical exam, and compared this case to 20 cases of non-specific HCC. In our case, we found that the odd phenomenon is that CD163(+) macrophages are overactivated in surviving HCC, which is spontaneously regressing. Concomitantly, we cannot find a similar phenomenon in peritumoral liver tissue or non-specific HCC. According to our microscopical morphology and immunohistochemical study, we considered that a clue of a possible etiology about HCC spontaneous regression is that CD163(+) macrophages are overactivated.
+CD163; CD68; hepatocellular carcinoma; macrophages; spontaneous regression.

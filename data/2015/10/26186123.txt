@@ -1,0 +1,4 @@
+26186123
+2015 Oct
+Hepatitis B virus (HBV) is a noncytopathic, hepatotropic, double-stranded DNA virus that causes acute and chronic hepatitis. Although HBV does not induce a measurable innate immune response in the infected liver, the outcome of infection is determined by the kinetics, breadth, vigor, trafficking, and effector functions of HBV-specific adaptive T cell responses, and the development of neutralizing antibodies. Dysregulation of one or more of these events leads to persistent HBV infection and a variably severe chronic necroinflammatory liver disease that fosters the development of hepatocellular carcinoma. Deeper understanding of the mechanisms responsible for immunological tolerance to HBV is needed in order to devise immunotherapeutic strategies to cure chronic HBV infection and prevent its life-threatening sequelae.
+

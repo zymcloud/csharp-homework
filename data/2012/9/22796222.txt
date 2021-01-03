@@ -1,0 +1,4 @@
+22796222
+2012 Sep 7
+Cathepsin S (Cat S) plays an important role in tumor invasion and metastasis by its ability to degrade extracellular matrix (ECM). Our previous study suggested there could be a potential association between Cat S and hepatocellular carcinoma (HCC) metastasis. The present study was designed to determine the role of Cat S in HCC cell growth, invasion and angiogenesis, using RNA interference technology. Small interfering RNA (siRNA) sequences for the Cat S gene were synthesized and transfected into human HCC cell line MHCC97-H. The Cat S gene targeted siRNA-mediated knockdown of Cat S expression, leading to potent suppression of MHCC97-H cell proliferation, invasion and angiogenesis. These data suggest that Cat S might be a potential target for HCC therapy.
+

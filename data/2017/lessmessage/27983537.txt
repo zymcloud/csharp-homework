@@ -1,0 +1,4 @@
+27983537
+2017
+miRNA-221 is one of the over 700 kinds of currently known microRNAs (miRNAs) and is up-regulated in multiple tumors, suggesting that it may be a potential carcinogenic miRNA. Few studies have explored the relationship between miRNA-221 and hepatocellular carcinoma (HCC). We performed real-time quantitative polymerase chain reaction (qPCR) to detect miRNA-221 expression in HCC and para-carcinoma tissues and to explore the relationship between abnormal expression of miRNA-221 and clinicopathological features of HCC patients. miRNA-221 expression was significantly higher in HCC tissues than in adjacent tissues (P
+MicroRNA; carcinoma; hepatocellular; prognosis; real-time qPCR.

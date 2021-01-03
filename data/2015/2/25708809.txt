@@ -1,0 +1,4 @@
+25708809
+2015 Feb 28
+Persistent activation of Wnt/β-catenin signaling plays crucial roles in the development of human cancers, including hepatocellular carcinoma (HCC). Here, we performed a MicroRNA-based genetic screen, which revealed a novel diversion in β-catenin signaling triggered by MicroRNA-153 (miR-153). Overexpression of miR-153 was able to promote β-catenin transcriptional activity, leading to cell-cycle progression, proliferation and colony formation of HCC cells. Additionally, systemic administration of miR-153 antigomir suppressed hepatocellular carcinogenesis in a murine liver cancer model. At the molecular level, we found that miR-153 inhibited protein level of WWOX, a tumor suppressor and inhibitor of β-catenin signaling, through targeting its 3'-untranslated region. Therefore, our study highlights the importance of MicroRNA-153/WWOX/β-catenin regulatory axis in the HCC tumorigenesis.
+

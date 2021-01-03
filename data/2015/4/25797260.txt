@@ -1,0 +1,4 @@
+25797260
+2015 Apr 10
+Although microRNA-200a (miR-200a) is frequently downregulated in cancer, its role in side population (SP) has not been investigated. In this study, 101 pairs of primary hepatocellular carcinoma (HCC) tissues and matched normal control tissues were analyzed for miR-200a expression and its clinicopathological value was determined. We found that miR-200a was downregulated in HCC/SP and this was associated metastasis. MiR-200a suppressed metastasis of SP cells. Overexpression of miR-200a in SP cells decreased metastasis-related markers and expression of ZEB2. The associations between miR-200a, SP cells and ZEB2 were validated in HCC. These findings reveal that miR-200a suppresses metastasis of SP cells by downregulating ZEB2.
+hepatocellular carcinoma; metastasis; microRNAs; side population.

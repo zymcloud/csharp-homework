@@ -1,0 +1,4 @@
+26087183
+2015 Sep 8
+Kruppel-like factor 4 (KLF4), a member of the KLF family of transcription factors, has been considered as a crucial tumor suppressor in hepatocellular carcinoma (HCC). Using affinity purifications and mass spectrometry, we identified FBXO22, Cullin1 and SKP1 as interacting proteins of KLF4. We demonstrate that F-box only protein 22 (FBXO22) interacts with and thereby destabilizes KLF4 via polyubiquitination. As a result, FBXO22 could promote HCC cells proliferation both in vitro and in vivo. However, KLF4 deficiency largely blocked the proliferative roles of FBXO22. Importantly, FBXO22 expression was markedly increased in human HCC tissues, which was correlated with down-regulation of KLF4. Therefore, our results suggest that FBXO22 might be a major regulator of HCC development through direct degradation of KLF4.
+FBXO22; Kruppel-like factor 4; hepatocellular carcinoma; ubiquitination.

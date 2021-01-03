@@ -1,0 +1,4 @@
+25509104
+2013
+In the current work we make an attempt to compare cancer cells of one origin, but differing in the expression of CEA protein, a clinical marker of metastatic carcinomas, presumably one of the key factors in metastatic activity. We have explored the morphology of cell colonies in vitro, expression patterns of epithelial markers, the ability of these cells to form tumors and metastases in vivo, and evaluated their stem compartment with the aid of a suicidal genetic construct sensitive to the embryonic stem cell marker, Oct4.
+

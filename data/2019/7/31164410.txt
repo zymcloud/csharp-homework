@@ -1,0 +1,4 @@
+31164410
+2019 Jul 5
+In the present study, we investigated the role of lncRNA SAMMSON in hepatocellular carcinoma (HCC). We found that SAMMSON was up-regulated in HCC tissues, and patients with high levels of SAMMSON in HCC tissues had significantly lower overall rate within 5 years after admission. miR-9-3p was down-regulated in HCC tissues and inversely correlated with SAMMSON. SAMMSON expression was not significantly affected by HBV and HCV infections in HCC patients. In HCC cells, SAMMSON overexpression resulted in down-regulated miR-9-3p expression, while miR-9-3p overexpression caused no significant changes in expression levels of SAMMSON. SAMMSON overexpression led to increased, while miR-9-3p overexpression resulted in decreased migration and invasion rates of HCC cells. Therefore, SAMMSON negatively regulated miR-9-3p in HCC cells to promote cancer cell migration and invasion.
+hepatocellular carcinoma; lncRNA SAMMSON; miR-9-3p; survival.

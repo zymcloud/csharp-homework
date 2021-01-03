@@ -1,0 +1,4 @@
+32379058
+2020 May 6
+Since angiogenesis has an indispensable effect in the development and progression of tumors, in this study we aimed to identify angiogenic genes closely associated with prognosis of HCC to establish diagnostic, prognostic, and recurrence models. We analyzed 132 angiogenic genes and HCC-related RNA sequence data from the TCGA and ICGC databases by Cox and least absolute shrinkage and selection operator (LASSO) regression, and identified four angiogenic genes (ENFA3, EGF, MMP3 and AURKB) to establish prognosis, recurrence and diagnostic models and corresponding nomograms. The prognostic and recurrence models were determined to be independent predictors of prognosis and recurrence (P
+angiogenesis; diagnosis; hepatocellular carcinoma (HCC); prognosis; recurrence.

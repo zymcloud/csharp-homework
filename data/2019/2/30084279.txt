@@ -1,0 +1,4 @@
+30084279
+2019 Feb
+Usnic acid (UA) is a multifunctional bioactive lichen secondary metabolite with potential anti-cancer properties. Although the promising therapeutic effects of UA have been investigated in different cancer cell lines, the mechanism driving UA-induced cell death has yet to be elucidated. As the type of cell death (apoptosis or autophagy) induced by UA may vary depending on the cancer cell type, we first studied the cytotoxic effects of UA in HEPG2 (HBV(-)) and SNU-449(HBV(+)) hepatocellular carcinoma (HCC) cell lines. HCC cell viability was considerably reduced in a dose-dependent manner at 12, 24, and 48 h after treatment with UA ( p
+Hepatocellular carcinoma; apoptosis; autophagy; usnic acid.

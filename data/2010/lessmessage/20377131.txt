@@ -1,0 +1,4 @@
+20377131
+2010
+The present study investigated the in vitro and in vivo growth-inhibitory effects of combination therapy with arsenic trioxide (As2O3) and an adenovirus expressing promyelocytic leukemia protein (Ad-PML). Growth of HepG2 cells in culture was not inhibited by As2O3 at concentrations below 5 micromol/L (p > 0.05). However, growth was inhibited by Ad-PML alone and synergistic growth inhibition was observed following combined treatments (p 0.05), but were undetectable in the Ad-PML alone or Ad-PML plus As2O3 groups. Finally, established HepG2 tumors in nude mice were injected with PBS, Ad-PML, As2O3, or Ad-PML plus As2O3, the tumor volumes were measured by ultrasound, and the therapeutic effects were compared. As2O3 alone had no effect at concentrations below 5 micromol/L (p > 0.05), while Ad-PML alone at a multiplicity of infection of 20 or As2O3 plus Ad-PML significantly decreased tumor volumes (p
+

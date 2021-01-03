@@ -1,0 +1,4 @@
+26056497
+2015 May 19
+Radiofrequency ablation (RFA) is a curative option for hepatocellular carcinoma (HCC), the most common primary malignancy of the liver. This bicentric retrospective study includes 46 patients admitted for their first percutaneous RFA for HCC. Sixty-three nodules were treated, with an average size of 32.5 mm. Our study confirms the efficiency of this technique for attaining necrosis of HCC nodules, with few complications. Subgroup studies according to RFA mode (mono- or multipolar), etiology of cirrhosis (alcoholic or viral), and HCC size showed better efficiency for multipolar RFA when applied to small tumors and better survival when the cirrhosis was due to viral infection. However, we noted a high rate of local recurrence in our and other recent works compared to previous studies, probably due to improved imaging techniques. The main problem is still de novo intrahepatic recurrence in diseased livers.
+HCC; cirrhosis; radiofrequency ablation.

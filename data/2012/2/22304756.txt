@@ -1,0 +1,4 @@
+22304756
+2012 Feb 4
+Naturally occurring native peptides provide important information about physiological states of an organism and its changes in disease conditions but protocols and methods for assessing their abundance are not well-developed. In this paper, we describe a simple procedure for the quantification of non-tryptic peptides in body fluids. The workflow includes an enrichment step followed by two-dimensional fractionation of native peptides and MS/MS data management facilitating the design and validation of LC- MRM MS assays. The added value of the workflow is demonstrated in the development of a triplex LC-MRM MS assay used for quantification of peptides potentially associated with the progression of liver disease to hepatocellular carcinoma.
+

@@ -1,0 +1,4 @@
+26479422
+2016 Feb
+Patients with T1 hepatocellular carcinoma (HCC; 1 lesion 1 cm increase in total tumor diameter over 3 months, included alcoholic liver disease (odds ratio [OR], 6.52; P = 0.02) and Hispanic race (OR, 3.86; P = 0.047), whereas hepatitis B appeared to be protective (OR, 0.09; P = 0.04). By competing risks regression, predictors of exclusion from LT (with or without listing for LT under T2) were alpha-fetoprotein (AFP) ≥ 500 ng/mL (HR, 12.69; 95% confidence interval, 2.8-57.0; P = 0.001) and rapid tumor progression (HR, 5.68; P
+

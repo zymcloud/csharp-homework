@@ -1,0 +1,4 @@
+21630659
+2011 Jul 13
+Thelephora aurantiotincta is an edible mushroom belonging to the genus Thelephora; it grows in symbiosis with pine trees. Recently, phytochemical investigations have revealed that the genus Thelephora is an abundant source of p-terphenyl derivatives. However, their bioactivity has not yet been well characterized. In screening for natural materials with anticancer activity, a T. aurantiotincta ethanol extract (TAE) was found to decrease cell viability in human hepatocellular carcinoma cells (HepG2). In this study, a new p-terphenyl derivative, thelephantin O, and a known compound, vialinin A, were isolated as the principal bioactive components of TAE. These compounds decreased cell viability in HepG2 and human colonic carcinoma cells (Caco2), but not in noncancerous human hepatocytes. This is the first report of the isolation from T. aurantiotincta of selective cytotoxic agents against cancer cells.
+

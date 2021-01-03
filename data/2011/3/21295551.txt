@@ -1,0 +1,4 @@
+21295551
+2011 Mar 4
+Objective:To investigate whether the serum miR-221 expression correlates with clinicopathologic features and the prognosis of hepatocellular carcinoma (HCC) patients.Methods:Four miRNAs (miR-221, miR-222, miR-21 and miR-224) related to HCC were selected in the present study. Serum miRNA expression was investigated in 46 HCC patients and 20 healthy normal controls by using real-time PCR technique, and then correlations between miR-221 expression and the clinicopathological features and prognosis of HCC patients were evaluated.Results:The four miRNAs were found to be differentially overexpressed in HCC serum samples, and high level of miR-221 expression was correlated with tumor size (PConclusions:Serum miR-221, upregulated in HCC, can provide predictive significance for prognosis of HCC patients.
+

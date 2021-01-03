@@ -1,0 +1,4 @@
+31778881
+2020 Feb
+Nine undescribed triterpenoids (jughopenoids A-I), including seven nortriterpenoids and two normal triterpenoids, together with fourteen known analogues, were isolated from the barks of Juglans hopeiensis Hu. The structures of the undescribed triterpenoids were established by integrated spectroscopic analysis and single crystal X-ray diffraction. Jughopenoid A represented an unprecedented lupane-type nortriterpenoid with a five-membered lactone ring A. Selected isolates were tested for their cytotoxic effects against human HT-29 colon carcinoma, human HepG2 hepatocellular carcinoma, and human PC-3 prostate cancer cell lines. Their immunosuppressive activities against ConA-induced T cell proliferation and LPS-induced B cell proliferation were also evaluated.
+Cytotoxicity; Immunosuppression; Juglandaceae; Juglans hopeiensis Hu; Triterpenoids.

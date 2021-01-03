@@ -1,0 +1,4 @@
+27261581
+2016 Jul
+Embryonic develop-associated gene 1 (EDAG-1), a hematopoietic tissue-specific protein, is usually highly expressed in the placenta, fetal liver, bone marrow and leukemia cells, but the expression status in normal or solid tumor tissues is rarely reported. In this study, we found that EDAG-1 was up-regulated in thyroid carcinoma tissues and cells. Knockdown of EDAG-1 suppressed proliferation and enhanced cisplatin-induced apoptosis of thyroid carcinoma cells. We also demonstrated that knockdown of EDAG-1 inactivated the phosphatidylinositol-3 kinase (PI3K)/Akt signaling pathway in vitro and in vivo. Moreover, knockdown of EDAG-1 suppressed tumorigenesis of thyroid carcinoma in vivo. Taken together, these results suggest that EDAG-1 regulates the proliferation and apoptosis of thyroid carcinoma via the PI3K/Akt signaling pathway.
+Apoptosis; Embryonic develop-associated gene 1 (EDAG-1); PI3K/Akt pathway; Proliferation; Thyroid carcinoma.

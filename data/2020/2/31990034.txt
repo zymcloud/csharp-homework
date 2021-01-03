@@ -1,0 +1,4 @@
+31990034
+2020 Feb 28
+This report aimed to investigate the carcinogenesis effects of E2F transcription factor 8 (E2F8) in hepatocellular carcinoma (HCC). E2F8 expression level was compared in Gene Expression Omnibus (GEO), The Cancer Genome Atlas (TCGA) and Oncomine. Survival analysis of E2F8 for HCC were conducted in Kaplan-Meier plotter. Correlations of E2F8 and clinico-pathological features were performed in TCGA. Enrichment of interacted and similar genes with E2F8 was evaluated in Gene Set Enrichment Analysis (GSEA) and Metascape. We found that E2F8 was significantly up-regulated in tumor tissues compared with nontumor tissues (all P
+E2F transcription factor 8; E2F8; Hepatocellular carcinoma; disease-free survival; overall survival; recurrence-free survival.

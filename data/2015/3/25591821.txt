@@ -1,0 +1,4 @@
+25591821
+2015 Mar
+In recent years, miR-1246 has been identified as a transcriptional target of p53 in Down syndrome and may provide a new p53-miR-1246-DYRK1A-NFAT pathway in cancer. The present study aimed to explore the role of miR-1246 in the tumorigenesis of human hepatocellular carcinoma (HCC). We found that wild-type p53 regulated the expression of miR-1246 in HCC cell lines, and alteration of miR-1246 modulated cell proliferation, colony formation ability and apoptosis. The nuclear factor I/B (NFIB), an oncogene, was identified as a direct target gene of miR-1246 using a fluorescent reporter assay. Overexpression of NFIB abolished the regulation of cell apoptosis caused by miR-1246 in HepG2 cells. This finding suggests that miR-1246 is regulated by p53 and suppresses the growth of human HCC by targeting NFIB. Here, we propose a new p53-miR-1246-NFIB pathway in HCC.
+

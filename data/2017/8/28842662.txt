@@ -1,0 +1,4 @@
+28842662
+2017 Aug 25
+Aim of this study was to compare low tube voltage computed tomography (80 kV) of the liver using iterative image reconstruction (SAFIRE) with standard computed tomography (120 kV) using filtered back-projection (FBP) for the detection of hepatocellular carcinoma (HCC). 46 patients (43 men) with 93 HCC confirmed by 3 T MRI with Gd-EOB-DPTA, in inconclusive cases combined with contrast-enhanced ultrasound, underwent dual-energy CT. The raw data of the 80 kV tube was reconstructed using the iterative reconstruction algorithm SAFIRE with two strengths (I3 and I5). The virtual 120 kV image data set was reconstructed using FBP. The CT images were reviewed to determine the lesion-to-liver contrast (LLC), the lesion contrast-to-noise ratio (CNR) and the sensitivity. The LLC (57.1/54.3 [I3/I5] vs. 34.9 [FBP]; p ≤ 0.01), CNR (3.67/4.45 [I3/I5] vs. 2.48 [FBP]; p
+

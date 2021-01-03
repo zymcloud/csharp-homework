@@ -1,0 +1,4 @@
+31759968
+2020 Jan 15
+Survivin is a newly identified tumour-associated antigen and has been demonstrated to be an excellent target for immunotherapy in several cancers, but its role in hepatocellular carcinoma treatment is still unknown. In this study, survivin-derived peptide-specific cytotoxic T lymphocytes (CTLs) from peripheral blood mononuclear cells of healthy donors were induced by multiple stimulations with HLA-A2- restricted survivin peptide-pulsed T2 cells. The induced CTLs exhibited specific lysis of T2 cells pulsed with the peptide and HLA-A2+ hepatocellular carcinoma cells expressing survivin, while HLA-A2+ hepatocellular carcinoma cell lines that did not express survivin were not recognized by the CTLs. These results suggest that the survivin peptide epitope could be a potential target of specific immunotherapy for HLA-A2+ patients with hepatocellular carcinoma.
+HLA-A2; Hepatocellular carcinoma; Immunotherapy; Survivin.

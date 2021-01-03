@@ -1,0 +1,4 @@
+22866143
+2011 Sep 1
+The three main complications of hepatitis B virus (HBV) infection are chronic active hepatitis (CAH), liver cirrhosis, and hepatocellular carcinoma (HCC). The aim of this study was to identify differentially expressed serum proteins among the three liver complications in patients with HBV infection. Differentially expressed proteins have been shown to be potential biomarkers for disease diagnosis, prognosis and therapy guidance. Two-dimensional polyacrylamid gel electrophoresis (2DE) combined with liquid chromatography tandem mass spectrometry (LC-MS/MS) was performed on sera from CAH, cirrhosis and HCC patients with HBV infection, as well as those obtained from healthy individuals. Of 54 differentially expressed (≥1.5-fold and p
+

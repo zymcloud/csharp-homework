@@ -1,0 +1,4 @@
+32046285
+2020 Feb 8
+Non-alcoholic fatty liver disease (NAFLD) is a spectrum of liver diseases ranging from simple steatosis to non-alcoholic steatohepatitis, fibrosis, cirrhosis, and/or hepatocellular carcinoma. Due to its increasing prevalence, NAFLD is currently a major public health concern. Although a wide variety of preclinical models have contributed to better understanding the pathophysiology of NAFLD, it is not always obvious which model is best suitable for addressing a specific research question. This review provides insights into currently existing models, mainly focusing on murine models, which is of great importance to aid in the identification of novel therapeutic options for human NAFLD.
+NAFLD; mouse models; multifactorial disease; translational value.

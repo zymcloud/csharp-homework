@@ -1,0 +1,4 @@
+28739738
+2017 Aug
+Aim:To investigate the expression of cyclophilin A (CypA) in human hepatocellular carcinoma (HCC) and explore the effects of CypA on the cell cycle in HCC.Materials and methods:CypA expression was assessed by immunohistochemistry in 48 cases of HCC tissues and paired adjacent tissues. CypA plasmid was transfected into HCC cells and the cell cycle was analyzed.Results:Positivity for CypA was higher in HCC tissues than in adjacent tissues (79.1% vs. 12.5%, p0-G1 phase cells (from 58.10% to 50.64%).Conclusion:CypA is overexpressed in HCC and is associated with TNM stage. CypA also appears to promote the transition of the cell cycle from G1 to S phase.
+CypA; cell cycle; hepatocellular carcinoma.

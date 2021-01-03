@@ -1,0 +1,4 @@
+28887439
+2017 Sep 9
+BACKGROUND Recently, accumulating studies have found that ACSL4 dysregulation is related to a great number of malignant tumors. The purpose of the present study was to explore the relationship between ACSL4 expression level and clinical prognosis of hepatocellular carcinoma (HCC) patients. MATERIAL AND METHODS The Oncomine and TCGA databases were used to predict the expression of ACSL4 mRNA in HCC and its association with HCC prognosis. Further, immunohistochemistry was performed to verify the ACSL4 protein expression in 116 paired HCC and adjacent normal tissues. Kaplan-Meier and cox analysis were performed to validate the correlation between ACSL4 expression and HCC prognosis. RESULTS We first used the Oncomine database to find that ACSL4 mRNA expression level was significantly higher in HCC tissues than that in normal tissues (p all
+

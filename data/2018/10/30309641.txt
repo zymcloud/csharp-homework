@@ -1,0 +1,4 @@
+30309641
+2018 Oct
+Charged particle therapy with proton beam therapy (PBT) and carbon ion radiotherapy (CIRT) has emerged as a promising radiation modality to minimize radiation hepatotoxicity while maintaining high rates of tumor local control. Both PBT and CIRT deposit the majority of their dose at the Bragg peak with little to no exit dose, resulting in superior sparing of normal liver tissue. CIRT has an additional biological advantage of increased relative biological effectiveness, which may allow for increased hypofractionation regimens. Retrospective and prospective studies have demonstrated encouragingly high rates of local control and overall survival and low rates of hepatotoxicity with PBT and CIRT. Ongoing randomized trials will evaluate the value of PBT over photons and other standard liver-directed therapies and future randomized trials are needed to assess the value of CIRT over PBT.
+

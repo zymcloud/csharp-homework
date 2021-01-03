@@ -1,0 +1,4 @@
+26135910
+2015 Aug 7
+Thermal annealing at 400 °C of perylenetetracarboxylic anhydride in low molecular mass PEG gives rise to the formation of well defined nanoobjects of 2.5 nm height and size distribution from 10 to 65 nm (average 40 nm) after purification of the raw mixture with silicagel chromatography. TEM reveals that the flat nanoobjects are constituted of concentric graphenic rings (0.34 nm interlayer distance). The morphology of the nanoparticles resembles onion rings of nanometric dimensions (nanoonion rings C-NOR). C-NOR particles have an excitation dependent emission with λem from 430 to 570 nm and a maximum emission quantum yield of 0.49. C-NOR particles can be internalized into Hep3B human hepatoma cells as determined by confocal fluorescence microscopy and are remarkably biocompatible affecting slightly cell viability according to the MTT test.
+

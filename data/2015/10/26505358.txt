@@ -1,0 +1,4 @@
+26505358
+2015 Oct 5
+We constructed hepatocellular carcinoma (HCC) cells that stably express stathmin with a Ser25 phosphorylation site mutation (stathmin S25A). We used the polymerase chain reaction for site-directed mutagenesis, constructed a stathmin S25A plasmid, and verified the results by restriction enzyme cleavage and sequencing technology. Using the liposome transfection method, stathmin wild-type and S25A HCCLM6 cells were established, which were identified by western blotting. The sequencing report of the stathmin S25A plasmid showed that stathmin serine at position 25 had mutated into alanine. Stable cells transfected with stathmin wild-type and S25A plasmids were constructed. Using western blotting, we confirmed that the expression level of stathmin pS25 in the stathmin S25A cells was reduced than that in the stathmin wild-type and HCCLM6 control cells (P
+

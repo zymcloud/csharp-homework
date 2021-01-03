@@ -1,0 +1,4 @@
+25081338
+2014 Dec
+Background:Metabolic reprogramming is a hallmark of cancer, including the alterations of activity and expression in tricarboxylic acid (TCA) cycle key enzymes. However, the significance of single nucleotide polymorphisms (SNPs) in genes encoding these key enzymes has not been investigated in hepatocellular carcinoma (HCC).Methods:In this study, 17 SNPs in seven genes encoding three TCA cycle enzyme families (SDH, FH, and IDH) were genotyped in 492 HCC patients with surgical treatment and their association with overall survival (OS) was analyzed.Results:Five SNPs in four genes were identified to be associated with OS in HCC patients. Among them, rs3935401 in the 3' untranslated region of SDHC exhibited the most significant association (P Conclusions:SNPs in TCA cycle key enzyme genes may serve as potential biomarkers to predict the OS in HCC patients.
+

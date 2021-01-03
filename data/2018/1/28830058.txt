@@ -1,0 +1,4 @@
+28830058
+2018 Jan
+This review focuses on the use of contrast-enhanced ultrasonography (CEUS) with SonoVue (Bracco Imaging) for the diagnosis of focal liver lesions (FLLs), guidance during ablative treatment, and follow-up of liver tumors. Multicenter trials have shown that the performance of CEUS for the characterization of FLLs is similar to that of contrast-enhanced computed tomography or contrast-enhanced magnetic resonance imaging. CEUS with SonoVue has been effectively used for guiding the percutaneous treatment of malignant liver tumors that are invisible or poorly visualized in traditional gray-scale ultrasonography. Postprocedural CEUS may be used to detect and retreat residual viable tissue in the same ablative session. The use of CEUS for the assessment of diffuse liver disease is also discussed.
+Carcinoma, hepatocellular; Contrast-enhanced ultrasound; Liver; Liver metastasis; Liver tumors.

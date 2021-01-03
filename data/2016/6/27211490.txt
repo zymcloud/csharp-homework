@@ -1,0 +1,4 @@
+27211490
+2016 Jun 13
+p62 is a ubiquitin-binding autophagy receptor and signaling protein that accumulates in premalignant liver diseases and most hepatocellular carcinomas (HCCs). Although p62 was proposed to participate in the formation of benign adenomas in autophagy-deficient livers, its role in HCC initiation was not explored. Here we show that p62 is necessary and sufficient for HCC induction in mice and that its high expression in non-tumor human liver predicts rapid HCC recurrence after curative ablation. High p62 expression is needed for activation of NRF2 and mTORC1, induction of c-Myc, and protection of HCC-initiating cells from oxidative stress-induced death.
+

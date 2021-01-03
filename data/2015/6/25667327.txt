@@ -1,0 +1,4 @@
+25667327
+2015 Jun
+The major cell type supporting hepatitis C virus (HCV) infection is the hepatocyte; however, most reports studying viral entry and replication utilize transformed hepatoma cell lines. We demonstrate that HCV pseudoparticles (HCVpp) infect primary hepatocytes with comparable rates to hepatoma cells, demonstrating the limited variability in donor hepatocytes to support HCV receptor-glycoprotein-dependent entry. In contrast, we observed a 2-log range in viral replication between the same donor hepatocytes. We noted that cell proliferation augments pseudoparticle reporter activity and arresting hepatoma cells yields comparable levels of infection to hepatocytes. This study demonstrates comparable rates of HCVpp entry into primary hepatocytes and hepatoma cells, validating the use of transformed cells as a model system to study HCV entry.
+

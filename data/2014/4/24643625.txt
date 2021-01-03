@@ -1,0 +1,4 @@
+24643625
+2014 Apr
+SOX genes play an important role in a number of developmental processes. SOXs have been demonstrated to have potential roles as either tumor suppressors or promoters in various neoplastic tissues depending on the tumor status and type. The aim of this study was to investigate the functional role of SOXs in human cancers. Gene expression changes of SOXs in human hepatocellular carcinoma (HCC) tissues were detected using real-time quantitative reverse transcriptase-polymerase chain reaction (qRT-PCR) analysis and immunohistochemistry and compared with those in non-cancerous hepatic tissues. We found by qRT-PCR analysis and immunohistochemistry that the gene SOX8 was significantly upregulated in HCC. Furthermore, we discovered that SOX8 promoted cancer cell proliferation in vitro and that its expression was correlated with elevated β-catenin levels in HCC, whose function was required for the oncogenic effects of SOX8.
+

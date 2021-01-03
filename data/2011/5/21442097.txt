@@ -1,0 +1,4 @@
+21442097
+2011 May
+A molecular brush based on conjugated polyelectrolyte (CPE) grafted with dense poly(ethylene glycol) (PEG) chains was successfully complexed with an anticancer agent, cisplatin, to form cisplatin-loaded nanoparticles (CPE-PEG-Pt). The obtained nanoparticles have high far-red/near-infrared fluorescence and are able to release the drug in a continuous and slow manner. These nanoparticles have not only been used to visualize HepG2 cancer cells, but also served as an in vivo fluorescent imaging probe that simultaneously tracks the in vivo drug distribution in nude mice upon intravenous administration.
+

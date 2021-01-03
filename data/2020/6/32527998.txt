@@ -1,0 +1,4 @@
+32527998
+2020 Jun 11
+Hepatocellular carcinoma (HCC) is one of the most common malignant tumors and a leading cause of cancer-related death worldwide. We propose a fully automated deep learning model to detect HCC using hepatobiliary phase magnetic resonance images from 549 patients who underwent surgical resection. Our model used a fine-tuned convolutional neural network and achieved 87% sensitivity and 93% specificity for the detection of HCCs with an external validation data set (54 patients). We also confirmed whether the lesion detected by our deep learning model is a true lesion using a class activation map.
+

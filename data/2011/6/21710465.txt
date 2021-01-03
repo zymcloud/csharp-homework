@@ -1,0 +1,4 @@
+21710465
+2011 Jun 14
+Phenols are a large and diverse class of compounds, many of which occur naturally in a variety of food plants; they exhibit a wide range of biological effects, including antibacterial, anti-inflammatory, antiallergic, hepatoprotective, antithrombotic, antiviral, anticarcinogenic, and vasodilatory actions. We examined the genotoxic and clastogenic potential of three phenolic compounds: caffeic, cinnamic and ferulic acids, using the comet and micronucleus assays in vitro. Drug-metabolizing rat hepatoma tissue cells (HTCs) were used. Three different concentrations (50, 500 and 1500 μM) of these phenolic acids were tested on the HTCs for 24 h. The caffeic, cinnamic and ferulic acids were not genotoxic by the comet assay (P > 0.05). However, the micronucleus test showed an increase in the frequency of micronucleated cells for the three compounds, indicating that these substances have clastogenic effects in HTC.
+

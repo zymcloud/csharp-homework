@@ -1,0 +1,4 @@
+32430177
+2020 Jun 30
+The current phase I/II clinical trial for human glycogen storage disease type-Ia (GSD-Ia) (NCT03517085) uses a recombinant adeno-associated virus (rAAV) vector expressing a codon-optimized human glucose-6-phosphatase-α (G6Pase-α or G6PC). DNA sequence changes introduced by codon-optimization can negatively impact gene expression. We therefore generated a novel variant in which a single amino acid change, S298C, is introduced into the native human G6PC sequence. Short term gene transfer study in G6pc-/- mice showed that the rAAV-G6PC-S298C vector is 3-fold more efficacious than the native rAAV-G6PC vector. We have shown previously that restoring 3% of normal hepatic G6Pase-α activity in G6pc-/- mice prevents hepatocellular adenoma/carcinoma (HCA/HCC) development and that mice harboring
+Autophagy impairment; Clinical translation; Glucose-6-phosphatase-α variant; Recombinant adeno-associated virus vector.

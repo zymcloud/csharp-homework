@@ -1,0 +1,4 @@
+26484163
+2015 Jan 15
+Chronic Trichloroethylene (TCE) exposure could induce hepatocellular carcinoma in mice, and occupational exposure in humans was suggested to be associated with liver cancer. To understand the role of non-genotoxic mechanism(s) for TCE action, we examined the gene expression and DNA methylation changes in the liver of B6C3F1 mice orally administered with TCE for 5 days. As a beginning step, we profiled gene expression alterations induced by the TCE in mouse livers. Here we describe in detail the experimental methods, quality controls, and other information associated with our data deposited into Gene Expression Omnibus (GEO) under GSE58819. Our data provide useful information for gene expression responses to TCE in mouse liver.
+Liver; Mouse; Trichloroethylene; Tumor; mRNA.

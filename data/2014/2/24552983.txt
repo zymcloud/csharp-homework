@@ -1,0 +1,4 @@
+24552983
+2014 Feb 18
+Phytochemical investigation of the n-BuOH extract of the rhizomes of Anemone rivularis var. flore-minore led to the isolation of five new oleanane-type triterpenoid saponins 1-5, together with five known saponins 6-10. Their structures were determined by the extensive use of 1D and 2D NMR experiments, along with ESIMS analyses and acid hydrolysis. The aglycone of 4 and 5 was determined as 21α-hydroxyoleanolic acid, which was reported in this genus for the first time. The cytotoxicity of these compounds was evaluated against four human cancer cell line, including HL-60 (promyelocytic leukemia), HepG2 (hepatocellular carcinoma), A549 (lung carcinoma) and HeLa (cervical carcinoma). The monodesmosidic saponins 6-8 exhibited cytotoxic activity toward all tested cancer cell lines, with IC50 values in the 7.25-22.38 μM range.
+

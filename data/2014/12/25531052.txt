@@ -1,0 +1,4 @@
+25531052
+2014 Dec
+V-crk avian sarcoma virus CT10 oncogene homolog-like (CRKL) is a member of CRK family. It acts as an adaptor protein in intracellular signal transduction. CRKL has been reported overexpressed in a variety of cancers affecting the aggressive and malignant behaviors of cancer cells. CRKL seems to show a tumor-promotion role in gastric cancer, glioblastoma multiforme, hepatocellular carcinoma, bladder cancer, lung cancer, colon cancer, ovarian cancer, leukemia, breast cancer, head and neck cancer, rhabdomyosarcoma and neuroblastoma. The association of CRKL with malignant tumors and its potential action mechanisms were summarized. CRKL has the potential to be used as a biomarker for the diagnosis, treatment and prognosis of certain tumors.
+CRKL; biomarker; cancer; invasion; metastasis.

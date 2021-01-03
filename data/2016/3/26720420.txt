@@ -1,0 +1,4 @@
+26720420
+2016 Mar 16
+Transcription factor FOXC1 has been implicated to play a critical role in hepatocellular carcinoma (HCC) progression, but targeting FOXC1 for therapeutic benefit remains a challenge owing to its location inside the cell nucleus. Herein we report successful therapeutic gene knockdown of transcription factor FOXC1 in liver cancer cells through efficient delivery of siFOXC1 using novel carotenoid functionalized dendritic nanoparticles (CDN). This delivery system also displayed a markedly reduced toxicity profile compared to a standard siRNA transfection agent. We were able to achieve ∼90% FOXC1 knockdown using the CDN-siFOXC1 complex. Additionally, it was found to have ∼18% greater delivery efficiency compared to treatments with particles which have no carotenoid tagging, thereby emphasizing the role of carotenoid mediated cell internalization in the efficient delivery of CDN-siFOXC1 complex in liver cancer cells.
+

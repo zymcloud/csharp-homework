@@ -1,0 +1,4 @@
+26896708
+2016 Apr 13
+A series of flavone-7-phosphoramidate derivatives were synthesized and tested for their antiproliferative activity in vitro against human hepatoma cell line HepG2 and human normal hepatic cell line L-O2. Compound 8d, 16d and 17d, incorporating the amino acid alanine, exhibited high inhibitory activity on HepG2 cell line with IC50 values of 9.0 μmol/L, 5.5 μmol/L and 6.6 μmol/L. The introduction of acyl groups played a pivotal role in the selective inhibition toward human hepatoma HepG2 cells, except for compound 8a, 9a and 16b. Compound 8d, 16d and 17d could significantly induce G2/M arrest in HepG2 cells. Specially, Compound 16d could lead early apoptosis in HepG2 cells.
+Apoptosis; Flavone; G2/M arrest; HepG2; Phosphoramidate.

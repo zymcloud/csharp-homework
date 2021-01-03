@@ -1,0 +1,4 @@
+23737831
+2013
+Arginine is a semiessential amino acid required for the growth of melanoma and hepatocellular carcinoma, and the enzymatic removal of arginine by pegylated arginine deiminase (ADI) or arginase is being tested clinically. Here, we report a genetically engineered arginase FC fusion protein exhibiting a prolonged half-life and enhanced efficacy. The use of this enzyme to treat different tumor lines both inhibited cell proliferation and impaired cellular migration in vitro and in vivo. Our data reinforce the hypothesis that nutritional depletion is a key strategy for cancer treatment.
+

@@ -1,0 +1,4 @@
+28667286
+2017 Jun 30
+ABO blood types are associated with the prognosis of several malignancies. However, the role of the ABO blood type in hepatocellular carcinoma (HCC) remains elusive. Here, we evaluated the prognostic role of the ABO blood group in 691 HCC patients after hepatectomy by Cox regression analysis. A prognostic nomogram was generated to predict the 3 and 5-year overall survival (OS). A total of 262 HCC patients (37.9%) had blood group O, 199 (28.8%) had blood group A, 165 (23.9%) had blood group B, and 65 (9.4%) had blood group AB. The median OS was 55 months in patients with blood group O, 39 months for blood group A, 34 months for blood group B, and 34 months for blood group AB patients (P = 0.001, log-rank test). There were significant differences in OS between patients with blood groups O and A [hazard ratio (HR) = 1.416; 95% CI, 1.101-1.820; P = 0.007], blood group B (HR = 1.736; 95% CI, 1.333-2.262; P
+

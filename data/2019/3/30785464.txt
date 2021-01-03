@@ -1,0 +1,4 @@
+30785464
+2019 Mar 7
+Efficient access to evodiamine and its analogues is presented via Lewis acid catalysis. In this reaction, three chemical bonds and two heterocyclic-fused rings are constructed in one step. The reaction shows good functional group tolerance and atom economy, and various heteroatom-containing evodiamine analogues are obtained in moderate to excellent yields even on a gram scale. An anti-tumor study in vitro demonstrates compound 2b possesses potent efficacy against hepatoma cell line (IC50 = 5.7 μM).
+

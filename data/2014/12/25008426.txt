@@ -1,0 +1,4 @@
+25008426
+2014 Dec
+Background/aim:Liver transplantation is a well-recognized treatment for non-resectable hepatocellular carcinoma (HCC); however, the overall survival and waiting list removal rates for hepatitis C virus (HCV)-related HCC have not been assessed.Methods:The present study included 11,146 patients with HCC and 64,788 patients without HCC, listed for liver transplantation on the Scientific Registry of Transplant Recipients database between 2003 and 2010.Results:In a multivariate analysis, HCV infection was an independent predictor of being transplanted or remaining on the waiting list in HCC candidates (HR 0.65, 95% CI 0.60-0.71, p Conclusions:HCC candidates with HCV infection are more likely to be transplanted, remain on the waiting list for longer, and have worse post-transplant survival. Patients in the advanced status but without HCV also could share a similar post-transplant survival to those not in the advanced status but with HCV.
+

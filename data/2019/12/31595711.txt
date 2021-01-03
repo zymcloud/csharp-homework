@@ -1,0 +1,4 @@
+31595711
+2019 Dec
+Circular RNAs (circRNAs) have been increasingly revealed to be desirable biomarkers for some tumors, including hepatocellular carcinoma (HCC). Combined with our previous microarray screening results, we aimed to determine the hsa_circ_0028502 and hsa_circ_0076251 expression features in HCC, analyze the relationship between their expression level and clinical and pathological characteristics, and investigate their diagnostic and prognostic values. Our data demonstrated that the hsa_circ_0028502 and hsa_circ_0076251 levels were considerably lower in HCC tissues than in adjacent paracancerous tissues (P
+biomarkers; has_circ_0028502; has_circ_0076251; hepatocellular carcinoma.

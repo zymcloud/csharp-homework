@@ -1,0 +1,4 @@
+32257970
+2020 Mar 19
+Advances in Next-Generation Sequencing (NGS) technology have led to a rapid expansion in the application of "precision medicine," attempting to personalize therapies and improve outcomes for cancer patients. While these technologies carry great promise, evidence for translation to patient outcomes is lacking. This is especially true in hepatocellular carcinoma (HCC), where multiple factors have hampered efforts to develop effective targeted therapies. We sought to review how application of NGS in HCC has translated to patient outcomes and what barriers stand in the way of further progress.
+hepatocellular carcinoma; next generation sequencing; precision medicine; sequencing.

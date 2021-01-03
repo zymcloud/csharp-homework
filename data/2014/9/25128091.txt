@@ -1,0 +1,4 @@
+25128091
+2014 Sep
+Hepatitis, cirrhosis and hepatocellular carcinoma caused by hepatitis B virus (HBV) infection has threatening human health seriously. As HBV is a kind of non-cytotoxic virus, host immune response plays a vital role in pathogenesis and clinical outcomes of hepatitis B. Multiple immune cells (e.g., including cytotoxic T lymphocytes, regulatory T cells, natural killer cells, dendritic cells) are important in the immune regulation of HBV infection. Therefore, focusing on the activation states of immune cells may provide new evidences and strategies for determining immune status of HBV infectors, monitoring progression of diseases and predicting efficacy of antiviral treatment.
+Cellular immune response; Clinical implications; Hepatitis B.

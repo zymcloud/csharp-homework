@@ -1,0 +1,4 @@
+26530325
+2016 Jan
+microRNA(miR)-148b has been found to be downregulated in various human malignancies, including hepatocellular carcinoma (HCC) as well as gastric, pancreatic, colon and oral cancer. However, the function of miR‑148b in HCC has remained elusive. The present study examined the effects of miR‑148b on the proliferation, migration and invasion of HCC cells in vitro. After transfection of the HepG2 and SMMC‑7721 HCC cell lines with miR‑148b, an MTT assay, a Transwell migration and invasion assay as well as western blot analysis were performed. miR-148b was shown to inhibit cell proliferation, migration and invasion in the two cell lines. Using a luciferase reporter assay, the present study also provided the first evidence that miR‑148b directly targets Rho‑associated protein kinase 1 in HCC. These results suggested that miR-148 may represent a novel molecular marker and a potential molecular therapeutic for inhibiting metastasis of HCC.
+

@@ -1,0 +1,4 @@
+23140350
+2012 Dec 7
+Measuring and evaluating diagnostic efficiency is important in biomarker discovery and validation. The receiver operating characteristic (ROC) curve is a graphical plot for assessing the performance of a classifier or predictor that can be used to test the sensitivity and specificity of diagnostic biomarkers. In this study, we describe PanelComposer, a Web-based software tool that uses statistical results from proteomic expression data and validates biomarker candidates based on ROC curves and the area under the ROC curve (AUC) values using a logistic regression model and provides an ordered list that includes ROC graphs and AUC values for proteins (individually or in combination). This tool allows users to easily compare and assess the effectiveness and diagnostic efficiency of single or multiprotein biomarker candidates. PanelComposer is available publicly at http://panelcomposer.proteomix.org/ and is compatible with major Web browsers.
+

@@ -1,0 +1,4 @@
+21188534
+2011 Nov
+Osteopontin (OPN) plays an important role in metastasis and relapse of human cancer. However, the whole story of OPN relating to cancer has been far from clear untill now. To investigate the expression of OPN in hepatocellular carcinoma (HCC) and its relationships with recurrence and metastasis of HCC, normal and malignant liver tissues from patients with HCC were analyzed using immunohistochemical staining. OPN expression was inhibited by small interfering RNA (siRNA) in HCC cells lines, and then colony formation and matrigel invasion were examined. The results showed that expression of OPN was associated with metastasis of HCC with a positive rate of OPN in the tissue of HCC (70.00%), which was highly more obvious than those in paracarcinoma tissue and normal liver tissue (P
+

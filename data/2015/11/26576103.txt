@@ -1,0 +1,4 @@
+26576103
+2015 Nov 14
+Liver cancer is a common malignancy and surgery is the main treatment strategy. However, the prognosis is still poor because of high frequencies of postoperative recurrence and metastasis. In recent years, cancer stem cell (CSC) theory has evolved with the concept of stem cells, and has been applied to oncological research. According to cancer stem cell theory, liver cancer can be radically cured only by eradication of liver cancer stem cells (LCSCs). This notion has lead to the isolation and identification of LCSCs, which has become a highly researched area. Analysis of LCSC markers is considered to be the primary method for identification of LCSCs. Here, we provide an overview of the current research progress and prospects of surface markers for LCSCs.
+CD90; Epithelial cell adhesion molecule; Hepatocellular carcinoma; Liver cancer stem cells; Surface markers.

@@ -1,0 +1,4 @@
+26035694
+2015 Sep
+Hepatocellular carcinoma (HCC) is one of the most common tumor types, and is the third leading cause of cancer mortalities worldwide. A large number of patients with HCC are diagnosed at a late stage when the curative treatment of surgical resection and liver transplantation are no longer applicable. Sorafenib has been proved to improve overall survival in advanced HCC; however, drug resistance is common. The present study reported that the CSN5 is correlated with sorafenib resistance of the HCC cell line HepG2/S. Following silencing of CSN5, resistance to sorafenib was reversed, and multi-drug‑resistance proteins, including as adenosine triphosphate binding cassette (ABC)B1, ABCC2 and ABCG2 as well as CDK6, cyclin D1 and B‑cell lymphoma 2 were downregulated. In addition, it was demonstrated that the integrin beta-1, transforming growth factor‑β1 and nuclear factor‑κB pathways were modified by CSN5.
+

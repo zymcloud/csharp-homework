@@ -1,0 +1,4 @@
+26561802
+2015 Nov 6
+Autophagy is a catabolic process involved in cellular homeostasis under basal and stressed conditions. Autophagy is crucial for normal liver physiology and the pathogenesis of liver diseases. During the last decade, the function of autophagy in hepatocellular carcinoma (HCC) has been evaluated extensively. Currently, autophagy is thought to play a dual role in HCC, i.e., autophagy is involved in tumorigenesis and tumor suppression. Recent investigations of autophagy have suggested that autophagy biomarkers can facilitate HCC prognosis and the establishment of therapeutic approaches. In this review, we briefly summarize the current understanding of autophagy and discuss recent evidence for its role in HCC.
+autophagy; hepatocellular carcinoma; prognosis; therapy; tumor suppression; tumorigenesis.

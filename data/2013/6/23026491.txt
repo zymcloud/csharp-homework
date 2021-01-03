@@ -1,0 +1,4 @@
+23026491
+2013 Jun
+Promoter analysis of the family of suppressors of cytokine signaling (SOCS) revealed that the human SOCS3 gene contains four binding sites for the metal regulatory transcription factor 1 (MTF-1) located within 1600 bp relative to the transcription start site. A series of experiments were carried out with human hepatoma cells (HepG2) and C57BL/6 mice to examine the effect of zinc on the regulation of SOCS3. In addition, we tested the role of MTF-1 in the regulation of SOCS3 expression using EMSA, chromatin immunoprecipitation assay and siRNA. Lastly, the role of the zinc transporter SLC39A14 on the basal expression of SOCS3 was evaluated. Results indicate that SOCS3 expression is regulated by zinc through an MTF-1-dependent mechanism. In addition, results from siRNA experiments suggest that SLC39A14 is required for basal expression of SOCS3. Further studies are needed to determine whether zinc status affects SOCS3 function.
+

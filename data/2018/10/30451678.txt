@@ -1,0 +1,4 @@
+30451678
+2018 Oct
+Hepatitis delta virus (HDV) is a mammalian defective virus. Its genome is a small single-stranded circular RNA of approximately 1,680 nucleotides. To spread, HDV relies on hepatitis B virus envelope proteins that are needed for viral particle assembly and egress. Severe clinical features of HBV-HDV infection include acute fulminant hepatitis and chronic liver fibrosis leading to cirrhosis and hepatocellular carcinoma. One uniqueness of HDV relies on its genome similarity to viroids, small plant infectious uncoated RNAs. Devoid of viral replicase activity, HDV has to use host DNA-dependant RNA Pol II to replicate its genomic RNA. Thus, one can ask how does this replication occur? We describe first here the major steps of the viral RNA transcription and replication and then we detail the role of the Small HD protein in these processes, especially with regard to the Pol II recruitment.
+

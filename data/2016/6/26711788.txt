@@ -1,0 +1,4 @@
+26711788
+2016 Jun
+Sorafenib is a multikinase inhibitor for the treatment of hepatocellular carcinoma. However, most patients who initially respond to sorafenib become refractory. In a previous study, we demonstrated that sphere-forming cells derived from liver cancer cell lines possess the properties of liver cancer stem cells (LCSCs). In the present study, we found that successive passages of LCSCs were more resistant to sorafenib, and LCSCs treated with sorafenib showed an increase in spheroid formation with a lower inhibition rate. MK2206, but not various other inhibitors of cell signaling pathways, enhanced their sensitivity to sorafenib, increased the apoptotic rate, and suppressed the growth of LCSC xenografts in vivo (P
+Hepatocellular carcinoma; Liver cancer stem cells; MK2206; Sorafenib.

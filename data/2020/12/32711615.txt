@@ -1,0 +1,4 @@
+32711615
+2020 Dec 1
+In this study, we aim to investigate the effects of nano-cerium oxide (CNPs) on the proliferation of hepatoma cells and expression of the Bcl-2 and Bax mRNAs. Huh7, 7721 and HepG2 liver cancer cells were cultured in vitro and treated with CNPs at concentrations of 0.005, 0.01, 0.05, 0.1, and 1 μg/mL. The effect of the CNPs on the proliferation of hepatoma cells were detected by an electrochemical method. The expressions of the Bcl-2 and Bax mRNAs were evaluated by qRT-PCR. Additionally, the effect of CNPs on the cell cycle was investigated by flow cytometry. Low concentrations of CNPs have a proliferative effect on hepatoma cells. qRT-PCR showed that CNPs could inhibit the apoptosis of hepatoma cells. Flow cytometry showed that CNPs had no effect on the hepatocellular carcinoma cell cycle. Low concentrations of CNPs have a proliferative effect on hepatoma cells.
+

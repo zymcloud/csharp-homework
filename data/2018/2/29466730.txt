@@ -1,0 +1,4 @@
+29466730
+2018 Feb 20
+The diversity and complexity of the cancer transcriptome may contain transcripts unique to the tumor environment. Here, we report a LIN28B variant, LIN28B-TST, which is specifically expressed in hepatocellular carcinoma (HCC) and many other cancer types. Expression of LIN28B-TST is associated with significantly poor prognosis in HCC patients. LIN28B-TST initiates from a de novo alternative transcription initiation site that harbors a strong promoter regulated by NFYA but not c-Myc. Demethylation of the LIN28B-TST promoter might be a prerequisite for its transcription and transcriptional regulation. LIN28B-TST encodes a protein isoform with additional N-terminal amino acids and is critical for cancer cell proliferation and tumorigenesis. Our findings reveal a mechanism of LIN28B activation in cancer and the potential utility of LIN28B-TST for clinical purposes.
+LIN28B; oncogene; tumor-specific transcript.

@@ -1,0 +1,4 @@
+19818845
+2010 Apr
+HDAC1 is a member of the class I of histone deacetylases that also includes HDAC2, -3 and -8. Although HDAC1 has been mostly studied in the context of cancer, recent evidence strongly suggests that it plays critical roles in cellular senescence, aging of the liver, myelination, and adult neurogenesis. Here we review such roles and discuss the entangled relationships between HDAC1 with histone acetyltransferases and other HDACs including SIRT1.
+

@@ -1,0 +1,4 @@
+33213159
+Fall 2020
+The imaging modality choice depends on the clinical question in hepatocellular carcinoma (HCC); when HCC is suspected, then ultrasound serves as imaging at the first line, followed by computed tomography. When specialized differential dia-gnosis or bio-logical behaviour of HCC is a clinical issue, magnetic resonance imaging with a use of hepatospecific contrast agent or hybrid imaging using positron emission tomography and computed tomography or positron emission tomography and magnetic resonance imaging with the application of 18F-fluorodeoxglucose or 18F-fluorocholine are exploited. In the therapy of HCC, it is possible to use locally destructive methods of interventional radiology, especially radiofrequency ablation or transarterial chemoembolization, or radioembolization, as the case may be.
+computed tomography; hepatocellular carcinoma; hybrid imaging methods; magnetic resonance imaging; positron emission tomography.

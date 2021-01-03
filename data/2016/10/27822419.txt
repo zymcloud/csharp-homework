@@ -1,0 +1,4 @@
+27822419
+2016 Oct 1
+Studies have found that colorectal neoplasia differentially expressed (CRNDE) is related to cancer development. Herein, we found that the expression of CRNDE was increased in human hepatic carcinoma (HCC) tissues and cell lines. The ROC curve analysis illustrated CRNDE has a significant diagnostic value for HCC. At the same time, CRNDE promotes HCC cell proliferation, migration, and invasion in vitro. Quantitative real-time polymerase chain reaction (PCR) demonstrated that miR-384 was significantly downregulated in HCC tissues. Moreover, we indicated CRNDE negatively regulated miR-384 expression in HCC. In addition, we found that CRNDE accelerated the expression levels of NF-κB and p-AKT though inhibition of miR-384. Overall, these results suggested that CRNDE-miR-384 axis might be a promising therapeutic target for the treatment of HCC.
+hepatocellular carcinoma; lncRNA-CRNDE; miR-384; migration and invasion.

@@ -1,0 +1,4 @@
+25613642
+2015
+Background/aims:Our previous study has demonstrated that down-regulation of miR-376a might contribute to the development of hepatocellular carcinoma (HCC), but the mechanism underlying this down-regulation remains obscure.Methods/results:histone deacetylase (HDAC) inhibitor increased the level of miR-376a in L02 and Huh7 cells by up-regulating the acetylation level of histone 3 at the Maternally expressed 3 (Meg3) differentially methylated region (DMR). Interestingly, HDAC9, a histone deacetylase responsible for deacetylating lysine 18 of histone 3 (H3K18), was identified as the target of miR-376a. In addition, HDAC9 siRNA increased the expression of miR-376a by up-regulating the global histone H3K18 acetylation level, with Meg3 DMR included. Finally, miR-376a and HDAC9 were inversely correlated in HCC.Conclusion:HDAC9 plays an important role both as effects and targets of miR-376a.
+

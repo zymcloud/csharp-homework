@@ -1,0 +1,4 @@
+32120157
+2020 Jun
+Hepatocellular carcinoma (HCC), as the major primary liver cancer, is one of the most prevalent malignant diseases with a high mortality rate worldwide. Prior studies have demonstrated that dihydroartemisinin (DHA), the semisynthetic derivative of artemisinin, possesses anti-HCC activity. The multikinase inhibitor sorafenib has been approved for the treatment of HCC. However, the anti-HCC efficacy of DHA combined with sorafenib has not been reported. In this study, we confirmed the significantly enhanced anti-HCC efficacy of DHA in combination with sorafenib compared with that of each agent alone. Tandem Mass Tag (TMT) peptide labeling coupled with LC-MS/MS was used to quantify the proteins from the control, DHA, sorafenib, and DHA + sorafenib groups. In total, 532, 426, 628 differentially expressed proteins (fold change >1.20 or
+Dihydroartemisinin; Hepatocellular carcinoma; Proteomics; Sorafenib; TMT.

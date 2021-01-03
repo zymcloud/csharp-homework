@@ -1,0 +1,4 @@
+25941604
+2014 Dec 13
+Immunotherapy is a promising treatment option for patients with hepatocellular carcinoma (HCC). Indeed, CD8+ T-cell responses against various tumor antigens occur in these patients. However, these antitumoral T cells show a severely impaired effector function. Several immunosuppressive mechanisms contribute to this T-cell failure, including regulatory T cells and inhibitory receptors.
+AFP, α-fetoprotein; CD8+ T cells; HCC, hepatocellular carcinoma; HLA, human leukocyte antigen; IFNγ, interferon-γ; IL, interleukin; MAGE-A1, melanoma-associated gene-A1; NY-ESO-1, New York-esophageal squamous cell carcinoma-1; PD-1; PD-1, programmed death-1; PD-L1, PD-ligand-1; T-cell failure; TAA, tumor-associated antigen; Treg, regulatory T cells; hepatocellular carcinoma; immunotherapy; melanoma; regulatory T cells; tumor-associated antigens.

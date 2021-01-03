@@ -1,0 +1,4 @@
+23519477
+2013 Apr
+6-Deoxyisojacareubin was directly synthesized in a six-step route with an overall yield of about 20%. In this route, the excellent site selectivity of this Claisen rearrangement-cyclization reaction cascade was achieved by inserting a bulky p-tosyl group into the free 1-OH, and in the last step, some efficient demethylation methods were explored. Furthermore, all synthesized intermediates including 6-deoxyisojacareubin were evaluated for their inhibitory activity against the QGY-7703 cell line. Of these, compound 1 and 6-deoxyisojacareubin showed moderate activities with IC50 values of 39.61 and 9.65 µM, respectively, when compared to the positive control 5-fluorouracil with an IC50 value of 11.24 µM. Further investigation using non-radioactive detection of protein kinase C (PKC) suggested that these two compounds possessed potency in the inhibition of PKC.
+

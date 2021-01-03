@@ -1,0 +1,4 @@
+25477334
+2014 Dec 15
+Abnormalities in the TP53 gene and overexpression of MDM2, a transcriptional target and negative regulator of p53, are commonly observed in cancers. The MDM2-p53 feedback loop plays an important role in tumor progression and thus, increased understanding of the pathway has the potential to improve clinical outcomes for cancer patients. Hepatocellular carcinoma (HCC) has emerged as one of the most commonly diagnosed forms of human cancer; yet, the current treatment for HCC is less effective than those used against other cancers. We review the current studies of the MDM2-p53 pathway in cancer with a focus on HCC and specifically discuss the impact of p53 mutations along with other alterations of the MDM2-p53 feedback loop in HCC. We also discuss the potential diagnostic and prognostic applications of p53 and MDM2 in malignant tumors as well as therapeutic avenues that are being developed to target the MDM2-p53 pathway.
+

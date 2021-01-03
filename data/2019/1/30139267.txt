@@ -1,0 +1,4 @@
+30139267
+2019 Jan
+Aim:To investigate prognostic value of preoperative inflammatory biomarkers in hepatocellular carcinoma (HCC).Patients & methods:Preoperative circulating fibrinogen, prealbumin, fibrinogen to prealbumin ratio (FPR), neutrophil to lymphocyte ratio, derived neutrophil to lymphocyte ratio, lymphocyte to monocyte ratio, platelet to lymphocyte ratio were detected and calculated in 230 HCC patients. X-tile software, Kaplan-Meier curve, Cox regression, time-dependent receiver-operating characteristic were used to explored prognostic roles of them in HCC.Results:Multivariate Cox regression showed that high FPR was significantly associated with decreased recurrence-free survival (p = 0.034) and overall survival (p Conclusion:Preoperative FPR was superior to other biomarkers to independently predict survival of HCC patients, and it could identify the patients who could benefit from adjuvant chemotherapy.
+FPR; HCC; inflammation.

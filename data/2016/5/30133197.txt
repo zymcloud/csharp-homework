@@ -1,0 +1,4 @@
+30133197
+2016 May
+Objective:To investigate the inhibition of cell proliferation by essential oil of Chenopodium ambrosioides on the human liver cancer SMMC-7721 cells and human liver LO2 cells,and to study the mechanism of anti-tumor in vitro.Methods:The inhibition of cell proliferation by essential oil of Chenopodium ambrosioides was determined by MTT assay; the distribution of cell cycle was analyzed by flow cytometry( FCM) with PI staining; cell morphology and apoptosis effect of SMMC-7721 cells were observed by microscope; the apoptotic rate was quantified by FCM with Annexin V / PI double staining.Results:Essential oil of Chenopodium ambrosioides could significantly inhibit the cell proliferation in a concentration-time-dependent manner( P Conclusion:Essential oil of Chenopodium ambrosioides can inhibit SMMC-7721 cell proliferation, which may be related to inducing cell cycle arrest and caspase-dependent apoptosis.
+

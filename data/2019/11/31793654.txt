@@ -1,0 +1,4 @@
+31793654
+2019 Nov
+Hepatitis B virus (HBV) has been revealed to be involved in the development of hepatocellular carcinoma. However, the mechanism remains to be fully elucidated. Smad‑interacting protein 1 (SIP1) is a transcriptional repressor, which serves a pivotal role in cell metastasis. In the present study, the role of SIP1 in HBx‑induced hepatocyte EMT and cancer aggressiveness was examined. It was found that HBV X protein (HBx) increased the expression of SIP1 and recruited it to the promoter of E‑cadherin, resulting in depression of the transcription of E‑cadherin. Histone deacetylase 1 was also found to be involved in the repressive complex formation. Furthermore, in an orthotopic tumor transplantation model in vivo, HBx promoted tumor growth and metastasis, whereas the knockdown of SIP1 attenuated the effect of HBx. These results indicate a novel mechanism for the development of HBV‑related liver cancer.
+

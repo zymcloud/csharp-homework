@@ -1,0 +1,4 @@
+22425745
+2012 Aug 1
+Non-coding RNA (ncRNA), a class of RNAs that do not code protein but have regulatory functions, can regulate gene expression and replication of hepatitis B virus or hepatitis C virus and play an important role in the virus-host interaction and the development of hepatocellular carcinoma (HCC). Deregulated ncRNAs in surgically removed hepatic tissues and circulation can be prognostic and diagnostic markers, respectively. ncRNAs functioning as either tumor suppressors or oncogenes can be therapeutic options. Here, we summarize the deregulated ncRNAs associated with the infections and HCC and focus on their roles on early diagnosis, prognosis prediction and therapeutic option of HCC.
+

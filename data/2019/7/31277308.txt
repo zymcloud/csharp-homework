@@ -1,0 +1,4 @@
+31277308
+2019 Jul 3
+Despite a growing awareness, hepatitis E virus (HEV) remains understudied and investigations have been historically hampered by the absence of efficient cell culture systems. As a result, the pathogenesis of HEV infection and basic steps of the HEV life cycle are poorly understood. Major efforts have recently been made through the development of HEV infectious clones and cellular systems that significantly advanced HEV research. Here, we summarize these systems, discussing their advantages and disadvantages for HEV studies. We further capitalize on the need for HEV-permissive polarized cell models to better recapitulate the entire HEV life cycle and transmission.
+cell culture systems; hepatitis E virus; hepatocyte polarization; stem cells.

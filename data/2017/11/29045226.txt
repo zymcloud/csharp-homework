@@ -1,0 +1,4 @@
+29045226
+2017 Nov
+In an effort to improve the technical success rates and clinical outcomes of radiofrequency (RF) ablation, Yan et al validated the use of a tumor-penetrating peptide and thermosensitive doxorubicin (DOX)-loaded nanoparticles in combination with RF ablation in a hepatocellular carcinoma mouse model. By achieving higher chemotherapeutic drug concentrations in target lesions, fewer toxic effects, and improved survival end points in an animal tumor model, the authors conclude that superior tumor treatment with RF ablation is possible when combined with molecular-targeted drug delivery systems.
+

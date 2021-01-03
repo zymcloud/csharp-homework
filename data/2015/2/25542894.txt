@@ -1,0 +1,4 @@
+25542894
+2015 Feb
+Glypican-3 (GPC3) protein expression was determined by immunohistochemical analysis from 29 normal livers, 80 cirrhotic livers sample taken near hepatocellular carcinoma (HCC), and 87 cirrhotic livers without HCC. The levels for miR-657 and HCC-related gene mRNAs were determined by quantitative real-time polymerase chain reaction (qRT-PCR). Also, a published microarray dataset was used for gene set enrichment analysis (GSEA) to investigate the relationship between GPC3- and HCC-related gene signatures. Kaplan-Meier analysis was used to evaluate the relationship between GPC3 and HCC recurrence. GPC3 protein expression was not detected in any of the 29 (0%) normal livers, but was detected in 32 of 87 (37%) cirrhotic livers without HCC, and 51 of 80 (64%) cirrhotic liver samples taken near HCC sites (P
+

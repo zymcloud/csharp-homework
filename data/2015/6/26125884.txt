@@ -1,0 +1,4 @@
+26125884
+2015 Jun 18
+Epigenetic silencing of the GSTP1 gene by promoter methylation has been associated with increased risk and shortened survival in patients with hepatocellular carcinoma (HCC). We therefore conducted a meta-analysis to obtain a more precise estimate of this association. By searching the Cochrane Library, CBM, EMBASE, PubMed, and the Web of Science, we tabulated and analyzed parameters from each study. Results were summarized by meta-analyses using the version 12.0 STATA software. Odds ratios (ORs) and 95% confidence intervals (95%CIs) were also calculated in this analysis. A total of 14 cohort studies (tumor samples = 607, adjacent samples = 356, benign samples = 182, normal samples = 133) were included for the following statistical analysis. Our meta-analysis results demonstrated that the frequency of GSTP1 methylation in cancer tissues was significantly higher than those in adjacent tissues, benign tissues, and normal tissues (all P
+

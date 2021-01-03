@@ -1,0 +1,4 @@
+21544812
+2012 Apr 1
+In recent years, increasing evidence has suggested a strong association between diabetes mellitus (DM) and hepatocellular carcinoma (HCC). To provide a quantitative assessment of this association, we performed a systematic review and meta-analysis of cohort studies. We collected studies through a literature search of Medline from January 1, 1966 and EMBASE from January 1, 1974, through July 31, 2010. Summary relative risks (SRRs) with their corresponding 95% confidence intervals (CIs) were calculated using a random-effects model. A total of 25 cohort studies that met our inclusion and exclusion criteria were included in our analysis. Among these, 18 studies showed that DM was associated with an increased incidence of HCC (SRRs = 2.01, 95% CI: 1.61-2.51), compared with individuals without DM. There was a statistically significant heterogeneity among these studies (Q = 136.68, p
+

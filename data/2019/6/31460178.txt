@@ -1,0 +1,4 @@
+31460178
+2019 Jun 21
+Ru(II)-metallomacrocycles containing 4-pyridyl-1,2,3-triazole moiety were realized by coordination-driven self-assembly. All new compounds were characterized by electrospray ionisation mass spectrometry, elemental analysis, and 1H and 13C NMR spectroscopic techniques. The molecular structure of metallomacrocycle 8 was determined by single-crystal X-ray crystallography. The anticancer activities of metallomacrocycles 5-8 were evaluated by cytotoxicity, cell cycle analysis, and related protein expression. Metallomacrocycle 7 showed the highest cytotoxicity in HepG2 human hepatocellular carcinoma cells. In addition, apoptotic HepG2 cells were analyzed when metallomacrocycle 7 was treated. Our results suggest that metallomacrocycle 7 induces liver cancer cell death by increasing apoptosis and cell cycle arrest and that it has potential use as an agent for the treatment of human hepatocellular carcinoma.
+

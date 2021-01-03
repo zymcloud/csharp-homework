@@ -1,0 +1,4 @@
+22473516
+2012 May 21
+A series of O(2)-glycosylated diazeniumdiolate-based derivatives of oleanolic acid (4-19) were synthesized and their anti-human hepatocellular carcinoma (HCC) activities were evaluated. Compound 6 selectively inhibited HCC, but not non-tumor liver cell proliferation. This inhibition was attributed to high levels of nitric oxide (NO) released in HCC cells. Importantly, 6 exhibited low acute toxicity (LD(50) = 173.3 mg kg(-1)) and potent inhibition of HCC tumor growth in mice (3 mg kg(-1) iv). Furthermore, 6 induced HCC cell apoptosis, which was accompanied by lower mitochondrial membrane potentials and Bcl2 expression, but with higher cytochrome C release, Bax, caspase 3 and 9 expression activities in HCC cells. Collectively, 6 may be a promising candidate drug for the intervention of HCC.
+

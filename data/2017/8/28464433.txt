@@ -1,0 +1,4 @@
+28464433
+2017 Aug
+In recent years, increasing evidence has shown the potential role of long non-coding RNAs (lncRNAs) in multiple cancers. Deregulation of lncRNAs was detected being closely associated with many kinds of tumours where they can act as a tumour suppressor or accelerator. LINC00152 was identified as an oncogene involved in many kinds of cancers, such as gastric cancer, hepatocellular carcinoma, colon cancer, gallbladder cancer and renal cell carcinoma. Moreover, inhibition of LINC00152 can suppress proliferation, migration and invasion of the cancer cells. Increasing evidence has showed that LINC00152 may act as a diagnostic and prognostic biomarker for the above-mentioned cancers. In our review, we summarize the recent research progress of the expression and role of LINC00152 in various kinds of cancers.
+

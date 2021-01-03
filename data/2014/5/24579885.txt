@@ -1,0 +1,4 @@
+24579885
+2014 May
+Precursor B-acute lymphoblastic leukaemias (pre-B ALLs) comprise the majority of ALLs and virtually all blasts express CD22 in the cytoplasm and on the cell surface. In the present study (Southwestern Oncology Group S0910), we evaluated the addition of epratuzumab, a humanized monoclonal antibody against CD22, to the combination of clofarabine and cytarabine in adults with relapsed/refractory pre-B ALL. The response rate [complete remission and complete remission with incomplete count recovery] was 52%, significantly higher than our previous trial with clofarabine/cytarabine alone, where the response rate was 17%. This result is encouraging and suggests a potential benefit to adding epratuzumab to chemotherapy for ALL; however, a randomized trial will be needed to answer this question.
+CD22; Treatment; acute lymphocytic leukaemia; epratuzumab; relapse.

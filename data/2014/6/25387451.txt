@@ -1,0 +1,4 @@
+25387451
+2015 Jun 1
+This study examined whether glycated hemoglobin A1C (HbA1C) and chronic liver diseases are associated with hepatocellular carcinoma (HCC) risk in Type 2 diabetic patients. A retrospective cohort study consisting of 51,705 patients with Type 2 diabetes aged 30 and over enrolled in the National Diabetes Care Management Program before 2004 was used in Cox proportional hazards models. HbA1C was independently associated with HCC incidence, and multivariate-adjusted hazard ratio (HR) of HCC was 1.20 (95% confidence interval, CI: 1.02-1.41) for patients with a level of HbA1c ≥ 9% compared with patients with a level of HbA1c
+glycated hemoglobin A1C (HbA1C); liver cancer; respective cohort study.

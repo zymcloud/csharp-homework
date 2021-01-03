@@ -1,0 +1,4 @@
+25008315
+2014 Jun 15
+Our previous studies have demonstrated that sorafenib can promote the dissemination of hepatocellular carcinoma (HCC) through downregulation of HTATIP2, a suppressor of tumor growth and metastasis that is associated with inhibition of angiogenesis. Here, we investigated the predictive values of the HTATIP2 level and microvessel density (MVD) with or without sorafenib administration for HCC. Three independent cohorts were included. Using tissue microarray, we assessed the relationship between HTATIP2 expression/MVD and overall survival. The results showed that high HTATIP2 expression and a low MVD value were independent protective prognostic factors after curative HCC resection (297 cases/cohort 1); however, both parameters were converted to independent negative prognostic indicators for patients with postsurgical sorafenib treatment (69/143 cases/cohort 2; P
+

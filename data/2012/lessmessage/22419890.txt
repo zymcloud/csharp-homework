@@ -1,0 +1,4 @@
+22419890
+2012
+Background:To evaluate the promoter methylation status of RECK gene and mRNA expression in patients with hepatocellular carcinoma (HCC).Methods:We analyzed RECK methylation by MSP, and RECK mRNA by real-time PCR in 74 HCC. The liver cell lines (7721, Chang and Hep-G2) were treated with 5-Aza-CdR and TSA.Results:RECK mRNA were lower in HCC tissues (Mean (-∆Ct) = -3.29) than that in Non-Hcc tissues (Mean (-∆Ct) = -2.42). Expression of RECK was elevated in only 24 (32.43%) of the 74 HCC patients but decreased (-∆∆Ct=0.5) (Mean (-∆∆Ct) = -1.75) than those with demethylation (∆MIConclusion:The results suggested that the hypermethylation may lead to promoter silencing of RECK mRNA and associated with poor survival in HCC.
+RECK; hepatocellular carcinoma; methylation..

@@ -1,0 +1,4 @@
+27323017
+2016 May 13
+Hepatocellular carcinoma (HCC) is a complex polygenic disease whose development is dependent on many genetic factors. The let-7 family, an important and widely studied microRNA family, has been shown to play an important role in the initiation and progression of HCC. In this study, we examined the possible associations between single-nucleotide polymorphisms in the promoter region of the let-7 family (rs10877887) and the susceptibility and prognosis of HCC, using a case-control research model. Eighty-nine HCC patients and 95 healthy controls were genotypes by direct sequencing, and the correlation between rs10877887 genotypes and HCC susceptibility was evaluated using an unconditional logistic regression model. Populations with the CT + CC genotype were at a significantly higher risk of HCC compared to those with the TT genotype (CT + CC vs TT: odds ratio = 3.52, 95% confidence interval = 1.90-6.52; P
+

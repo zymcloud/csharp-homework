@@ -1,0 +1,4 @@
+23747881
+2013 Jun 1
+Hepatocellular carcinoma (HCC) is one of the most common and deadly malignant neoplasms worldwide. Chronic hepatitis B virus (HBV) infection is closely associated with the occurrence of HCC. The HBV genome encodes a ubiquitous transactivator, termed the HBV X protein (HBx), that is essential for HBV replication in vivo. HBx is involved in multiple steps of carcinoma development. Even in the preneoplastic stage, HBx acts as a tumor promoter. HBx participates in several mechanisms that have been linked to cell proliferation, including gene transcription, cell cycle regulation, and several signaling pathways. Moreover, HBx mutants, especially those with mutations in the COOH-terminal end, have been implicated in hepatocarcinogenesis. Therefore, therapeutic strategies targeting HBx could be effective at multiple stages of HCC development, even as early as the preneoplastic stage.
+

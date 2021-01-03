@@ -1,0 +1,4 @@
+24740565
+2014 Jul
+Multiple studies have shown that steroid receptor coactivator-3 (SRC-3) is upregulated and promotes cell proliferation in several human cancers, including breast, lung, and prostate carcinoma. However, its molecular determinants remain largely unexplored. In the current study, by way of informatics software, we found that MicroRNA-195 (miR-195) could negatively regulate protein levels of SRC-3 through targeting its 3'-untranslated region (3'-UTR) in hepatocellular carcinoma (HCC) cells. As a result, miR-195 mimics inhibited while its antisense enhanced SRC-3 protein levels. Furthermore, miR-195 could modulate cell proliferation and tumor growth in vivo and in vitro. Therefore, our results demonstrate a novel molecular mechanism for the dysregulated expression of SRC-3 in hepatocellular carcinoma.
+

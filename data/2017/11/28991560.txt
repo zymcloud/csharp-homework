@@ -1,0 +1,4 @@
+28991560
+2017 Nov
+Given the high prevalence, increasing incidence, and significant morbidity and mortality related to hepatocellular carcinoma (HCC), a robust and cost-effective screening and surveillance program is needed. Most societies recommend ultrasound for HCC screening, despite lack of standardization in imaging acquisition, reporting content and language, and follow-up recommendations. The American College of Radiology Ultrasound Liver Imaging Reporting and Data System (US LI-RADS) fills this unmet need by providing standardization in the use of US in at-risk patients. It is anticipated that US LI-RADS will improve the performance of ultrasound for HCC screening and surveillance and unify management recommendations.
+HCC; Hepatocellular carcinoma; Reporting; Screening; Surveillance; Ultrasound.

@@ -1,0 +1,4 @@
+23499235
+2013 Apr 15
+In our previous study, a series of 6-aryl-3-amino-thieno[2,3-b]pyridine derivatives exhibited potent antiproliferative activities and an unique hepatocellular carcinoma (HCC)-specific anticancer activity was also observed. In further anti-inflammatory research, thienopyridine derivative 1a showed potent inhibition of nitric oxide (NO) production. So a series of thienopyridine analogues of 1a were synthesized and evaluated for anti-inflammatory activities. The structure-activity relationships (SARs) revealed that the most potent analogues 1f and 1o were identified as potent inhibitors of NO production with IC50 values of 3.30 and 3.24 μM, respectively. These results suggest that these 6-aryl-3-amino-thieno[2,3-b]pyridine derivatives might potentially constitute a novel class of anti-inflammatory agents, which require further studies.
+

@@ -1,0 +1,4 @@
+24165275
+2014 Jan
+Long non-coding RNAs (lncRNAs) have gained massive attention in recent years as a potentially new and crucial layer of gene regulation. LncRNAs are prevalently transcribed in the genome, but their roles in gene regulation and disease development are largely unknown. HOX antisense intergenic RNA (HOTAIR), a lncRNA located in the HOXC locus, has been shown to repress HOXD gene expression and promote breast cancer metastasis. Mechanistically, HOTAIR interacts with and recruits polycomb repressive complex 2 (PRC2) and regulates chromosome occupancy by EZH2 (a subunit of PRC2), which leads to histone H3 lysine 27 trimethylation of the HOXD locus. Moreover, HOTAIR is pervasively overexpressed in most human cancers compared with noncancerous adjacent tissues. This review summarizes the studies on the HOTAIR lncRNA over the past 6 years.
+HOTAIR; cancer; carcinogenesis; lncRNA; metastasis.

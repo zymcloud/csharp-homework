@@ -1,0 +1,4 @@
+29487894
+2018 Jan 23
+Autophagy is required for benign hepatic tumors to progress into malignant hepatocellular carcinoma. In our recent studies, we found that autophagy, or more specifically mitophagy, was required to suppress TP53 and induce the expression of the transcription factor NANOG to maintain hepatic cancer stem cells and promote hepatocarcinogenesis.
+Autophagy; NANOG; PINK1; cancer stem cells; hepatocarcinogenesis; mitophagy; p53.

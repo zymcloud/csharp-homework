@@ -1,0 +1,4 @@
+23454624
+2013 May 1
+A population based case-control study was designed to explore the genetic risk factors for hepatitis B virus (HBV) related liver disease susceptibility. A total of 424 subjects comprising 210 controls, 50 acute HBV (AVH), 84 chronic HBV (CHBV), 25 HBV related cirrhosis and 55 HBV related hepatocellular carcinoma (HCC) cases were included in the study. PCR-RFLP was used for the genotyping of Cyp2E1*5B, hOGG1 codon 326 and XRCC1 codon 399. Compared to controls, Cyp2E1 rsaI variant c2 genotype increased the risk of HBV related liver disease severity by 2.68 fold, the highest for HCC cases (3.981 folds, p=0.106); and was associated with higher histology activity index (HAI) (p
+

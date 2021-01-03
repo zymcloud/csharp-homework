@@ -1,0 +1,4 @@
+23098489
+2012
+In previous studies we predicted future trends in cancer incidence for each prefecture in order to plan cancer control. Those predictions, however, did not take into account the characteristics of each prefecture. We therefore used the results of age-period-cohort analysis of incidence and mortality data of Osaka, and estimated the incidence and mortality of cancers at all sites and selected sites. The results reflect the characteristics of Osaka, which has and is expected to have large number of patients with liver cancer. We believe our results to be useful for planning and evaluating cancer control activities in Osaka. It would be worthwhile to base the estimation of cancer incidence and mortality in each prefecture on each population-based cancer registry.
+

@@ -1,0 +1,4 @@
+28315334
+2017 Apr 29
+The homeoprotein Bapx1 is an important regulator of gastroduodenal tract morphogenesis. Here, we investigated how Bapx1 influences gastric cancer (GC) prognosis and elucidated the underlying mechanisms. Bapx1 expression was greater in GC tissues compared to adjacent non-tumor tissues and expression was positively correlated with mortality, lymph node and distance metastasis. Silencing Bapx1 diminished cell invasion/migration and decreased mesenchymal phenotypes. Transforming growth factor-β (TGF-β) induced Bapx1 expression and epithelial-mesenchymal transition (EMT) in GC cells. However, down-regulated Bapx1 reversed TGF-β induced invasion, migration, morphological changes, and EMT. In summary, Bapx1 indicates poor prognosis for GC by promoting tumor migration and invasion via TGF-β-induced EMT.
+Bapx1; Epithelial-mesenchymal transition; Gastric cancer; TGF-β.

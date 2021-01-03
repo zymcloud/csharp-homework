@@ -1,0 +1,4 @@
+25978032
+2015 Jul 10
+Transmembrane protein 100 (TMEM100) was activated by ALK1/TGF-β signaling. We found that TMEM100 was decreased in hepatocellular carcinoma (HCC) tissues and in highly metastatic cell lines. Overexpressed of TMEM100 inhibited invasion, migration and proliferation. Low levels of TMEM100 were associated with cirrhosis, tumor size, Tumor nodule number, TNM stage, BCLC stage, Edmondson-Steiner Stage and vein invasion. Furthermore, TMEM100 was an independent risk factor for overall survival (P = 0.03) and disease-free survival (P = 0.019). The current findings suggest that TMEM100 functions as a tumor suppressor in HCC metastasis and proliferation.
+HCC; TMEM100; metastasis; prognosis; proliferation.

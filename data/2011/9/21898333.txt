@@ -1,0 +1,4 @@
+21898333
+2011 Sep
+The protocol detailed in this unit is for the establishment of an orthotopic model of human esophageal adenocarcinoma in NMRI/nu mice. The resultant tumor has high metastatic potential, spreading readily to liver, lungs, and lymph nodes. This model is useful for studying primary esophageal carcinoma, tumor biology, pathogenesis, tumor progression, metastatic homing, and the efficacy of therapeutic approaches for treating this condition. The practical use of this preclinical model for drug discovery is illustrated with data from a study on the chemotherapeutic effects of HER2-targeted therapy.
+

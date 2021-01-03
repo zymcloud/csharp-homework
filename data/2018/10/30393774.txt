@@ -1,0 +1,4 @@
+30393774
+2018 Oct 25
+Activation of hepatic stellate cells reportedly contributes to progression of hepatocellular carcinoma (HCC). Herein, we use quantitative proteomics and ingenuity pathway analysis to show that transglutaminase 2 (TGM2) is upregulated in the course of activated hepatic stellate cells promoting epithelial-mesenchymal transition (EMT) in HCC-derived cells both in vivo and in vitro. Mechanistically, activated hepatic stellate cells promote TGM2 upregulation in HCC cells through inflammatory signalling; and TGM2-induced depletion of von Hippel-Lindau (VHL) protein, a key molecule in the degradation of hypoxia inducible factor-1a (HIF-1a) under normoxia, then causes HIF-1a to accumulate, thereby producing a pseudohypoxic state that promotes EMT in HCC cells. These findings suggest that the promotion of EMT in HCC cells by activated hepatic stellate cells is mediated by pseudohypoxia induced via TGM2/VHL/HIF-1a pathway.
+

@@ -1,0 +1,4 @@
+30816485
+2019 Apr
+Opa interacting protein 5 (OIP5) overexpression is associated with human carcinoma. However, its biological function, underlying mechanism and clinical significance in liver cancer remain unknown. In the present study, the effects of OIP5 expression on liver cancer, and the mechanisms regulating these effects, were investigated. OIP5 expression was measured in human hepatocellular carcinoma (HCC) tissues and liver cancer cell lines. The effect of OIP5 knockdown on tumorigenesis was also detected in nude mice, and differentially‑expressed genes (DEGs) were identified and their biological functions were identified. The results indicated that OIP5 expression was significantly upregulated in HCC tissues and four liver cancer cell lines (P
+

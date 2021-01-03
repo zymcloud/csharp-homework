@@ -1,0 +1,4 @@
+23221548
+2013 Feb
+Hepatitis B virus immune escape mutants have been associated with vaccine failure and reinfection of grafted liver despite immune prophylaxis, but their biological properties remain largely unknown. Transfection of 20 such mutants in a human hepatoma cell line identified many with severe impairment in virion secretion, which can be rescued to various extents by coexpression of wild-type envelope proteins or introduction of a novel glycosylation site. Consistent with their role in maintaining intra- or intermolecular disulfide bonds, cysteine residues within the "a" determinant are critical for virion secretion.
+

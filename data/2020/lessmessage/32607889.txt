@@ -1,0 +1,4 @@
+32607889
+2020
+Nonalcoholic steatohepatitis (NASH) is a severe form of nonalcoholic fatty liver disease (NAFLD), characterized by steatosis (fat within the liver), inflammation, and fibrosis, which may progress to cirrhosis and hepatocellular carcinoma. Despite the high prevalence, there are currently no approved NASH drug treatments, which urges a faster development of new therapies to address this high unmet medical need. Drug development is facilitated by having reliable and translatable preclinical NASH models. Obesogenic dietary models recapitulate better the natural progression of NASH, with overnutrition and sedentary lifestyle being the main causes. Here we describe the use of a modified version of a diet-induced NASH model, known as the Amylin NASH diet model (AMLN-diet), particularly in the leptin-deficient Lepob/Lepob (ob/ob) mice.
+Ballooning-NAS; Fibrosis; Inflammation; Mouse model; NAFLD-NASH; Steatosis.

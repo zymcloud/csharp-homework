@@ -1,0 +1,4 @@
+23800357
+2013 Jun 24
+Background:We studied the relationships among Cx43, CD105, and VEGF in specimens of hepatitis B virus (HBV)-related hepatocellular carcinoma (HCC) with different serum AFP levels with respect to recurrence and metastasis.Methods:Expressions of Cx43, CD105, and VEGF in 234 HCC tissue specimens were examined using tissue microarray and immunohistochemistry. Cx43 mRNA expression was examined in 38 frozen HCC specimens using RT-PCR. Correlations between these expressions and tumor recurrence, metastasis, and prognosis were analyzed using Kaplan-Meier and Cox regression analyses.Results:Cx43 expression correlated with early tumor recurrence (P = 0.001), disease-free survival (P = 0.026), and overall survival (P = 0.000) in patients with serum AFP Conclusions:Cx43 expression can delay early HCC recurrence, metastasis, and poor prognosis after radical hepatectomy in patients with HBV-related HCC and low AFP.
+

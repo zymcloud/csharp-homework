@@ -1,0 +1,4 @@
+30797890
+2019 Sep 1
+Purpose:To identify predictors of radiation-induced liver disease (RILD) in patients with hepatocellular carcinoma (HCC) treated with proton beam therapy (PBT).Methods:This multicenter study included 136 patients with HCC (eastern, n = 102; western, n = 34) without evidence of intrahepatic tumor progression after PBT. The RILD was defined as ascites with alkaline-phosphatase abnormality, grade ≥3 hepatic toxicity, or Child-Pugh score worsening by ≥2 within 4 months after PBT completion. The proton doses were converted to equivalent doses in 2-GyE fractions. The unirradiated liver volume (ULV) was defined as the absolute liver volume (LV) receiving Results:The mean pretreatment LV was 85% of SLV, and patients with a history of hepatectomy (P Conclusions:The ULV/SLV, not mean liver dose, independently predicts RILD in patients with HCC undergoing PBT. The relative and absolute contraindications for Child-Pugh class-A patient's ULV/SLV are
+

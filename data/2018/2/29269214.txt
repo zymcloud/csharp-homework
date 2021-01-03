@@ -1,0 +1,4 @@
+29269214
+2018 Feb 1
+Asialoglycoprotein receptor (ASGP-R) is a promising biological target for drug delivery into hepatoma cells. Nevertheless, there are only few examples of small-molecule conjugates of ASGP-R selective ligand equipped by a therapeutic agent for the treatment of hepatocellular carcinoma (HCC). In the present work, we describe a convenient and versatile synthetic approach to novel mono- and multivalent drug-conjugates containing N-acetyl-2-deoxy-2-aminogalactopyranose and anticancer drug - paclitaxel (PTX). Several molecules have demonstrated high affinity towards ASGP-R and good stability under physiological conditions, significant in vitro anticancer activity comparable to PTX, as well as good internalization via ASGP-R-mediated endocytosis. Therefore, the conjugates with the highest potency can be regarded as a promising therapeutic option against HCC.
+ASGP-R; Cancer; Paclitaxel; Targeted drug delivery.

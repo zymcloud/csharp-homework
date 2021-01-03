@@ -1,0 +1,4 @@
+28697339
+2017 Jul 10
+Global transcriptomic imbalance is a ubiquitous feature associated with cancer, including hepatocellular carcinoma (HCC). Analyses of 1,225 clinical HCC samples revealed that a large numbers of RNA binding proteins (RBPs) are dysregulated and that RBP dysregulation is associated with poor prognosis. We further identified that oncogenic activation of a top candidate RBP, negative elongation factor E (NELFE), via somatic copy-number alterations enhanced MYC signaling and promoted HCC progression. Interestingly, NELFE induces a unique tumor transcriptome by selectively regulating MYC-associated genes. Thus, our results revealed NELFE as an oncogenic protein that may contribute to transcriptome imbalance in HCC through the regulation of MYC signaling.
+MYC; NELFE; RDBP; RNA binding proteins; cancer; hepatocellular carcinoma; oncogene; transcriptome.

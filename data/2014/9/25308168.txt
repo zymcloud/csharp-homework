@@ -1,0 +1,4 @@
+25308168
+2015 Sep
+We investigate the problem faced by a healthcare system wishing to allocate its constrained screening resources across a population at risk for developing a disease. A patient's risk of developing the disease depends on his/her biomedical dynamics. However, knowledge of these dynamics must be learned by the system over time. Three classes of reinforcement learning policies are designed to address this problem of simultaneously gathering and utilizing information across multiple patients. We investigate a case study based upon the screening for Hepatocellular Carcinoma (HCC), and optimize each of the three classes of policies using the indifference zone method. A simulation is built to gauge the performance of these policies, and their performance is compared to current practice. We then demonstrate how the benefits of learning-based screening policies differ across various levels of resource scarcity and provide metrics of policy performance.
+

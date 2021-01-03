@@ -1,0 +1,4 @@
+26769852
+2016 Feb 9
+The mechanism of resistance of hepatocellular carcinoma (HCC) to sorafenib is unknown and no useful predictive biomarker for sorafenib treatment has been reported. Accordingly, we established sorafenib-resistant HCC cells and investigated the underlying mechanism of resistance to sorafenib. Sorafenib-resistant cell lines were established from the HCC cell line PLC/PRF5 by cultivation under continuous exposure to increasing concentration of sorafenib. The IC50 values of the 2 resistant clones PLC/PRF5-R1 and PLC-PRF5-R2 were 9.2±0.47 μM (1.8-fold) and 25±5.1 μM (4.6-fold) respectively, which were significantly higher than that of parental PLC/PRF5 cells (5.4±0.17 μM) (p
+MRP3; hepatocellular carcinoma; resistance; sorafenib; transporter.

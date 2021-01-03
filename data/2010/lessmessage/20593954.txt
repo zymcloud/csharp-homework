@@ -1,0 +1,4 @@
+20593954
+2010
+Background:Association of excision repair cross-complementing gene 1 (ERCC1) expression and treatment response and survival was evaluated in advanced stages of gastric cancer patients who were given different platinum-based chemotherapy.Patients and methods:Forty-one patients with advanced gastric cancer were enrolled into the study from January 2000 to December 2009. ERCC1 expression was evaluated by immunohistochemistry (IHC).Results:Thirteen of the 41 patients (31%) were shown to have ERCC1 positive lesions. Although the clinical benefit from platin based chemotherapy was the same for ERCC1 positive and negative patients, survival times were statistically significantly better in ERCC1 negative gastric cancer patients.Conclusion:We suggest that IHC studies for ERCC1 may be useful in prediction of the clinical outcome of advanced gastric cancer patients treated with platin-based chemotherapy.
+

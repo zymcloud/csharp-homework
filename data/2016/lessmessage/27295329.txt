@@ -1,0 +1,4 @@
+27295329
+Sep-Oct 2016
+The aim is to evaluate the diagnostic performance and the added value of breath-hold inversion recovery-prepared T1-weighted two-dimensional gradient echo (IR-2D-GRE) sequence for detection of hepatocellular carcinoma (HCC) in patients with insufficient liver parenchymal enhancement during the hepatobiliary phase (HBP) of Gd-EOB-DTPA-enhanced magnetic resonance imaging (MRI). Seventeen patients with a quantitative liver-to-spleen contrast ratio of ≤1.5 on HBP images and 36 HCCs were included. Liver-to-lesion contrast ratios on HBP images obtained with IR-2D-GRE sequence were significantly higher than those with three-dimensional gradient echo sequence. The addition of IR-2D-GRE sequence during HBP of Gd-EOB-DTPA-enhanced MRI yielded higher diagnostic accuracy and improved sensitivity.
+Gd-EOB-DTPA; Hepatobiliary phase; Insufficient liver parenchymal enhancement; Inversion pulse; Liver-to-lesion contrast.

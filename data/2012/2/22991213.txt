@@ -1,0 +1,4 @@
+22991213
+2013 Feb
+Hepatocellular carcinoma (HCC) is a major liver malignancy. We previously demonstrated that deregulation of epigenetic regulators is a common event in human HCC. Suppressor of variegation 3-9 homolog 1 (SUV39H1), the prototype of histone methyltransferase, is the major enzyme responsible for histone H3 lysine 9 trimethylation, which, essentially, is involved in heterochromatin formation, chromosome segregation, and mitotic progression. However, the implication of SUV39H1 in hepatocarcinogenesis remains elusive. In this study, we found that SUV39H1 was frequently up-regulated in human HCCs and was significantly associated with increased Ki67 expression (P Conclusion:Our study demonstrated that SUV39H1 up-regulation contributed to HCC development and metastasis. The tumor-suppressive miR-125b served as a negative regulator of SUV39H1.
+

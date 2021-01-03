@@ -1,0 +1,4 @@
+25599084
+Spring 2014
+Positron emission tomography (PET) imaging using 2-deoxy-2-[F-18]fluoro-D-glucose (FDG) has proven valuable in the diagnosis, staging and restaging for many cancers. However, its application for liver cancer has remained limited owing in part to the relatively high background uptake of the tracer in the liver plus the significant variability of the tumor specific uptake in liver cancer among patients. Thus, for primarily liver cancer, in particular, hepatocellular carcinoma (HCC), radio-tracers with better tumor-enhancing uptake/retention are still sought in order to harness the great power of PET imaging. Here, we reviewed some recent investigations with lipid-based small molecule PET radio-tracers with relevance to fasting, and discuss their potential in the diagnosis and staging of HCCs.
+

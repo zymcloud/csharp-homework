@@ -1,0 +1,4 @@
+28616586
+2017 Mar 31
+Using transcriptome meta-analysis, we recently identified the autotaxin (ATX)-lysophosphatidic acid (LPA) pathway as a regulator of hepatocellular carcinoma (HCC) risk in human cirrhosis patients. Pharmacological targeting of this pathway reduced fibrosis progression and HCC development in animals, identifying ATX-LPA signaling as a novel chemoprevention strategy for cirrhosis and HCC.
+ATX; HCC; LPA; LPAR1; NASH; chemoprevention; cirrhosis; fibrosis; hepatocellular carcinoma; non-alcoholic steatohepatitis.

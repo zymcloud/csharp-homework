@@ -1,0 +1,4 @@
+33265245
+2018 Feb 28
+There is an important urgency to detect cancer at early stages to treat it, to improve the patients' lifespans, and even to cure it. In this work, we determined the entropic contributions of genes in cancer networks. We detected sudden changes in entropy values in melanoma, hepatocellular carcinoma, pancreatic cancer, and squamous lung cell carcinoma associated to transitions from healthy controls to cancer. We also identified the most relevant genes involved in carcinogenic process of the four types of cancer with the help of entropic changes in local networks. Their corresponding proteins could be used as potential targets for treatments and as biomarkers of cancer.
+average network entropy; biomarkers; cancer; early warning; gene expression; local networks; multivariate entropy; protein-protein networks.

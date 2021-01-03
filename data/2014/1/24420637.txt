@@ -1,0 +1,4 @@
+24420637
+2015 Jan 15
+Increasing evidence indicates that deregulation of RING-finger ubiquitin-protein ligases (E3s) involves in the development of hepatocellular carcinoma (HCC). These RING-finger E3s serve as oncoproteins or tumor suppressors in HCC under specific conditions. In this review, we summarize current knowledge about abnormal RING-finger E3s and their clinical significance in the development of HCC, and discuss parts of critical substrates for these RING-finger E3s in detail. Furthermore, in light of success of Bortezomib in treating hematological malignancies, we describe the preclinical and clinical studies of therapeutic approaches targeting aberrant RING-finger E3s in HCC.
+RING-finger E3 ubiquitin ligase; hepatocellular carcinoma; therapeutic target.

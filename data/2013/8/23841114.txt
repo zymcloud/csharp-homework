@@ -1,0 +1,4 @@
+23841114
+2013 Aug 21
+A novel ratiometric biothiol probe Glutathione Green was developed. It allows quantitative measurement of glutathione in cell extracts and direct visualization of changes in glutathione levels in live cells. Remarkably, this is the first reported biothiol probe which can detect the carcinoma region of liver tissue based on the differences in the glutathione level.
+

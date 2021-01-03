@@ -1,0 +1,4 @@
+24852276
+2014 Jun 23
+The straightforward syntheses of four new ferrocenyl and dicobalt hexacarbonyl chromones are presented. The redox behavior of the novel metallo-chromones has been examined by cyclic voltammetry (CV), revealing a reversible behavior of the ferrocenyl groups, while the dicobalt hexacarbonyl derivatives show irreversible oxidation. The anticancer activity of the products has been evaluated against hepatocellular carcinoma (Hep G2), ER+ (MCF-7) and ER- (MDA-MB-231) breast adenocarcinoma, and leukemic (CCRF-CEM) human cancer cell lines. The mechanism of action for the most active complexes has been investigated and it seems to involve oxidative stress and apoptosis induction. Moreover, the results show that the investigated metallo-chromones generate damage to DNA and arrest the cell cycle in G2/M phase.
+Anticancer activity; Apoptosis; Cell cycle; Chromone; Ferrocene; ROS.

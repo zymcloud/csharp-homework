@@ -1,0 +1,4 @@
+27566019
+2016 Sep
+The caudal-type homeobox 1 (CDX1) transcription factor is a member of the caudal-related homeobox transcription factor gene family and has been reported to be down-regulated in a variety of cancers. However, the expression status and significance of CDX1 in hepatocellular carcinoma (HCC) is still controversial, and little is known about the role of CDX1 in HCC·In our previous study, we investigated the expression and clinical significance of CDX1 in HCC samples from 313 HCC patients. We found CDX1 was strikingly down-regulated in HCC samples. CDX1 expression was associated with poor differentiation (P = 0.002), and patients with low CDX1 expression had a significantly poorer prognosis. A subgroup analysis revealed a difference in prognosis between groups with low and high CDX1 expression among patients who had tumors
+CDX1; Clinical significance; Differentiation; Hepatocellular carcinomas; Immunohistochemistry.

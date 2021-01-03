@@ -1,0 +1,4 @@
+26548647
+2015 Dec
+The reaction of direct condensation between S-ethyl-N-(7-oxabicyclo-[2.2.1]heptane-2,3-dicarbonyl)isothiosemicarbazide (1) and primary amines was used for synthesizing new N-substituted amides of 3-(3-ethylthio-1,2,4-triazol-5-yl)-7-oxabicyclo-[2.2.1]heptane-2-carboxylic acid (2-12) as norcantharadin analogs. Moreover, the anticancer activity of the obtained compounds was studied. Among all compounds, the N-3-methylbutyl amide of 3-(3-ethylthio-1,2,4-triazol-5-yl)-7-oxabicyclo-[2.2.1]heptane-2-carboxylic acid (4) presented selective in vitro toxic and antiproliferative effects against the human hepatoma cell line Hep3B, without affecting normal human liver stellate cells (LX-2 cell line).
+1,2,4-Triazole; Amides; Anticancer; Hep3B; Norcantharidin.

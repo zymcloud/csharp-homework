@@ -1,0 +1,4 @@
+21520196
+2011 Jul
+Genomic amplification of regional chromosome 8q24 is a common event in human cancers. In hepatocellular carcinoma (HCC), a highly aggressive malignancy that is rapidly fatal, recurrent 8q24 gains can be detected in >50% of cases. In this study, attempts to resolve the 8q24 region by way of array comparative genomic hybridization for affected genes in HCC revealed distinctive gains of block of proliferation 1 (BOP1). Gene expression evaluation in an independent cohort of primary HCC (n = 65) revealed frequent BOP1 up-regulation in tumors compared with adjacent nontumoral liver (84.6%; P Conclusion:Our findings underline an important role for BOP1 in HCC invasiveness and metastasis potentials through inducing EMT and promoting actin cytoskeleton remodeling.
+

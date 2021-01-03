@@ -1,0 +1,4 @@
+21479536
+2011 Aug
+Non-viral system generally demonstrates less efficacious in transgene delivery than viral system; however it represents a safer alternative to viral system. In this study, transfection efficiency for human hepatocellular liver carcinoma cells synchronized in cell cycle at G0/G1 phase, which was sorted in size with a microfluidic device based on hydrodynamic filtration, was investigated by using a reverse transfection method. The synchronized cells were recovered at the yield of 80% from the micro-channel, and green fluorescent protein gene encoding plasmid mixed with lipofectoamine was transfected. The transfection efficiency of the cells at G0/G1 phase was 1.8 times higher than non-synchronized cells. The manipulation of cell cycle status could increase transfection efficiency in non-viral system, indicating size-based cell cycle synchronization is a powerful tool as a noninvasive method for bioscience and biotechnology.
+

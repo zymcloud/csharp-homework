@@ -1,0 +1,4 @@
+22741584
+2012 Jun
+Human ubiquitin-conjugating enzyme E2, also known as UbcH10, is defined as a cyclin-selective ubiquitin carrier protein and is essential for selective degradation of many short-lived proteins in eukaryotic cells. Recently more and more data show that UbcH10 could be a potential cancer biomarker. In this study, we have developed a monoclonal antibody (MAb) against UbcH10 using an expression recombinant protein. Hybridomas F001, F007, and F008 with high affinities belong to IgG1 subclass with κ light and are highly specific for UbcH10. Further experimentation showed that MAbs F001, F007, and F008 are suitable for the development of immunoassay core agents with sufficient sensitivity and specificity in vitro by Western-blot, immunofluorescence, and immunohistochemistry. These MAbs can be used as a tool for further investigation on functions related to the role of UbcH10 in tumorigenesis and development.
+

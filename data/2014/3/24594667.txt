@@ -1,0 +1,4 @@
+24594667
+2014 Mar 5
+Single-cell analysis provides information critical to understanding key disease processes that are characterized by significant cellular heterogeneity. Few current methods allow single-cell measurement without removing cells from the context of interest, which not only destroys contextual information but also may perturb the process under study. Here we present a microfluidic probe that lyses single adherent cells from standard tissue culture and captures the contents to perform single-cell biochemical assays. We use this probe to measure kinase and housekeeping protein activities, separately or simultaneously, from single human hepatocellular carcinoma cells in adherent culture. This tool has the valuable ability to perform measurements that clarify connections between extracellular context, signals and responses, especially in cases where only a few cells exhibit a characteristic of interest.
+

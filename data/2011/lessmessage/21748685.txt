@@ -1,0 +1,4 @@
+21748685
+2011
+Many steps of the metastatic cascade can be reproduced in simple in vitro assays such as tumour cell interactions with matrix proteins, proteolysis, chemotaxis, haptotaxis, and invasion into matrices or explanted tissues. Nevertheless, there are no fully adequate substitutes for the complexity of the in vivo process. Here, we describe two "experimental" metastasis assays to yield lung or liver colonies (mimicking established micrometastatic disease), and two spontaneous metastasis assays for breast and prostate carcinomas. Examples include either murine tumour cell lines in syngeneic immunocompetent mice or human tumour xenografts in immunodeprived mice.
+

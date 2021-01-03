@@ -1,0 +1,4 @@
+29467864
+2018 Mar
+Due to the high mortality rate and unsatisfactory treatment options available, hepatocellular carcinoma (HCC) remains one of the most common malignancies and a leading cause of cancer-associated mortality. Novel therapeutic targets for HCC are urgently required. Advanced RNA sequencing technology enables the identification of considerable amounts of noncoding RNAs (ncRNAs), including small noncoding RNAs and long noncoding RNAs, which exhibit no protein-coding activities. In this respect, ncRNAs and their regulatory processes are important factors in liver tumorigenesis. The present review focuses on the characteristics and biological roles of ncRNAs in HCC. Potential therapeutic applications of ncRNAs in HCC are also evaluated.
+hepatocellular carcinoma; long noncoding RNA; microRNA; piwi-interacting RNA; small noncoding RNA; therapy.

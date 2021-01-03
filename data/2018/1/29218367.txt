@@ -1,0 +1,4 @@
+29218367
+2018 Jan
+Chronic liver disease, irrespective of cause, can eventually lead to cirrhosis, which is the primary risk factor for developing hepatocellular carcinoma (HCC). In patients with cirrhosis or appropriate risk factors, HCC can be diagnosed by imaging with high specificity using liver imaging reporting and data system v2017, obviating the need for histologic confirmation. Confident recognition of cirrhosis by conventional imaging alone can be challenging, as radiologists are not always provided with the requisite information to determine if the patient has cirrhosis or other risk factors for HCC. Moreover, cirrhosis-associated abnormalities may impair the diagnostic accuracy of imaging for HCC. This article addresses the diagnosis of cirrhosis by non-invasive imaging and the implications of cirrhosis for imaging interpretation and accuracy.
+Cirrhosis; Fibrosis; Hepatocellular carcinoma; Hepatocellular nodules; LI-RADS; Magnetic resonance imaging.

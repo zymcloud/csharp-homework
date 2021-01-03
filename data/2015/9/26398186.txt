@@ -1,0 +1,4 @@
+26398186
+2015 Sep
+This chapter focuses on the identification of hepatocellular carcinoma (HCC) molecular signatures and the potentials of these signatures in prediction of HCC prognosis and driving of HCC therapeutic treatments. Progress in molecular profiling studies using DNA-microarray-based gene expression profiling has provided new insight about HCC pathogenesis, and gene signatures that can distinguish tumor subtypes assist clinical staging and predict patient outcomes. This provides the possibility to improve the stratification of HCC patients at a molecular level and, in the near future, will be potential in paving the way for tailored medicine in HCC patients.
+

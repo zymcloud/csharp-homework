@@ -1,0 +1,4 @@
+21033244
+Jul-Aug 2010
+A large dataset of patients with biopsy-proven and unresectable HCC who were prospectively followed from diagnosis till death, was examined for the prognostic significance of serum GGTP levels. Their survival-ordered baseline clinical parameter data was examined. Two cohorts of patients with both low AFP and bilirubin levels were identified, who had serum GGTP levels with an increasing trend with increasing AFP levels. The survival of these patients also decreased as their GGTP levels trended up, as did their tumor masses. By contrast, in patients with elevated serum AFP levels, the GGTP trends were less informative, although patients with the highest AFP levels had a worse prognosis if their GGTP levels were simultaneously elevated. The results suggest that following trends in serum GGTP levels, in the context of specific ranges of AFP and bilirubin levels, might be useful in diagnosis of small HCCs.
+

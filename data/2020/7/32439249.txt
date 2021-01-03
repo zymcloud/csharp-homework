@@ -1,0 +1,4 @@
+32439249
+2020 Jul
+This report describes a technique for measuring lung shunt fraction (LSF) twice in a single session during planning arteriography for radioembolization using low and standard dose technetium-99m macroaggregated albumin (99mTc-MAA). A patient with a 16.0 cm hepatocellular carcinoma and LSF of 70% was treated with lenvatinib for 4 weeks. Planning arteriography with administration of 0.5 millicuries of 99mTc-MAA was then performed. Arterial access was maintained while the LSF was calculated, which was persistently elevated at 54%. Embolization of arteriovenous shunts was performed during the same session and 5.0 millicuries of 99mTc-MAA were administered. The repeat LSF was 29%. Successful radioembolization was subsequently performed.
+

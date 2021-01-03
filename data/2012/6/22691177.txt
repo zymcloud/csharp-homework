@@ -1,0 +1,4 @@
+22691177
+2012 Jun 12
+Biginelli dihydropyrimidinone derivatives as structural analogs of monastrol, a known human kinesin Eg5 inhibitor, were synthesized. IC50 values of the synthesized compounds against the proliferation of human hepatocellular carcinoma and human epithelial carcinoma cell lines were determined through MTT assay. Molecular docking study gave a clear insight into the structural activity relationship of the compounds in comparison with monastrol.
+

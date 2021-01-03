@@ -1,0 +1,4 @@
+27203387
+2016 Jul 5
+Apigenin is a naturally occurring compound with anti-inflammatory, antioxidant, and anticancer properties. In this study, we investigated the effects of apigenin on migration and metastasis in experimental human hepatocellular carcinoma (HCC) cell lines in vitro and in vivo. Apigenin dose-dependently inhibited proliferation, migration, and invasion by PLC and Bel-7402 human HCC cells. It also suppressed tumor growth in PLC cell xenografts without altering body weight, thereby prolonging survival. Apigenin reduced Snai1 and NF-κB expression, reversed increases in epithelial-mesenchymal transition (EMT) marker levels, increased cellular adhesion, regulated actin polymerization and cell migration, and inhibited invasion and migration by HCC cells. Apigenin may therefore inhibit EMT by inhibiting the NF-κB/Snail pathway in human HCC.
+EMT; HCC; antitumor; apigenin; metastasis.

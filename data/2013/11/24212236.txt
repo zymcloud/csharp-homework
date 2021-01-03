@@ -1,0 +1,4 @@
+24212236
+2013 Nov 7
+The hepatitis B virus (HBV) is a small enveloped DNA virus that belongs to the Hepadnaviridae family. HBV can cause acute and persistent infection which can lead to hepatocellular carcinoma (HCC). MicroRNAs (miRNAs) play a crucial role in the main cellular events. The dysregulation of their expression has been linked to the development of the cancer as well as to viral interference. This chapter will describe the involvement of miRNAs in the case of HBV infection and their implication in the development of the HBV-related diseases.
+

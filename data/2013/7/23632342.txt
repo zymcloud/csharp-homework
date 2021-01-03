@@ -1,0 +1,4 @@
+23632342
+2013 Jul
+Imaging plays an important role in diagnosis and management of patients with hepatocellular carcinoma (HCC). Although ultrasound is the main surveillance imaging tool for HCC, dynamic contrast-enhanced computed tomography (CT) and magnetic resonance imaging (MRI) are used primarily for diagnosis and staging of HCC. Recent advances in both CT and MRI technology have led to a decrease in ionizing radiation exposure and improved capabilities for evaluation of HCC, including, dynamic contrast-enhanced CT and MRI, perfusion CT and MRI, dual-energy CT, radiation dose reduction strategies, diffusion-weighted imaging, MR elastography, iron and fat quantification, and intravenous hepatobiliary contrast agents.
+

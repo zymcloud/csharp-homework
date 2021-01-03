@@ -1,0 +1,4 @@
+23824645
+2013
+The only approved systemic therapy for patients with advanced hepatocellular carcinoma (HCC) till now is sorafenib. A preliminary study suggested that capecitabine, an oral fluoropyrimidine, may be effective in advanced HCC. We have tested this hypothesis in this phase 2 study. In this single-center, phase 2, open-label trial, we randomly assigned 52 patients with advanced HCC who had not received previous systemic treatment to receive either sorafenib (at a dose of 400 mg twice daily) or capecitabine (1,000 mg/m(2) twice daily) (day 1-day 14). Primary outcome was progression-free survival. Secondary outcomes included the overall survival and safety. Median overall survival was 7.05 months in the sorafenib group and 5.07 months in the capecitabine group (hazard ratio in the capecitabine group 2.36; 95 % confidence interval 1.174-4.74; P
+

@@ -1,0 +1,4 @@
+20350781
+2010 Sep 1
+Naphtho[1,2-b] furan-4,5-dione (NFD) was investigated for its anti-proliferation effect on human hepatocellular carcinoma (HCC), Hep3B, HepG(2), and Huh-7 cells. The effect of NFD on inhibiting proliferation and apoptosis was correlated with up-regulation of pro-apoptotic protein and down-regulation of pro-survival proteins. Remarkably, we found that NFD inhibited the nuclear translocation of NF-kappaB, likely accounting for the down-regulation of pro-survival Bcl-2 family. Furthermore, suppression of p38 MAPK activity by a specific inhibitor significantly rescued the cell proliferation inhibited by NFD. These findings suggest that signaling imbalance between p38 MAPK and NF-kappaB by NFD results in the proliferative inhibition and apoptosis of HCC tumor cells.
+

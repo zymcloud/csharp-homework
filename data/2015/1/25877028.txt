@@ -1,0 +1,4 @@
+25877028
+2015 Jan 20
+Objective:To determine the relationship between apparent diffusion coefficient (ADC) and histopathological differentiation of hepatocellular carcinoma (HCC).Methods:Magnetic resonance examinations of magnetic resonance imaging (MRI) plain scan, LAVA dynamic enhanced scan and diffusion weighted imaging (DWI)(1.5 T, b values: 0 and 600 s/mm²) were retrospectively reviewed for 229 surgically resected HCCs. Histopathology revealed 34 well, 170 moderately and 25 poorly-differentiated HCCs. The incidence of each ADC value was measured. The relationship between ADC and histopathological differentiation was also evaluated.Results:The ADC value of well-differentiated HCCs (1.68 ± 0.13 × 10⁻³ mm²/s) was significantly higher those of moderately HCCs (1.31 ± 0.16 × 10⁻³ mm²/s) (P Conclusion:In clinical practice, ADC value is important for predicting histopathological differentiation of HCC and improving its diagnostic accuracy.
+

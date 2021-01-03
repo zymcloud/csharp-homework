@@ -1,0 +1,4 @@
+33079307
+2020 Oct
+Ferroptosis is a widely recognized process of regulated cell death linking redox state, metabolism, and human health. It is considered a defense mechanism against extensive lipid peroxidation, a complex process that may disrupt the membrane integrity, eventually leading to toxic cellular injury. Ferroptosis is controlled by iron, reactive oxygen species, and polyunsaturated fatty acids. Accumulating evidence has addressed that ferroptosis plays an unneglectable role in regulating the development and progression of multiple pathologies of the liver, including hepatocellular carcinoma, liver fibrosis, nonalcoholic steatosis, hepatic ischemia-reperfusion injury, and liver failure. This review may increase our understating of the cellular and molecular mechanisms of liver disease progression and establish the foundation of strategies for pharmacological intervention.
+Cell death; Ferroptosis; Iron; Liver; ROS.

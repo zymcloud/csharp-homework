@@ -1,0 +1,4 @@
+27460655
+2016 Jul 27
+Galangin suppresses proliferation and induces apoptosis and autophagy in hepatocellular carcinoma (HCC) cells, but the precise mechanism is not clear. In this study, we demonstrated that galangin induced autophagy, enhanced the binding of SIRT1-LC3 and reduced the acetylation of endogenous LC3 in HepG2 cells. But this autophagy was inhibited by inactivation of SIRT1 meanwhile, galangin failed to reduce the acetylation of endogenous LC3 after SIRT1 was knocked-down. Collectively, these findings demonstrate a new mechanism by which galangin induces autophagy via the deacetylation of endogenous LC3 by SIRT1.
+

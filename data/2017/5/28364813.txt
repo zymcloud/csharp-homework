@@ -1,0 +1,4 @@
+28364813
+2017 May
+The adoption of the model of end-stage liver disease (MELD) score as surrogate marker of liver disease severity has been the greatest change in liver allocation. Since its implementation, waiting time has lost significance. The MELD score calculation was later modified to reflect the contribution of hyponatremia in the estimation of mortality risk. However, the MELD score does not capture accurately the risk of mortality of patients with hepatocellular carcinoma (HCC). Therefore the arbitrary assignment of MELD points has been used for HCC patients. The current allocation system still prioritizes transplantation in HCC patients.
+Hepatocellular carcinoma; Liver cirrhosis; Liver transplantation; MELD score; MELD sodium score; Mathematical model; Organ allocation; Waiting-list mortality.

@@ -1,0 +1,4 @@
+21500188
+2012 Mar 15
+Abberrant DNA methylation is one of the hallmarks of cancerogenesis. Our study aims to delineate differential DNA methylation in cirrhosis and hepatic cancerogenesis. Patterns of methylation of 27,578 individual CpG loci in 12 hepatocellular carcinomas (HCCs), 15 cirrhotic controls and 12 normal liver samples were investigated using an array-based technology. A supervised principal component analysis (PCA) revealed 167 hypomethylated loci and 100 hypermethylated loci in cirrhosis and HCC as compared to normal controls. Thus, these loci show a "cirrhotic" methylation pattern that is maintained in HCC. In pairwise supervised PCAs between normal liver, cirrhosis and HCC, eight loci were significantly changed in all analyses differentiating the three groups (p
+

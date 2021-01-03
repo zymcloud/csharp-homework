@@ -1,0 +1,4 @@
+26175948
+2015 Apr 15
+Bcl-xL/Bcl-2-associated death promoter (Bad) is a proapoptotic member of Bcl-2 family and plays a key role in tumor development. To explore the expression of Bad and its clinical significance in hepatocellular carcinoma (HCC), we analyzed a large cohort of 437 HCC samples by tissue microarray (TMA)-based immunohistochemistry. Our data showed that Bad expression was markedly decreased in 50.6% (221/437) of HCC tissues, compared with the adjacent nontumorous tissues. Bad expression was closely associated with adverse clinical characters such as clinical stage (P=0.007), tumor size (P=0.008), vascular invasion (P=0.024), tumor differentiation (P=0.018) and AFP level (P=0.039). Furthermore, Kaplan-Meier analysis indicated that low Bad expression was significantly correlated to overall survival (P
+BCL-2; Bad; hepatocellular carcinoma; poor prognosis.

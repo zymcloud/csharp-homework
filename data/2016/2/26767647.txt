@@ -1,0 +1,4 @@
+26767647
+2016 Feb
+Extracellular signal-regulated kinases (ERK) pathway plays a crucial role in cancer cell survival and proliferation. This signaling pathway has been related to epithelial to mesenchymal transition and drug resistance in hepatocellular carcinoma (HCC) cells, which is a common challenge in chemotherapy. Consequently, mediators of this pathway have recently been considered as novel therapeutic targets in HCC. In this review the impact of ERK1 and ERK2 as major components of ERK signaling pathway, in HCC biology and drug resistance will be highlighted and discussed.
+Chemoresistance; ERK; Hepatocellular carcinoma.

@@ -1,0 +1,4 @@
+31226725
+2019 Jul
+Hepatocellular carcinoma (HCC) is the third leading cause of cancer mortality worldwide. A unique feature of liver cancer is its close association with liver fibrosis. About 90% of HCCs develop in advanced liver fibrosis or cirrhosis, suggesting an important role for the fibrotic microenvironment in driving HCC development. Here, the authors will discuss functional contributions of liver fibrosis to the development of HCC, focusing on mechanisms through which fibrosis may promote HCC development such as hepatic stellate cell-derived extracellular matrix, growth factors, and cytokines, stiffness-induced signaling pathways, and immunosuppression. Better understanding of these factors in HCC development and progression may provide the basis for novel stromal-based therapies for tumor prevention or therapy.
+

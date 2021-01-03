@@ -1,0 +1,4 @@
+26131234
+2015 Apr 15
+Target:Our study was to investigate the effects of interleukin-6 (IL-6) polymorphisms (rs2069837 and rs17147230) on the risk for hepatocellular carcinoma (HCC).Methods:A total of 226 HCC cases and 220 healthy controls were admitted into the study and genomic DNA was extracted from the peripheral blood. The genotyping was conducted by the method of polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP). Odds ratio (OR) and 95% confidence interval (CI) were used to evaluate the relationship of IL-6 rs2069837 and rs17147230 polymorphisms with HCC susceptibility.Results:The frequency of GG genotype of rs2069837 was higher in HCC patients, compared with controls (P Conclusion:IL-6 rs2069837 as well as rs17147230 were associated with HCC susceptibility. In addition, G-T haplotype also served as a genetic-susceptibility factor for HCC.
+Interleukin-6; hepatocellular carcinoma; polymorphisms.

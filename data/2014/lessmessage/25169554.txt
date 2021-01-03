@@ -1,0 +1,4 @@
+25169554
+2014
+Cytokine gene single nucleotide polymorphisms (SNPs) are involved in the genesis and progression of hepatocellular carcinoma (HCC). We hypothesized that combined effects of cytokine gene SNPs and SNP-SNP interactions are associated with HCC risk. Six SNPs in cytokine genes (IL-2, IFN-γ, IL-1β, IL-6, and IL-10) were genotyped in a study of 720 Chinese HCC cases and 784 cancer-free controls. Although none of these SNPs individually had a significant effect on the risk of HCC, we found that the combined effects of these six SNPs may contribute to HCC risk (OR=1.821, 95% CI=1.078-3.075). This risk was pronounced among smokers, drinkers, and hepatitis B virus carriers. A SNP-SNP interaction between IL-2-330 and IFN-γ-1615 was associated with an increased HCC risk (OR=1.078, 95% CI=1.022-1.136). In conclusion, combined effects of SNPs and SNP-SNP interactions in cytokine genes may contribute to HCC risk.
+

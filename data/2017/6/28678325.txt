@@ -1,0 +1,4 @@
+28678325
+2017 Jun
+Objective:To study the role of TGF-β1 in autophagy and invasion ability of human hepatic carcinoma HepG2 cells.Materials and methods:Cultured HepG2 cells were treated with different concentrations of TGF-β1 for 24 h. The protein expression levels of autophagy relative marker LC3 and Beclin1 were detected by Western blot. The effect of TGF-β1 on invasion ability of HepG2 cells was detected with transwell method.Results:The results demonstrated that TGF-β1 was able to activate autophagy of HepG2 cells in a dose-dependent manner. Autophagy inhibitor 3-methyladenine (3-MA) could reverse TGF-β1 induced autophagy process. Also, TGF-β1 significantly promotes the invasion ability of HepG2 cells; however, this process could effectively reverse by autophagy inhibitor 3-MA.Conclusions:TGF-β1 enhances HepG2 cells invasion by upregulating autophagy.
+

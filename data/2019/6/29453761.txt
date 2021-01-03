@@ -1,0 +1,4 @@
+29453761
+2019 Jun
+Background:miR-34a has been shown to be involved in P53 regulation. In this study, we aimed to evaluate the expression level of miR-34a in esophageal cancer and compare it with that of the normal marginal tissues.Methods:Tumor and marginal tissues were obtained from 50 patients with esophageal cancer. After RNA extraction, expression level of miR-34a was determined using SYBR green master mix and real-time quantitative PCR.Results:It was observed that there was a downregulation of miR-34a in tumoral tissue of esophageal patients in comparison to normal marginal tissues. Moreover, the expression level of miR-34a was correlated with clinicopathological specifications of the patients.Conclusions:miR-34a may be involved in the pathogenesis and development of esophageal cancer and have the potential to be used as a diagnostic and therapeutic marker in esophageal cancer.
+Esophageal cancer; Gene expression; miR-34a.

@@ -1,0 +1,4 @@
+28695771
+2017 Jul
+MicroRNAs could mediate the targeted coding gene and the targeted non-coding RNA to form endogenous competition, which have an important regulatory role in tumorigenesis of many types of cancer, including hepatocellular carcinoma. The goal of this study was to characterize the role of miR-200b in the pathogenesis of hepatocellular carcinoma. We identified miR-200b that was predicted to regulate RhoA and circ_000839. Our data establish that miR-200b is expressed at a relatively low level in hepatocellular carcinoma ( p
+Circ_000839; Non-coding RNA; RhoA; hepatocellular cancer; micro RNA 200b.

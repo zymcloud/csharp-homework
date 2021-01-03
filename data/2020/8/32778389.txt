@@ -1,0 +1,4 @@
+32778389
+2020 Aug 7
+Background:Widespread HCV treatment for hepatocellular carcinoma (HCC) patients remains limited. Our aim was to evaluate the association of HCV treatment with survival and assess barriers to treatment.Methods:Patients in the U.S. Safety Net Collaborative with HCV and HCC were included. Primary outcome was overall survival (OS). Secondary outcomes were recurrence-free survival (RFS) and barriers to receiving HCV treatment.Results:Of 941 patients, 57% received care at tertiary referral centers (n=533), 74% did not receive HCV treatment (n=696), 6% underwent resection (n=54), 17% liver transplant (n=163), 50% liver-directed therapy (n=473), and 7% chemotherapy (n=60). HCV treatment was associated with improved OS compared to no HCV treatment (70 vs 21 months, pConclusion:HCV treatment for HCC patients portends improved survival, regardless of clinical stage, HCC treatment, or facility type. Efforts must address barriers to HCV treatment.
+

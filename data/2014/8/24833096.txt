@@ -1,0 +1,4 @@
+24833096
+2014 Aug
+Hepatocellular carcinoma is the fifth most common tumor and the third cause of death for cancer in the world. Among the main causative agents of this tumor is the chronic infection by hepatitis viruses B and C, which establish a context of chronic inflammation degenerating in fibrosis, cirrhosis, and, finally, cancer. Recent findings, however, indicate that hepatitis viruses are not only responsible for cancer onset but also for its progression towards metastasis. Indeed, they are able to promote epithelial-mesenchymal transition, a process of cellular reprogramming underlying tumor spread. In this manuscript, we review the currently known molecular mechanisms by which hepatitis viruses induce epithelial-mesenchymal transition and, thus, hepatocellular carcinoma progression.
+

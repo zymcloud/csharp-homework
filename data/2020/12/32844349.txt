@@ -1,0 +1,4 @@
+32844349
+2020 Dec
+Background:Radiomics is an emerging field that extracts high-throughput imaging data from different types of images to build models and predict clinical outcomes ina non-invasive manner. This field currently is in the initial growth phase and lacks standardized evaluation criteria but remains a very promising tool for the future todevelop suitable biomarkers for diagnosis, prognosis, and treatment response assessments. The analysis of hepatocellular carcinoma by radiomics will contribute toearly diagnosis and treatment of tumors and improve survival and cure rates.Aim:Herein, we aimed to provide an up-to-date overview of the principles of radiomics specifically regarding hepatocellular carcinoma (HCC) and discuss the current challenges and future advancements of radiomics for HCC.
+Hepatocellular carcinoma; Radiogenomics; Radiomics.

@@ -1,0 +1,4 @@
+22375870
+2012
+Two new cycloartane glycosides were isolated from the aerial parts of Thalictrum fortunei (Ranunculaceae). The chemical structures of these compounds were elucidated as 3-O-β-D-glucopyranosyl (1 → 4)-β-d-fucopyranosyl-(22S,24Z)-cycloart-24-en-3β,22,26,30-tetraol 26-O-β-D-glucopyranoside and 3-O-β-D-glucopyranosyl (1 → 4)-β-D-fucopyranosyl-(22S,24Z)-cycloart-24-en-3β,22,26,29-tetraol 26-O-β-D-glucopyranoside by extensive 1D and 2D NMR methods, HR-ESI-MS, and hydrolysis. Their cytotoxic activities toward human hepatoma Bel-7402 cells, human colon carcinoma LoVo cells, and human non-small-cell lung cancer NCIH-460 cells were evaluated by MTT assay, respectively.
+

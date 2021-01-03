@@ -1,0 +1,4 @@
+23229496
+2013 Feb
+Cystine/glutamic acid transporter (xCT) plays a role in tumor progression by regulating the redox status in several types of cancers. To demonstrate the importance of xCT expression for predicting the prognosis of hepatocellular carcinoma (HCC), we analyzed xCT gene expression in 130 paired HCC and non-cancerous tissues. xCT protein expression was confirmed using 7 HCC cell lines and samples from human subjects. xCT mRNA expression was detected in 34 (26%) tumor tissues. Expression of xCT was higher in HCC tissues compared to the corresponding normal tissues according to quantitative reverse transcriptase-polymerase chain reaction findings (P
+

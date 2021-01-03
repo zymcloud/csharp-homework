@@ -1,0 +1,4 @@
+22009939
+2012 Feb
+Obesity, a major health concern, results from an imbalance between energy intake and expenditure. Leptin-deficient ob/ob mice are paradigmatic of obesity, resulting from excess energy intake and storage. Mice lacking acyl-CoA oxidase 1 (Acox1), the first enzyme of the peroxisomal fatty acid β-oxidation system, are characterized by increased energy expenditure and a lean body phenotype caused by sustained activation of peroxisome proliferator-activated receptor α (PPARα) by endogenous ligands in liver that remain unmetabolized in the absence of Acox1. We generated ob/ob mice deficient in Acox1 (Acox1(-/-)) to determine how the activation of PPARα by endogenous ligands might affect the obesity of ob/ob mice. In contrast to Acox1(-/-) (14.3±1.2 g at 6 mo) and the Acox1-deficient (ob/ob) double-mutant mice (23.8±4.6 g at 6 mo), the ob/ob mice are severely obese (54.3±3.2 g at 6 mo) and had significantly more (P
+

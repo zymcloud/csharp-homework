@@ -1,0 +1,4 @@
+24495230
+2014 Oct
+The toxicity of etephon and maleic hydrazide, used as plant growth regulators in agriculture, were reported as low in mammals in previous studies. However, in vitro cytotoxicity studies in mammalian cells are currently missing to understand their toxicity at molecular level. In the current study, the cytotoxicity of these compounds, were studied in Vero (African green monkey kidney epithelium), HepG2 (human hepatocellular carcinoma), Hep2 (human epidermoid cancer) cells by MTT ((3-(4,5-dimetiltiazol-2-il)-2,5-difeniltetrazolium bromure) and LDH (lactate dehydrogenase) assays. Maleic hydrazide had lower IC50 values for all cell lines compared to ethephon. Least cytotoxic effect treated by ethephon were observed in Vero, followed by HepG2 and Hep2. Similarly maleic hydrazide also showed least cytotoxicity on Vero cells, followed by Hep2 and HepG2 cells (p 0.868 (p
+Cytotoxicity; Hep2; HepG2; Vero; etephon; maleic hydrazide.

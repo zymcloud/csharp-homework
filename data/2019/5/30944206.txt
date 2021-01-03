@@ -1,0 +1,4 @@
+30944206
+2019 May 2
+IL-6 produced by human fibroblast-like synoviocytes (HFLS) promotes rheumatoid arthritis (RA), while lncRNA DILC regulates liver cancer stem cells by inhibiting IL-6. Therefore, lncRNA DILC may participate in RA. In the present study, we found that plasma lncRNA DILC was down-regulated, while IL-6 was up-regulated in RA patients than in healthy controls. Plasma levels of lncRNA DILC and IL-6 were significantly and inversely correlated only in RA patients. Overexpression of lncRNA DILC resulted in promoted apoptosis of HFLS isolated from RA patients, while lncRNA DILC siRNA silencing played an opposite role. In addition, overexpression of lncRNA DILC also resulted in inhibited IL-6 expression in HFLS isolated from RA patients. Therefore, lncRNA DILC may participate in RA by inducing apoptosis of HFLS and down-regulating IL-6.
+IL-6; human fibroblast-like synoviocytes; lncRNA DILC; rheumatoid arthritis.

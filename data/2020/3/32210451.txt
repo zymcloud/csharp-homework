@@ -1,0 +1,4 @@
+32210451
+2020 Mar 25
+Hepatocellular carcinoma (HCC) is one of the most common human cancers, its prevalence and severity need us to discover novel early diagnostic biomarkers and new therapeutic strategies. MicroRNA-122 is the most abundant microRNA in the liver, and acts as a tumor suppressor and represses HCC development. In our study we showed that HNF-4α and MiR-122 were down-regulated significantly in hepatocellular carcinoma. Over-expression of HNF-4α inhibit hepatocellular carcinoma cells proliferation. And miR-122 is one of the downstream effector of HNF-4α. Up-regulated miR-122 inhibited hepatocellular carcinoma cells proliferation through regulating ADAM17. Collectively, our results suggested that HNF-4α could inhibit hepatocellular carcinoma proliferation with miR-122 being a downstream target of it. And miR-122 would inhibit hepatocellular carcinoma proliferation by regulating ADAM17 signal pathway.
+

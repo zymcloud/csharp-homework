@@ -1,0 +1,4 @@
+32522890
+2020 Jun 10
+Long non-coding RNAs (lncRNAs) have been reported to play significant roles in human tumorigenesis, for example, in hepatocellular carcinoma (HCC). This study explored the role of LINC01419, a new lncRNA, in HCC. In vitro study revealed that LINC01419 promotes growth and migration of HCC cells. Genes that affected cell proliferation and cell migration were identified using RNA-sequence. Subsequently, it was confirmed that LINC01419 binds to EZH2, leading to histone methylation of the RECK promoter. Interaction between LINC01419 and FUS stabilized EZH2 mRNA thereby enhancing EZH2 expression. Conclusively, the results of this study confirm that LINC01419 may serve as a potential target for HCC diagnosis and treatment.
+EZH2; LINC01419; RECK; hepatocellular carcinoma.

@@ -1,0 +1,4 @@
+25256671
+2014 Dec
+Autophagy is a process that involves lysosomal degradations of cellular organelles and closely related to tumor occurrence and progression. However, its importance in hepatocellular carcinoma (HCC) was still controversial. Therefore, this study is aimed to address the clinicopathologic effect of microtubule-associated protein 1 light chain 3B (LC3B) and Beclin-1, as autophagic markers, in HCC patients. Tissue microarray-based immunohistochemistry was used to examine the expression of LC3B and another autophagy key regulator (Beclin-1) in 156 operable HCC patients. Kaplan-Meier analysis, chi-square test, and Spearman's correlation analysis were used to analyze correlation of LC3B and Beclin-1 and their influence on clinical characteristics and prognosis. We found that the expression level of LC3B was significantly associated with vascular invasion (P = 0.008), lymph node metastasis (P
+

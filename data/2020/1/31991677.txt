@@ -1,0 +1,4 @@
+31991677
+2020 Jan 24
+Cell surface proteins act as the go-between in carrying the information from the extracellular environment to the intracellular signaling proteins. However, these proteins are often deregulated in neoplastic diseases, including hepatocellular carcinoma. This review discusses several recent studies that have investigated the role of cell surface proteins in the occurrence and progression of HCC, highlighting the possibility to use them as biomarkers of the disease and/or targets for vaccines and therapeutics.
+biomarker; cell surface proteins; clinical trial; hepatocellular carcinoma; therapeutic target.

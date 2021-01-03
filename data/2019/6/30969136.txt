@@ -1,0 +1,4 @@
+30969136
+2019 Jun
+Advanced, unresectable hepatocellular carcinoma (HCC) has a poor prognosis with median life expectancy of approximately 1 year. Overexpression of PD-L1 in tumor cells and PD-1 on tumor-infiltrating T cells has been associated with poorer prognosis, more advanced disease and higher recurrence rates in HCC. Monoclonal antibodies against PD-1 have demonstrated antitumor activity in patients with solid tumors, including HCC. Tislelizumab, an investigational, humanized IgG4 monoclonal antibody with high affinity and binding specificity for PD-1, has demonstrated preliminary antitumor activity in HCC. Here we describe a head-to-head Phase III study comparing the efficacy, safety and tolerability of tislelizumab with sorafenib as first-line treatment in unresectable HCC.
+HCC; PD-1; hepatocellular carcinoma; tislelizumab.

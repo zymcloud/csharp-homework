@@ -1,0 +1,4 @@
+29967292
+2018 Jul 1
+The largest subunit of the origin recognition complex (ORC1) is essential for assembly of the prereplicative complex, firing of DNA replication origins, and faithful duplication of the genome. Here, we generated knock-in mice with LoxP sites flanking exons encoding the critical ATPase domain of ORC1. Global or tissue-specific ablation of ORC1 function in mouse embryo fibroblasts and fetal and adult diploid tissues blocked DNA replication, cell lineage expansion, and organ development. Remarkably, ORC1 ablation in extraembryonic trophoblasts and hepatocytes, two polyploid cell types in mice, failed to impede genome endoreduplication and organ development and function. Thus, ORC1 in mice is essential for mitotic cell divisions but dispensable for endoreduplication. We propose that DNA replication of mammalian polyploid genomes uses a distinct ORC1-independent mechanism.
+DNA replication; endoreduplication; hepatocytes; polyploidy.

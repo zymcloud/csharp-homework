@@ -1,0 +1,4 @@
+25421669
+2015
+Infectious agents are one of the factors which contribute to cancer development. Few examples include human papilloma virus in cervical cancer, hepatitis virus in hepatocellular carcinoma, herpes virus in Kaposi's sarcoma, Epstein-Barr virus in nasopharyngeal carcinoma, human T-cell lymphotropic virus type-1 (HTLV-1) in T-cell leukemia and lymphoma, Helicobacter pylori in gastric cancer. These agents cause genomic instability in the host and most of them affect host immune system. Infectious agents may integrate in the host genome although their sit of integration is not fixed. Expression of some infectious agents involves epigenetic regulation by DNA methylation, histone modification, miRNA level alteration, and chromatin condensation. This chapter provides examples where epigenetic regulation has been reported in cancer-associated infectious agents. Epigenetic inhibitors and their potential in cancer control and treatment are also discussed.
+

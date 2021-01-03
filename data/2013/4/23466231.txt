@@ -1,0 +1,4 @@
+23466231
+2013 Apr 1
+Synthesis of series [17(20)Z]- and [17(20)E]-pregna-5,17(20)-dien-21-oyl amides, containing polar substituents in amide moiety, based on rearrangement of 17α-bromo-21-iodo-3β-acetoxypregn-5-en-20-one caused by amines, is presented. The titled compounds were evaluated for their potency to regulate sterol and triglyceride biosynthesis in human hepatoma Hep G2 cells in comparison with 25-hydroxycholesterol. Three [17(20)E]-pregna-5,17(20)-dien-21-oyl amides at a concentrations of 5 μM inhibited sterol biosynthesis and stimulated triglyceride biosynthesis; their regulatory potency was dependent on the structure of amide moiety; the isomeric [17(20)Z]-pregna-5,17(20)-dien-21-oyl amides were inactive.
+

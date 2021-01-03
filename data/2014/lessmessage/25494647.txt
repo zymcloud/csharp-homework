@@ -1,0 +1,4 @@
+25494647
+2015
+Compound 1, a triterpenoid saponin from Ardisia gigantifolia Stapf. showing potential anti-tumor activity, was transformed into three derivatives (2-4) by Aspergillus avenaceus 3.4454. Among them, compounds 2 and 3 are new compounds. Their structures were elucidated on the basis of 1D NMR, 2D NMR, HR-ESI-MS, and optical rotation data. Compounds 1-3 were evaluated for their cytotoxicity against human hepatocellular carcinoma and normal liver cells by cell counting kit 8 colorimetric assay. Compound 3 displayed better cytotoxicity against Bel-7402 and HepG2 cell lines and much weaker cytotoxicity against normal liver L02 cell than that of positive control (epirubicin hydrochloride).
+Ardisia gigantifolia; Aspergillus avenaceus; biotransformation; triterpenoid saponin.

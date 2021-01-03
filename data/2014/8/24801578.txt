@@ -1,0 +1,4 @@
+24801578
+2014 Aug
+The activation of phase-specific cyclin-dependent kinases is associated with ordered cell cycle transitions. Among the mammalian Cdks, Cdk2 is essential for liver cancer cell proliferation. The related cycling protein CDK2 was analyzed by 2D-gel and MALDI-TOF/TOF MS mass assay in liver cancer cells, which CDK2 was silenced. The results showed four significantly different spots in cell ribonucleoprotein (similar to ribosomal protein S12, chaperonin 10-related protein, beta-actin and zinc finger protein 276) and four in plasmosin (aldolase A protein, hCG, anonymous protein and tubulin, gamma complex associated protein 2). In the plasmosin, aldolase A catalyzes the production of tublin and actin. Together they regulate the cell cycle and arrest the cell in the S phage. In the cell ribonucleoprotein, proteins with homology to ribosomal protein S12 and chaperonin 10 play a similar role in cell cycle regulation.
+

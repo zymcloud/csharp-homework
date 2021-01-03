@@ -1,0 +1,4 @@
+29050307
+2017 Aug 3
+Hepatocellular carcinoma, one of the most common cancers, leads to mass mortality worldwide currently. However, the underlying mechanism of its oncogenesis remains to be elucidated. Here we identified that a long noncoding RNA, lncSHRG, was greatly upregulated in human hepatocellular carcinoma samples. We found that lncSHRG was essential for liver cancer cell proliferation and tumor propagation in mice. In mechanism, lncSHRG recruits SATB1 to bind to HES6 promoter and initiates HES6 expression. HES6, which is highly expressed in hepatocellular carcinoma, promotes tumor cell proliferation. High expression level of HES6 is positively correlated with clinical severity and poor prognosis of people with hepatocellular carcinoma. Altogether, our research provides a new insight on the mechanism of hepatocellular carcinoma progression.
+HCC; HES6; SATB1; lncSHRG; proliferation.

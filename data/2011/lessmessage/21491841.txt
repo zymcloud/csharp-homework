@@ -1,0 +1,4 @@
+21491841
+2011
+Single nucleotide polymorphisms located at miRNA-binding sites are likely to affect the expression of the miRNA targets and may contribute to the susceptibility of humans to common diseases. Here we selected 289 candidate Hepatocellular Carcinoma (HCC) related genes according to the existing literature and database. We identified putative miRNA-binding sites of 52 genes by specialised algorithms, screened SNPs in the 3'-UTRs of 50 genes. Using BLAST program, we identified 5 genes that had SNPs in the regions of miRNA-binding sites, one of which is confirmed in another published study. We propose these SNPs for further investigations in case-control association studies.
+

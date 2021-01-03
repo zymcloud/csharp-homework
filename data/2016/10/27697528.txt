@@ -1,0 +1,4 @@
+27697528
+2016 Oct 28
+Semaphorins are essential for the functions in the regulation of cell migration. SEMA 4A has been proven to play a prominent role in immune function and angiogenesis. However, whether SEMA 4A is involved in HCC chemoresistance is unclear. We investigated the role of SEMA 4A in HCC chemoresistance and the underlying mechanisms. We tested the doxorubicin sensitivity of the Huh7, and Hep-G2 HCC cell lines. Immunofluorescence and Western blot were used to detect the location and expression of EMT-related protein, such as, E-cadherin, Vimentin, and SEMA4A expression. Microarray data showed that SEMA 4A and SEMA 3F increased most dramatically under DOX treatment. Kncokdown of SEMA 4A in hepatoma cells can reduce EMT process. Expectedly, depletion of SEMA 4A also reversed EMT and increased the DOX sensitivity. SEMA 4A confers doxorubicin resistance on HCC by inducing epithelial-mesenchymal transition (EMT).
+Doxorubicin; EMT; HCC; SEMA 4A.

@@ -1,0 +1,4 @@
+25760143
+2015 May
+Small interfering RNA (siRNA) technology is a powerful tool in biomedical research and holds great potential for RNA interference-based therapies for HIV, hepatitis and cancer. However, the absence of a safe and efficient method for the delivery of siRNA has become a bottleneck for their development. Nanocrystallized hydroxyapatite (nHAP) appears to be an optimal candidate non-viral gene vector for several reasons, including its good biocompatibility and ease of production, however, nHAP microemulsions cannot remain monodispersed for long periods of time. Due to their high surface energy, nHAP particles gradually aggregate into large ones that are difficult for the cell to take up. To overcome this we modified nHAP with polyethylenimine (PEI) to generate a compound (MnHAP) with a tight size-distribution of
+

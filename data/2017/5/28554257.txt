@@ -1,0 +1,4 @@
+28554257
+2018 May
+In the present study, a sustainable green chemistry approach was established to fabricate magnetic Fe3O4 nanoparticles (Fe3O4NPs) using the aqueous fruit extract of edible C. guianensis (CGFE). Synthesized NPs were further confirmed with different high-throughput characterization techniques such as UV-visible spectroscopy, FT-IR, XPS, DLS and zeta potential analysis. Additionally, XRD, AFM, HRTEM and SQUID VSM demonstrate the generation of crystalline CGFe3O4NPs with mean diameter of 17 ± 10 nm. Interestingly, CGFe3O4NPs exhibit a stupendous bactericidal action against different human pathogens which depicts its antimicrobial value. A significant dose-dependent cytotoxic effect of CGFe3O4NPs was noticed against treated human hepatocellular carcinoma cells (HepG2).
+C. guianensis; Phytosynthesis; SQUID VSM; bactericidal; liver cancer; magnetic Fe3O4.

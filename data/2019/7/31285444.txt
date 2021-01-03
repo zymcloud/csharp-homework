@@ -1,0 +1,4 @@
+31285444
+2019 Jul 8
+MicroRNA-212-3p inhibits several human cancers but its effects on hepatocellular carcinoma (HCC) remain unclear. In this study, we show that miR-212-3p is down-regulated in HCC cell lines and tissues, and correlates with vascular invasion (p = 0.001), and the absence of capsule formation (p = 0.009). We found that miR-212-3p influenced the epithelial to mesenchymal transition (EMT) of HCCLM3 and Huh7 cells. Mechanistically, miR-212-3p repressed cell invasion through the suppression of connective tissue growth factor (CTGF). We therefore validate the anti-HCC effects of miR-212-3p through its ability to suppress CTGF and subsequent EMT.
+

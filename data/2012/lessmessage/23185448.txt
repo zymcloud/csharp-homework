@@ -1,0 +1,4 @@
+23185448
+2012
+Endogenous retroviruses, non-retroviral RNA viruses and DNA viruses have been found in the mammalian genomes. The origin of Hepatitis C virus (HCV), the major cause of chronic hepatitis, liver cirrhosis, and hepatocellular carcinoma in humans, remains unclear since its discovery. Here we show that fragments homologous to HCV structural and non-structural (NS) proteins present in the European rabbit (Oryctolagus cuniculus) and hare (Lepus europaeus) genomes replicate in bovine cell cultures. The HCV genomic homolog fragments were demonstrated by RT-PCR, PCR, mass spectrometry, and replication in bovine cell cultures by immunofluorescence assay (IFA) and immunogold electron microscopy (IEM) using specific MAbs for HCV NS3, NS4A, and NS5 proteins. These findings may lead to novel research approaches on the HCV origin, genesis, evolution and diversity.
+

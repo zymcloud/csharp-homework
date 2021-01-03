@@ -1,0 +1,4 @@
+23652197
+2013 Aug 9
+CD133 on cancer stem cells is a potential therapeutic target. In this study, CD133 antibody (CD133mAb) treatment resulted in cell death in hepatoma LM3, HepG2, Hep3B and Huh-7 cells, especially under low glucose condition. The treatment also inhibited formation of spheroids, colonies, and xenograft tumors. Ectopic CD133 enabled hepatocyte L02 to be suppressed by CD133mAb and increased spheroid formation. CD133mAb caused cell death in primary HCC cells and sensitized them to Doxorubicin and Cisplatin. The antibody effect was attributed to suppressing autophagy and promoting necrotic cell death. Therefore, targeting CD133 under low glucose condition is a potential therapeutic approach for hepatocarcinomas.
+

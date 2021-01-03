@@ -1,0 +1,4 @@
+21972601
+2011 Aug
+Human hepatocellular carcinoma BEL-7402 cells were treated with 50 micromol/L Musca domestica cecropin for 12 h, and observed under scanning electron microscope. The effect of Musca domestica cecropin labeled with FITC (FITC-cecropin) on BEL-7402 cells was detected by laser scanning confocal microscopy. The scanning electron microscopy showed that most microvilli on the surface of BEL-7402 cells disappeared at 12 h after cecropin treatment. The laser scanning confocal microscopy revealed that most FITC-cecropin combined with BEL-7402 cell membrane, and partly in the cytoplasm.
+

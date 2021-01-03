@@ -1,0 +1,4 @@
+32540379
+2020 Oct
+The chemical investigation of the flowers and twigs of Calliandra calothyrsus (Fabaceae) led to the isolation of three new oleanane-type triterpenoid saponins, named calothyrsusosides AC (13). Their structures were established by direct interpretation of their spectral data, mainly HRESIMS, 1D NMR and 2D NMR (1H, 1H NMR DOSY, 13C NMR, COSY, HSQC, HMBC, HSQC-TOCSY and NOESY) and by comparison with literature data. Compounds 1 and 2 were tested for their antiproliferative activity against two digestive carcinoma human cell lines: Hep3B (hepatocellular carcinoma) and Caco-2 (epithelial colorectal adenocarcinoma). Both compounds exhibited an antiproliferative activity against the Hep3B cell line, with IC50 values of 6.0 and 6.5 μM, respectively, while no effect was detected against the epithelial colorectal adenocarcinoma Caco-2 (CC50 > 25 μM).
+Calliandra calothyrsus; Calothyrsusoside; Cytotoxicity; Fabaceae; Triterpenoid saponins.

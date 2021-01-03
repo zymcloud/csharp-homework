@@ -1,0 +1,4 @@
+31289040
+2019 Sep
+In hepatocellular carcinoma (HCC), surgical resection is associated with high recurrence rate, and no effective adjuvant therapy currently exists. We initiated a pilot randomized trial of perioperative immunotherapy with nivolumab and ipilimumab for resectable HCC. Here, we provide an illustrative report of a case that achieved a complete response and report immunologic correlates of this complete pathologic response to perioperative immunotherapy. Clinical response was correlated with an increase in CD8+ T-cell infiltration, with an increase in two effector T-cell clusters. This study is ongoing, and the final results may contribute to a paradigm shift in the perioperative treatment of HCC, leading to the incorporation of immunotherapy in the curative setting.
+

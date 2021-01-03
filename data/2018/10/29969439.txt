@@ -1,0 +1,4 @@
+29969439
+2018 Oct
+CRISPR base editing enables the creation of targeted single-base conversions without generating double-stranded breaks. However, the efficiency of current base editors is very low in many cell types. We reengineered the sequences of BE3, BE4Gam, and xBE3 by codon optimization and incorporation of additional nuclear-localization sequences. Our collection of optimized constitutive and inducible base-editing vector systems dramatically improves the efficiency by which single-nucleotide variants can be created. The reengineered base editors enable target modification in a wide range of mouse and human cell lines, and intestinal organoids. We also show that the optimized base editors mediate efficient in vivo somatic editing in the liver in adult mice.
+

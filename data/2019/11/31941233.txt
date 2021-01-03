@@ -1,0 +1,4 @@
+31941233
+2019 Nov 20
+The World Health Organization has proposed a 65% reduction in viral hepatitis-related mortality by 2030, and the key to achieve this ambitious goal is to reduce mortality from viral hepatitis-related hepatocellular carcinoma (HCC). HCC is the second leading cause of death in patients with malignant tumors in China. Notably, one of the important links to reduce the risk of HCC is based on HCC risk factors and very early warning HCC biomarkers. Therefore, constructing a HCC risk prediction model, accurately identifying high-risk HCC population, developing an individualized HCC screening strategy, may improve the early HCC diagnosis and cure rate in China.
+Carcinoma, hepatocellular; Early diagnosis; Surveillance; Viral hepatitis.

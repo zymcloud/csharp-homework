@@ -1,0 +1,4 @@
+26632545
+2015 Oct
+Hepatocellular carcinoma (HCC) is the most common type of hepatic malignancies, with poor prognosis. Treatment for HCC are limited, especially for patients with advanced disease who are not eligible for curative hepatectomy or hepatic transplantation. Mechanisms of immune response during tumor development have been investigated for decades. The efficacy and safety of immunotherapy have also been tested in clinical treatment of malignancies. Here we reviewed the immunotherapy strategies for HCC, as well as the particularity of liver immune system and the immune tolerance of HCC. Vaccines, adaptive therapy, immune checkpoint blockades and cytokines are included. We hope this review will give us an integral concept on HCC immunotherapy and help the readers to understand the mechanism of immune tolerance in liver cancer.
+

@@ -1,0 +1,4 @@
+22236470
+2012 Feb
+A series of compounds bearing a Tetrazole and Triazine ring motif conjugated with a SO(2)NH function were synthesized and investigated for their antiamoebic potency. Cytotoxicity of the compounds was checked on human hepatocellular carcinoma cell line HepG2. Incorporation of Triazine ring in place of tetrazole resulted in a precipitous increase in the antiamoebic activity of the compounds. Antiamoebic activity of the investigated compounds was found to be position and substituent dependent. In vitro cytotoxicity results revealed noncytotoxic nature of all the tested compounds up to a concentration of 25 μM. Compound 5c and 5d were obtained as least cytotoxic (IC(50) > 100 μM) and excellent Entamoeba histolytica inhibitors with IC(50) values of 1.05 μM and 1.02 μM respectively.
+

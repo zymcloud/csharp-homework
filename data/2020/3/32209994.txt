@@ -1,0 +1,4 @@
+32209994
+2020 Mar 23
+We investigated the association between early tumor shrinkage (ETS) and treatment outcome in patients with hepatocellular carcinoma treated with lenvatinib (LEN). A retrospective analysis was performed in 104 patients. ETS was defined as tumor shrinkage at the first evaluation in the sum of target lesions' longest diameters from baseline according to the Response Evaluation Criteria in Solid Tumors (RECIST). The median overall survival (OS) was not reached, whereas the median progression-free survival (PFS) was 5.0 months. The receiver operating characteristic curve analysis in differentiating long-term responders (PFS ≥ 5.0 months) from short-term responders (PFS
+Response Evaluation Criteria in Solid Tumors (RECIST); early tumor shrinkage; hepatocellular carcinoma; lenvatinib; overall survival.

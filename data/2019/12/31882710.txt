@@ -1,0 +1,4 @@
+31882710
+2019 Dec 27
+We previously identified Drosophila REPTOR and REPTOR-BP as transcription factors downstream of mTORC1 that play an important role in regulating organismal metabolism. We study here the mammalian ortholog of REPTOR-BP, Crebl2. We find that Crebl2 mediates part of the transcriptional induction caused by mTORC1 inhibition. In C2C12 myoblasts, Crebl2 knockdown leads to elevated glucose uptake, elevated glycolysis as observed by lactate secretion, and elevated triglyceride biosynthesis. In Hepa1-6 hepatoma cells, Crebl2 knockdown also leads to elevated triglyceride levels. In sum, this works identifies Crebl2 as a regulator of cellular metabolism that can link nutrient sensing via mTORC1 to the metabolic response of cells.
+

@@ -1,0 +1,4 @@
+20949432
+2010 Feb
+Methylation of inorganic arsenic to produce mono-, di-, or trimethylated products is the central process in the cellular metabolism of arsenic. Identification of arsenic (+3 oxidation state) methyltransferase (As3mt) as the enzyme that could catalyze all the steps in the pathway for arsenic methylation suggests that expression of this enzyme could be a useful target for manipulation. Here, methods are described for heterologous expression of the rat As3mt gene in a human urothelial cell line that normally does not express this enzyme and for silencing of the AS3MT gene by RNA interference in a human hepatoma cell line. These tools can be applied to elucidating the role of methylation in the toxic and carcinogenic effects of arsenicals.
+

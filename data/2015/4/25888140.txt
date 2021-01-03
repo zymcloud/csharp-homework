@@ -1,0 +1,4 @@
+25888140
+2015 Apr 10
+Background:Despite the recent identification of several prognostic gene signatures, the lack of common genes among experimental cohorts has posed a considerable challenge in uncovering the molecular basis underlying hepatocellular carcinoma (HCC) recurrence for application in clinical purposes. To overcome the limitations of individual gene-based analysis, we applied a pathway-based approach for analysis of HCC recurrence.Results:By implementing a permutation-based semi-supervised principal component analysis algorithm using the optimal principal component, we selected sixty-four pathways associated with hepatitis B virus (HBV)-positive HCC recurrence (p Conclusions:Using pathway-based analysis, we successfully identified the pathways involved in recurrence of HBV-positive HCC that may be effectively used as prognostic markers.
+

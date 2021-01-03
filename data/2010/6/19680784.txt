@@ -1,0 +1,4 @@
+19680784
+2010 Jun
+Inflammation and infection have been linked to the bionomics of many cancers, including hepatocellular carcinoma (HCC). Some bacteria, such as Helicobacter pylori, have been found in pathological specimens from patients with HCC. However, little is known about the direct effects of bacteria or their components on hepatoma cells. We analyzed the in vitro proliferation, adhesion and invasion responses of the tumor cell lines HepG2 and HepG2.2.15 to lipopolysaccharide (LPS), a cell wall constituent of Gram-negative bacteria. HepG2 and HepG2.2.15 cells show increased proliferation in response to LPS. Their invasion and adhesion abilities were also increased in response to LPS, which may be related to increased gene expression of interleukin-8 and transforming growth factor-beta1. We infer that bacteria may be ignored by immune systems and directly promote adhesion and invasion of hepatoma cells through LPS.
+

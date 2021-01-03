@@ -1,0 +1,4 @@
+33086070
+2020 Oct 20
+The Hippo signaling pathway maintains organ size and tissue homeostasis via orchestration of cell proliferation and apoptosis. How this pathway triggers cell apoptosis remains largely unexplored. Here, we identify NR4A1 as a target of the Hippo pathway that mediates the pro-apoptotic and anti-tumor effects of the Hippo pathway whereby YAP regulates the transcription, phosphorylation, and mitochondrial localization of NR4A1. NR4A1, in turn, functions as a feedback inhibitor of YAP to promote its degradation, thereby inhibiting the function of YAP during liver regeneration and tumorigenesis. Our studies elucidate a regulatory loop between NR4A1 and YAP to coordinate Hippo signaling activity during liver regeneration and tumorigenesis and highlight NR4A1 as a marker of Hippo signaling, as well as a therapeutic target for hepatocellular carcinoma.
+Hippo signaling pathway; NR4A1; apoptosis; hepatocellular carcinoma (HCC); liver regeneration.

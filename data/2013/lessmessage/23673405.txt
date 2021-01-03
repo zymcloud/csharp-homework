@@ -1,0 +1,4 @@
+23673405
+2013
+Herein, we report the rational design of a DEVD-based heptapeptide hydrogelator 1 which is susceptible to caspase-3 (CASP3), and its isomeric control hydrogelator 2 with a DEDV-based heptapeptide sequence. Self-assembly of 1 in water results in flexuous, long nanofibers to form supramolecular hydrogel I with higher mechanical strength than that of hydrogel II which is composed of rigid, short nanofibers of 2. In vitro enzymatic analysis indicated that 1 is susceptive to CASP3 while 2 is not. 3-(4,5-dimethylthiazol-2-yl) 2,5 diphenyl tetrazolium bromide (MTT) and Western blot analyses indicated that DEDV-based hydrogelator 2 induces cell death via apoptotic pathway while the DEVD-based hydrogelator 1 minimizes cellular apoptosis induction.
+

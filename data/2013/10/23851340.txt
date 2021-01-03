@@ -1,0 +1,4 @@
+23851340
+2013 Oct 1
+Real-time analyses of hepatocellular carcinoma were performed in living mice to assess the applicability of probe electrospray ionization-mass spectrometry (PESI-MS) in medical diagnosis. The number of peaks and the abundance of ions corresponding to triacylglycerols (TAGs) were higher in cancerous tissues than in noncancerous tissues. Multiple sequential scans of the specimens were performed along a predetermined line extending over the noncancerous region to detect the boundary of the cancerous region. Our system successfully discriminated the noncancerous and cancerous tissues based on the intensities of the TAG ions. These results highlight the potential application of PESI-MS for clinical diagnosis in cancer.
+Cancer diagnosis; Electrospray ionization; Hepatocellular carcinoma; Lipid; Mass spectrometry.

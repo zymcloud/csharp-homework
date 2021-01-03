@@ -1,0 +1,4 @@
+26284466
+2016 Jan
+Hepatocellular carcinoma (HCC) is one of the most prevalent malignancies, as a result of being asymptomatic at early stage, subsequent late clinical confirmation and poor prognosis. It is urgent to search more accurate biomarkers for diagnosing early HCC and predicting prognosis. Many factors participate in liver carcinogenesis, including dysregulation of miRNA. miRNA were endogenously expressed non-coding single-stranded small RNA with 19-25 nucleotides. Accumulating evidences have showed that miRNA from circulation and solitary tumors may be useful to classify the differentiation degree and stages of HCC, detect the hepatitis B/C virus-related HCC, and predict the survival rate after surgical resection or orthotopic liver transplantation. In this review, we summarize dysregulated miRNA, their roles in diagnosis and clinical implications of HCC.
+diagnosis; hepatocellular carcinoma; miRNA; prediction.

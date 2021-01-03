@@ -1,0 +1,4 @@
+26166077
+2015 Jul
+The goal of this study was to investigate the utility of H magnetic resonance spectroscopy (H-MRS) to quantify the differences in liver metabolites. Magnetic resonance spectroscopy was used as a means of predicting the probability of developing hepatocellular carcinoma (HCC) in patients with liver cirrhosis secondary to chronic hepatitis B.This study included 20 healthy volunteers, 20 patients with liver cirrhosis secondary to chronic hepatitis B (cirrhosis group), and 20 patients with small HCC secondary to cirrhosis liver parenchyma (HCC group). All patients underwent routine MRI and H-MRS scanning. LCModel software was used to quantify Cho (Choline), Lip (lipid), and Cho/Lip in the 3 groups, and a one-way ANOVA was used to compare the differences in these metabolites between groups.Choline levels were significantly different between the control and HCC group and between the cirrhosis group and the HCC group (all P
+

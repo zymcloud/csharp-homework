@@ -1,0 +1,4 @@
+30784182
+2019 May
+Hepatocellular carcinoma (HCC) is closely associated with abnormal DNA methylation. In this study, we analyzed 450K methylation chip data from 377 HCC samples and 50 adjacent normal samples in the TCGA database. We screened 47,099 differentially methylated sites using Cox regression as well as SVM-RFE and FW-SVM algorithms, and constructed a model using three risk categories to predict the overall survival based on 134 methylation sites. The model showed a 10-fold cross-validation score of 0.95 and satisfactory predictive power, and correctly classified 26 of 33 samples in testing set obtained by stratified sampling from high, intermediate and low risk groups.
+DNA methylation; hepatocellular carcinoma; machine learning.

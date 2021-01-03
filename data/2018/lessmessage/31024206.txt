@@ -1,0 +1,4 @@
+31024206
+Mar-Apr 2019
+Hepatocellular Carcinoma (HCC) is ubiquitous in its prevalence in most of the developing countries. In the era of systems biology, multi-omics has evinced an extensive approach to define the underlying mechanism of disease progression. HCC is a multifactorial disease and the investigation of progression of liver cirrhosis becomes much extensive with cultivating omics approaches. We have performed a comprehensive review about such challenges in multi-omics approaches that are concerned to identify the immunological, genetics and epidemiological factors associated with HCC.
+HBV, Hepatitis B Virus; HCC, Hepatocellular Carcinoma; HCV, Hepatitis B Virus; NAFLD, Non-Alcoholic Fatty Liver Disease; hepatocellular carcinoma; immunomodulators; signaling pathways; systems biology.

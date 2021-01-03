@@ -1,0 +1,4 @@
+28081730
+2017 Jan 2
+Aberrantly expressed microRNAs (miRNAs/miRs) and their role in cancer development have recently gained more attention. However, the potential role of miRNAs in hepatocellular carcinoma (HCC) remains largely unknown. In this study, we demonstrated that miR-377 was markedly downregulated in HCC cell lines and primary human HCC tissues. The decreased expression of miR-377 contributes to the upregulation of Bcl-xL expression by targeting its 3'-untranslated region (3'-UTR). Functionally, knockdown of miR-377 noticeably increased HCC cell growth and colony formation and inhibited apoptosis. In contrast, overexpression of miR-377 suppressed cell proliferation and increased apoptosis. This study provides new insights for the use of miR-377 as a potential molecular target in HCC therapy.
+

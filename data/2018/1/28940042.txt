@@ -1,0 +1,4 @@
+28940042
+2018 Jan
+Accurate detection and characterization of liver observations to enable HCC diagnosis and staging using LI-RADS requires a technically adequate imaging exam. To help achieve this objective, LI-RADS has proposed technical requirements for CT, MR, and contrast-enhanced ultrasound of liver. This article reviews the technical requirements for liver imaging, including the description of minimum acceptable technical standards, such as the scanner hardware requirements, recommended dynamic imaging phases, and common technical challenges of liver imaging.
+CEUS; CT; HCC; LI-RADS; MRI.

@@ -1,0 +1,4 @@
+28581822
+2018 Apr
+Three new sesquiterpenes of canusesnol K (1), canusesnol L (2) and 12, 15-dihydroxycurcumene (3), along with five known ones (4-8), were isolated from the heartwood extract of Pterocarpus santalinus. Their structures were established by extensive analyses of 1D and 2D NMR spectroscopy, including 1H NMR, 13C NMR, HSQC, HMBC and NOESY, and HRESI-MS. The absolute configurations of the new compounds were established with Modified Mosher's method. The cytotoxic activities of all these compounds against HepG2 (human liver cancer), MCF-7 (human breast cancer), MDA-MB-231 (human breast cancer), and Hela (human cervical carcinoma) cancer cell lines were evaluated. Compound 1 exhibited moderate cytotoxic activity toward MDA-MB-231 cell lines.
+12, 15-dihydroxycurcumene; Fabaceae; Pterocarpus santalinus; canusesnol K; canusesnol L; cytotoxic activities.

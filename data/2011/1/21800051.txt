@@ -1,0 +1,4 @@
+21800051
+2012 Jan
+The ubiquitin C-terminal hydrolase (UCH) is a subfamily of deubiquitinating enzymes, which consists of four members: UCH-L1, UCH-L3, UCH37, and BRCA1-associated protein-1. Although there is growing evidence that UCH enzymes and human malignancies are closely correlated, there have been few studies on UCH37, especially on its interactions with other proteins. In the current study, a functional proteomic analysis was performed to screen UCH37-interacting proteins in hepatocellular carcinoma (HCC), and glucose-regulated protein 78 was identified as one interacting with UCH37, which was confirmed by co-immunoprecipitation and confocal laser scanning microscopy analysis, suggesting that their interaction could provide a new insight into the mechanism of HCC.
+

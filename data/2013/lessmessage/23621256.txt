@@ -1,0 +1,4 @@
+23621256
+2013
+microRNAs (miRNAs) are small non-coding RNAs that regulate gene expression through post-transcriptional interactions with mRNA. miRNAs have recently emerged as key regulators of various cancers. Although miR- 27a has been implicated in several other cancers, its role in hepatitis B virus-related hepatocellular carcinoma (HCC) is unknown. In this study, we showed miR-27a to be frequently up-regulated in HCC tissues and HCC cell lines (HepG2 and Huh7). Overexpression of miR-27a enhanced cell proliferation, promoted migration and invasion, and activated cell cycling in HepG2 and Huh7 cells. In summary, our results suggest that up-regulation of miR-27a may play an oncogenic role in the development of HCC and might thus be a new therapeutic target in HCC patients.
+

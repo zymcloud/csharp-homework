@@ -1,0 +1,4 @@
+25236910
+2014 Dec 1
+Mutations in the APC (adenomatous polyposis coli) gene, which encodes a multi-functional protein with a well-defined role in the canonical Wnt pathway, underlie familial adenomatous polypsosis, a rare, inherited form of colorectal cancer (CRC) and contribute to the majority of sporadic CRCs. However, not all sporadic and familial CRCs can be explained by mutations in APC or other genes with well-established roles in CRC. The AXIN1 and AXIN2 proteins function in the canonical Wnt pathway, and AXIN1/2 alterations have been proposed as key defects in some cancers. Here, we review AXIN1 and AXIN2 sequence alterations reported in gastrointestinal cancers, with the goal of vetting the evidence that some of the variants may have key functional roles in cancer development.
+Beta-catenin; Colon cancer; Gastric cancer; Hepatocellular carcinoma; Wnt signaling.

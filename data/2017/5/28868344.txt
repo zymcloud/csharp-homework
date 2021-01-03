@@ -1,0 +1,4 @@
+28868344
+2017 May 19
+Using duplex-consensus sequencing technology, we recently identified the characteristic high-resolution mutational spectrum of the liver carcinogen aflatoxin B1 in a mouse model, many months before aflatoxin-induced tumors are detectable. The diagnostic power of this spectrum is then demonstrated by accurately identifying, among the sequenced human liver tumors, the subset of cancers associated with aflatoxin B1 exposure.
+Duplex sequencing; HCC; hepatocellular carcinoma; mutagenesis; mutational signature; mycotoxins.

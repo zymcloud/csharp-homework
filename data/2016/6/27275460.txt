@@ -1,0 +1,4 @@
+27275460
+2016 Jun
+Cancer stem cell (CSC) marker CD133 was found to be upregulated in many cancers including hepatocellular carcinoma (HCC). However, the molecular mechanism of CD133 regulation in the liver tumor microenvironment has remained elusive. In this study Won and colleagues report that interleukin-6 (IL-6) mediated signal transducer and activator of transcription factor 3 (STAT3) signaling and hypoxia enhance the expression of CD133 and promote the progression of HCC.
+CD133; hepatocellular carcinoma (HCC); interleukin-6 (IL-6); signal transducer and activator of transcription factor 3 (STAT3).

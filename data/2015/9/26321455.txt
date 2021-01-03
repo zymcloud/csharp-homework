@@ -1,0 +1,4 @@
+26321455
+2015 Sep
+Locoregional therapies (LRTs) have proved valuable in the treatment of patients with cancer, most commonly in the liver. Accurate assessment of response to these therapies is crucial because objective response can be a surrogate of improved survival. Imaging plays an essential role in the objective evaluation of tumor response to most cancer therapies, including LRTs. Assessing imaging response to LRTs, however, can be challenging and is evolving. This article reviews the different criteria used to assess radiologic response to LRTs, with special attention to imaging assessment following treatment of hepatocellular carcinoma.
+Computed tomography (CT); European Association for the Study of the Liver (EASL); MR imaging; Modified RECIST (mRECIST); Response assessment; Response evaluation criteria in solid tumors (RECIST); World Health Organization (WHO).

@@ -1,0 +1,4 @@
+21806988
+2011 Sep 2
+Hepatitis C virus (HCV) infects human hepatocytes through several host factors. However, other prerequisite factors for viral entry remain to be identified. Using a yeast two-hybrid screen, we found that human phospholipid scramblase 1 interacts with HCV envelope proteins E1 and E2. These physical interactions were confirmed by co-immunoprecipitation and GST pull-down assays. Knocking down the expression of PLSCR1 inhibited the entry of HCV pseudoparticles. Moreover, PLSCR1 was required for the initial attachment of HCV onto hepatoma cells, where it specifically interacted with entry factor OCLN. We show that PLSCR1 is a novel attachment factor for HCV entry.
+

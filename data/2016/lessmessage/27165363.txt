@@ -1,0 +1,4 @@
+27165363
+2016
+Liver and pancreatic cancers are amongst the leading causes of cancer death. In recent years, genetic and chemical approaches in zebrafish have elucidated cellular and molecular mechanisms of liver and pancreatic cancer formation and progression. In this chapter, we review the recent approaches and advances in the field to study both hepatocellular carcinomas and pancreatic cancer.
+Liver cancer; Liver development; Mutations; Pancreas cancer; Pancreas development; Transgenesis; Zebrafish.

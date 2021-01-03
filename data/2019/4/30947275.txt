@@ -1,0 +1,4 @@
+30947275
+2019 Apr 4
+Background/aims:It is important to identify patients who are refractory to transarterial chemoembolization (TACE), which is performed for the treatment of hepatocellular carcinoma (HCC). We investigated the predictors of poor treatment outcomes in patients with recurrent HCC treated who were treated with TACE after curative resection.Methods:428 patients with recurrent HCC after curative resection who were treated with TACE were enrolled.Results:The median age of the study population was 59.2 years. On multivariate analysis, ≥2 TACE procedures within 6 months (hazard ratio [HR] = 1.898), and the des-gamma carboxyprothrombin level (HR = 1.000) independently predicted the progression to Barcelona Clinic Liver Cancer (BCLC) stage C in patients with BCLC stage 0-B HCC (both PConclusions:More than 2 TACE procedures within 6 months might be associated with the refractoriness to TACE in patients with recurrent HCC after curative resection.
+

@@ -1,0 +1,4 @@
+25416652
+2015 Jan 7
+A proteomics profile analysis was performed on a human hepatocyte carcinoma cell line (HepaRG) by using the FD-LC-MS/MS method. One hundred and fifty-eight proteins were newly identified for the first time of which 10 were found to be specific to human hepatocytes. These proteins are a "proteomics fingerprint" that can be used to characterize HepaRG cells.
+

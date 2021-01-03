@@ -1,0 +1,4 @@
+26138747
+2016 Jul
+A biomarker capable of clinically predicting hepatocellular carcinoma (HCC) recurrence has not previously been established. Here genome-wide differential methylation between primary and recurrent HCC cell lines (Hep-11 and Hep-12) from the same patient was characterized. The HCC samples from two independent cohorts, complete with follow-up data, were used to validate the feasibility of the selected methylation biomarkers in predicting HCC prognosis. A methylation array assay identified 30 candidate genes or intergenic-fragments with an absolute methylation fold-change >2.0 between these cell lines; 22 candidates were hypomethylated in Hep-12 cells relative to Hep-11 cells. Bisulfite sequencing confirmed these results. Most importantly, classification of tumors by LINE-2 methylation level was significantly associated with HCC recurrence in both cohorts (P
+DNA methylation; LINC00682; LINE-2; MAD1L1; followup recurrence; hepatocellular carcinoma.

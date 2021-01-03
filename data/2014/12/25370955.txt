@@ -1,0 +1,4 @@
+25370955
+2014 Dec
+Slot antennas are often considered as a suitable choice for microwave ablation due to design simplicity, low cost to manufacture and a highly confined temperature profile. In this paper, an iterative coupled thermal/microwave numerical formulation is presented to analyze and develop miniature slot antenna geometries for localized liver cancer treatment. The thermal solver determines the specific absorption rate (SAR) as a pre-processing step to determine the temperature distribution profile within malignant tissues. The microwave solver uses this computed thermal solution together with related boundary/sub-domain settings to determine complex propagation wave number as an Eigen value. The desired microwave response in terms of insertion loss
+

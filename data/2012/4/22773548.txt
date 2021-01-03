@@ -1,0 +1,4 @@
+22773548
+2013 Apr
+Objective:Type 2 diabetes mellitus is associated with a higher risk of hepatocellular carcinoma (HCC), which is attenuated by the use of metformin. However, there are no studies addressing the effect of metformin on hepatocarcinoma cells from the antitumoural perspective.Design:In the nationwide case-control study, the authors recruited 97,430 HCC patients and 19,860 age-, gender- and physician visit date-matched controls. The chemopreventive effects of metformin were examined by multivariate analysis and stratified analysis. The in vitro effects of metformin on cell proliferation and cell cycle were studied in HepG2 and Hep3B hepatoma cell lines.Results:The OR of diabetes in HCC patients was 2.29 (95% CI 2.25 to 2.35, pConclusions:Use of metformin is associated with a decreased risk of HCC in diabetic patients in a dose-dependent manner, via inhibition of hepatoma cells proliferation and induction of cell cycle arrest at G0/G1 phase.
+

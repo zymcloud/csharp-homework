@@ -1,0 +1,4 @@
+28333112
+2017 Mar 23
+In order to study the structure-activity relationships of xanthene derivatives, four series of N-substituted 14-aryl-14H-dibenzo[a,j]xanthene-3,11-dicarboxamide derivatives were synthesized. The structures of all compounds were identified by ¹H-NMR, HR-MS and IR spectra, in which compounds 6a-h were further identified by 13C-NMR spectra. The in vitro antitumor activity of the synthesized compounds was tested by MTT assay. Most of them displayed strong inhibitory activity on human hepatocellular carcinoma cell lines (SK-HEP-1, HepG2 and SMMC-7721 cells) and acute promyelocytic leukemia NB4 cells. Compounds 6c-6e exhibited significant inhibitory activity against NB4 cells with IC50 values of 0.52 μM and 0.76 μM, respectively, much lower than 5.31 μM of the positive control As₂O₃.
+NMR spectroscopy; cytotoxicity; dibenzo[a,j]xanthenes; synthesis design.

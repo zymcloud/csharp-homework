@@ -1,0 +1,4 @@
+23879543
+2013
+Overexpression of ECHS1 occurs in different cancers, including hepatocellular carcinoma (HCC). ECHS1 is also reported to have an oncogenic activity in various human cancers. This study investigated the effect of ECHS1 knockdown on the regulation of HCC growth. ECHS1 shRNA suppressed the expression of ECHS1 protein in HepG2 cells compared to the negative control vector-transfected HCC cells. ECHS1 knockdown also reduced HCC cell viability and enhanced cisplatin-induced apoptosis in HCC cells. Akt activation and the expression of various cell cycle-related genes were inhibited following ECHS1 knockdown. ECHS1 shRNA suppressed hepatocellular carcinoma growth in tumor xenograft mice. These data demonstrate that ECHS1 may play a role in HCC progression, suggesting that inhibition of ECHS1 expression using ECHS1 shRNA should be further evaluated as a novel target for the control of HCC.
+

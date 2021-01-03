@@ -1,0 +1,4 @@
+23428858
+2013
+Objectives:To investigate the usefulness of the ultrasonography (US) fusion imaging system for radiofrequency ablation (RFA) for hepatocellular carcinoma (HCC).Methods:Since the US fusion imaging system became available in 2010, we have conducted RFA with this system in all cases. The characteristics of 75 patients with 120 HCCs and 89 patients with 123 HCCs who underwent RFA before the introduction of this system (period A) and after it (period B), respectively, were retrospectively compared.Results:Significant difference in the characteristics of the patients and HCCs between the two periods was found only in the proportion of HCCs with poor conspicuity on grayscale US treated with RFA (1.7%, 2/120 for period A vs. 15.4%, 19/123 for period B, p Conclusion:Since the introduction of the US fusion imaging system, it has become possible to perform RFA for HCCs with poor conspicuity on grayscale US.
+

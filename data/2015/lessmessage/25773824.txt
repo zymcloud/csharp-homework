@@ -1,0 +1,4 @@
+25773824
+2015
+Hepatocellular carcinoma (HCC) is a leading cause of cancer death worldwide. Presently, targeted therapy via monoclonal antibodies to specific tumor-associated antigens is being continuously developed. Hep88 mAb has proven to exert tumoricidal effects on the HepG2 cell via a paraptosis-like morphology. To verify the pathway, we then demonstrated downstream up-regulation of caspase-3, caspase-8 and caspase-9, assessingmRNA expression by real-time PCR and associated enzyme activity by colorimetric assay. Active caspase-3 determination was also accomplished by flow cytometry. Active caspase-3 expression was increased by Hep88 mAb treatment in a dose-and time-dependent manner. All of the results indicated that Hep88 mAb induced programmed cell death in the HepG2 cell line from paraptosis-like to apoptosis by downstream induction of caspases. These conclusions imply that Hep88mAb might be a promising tool for the effective treatment of HCC in the future.
+

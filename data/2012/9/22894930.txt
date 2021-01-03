@@ -1,0 +1,4 @@
+22894930
+2012 Sep 15
+Nanoparticle-encapsulated thiazole antibiotic, thiostrepton, has been shown to be an effective agent for inhibiting tumor growth in solid tumor models through the inhibition of proteasomal activity by the induction of apoptosis in cancer cells. Here, we show the efficacy of thiostrepton-micelles in inhibiting tumor growth in a DEN/PB-induced liver cancer model. We also demonstrate an enhanced anticancer effect of the combination treatment of thiostrepton with bortezomib, another proteasome inhibitor in this liver cancer model.
+

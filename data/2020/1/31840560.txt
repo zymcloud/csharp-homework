@@ -1,0 +1,4 @@
+31840560
+2020 Jan
+Hepatocellular carcinoma (HCC) is the third most common cause of cancer death globally, mainly due to lack of effective treatments - a problem that gene therapy is poised to solve. Successful gene therapy requires safe and efficient delivery vectors, and recent advances in both viral and nonviral vectors have made an important impact on HCC gene therapy delivery. This review explores how adenoviral, retroviral and adeno-associated viral vectors have been modified to increase safety and delivery capacity, highlighting studies and clinical trials using these vectors for HCC gene therapy. Nanoparticles, liposomes, exosomes and virosomes are also featured in their roles as HCC gene delivery vectors. Finally, new discoveries in gene editing technology and their impacts on HCC gene therapy are discussed.
+CRISPR; exosomes; gene delivery; gene editing; gene therapy; hepatocellular carcinoma; nanoparticles; viral vectors; virosomes.

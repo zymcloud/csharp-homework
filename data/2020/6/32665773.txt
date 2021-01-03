@@ -1,0 +1,4 @@
+32665773
+2020 Jun 22
+Tumor mutation burden (TMB) is associated with immunogenic responses and the survival of cancer patients. This study demonstrates how TMB levels impact the immune-related cells, genes, and miRNAs, and how miRNA/gene interactions respond to variations in the survival rate of patients with liver hepatocellular carcinoma (LIHC). LIHC patients were divided into two groups, either a low TMB (C9orf24 and CYP1A1 were expected to up-regulate in LIHC patients with high TMB. A total of 19 miRNAs, which regulate various functional pathways, were significantly altered in patients with LIHC. One of the miRNA/gene pair, hsa-miR-33a/ALDH1A3 was significantly associated with the survival rate of LIHC patients. Our results suggest that LIHC patients with high TMB can be treated more effectively with immunotherapy.
+liver hepatocellular carcinoma (LIHC); miRNA-gene interaction; prognosis; tumor mutation burden (TMB).

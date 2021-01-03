@@ -1,0 +1,4 @@
+22265862
+2012 Jun 1
+Sorafenib is a multi-kinase inhibitor applicable to hepatocellular carcinoma (HCC), but its limited therapeutic effects are a major problem to be solved. Here, we show that blockade of ataxia telangiectasia mutated (ATM) improves the antitumor effects of sorafenib. When hepatoma cell lines HepG2 and PLC/PRF/5 were treated with sorafenib plus ATM small inhibitory RNAs, ATM inhibitor KU55933 or caffeine, Akt signaling was suppressed and the cytotoxic effects were significantly potentiated. Moreover, ATM inhibition effectively suppressed the sorafenib-induced cell migration. Taken together, manipulation of ATM activity might be a useful strategy for improving sorafenib treatment of HCC.
+

@@ -1,0 +1,4 @@
+21647825
+2011 Aug
+Chronic hepatitis B virus (HBV) infection has been identified as a major risk factor in hepatocellular carcinoma (HCC), which is one of the most common cancers worldwide. The pathogenesis of HBV-mediated hepatocarcinogenesis is, however, incompletely understood. Evidence suggests that the HBV X protein (HBx) plays a crucial role in HCC development. HBx is a multifunctional regulator that modulates transcription, signal transduction, cell cycle progression, apoptosis, protein degradation pathways, and genetic stability through interaction with host factors. This review describes the current state of knowledge of the molecular pathogenesis of HBV-induced HCC, with a focus on the role of HBx in hepatocarcinogenesis.
+

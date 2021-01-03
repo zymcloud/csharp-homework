@@ -1,0 +1,4 @@
+23807738
+2013 Sep
+Liver cancer in men is the fifth most frequently diagnosed cancer worldwide. Programmed cell death 5 (PDCD5) is an apoptosis related gene and plays an important role in the pathogenesis and development of cancer. In this study, we confirmed that the levels of PDCD5 mRNA and protein were lower in hepatocellular carcinoma (HCC) tissue compared to normal tissue. PDCD5 expression was significantly associated with HBV infection, tumor number, lymph node metastasis and the survival time of the patients with HCC. In addition, the serum levels of PDCD5 and AFP in the patients were significantly positively correlated. We also confirmed that upregulation of PDCD5 was able to inhibit cell proliferation and mobility, induce apoptosis and G1 arrest. Interestingly, PDCD5 also inhibited proteasome activity similarly to the proteosome inhibitor MG132. PDCD5 could be considered as a reliable marker of favorable prognosis of HCC patients.
+

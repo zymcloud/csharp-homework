@@ -1,0 +1,4 @@
+26763402
+2016 Feb
+The VECELL 3-D insert is a new culture scaffold consisting of collagen-coated ePTFE (expanded polytetrafluoroethylene) mesh. We analyzed the effects of VECELL 3-D inserts on the functionality of HepG2, a human hepatocellular carcinoma cell line. HepG2 cells cultured on VECELL 3-D inserts maintained a round shape, while those cultured on a standard culture plate or collagen-coated cell culture plate showed a flattened and cubic epithelial-like shape. HepG2 cells cultured on VECELL 3-D inserts had showed upregulated expression of metallothionein genes and in turn a higher tolerance to toxicity induced by heavy metals. These results suggest that HepG2 cell functions were changed by the cell morphology that is induced by culturing on a VECELL 3-D insert.
+

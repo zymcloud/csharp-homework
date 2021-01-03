@@ -1,0 +1,4 @@
+32475089
+2020 Jul
+The Liver Imaging Reporting and Data System (LI-RADS) was created to standardize liver imaging in patients at high risk for hepatocellular carcinoma (HCC), and it uses a diagnostic algorithm to assign categories that reflect the relative probability of HCC, non-HCC malignancies, or benign focal liver lesions. In addition to major imaging features, ancillary features (AFs) are used by radiologists to refine the categorization of liver nodules. In the present document, we discuss and explain the application of AFs currently defined within the LI-RADS guidelines. We also explore possible additional AFs visible on contrast-enhanced ultrasonography (CEUS). Finally, we summarize the management of CEUS LI-RADS features, including the role of current and potential future AFs.
+Contrast-enhanced ultrasound; Hepatocellular carcinoma; Ultrasonography.

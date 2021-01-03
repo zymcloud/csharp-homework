@@ -1,0 +1,4 @@
+25723812
+2015 Apr
+Increased expression of excision repair cross-complementing 1 (ERCC1) in mCRC patients could be related to their response to Oxaliplatin based chemotherapy. We evaluated ERCC1 mRNA expression levels in primary bowel and liver metastases of 51 patients, and correlated with pathologic parameters and clinical outcomes. A significant negative correlation was detected between primary tumor ERCC1 and both the extent of clear surgical margins (P = 0.0011) and the percent of liver metastasis necrosis (P = 0.0167). No relationship was observed between ERCC1 expression and survival. Further study is needed to assess the promising role of ERCC1 expression as a predictive marker benefiting subgroups for Oxaliplatin.
+ERCC1; Metastatic colorectal cancer; Oxaliplatin.

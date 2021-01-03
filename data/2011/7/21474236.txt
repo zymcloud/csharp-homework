@@ -1,0 +1,4 @@
+21474236
+2011 Jul 1
+Many clinical reports have proven that the combination therapy of interferon-alpha plus 5-fluorouracil is remarkably effective for advanced hepatocellular carcinoma (HCC). However, the mechanism of this therapy is not well understood. Here, we demonstrated that the combination therapy synergistically inhibited the growth of Fas-negative HCC cells, arrested cell-cycle progression and induced apoptosis. Moreover, the combination therapy significantly increased the protein expression of caspase-8, activated Bid and cytochrome c. Meanwhile, the expression of anti-apoptotic gene Bcl-xL was reduced and intracellular calcium elevated obviously during the early stage of treatment. Therefore, mitochondrial pathway was involved in the apoptosis of Fas-negative HCC cells induced by IFN-α/5-FU and Ca(2+) partially promoted the beneficial effect against HCC.
+

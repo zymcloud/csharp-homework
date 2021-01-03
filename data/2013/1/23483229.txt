@@ -1,0 +1,4 @@
+23483229
+2013 Jan 1
+Recently, we reported the accumulation of CD4+FOXP3+ regulatory T cells (Tregs) within the tumor mass of patients bearing liver cancer. Tumor-infiltrating Tregs (TiTregs) are active and potent suppressors of antitumor immunity. Importantly, treatment with GITRL reduced the immunosuppression mediated by TiTregs.
+GITRL; T cells; colorectal cancer; hepatocellular carcinoma; immunotherapy; liver cancer; liver metastasis; regulatory T cells.

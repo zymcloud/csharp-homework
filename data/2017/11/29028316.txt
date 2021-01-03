@@ -1,0 +1,4 @@
+29028316
+2017 Nov 6
+Challenges exist in taking advantage of dye molecules for reliable and reproducible molecular probes in biomedical applications. In this study, we show how to utilize the dye molecules for bioimaging within protective carriers of nanocrystalline metal-organic frameworks (nMOFs) particles. Specifically, Resorufin and Rhodamine-6G having different molecular sizes were encapsulated within close-fitting pores of nMOF-801 and nUiO-67 particles, respectively. The resulting nanocrystalline particles have high crystallinity, uniform size, and morphology and preserve enhanced photoluminescence properties with exceptional stabilities in biomedical environment. The samples are further functionalized with a targeting agent and successfully work for fluorescence imaging of FL83B (human hepatocyte cell) and HepG2 (human hepatocellular carcinoma) without cytotoxicity.
+

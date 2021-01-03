@@ -1,0 +1,4 @@
+19890602
+2010 Jul
+Recent research in tumor metabolism has uncovered cancer-cell-specific pathways that cancer cells depend on for energy production. 3-Bromopyruvate (3-BrPA), a specific alkylating agent and potent ATP inhibitor, has been shown both in vitro and in vivo to disrupt some of these cancer-specific metabolic pathways, thereby leading to the demise of the cancer cells through apoptosis. 3-BrPA has been successfully tested in animal models of liver cancer. For optimal results, 3-BrPA can be delivered intra-arterially, with minimal toxicity to the surrounding hepatic parenchyma. In the era of development of drugs with lower toxicity for the treatment of liver cancer, inhibition of cancer metabolism with 3-BrPA appears to be a very attractive potent novel therapeutic option.
+

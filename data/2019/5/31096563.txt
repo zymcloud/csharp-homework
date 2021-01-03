@@ -1,0 +1,4 @@
+31096563
+2019 May 15
+High immunogenicity and systemic toxicity are the main obstacles limiting the clinical use of the therapeutic agents based on Pseudomonas aeruginosa exotoxin A. In this work, we studied the immunogenicity, general toxicity and antitumor effect of the targeted toxin DARPin-LoPE composed of HER2-specific DARPin and a low immunogenic exotoxin A fragment lacking immunodominant human B lymphocyte epitopes. The targeted toxin has been shown to effectively inhibit the growth of HER2-positive human ovarian carcinoma xenografts, while exhibiting low non-specific toxicity and side effects, such as vascular leak syndrome and liver tissue degradation, as well as low immunogenicity, as was shown by specific antibody titer. This represents prospects for its use as an agent for targeted therapy of HER2-positive tumors.
+DARPin; HER2; Pseudomonas exotoxin A; far-red fluorescent protein; immunogenicity; ovarian carcinoma; targeted therapy.

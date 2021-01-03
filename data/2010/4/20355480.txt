@@ -1,0 +1,4 @@
+20355480
+2010 Apr
+In this work we report on the development of novel hybrid material with enhanced photodynamic properties based on methylene blue and CdTe nanocrystals. Absorption spectroscopy, visible photoluminescence spectroscopy and fluorescence lifetime imaging of this system reveal efficient charge transfer between nanocrystals and the methylene blue dye. Near infra-red photoluminescence measurements provide evidence for an increased efficiency of singlet oxygen production by the methylene blue dye. In vitro studies on the growth of HepG2 and HeLa cancerous cells were also performed, they point towards an improvement in the cell kill efficiency for the methylene blue-semiconductor nanocrystals hybrid system.
+

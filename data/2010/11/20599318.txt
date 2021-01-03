@@ -1,0 +1,4 @@
+20599318
+2010 Nov 28
+Insulin-like growth factor binding protein-3 (IGFBP-3) plays key roles in regulating cell growth, differentiation, and apoptosis in a variety of cellular systems. We have observed significant down-regulation of IGFBP-3 expression in primary human hepatocellular carcinoma (HCC) tissues when compared to adjacent histologically normal tissues. In this study, we functionally mapped the entire 3'-UTR of the IGFBP-3 mRNA, spanning 1471 nt and identified a 210 bp fragment consisting of AT-rich elements at the distal downstream region preceding the consensus pre-mRNA polyadenylation signal that provide high affinity binding for TIA-1 to mediate the specific suppression of IGFBP-3 expression in human HCC cells.
+

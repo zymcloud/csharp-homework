@@ -1,0 +1,4 @@
+21750111
+2011 Oct 1
+Hepatitis B virus (HBV) infection is a major health issue worldwide which may lead to hepatic dysfunction, liver cirrhosis and hepatocellular carcinoma. To identify host genetic factors that are associated with chronic hepatitis B (CHB) susceptibility, we previously conducted a two-stage genome-wide association study (GWAS) and identified the association of HLA-DP variants with CHB in Asians; however, only 179 cases and 934 controls were genotyped using genome-wide single nucleotide polymorphism (SNP) arrays. Here, we performed a second GWAS of 519 747 SNPs in 458 Japanese CHB cases and 2056 controls. After adjustment with the previously identified variants in the HLA-DP locus (rs9277535), we detected strong associations at 16 loci with P-value of
+

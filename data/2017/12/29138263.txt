@@ -1,0 +1,4 @@
+29138263
+2017 Dec 15
+Sterol regulatory element binding protein 1c (SREBP-1c) promotes lipogenesis and tumor growth in various cancers. It is well known that clear cell renal cell carcinoma (ccRCC), a major subtype of the kidney cancers, exhibits elevated lipid accumulation. However, it has not been fully understood how lipid metabolism might be associated with cell cycle regulation in ccRCC. In a recent issue, Lee et al. (Molecular and Cellular Biology (2017) pii: MCB.00265-17) demonstrate that SREBP-1c is up-regulated in ccRCC by ring finger protein 20 (RNF20) down-regulation, leading to aberrant lipid storage and pituitary tumor transforming gene 1 (PTTG1)-dependent cell cycle progression. These findings suggest that SREBP-1c serves as a molecular bridge between lipid metabolism and cell cycle control in ccRCC tumorigenesis.
+SREBP-1c; lipogenesis; renal cell carcinoma.

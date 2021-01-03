@@ -1,0 +1,4 @@
+21895030
+2011 Oct
+A fiber confocal back scattering micro-spectrometer (FCBS) was established, which combined fiber confocal microscopy with light scattering spectroscopy (LSS) for early diagnosis of the cancer cell at cellular level. An adherent monolayer human normal gastric epithelium line GES-1 and a carcinoma cell line NCI-N87 as well as a normal liver cell line L02 and a high-metastatic-potential hepatocellular carcinoma cell line HCC-LM3 were measured respectively. The spectral results showed that micro-back-scattering intensity from GES-1 cell and L02 cell possessed interesting oscillations in contrast to NCI-N87 and HCC-LM3 cells. There was significant difference between the spectra of the normal and the cancer cells (p
+

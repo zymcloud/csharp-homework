@@ -1,0 +1,4 @@
+22647218
+2012 Aug
+A series of novel gramine analogues were designed and synthesized via a convenient three-component reaction, and which were evaluated for their inhibition activities against cell proliferation. Their structures were confirmed by satisfactory spectra analyses mainly including (1)H NMR, and ESI-MS analyses. The preliminary assays indicated that some of the newly synthesized compounds displayed significantly good inhibition activities against human lung cancer (NCI-H460), hepatocellular liver carcinoma (HepG2), gastric cancer (SGC-7901 and BGC-823) cell lines compared with the control 5-Fluorouracil (5-FU), which might be developed as novel lead scaffold for potential anticancer agents.
+

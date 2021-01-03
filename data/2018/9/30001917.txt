@@ -1,0 +1,4 @@
+30001917
+2018 Sep 15
+In this study, Complex I inhibitor R419 was firstly revealed to have significant anticancer activity against HepG2 cells (IC50 = 5.2 ± 0.9 μM). Based on this finding, a series of R419 derivatives were synthesized and biologically evaluated. As results, 9 derivatives were found to have obvious anticancer activity. Among them, H20 exhibited the most potent activity (IC50 = 2.8 ± 0.4 μM). Mechanism study revealed that H20 caused severe depletion of cellular ATP, dose-dependently activated AMPK, decreased Bcl-2/Bax ratio and induced necrotic cell death. Most importantly, H20 displayed definite inhibitory activity against Complex I.
+Complex I; Flavonoids derivatives; Human hepatocellular carcinoma; R419.

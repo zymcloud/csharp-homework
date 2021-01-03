@@ -1,0 +1,4 @@
+26275603
+2015 Aug 28
+The synthesis of a series of 14 new 1-(3-(aryl-4,5-dihydroisoxazol-5-yl)methyl)-4-trihalomethyl-1H-pyrimidin-2-ones from the 1,3-dipolar cycloaddition reaction of 1-allyl-4-(trihalomethyl)pyrimidin-2(1H)-ones with aryl nitrile oxides is described. Also, the antiproliferative activity of the title compounds was tested against five human tumoral cell lines: MCF-7 breast cancer cell line, ER+ (estrogen receptor positive); HepG-2 (hepatoma); T-24 (bladder cancer); HCT-116 cell (colorectal carcinoma); and CACO-2. The preliminary results are promising, since three compounds presented IC50 values below 2 μM, as well as moderate to high selectivity.
+4,5-Dihydroisoxazoles; Antiproliferative activity; Human tumoral cell; Nitrile oxides; Pyrimidin-2-ones.

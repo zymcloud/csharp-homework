@@ -1,0 +1,4 @@
+29191386
+2018 Jan 1
+Accumulating documents have revealed that microRNAs (miRNAs) play critical roles in the development and progression of tumors. MiR-429 has been reported to be involved in regulating various cellular processes. However, its biological role and underlying mechanism in hepatocellular carcinoma (HCC) still need to be further studied. The present study aimed to investigate the function of miR-429 in the progression of HCC. In terms of this paper, it was found that miR-429 was down-regulated in HCC tissues and cells. After being transfected with miR-429 mimics, miR-429 decreased the migratory capacity and reversed the EMT to MET in HCC cells. RAB23 was confirmed as a target of miR-429. Rescue assays further verified that the function of miR-429 in HCC cells was exerted through targeting RAB23. In general, it was concluded that the signal pathway miR-429/RAB23 might be a potential target for HCC treatment.
+EMT; HCC; Metastasis; MiR-429; RAB23.

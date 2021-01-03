@@ -1,0 +1,4 @@
+24848877
+2014 Jul 7
+A series of hybrids (5a–r) of farnesylthiosalicylic acid (FTS) and hydroxylcinnamic acid were designed and synthesized. Most of the hybrids displayed potent antiproliferative activity against seven cancer cell lines in vitro, superior to FTS as well as sorafenib. The most potent compound 5f selectively inhibited cancer cells but not non-tumor liver cell proliferation in vitro, and significantly induced SMMC-7721 cell apoptosis. Interestingly, 5f could simultaneously inhibit not only Ras-related signaling but also phosphorylated NF-κB, which may synergetically contribute to the cell growth inhibition and apoptosis induction. Moreover, 5f showed low acute toxicity to mice and significantly inhibited the hepatoma tumor growth.
+

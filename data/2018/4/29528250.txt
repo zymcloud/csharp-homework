@@ -1,0 +1,4 @@
+29528250
+2018 Apr
+Aim:SLC7A11 is a gene that encodes a cystine-glutamate antiporter, which has been detected to be overexpressed in various cancers. Thus, we aimed to validate its expression and clinical significance in liver cancer.Methods:Bioinformatic analysis was conducted and a tissue microarray was utilized for detecting SLC7A11 expression in liver cancer tissues by immunohistochemistry assay.Results:High expressions of SLC7A11 have no association with clinical parameters such as age, sex and clinical stages, except for advanced pathological stages. Cox regression analysis revealed that SLC7A11 might be an independent prognostic factor for liver cancer patients.Conclusion:SLC7A11 overexpression might be a novel biomarker and a potential unfavorable prognostic factor as well as a potential therapeutic target for liver carcinoma.
+SLC7A11; immunohistochemistry; liver carcinoma; prognosis; tissue microarray.

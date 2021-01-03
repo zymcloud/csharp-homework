@@ -1,0 +1,4 @@
+31732223
+2020 Feb
+Health-related quality of life (HRQoL) measurements are important for patient care, and emerging bundles in value-based care are placing an increasing emphasis on tying reimbursement to patient surveys. A multicenter pilot study was carried out to assess the efficacy of an automated digital patient engagement (DPE) platform for collecting HRQoL measurements at baseline and at 2- to 4-week intervals through 90 days after transarterial radioembolization (TARE) with yttrium-90 (90Y) treatments for hepatocellular carcinoma (HCC). The results revealed a survey completion of 78.4% and demonstrated only 4 of 35 individual symptom instances across all time points of transient worsening relative to baseline. Most importantly, the DPE platform provided an effective means for deploying and collecting patient-reported outcome measures.
+

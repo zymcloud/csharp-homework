@@ -1,0 +1,4 @@
+28948615
+2017 Nov
+NDRG2, a newly identified tumor suppressor, is also responsive to various stresses, such as hypoxia and DNA damage. Here, we reported that in human hepatoma SK-Hep-1 and HepG2 cells, NDRG2 mRNA and protein levels were upregulated by different endoplasmic reticulum stress inducers including Tg, Tm, and DTT. Further, using NDRG2-overexpressing hepatoma cell lines and Ndrg2KO mice liver tissues, we found that, among the three branches of unfolded protein response signaling, NDRG2 facilitates protein kinase RNA-like ER kinase (PERK) pathway via interaction with PERK, enhancing its downstream ATF4 and CHOP. Functionally, NDRG2 promotes ERS-induced apoptosis partially through ATF4 or CHOP. Thus, NDRG2 is a novel ERS-responsive protein and acts as PERK co-factor to facilitate PERK branch, thereby contributing to ERS-induced apoptosis.
+PERK; UPR; Apoptosis; ER stress; NDRG2.

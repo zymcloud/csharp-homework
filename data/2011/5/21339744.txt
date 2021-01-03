@@ -1,0 +1,4 @@
+21339744
+2011 May
+Imidazolium salts (IMSs) are precursors to N-heterocyclic carbenes (NHCs), which are routinely used as ligands or organo-catalysts in synthetic chemistry. We recently identified several IMSs as anti-fibrotic agents in liver fibrosis, which often has a consequence in the oncogenesis of hepatocellular carcinoma (HCC). Here, we investigate the potential anti-tumor property of three IMSs (named IBN-1, IBN-9, and DPIM) in HCC cell lines and in a xenograft mouse model. Our results showed that both IBN-1 and IBN-9 significantly inhibited the cell proliferation and arrested HCC cells in the G1-phase, whereas DPIM did not have any anti-tumor activity. When tested in a Huh7 HCC xenograft mouse model, IBN-1 reduced the tumor volume by 31% (P
+

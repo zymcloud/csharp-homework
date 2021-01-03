@@ -1,0 +1,4 @@
+20159703
+2010 Feb
+Objective:To investigate the effect of iodine-125 implantation on immune cell subsets and cytokine production in patients undergoing hepatocellular carcinoma (HCC) resection.Methods:Sixty-eight patients with resectable HCC were randomly divided into intrahepatic iodine-125 embedding group and control group. The percentages of T lymphocyte phenotypes (CD3(+), CD4(+), CD8(+)), NK cells, and the plasma concentrations of IL-4, IL-10, IL-12 and IFN-gamma of the patients were determined with flow cytometry and ELISA, respectively.Results:In the control group, the postoperative CD3(+) and CD4(+) immunocytes were (39.38-/+6.98)% and (24.34-/+3.18)%, significantly lower than the preoperative levels [(62.58-/+8.67)% and (30.63-/+4.19)%, respectively, PConclusion:Iodine-125 implantation can strongly stimulates the anti-tumor immune response in HCC patients by increasing CD3(+) and CD4(+) immunocytes and promoting Th2/Th1 deviation.
+

@@ -1,0 +1,4 @@
+27714806
+2016 Dec
+MiR-296 was previously reported to be underexpressed in hepatocellular carcinoma (HCC). However, the clinical value of miR-296 and its function in HCC remain poorly understood. In this study, we found that miR-296 levels are decreased in HCC specimens and cells, and that the underexpression of miR-296 is associated with adverse clinical parameters and poor overall survival rate. In vitro experiments indicate that miR-296 inhibits proliferation, colony formation, and cell cycle progression, and enhances apoptosis in HCC cells. Notably, we found that the fibroblast growth factor receptor 1 (FGFR1) is a downstream target that mediates the functions of miR-296 in HCC. Thus, our findings indicate that miR-296 exerts a tumor suppressive role in HCC and is a potential biomarker and drug-target.
+FGFR1; apoptosis; cell cycle; cell proliferation; hepatocellular carcinoma; miR-296.

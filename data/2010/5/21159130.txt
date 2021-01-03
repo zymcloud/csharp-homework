@@ -1,0 +1,4 @@
+21159130
+2011 May
+The dry root of Sophora flavescens Ait. (SF) has long been used in a variety of Chinese herbal formulations to treat patients with cancer. Alkaloids are commonly known to present in SF as main active constituents. Here, we report that among the six characterized SF-derived quinolizidine alkaloids including sophoridine, aloperine, sophocarpine, matrine, oxymatrine and cytisine, aloperine exerted the most potent in vitro cytotoxic activity against the human cancer cell lines and oxymatrine exhibited selective anti-cancer activity against hepatocellular carcinoma HepG2 cells. Analysis of DNA fragmentation and PARP cleavage revealed that aloperine treatment for 48 hr induced apoptosis in HL-60 cells. In addition, autophagic formation of acidic vacuole was also observed in HL-60 cells exposed to aloperine. These results suggest that aloperine may be a novel contributor to the anti-cancer properties of SF.
+

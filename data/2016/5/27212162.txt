@@ -1,0 +1,4 @@
+27212162
+2016 May
+Objective:The purpose of this study was to investigate the expression of lncRNA SNHG15 and its prognostic value in hepatocellular carcinoma (HCC).Patients and methods:Expression levels of lncRNA SNHG15 in 152 pairs of HCC tissues and adjacent normal tissues were detected by quantitative real-time PCR. Associations between clinicopathological parameters and lncRNA SNHG15 expression were evaluated using chi-square tests. The overall survival was analyzed by log-rank test, and survival curves were plotted according to Kaplan-Meier. Univariate and multivariate Cox regression analyses were conducted to determine whether lncRNA SNHG15 was an independent predictor of survival.Results:The lncRNA SNHG15 expression was significantly upregulated in tumor tissues compared with that in adjacent non-tumor tissues (p Conclusions:Our findings suggest that lncRNA SNHG15 may serve as an efficient clinical biomarker and a therapeutic target for HCC patients.
+

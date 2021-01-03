@@ -1,0 +1,4 @@
+32910380
+2020 Aug
+A stable preparation of agaricinic acid nanoparticles was obtained. The mean hydrodynamic size of nanoparticles according to photon correlation spectroscopy was 200 nm and zeta potential was -57 mV. Cytotoxic activity of agaricinic acid nanoparticles against human HepG2 hepatoma cells was evaluated. Nanoparticles with a low concentration of agaricinic acid stimulated and with high concentration - suppressed metabolic activity and viability of hepatoma cells. The EC50 for the stimulating effect was 32.8 μg/ml, and the IC50=602.1 mg/ml. The preparation of agaricinic acid nanoparticles can be used in medicine as a potential antitumor agent.
+EC50; IC50; agaricinic acid; cytotoxicity; nanoparticles.

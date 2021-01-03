@@ -1,0 +1,4 @@
+31097716
+2019 May 16
+Chronic hepatitis B virus (HBV) infection can cause cirrhosis and hepatocellular carcinoma and is therefore a serious public health problem. Infected patients are currently treated with nucleoside/nucleotide analogs and interferon α, but this approach is not curative. Here, we screen 978 FDA-approved compounds for their ability to inhibit HBV replication in HBV-expressing HepG2.2.15 cells. We find that ciclopirox, a synthetic antifungal agent, strongly inhibits HBV replication in cells and in mice by blocking HBV capsid assembly. The crystal structure of the HBV core protein and ciclopirox complex reveals a unique binding mode at dimer-dimer interfaces. Ciclopirox synergizes with nucleoside/nucleotide analogs to prevent HBV replication in cells and in a humanized liver mouse model. Therefore, orally-administered ciclopirox may provide a novel opportunity to combat chronic HBV infection by blocking HBV capsid assembly.
+

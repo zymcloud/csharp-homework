@@ -1,0 +1,4 @@
+21372597
+2010
+Objective:To clarify the role of DNA polymerase delta in tumor progression, we examined the expression of its main catalytic subunit p125 encoded by POLD1 in hepatocellular carcinoma (HCC) and human HCC cell lines.Methods:We examined the expression of p53 and p125 in HCC by using immunohistochemistry and Western blotting. Characteristic changes observed in human HCC cell lines after transfection were examined.Results:Immunohistochemical examination revealed positive staining of p125 in HCC cell nuclei, but few positively stained cells were observed in noncancerous tissues (p Conclusions:These findings suggest that the DNA polymerase delta catalytic subunit p125 induced by mutant type p53 plays an important role in tumor invasion, which leads to a poorer prognosis in HCC.
+

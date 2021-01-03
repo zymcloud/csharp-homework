@@ -1,0 +1,4 @@
+21075309
+2010 Nov 16
+Hdac3 is essential for efficient DNA replication and DNA damage control. Deletion of Hdac3 impaired DNA repair and greatly reduced chromatin compaction and heterochromatin content. These defects corresponded to increases in histone H3K9,K14ac; H4K5ac; and H4K12ac in late S phase of the cell cycle, and histone deposition marks were retained in quiescent Hdac3-null cells. Liver-specific deletion of Hdac3 culminated in hepatocellular carcinoma. Whereas HDAC3 expression was downregulated in only a small number of human liver cancers, the mRNA levels of the HDAC3 cofactor NCOR1 were reduced in one-third of these cases. siRNA targeting of NCOR1 and SMRT (NCOR2) increased H4K5ac and caused DNA damage, indicating that the HDAC3/NCOR/SMRT axis is critical for maintaining chromatin structure and genomic stability.
+

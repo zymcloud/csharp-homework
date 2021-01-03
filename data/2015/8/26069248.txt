@@ -1,0 +1,4 @@
+26069248
+2015 Aug 1
+Despite progress in the diagnostics and treatment of hepatocellular carcinoma (HCC), its prognosis remains poor. In this study, we globally assessed long noncoding RNAs (lncRNA) for contributions to HCC using publicly available microarray data, in vitro and in vivo assays. Here, we report that ZFAS1, encoding a lncRNA that is frequently amplified in HCC, is associated with intrahepatic and extrahepatic metastasis and poor prognosis of HCC. ZFAS1 functions as an oncogene in HCC progression by binding miR-150 and abrogating its tumor-suppressive function in this setting. miR-150 repressed HCC cell invasion by inhibiting ZEB1 and the matrix metalloproteinases MMP14 and MMP16. Conversely, ZFAS1 activated ZEB1, MMP14, and MMP16 expression, inhibiting these effects of miR-150. Our results establish a function for ZFAS1 in metastatic progression and suggest its candidacy as a new prognostic biomarker and target for clinical management of HCC.
+

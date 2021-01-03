@@ -1,0 +1,4 @@
+27466991
+2016 Jul
+Objective:The aim of our study was to explore the clinicopathologic and prognostic significance of miR-522 expression in human hepatocellular carcinoma (HCC).Patients and methods:The expression of miR-522 in 161 HCC tissues and adjacent non-tumor tissues was examined using quantitative real-time-PCR. The association of miR-522 expression with clinicopathological features and the prognosis of HCC patients were also analyzed. The overall survival (OS) was analyzed by log-rank test. Cox regression models were fitted to analyze the effect of prognostic factors on OS.Results:The relative level of miR-522 was significantly higher in HCC tissues compared to the adjacent normal liver tissues. In addition, miR-522 upregulation more frequently occurred in HCC specimens with lymph node metastasis (p = 0.000), and tumor grade (p = 0.002). Moreover, the level of miR-522 expression was markedly correlated with the HCC patients' overall survival (p
+

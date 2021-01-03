@@ -1,0 +1,4 @@
+30228883
+2018 Aug
+In spite of their major impact in cancer therapy, immune checkpoint inhibitors are considered to be contraindicated in liver transplant recipients due to fear of rejection and fatal liver failure. Nevertheless, an increasing number of instances of liver transplant recipients treated with checkpoint inhibitors is being published. We reviewed the reports on 14 known cases of liver transplant recipients who underwent treatment with checkpoint inhibitors and discuss factors likely to determine susceptibility to organ rejection including the choice of the agent and the immunosuppression employed, the assessment of Programmed cell death 1 ligand 1 (PD-L1) status in liver graft biopsies, and the time of treatment initiation.
+Checkpoint inhibition; hepatocellular carcinoma; liver transplant recipients; liver transplantation; nivolumab; pembrolizumab; rejection.

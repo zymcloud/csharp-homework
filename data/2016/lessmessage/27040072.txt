@@ -1,0 +1,4 @@
+27040072
+2016
+Background:Gefitinib and/or erlotinib-induced hepatotoxicity sometimes lead to treatment failure in EGFR mutation-positive patients with non-small cell lung cancer (NSCLC), even though the therapeutic effect is evident.Cases:Here, we report three postoperative NSCLC patients with recurrences who experienced severe hepatotoxicity while receiving gefitinib and/or erlotinib treatment but could be safely switched to afatinib treatment.Conclusion:Afatinib could be a well-tolerated EGFR-TKI that could be chosen for its relatively low hepatotoxicity, which is attributable to its having a different metabolic mechanism compared to other EGFR-TKIs.
+

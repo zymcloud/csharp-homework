@@ -1,0 +1,4 @@
+20609876
+2010 Mar
+Multidetector computed tomography angiography (MDCTA) is an established, noninvasive, and effective imaging method to evaluate the liver and the pancreas primarily for neoplasm staging and presurgical planning. However, its role has also extended into a variety of other clinical indications. Technological advances in MDCT scanners and post processing now offer new opportunities with CTA, but the challenges of protocol optimization should be confronted appropriately to meet the new expectations. In this review, we focus on the technical details with MDCTA protocols for liver and pancreas and briefly discuss the common pathologic conditions where CTA is now considered integral to patient management.
+

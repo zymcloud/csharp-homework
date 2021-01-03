@@ -1,0 +1,4 @@
+25286761
+2015 Feb
+Hepatocellular carcinoma (HCC) is a leading cause of cancer-related morbidity and mortality. Tumor neovascularization is necessarily required for tumor progression and metastasis. CD105 and vascular endothelial growth factor (VEGF) have separately been identified as important contributors to angiogenesis; however, it is unclear if these factors interact to promote the progression of HCC. The goal of this study was to determine the interaction between CD105 and VEGF in HCC, using HCC tissue samples and the human HCC cell line SMMC-7721. In a survey of 89 HCC tumor samples, we determined that CD105 and VEGF expressions were positively correlated with each other and expressed at a higher level in tumor cells. Furthermore, the expression of CD105 was closely related to the tumor-node-metastasis (TNM) staging of HCC, degree of tumor differentiation, portal vein invasion, and lymph node metastasis (P
+

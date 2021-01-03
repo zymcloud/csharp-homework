@@ -1,0 +1,4 @@
+28455791
+2017 Oct
+Hepatocellular carcinoma (HCC) is characterized by hypervascularity. Hepatic stellate cells (HSCs) play very important roles in HCC malignant progression, as these cells facilitate HCC tumorigenesis and metastasis. We demonstrated that HSCs induce angiogenesis in HCC by upregulating the expression of Gli-1, which stimulates reactive oxygen species (ROS) production and potentiates increases in HCC cell invasiveness. Resveratrol abolished HSC-induced angiogenesis and suppressed ROS production and IL-6 and CXCR4 receptor expression in HepG2 cells by down-regulating Gli-1 expression. These findings indicate that Gli-1 may be a target for the prevention of angiogenesis in HCC and that resveratrol may have beneficial effects with respect to preventing HCC progression.
+Gli-1; Hepatic stellate cells; Hepatocellular carcinoma; Resveratrol.

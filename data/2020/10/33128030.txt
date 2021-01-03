@@ -1,0 +1,4 @@
+33128030
+2020 Oct 30
+Hypoxia-inducible factor-1 alpha (HIF-1α) is a transcription factor essential for cancer cell survival. The reprogramming of lipid metabolism has emerged as a hallmark of cancer, yet the relevance of HIF-1α to this process remains elusive. In this study, we profile HIF-1α-interacting proteins using proteomics analysis and identify fatty acid-binding protein 5 (FABP5) as a critical HIF-1α-binding partner. In hepatocellular carcinoma (HCC) tissues, both FABP5 and HIF-1α are upregulated, and their expression levels are associated with poor prognosis. FABP5 enhances HIF-1α activity by promoting HIF-1α synthesis while disrupting FIH/HIF-1α interaction at the same time. Oleic-acid treatment activates the FABP5/HIF-1α axis, thereby promoting lipid accumulation and cell proliferation in HCC cells. Our results indicate that fatty-acid-induced FABP5 upregulation drives HCC progression through HIF-1-driven lipid metabolism reprogramming.
+

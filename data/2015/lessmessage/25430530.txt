@@ -1,0 +1,4 @@
+25430530
+Jan-Feb 2015
+Personalized care in oncology is expected to significantly improve morbidity and mortality, facilitated by our increasing understanding of the molecular mechanisms driving tumors and the ability to target those drivers. Hepatocellular carcinoma has a very high mortality to incidence ratio despite localized disease being curable, emphasizing the importance of early diagnosis. Radiomics, the use of imaging technology to extrapolate molecular tumor data, and the detection of circulating tumor cells (CTCs) are two new technologies that could be incorporated into the clinical setting with relative ease. Here we discuss the molecular mechanisms leading to the development of hepatocellular carcinoma focusing on the latest developments in liver magnetic resonance imaging, CTC, and radiomic technology and their potential to improve diagnosis, staging, and therapy.
+

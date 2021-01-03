@@ -1,0 +1,4 @@
+22846865
+2012 Aug
+In vivo tumor progression requires the supply of oxygen and nutrition by neovasculature. Hepatocellular carcinoma (HCC) is one of the typical tumors with neovascularization, and the dramatic alteration in the arterial vascularity may lead to acquisition of the potential for vascular invasiveness and metastasis. In 2008, phase III clinical trials revealed anti-angiogenic agent "sorafenib" as the first drug that demonstrated an improved overall survival in patients with advanced HCC. A new era of HCC treatment had arrived, but there has been limited further improvement in survival benefits. This review summarizes molecular targeted therapy with a focus on angiogenesis, growth signals, and mitotic abnormalities, as well as the promising concepts of "cancer stemness" and "synthetic lethality" for the strategy of targeted therapy.
+

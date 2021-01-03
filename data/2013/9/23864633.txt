@@ -1,0 +1,4 @@
+23864633
+2013 Sep
+The relevance of claudin-6 and claudin-9 in hepatitis C virus (HCV) entry remains elusive. We produced claudin-6- or claudin-9-specific monoclonal antibodies that inhibit HCV entry into nonhepatic cells expressing exogenous claudin-6 or claudin-9. These antibodies had no effect on HCV infection of hepatoma cells or primary hepatocytes. Thus, although claudin-6 and claudin-9 can serve as entry factors in cell lines, HCV infection into human hepatocytes is not dependent on claudin-6 and claudin-9.
+

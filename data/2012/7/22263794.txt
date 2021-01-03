@@ -1,0 +1,4 @@
+22263794
+2012 Jul
+The octacarboxyl gallium (GaPcC) and metal-free (H2PcC) phthalocyanines were prepared using the carboxyl as the peripheral substituent. The carboxylation improves the intracellular delivery of these two PcCs into KB and QGY cancer cells as compared to that of sulfonated aluminum phthalocyanines (AlPcS), a popularly used photosensitizer (PS). Moreover, GaPcC maintains high photoproduction of singlet oxygen. With a short incubation time of 3 hours, GaPcC accumulates sufficiently in both KB and QGY cells and improves photodynamic therapy (PDT) by effectively killing these cancer cells. AlPcS and H2PcC show much lower PDT effects under the same conditions, because AlPcS have a slow cellular uptake rate resulting in a low cellular amount and the ability of H2PcC to produce 1O2 is low. Carboxylation is a promising way to prepare water-soluble metal phthalocyanines (MPcCs) and facilitates the cellular uptake of MPcCs for PDT improvement.
+

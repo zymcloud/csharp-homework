@@ -1,0 +1,4 @@
+22242603
+2012 Apr
+We evaluated age-related differences in hepatic natural killer (NK) cell phenotypes in juvenile (2-week-old) and adult (8-week-old) C57BL/6(B6) mice, and determined NK cell cytotoxicity and apoptosis in tumor inoculated mice. Juvenile mice had a preponderance of Mac-1(-) NK cells that exhibited significantly higher cytotoxicity levels. The Mac-1(-) NK cell population was the predominant subset in the liver of mice inoculated with the CMT-93 mouse rectum carcinoma cell line, which paralleled a dramatic decrease in the numbers of Mac-1(+) NK cells. The decrease in Mac-1(+) NK cells was driven by an apoptotic pathway.
+

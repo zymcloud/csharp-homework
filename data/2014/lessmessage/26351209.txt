@@ -1,0 +1,4 @@
+26351209
+2014
+Liver cancer is one of the most lethal cancers, but our knowledge of the molecular mechanism underlying this process remains insufficient. Through deep sequencing and expression regulation analysis in liver cancer cells, we identified two novel factors, AKR1C2 (positive factor) and NF1 (negative factor), as the AEG-1 downstream players in the process of metastasis in liver cancer. They were experimentally validated to have the capacities of regulating cell migration, cell invasion, cell proliferation, and EMT. Further clinic expression and animal model evidence confirmed their functions. Together, our findings provide a new insight into the pharmaceutical and therapeutic use of AEG-1 and downstream AKR1C2 and NF1.
+

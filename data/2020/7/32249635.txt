@@ -1,0 +1,4 @@
+32249635
+2020 Jul
+Introduction:Hepatocellular carcinoma (HCC) is one of the leading causes of cancer-related deaths worldwide and up to recently, sorafenib was the only approved systemic treatment options. In recent years, many other treatment options have received approval for advanced HCC, including nivolumab, a Programmed-Death-1 (PD-1) inhibitor.Areas covered:We review the current treatment landscape of HCC, an overview of the characteristics of nivolumab and current ongoing and completed trials of nivolumab.Expert opinion:Nivolumab is generally well tolerated and has modest single-agent activity as a monotherapy in advanced HCC. Further studies are required to better explore its role as part of combination approaches, in adjuvant/neoadjuvant setting, as well as to understand the impact of sequencing of its use with other systemic therapy options.
+Hepatocellular carcinoma; anti-PD1 antibody; immune checkpoint inhibitor; liver cancer; nivolumab.

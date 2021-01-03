@@ -1,0 +1,4 @@
+23826206
+2013 Jun 27
+We investigated blocking the TGF-β signaling pathway in HCC using two small molecule inhibitors (LY2157299, LY2109761) and a neutralizing humanized antibody (D10) against TGF-βRII. LY2157299 and LY2109761 inhibited HCC cell migration on Laminin-5, Fibronectin, Vitronectin, Fibrinogen and Collagen-I and de novo phosphorylation of pSMAD2. LY2157299 inhibited HCC migration and cell growth independently of the expression levels of TGF-βRII. In contrast to LY2157299, D10 showed a reduction in pSMAD2 only after a short exposure. This study supports the use of LY2157299 in clinical trials, and presents new insights into TGF-β receptor cycling in cancer cells.
+

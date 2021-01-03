@@ -1,0 +1,4 @@
+32273976
+2020 Mar 18
+Liver cancer is the second most lethal cancer in the world with limited treatment options. Hepatocellular carcinoma (HCC), which accounts for more than 80% of all liver cancers, has had increasing global incidence over the past few years. There is an urgent need for novel and better therapeutic intervention for HCC patients. The JAK/STAT signaling pathway plays a multitude of important biological functions in both normal and malignant cells. In a subset of HCC, JAK/STAT signaling is aberrantly activated, leading to dysregulation of downstream target genes that controls survival, angiogenesis, stemness, immune surveillance, invasion and metastasis. In this review, we will focus on the role of JAK/STAT signaling in HCC and discuss the current clinical status of several JAK/STAT inhibitors.
+JAK/STAT signaling; hepatocarcinogenesis; hepatocellular carcinoma; liver cancer; targeted therapy.

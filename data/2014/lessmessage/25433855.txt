@@ -1,0 +1,4 @@
+25433855
+Mar-Apr 2015
+In 150 patients, 153 hepatic lesions (39 metastases, 27 hemangiomas, 26 hepatocellular carcinomas, 25 cysts, 15 adenomas, 8 focal nodular hyperplasias, 5 abscesses, 4 hamartomas, and 4 cholangiocarcinomas) were evaluated during a 24-month period. Apparent diffusion coefficient (ADC) values of benign lesions (1.994×10(-3) mm(2) s(-1)) were significantly higher than ADC values of malignant lesions (1.070×10(-3) mm(2) s(-1)). Mean ADC value for solid benign lesions (1.143×10(-3) mm(2) s(-1)±0.214×10(-3) mm(2) s(-1)) was not significantly different from malignant lesions. ADC values did not allow differentiating malignant from benign solid lesions (area under the curve=0.61). ADC cutoff value threshold of 1.6×10(-3) mm(2) s(-1) yielded higher accuracy for differentiating benign from malignant lesions.
+Benign; Diffusion-weighted imaging (DWI); Focal liver lesions; MRI; Malignant.

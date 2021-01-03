@@ -1,0 +1,4 @@
+28433762
+2017 Jun
+Hepatitis B virus (HBV) infection is a global health threat with 240 million chronic carriers at high risk to develop hepatocellular carcinoma. Current antiviral treatment can efficiently control viral replication and reduce liver inflammation, but is still quite far from achieving a cure. Significant progress has been made in understanding the virus life cycle and virus-host interaction in the past few years. With identification of the HBV receptor, cell-culture infection systems have become available that allow drug screening and establishing a pipeline of potential antivirals targeting either viral or host factors. Most of the candidate antivirals summarized in this review are still in preclinical development, but some have already entered or are about to enter early clinical trials.
+

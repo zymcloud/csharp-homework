@@ -1,0 +1,4 @@
+30191729
+2018 Oct
+Aim:Aberrant microRNA (miR) expression is associated with hepatocellular carcinoma (HCC).Materials & methods:Here, we investigated the clinical significance of miR-21 and miR-31 for HCC-specific prognostic effect. HCC patients (n = 93) who underwent liver biopsy or surgical resection were enrolled, and HCC tissues and paired adjacent nontumor liver tissues were collected and analyzed for miRs expression.Results:MiR-21 expression was significantly upregulated in HCC tissues relative to nontumor tissues. Both miR-21 and miR-31 expression in HCC tissues did not predict overall survival; however, miR-21 was considered an independent predictor of disease progression together with portal vein thrombosis and higher Barcelona Clinical Liver Cancer stage.Conclusion:Elevated miR-21 expression might represent a biomarker for HCC prognosis.
+disease progression; hepatocellular carcinoma; microRNA-21; microRNA-31; prognosis; survival; therapeutics.

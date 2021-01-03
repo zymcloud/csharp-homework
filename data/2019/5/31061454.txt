@@ -1,0 +1,4 @@
+31061454
+2019 May
+Programmed cell death ligand-1 immunohistochemical detection (PD-L1 IHC) is a putative predictor of response to PD-1/PD-L1-targeted checkpoint inhibitors. However, there is no gold standard assay in hepatocellular carcinoma (HCC). We evaluated 5 PD-L1 IHC assay platforms (E1LN3, 28-8, 22c3, SP263 and SP142) in 100 HCCs reporting PD-L1 expression in malignant (M) and tumour-infiltrating immune cells (TICs) and non-tumorous cirrhotic tissues (NTICs). We found substantial inter-assay heterogeneity in detecting PD-L1 expression in M (R2 = 0.080-0.921), TICs (Cohen's κ = 0.175-0.396) and NTICs (κ = 0.004-0.505). Such diversity may impact on the reliability and reproducibility of PD-L1 IHC assays as a predictor of response to immune checkpoint inhibitors.
+

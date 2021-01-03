@@ -1,0 +1,4 @@
+20350292
+2010 Mar 30
+NF-kappaB (nuclear factor kappaB) is a heterodimeric transcription factor that is constitutively expressed in all cell types and has a central role as a transcriptional regulator in response to cellular stress. In the present review, we discuss the role of NF-kappaB signalling in the maintenance of liver homoeostasis as well as in the pathogenesis of a wide variety of conditions affecting the liver, including viral hepatitis, steatohepatitis, cirrhosis and hepatocellular carcinoma. Much of the current knowledge of NF-kappaB signalling in the liver relates to the canonical pathway, the IKK [IkappaB (inhibitor of kappaB) kinase] complex and the RelA subunit. We explore the weaknesses of the experimental approaches to date and suggest that further work is needed to investigate in detail the discreet functions of each of the Rel subunits in liver physiology and disease.
+

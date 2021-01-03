@@ -1,0 +1,4 @@
+23775600
+2013 Aug
+Two organoselenium compounds: xylitol selenious ester (xylitol-Se) and sucrose selenious ester (sucrose-Se) were synthesized, and their molecular structures were characterized in this study. In MTT assay, xylitol-Se and sucrose-Se showed cytostatic effects on human hepatocellular carcinoma cells SMMC-7221 in a dose-dependent manner, whereas they had no negative influences on the proliferation of human normal hepatic cells HL-7702 in the concentration range from 0.15 to 1.2 ppm Se. Morphological observation, agarose gel electrophoresis, and caspase-3 assay indicated that xylitol-Se and sucrose-Se induced mitochondrial apoptosis to SMMC-7221 cells, which is supported by the depletion of mitochondrial membrane potential and suppression of caspase-3 activity, indicating their ability of inducing apoptosis to cancer cells and great potentials as anticancer drugs.
+

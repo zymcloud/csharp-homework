@@ -1,0 +1,4 @@
+23621183
+2013
+associations between the C1653T mutation and risk of HCC, the results have been inconsistent. We conducted searches of the published literature in Pubmed and Embase databases up to January 2013. Seventeen studies with a total of 1,085 HCC cases and 1,365 healthy controls were retrieved.We found a significant association between the C1653T mutation and HCC risk (OR = 2.01, 95%CI= 1.49-2.70). In the subgroup analysis by ethnicity, a significant association was also found in Asians (OR = 2.07, 95%CI= 1.71-2.51). In subgroup analysis by HBV genotype, B and C were linked with development of HCC (B:OR = 2.21, 95%CI= 1.13-4.34; C:OR = 2.26, 95%CI= 1.61-3.16). However, no significant association was found between the C1653T mutation and HCC risk in HBeAg positive cases. In conclusion, this meta-analysis suggests that the C1653T mutation may be associated with susceptibility to HCC.
+

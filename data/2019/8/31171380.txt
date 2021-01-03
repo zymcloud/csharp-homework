@@ -1,0 +1,4 @@
+31171380
+2019 Aug
+Hepatocellular carcinoma (HCC) is one of the most malignant cancers around the world. However, the early biomarkers for its detection and treatment are limited currently. Exosomes, classified as intercellular messenger shuttling their cargoes between cells, regulate cell differentiation and tissue development. They contain messenger RNA (mRNA), microRNA (miRNA), long non-coding RNA (lncRNA), circular RNA (circRNA), proteins, lipids and transcription factors. Therefore, exosomes play a crucial role in the development of HCC. In this review, we highlight the exosomal cargoes which could serve as biomarkers for the prediction and diagnosis of HCC. Exosomes are involved in metastases of HCC and they show great potential in immunotherapy and drug resistance mechanism. In summary, exosome suggests new clues in clinical application of HCC.
+Application; Clinic; Exosome; Hepatocellular carcinoma.

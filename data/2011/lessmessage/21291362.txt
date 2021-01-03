@@ -1,0 +1,4 @@
+21291362
+2011
+Hepatitis C virus (HCV) infection is a serious global health problem, with 3-4 million new cases reported each year. Chronic HCV infection places 170 million people at risk of developing liver cirrhosis and hepatocellular carcinoma. However, difficulties in preparing HCV particles in vitro have delayed development of effective anti-HCV therapies. In 2005, Wakita et al. developed an in vitro method to prepare HCV particles, thereby enabling researchers to better understand the mechanism of HCV infection. Other recent advances include development of a virus-free system for evaluating HCV replication and the identification of HCV receptors, such as claudin-1 and occludin, that may serve as targets for anti-HCV drugs. In this review, we discuss recent findings in HCV infection research, including discovery of new potential targets for anti-HCV therapy.
+

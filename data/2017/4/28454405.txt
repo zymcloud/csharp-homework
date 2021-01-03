@@ -1,0 +1,4 @@
+28454405
+2017 Apr
+B-cell translocation gene 2 (BTG2) proteins have been reported to be putative tumor suppressors in various cancer types. The present study first assessed BTG2 expression in 44 human liver cancer tissue specimens, then investigated BTG2 expression in the regulation of hepatocellular carcinoma (HCC) cell apoptosis with or without radiotherapy in vitro and in vivo. The results revealed that BTG2 protein expression was significantly reduced in HCC tissues, and associated with better survival for HCC patients (P=0.05). BTG2 overexpression also sensitized Huh7 cells to radiation-induced apoptosis in vitro and in a nude mouse model, although restoration of BTG2 expression per se did not affect the viability and apoptosis of HCC cells. Future studies would confirm the role of BTG2 in hepatoma, and further develop BTG2 as a therapeutic strategy for controlling HCC.
+BTG2; apoptosis; hepatocellular carcinoma; prognosis; radiotherapy; tumor suppressor gene.

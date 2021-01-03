@@ -1,0 +1,4 @@
+21950556
+2011 Oct
+Radiation plays an important role in the treatment of hepatoma. In order to improve its therapeutic ratio, there has been much interest in augmenting the effect of radiation on tumors by combining it with molecularly targeted therapeutics. Hypoxia-inducible factor-1 (HIF-1) is an excellent potential candidate for targeted molecular therapy to improve radiation outcome. In this study, HIF-1α-targeted small interfering RNA (siRNA) expression vector was constructed and transfected into human hepatoma SMMC-7721 cells, which followed by culture in CoCl(2)-induced hypoxia. HIF-1α downregulation by siRNA inhibited proliferation, induced apoptosis, and enhanced radiosensitivity in chemical hypoxic SMMC-7721 cells in vitro. These findings suggest that specific inhibition of HIF-1α expression in combination with radiotherapy would be expected to exert a strong antitumor effect on human hepatoma.
+

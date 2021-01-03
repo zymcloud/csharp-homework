@@ -1,0 +1,4 @@
+26398719
+2015 Dec
+Liver kinase B1 (LKB1), also known as serine/threo-nine kinase 11 (STK11), is a tumor suppressor that is inactivated in Peutz-Jeghers familial cancer syndrome. LKB1 phosphorylates and activates AMP-activated protein kinase (AMPK), which negatively regulates cancer cell proliferation and metabolism. However, recent evidence demonstrates that the LKB1/AMPK pathway is involved in the process of tumor invasion and migration, which is an important hallmark of carcinoma progression to higher pathological grades of malignancy. This review focuses on the function of the LKB1/AMPK pathway in the invasion and migration of cancer cells and provides an overview of therapeutic strategies aimed at this pathway in malignant tumors.
+

@@ -1,0 +1,4 @@
+32183251
+2020 Mar 14
+The recognition of intra-tumoral cellular heterogeneity has given way to the concept of the cancer stem cell (CSC). According to this concept, CSCs are able to self-renew and differentiate into all of the cancer cell lineages present within the tumor, placing the CSC at the top of a hierarchical tree. The observation that these cells-in contrast to bulk tumor cells-are able to exclusively initiate new tumors, initiate metastatic spread and resist chemotherapy implies that CSCs are solely responsible for tumor recurrence and should be therapeutically targeted. Toward this end, dissecting and understanding the biology of CSCs should translate into new clinical therapeutic approaches. In this article, we review the CSC concept in cancer, with a special focus on hepatocellular carcinoma.
+cancer stem cells; hepatocellular carcinoma; liver cancer.

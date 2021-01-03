@@ -1,0 +1,4 @@
+28715918
+2018 Jun
+Previous studies have shown that the ethanolic extracts from Sophora moorcroftiana seeds (ee-Sms) have in vitro anticancer properties. The anti-proliferation effects of ee-Sms on HepG2 cells were assessed by MTT assay and cell cycle analysis. Total cell proteins were separated by two-dimensional electrophoresis (2-DE), and protein spots with more than two-fold difference were analysed by MALDI-TOF/TOF-MS. MTT assay showed that the anti-proliferation of ee-Sms demonstrates dose- and time dependently. HepG2 cells were treated with ee-Sms at 1.30 mg/mL for 48 h induced cell cycle arrest in S phase. The differentially-expressed proteins were involved in DNA repair, cell proliferation, cell metabolism and immunoreaction. This study sheds new insights into the molecular mechanisms underlying the anti-proliferation properties of ee-Sms in HepG2 cells.
+HepG2 cells; Sophora moorcroftiana; anti-proliferation; proteomic.

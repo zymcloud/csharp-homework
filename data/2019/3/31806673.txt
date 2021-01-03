@@ -1,0 +1,4 @@
+31806673
+2020 Mar
+Background:In this study, we aimed to explore the potential involvement of miR-3150b in hepatocellular carcinoma (HCC) carcinogenesis.Methods:The expression of miR-3150b and Golgi phosphoprotein 3 (GOLPH3) was determined in HCC cell lines. Cell proliferation, migration and invasion were estimated by Cell Counting Kit-8, wound healing and Transwell assays. The association between miR-3150b and GOLPH3 was verified by luciferase assay.Results:MiR-3150b was downregulated, while GOLPH3 was remarkably upregulated in HCC cells. Furthermore, miR-3150b inhibited HCC cell proliferation, migration and invasion. MiR-3150b directly targeted and negatively regulated GOLPH3.Conclusion:MiR-3150b suppressed HCC cell proliferation, invasion and migration by targeting GOLPH3.
+Golgi phosphoprotein 3; hepatocellular carcinoma; miR-3150b; migration; proliferation.

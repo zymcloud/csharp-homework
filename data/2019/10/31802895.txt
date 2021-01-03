@@ -1,0 +1,4 @@
+31802895
+2019 Oct 17
+Objectives:Lymphoepithelioma-like carcinoma (LELC) is a rare subtype of non-small cell lung cancer (NSCLC). No clinical trials have been performed, and no course of treatment for LELC has been established because of it's rarity. This study presents a patient with primary pulmonary LELC, who was treated with nivolumab, and responded favorably.Materials and methods:A patient with primary pulmonary LELC was treated using nivolumab.Result:The patient responded well to immunotherapy with nivolumab. After five cycles of the nivolumab, the size of the tumor and the lesions of the liver became smaller. A blood test showed that CYFRA21-1 and NSE had dramatically decreased from before, especially the CYFRA21-1.Conclusion:EBV-positive pulmonary LELC with high expression of PD-L1 may derive a benefit from PD-1/PD-L1 blockade.
+LELC; NSCLC; PD-L1; nivolumab.

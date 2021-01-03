@@ -1,0 +1,4 @@
+23280722
+2014 Jun
+Interleukin (IL)-17A plays important roles in hepatitis B virus (HBV)-induced liver diseases. This study aims to investigate IL17A single nucleotide polymorphisms (SNPs) and the predispositions to chronic HBV infection and hepatocellular carcinoma (HCC) risk and the correlations to IL-17A and IgE levels. Three hundred ninety-five chronic HBV patients, 75 HBV infection resolvers, and 174 healthy controls were included. IL17A SNPs rs8193036 (C/T) and rs2275913 (A/G) and serum IL-17A and IgE levels were determined. HBV infection resolvers had higher rs8193036 allele T and allele T-containing genotypes than HBV patients or controls. Compared with chronic hepatitis, HCC patients had more frequent rs2275913 genotype GG (odds ratios [OR] 3.317, 95% confidence interval [CI] 1.663-6.617, P = 0.001) and allele G (OR 1.844, 95% CI 1.311-2.595, P
+Association; Chronic HBV infection; HCC; IL-17A; IL17A polymorphism; IgE.

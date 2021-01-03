@@ -1,0 +1,4 @@
+27546172
+2016 Nov
+Background:Intrahepatic lesions of mixed hepatocellular (HCC) and intrahepatic cholangiocellular carcinoma (ICC) histology are rare. The aim was to describe the natural history of these tumors relative to monomorphic ICC or HCC utilizing the National Cancer Data Base (NCDB).Methods:Patients with ICC, HCC, and mixed histology (cHCC-CCA) were identified in the NCDB (2004-2012). Inter-group comparisons were made. Kaplan-Meier and multivariable Cox Proportional Hazards analyzed overall survival.Results:The query identified 90,499 patients with HCC; 14,463 with ICC; and 1141 with cHCC-CCA histology. Patients with cHCC-CCA histology were relatively young (61 vs. 62 (HCC, p = 0.877) and 67 (ICC, p Discussion:cHCC-CCA demonstrate stage-specific survival similar to HCC, but post-surgical survival more consistent with ICC. Patients with a pre-operative diagnosis of cHCC-CCA should undergo resection when appropriate.
+

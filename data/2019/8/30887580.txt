@@ -1,0 +1,4 @@
+30887580
+2019 Aug
+Hepatitis C virus (HCV) is the most prevalent viral pathogen that infects more than 185 million people worldwide. HCV infection leads to chronic liver diseases such as liver cirrhosis and hepatocellular carcinoma. Direct-acting antivirals (DAAs) are the recent combination therapy for HCV infection with reduced side effects than prior therapies. Sustained virological response (SVR) acts as a gold standard marker to monitor the success of antiviral treatment. Older treatment therapies attain 50-55% of SVR compared with DAAs which attain around 90-95%. The current review emphasizes the recent chemogenomic updates that have been unfolded through structure-based drug design of HCV drug target proteins (NS3/4A, NS5A, and NS5B) and ligand-based drug design of DAAs in achieving a stable HCV viral treatment strategies.
+antiviral; direct-acting antiviral drugs; hepatitis C virus; structural and nonstructural proteins.

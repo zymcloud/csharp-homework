@@ -1,0 +1,4 @@
+31632576
+2019 Sep 15
+N6-methyladenosine (m6A) acts as the most common mRNA modification in mammal cells. Fat Mass and Obesity-associated protein (FTO) is the firstly identified demethylase in the m6A modification. This research tries to discover the potential roles of FTO in the m6A modification in the hepatocellular carcinoma (HCC). FTO level was found to be up-regulated in the HCC tissue and cells. The over-expression of FTO was correlated to the poor prognosis of HCC individuals. Knockdown of FTO suppressed the proliferation and in vivo tumor growth, and induced the G0/G1 phase arrest. Mechanically, FTO triggered the demethylation of PKM2 mRNA and accelerated the translated production. Overall, this finding suggests the critical function of FTO in the HCC oncogenesis and its m6A modification.
+FTO; Hepatocellular carcinoma; N6-methyladenosine; PKM2.

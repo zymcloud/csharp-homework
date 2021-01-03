@@ -1,0 +1,4 @@
+31124121
+2019
+Microfluidic devices provide convenient assays tools for testing cell cultures in three-dimensional (3D) formats. These devices have significant potential for establishing assays that are better at predicting drug toxicity and efficacy effects compared to assays in conventional two-dimensional (2D) cultures. Microfluidic cell culture devices consist of perfused cell culture chambers with inlets and outlet for seeding, culturing, sampling, and assaying the cells. This protocol describes how to prepare and seed cells in a microfluidic cell culture device for drug toxicity testing on cells in a 3D structure. The protocol exemplifies the use of a basic microfluidic device with HepG2 hepatoma cells but can be transferred and optimized for other cells and cell types, including iPSC-derived tissue and organ cells.
+3D cell-based assays; Drug testing; In vitro models; Microbioreactors; Microfluidic devices.

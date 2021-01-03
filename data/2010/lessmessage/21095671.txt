@@ -1,0 +1,4 @@
+21095671
+2010
+The correct needle placement is one of the crucial tasks in performing radiofrequency tumor ablation (RFA). In this work we evaluated the effects of imperfect needle placement for RFAs that are performed with an expandable needle array by using a finite-element simulation. We performed simulations for normal liver tissue with hypo- and hyperperfused metastasis as well as for cirrhotic liver tissue with hepatocellular carcinoma (HCC). We found that the shortest distance from tumor to the border of the ablated region is significantly smaller even for just 5mm deviation from the position recommended by the generator manufacturer. In case of hyperperfused metastasis even the tumor itself might stay unablated which means a very high probability of local tumor recurrence. These results provide valuable information on acceptability of inaccurate needle position to the radiologist performing RFA.
+

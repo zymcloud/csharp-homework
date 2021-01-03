@@ -1,0 +1,4 @@
+20853876
+2010 Oct 22
+The structures of 1,5-dihydroxy-3,8-epoxyvalechlorine (1a) and volvaltrate B (6a), two new chlorinated iridoids isolated from Valeriana jatamansi and V. officinalis, respectively, were originally assigned on the basis of spectroscopic methods. Reinvestigation using X-ray analysis and chemical transformation revealed that the original assignment of H-7 in 1a and OH-8 in 6a should be inverted and that the structures should be revised to 1 and 6, respectively. Correspondingly, the structure of valeriotetrate C (7a) should be revised to 7. Volvaltrate B (6) showed cytotoxic activity against the lung adenocarcinoma (A549), metastatic prostate cancer (PC-3M), colon cancer (HCT-8), and hepatoma (Bel7402) cell lines, with IC50 values of 8.5, 2.0, 3.2, and 6.1 μM, respectively.
+

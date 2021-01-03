@@ -1,0 +1,4 @@
+25847957
+2015 Apr
+In this issue of Cancer Discovery, Hagel and colleagues report the design and the in vitro and in vivo activity of a novel, irreversible, paralog-specific kinase inhibitor of FGFR4, BLU9931. This compound binds covalently to a cysteine residue in the hinge region of FGFR4 but not in FGFR1-3. BLU9931 induces tumor shrinkage in hepatocellular carcinoma models that express a functioning ligand/receptor complex consisting of FGF19/FGFR4/KLB and adds to a growing list of anti-FGFR4 agents.
+

@@ -1,0 +1,4 @@
+23072563
+2012 Dec
+Tumor immune responses have prognostic importance to hepatocellular carcinoma (HCC). Serum cytokines may differentiate HCC patients from cirrhotic patients or have prognostic significance. Serum IL-8 was elevated in 90 HCC patients compared to 180 cirrhotic controls, whereas IL-1β, IL-2, IL-4, IL-6, IL-7, IL-10, IL-12, IL-13, IL-15, IL-17, IL-21, and VEGF were similar. IL-8 predicted HCC presence with an area under the receiver-operator curve (ROC) of 0.68. HCC patients with highest IL-8 had worse survival. Multivariate analysis showed that high IL-8 (HR 2.15; 95%CI:1.21-3.74) and stage (HR 1.92; 95%CI:1.22-3.97) independently predicted mortality; while viral etiology was protective (HR 0.69; 95%CI:0.41-0.98). Therefore, HCC IL-8 mediated events may be worthy of future investigation.
+

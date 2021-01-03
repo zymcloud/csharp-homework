@@ -1,0 +1,4 @@
+26851035
+2016 Feb
+Background/aim:Better prognosis of cancer including hepatocellular carcinoma (HCC) remains unsatisfactory due to recurrence and chemoresistance. In this respect it is important to identify molecular targets specific to the disease in order to design effective therapeutic strategies. In the present study, we investigated the prognostic role of Never-in-mitosis-A-related kinase 2 (NEK2) in HCC.Materials and methods:Fifty HCC patients who underwent hepatectomy were enrolled in the study. NEK2 gene and protein expression was examined by quantitative real-time polymerase chain reaction (qRT-PCR) and immunohistochemistry, respectively.Results:Higher expression of NEK2 was detected in HCC tumoral compared to adjacent non-tumor tissues (pConclusion:Overall, these results suggest that NEK2 could be a promising biomarker for HCC recurrence.
+Hepatocellular carcinoma; NEK2; never-in-mitosis-A-related kinase 2; tumor recurrence.

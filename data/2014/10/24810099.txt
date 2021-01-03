@@ -1,0 +1,4 @@
+24810099
+2014 Oct
+HBx acts as a multifunctional regulator that modulates various cellular responses, which can lead to development and progression of hepatocellular carcinoma (HCC). Here, we show that the HBx protein is also localized to peroxisomes, and this increases cellular reactive oxygen species (ROS) to levels that are higher than when HBx is localized to other organelles. The elevated ROS strongly activated nuclear factor (NF)-κB. In addition, the peroxisome-localized HBx increased the expressions of matrix metalloproteinases and decreased the expression of E-cadherin, which increased the invasive ability of HCC cells. Thus, a specific distribution of HBx to peroxisomes may contribute to HCC progression by increasing the invasive ability of HCC cells through elevation of the cellular ROS level.
+

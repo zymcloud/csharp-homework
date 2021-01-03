@@ -1,0 +1,4 @@
+26378581
+2015 Sep 10
+Long non-coding RNAs (lncRNAs) are larger than 200 nucleotides in length and pervasively expressed across the genome. An increasing number of studies indicate that lncRNA transcripts play integral regulatory roles in cellular growth, division, differentiation and apoptosis. Deregulated lncRNAs have been observed in a variety of human cancers, including hepatocellular carcinoma (HCC). We determined the expression profiles of 90 lncRNAs for 65 paired HCC tumor and adjacent non-tumor tissues, and 55 lncRNAs were expressed in over 90% of samples. Eight lncRNAs were significantly down-regulated in HCC tumor compared to non-tumor tissues (p
+HBV; HCC; deregulation; long non-coding RNAs; survival.

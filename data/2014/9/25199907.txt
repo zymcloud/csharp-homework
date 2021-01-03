@@ -1,0 +1,4 @@
+25199907
+2014 Sep 9
+A novel label-free method based on breathing-induced vapor condensation was developed for detection of genetic point mutation. The dew-inspired detection was realized by integration of target-induced DNA ligation with rolling circle amplification (RCA). The vapor condensation induced by breathing transduced the RCA-amplified variances in DNA contents into visible contrast. The image could be recorded by a cell phone for further or even remote analysis. This green assay offers a naked-eye-reading method potentially applied for point-of-care liver cancer diagnosis in resource-limited regions.
+

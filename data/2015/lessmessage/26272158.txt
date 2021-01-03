@@ -1,0 +1,4 @@
+26272158
+2015
+Cholestasis is a common pathological component of numerous liver diseases. The initiating event during cholestatic liver injury is widely believed to be the accumulation of bile acids in hepatocytes and the hepatic parenchyma. As bile acids are considered the primary toxic compounds in the injury, numerous in vitro models of bile acid-induced injury and bile acid-induced changes in gene expression have been developed to attempt to better define cholestasis at a cellular level. This chapter focuses on the establishment of a system for determining the effects of cholestatic concentrations of bile acids on hepatocytes using primary hepatocytes or hepatoma cell lines. Moreover, this chapter addresses significant differences in the response of different species to bile acid exposure and novel information on the relevance of treating hepatocytes with concentrations of specific bile acids.
+

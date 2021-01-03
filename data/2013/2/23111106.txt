@@ -1,0 +1,4 @@
+23111106
+2013 Feb 1
+Sorafenib leads to a survival benefit in patients with advanced hepatocellular carcinoma but its use is hampered by the occurrence of drug resistance. To investigate the molecular mechanisms involved we developed five resistant human liver cell lines in which we studied morphology, gene expression and invasive potential. The cells changed their appearance, lost E-cadherin and KRT19 and showed high expression of vimentin, indicating epithelial-to-mesenchymal transition. Resistant cells showed reduced adherent growth, became more invasive and lost liver-specific gene expression. Furthermore, following withdrawal of sorafenib, the resistant cells showed rebound growth, a phenomenon also found in patients. This cell model was further used to investigate strategies for restoration of sensitivity to sorafenib.
+

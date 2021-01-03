@@ -1,0 +1,4 @@
+23196181
+2013 Jan 16
+The latent ribonuclease RNase L and the interferon-inducible 2',5'-oligoadenylate synthetase (OAS) have been implicated in the antiviral response against hepatitis C virus (HCV). However, the specific roles of these enzymes against HCV have not been fully elucidated. In this study, a scarce endogenous expression and RNA degrading activity of RNase L in human hepatoma Huh7 cells enabled us to demonstrate the antiviral activity of RNase L against HCV replication through the transient expression of the enzyme. The antiviral potential of specific members of the OAS family was further examined through overexpression and RNA interference approaches. Our data suggested that among the members of the OAS family, OAS1 p46 and OAS3 p100 mediate the RNase L-dependent antiviral activity against HCV.
+

@@ -1,0 +1,4 @@
+33325150
+2020 Dec 15.</span
+Histone deacetylase 2 (HDAC2), a member of the Histone deacetylase family, plays a vital role in various carcinomas. In this study, we identified that HDAC2 expression levels are associated with liver metastasis, higher T stages and poor prognosis in colorectal cancer. HDAC2 down-regulation via lentivirus-mediated expression of HDAC2-targeting shRNA reduced the in vitro migration and invasion ability of HCT116 cell as well as their liver metastasis in nude mouse xenografts. Mechanistically, HDAC2 promotes epithelial-mesenchymal transition (EMT) in colorectal cancer cells by combining HDAC1 with EZH2 (a key histone methyltransferase), possibly through the modular scaffold function of a new lncRNA, ENSG00000274093.1. HDAC2 thus appears to promote CRC cell migration and invasion through binding HDAC1 and EZH2 via ENSG00000274093.1.
+colorectal cancer; epithelial-mesenchymal transition; histone deacetylase 2; long non-coding RNAs.

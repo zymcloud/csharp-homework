@@ -1,0 +1,4 @@
+24556826
+2014 Feb 21
+14-3-3ζ is related to many cancer survival cellular processes. In a previous study, we showed that silencing 14-3-3ζ decreases the resistance of hepatocellular carcinoma (HCC) to chemotherapy. In this study, we investigated whether silencing 14-3-3ζ affects the radioresistance of cancer stem-like cells (CSCs) in HCC. Knockdown of 14-3-3ζ decreased cell viability and the number of spheres by reducing radioresistance in CSCs after γ-irradiation (IR). Furthermore, the levels of pro-apoptotic proteins were upregulated in CSCs via silencing 14-3-3ζ after IR. These results suggest that 14-3-3ζ knockdown enhances radio-induced apoptosis by reducing radioresistance in liver CSCs.
+

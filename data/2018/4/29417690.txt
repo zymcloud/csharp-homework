@@ -1,0 +1,4 @@
+29417690
+2018 Apr
+Cancer stem cells (CSCs) are thought to play important roles in cancer malignancy. Previously, we successfully induced sphere cancer stem-like cells (CSLCs) from several cell lines and observed the property of chemoresistance. In the present study, we examined the metastatic potential of these induced CSLCs. Sphere cancer stem-like cells were induced from a human hepatoma cell line (SK-HEP-1) in a unique medium containing neural survival factor-1. Splenic injection of cells into immune-deficient mice was used to assess hematogenous liver metastasis. Transcriptomic strand-specific RNA-sequencing analysis, quantitative real-time PCR, and flow cytometry were carried out to examine the expression of epithelial-mesenchymal transition (EMT)-related genes. Splenic injection of CSLCs resulted in a significantly increased frequency of liver metastasis compared to parental cancer cells (P
+CD44v; EMT; cancer stem cell; hepatoma; intrahepatic metastasis.

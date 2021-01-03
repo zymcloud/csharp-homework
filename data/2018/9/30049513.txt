@@ -1,0 +1,4 @@
+30049513
+2018 Sep
+Hepatocellular carcinoma (HCC) is the second leading cause of cancer-related death worldwide. Therefore, the study of the precise molecular mechanism underlying hepatocarcinogenesis has profound significance. In this study, we found that the expression of ARP3 was significantly up-regulated in HCC tissues and cell lines. Studies in liver cancer specimens showed that the expression of ARP3 is closely related to the pathological grade, distant metastasis and vascular invasion of HCC. According to the results of multivariate analysis, ARP3 is an independent prognostic factor for HCC patients. In vitro, knockdown of ARP3 expression significantly inhibited the invasion and migration of HCC cells and altered the expression of EMT markers. Based on the above conclusions, we conclude that ARP3 may be a potential prognostic indicator and therapeutic target for HCC patients.
+ARP3; Hepatocellular carcinoma; Metastasis; Prognosis.

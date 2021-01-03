@@ -1,0 +1,4 @@
+26438426
+2015 Oct 5
+The generation of functional hepatocytes is a major challenge for regenerative medicine and drug discovery. Here we show a method that facilitates generation of induced functional hepatocytes (iHeps) from adipose-derived stem cells (ADSCs) within 9 days. iHeps express hepatocytic gene programs and display functions characteristic of mature hepatocytes, including cytochrome P450 enzyme activity. Upon transplantation into mice with carbon tetrachloride (CCl4)-induced acute fulminant liver failure, iHeps restore the liver function and prolong survival. The work could contribute to the development of alternative strategies to obtain nonhepatic cell-derived mature hepatocytes with potential for biomedical and pharmaceutical applications.
+

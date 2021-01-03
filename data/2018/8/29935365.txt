@@ -1,0 +1,4 @@
+29935365
+2018 Aug
+Background:The aim of this study was to investigate the long-term outcomes and perioperative outcomes of laparoscopic hepatectomy (LH) versus open hepatectomy (OH) for hepatocellular carcinoma (HCC) between well-matched patient groups.Methods:We retrospectively reviewed data from 1535 hepatocellular carcinoma patients who underwent liver resection between January 2002 and December 2016 at two Chinese centres. Propensity score matching of patients in a ratio of 1:1 was conducted and 157 patients were matched.Results:The median blood loss (150 vs 380 ml, P Conclusion:Laparoscopic hepatectomy is technically feasible and safe in selected patients. LH showed similar long-term outcomes, associated with less blood loss, shorter hospital stay, and fewer postoperative complications in selected patients with HCC compared with OH.
+Hepatectomy; Hepatocellular carcinoma; Laparoscopic; Liver resection; Long-term survival.

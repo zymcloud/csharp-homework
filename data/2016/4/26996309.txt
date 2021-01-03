@@ -1,0 +1,4 @@
+26996309
+2016 Apr 11
+Akt is frequently hyperactivated in human cancers and is targeted for cancer therapy. However, the physiological consequences of systemic Akt isoform inhibition were not fully explored. We showed that while combined Akt1 and Akt3 deletion in adult mice is tolerated, combined Akt1 and Akt2 deletion induced rapid mortality. Akt2(-/-) mice survived hepatic Akt1 deletion but all developed spontaneous hepatocellular carcinoma (HCC), which is associated with FoxO-dependent liver injury and inflammation. The gene expression signature of HCC-bearing livers is similar to aggressive human HCC. Consistently, neither Akt1(-/-) nor Akt2(-/-) mice are resistant to diethylnitrosamine-induced hepatocarcinogenesis, and Akt2(-/-) mice display a high incidence of lung metastasis. Thus, in contrast to other cancers, hepatic Akt inhibition induces liver injury that could promote HCC.
+

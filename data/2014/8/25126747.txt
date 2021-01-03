@@ -1,0 +1,4 @@
+25126747
+2014 Aug 15
+Tumor behavior is affected by the tumor microenvironment, composed of cancer-associated fibroblasts (CAFs). Meanwhile, hepatocellular carcinomas (HCC) with fibrous stroma reportedly exhibit aggressive behavior suggestive of tumor-stroma interaction. However, evidence of the crosstalk remains unclear. In this study, CCN2, epithelial membrane antigen (EMA), fibroblast activation protein (FAP), and keratin 19 (K19) expression was studied in 314 HCCs (cohort 1), 42 scirrhous HCCs (cohort 2), and 36 chronic hepatitis/cirrhosis specimens by immunohistochemistry. Clinicopathological parameters were analyzed according to the expressions of these markers. In tumor epithelial cells from cohort 1, CCN2 and EMA were expressed in 15.3% and 17.2%, respectively, and their expressions were more frequent in HCCs with fibrous stroma (≥5% of tumor area) than those without (P
+

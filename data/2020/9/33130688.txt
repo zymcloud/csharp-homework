@@ -1,0 +1,4 @@
+33130688
+2020 Sep
+Recently, immune checkpoint inhibitors(ICI)has been developed considerably. ICI has already been approved for malignant melanoma, lung cancer and renal cancer. We expected ICI to be taken for many cancers in the future. Therefore, the development of biomarker for them are needed. The recent large phase Ⅲ study IMbrave 150 evaluated atezolizumab plus bevacizumab vs sorafenib as the first treatment for patients with unresectable hepatocellular carcinoma(HCC). IMbrave 150 demonstrated statistically significant and clinically meaningful improvements in both OS and RFS for atezolizumab plus bevacizumab compared with sorafenib in HCC patients. A paradigm shift in the treatment of unresectable HCC is about to occur. In this article, we discussed the significance and biomarkers of tumor immunity in HCC microenvironment.
+

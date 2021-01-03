@@ -1,0 +1,4 @@
+31124011
+2019 Aug
+Four new protopanaxatriol-type triterpenes (1-2) and glucosides (3-4), were isolated from the rot roots of Panax notoginseng (Burk.) Chen, along with four known ones (5-8). Their structures were elucidated on the basis of extensive spectroscopic analysis (HRESIMS, NMR, UV, IR, and OR) and acidic hydrolysis. The possible transformation pathway of these compounds were also speculated from ginsenoside Rg1. Compound 1, with a unique α,β-unsaturated ketene in its side chain, showed significant inhibitory effects against NO production on Murine macrophage cells (IC50 = 4.12 ± 0.20 μM) and comparable cytotoxicities against five human cancer cell lines (myeloid leukemia HL-60, lung cancer A-549 cells, hepatocellular carcinoma SMMC7721, breast cancer MCF-7, and colon cancer SW480) to positive control, cisplatin (DDP).
+Cytotoxicity; Inhibition on NO production; Panax notoginseng; Rot root; Triterpenes and saponins.

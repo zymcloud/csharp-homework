@@ -1,0 +1,4 @@
+23292002
+2013 Mar
+The cyclin-dependent kinase (Cdk)-associated protein phosphatase (KAP) is a dual-specificity phosphatase that dephosphorylates Cdk2 and inhibits cell cycle progression. The overexpression of KAP has been found in breast, prostate and renal cell carcinomas. However, the role of KAP in hepatocellular carcinoma (HCC) remains unclear. Therefore, the aim of this study was to investigate the expression of KAP in HCC and elucidate its role in tumorigenesis. HCC tissues from 117 patients undergoing surgical resection were collected for western blot analysis and immuno-histochemichal analysis to establish clinical correlation. The antisense-mediated inhibition of KAP expression was performed in Huh-7 cell lines for tumorigenicity and growth regulation experiments. Clinicopathological analysis indicated that KAP was overexpressed in HCC tissue from alcoholic patients (P
+

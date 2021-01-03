@@ -1,0 +1,4 @@
+26722415
+2015 Oct 1
+Increasing evidences indicate that dys-regulation of MicroRNAs contributes to hepatocellular carcinoma. However, the roles of miR-485-5p in HCC are still largely unexplored. In the present study, our quantitative real-time PCR analysis found that miR-485-5p was significantly down-regulated in 50 pairs of human HCC tissues. Moreover, the reduced expression of miR-485-5p was significantly correlated with larger tumor size and more tumor number in patients with HCC. In vitro studies further showed that overexpression of miR-485-5p mimics could inhibit, while its antisense oligos promote cell proliferation and invasion. Results from the dual-luciferase reporter gene assays and western blot further showed that stanniocalcin 2 was a direct target of miR-485-5p. Therefore, our data suggest a novel role for miR-485-5p in the regulation of HCC progression.
+Hepatocellular carcinoma; MicroRNA; miR-485-5p; stanniocalcin 2.

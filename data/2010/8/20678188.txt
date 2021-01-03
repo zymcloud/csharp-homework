@@ -1,0 +1,4 @@
+20678188
+2010 Aug 2
+Background:CpG island methylator phenotype (CIMP), in which multiple genes concordantly methylated, has been demonstrated to be associated with progression, recurrence, as well as overall survival in some types of cancer.Methods:We examined the promoter methylation status of seven genes including P16, CDH1, GSTP1, DAPK, XAF1, SOCS1 and SYK in 65 cases of HCC treated with LT by methylation-specific PCR. CIMP+ was defined as having three or more genes that are concordantly methylated. The relationship between CIMP status and clinicopathological parameters, as well as tumor recurrence was further analyzed.Results:CIMP+ was more frequent in HCC with AFP > 400 ng/ml than those with AFP Conclusion:Our results suggested that CIMP could serve as a new prognostic biomarker to predict the risk of tumor recurrence in HCC after transplantation.
+

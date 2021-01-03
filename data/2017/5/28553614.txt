@@ -1,0 +1,4 @@
+28553614
+2017 May 11
+In recent years, there has been a revival of interest in metabolic changes of cancer cells as it has been noticed that malignant transformation and metabolic reprogramming are closely intertwined. The pentose phosphate pathway (PPP) is one of the fundamental components of cellular metabolism crucial for cancer cells. This review will discuss recent findings regarding the involvement of PPP enzymes in several types of cancer, with a focus on hepatocellular carcinoma (HCC). We will pay considerable attention to the involvement of glucose-6-phosphate dehydrogenase, the rate-limiting enzyme of the PPP. Subsequently, we discuss the inhibition of the PPP as a potential therapeutic strategy against cancer, in particular, HCC.
+Warburg metabolism; glucose-6-phosphate dehydrogenase; hepatocellular carcinoma; liver regeneration; metabolic reprogramming; pentose phosphate pathway; preneoplastic lesions.

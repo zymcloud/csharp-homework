@@ -1,0 +1,4 @@
+22673507
+2012 May 21
+THAP11 is an essential factor involved in ES cell pluripotency and cell growth. Here, we identified THAP11 as a novel physiological binding partner of PCBP1. In HepG2 cells, THAP11 overexpression inhibited CD44 v6 expression and cell invasion. However, when deleting the binding domain with PCBP1 or endogenous PCBP1 was knocked down, THAP11 failed to inhibit CD44 v6 expression, indicating that THAP11 regulates CD44 v6 expression through interacting with PCBP1. In HCC patients, the expression of THAP11 mRNA significantly correlated with PCBP1 mRNA expression. Our results suggest a novel role of THAP11 in CD44 alternative splicing and hepatoma invasion.
+

@@ -1,0 +1,4 @@
+31419777
+2019 Nov 15
+Carbonic anhydrase inhibitors (CAIs) of the sulfonamide, sulfamate and coumarin classes bearing the phenylureido tail found in the clinically used drug Sorafenib, a multikinase inhibitor actually used for the management of hepatocellular carcinomas, are reported. All compounds were assayed on human (h) CA isoforms I, II, VII and IX, involved in various pathologies. Among the sulfonamides, several compounds were selective for inhibiting hCA IX, with KI values in the low nanomolar ranges (i.e. 0.7-30.2 nM). We explored the binding modes of such compounds by means of X-ray crystallographic studies on isoform hCA I in adduct with one sulfonamide and a sulfamate inhibitor. Antiproliferative properties of some sulfamates on breast tumor cell lines were also investigated.
+Carbonic anhydrase; Coumarin; Enzyme inhibitor; Sorafenib; Sulfamate; Sulfonamide.

@@ -1,0 +1,4 @@
+28541302
+2017 May 25
+Long noncoding RNAs play a pivotal role in T-helper cell development but little is known about their roles in Treg differentiation and functions during the progression of hepatocellular carcinoma (HCC). Here, we show that lnc-epidermal growth factor receptor (EGFR) upregulation in Tregs correlates positively with the tumour size and expression of EGFR/Foxp3, but negatively with IFN-γ expression in patients and xenografted mouse models. Lnc-EGFR stimulates Treg differentiation, suppresses CTL activity and promotes HCC growth in an EGFR-dependent manner. Mechanistically, lnc-EGFR specifically binds to EGFR and blocks its interaction with and ubiquitination by c-CBL, stabilizing it and augmenting activation of itself and its downstream AP-1/NF-AT1 axis, which in turn elicits EGFR expression. Lnc-EGFR links an immunosuppressive state to cancer by promoting Treg cell differentiation, thus offering a potential therapeutic target for HCC.
+

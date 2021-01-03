@@ -1,0 +1,4 @@
+20610720
+2010 Sep
+Hepatitis E virus genotype 1 strain Sar55 replicated in subcloned Caco-2 intestinal cells and Huh7 hepatoma cells that had been transfected with in vitro transcribed viral genomes, and hepatitis E virions were released into the culture medium of both cell lines. Virus egress from cells depended on open reading frame 3 (ORF3) protein, and a proline-rich sequence in ORF3 was important for egress from cultured cells and for infection of macaques. Both intracellular ORF3 protein accumulation and virus release occurred at the apical membrane of polarized Caco-2 cells. ORF3 protein and lipids were intimately associated with virus particles produced in either cell line; ORF2 epitopes were masked in these particles and could not be immunoprecipitated with anti-ORF2.
+

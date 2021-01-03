@@ -1,0 +1,4 @@
+25267854
+2015 Apr
+The Wismut cohort is currently the largest single study on the health risks associated with occupational exposures to ionising radiation and dust accrued during activities related to uranium mining. The cohort has ∼59 000 male workers, first employed between 1946 and 1989, at the Wismut Company in Germany. The main effect is a statistically significant increase in mortality from lung cancer with both increasing cumulative radon exposure and silica dust exposure. Risks for cancers of the extrathoracic airways, all extra-pulmonary cancers and cardiovascular diseases associated with radiation exposures have been evaluated. Cohort mortality rates for some other cancer sites, stomach and liver, are statistically significantly increased in relation to the general population, but not statistically significantly related to occupational exposures. No associations between leukaemia mortality and occupational doses of ionising radiation were found.
+

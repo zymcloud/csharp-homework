@@ -1,0 +1,4 @@
+28423574
+2017 Apr 4
+Drug resistance to sorafenib is common in patients with hepatocellular carcinoma(HCC). We examined the effects of a combination of sorafenib and fluvastatin on HCC using in vitro and in vivo models. The dual treatment induced apoptosis and reduced cellular viability in HCC more effectively than either drug alone. The combination treatment also inhibited activation of hepatic stellate cells, whereas single drug treatments did not. On a molecular level, combined treatment inhibited activation of the MAPK and NF-κB pathways via Toll-like receptor 4 in HCC cells. Combined treatment also inhibited expression of stromal cell-derived factor 1α in HCC cells, which further inhibited the MAPK pathway in hepatic stellate cells. These results suggest that a combination of sorafenib and fluvastatin may be a promising therapeutic strategy for patients with advanced HCC.
+SDF-1α; TLR4; fluvastatin; hepatocellular carcinoma; sorafenib.

@@ -1,0 +1,4 @@
+30824851
+2019 Mar 1
+Alcohol increases the risk of both hepatocellular carcinoma (HCC) and colorectal neoplasia. In this hospital-based case-control and retrospective cohort study, we sought to determine whether development of colorectal neoplasia increases the risk of HCC in patients with alcoholic liver disease (ALD). In the phase I case-control analysis, the association between history of colorectal cancer (CRC) and HCC development was assessed in patients with ALD by logistic regression modeling (n = 1,659). In the phase II retrospective cohort analysis, the relative risk of HCC development was compared in ALD patients with respect to the history of CRC by a Cox model (n = 1,184). The history of CRC was significantly associated with HCC in the case-control analysis (adjusted odds ratio, 1.82; 95% CI, 1.06-3.15; P
+

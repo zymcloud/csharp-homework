@@ -1,0 +1,4 @@
+23460968
+2012 Dec
+A novel series of sorafenib analogs containing 2-picolinyl hydrazide moiety were designed and synthesized. In vitro, most of synthesized compounds have antiproliferation activity on MDA-MB-231, ACHN, HepG2, Mia-PaCa-2 and SW1990 cell lines tested by MTT assay. It is worth noting that the antitumor activities of compounds 2c, 2d and 2f are more potent than that of sorafenib on pancreatic cancer cells Mia-PaCa-2 and SW1990, and the activities of compounds 3f and 3g are 2-3 times than that of sorafenib on human hepatocellular carcinoma HepG2 cell line.
+

@@ -1,0 +1,4 @@
+28318489
+2017 Mar 20
+Chromosome instability (CIN) is deleterious to normal cells because of the burden of aneuploidy. However, most human solid tumors have an abnormal karyotype implying that gain and loss of chromosomes by cancer cells confers a selective advantage. CIN can be induced in the mouse by inactivating the spindle assembly checkpoint. This is lethal in the germline but we show here that adult T cells and hepatocytes can survive conditional inactivation of the Mad2l1 SAC gene and resulting CIN. This causes rapid onset of acute lymphoblastic leukemia (T-ALL) and progressive development of hepatocellular carcinoma (HCC), both lethal diseases. The resulting DNA copy number variation and patterns of chromosome loss and gain are tumor-type specific, suggesting differential selective pressures on the two tumor cell types.
+Mad2; aneuploidy; cancer biology; chromosomal instability; chromosomes; genes; human; karyotype heterogeneity; mouse; spindle checkpoint.

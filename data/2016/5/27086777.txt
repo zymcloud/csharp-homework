@@ -1,0 +1,4 @@
+27086777
+2016 May 17
+Here, we report a redox-mediated indirect fluorescence immunoassay (RMFIA) for the detection of the disease biomarker α-fetoprotein (AFP) using dopamine (DA)-functionalized CdSe/ZnS quantum dots (QDs). In this immunoassay, tyrosinase was conjugated with the detection antibody and acted as a bridge connecting the fluorescence signals of the QDs with the concentration of the disease biomarkers. The tyrosinase label used for RMFIA catalyzed the enzymatic oxidation of DAs on the surface of functionalized QDs and caused fluorescence quenching in the presence of the analyte. Using this technique, we obtained a limit of detection as low as 10 pM for AFP. This assay's potential for clinical analysis was demonstrated by detecting the real sera of patients with hepatocellular carcinoma (HCC). This study makes the first use of RMFIA for the rapid detection of AFP, opening up a new pathway for the detection of disease biomarkers.
+

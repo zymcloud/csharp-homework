@@ -1,0 +1,4 @@
+25932568
+2015 Apr
+Hepatitis C virus infects nearly 3% of the world's population and is often referred as a silent epidemic. It is a leading cause of liver cirrhosis and hepatocellular carcinoma in endemic countries. Although antiviral drugs are now available, they are not readily accessible to marginalized social groups and developing nations that are disproportionally impacted by HCV. To stop the HCV pandemic, a vaccine is needed. Recent advances in HCV research have provided new opportunities for studying HCV neutralizing antibodies and their subsequent use for rational vaccine design. It is now recognized that neutralizing antibodies to conserved antigenic sites of the virus can cross-neutralize diverse HCV genotypes and protect against infection in vivo. Structural characterization of the neutralizing epitopes has provided valuable information for design of candidate immunogens.
+

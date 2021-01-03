@@ -1,0 +1,4 @@
+32812952
+2020 Oct 21
+Phosphatase non-receptor type 12 (PTPN12 or PTP-PEST) is a critical regulator of cell migration, acting as a tumor suppressor in cancer. Decreases in PTP-PEST expression correlate with aggressive phenotypes in hepatocellular carcinoma (HCC). Despite the importance of PTP-PEST in cellular signaling, methods to directly monitor its enzymatic activity are lacking. Herein, we report the design, synthesis, and optimization of a probe to directly monitor PTP-PEST enzymatic activity via a fluorescent readout. This activity sensor, termed pPEST1tide, is capable of detecting as little as 0.2 nM recombinant PTP-PEST. In addition, we demonstrate that this probe can selectively report on PTP-PEST activity using a panel of potential off-target enzymes. In the long-term, this activity probe could be utilized to identify small molecule modulators of PTP-PEST activity as well as provide a prognostic readout for HCC.
+

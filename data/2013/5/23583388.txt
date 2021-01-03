@@ -1,0 +1,4 @@
+23583388
+2013 May 17
+We studied the roles of JMJD1A and its target gene ADM in the growth of hepatocellular carcinomas (HCCs) and breast cancer cells under hypoxic conditions. Hypoxia stimulated HepG2 and Hep3B cell proliferation but had no effect on MDA-MB-231 cell proliferation. Interestingly, the JMJD1A and ADM expressions were enhanced by hypoxia only in HepG2 and Hep3B cells. Our ChIP results showed that hypoxia-induced HepG2 and Hep3B cell proliferation is mediated by JMJD1A upregulation and subsequent decrease in methylation in the ADM promoter region. Furthermore, JMJD1A gene silencing abrogated the hypoxia-induced ADM expression and inhibited HepG2 and Hep3B cell growth. These data suggest that JMJD1A might function as a proliferation regulator in some cancer cell types.
+

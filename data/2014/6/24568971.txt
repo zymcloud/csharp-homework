@@ -1,0 +1,4 @@
+24568971
+2014 Jun
+The envelope of human hepatitis B virus (HBV) consists of the large (L), middle (M), and small (S) surface proteins. The preS1 domain at the N terminus of the L-protein is essential for recognizing a target cell and for viral infectivity. In the present study, peptides derived from the preS1 domain (amino acid residues 2-19) were synthesized, and their binding affinities for human hepatocellular carcinoma (HCC) cells were determined. Non-myristoylated peptides showed much lower affinity for HepG2 cells than myristoylated peptides. Although all peptides showed significantly higher affinities for two human HCC cell lines (HepG2 and HuH-7) compared with other cell lines (HeLa, B16, NMuLi, and NIH 3T3), a modified peptide exhibited the highest affinity for HCC cell lines. These results suggest that the modified peptide can target liver cells.
+Hepatocellular carcinoma; Hepatocyte; Human hepatitis B virus; Peptide substrate; preS1.

@@ -1,0 +1,4 @@
+22785028
+2012 Nov
+We herein examined the sensitivity of Hep G2 human hepatoma cells to Bacillus cereus emetic toxin. Hep G2 cells were treated with the emetic toxin, and the cell shape was observed. The same experiments were performed for comparison purposes, using HEp-2 cells, which are currently used by most laboratories for a bioassay of the emetic toxin. Hep G2 cells showed clearer vacuolation in the cytosol within 2 hr and required a shorter incubation period than HEp-2 cells (10 hr). The number of vacuoles in the Hep G2 cells was greater, and the size of the vacuoles was larger than those observed in HEp-2 cells. The minimal concentration of the emetic toxin required to induce the vacuolation of Hep G2 cells was 0.04 ng/ml. The concentration for the HEp-2 cells was 1 ng/ml. These findings indicate that Hep G2 cells show higher sensitivity to the emetic toxin. Hep G2 cells may be superior to the currently used HEp-2 cells for the bioassay of the emetic toxin.
+

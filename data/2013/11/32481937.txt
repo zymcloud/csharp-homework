@@ -1,0 +1,4 @@
+32481937
+2013 Nov 1
+Effective systemic therapy is often necessary to treat hepatocellular carcinoma (HCC). We synthesized a Gal-PPE nanogel consisting of a cross-linked polyphosphate core and galactosylated poly(ethylene glycol) arms for enhanced doxorubicin delivery to diethylnitrosamine-induced HCC in rats. The Gal-PPE nanogel exhibited high affinity to HepG2 cells in vitro, mediated by the asialoglycoprotein receptor. In vivo studies revealed that the Gal-PPE nanogel was taken up more efficiently by hepatocytes, in contrast to m-PPE nanogel. Consequently, doxorubicin delivery with Gal-PPE significantly inhibited the progress of HCC, reducing neoplastic liver nodules and prolonging the survival time of HCC rats more significantly. These results demonstrate the potential of Gal-PPE as a nanocarrier for improved HCC chemotherapy.
+

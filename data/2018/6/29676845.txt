@@ -1,0 +1,4 @@
+29676845
+2018 Jun
+The miR-490-3p was transfected into HepG2 cells to explore the correlation between miR-490-3p and hepatocellular carcinoma cell proliferation, apoptosis, and autophagy and its downstream target gene ATG7. Then we could possibly provide a mechanism for the treatment of hepatocellular carcinoma. MiR-490-3p was screened out by fold change > 4 and P
+ATG7; MiR-490-3p; autophagy; hepatocellular carcinoma.

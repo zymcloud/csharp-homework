@@ -1,0 +1,4 @@
+29192136
+2017 Dec 1
+BACKGROUND Maternal embryonic leucine zipper kinase (MELK) has been implicated in various types of tumors, but its expression profile and clinicopathologic significance in hepatocellular carcinoma (HCC) in Chinese Han people remains unknown. Therefore, this study attempted to investigate the expression pattern of MELK in HCC tissues obtained from a Chinese Han population. MATERIAL AND METHODS The expression of MELK, from RNA to protein levels, in HCC or disease-free human liver tissues was evaluated using quantitative real-time polymerase chain reaction assays and immunohistochemistry staining, and its prognostic significance was determined based on its impact on HCC patients' survival. RESULTS We found that HCC tissues expressed a higher level of MELK RNA than non-tumor tissues in tumor-related public databases (P
+

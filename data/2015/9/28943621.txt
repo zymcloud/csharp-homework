@@ -1,0 +1,4 @@
+28943621
+2015 Sep 17
+Hepatitis B virus (HBV) infection, a cause of hepatocellular carcinoma (HCC), remains a serious global health concern. HCC development and human hepatocarcinogenesis are associated with hepatic inflammation caused by host interferons and cytokines. This article focused on the association between the HBV core protein, which is one of the HBV-encoding proteins, and cytokine production. The HBV core protein induced the production of interferons and cytokines in human hepatoma cells and in a mouse model. These factors may be responsible for persistent HBV infection and hepatocarcinogenesis. Inhibitors of programmed death (PD)-1 and HBV core and therapeutic vaccines including HBV core might be useful for the treatment of patients with chronic HBV infection. Inhibitors of HBV core, which is important for hepatic inflammation, could be helpful in preventing the progression of liver diseases in HBV-infected patients.
+HBV; core; cytokine; interferon.

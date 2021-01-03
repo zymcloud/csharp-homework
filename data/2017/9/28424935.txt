@@ -1,0 +1,4 @@
+28424935
+2017 Sep
+We have rationally constructed a novel ratiometric and near-infrared Cu2+ fluorescent probe based on a tricarbocyanine chromophore. The new probe NIR-Cu showed a ratiometric fluorescent response to Cu2+ with a large emission wavelength shift (up to 142 nm) in the far-red to near-infrared region. The probe also displayed a large variation in the fluorescence ratio (I636/I778) to Cu2+ species with high sensitivity and selectivity. Additionally, the developed probe NIR-Cu was suitable for fluorescence imaging of Cu2+ in living cells and mice.
+Cu2+; Fluorescent probe; NIR; Ratiometric.

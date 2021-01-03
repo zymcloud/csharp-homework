@@ -1,0 +1,4 @@
+26845888
+2015 Nov
+RNAs lacking protein-coding ability are called "noncoding RNAs" (ncRNAs). ncRNAs include microRNA (19-24 nucleotides in length) and long ncRNA (lncRNA). MicroRNA binds to the 3'-untranslated regions of target mRNAs and regulates target genes at a posttranscriptional level. In hepatocellular carcinoma (HCC), the roles of microRNAs in hepatocarcinogenesis and microRNAs that can determine the nature of HCC have been reported. Because microRNA is stable in the bloodstream or formalin-fixed specimens, it can be used as a tumor marker. MicroRNAs as therapeutic targets for HCC are being intensively investigated. A phase I clinical study using miR-34 is currently in progress. On the other hand, the investigation of lncRNAs has only recently begun. Because lncRNAs are also involved in hepatocarcinogenesis and can determine the nature of cancers, many researchers are now working on these RNAs.
+

@@ -1,0 +1,4 @@
+30525585
+2019 Jan 24
+We designed and synthesized quinazolin-2,4-dione-based hydroxamic acids to serve as selective competitive inhibitors of histone deacetylase-6 (HDAC6). The most potent and selective compound, 3d (IC50, 4 nM, HDAC6; IC50 > 10 μM, HDAC1), substantially increased acetylation of α-tubulin instead of histones in the lung cancer cell line, LL2. Paclitaxel in combination with 3d had a synergistic anticancer effect on reduction of programmed death-ligand 1 expression in LL/2 cells. When given orally, 3d was mainly found to locate in the liver and lungs, at a concentration 18- to 70-fold greater, respectively, than in plasma. As an orally active HDAC6 inhibitor, 3d (20 mg/kg) potentiated paclitaxel antitumor activity (percentage tumor growth inhibition, 67.5%) in a xenograft syngeneic non-small cell lung cancer mouse model.
+

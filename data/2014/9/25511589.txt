@@ -1,0 +1,4 @@
+25511589
+2014 Sep 16
+Objective:To explore the correlation between alpha fetoprotein (AFP) and the prognosis of hepatocellular carcinoma after hepatectomy in an ethnic Chinese population.Methods:This study retrospectively analyzed the surgical outcomes of hepatocellular carcinoma (HCC) in 779 patients undergoing hepatic resection between June 1999 and March 2010 at our hospital. The postoperative prognostic factors were assessed by univariate Kaplan-Meier analysis and a multivariate Cox proportional hazard model.Results:The cut-off value of AFP was 18.98 µg/L by receiver operating characteristic (ROC) curve statistics and the sensitivity and specificity rates were 54.6% and 82.0% respectively. The overall survival (OS) rate of AFP negative group (AFP Conclusion:Lower serum level of AFP indicates better prognosis while higher AFP level is directly correlated with more aggressive biological tumor activities, poor background of liver and poor prognosis.
+

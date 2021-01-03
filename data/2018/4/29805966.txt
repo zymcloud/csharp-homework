@@ -1,0 +1,4 @@
+29805966
+2018 Apr 1
+Hepatocarcinoma is one of the most prevalent gastroenterological cancers in the world with less effective therapy. As an oncofetal antigen and diagnostic marker for liver cancer, alpha-fetoprotein (AFP) possesses a variety of biological functions. Except for its diagnosis in liver cancer, AFP has become a target for liver cancer immunotherapy. Although the immunogenicity of AFP is weak and it could induce the immune escapes through inhibiting the function of dendritic cells, natural killer cells, and T lymphocytes, AFP has attracted more attention in liver cancer immunotherapy. By in vitro modification, the immunogenicity and immune response of AFP could be enhanced. AFP-modified immune cell vaccine or peptide vaccine has displayed the specific antitumor immunity against AFP-positive tumor cells and laid a better foundation for the immunotherapy of liver cancer.
+

@@ -1,0 +1,4 @@
+29223570
+2018 Jan 25
+Hepatocellular carcinoma (HCC) chemoresistance, which is regarded as a kind of stress management reaction to chemotherapy drugs, severely hinders the therapy outcomes of HCC treatment. Stress management is generally achieved by activating certain signal pathways and chemical factors, among which, nuclear factor-E2-related factor2 (Nrf2) is a key factor in HCC chemoresistance formation. Nrf2 is a nuclear factor that coordinates the induction and expression of a battery of genes encoding cytoprotective proteins when participating in the Nrf2antioxidant response element (Nrf2/ARE) pathway, which is one of the most important intracellular antioxidant stress pathways. This review summarizes the recent understanding of the involvement of Nrf2 in the chemoresistance of liver cancer, its target proteins, expression regulation and potential Nrf2 inhibitors that sensitize chemotherapy drugs in HCC.
+Chemoresistance; HCC; Nrf2; Regulation; Sensitivity.

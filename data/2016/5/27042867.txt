@@ -1,0 +1,4 @@
+27042867
+2016 May 3
+Secreted proteins play key roles during cellular communication, proliferation, and migration. The comprehensive profiling of secreted proteins in serum-containing culture media is technically challenging. Most studies have been performed under serum-free conditions. However, these conditions might alter the status of the cells. Herein, we describe an efficient strategy that avoids the disturbance of serum by combining metabolic labeling, protein "equalization," protein fractionation, and filter-aided sample preparation, called MLEFF, enabling the identification of 534 secreted proteins from HeLa conditioned media, including 31 cytokines, and growth factors. This MLEFF strategy was also successfully applied during a comparative secretome analysis of two human hepatocellular carcinoma cell lines with differentially metastatic potentials, enabling the quantification of 61 significantly changed proteins involved in tumor invasion and metastasis.
+

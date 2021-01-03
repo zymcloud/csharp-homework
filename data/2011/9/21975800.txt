@@ -1,0 +1,4 @@
+21975800
+2011 Sep
+Chronic hepatitis C virus (HCV) infection is responsible for development of liver cirrhosis and hepatocellular carcinoma. In addition to PEGylated interferon-α, ribavirin, and HCV NS3 protease inhibitors, recently identified HCV NS5A inhibitors such as BMS-790052 showed a great promise in clinical trials as another new class of direct-acting anti-HCV therapeutics with a distinct mechanism of action. This clinical proof-of-concept study with NS5A inhibitors demonstrated that small molecules targeting a viral protein without any known enzymatic activity can also have profound antiviral effects. In conclusion, NS5A inhibitors will serve as a valuable component of future therapy for HCV patients.
+

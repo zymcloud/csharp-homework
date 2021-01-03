@@ -1,0 +1,4 @@
+29448306
+2018 Apr
+Background:The prognostic performance of the albumin-bilirubin (ALBI) grade in hepatocellular carcinoma (HCC) as an objective method of assessing liver function was investigated.Methods:Data from 2099 patients with HCC in Korea were collected and analyzed retrospectively. The discriminative performance of ALBI grade was compared with Child-Pugh (C-P) grade for different stages or treatments.Results:The median follow up duration was 16.2 months (range: 1.0-124.9). The median survival times were 49.7 months for C-P grade A (65.8%), 12.4 months for C-P grade B (25.5%), and 4.2 months for C-P grade C (8.6%) (P Conclusions:ALBI grade provided better prognostic performance in survival analysis and better distribution of the grades than C-P grade in HCC, suggesting that ALBI grade could be a good alternative grading system for liver function in patients with HCC.
+ALBI grade; Child-Pugh grade; hepatocellular carcinoma; prognosis; survival.

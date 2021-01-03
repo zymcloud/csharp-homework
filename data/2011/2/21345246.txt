@@ -1,0 +1,4 @@
+21345246
+2011 Feb 22
+There has been considerable interest in cancer stem cells (CSCs) among cancer biologists and clinicians, most likely because of their role in the heterogeneity of cancer and their potential application in cancer therapeutics. Recent studies suggest that CSCs play a key role in liver carcinogenesis. A small subpopulation of cancer cells with CSC properties has been identified and characterized from hepatocellular carcinoma (HCC) cell lines, animal models and human primary HCCs. Considering the high mortality and ineffectiveness of current therapies for HCC, understanding the characteristics and function of CSCs is likely to lead to development of new therapies resulting in improvement of patient survival. This review summarizes recent progress in liver cancer stem cell research with regard to the identification, cell origin, regulation of self-renewal capacity, and therapeutic implications of liver CSCs.
+

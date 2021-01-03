@@ -1,0 +1,4 @@
+27563019
+2016 Sep 15
+Recent advances in the noninvasive imaging of chronic liver disease have led to improvements in diagnosis, particularly with magnetic resonance imaging (MRI). A comprehensive evaluation of the liver may be performed with the quantification of the degree of hepatic steatosis, liver iron concentration, and liver fibrosis. In addition, MRI of the liver may be used to identify complications of cirrhosis, including portal hypertension, ascites, and the development of hepatocellular carcinoma. In this review article, we discuss the state of the art techniques in liver MRI, namely, magnetic resonance elastography, hepatobiliary phase MRI, and liver fat and iron quantification MRI. The use of these advanced techniques in the management of chronic liver diseases, including nonalcoholic fatty liver disease, will be elaborated.
+Liver cirrhosis; Liver steatosis; Magnetic resonance imaging; Magnetic resonance techniques; Non-alcoholic fatty liver disease.

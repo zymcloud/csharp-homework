@@ -1,0 +1,4 @@
+30448059
+2018 Dec 9
+Glucose homeostasis is a key event during many physiological and pathological processes. Histone modifications have emerged as vital factors influencing this process. DPY30, a core subunit of SET1/MLL family histone H3K4 methyltransferase complexes, has been reported to be amplified in cancers. However, the role of DPY30 in glucose homeostasis remains unclear. Here we reported that DPY30 regulated H3K4me3 recruitment to control the expression of Hif1α and its targeted glycolytic genes. Specifically, DPY30 promoted H3K9Ac recruitment via inhibiting SIRT6 occupancy on these gene promoters. Finally, we observed significant upregulation of DPY30 mRNA expression in hepatocellular carcinoma samples from datasets. Taken together, our results reveal a critical role of DPY30 in glucose homeostasis and might offer new therapeutic and diagnostic opportunities for cancers.
+Cancer; Glucose homeostasis; Glycolysis; Histone modifications.

@@ -1,0 +1,4 @@
+29135101
+Sep-Oct 2017
+Purpose:This study aimed to investigate the expression of NOR1 in hepatocellular carcinoma (HCC) tissue and its relationship with prognosis.Methods:A sample of 60 specimens including HCC and adjacent normal tissues were collected from postoperative HCC patients from February to September 2011. Immunohistochemistry was used to detect the positive expression of the oxidored-nitro domain containing protein 1 (NOR1), the postoperative disease-free survival (DFS) rate and then the overall survival (OS) was analyzed by the Kaplan-Meier method.Results:The results showed significantly lower expression of NOR1 in HCC tissue than that in adjacent normal tissue. Moreover, the OS and DFS rate of NOR1 (++) patients were significantly higher than those of other groups.Conclusion:Consequently, NOR1 is a protective protein in HCC, and the increase of its expression is favorable for the prognosis of patients.
+

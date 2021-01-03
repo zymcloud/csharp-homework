@@ -1,0 +1,4 @@
+30591653
+2018 Dec 27
+Obesity promotes the development of numerous cancers, such as liver and colorectal cancers, which is at least partly due to obesity-induced, chronic, low-grade inflammation. In particular, the recruitment and activation of immune cell subsets in the white adipose tissue systemically increase proinflammatory cytokines, such as tumor necrosis factor α (TNFα) and interleukin-6 (IL-6). These proinflammatory cytokines not only impair insulin action in metabolic tissues, but also favor cancer development. Here, we review the current state of knowledge on how obesity affects inflammatory TNFα and IL-6 signaling in hepatocellular carcinoma and colorectal cancers.
+IL-6 and TNF; Obesity; liver and colon cancer; low-grade inflammation; signaling.

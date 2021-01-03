@@ -1,0 +1,4 @@
+20379953
+2010 Oct
+The current study was performed to examine the mechanisms underlying the potential effects of E. KANSUI on IL-6-induced cellular signaling in human hepatoma cells. We found that two diterpenoids, kansuinine A and B, from E. KANSUI have an inhibitory effect on IL-6-induced Stat3 activation by activating ERK1/2. Inhibition of MEK significantly blocked the effects of kansuinine A and B on IL-6-induced Stat3 activation and tyrosine phosphorylation. These results suggest that blocking of IL-6-induced signal transduction is partially due to the sustained activation of ERK1/2 by kansuinine A and B, which in turn results in an increase of Stat3 serine phosphorylation and SOCS-3 expression. Treatment with kansuinine A and B represents a novel method to block these IL-6-induced effects.
+

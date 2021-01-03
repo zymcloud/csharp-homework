@@ -1,0 +1,4 @@
+22322725
+2012 May
+Combined therapy with multiple drugs is a common practice in the treatment of cancer, which can achieve better therapeutic effects than a single drug, and can reduce the side effects as well as drug resistance. This study aimed to determine whether aspirin (ASA) shows synergism with doxorubicin (DOX) in HepG2 human hepatocellular carcinoma cells in vitro and in a HepG2 cell xenograft model in BALB/c nude mice. When treated in combination, DOX (0.25 nmol/ml) and ASA (5 µmol/ml) produced strong synergy in growth inhibition, cell cycle arrest and importantly, apoptosis in vitro in comparison to single treatments. Moreover, ASA (100 mg/kg/day orally) and DOX (1.2 mg/kg biweekly ip) induced synergistic antitumor activity in the HepG2 cell xenograft model in nude mice. Therefore, the combination of ASA and DOX could be used as a novel combination regimen which provides a strong anticancer synergy in the treatment of hepatocellular carcinoma.
+

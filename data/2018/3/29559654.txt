@@ -1,0 +1,4 @@
+29559654
+2018 Mar 20
+C1q is known to perform several functions in addition to the role it plays in complement activation. C1q contains a collagen-like portion and DDR1 (discoidin domain receptor 1) is a well-known collagen receptor. Accordingly, we hypothesized C1q might be a novel ligand of DDR1. This study shows for the first time C1q directly induces the activation and upregulation of DDR1, and that this leads to enhanced migration and invasion of HepG2 cells. In addition, C1q was found to induce the activations of mitogen-activated protein kinases (MAPKs) and phosphoinositide 3-kinase (PI3K)/Akt signaling, and to increase the expressions of matrix metalloproteinases (MMP2 and 9). Our results reveal a relationship between C1q and DDR1 and suggest C1q-induced DDR1 activation signaling may be involved in the progression of hepatocellular carcinoma.
+

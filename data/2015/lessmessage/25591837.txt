@@ -1,0 +1,4 @@
+25591837
+2015
+Aim:This retrospective analysis investigated the effectiveness of combination therapy with bevacizumab and chemotherapy in the first-line treatment of patients with KRAS wild-type metastatic colorectal cancer.Patients & methods:Patients with KRAS wild-type metastatic colorectal cancer in the CORECT registry who initiated treatment with bevacizumab between 2008 and 2012 were enrolled. Overall survival and progression-free survival were the main effectiveness end points.Results:A total of 981 patients were enrolled. Median progression-free survival was 11.3 months (95% CI: 10.7-11.8) and median overall survival was 28.4 months (95% CI: 26.2-30.6). The most common adverse events were thromboembolic disease (4%) and hypertension (3.5%).Conclusion:This retrospective analysis shows the effectiveness of bevacizumab with chemotherapy in patients with KRAS wild-type metastatic colorectal cancer.
+KRAS; bevacizumab; chemotherapy; colorectal cancer.

@@ -1,0 +1,4 @@
+25851265
+2015 May
+Aflatoxins are mycotoxins produced by Aspergillus spp. Although AFB1 is implicated as a carcinogen in hepatocellular carcinoma, brain autopsies in affected areas have revealed its presence in 81% of cases. Given its haematogenous spread, here we determined the cytotoxic effects of AFB1 on primary human brain microvascular endothelial cells (HBMEC), which constitute the blood-brain barrier, human umbilical vein endothelial cells (HUVEC) as well as immortalized epithelial cells of human hepatocellular carcinoma (Huh7). The cell types were exposed to AFB1 (3-32 nM) for 24 h and release of lactate dehydrogenase was measured as cell cytotoxicity marker. Furthermore, DNA was collected from both cell types and DNA adduct formation was determined by immunoblot using anti-AFB1-DNA adduct antibody. At 32 nM, AFB1 killed >85% HBMEC, while controls showed minimal effects (P
+Aflatoxin B1 (AFB1); Aspergillus flavus; Huh7; blood-brain barrier; endothelial cells.

@@ -1,0 +1,4 @@
+24158561
+2013 Nov
+Hepatocellular carcinoma (HCC) is one of the common malignances in the world and has high mortality in part due to development of acquired drug resistance. Therefore, it is urgent to investigate the molecular mechanism of drug resistance in HCC. To explore the underlying mechanism of drug resistance in HCC, we developed gemcitabine-resistant (GR) HCC cells. We used multiple methods to achieve our goal including RT-PCR, Western blotting analysis, transfection, Wound-healing assay, migration and invasion assay. We observed that gemcitabine-resistant cells acquired epithelial-mesenchymal transition (EMT) phenotype. Moreover, we found that PDGF-D is highly expressed in GR cells. Furthermore, down-regulation of PDGF-D in GR cells led to partial reversal of the EMT phenotype. Our findings demonstrated that targeting PDGF-D could be a novel strategy to overcome gemcitabine resistance in HCC.
+

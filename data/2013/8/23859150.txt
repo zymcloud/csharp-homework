@@ -1,0 +1,4 @@
+23859150
+2014 Aug
+Small pinto bean is a cultivar of Phaseolus vulgaris. It produces a 16-kDa trypsin inhibitor that could be purified using anion exchange and size chromatography. Q-Sepharose, Mono Q and Superdex 75 columns were employed for the isolation process. Small pinto bean trypsin inhibitor demonstrated moderate pH stability (pH 2-10) and marked heat stability, with its trypsin inhibitory activity largely retained after exposure to 100 °C for half an hour. The activity was abolished in the presence of dithiothreitol, in a dose-dependent manner, implying that disulfide bonds in small pinto bean trypsin inhibitor are crucial for the activity. The trypsin inhibitor showed a blocked N-terminus. The trypsin inhibitor only slightly inhibited the viability of breast cancer MCF7 and hepatoma HepG2 cells at 125 μM.
+Bowman--Birk; Phaseolus vulgaris; dithiothreitol; leguminous.

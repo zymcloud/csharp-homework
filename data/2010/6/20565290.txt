@@ -1,0 +1,4 @@
+20565290
+2010 Jun
+Genetic polymorphism of IFNAR-1 plays a large role in determining the clearance or chronicity after hepatitis B virus (HBV) exposure. However, it is not clear whether type I interferon receptor-1 (IFNAR-1) variations continuously exert their effects to influence the final outcomes following HBV chronicity, including acute-on-chronic hepatitis B liver failure (ACLF-HBV), chronic hepatitis B (CHB), liver cirrhosis (LC), and hepatocellular carcinoma (HCC). Here we report that these four potential outcomes of chronic HBV infection are strongly associated with IFNAR-1 polymorphisms through a hospital-based case-control study of 663 cases. ACLF-HBV and HCC were each compared with CHB+LC. In comparison with the G/G genotype, the C/G and C/C genotypes at both single-nucleotide polymorphism (SNP) sites (rs1012335 and rs2257167) showed significant susceptibility to ACLF-HBV (the highest odds ratio [OR] reached 2.374; 95% CI = 1.488, 3.788; p
+

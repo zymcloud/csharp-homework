@@ -1,0 +1,4 @@
+26497556
+2016 Jan 5
+MicroRNAs (miRNAs) are dysregulated in many types of malignancies, including human hepatocellular carcinoma (HCC). MiR-107 has been implicated in several types of cancer regulation; however, relatively little is known about miR-107 in human HCC. In the present study, we showed that the overexpression of miR-107 accelerates the tumor progression of HCC in vitro and in vivo through its new target gene, CPEB3. Furthermore, our results demonstrated that CPEB3 is a newly discovered tumor suppressor that acts via the EGFR pathway. Therefore, our study demonstrates that the newly discovered miR-107/CPEB3/EGFR axis plays an important role in HCC progression and might represent a new potential therapeutic target for HCC treatment.
+CPEB3; EGFR; hepatocellular carcinoma; microRNA; microRNA-107.

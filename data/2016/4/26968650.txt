@@ -1,0 +1,4 @@
+26968650
+2016 Apr 15
+A structure-activity relationship study was performed with ten 8-aminoquinoline-squaramides compounds active against liver stage malaria parasites, using human hepatoma cells (Huh7) infected by Plasmodium berghei parasites. In addition, their blood-schizontocidal activity was assessed against chloroquine-resistant W2 strain Plasmodium falciparum. Compound 3 was 7.3-fold more potent than the positive control primaquine against liver-stage parasites, illustrating the importance of the squarate moiety to activity.
+8-Aminoquinoline; Antiplasmodial activity; Liver stage; Malaria; Squaramide.

@@ -1,0 +1,4 @@
+32690957
+2020 Aug
+Cancer invasion and metastasis are challenging to study in vivo since they occur deep inside the body over extended time periods. Organotypic 3D culture of fresh tumor tissue enables convenient real-time imaging, genetic and microenvironmental manipulation and molecular analysis. Here, we provide detailed protocols to isolate and culture heterogenous organoids from murine and human primary and metastatic site tumors. The time required to isolate organoids can vary based on the tissue and organ type but typically takes
+

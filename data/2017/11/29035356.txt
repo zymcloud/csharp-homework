@@ -1,0 +1,4 @@
+29035356
+2017 Nov
+An effective blood-based method for the diagnosis and prognosis of hepatocellular carcinoma (HCC) has not yet been developed. Circulating tumour DNA (ctDNA) carrying cancer-specific genetic and epigenetic aberrations may enable a noninvasive 'liquid biopsy' for diagnosis and monitoring of cancer. Here, we identified an HCC-specific methylation marker panel by comparing HCC tissue and normal blood leukocytes and showed that methylation profiles of HCC tumour DNA and matched plasma ctDNA are highly correlated. Using cfDNA samples from a large cohort of 1,098 HCC patients and 835 normal controls, we constructed a diagnostic prediction model that showed high diagnostic specificity and sensitivity (P
+

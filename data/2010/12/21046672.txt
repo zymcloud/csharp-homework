@@ -1,0 +1,4 @@
+21046672
+2010 Dec
+Secreted frizzled-related protein 1 (sFRP1) is a new tumor suppressor based on recent researches, but the correlation of the genetic instability of sFRP1 gene with the clinicopathologic features of the hepatocellular carcinoma (HCC) has not been studied in Chinese people. In this study, 42 pairs of paraffin-embedded HCC and adjacent non-carcinoma tissues were examined for the loss of heterozygosity (LOH) and microsatellite instability (MSI) of two microsatellite markers D8S532 and D8S1722 located in the vicinity of the sFRP1 gene. Envision immunohistochemistry was used to assess the expression of sFRP1. We found that the reduced expression of the sFRP1 protein was frequently observed in Chinese patients with HCC, which may at least partially result from the genetic instability, especially LOH. The LOH-associated sFRP1 downregulation may play an important role in the development of HCC.
+

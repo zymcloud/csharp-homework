@@ -1,0 +1,4 @@
+32107372
+2020 Feb 27
+The authors have retracted this article [1] because there are errors in some images. In Fig. 2g, a colony picture for Mock group was incorrect. In Fig. 2k, the invasion pictures for Mock and overexpression ST6Gal-1 cells were incorrect. In Fig. 3g, the colony picture for shNC was incorrect. In Fig. 4f, the authors mistakenly provided WB band for GAPDH. In Fig. 4g, the IHC pictures for 10w in Negative Control and DENA-induced Groups were incorrect, and in Fig. 7f, a IHC picture for GSK-3β in DENA-induced Group (10w) was presented incorrectly. Due to these errors the findings are no longer reliable.
+

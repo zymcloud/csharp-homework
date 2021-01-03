@@ -1,0 +1,4 @@
+31185249
+2019 Sep 10
+The gastrointestinal tract represents one of the largest interfaces between the host and environmental factors. It contains a vast and complex community of microbes, forming what is collectively known as the microbiota. This gut microbiota plays a pivotal role in the maintenance of health, and 'dysbiosis' of the gut microbiota, commonly considered as perturbation of microbiota diversity and composition, has been associated with intestinal and extra-intestinal diseases, including non-alcoholic fatty liver disease (NAFLD) and its associated hepatocellular carcinoma (NAFLD-HCC). In this review, we highlight microbiota dysbiosis and the microbiota-host interactions that link to the pathogenesis of NAFLD and NAFLD-HCC. We discuss the potential therapeutic implications of the gut microbiota in the progression of NAFLD-HCC.
+Gut microbiota; Gut-liver axis; Immunity; Metabolome; NAFLD; NAFLD-HCC.

@@ -1,0 +1,4 @@
+24179703
+2013 Mar 19
+A series of nine poly(2-deoxy-2-methacrylamido glucopyranose)-b-poly(methacrylate amine) diblock copolycations The cationic block was varied in length and in the degree of methyl group substitution (secondary, tertiary, quaternary) on the pendant amine in an effort to optimize the structure and activity for plasmid DNA delivery. Upon a thorough kinetic study of polymerization for each polymer, the glycopolymers were prepared with well-controlled Mn and Ð. The binding and colloidal stability of the polymer-pDNA nanocomplexes at different N/P ratios and in biological media has been investigated using gel electrophoresis and light scattering techniques. The toxicity and transfection efficiency of the polyplexes has been evaluated with Hep G2 (human liver hepatocellular carcinoma) cells; several polymers displayed excellent delivery and toxicity profiles justifying their further development for in vivo gene therapy.
+

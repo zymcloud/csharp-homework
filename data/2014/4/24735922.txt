@@ -1,0 +1,4 @@
+24735922
+2014 Apr 14
+Hepatocellular adenomas (HCA) are benign liver tumors predominantly developed in women using oral contraceptives. Here, exome sequencing identified recurrent somatic FRK mutations that induce constitutive kinase activity, STAT3 activation, and cell proliferation sensitive to Src inhibitors. We also found uncommon recurrent mutations activating JAK1, gp130, or β-catenin. Chromosome copy number and methylation profiling revealed patterns that correlated with specific gene mutations and tumor phenotypes. Finally, integrative analysis of HCAs transformed to hepatocellular carcinoma revealed β-catenin mutation as an early alteration and TERT promoter mutations as associated with the last step of the adenoma-carcinoma transition. In conclusion, we identified the genomic diversity in benign hepatocyte proliferation, several therapeutic targets, and the key genomic determinants of the adenoma-carcinoma transformation sequence.
+

@@ -1,0 +1,4 @@
+21567102
+2011 Aug
+Silent mating type information regulation 2 homolog 1 (SIRT1) is a multifaceted, nicotinamide adenine dinucleotide-dependent protein deacetylase with involvement in a wide variety of cellular processes ranging from cancer to aging. Expression of SIRT1 was evaluated in 90 cases of hepatocellular carcinoma (HCC) and five HCC cell lines. The relationship between the mutation status of p53 and expression of SIRT1 was also investigated in 10 fresh HCC tissues. Synthetic small interfering RNA was used to silence SIRT1 gene expression by RNA interference (RNAi), and cell growth and cell cycle progression were assessed. Expression of SIRT1 was significantly elevated in the HCC tissues when compared to that of non-tumor tissues (p
+

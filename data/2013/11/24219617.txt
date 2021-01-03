@@ -1,0 +1,4 @@
+24219617
+2013 Nov 27
+In vitro metabolic behavior was investigated for two chromium tricarbonyl derivatives of the antischistosomal drug praziquantel (PZQ) with the formula (η(6)-PZQ)Cr(CO)3 (1 and 2), by use of human liver microsomes. The metabolic profiles of the derivatives differ significantly. The optically pure (η(6)-PZQ)Cr(CO)3 derivatives (S, Sp)-1, (R, Rp)-1, (S, Rp)-2, and (R, Sp)-2 were also prepared to assess the eudysmic ratios of 1 and 2 against Schistosoma mansoni in vitro. A strong enantioselective antischistosomal activity was observed. The R-enantiomers are highly active against adult schistosomes in vitro (IC50 0.08-0.13 μM), whereas both S-enantiomers lack activity. The in vivo activity of 1 and 2 was then studied in mice harboring a chronic S. mansoni infection. A single dose of 1 and 2 (400 mg/kg) resulted in low worm burden reductions of 24% and 29% (p > 0.05).
+

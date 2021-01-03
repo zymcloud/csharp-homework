@@ -1,0 +1,4 @@
+29557391
+2018 Mar 20
+BACKGROUND Cyclin Y (CCNY) is a member of the cyclin family of proteins that regulate the cell cycle. The aims of this study were to compare the expression of CCNY in normal liver and human hepatocellular carcinoma (HCC), in normal and HCC cell lines, and in mouse HCC tumor xenografts. MATERIAL AND METHODS Tumor tissues from 55 patients diagnosed with HCC were studied for CCNY expression. Human HCC cell lines, SK-Hep1, HepG2, HEP3B, HuH7 and L02 were studied using the MTT cell proliferation assay, cell apoptosis, transwell and wound healing assays. Quantitative reverse transcription-polymerase chain reaction (qRT-PCR) and Western blot were used to measure CCNY expression. Indirect immunofluorescence was used to assess cell apoptosis. In vivo xenograft mouse model was constructed and examined histologically. RESULTS Expression of CCNY in human HCC tumor tissues was significantly increased when compared with adjacent normal liver (all P
+

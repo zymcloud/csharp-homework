@@ -1,0 +1,4 @@
+23030478
+2013 Feb
+WW domain-containing oxidoreductase (WWOX) is a novel tumor suppressor gene, and its expression is reduced in various cancers, including hepatocellular carcinoma (HCC). WWOX has been reported to be downregulated in HCC cell lines as well as in primary HCC tissues. It has been suggested that WWOX is implicated in Wnt/β-catenin pathway, which is frequently affected in HCC. The aim of this study was to evaluate the expression of WWOX, β-catenin and T-cell factor 4 (TCF4) in HCC. Our result showed that downregulation of WWOX in HCC was correlated with cytoplasmic accumulation of β-catenin. In addition, strong nuclear TCF4 expression was associated with tumor grade and stage in HCC. In conclusion, our result implied that downregulation of WWOX might lead to accumulation of cytoplasmic β-catenin and the subsequent activation of Wnt/β-catenin signaling pathway in HCC.
+

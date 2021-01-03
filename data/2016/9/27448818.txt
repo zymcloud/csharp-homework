@@ -1,0 +1,4 @@
+27448818
+2016 Sep
+Hepatocellular carcinoma (HCC) and cholangiocarcinoma (CCA) are the members of hepatobiliary diseases. Both types of cancer often exert high levels of similarity in terms of phenotypic characteristics, thus leading to difficulties in HCC and CCA differential diagnoses. In this study, a transcriptome meta-analysis was performed on HCC and CCA microarray data to identify differential transcriptome networks and potential biomarkers for HCC and CCA. Raw data from nine gene expression profiling datasets, consisting of 1,185 samples in total, were methodologically compiled and analyzed. To evaluate differentially expressed (DE) genes in HCC and CCA, the levels of gene expression were compared between cancer and its normal counterparts (i.e., HCC versus normal liver and CCA versus normal bile duct) using t test (P
+Biomarker; Cholangiocarcinoma; Hepatocellular carcinoma; Meta-analysis; Microarray.

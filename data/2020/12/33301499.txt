@@ -1,0 +1,4 @@
+33301499
+2020 Dec 10
+Background and aims:To evaluate the ability of pretreatment liver stiffness measurements (pLSM) to predict hepatocellular carcinoma (HCC), incident decompensation and all-cause mortality in chronic hepatitis C (CHC) patients who achieved sustained virological response (SVR) after treatment with direct-acting antivirals (DAAs).Methods:773 CHC patients with SVR after DAA treatment and no prior liver complications were identified retrospectively. Optimized cut-off of 17.5 kPa for incident HCC was selected by maximum Youden's index. Patients were grouped by pLSM: Results:Median follow-up was 36 months and 43.5% (336) had cirrhosis (LSM>12.5 kPa). The median pLSM was 11.6 kPa (IQR 6.7-17.8, range 2.5-75) and pLSM of Conclusion:Pretreatment LSM predicts risk of HCC, decompensation and all-cause mortality in patients with SVR after DAA treatment. Patients with a pLSM
+

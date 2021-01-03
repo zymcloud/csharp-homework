@@ -1,0 +1,4 @@
+31823484
+2019 Dec 11
+Lack of insight into the mechanisms underlying hepatocellular carcinoma (HCC) metastasis has hindered the development of curative treatments. Overexpression of interleukin-13 receptor alpha 2 (IL13RA2) has been reported to contribute to invasion and metastasis in several tumors. However, the role of IL13RA2 in HCC remains to be characterized. In this study, we identified that low expression of IL13RA2 is associated with poor survival of patients with HCC, and demonstrated that IL13RA2 knockdown endows HCC cells with invasive potential. Mechanistically, silencing of IL13RA2 promotes partial epithelial-mesenchymal transition via increasing extracellular signal-regulated kinase phosphorylation in HCC. Collectively, our results suggest that IL13RA2 may have potential as a prognostic biomarker for HCC.
+ERK signaling; epithelial-mesenchymal transition; hepatocellular carcinoma; interleukin-13 receptor alpha 2.

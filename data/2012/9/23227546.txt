@@ -1,0 +1,4 @@
+23227546
+2012 Sep
+A variety of novel 2-(1-substituted-piperidine-4-ylamino)quinazoline derivatives were prepared and their antiproliferative activities on five cancer cell lines were evaluated by MTT assay. Quinazolines 4j-4l, 5a, 5b and 5d bearing a small hydrophobic alkyl group on piperidine ring exhibited potent antitumor activities with IC50 values at micromolar level. Compound 41 displayed significant in vivo antitumor activity with 72.9% inhibition on H22 tumor growth and 80% inhibition on Lewis lung cancer growth at a dose of 200 mg x kg(-1).
+

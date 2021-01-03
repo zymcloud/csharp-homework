@@ -1,0 +1,4 @@
+31941608
+2020 Mar 12
+Hepatocellular carcinoma (HCC) is one of the most common malignant tumors, but its pathogenesis is not clear. This study found that the expression of TAGLN2 mRNA and protein in HCC was higher than that in adjacent tissues. TCGA database analysis further confirmed this result, and found that the expression of TAGLN2 was positively correlated with the prognosis of HCC, suggesting that TAGLN2 may be a tumor promoter gene. Then the TAGLN2-Annexin A2 (ANXA2) interaction and NF-κB signaling pathway were further clarified during the invasion and metastasis of HCC. This mechanism provides a theoretical basis for further finding molecular targets and drug targets related to HCC metastasis.
+Annexin A2; Hepatocellular carcinoma; Progression; Proliferation; Transgelin-2.

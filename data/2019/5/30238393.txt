@@ -1,0 +1,4 @@
+30238393
+2019 May
+Deuterium substitution has been widely known that can improve the pharmacokinetic profiles due to isotope effect. Herein, a series of deuterated sorafenib derivatives have been synthesized and characterized by 1H NMR, 13C NMR and MS. Their antitumor activities were evaluated in vitro against human hepatoma cell line HepG2 and human cervical carcinoma cell line HeLa. The LogP values were detected by high-performance liquid chromatography. Subsequently, the metabolic stability and pharmacokinetics study were assessed in vitro and in vivo.
+Antitumor activities; Deuterium substitution; Pharmacokinetics; Sorafenib.

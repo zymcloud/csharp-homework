@@ -1,0 +1,4 @@
+24506513
+2014 Jun
+Aims:The expression of stemness markers in hepatocellular carcinoma (HCC) is suggested to be associated with poor clinical outcome after surgical resection. There are few data on their independent prognostic role in addition to the existing AJCC TNM staging system.Methods and results:The immunohistochemical expression of CD133, EpCAM, CK19 and CD56 was studied in a cohort of 282 surgical specimens collected from patients undergoing resection of primary HCC. CD133-positive HCCs were usually smaller in size (P = 0.002) and arose more frequently in cirrhotic liver (P = 0.002). CD133 expression was an independent prognostic factor for overall survival (hazard ratio 2.30, P Conclusion:The prognostic role of CD133 was most significant in TNM stage I disease, while the prognostic role of EpCAM was more apparent in more advanced TNM stages.
+AJCC TNM stage; CD133; EpCAM; hepatocellular carcinoma; stemness marker.

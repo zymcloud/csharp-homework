@@ -1,0 +1,4 @@
+22752790
+2013 Oct
+Fibroblast growth factor receptor (FGFR) 4 has been associated with progression of melanoma, breast, head and neck and hepatocellular carcinoma and is therefore an interesting target for therapeutic intervention (Ho et al. in J Hepatol 50:118-127, 2009). The extracellular D2 domain of the FGFR4 receptor contains a heparin binding site and the main interaction site with the fibroblast growth factor. We report the sequential backbone and side chain resonance assignment of the D2 domain of human FGFR4.
+

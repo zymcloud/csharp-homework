@@ -1,0 +1,4 @@
+21246485
+2011 Jun
+Carnosic acid (CA) is the main phenolic diterpene of rosemary (Rosmarinus officinalis L., Lamiaceae) and presents gastroprotective effect in vitro and in vivo. To determine structure-activity relationships, seventeen esters and ethers of CA were prepared, comprising aliphatic, aromatic, and heterocyclic compounds. The naturally occurring 12-O-methylcarnosic acid (14) was also included in the study. The compounds were evaluated for their gastroprotective activity in the HCl/EtOH-induced gastric lesions model in mice, and for cytotoxicity in human adenocarcinoma AGS cells, Hep G2 hepatocellular carcinoma cells, and human lung fibroblasts. At 10 mg/kg, some of the CA derivatives (5, 8, 9, 12, 14, and 18) were more effective preventing gastric lesions than the reference compound lansoprazole at the same dose. The dibenzoate 9, diindoleacetate 12, and the derivative 18 showed the best gastroprotective effect combined with the lowest cytotoxicity.
+

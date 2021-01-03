@@ -1,0 +1,4 @@
+31039809
+2019 Apr 30
+The nature of the tumor antigens that are detectable by T cells remains unclear. In melanoma, T cells were shown to react against major histocompatibility complex (MHC)-associated peptides (MAPs) that are derived from exonic mutations. A recent multi-omic study of hepatocellular carcinomas suggests, however, that mutated exonic MAPs were exceedingly rare, bringing the accuracy of the current methods for antigen identification into question and demonstrating the importance of broadening tumor-antigen discovery efforts.
+

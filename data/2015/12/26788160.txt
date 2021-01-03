@@ -1,0 +1,4 @@
+26788160
+2015 Dec
+Metastasis negatively affects the prognosis of hepatocellular carcinoma (HCC). In the present study, niclosamide, which is known to suppress the proliferation of HCC cells, was investigated for possible suppressant effects on the migration of HCC cells. HLF and PLC/PRF/5 HCC cells were cultured in the presence of niclosamide. Cell proliferation was analyzed using the MTS assay. Cell migration was measured by performing a scratch assay. Expression levels of cyclin D1 and matrix metalloproteinase 9 (MMP9) were analyzed by performing revers transcription-quantitative polymerase chain reaction. Compared with the control treatment, treatment with 10 µm niclosamide suppressed the proliferation of the HLF and PRL/PRF/5 cells to 49.9±3.7 and 17.9±11.5% (P
+MTS assay; quantitative polymerase chain reaction; scratch assay.

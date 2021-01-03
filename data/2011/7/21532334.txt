@@ -1,0 +1,4 @@
+21532334
+2011 Jul 1
+A new non-cytotoxic therapy that SOM230 (pasireotide)，a somatostatin analogue (SSTA) combined with celecoxib, a selective cyclooxygenase-2 (COX-2) inhibitor was tested in nude mice bearing HepG2 xenografts. Two agents did not markedly arrest the growth of HepG2 cells but greatly down-regulated vascular endothelial growth factor expression. An imbalance between the vigorous demand and insufficient supply of nutrients and oxygen for tumor growth resulted in the massive necrosis of xenografts. The combination synergistically induced the early apoptosis of HepG2 cells and achieved longest survival without adverse reaction. This impressive strategy appears promising as a systemic therapy for patients with hepatocellular carcinoma (HCC).
+

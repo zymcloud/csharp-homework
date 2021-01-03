@@ -1,0 +1,4 @@
+32820653
+2020 Aug 21
+One new terpenylated coumarin ailanthuscoumarin was isolated from the root barks of Ailanthus altissima (Mill.) Swingle. The high oxidation of the compound led to the difficulty of structure elucidation by 2D-NMR spectra. Its structure was determined with the aid of computer-assisted structure elucidation (CASE) expert systems and Gauge-independent atomic orbital (GIAO) NMR calculations. The absolute configuration of ailanthuscoumarin was determined by the comparison between the experimental and calculated electronic circular dichroism (ECD) spectra. The anti-hepatoma activity of ailanthuscoumarin against two human hepatoma cells (Hep3B, HepG2) was also reported. [Figure: see text].
+Ailanthus altissima; DFT/NMR approach; Simaroubaceae; computer-assisted structure elucidation; terpenylated coumarin.

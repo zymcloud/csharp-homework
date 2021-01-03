@@ -1,0 +1,4 @@
+28828965
+2017 Oct
+3,4-Dihydroxyphenylacetic acid (DOPAC) is one of the major colonic microflora-produced catabolites of quercetin glycosides, such as quercetin 4'-glucoside derived from onion. Here, we investigated whether DOPAC modulates the aldehyde dehydrogenase (ALDH) activity and protects the cells from the acetaldehyde-induced cytotoxicity in vitro. DOPAC was shown to enhance not only the total ALDH activity, but also the gene expression of ALDH1A1, ALDH2 and ALDH3A1 in a concentration-dependent manner. DOPAC simultaneously stimulated the nuclear translocation of NFE2-related factor 2 and aryl hydrocarbon receptor. The pretreatment of DOPAC completely protected the cells from the acetaldehyde-induced cytotoxicity. The present study suggested that DOPAC acts as a potential ALDH inducer to prevent the alcohol-induced abnormal reaction.
+3,4-dihydroxyphenylacetic acid; Hepa1c1c7 cells; Nrf2; acetaldehyde; aldehyde dehydrogenase.

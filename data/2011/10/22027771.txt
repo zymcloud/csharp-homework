@@ -1,0 +1,4 @@
+22027771
+2011 Oct
+Objective:To investigate the effect of small interfering RNA (siRNA) targeting Apollon in enhancing the chemosensitivity of hepatocellular carcinoma (HCC) cells in vitro.Methods:HCC cells transfected with the siRNA targeting Apollon were tested for Apollon protein expression using Western blotting. MTT assay and ELISA were used to evaluate the proliferation and apoptosis of HCC cells transfected with siRNA after exposure to 5-FU or adriamycin.Results:Apollon siRNA obviously down-regulated Apollon protein expression in HCC cells. The siRNA-mediated suppression of Apollon expression resulted in a marked inhibition of cell growth and increased apoptotic rate of HCC cells, and enhanced both the growth-inhibiting and apoptosis-inducing effects of the chemotherapeutic drugs.Conclusion:Apollon siRNA can enhance the chemosensitivity of HCC cells to the chemotherapeutic drugs. Apollon can be a potentially important and feasible therapeutic target for HCC.
+

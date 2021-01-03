@@ -1,0 +1,4 @@
+25490557
+2015 Jan 6
+A highly selective and sensitive turn-on red fluorescent 1-amino BODIPY-based probe (where BODIPY denotes indole-based boron-dipyrromethene) with high off-to-on contrast ratio has been developed. The probe displayed selective response to thiophenols over aliphatic thiols. Probe 1 is promising for the quantitative detection of thiophenol with a linear response from 6 × 10(-6) M to 1 × 10(-4) M, and the detection limit for thiophenol (PhSH) reaches 4 × 10(-6) M measured in acetonitrile/PBS buffer. The detection limit could be improved to 37 nM (detection limit to 4 ppb) in water when 1% Tween 20 was used to assist the dissolvation of probe 1 in water. Probe 1 is also a useful fluorescent probe for detecting thiophenols in living cells in red emission, which may greatly improve the detectable sensitivity.
+

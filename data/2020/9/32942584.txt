@@ -1,0 +1,4 @@
+32942584
+2020 Sep 15
+Chronic hepatitis B virus (HBV) infection affects 292 million people worldwide and is associated with a broad range of clinical manifestations including cirrhosis, liver failure, and hepatocellular carcinoma (HCC). Despite the availability of an effective vaccine HBV still causes nearly 900,000 deaths every year. Current treatment options keep HBV under control, but they do not offer a cure as they cannot completely clear HBV from infected hepatocytes. The recent development of reliable cell culture systems allowed for a better understanding of the host and viral mechanisms affecting HBV replication and persistence. Recent advances into the understanding of HBV biology, new potential diagnostic markers of hepatitis B infection, as well as novel antivirals targeting different steps in the HBV replication cycle are summarized in this review article.
+HBV; HBV RNA; HBcrAg; direct-acting antivirals; novel viral markers.

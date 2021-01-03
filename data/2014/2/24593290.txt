@@ -1,0 +1,4 @@
+24593290
+2015 Feb
+Hydroxycamptothecin-encapsulated chitosan (HC) nanospheres were prepared by Shirasu porous glass (SPG) membrane emulsification technique. The properties and morphology of HC nanospheres were characterized. The diameter of the nanospheres could be controlled within a narrow distribution according to the pore-size of SPG membrane. Hydroxycamptothecin (HCPT) encapsulation efficiency could reach to 81.3%. The long-term drug release of HCPT could be presented by an accumulated drug release of 85.4% in 15 days with an initial burst effect. In vitro study, HC showed its anti-tumor ability to human hepatoma (HepG2) cells. In vivo study, HC could reduce tumor weight and growth rate. The results indicated that HC nanospheres prepared by SPG had potential application as a sustained drug delivery system for the treatment of liver cancer.
+Chitosan; Drug delivery system; Hydroxycamptothecin; SPG.

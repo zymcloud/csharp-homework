@@ -1,0 +1,4 @@
+27603400
+2016 Sep
+We created a model to predict the development of liver carcinogenesis in patients with chronic hepatitis B (CHB) undergoing entecavir (ETV) therapy and to validate the accuracy using an independent dataset.A total of 328 CHB subjects were analyzed. Subjects were randomly assigned into 2 groups: the training group (n = 164) and the validation group (n = 164). Using data from the training group, we built a predictive model for liver carcinogenesis by performing univariate and multivariate analyses using variables associated with liver carcinogenesis. We subsequently assessed the applicability of the constructed model in the validation group.The median (range) follow-up periods in the training and the validation groups were 5.03 years (1.03-9.98) and 4.84 years (1.10-9.97), respectively. The proportion of hepatitis B virus-DNA at 24 weeks
+

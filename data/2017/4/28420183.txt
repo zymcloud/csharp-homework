@@ -1,0 +1,4 @@
+28420183
+2017 Apr 17
+A cytotoxicity-guided phytochemical investigation of Anemone vitifolia roots led to the isolation of six oleanane saponins (1-6), which were reported from the species for the first time. Their structures were determined by comparing its MS and NMR data with those in literature. Compounds 1-4 showed significant inhibitory effects on the proliferation of hepatocellular carcinoma HepG2 cells with IC50 values ranging from 2.0 to 8.5 μM, compared to positive control methotrexate with IC50 value of 15.8 μM. Flow cytometry analysis revealed that compounds 1-4 exerted anti-proliferative effects through a pro-apoptotic way of hepatocellular carcinoma cells.
+Anemone vitifolia; HepG2; anti-proliferation; apoptosis; cytotoxicity-guided fractionation; oleanane saponin.

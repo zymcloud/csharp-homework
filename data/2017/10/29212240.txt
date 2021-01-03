@@ -1,0 +1,4 @@
+29212240
+2017 Oct 10
+Hepatocellular carcinoma (HCC) was one of the most common cancers around the world, has very low 5-year survival rate. However, the mechanism of HCC occurrence and development is largely unknown. LDB2 belongs to the LIM-domain binding family and functions as an adaptor for transcriptional regulation. Here we found that LDB2 is downregulated in HCC samples. LDB2 has the ability to inhibit proliferation and migration of hepatocarcinoma cells. We found that the proliferation and migration abilities in HCC sample cells were impaired after LDB2 overexpression and vice versa. In mechanism, we found that LDB2 can recruit BRD7 to HEY1 promoter and then block its expression. HEY1 whose expression is upregulated in HCC acts as an oncogene. In brief, our research reveals a new regulatory mechanism for hepatocarcinoma cell proliferation and migration.
+BRD7; HCC; HEY1; LDB2; proliferation.

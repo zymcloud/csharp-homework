@@ -1,0 +1,4 @@
+26743245
+2015 Nov
+Objective:To investigate the relationship between and underlying mechanistic pathway of clusterin (CLU) and chemo-resistance ofhepatocellular carcinoma (HCC) cells.Methods:CLU protein expression in HCC cell lines (Hep3B, SMMC7721, PLC, and HepG2) and HepG2/ADM cells was quantified by western blotting. Four short-hairpin (sh)RNAs designed to block CLU-mRNA were generated, screened by RT-PCR, and transfected into the cells to determine effects of CLU on cell viability and apoptosis. Effects of CLU blockade on drug efflux pump activity were measured by flow cytometry.Results:CLU was found to be over-expressed in HCC cell lines and HepG2/ADM cells. The four shRNAs inhibited CLU-mRNA as follows (vs. levels in untransfected cells): shRNA-1: 73.68% (q =23.011, P Conclusion:CLU repression may enhance sensitivity of HCC cells to anti-cancers drugs and represents a potential molecular-target for reversal of multidrug-resistant HCC.
+

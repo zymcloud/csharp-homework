@@ -1,0 +1,4 @@
+24927373
+2014 Sep
+At present, the diagnosis and prognosis of hepatocellular carcinoma (HCC) metastasis remains poor. Recently, a number of proteins associated with the metastasis and invasion of HCC were identified; however, the effective markers require further elucidation. In the current study, a nucleolin expression was observed in MHCC97L and HCCLM9 HCC cell lines, with low and high metastatic potentials respectively, using comparative proteomics. The data indicated that nucleolin expression in the nucleus was significantly higher in HCCLM9 cells, and it primarily influenced the migration of HCC cells in vitro. Thus, to the best of our knowledge this is the first study to hypothesize that nucleolin may be a novel marker for HCC invasive progression.
+

@@ -1,0 +1,4 @@
+29710489
+2018 Mar
+Hepatocellular carcinoma (HCC) is one of the most common and aggressive malignancies. The current study aimed to investigate the effect of physcion, a major active ingredient in several traditional herbal medicinal plants, for the treatment of HCC. Our data showed that physcion markedly induced apoptosis in human HCC cell lines Huh7 and Bel7402. The pro-apoptotic role of physcion on HCC cells was mediated by mitochondria dysfunction, which was caused by activation of endoplasmic reticulum(ER) stress. Moreover, our findings revealed that physcion stimulated ER stress by activating AMPK signaling. Besides in HCC cell lines, the anti-cancer activity of physcion was also examined in a xenograft mice model, which showed that physcion could significantly suppressed tumor growth. In conclusion, our results indicated that physcion can be considered as a potential chemotherapeutic agent in the treatment of HCC.
+AMPK; ER stress; HCC; Key words; Physcion.

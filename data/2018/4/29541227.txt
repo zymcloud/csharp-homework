@@ -1,0 +1,4 @@
+29541227
+2018 Apr
+In order to examine the prognostic significance of miR-33a in patients with hepatocellular carcinoma (HCC), total RNA was extracted from 149 HCC biopsies, 36 of which were paired with para-carcinoma tissues, and miR-33a expression was measured by reverse transcription-quantitative polymerase chain reaction. The results demonstrated that miR-33a expression was decreased in HCC biopsies compared with normal liver tissue samples. It was also demonstrated that miR-33a expression was significantly associated with tumor foci number. Furthermore, overall and progression-free survival time was decreased in patients expressing low miR-33a with multiple tumor foci. Taken together, the low expression of miR-33a may be a potential risk factor for HCC.
+hepatocellular carcinoma; microR-33a expression; overall survival; prognosis.

@@ -1,0 +1,4 @@
+22938412
+2012
+Considerable research has been conducted concerning galectin-9 and carcinomas, but little information is available about any relation with the hepatocellular carcinoma. In this study, we employed a small interfering RNA (siRNA) targeting galectin-9 to down-regulate the expression in HepG2 cells. As a result, after galectin-9 expression was reduced, cell aggregation was suppressed, while other behaviour such as the proliferation, adhesion and invasion to ECM, cell-endothelial adhesion and transendothelial invasion of the cells were markedly enhanced. When tumors of 200 patients with hepatocellular carcinoma were tested for galectin-9 expression by immunohistochemistry, binding levels demonstrated intimate correlations with the histopathologic grade, lymph node metastasis, vascular invasion and intrahepatic metastasis (P
+

@@ -1,0 +1,4 @@
+26131562
+2015 Jul 1
+Hepatocellular carcinoma is one of the most common malignancies worldwide, with a high risk of portal vein tumor thrombus (PVTT). Some promising results have been achieved for venous metastases of hepatocellular carcinoma; however, the etiology of PVTT is largely unknown, and it is unclear why the incidence of PVTT is not proportional to its distance from the carcinoma. We attempted to address this issue using physical concepts and mathematical tools. Finally, we discuss the relationship between the probability of a collision event and the microenvironment of the PVTT. Our formulae suggest that the collision probability can alter the tumor microenvironment by increasing the number of tumor cells.
+

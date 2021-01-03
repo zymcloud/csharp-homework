@@ -1,0 +1,4 @@
+24823634
+2014 May 12
+TGF-β signaling promotes metastasis by controlling the expression of downstream target genes. In this issue of Cancer Cell, Yuan and colleagues discover a novel TGF-β-induced lncRNA, lncRNA-ATB, which stimulates EMT through sequestering miR-200s and facilitates colonization by stabilizing IL-11 mRNA, thus promoting both early and late steps of cancer metastasis.
+

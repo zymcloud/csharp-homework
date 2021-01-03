@@ -1,0 +1,4 @@
+24275348
+2014 Jan 1
+HCV infections are the leading causes for hepatocellular carcinoma and liver transplantation in the United States. Recent advances in drug discovery have identified direct acting antivirals which have significantly improved cure rates in patients. Current efforts are directed towards identification of novel direct acting antiviral targeting different mechanism of actions which could become part of all oral therapies. We recently disclosed the identification of a novel tricyclic indole derived inhibitors of HCV NS5B polymerase that bound to the enzyme close to the active site. In this manuscript we describe further optimization of potency and pharmacokinetics (PK) of these inhibitors to identify compounds in low nM potency against gt-1b. These analogs also demonstrate excellent PK in rats and monkeys when administered as a dimethyl ethyl amino ester prodrug.
+Dimethylamino ethyl; HCV NS5B; Polymerase; Prodrug; Tricyclic indole.

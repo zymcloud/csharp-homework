@@ -1,0 +1,4 @@
+22200698
+2011 Dec
+Objective:To evaluate the effect of gemcitabine in enhancing the radiosensitivity of hepatoma cell line HepG2 and explore its mechanisms.Methods:Clonogenic survival assay is employed to calculate the ratios of L-Q model radiation biology parameters and radiosensitization after different doses of irradiation. Flow cytometry was used to detect the changes in HepG2 cell cycle and apoptosis rate after gemcitabine treatment and radiation exposure.Results:The survival fraction at 2 Gy of HepG2 cells treated with gemcitabine was significantly lower, and the value of alpha was significantly higher than those of untreated cells. GEM treatment increased the percentage of radiation-induced G0/G1 phase cells and cell apoptosis.Conclusion:Gemcitabine can significantly enhance the radiosensitivity of HepG2 cells by enhancing radiation-induced cell cycle arrest in G0/G1 phase and cell apoptosis.
+

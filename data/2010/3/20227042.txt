@@ -1,0 +1,4 @@
+20227042
+2010 Mar 16
+The NF-kappaB activating kinase IKKbeta suppresses early chemically induced liver tumorigenesis by inhibiting hepatocyte death and compensatory proliferation. To study IKKbeta's role in late tumor promotion and progression, we developed a transplant system that allows initiated mouse hepatocytes to form hepatocellular carcinomas (HCC) in host liver after a long latency. Deletion of IKKbeta long after initiation accelerated HCC development and enhanced proliferation of tumor initiating cells. These effects of IKKbeta/NF-kappaB were cell autonomous and correlated with increased accumulation of reactive oxygen species that led to JNK and STAT3 activation. Hepatocyte-specific STAT3 ablation prevented HCC development. The negative crosstalk between NF-kappaB and STAT3, which is also evident in human HCC, is a critical regulator of liver cancer development and progression.
+

@@ -1,0 +1,4 @@
+32142718
+2020 Jul
+Hepatocellular carcinoma (HCC) is a primary liver cancer with high morbidity and mortality that is often accompanied by immune system disorders and local lymphocyte infiltration. Tumor-infiltrating lymphocytes, cancer cells, stromal cells, and the numerous cytokines they produce, such as chemokines, interferons, tumor necrosis factors, and interleukins, collectively constitute the tumor microenvironment. As a main type of immune effector, interleukin plays opposing roles in regulating tumor cell progression, adhesion, and migration according to its different subtypes. Many reports have concentrated on the roles that interleukins play in HCC, but understanding them systematically remains challenging. This study reviewed the current data to comprehensively summarize the relationships between HCC progression and human interleukin gene families.
+CTL (cytotoxic T lymphocyte); Hepatocellular carcinoma; Interleukin; Tumor microenvironment.

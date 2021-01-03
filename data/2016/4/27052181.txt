@@ -1,0 +1,4 @@
+27052181
+2016 Apr 5
+The cJun NH2-terminal kinase (JNK) signaling pathway is required for the development of hepatitis and hepatocellular carcinoma. A role for JNK in liver parenchymal cells has been proposed, but more recent studies have implicated non-parenchymal liver cells as the relevant site of JNK signaling. Here, we tested the hypothesis that myeloid cells mediate this function of JNK. We show that mice with myeloid cell-specific JNK deficiency exhibit reduced hepatic inflammation and suppression of both hepatitis and hepatocellular carcinoma. These data identify myeloid cells as a site of pro-inflammatory signaling by JNK that can promote liver pathology. Targeting myeloid cells with a drug that inhibits JNK may therefore provide therapeutic benefit for the treatment of inflammation-related liver disease.
+

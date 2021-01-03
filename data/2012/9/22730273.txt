@@ -1,0 +1,4 @@
+22730273
+2012 Sep
+Chain length, size, composition, surface charge, and other properties of polymeric materials affect their recognition and uptake by cells and must be optimized to deliver polymers selectively to their target. However, it is often not possible to precisely modify selected properties without changing other parameters. To overcome these difficulties, well-defined poly(pentafluorostyrene)-based polymers are prepared that can be grafted via thiol/para-fluorine "click" reaction with 1-thio-β-D-glucose and 1-thio-β-D-galactose. Fluorescence microscopy and flow cytometry show that nanoparticles are taken up by HepG2 cells to a higher degree than the respective water-soluble polymers, and that internalization of both galactosylated homo- and nanoprecipitated block copolymers is enhanced.
+

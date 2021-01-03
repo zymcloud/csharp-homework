@@ -1,0 +1,4 @@
+25858474
+2015 Apr 30
+Epidemiological studies and experimental data have shown that the incidences of hepatocellular carcinoma in men are more frequent than in women. Evidence suggests that imbalance of hormones, including estrogen, androgen, prolactin, and growth hormone, modifies liver tumorigenesis. In this present study, we investigated how estrogen and estrogen receptor 2 (ESR2), regulates the cell cycle mechanism in Hep3B hepatocellular carcinoma cell line. Our results showed that ESR2 overexpression in the presence of 10⁻⁸ M 17-β-estradiol downregulated c-myc and cyclin D1 expression and simultaneously upregulated p27 expression. However, flow cytometry and MTT assays showed only minor G₁ phase arrest without affecting cell viability. Taken together, these observations indicate that ESR2 is required to lower tumorigenesis in males by altering cell cycle proteins in a ligand-dependent manner.
+

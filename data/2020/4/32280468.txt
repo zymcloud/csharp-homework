@@ -1,0 +1,4 @@
+32280468
+2020 Apr 7
+Radiomics uses computers to extract a large amount of information from different types of images, form various quantifiable features, and select relevant features using artificial-intelligence algorithms to build models, in order to predict the outcomes of clinical problems (such as diagnosis, treatment, prognosis, etc.). The study of liver diseases by radiomics will contribute to early diagnosis and treatment of liver diseases and improve survival and cure rates of liver diseases. This field is currently in the ascendant and may have great development in the future. Therefore, we summarize the progress of current research in this article and then point out the related deficiencies and the direction of future research.
+artificial intelligence; hepatocellular carcinoma; non-alcoholic fatty liver disease; radiogenomics; radiomics.

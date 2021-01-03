@@ -1,0 +1,4 @@
+26531720
+2016 Apr
+Aberrant expressions of the miR-148/152 family (miR-148a, miR-148b, and miR-152) have been documented in many tumor tissues, including hepatocellular carcinoma (HCC). However, the expression pattern and clinical significance of circulating miR-148/152 family in HCC remain elusive. In this study, we conducted quantitative real-time polymerase chain reaction (qRT-PCR) to examine the levels of serum miR-148a, miR-148b, and miR-152 in 76 HCC cases, as well as 62 controls with benign liver diseases and 55 healthy volunteers. Our results showed that serum levels of three microRNAs (miRNAs) were significantly decreased in HCC cases than those in benign and healthy controls (all P
+Biomarker; Hepatocellular carcinoma; miR-148a; miR-148b; miR-152.

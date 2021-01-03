@@ -1,0 +1,4 @@
+27755957
+2016 Sep 30
+Mesenchymal stem cells (MSCs) display differential migration ability toward different tumor-released factors. Migration of MSCs is highly important in induction of proliferation and invasiveness of hepatocellular carcinoma (HepG2) cells. In this study, the role of CXCR4/CXCL12 axis and TGF-βR signaling were evaluated in the migration of MSCs toward HepG2 cells. The MSCs were incubated with SDF-1α (CXCL12), antagonists of CXCR4, TGF-βR, and co-receptor of TGF-β, (endoglin) for 48h. Then, the migration of these cells toward HepG2 cells was analyzed using in vitro migration assay. SDF-1α at a concentration of 100nM MSCs revealed the highest migration rate toward the conditioned medium (1.62 fold compared to the migration of un-treated MSCs; p
+

@@ -1,0 +1,4 @@
+30583864
+2019 Jan 29
+Vasoactive intestinal peptide receptor 1 (VIPR1) is observed to express differently in human malignancies. Here, we aim to reveal clinical significance and transcriptional regulation mechanism of VIPR1 in hepatocellular carcinoma (HCC). Using immunohistochemistry, pyrosequencing, quantitative real-time PCR (qPCR), decitabine (DAC)/4-phenylbutyricacid (PBA) treatment and chromatin immunoprecipitation (ChIP), we found the low expression of VIPR1 was correlated with poor histological differentiation and poor survival. The promoter region of VIPR1 was methylated and DNA methylation inhibited VIPR1 gene transcription. Deacetylation of H3K27 in the promoter of VIPR1 inhibited the transcription of VIPR1 in HCC. In conclusion, low expression of VIPR1 had an adverse prognostic impact on HCC, and such expression is at least partially mediated by epigenetic modification.
+Deacetylation; HCC; Methylation; Prognosis; VIPR1.

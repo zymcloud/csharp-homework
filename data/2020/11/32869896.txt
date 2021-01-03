@@ -1,0 +1,4 @@
+32869896
+2020 Nov
+CD46 (also known as membrane cofactor protein), which is a member of the membrane-bound complement regulatory protein family, has been reported to cause cancer cells to escape complement-dependent cytotoxicity. However, the association between CD46 polymorphisms and the risk of hepatocellular carcinoma (HCC) has not been investigated. This two-stage association study was conducted to assess the relationship between the tagging single nucleotide polymorphisms (tagSNPs) of CD46 and HCC risk and prognosis. A series of functional analyses were performed to study the underlying mechanisms. Among the eight tagSNPs, rs2796267 (P = .003) and rs2796268 (P = .011) were found to modify HCC risk in the discovery set. Only rs2796267 (P
+CD46; genetic variation; hepatocellular carcinoma; prognosis; susceptibility.

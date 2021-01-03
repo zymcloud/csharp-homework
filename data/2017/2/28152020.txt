@@ -1,0 +1,4 @@
+28152020
+2017 Feb 2
+There are limited numbers of models to study hepatocellular carcinoma (HCC) in vivo in immunocompetent hosts. In an effort to develop a cell line with improved tumorigenicity, we derived a new cell line from Hepa1-6 cells through an in vivo passage in C57BL/6 mice. The resulting Dt81Hepa1-6 cell line showed enhanced tumorigenicity compared to Hepa1-6 with more frequent (28±12 vs. 0±0 lesions at 21 days) and more rapid tumor development (21 (100%) vs. 70 days (10%)) in C57BL/6 mice. The minimal Dt81Hepa1-6 cell number required to obtain visible tumors was 100,000 cells. The Dt81Hepa1-6 cell line showed high hepatotropism with subcutaneous injection leading to liver tumors without development of tumors in lungs or spleen. In vitro, Dt81Hepa1-6 cells showed increased anchorage-independent growth (34.7±6.8 vs. 12.3±3.3 colonies; P
+

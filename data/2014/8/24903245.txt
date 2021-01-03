@@ -1,0 +1,4 @@
+24903245
+2014 Aug
+Objectives:To detect hypervascularized liver lesions, early dynamic (ED) (18)F-FDG PET may be an alternative when contrast-enhanced (CE) imaging is infeasible. This retrospective pilot analysis compared contrast between such lesions and liver parenchyma, an important objective image quality variable, in ED PET versus CE CT.Materials and methods:Twenty-eight hypervascularized liver lesions detected by CE CT [21 (75%) hepatocellular carcinomas; mean (range) diameter 4.9 ± 3.5 (1-14) cm] in 20 patients were scanned with ED PET. Using regions of interest, maximum and mean lesional and parenchymal signals at baseline, arterial and venous phases were calculated for ED PET and CE CT.Results:Lesional/parenchymal signal ratio was significantly higher (P Conclusion:In liver imaging, ED PET generates greater lesional-parenchymal contrast during the arterial phase than does CE CT; these observations should be formally, prospectively evaluated.
+

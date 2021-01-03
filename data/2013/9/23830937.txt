@@ -1,0 +1,4 @@
+23830937
+2013 Sep
+The p7 protein of hepatitis C virus (HCV) is a multifunctional, integral membrane protein that plays a critical role in virus life cycle. This study demonstrated that the p7 proteins from different HCV genotypes (GTs) were unstable and degraded via the proteasome-dependent pathway. Mutagenesis analysis of the one and only lysine in JFH1 p7 (K4), the exclusive substrate for ubiquitination, did not stabilize p7 in human hepatoma cells. Collectively, this report demonstrated that p7 is degraded via the proteasome-dependent pathway, and provided evidence suggesting that p7 degradation is an ubiquitin-independent process.
+JFH1; Proteasome; p7.

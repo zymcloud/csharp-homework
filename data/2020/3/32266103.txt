@@ -1,0 +1,4 @@
+32266103
+2020 Mar 1
+miR-590-3p acts as a tumor suppressor in glioblastoma multiform, medulloblastoma, hepatocellular carcinoma, and nephroblastoma. Here, we studied the role of miR-590-3p in triple-negative breast cancer (TNBC). The miR-590-3p levels in TNBC specimens were significantly lower than those in non-TNBC specimens. Overexpression of miR-590-3p significantly inhibited migration and invasion of TNBC cells and lung metastasis in vivo. Interestingly, miR-590-3p decreased the Slug mRNA and protein levels in TNBC cells, and luciferase reporter assay showed that miR-590-3p directly targeted 3'-UTR of Slug in TNBC cells. Importantly, overexpression of Slug reversed the inhibitory effect of miR-590-3p on migration and invasion of TNBC cells. Taken together, miR-590-3p inhibits TNBC migration and invasion by directly targeting Slug, suggesting a potential therapeutic effect of miR-590-3p for TNBC.
+Slug; Triple-negative breast cancer; cancer metastasis; miR-590-3p.

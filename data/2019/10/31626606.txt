@@ -1,0 +1,4 @@
+31626606
+2019 Oct 18
+BACKGROUND Previous studies have reported that ARHGEF39 might be frequently upregulated in different cancer types and relevant to cancer progression. However, the expression pattern and clinicopathological features of ARHGEF39 in patients with hepatocellular carcinoma (HCC) needs further exploration. MATERIAL AND METHODS ARHGEF39 expression level of HCC in The Cancer Genome Atlas (TCGA) dataset was analyzed. Quantitative real-time polymerase chain reaction and immunohistochemistry were employed to determine ARHGEF39 mRNA and protein levels in our own study collected HCC tissues and matched non-cancerous tissues. Moreover, the association of ARHGEF39 expression with the clinicopathological factors and prognosis of HCC were investigated. RESULTS The level of ARHGEF39 in HCC tissues was significantly higher than that in adjacent normal tissues (P
+

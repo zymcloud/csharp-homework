@@ -1,0 +1,4 @@
+27520725
+2016 Nov
+The present study aims to identify distinctive Raman spectrum metabolic peaks to predict hepatocellular carcinoma (HCC). We performed a label-free, non-invasive surface-enhanced Raman spectroscopy (SERS) test on 230 serum samples including 47 HCC, 60 normal controls (NC), 68 breast cancer (BC) and 55 lung cancer (LC) by mixing Au@AgNRs with serum directly. Based on the observed SERS spectra, discriminative metabolites including tryptophan, phenylalanine, and etc. were found in HCC, when compared with BC, LC, and NC (P
+Au@Ag nanorods; Cancer detection; Hepatocellular carcinoma; Serum metabolites; Surface-enhanced Raman scattering.

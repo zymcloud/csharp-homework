@@ -1,0 +1,4 @@
+32977722
+2020 Sep 25
+Homeobox C4 (HOXC4) belongs to the homeoprotein family of transcription factors, which play a critical role in morphogenesis and differentiation during embryonic development. Aberrant expression of HOXC4 has been reported in several types of cancers. However, the role of HOXC4 in hepatocellular carcinoma (HCC) remains unknown. Here, we reported that HOXC4 is upregulated in HCC tissues and predicts a poor outcome in patients with HCC. HOXC4 promotes HCC progression and induces an EMT-like phenotype both in vitro and in vivo. Furthermore, we demonstrated that the EMT-related transcription factor Snail is a transcriptional target of HOXC4 and HOXC4 regulates EMT by regulation of transforming growth factor β (TGF-β) signaling in HCC. Together, our study suggests that HOXC4 as a novel potential therapeutic target for HCC therapy.
+

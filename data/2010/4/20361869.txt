@@ -1,0 +1,4 @@
+20361869
+2010 Apr 2
+Background:PCBP1 (or alpha CP1 or hnRNP E1), a member of the PCBP family, is widely expressed in many human tissues and involved in regulation of transcription, transportation process, and function of RNA molecules. However, the role of PCBP1 in CD44 variants splicing still remains elusive.Results:We found that enforced PCBP1 expression inhibited CD44 variants expression including v3, v5, v6, v8, and v10 in HepG2 cells, and knockdown of endogenous PCBP1 induced these variants splicing. Invasion assay suggested that PCBP1 played a negative role in tumor invasion and re-expression of v6 partly reversed the inhibition effect by PCBP1. A correlation of PCBP1 down-regulation and v6 up-regulation was detected in primary HCC tissues.Conclusions:We first characterized PCBP1 as a negative regulator of CD44 variants splicing in HepG2 cells, and loss of PCBP1 in human hepatic tumor contributes to the formation of a metastatic phenotype.
+

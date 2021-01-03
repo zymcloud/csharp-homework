@@ -1,0 +1,4 @@
+27779232
+2016 Oct 25
+Prediction and confirmation of the presence of disease-related miRNAs is beneficial to understand disease mechanisms at the miRNA level. However, the use of experimental verification to identify disease-related miRNAs is expensive and time-consuming. Effective computational approaches used to predict miRNA-disease associations are highly specific. In this study, we develop the Network Consistency Projection for miRNA-Disease Associations (NCPMDA) method to reveal the potential associations between miRNAs and diseases. NCPMDA is a non-parametric universal network-based method that can simultaneously predict miRNA-disease associations in all diseases but does not require negative samples. NCPMDA can also confirm the presence of miRNAs in isolated diseases (diseases without any known miRNA association). Leave-one-out cross validation and case studies have shown that the predictive performance of NCPMDA is superior over that of previous method.
+

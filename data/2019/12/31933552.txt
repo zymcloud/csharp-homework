@@ -1,0 +1,4 @@
+31933552
+2019 Dec 18
+Trans-arterial radioembolization (TARE) is an established treatment for inoperable hepatocellular carcinoma and liver metastases from Carcinoma of gastrointestinal tract. Radiation-induced toxicity to the lung parenchyma is the dose-limiting factor in TARE. Pretreatment hepatopulmonary shunt (HPS) is estimated by gamma camera method by transarterial administration of 370MBq 99mTc macro aggregated albumin. We have developed HPS software on XELERIS-1.123 workstation, GE medical systems, Milwaukee, USA, for accurate calculation of HPS. This software has also been tested on a higher version of XELERIS workstation, and it has been found to work well in all versions.
+Hepatopulmonary shunt; Y-90 microspheres; transarterial radioembolization.

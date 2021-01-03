@@ -1,0 +1,4 @@
+24351862
+2013 Nov 29
+Non-alcoholic steatohepatitis (NASH) is a recently identified chronic liver disease, which progresses to liver cirrhosis and hepatocellular carcinoma (HCC). As the number of patients studied to date has been limited, clinically useful prognostic biomarkers of NASH-related HCC have not been available. In this study, we investigated the status of a cell-cycle regulator, p27, in NASH-related HCC. p27 has been regarded as a prognostic factor in various types of cancer patients. A total of 22 cases with NASH-related HCC were analyzed for p27 protein expression, and phosphorylation at threonine 157 (T157) and serine 10 (S10) by immunohistochemical analysis. The correlation of p27 with tumor characteristics, disease-free survival (DFS), and overall survival was analyzed. p27 expression was decreased in 13 HCCs (59%), and was significantly correlated with enlarged tumor size (p = 0.01) and increased cell proliferation (p
+

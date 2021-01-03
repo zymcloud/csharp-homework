@@ -1,0 +1,4 @@
+31765443
+2019 Nov 24
+Aim:To evaluate the diagnostic value of Virtual Touch Quantification (VTQ®) for characterizing benign vs. malignant focal liver lesions (FLLs).Material and methods:From January 2015 to January 2016 all consecutive FLLs visualized during a conventional abdominal ultrasound (US), underwent VTQ® evaluation, taking five measurements of both the lesion and the surrounding parenchyma.Results:We studied 119 FLLs, consisting of 52 hemangiomas (HEs), 39 hepatocellular carcinomas (HCCs), and 28 liver metastases (METs). HEs showed a significantly lower shear wave velocity (SWV) values compared to malignant FLLs (HEs SWV median value 1.34 m/sec, IQR 0.9; malignant lesions SWV median value 2.69 m/sec, IQR 1.6; pConclusions:Our results suggest that VTQ® is able to distinguish HEs from malignant lesions (HCCs and METs) at a SWV cut-off of 2 m/sec.
+

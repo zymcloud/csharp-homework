@@ -1,0 +1,4 @@
+23246371
+2013 Apr 30
+HBx is strongly associated with hepatocellular carcinoma development through transcription factor activation and reactive oxygen species (ROSs) production. However, the exact role of HBx during hepatocellular carcinogenesis is not fully understood. Recently, it was reported that C-terminal truncated HBx is associated with tumor metastasis. In the present study, we confirmed that the C-terminal region of HBx is required for ROS production and 8-oxoguanine (8-oxoG) formation, which is considered as a reliable biomarker of oxidative stress. These results suggest ROS production induced by the C-terminal region of HBx leads to mitochondrial DNA damage, which may play a role in HCC development.
+

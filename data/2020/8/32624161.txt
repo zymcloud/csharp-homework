@@ -1,0 +1,4 @@
+32624161
+2020 Aug
+Add "which is a" before "distribution"? Texture analysis (TA) is a form of radiomics that refers to quantitative measurements of the histogram, distribution and/or relationship of pixel intensities or gray scales within a region of interest on an image. TA can be applied to MR images of the abdomen and pelvis, with the main strength quantitative analysis of pixel intensities and heterogeneity rather than subjective/qualitative analysis. There are multiple limitations of MRTA. Despite these limitations, there is a growing body of literature supporting MRTA. This review discusses application of MRTA to the abdomen and pelvis.
+Endometrial carcinoma; Liver pathology; MR imaging; Pancreatic carcinoma; Prostate cancer; Rectal carcinoma; Renal cell carcinoma; Texture analysis.

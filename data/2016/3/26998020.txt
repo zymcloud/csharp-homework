@@ -1,0 +1,4 @@
+26998020
+2016 Mar
+The mammalian target of rapamycin (mTOR) is a critical mediator of the phosphoinositide 3-kinase/protein kinase B/mTOR signaling pathway, and mTOR activity is induced following heat shock. Thermotherapy is used to treat hepatocellular carcinoma (HCC). However, the role of mTOR in modulating thermosensitivity in HCC has yet to be elucidated. In the present study, the antisense plasmid pEGFP-C1-mTOR was transfected into SMMC-7721 cells, and the expression levels of mTOR were analyzed by reverse transcription-polymerase chain reaction and western blot analysis. The thermal responses of the transfected cells were also examined. The results revealed that SMMC-7721 cells were sensitive to heat treatment, and cell viability was significantly inhibited following hyperthermia treatment (P
+apoptosis; gene expression; hepatocellular carcinoma; hyperthermia sensitivity; mammalian target of rapamycin.

@@ -1,0 +1,4 @@
+21119890
+2010 Jun
+Microarray studies have successfully shed light on various aspects of the molecular mechanisms behind the development of hepatocellular carcinoma (HCC), such as the identification of novel molecular subgroups and the genetic profiles associated with metastasis and venous invasion. These experiments, mainly comprising genome wide profiling, potentially represent the basis of novel targeted therapeutic strategies in HCC. In response, we summarize the multiple reported expression profiles in HCC associated with HCC development, novel subgroups, venous invasion and metastasis.
+HCC; bioinformatics; oncogenomics.; systems biology.

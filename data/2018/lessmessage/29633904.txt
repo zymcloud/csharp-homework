@@ -1,0 +1,4 @@
+29633904
+2018
+Hepatocellular carcinoma (HCC) is a metabolically heterogeneous cancer and the use of glucose by HCC cells could impact their tumorigenicity. Dt81Hepa1-6 cells display enhanced tumorigenicity compared to parental Hepa1-6 cells. This increased tumorigenicity could be explained by a metabolic adaptation to more restrictive microenvironments. When cultured at high glucose concentrations, Dt81Hepa1-6 displayed an increased ability to uptake glucose (P-5, P = 0.016 and P = 6.58E-5). In conclusion, HCC tumorigenicity can stem from a metabolic plasticity allowing them to thrive in a broader range of glucose concentrations. In HCC, combining glycolytic inhibitors with conventional chemotherapy could lead to improved treatment efficacy.
+Liver; glucose; hepatocellular carcinoma; metabolism; microenvironment.

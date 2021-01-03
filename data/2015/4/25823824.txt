@@ -1,0 +1,4 @@
+25823824
+2015 Apr 20
+Regulations between NF-κB and HIF-1 have not been adequately addressed in previous research. Here, we report that hypoxia increased NF-κB in hepatocellular carcinoma cells. The HIF-1 protein level was rapidly induced by protein stabilization (by 2 hours) and then moderately decreased, whereas mRNA levels were reciprocally increased. We also found that NF-κB p50 and p65 (RelA), but not c-Rel, bound the HIF-1a promoter, thus increasing its transcription. In contrast, miR-199a-5p and miR-93, c-Rel downstream targets, decreased HIF-1α at both the mRNA and protein levels. Dicer1, a key enzyme in miRNA biogenesis, was decreased by acute hypoxia but was later increased by HIF-1, rather than by the above-mentioned NF-κB subunits. Thus, NF-κB both positively and negatively fine-tuned HIF-1 in hypoxic hepatocarcinoma cells.
+HIF-1; NF-κB; hypoxia; miRNA.

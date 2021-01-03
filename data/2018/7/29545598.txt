@@ -1,0 +1,4 @@
+29545598
+2018 Jul
+Ubiquitin-specific protease 11 (USP11) is a deubiquitinating enzyme that exerts its biological functions by regulating multiple signaling pathways such as p53, NF-κB, TGF-β, and Hippo. A large body of evidence supports a link between UPS11 and tumorigenesis. However, the clinical significance and biological function of USP11 in hepatocellular carcinoma (HCC) remains unclear. Here, USP11 expression was assessed by immunohistochemistry in a pilot series of 71 HCC clinical samples, and the association between USP11 expression and clinicopathological features and overall survival time was analyzed. The cytoplasmic expression rate of USP11 was higher in non-cancerous tissue than that in cancer tissue (36.6 vs. 12.7%, P = 0.001), whereas the nuclear expression rate of USP11 was lower in non-cancerous tissue (5.6 vs. 69.0%, P
+

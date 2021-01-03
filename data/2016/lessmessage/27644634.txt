@@ -1,0 +1,4 @@
+27644634
+2016
+Background:MicroRNAs (miRNAs) have fundamental roles in tumorigenesis. MiR-675 is upregulated in hepatocellular carcinoma(HCC) cells. However, the roles of miR-675 in hepatocellular carcinogenesis are still not fully elucidated. In this study, we focus on investigating the effect and mechanism of miR-675 in proliferation of HCC cells.Materials and methods:The cell proliferation was measured by MTT assays after transfection with miR-675 inhibitor and miR-675 mimics in HCC cells. The expression level of miR-675 was detected by real-time quantitative reverse transcription polymerase chain reaction. Protein expression of Cdc25A was measured by western blotting analysis.Results:In MTT assays, overexpression of miR-675 promoted the proliferation of HCC cells(Conclusions:Our results indicate that miR-675 promotes proliferation in human hepatocellular carcinoma cells by associating with the Cdc25A signaling pathway.
+

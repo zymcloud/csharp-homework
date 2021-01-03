@@ -1,0 +1,4 @@
+20558262
+2010 Aug 30
+Recently, our group has proposed a novel gene-regulation system responding to cAMP-dependent protein kinase (PKA) that has been applied to living cells. In this study, human liver-specific bionanocapsules (BNCs) are used as a gene-delivery system to increase transfection efficiency and to target specific cell types. BNCs can efficiently deliver a target gene to human hepatocytes and hepatoma cells in vitro or in vivo. The combination of a signal-responsive gene-delivery system with BNCs led to an increase in the transfection efficiency and selectivity for hepatoma cells. Expression from the delivered gene was identified from PKA-activated hepatoma cells (HepG2), but not from colon tumor cells (WiDr). These results show that the combination of a gene-regulation system responding to an intracellular signal with BNC can be used for the selective treatment of human hepatoma cells.
+

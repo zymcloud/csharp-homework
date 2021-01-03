@@ -1,0 +1,4 @@
+24145579
+2013 Dec
+Multidrug resistance (MDR) of tumor cells is a serious obstacle encountered in cancer treatment. In the current study a multiple drug‑resistant HepG2/adriamycin (HepG2/ADR) cell line was established and its MDR was characterized. Icaritin, an active ingredient isolated from the medical plant Herba Epimedium, was observed to reverse MDR in the present model. Icaritin significantly increased the intracellular accumulation of ADR and decreased the expression of the MDR1 gene in HepG2/ADR cells compared with drug‑sensitive HepG2 cells. In addition, the present results showed that icaritin may significantly downregulate the expression of P‑glycoprotein. These results indicate that icaritin is a novel and potent MDR reversal agent and may be a promising drug for tumor chemotherapy.
+

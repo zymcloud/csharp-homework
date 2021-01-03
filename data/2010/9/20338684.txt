@@ -1,0 +1,4 @@
+20338684
+2010 Sep 28
+Na(+)/H(+) exchanger 1 (NHE1) plays a significant role in tumor metastasis. However, the exact mechanisms by which NHE1 mediates cell invasion and migration, especially in hepatocellular carcinoma (HCC), are not yet known. In the current study, we show for the first time that the inhibition of NHE1 by 5-(N-ethyl-N-isopropyl) amiloride (EIPA) is able to suppress migration and invasion of HepG2 cells under hypoxic conditions. In addition, hypoxia activated ERK1/2, which in turn promoted the production of MMP-2, MMP-9 and VEGF. EIPA's suppressive role was determined to act through down-regulation of MMP-2, MMP-9 and VEGF in an ERK1/2 dependent manner. The data demonstrate that NHE1 plays a role in HCC invasion and that NHE1 may be a potential therapeutic target for HCC treatment.
+

@@ -1,0 +1,4 @@
+32655298
+2020 Jan
+Aim:The aim of this study was to explore the expression of exosomal non-coding RNAs (ncRNAs) in the sera of patients with HCC versus control.Methods:Firstly, Bioinformatics analysis was conducted to retrieve ncRNAs specific to HCC (hsa-miRNA-1298 and lncRNA-RP11-583F2.2). Afterwards, extraction and characterization of exosomes were performed. We measured the expression of the chosen exosomal RNAs by reverse transcriptase quantitative real-time PCR in sera of 60 patients with HCC, 42 patients with chronic hepatitis C (CHC) infection and 18 healthy normal volunteers.Results:The exosomal ncRNAs [hsa-miRNA-1298, lncRNA-RP11-583F2.2] had better sensitivity and specificity than alpha-fetoprotein (AFP) in HCC diagnosis.Conclusion:The exosomal hsa-miRNA-1298, lncRNA-RP11-583F2.2 can be potential biomarkers for HCC diagnosis.
+Hepatocellular carcinoma; chronic hepatitis C; diagnosis; exosome; lncRNA; miRNA.

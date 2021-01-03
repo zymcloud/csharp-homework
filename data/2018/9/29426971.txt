@@ -1,0 +1,4 @@
+29426971
+2018 Sep
+Background:While minimal invasive surgery is becoming popular in liver resection, right posterior sectionectomy (RPS) is still considered as a difficult procedure. We summarize the clinical data and investigate the feasibility of laparoscopic right posterior sectionectomy (LRPS) in hepatocellular carcinoma (HCC) by comparing its outcomes with those of open right posterior sectionectomy (ORPS).Methods:We retrospectively reviewed 191 patients who underwent RPS for HCC during January 2009 to August 2016 at Samsung Medical Center. After 1:2 propensity score matching, 53 patients in LRPS group were matched to 97 patients in ORPS group.Results:There was no statistical difference in preoperative data. While operation time was significantly longer in LRPS group (381.1 ± 118.7 vs. 234.4 ± 63.7 min, P Conclusions:In HCC, LRPS can be performed safely compared to ORPS, regarding the operative outcome, patient recovery, and oncological outcomes.
+

@@ -1,0 +1,4 @@
+23578665
+2013 Apr
+In the present study, we examined whether unfolded protein response (UPR) determined the hepatic cell damage induced by an innate immune response including TLR signaling pathways. We observed that lipopolysaccharide (LPS) transcriptionally downregulates 78-kDa glucose-regulated protein/immunoglobulin heavy-chain binding protein (GRP78/Bip), known to confer resistance to apoptosis. We also observed that LPS blocked the induction of UPR and led to poly(ADP-ribose) polymerase (PARP) cleavage in hepatocytes. We also demonstrated that overexpression of GRP78 rescued HepG2 cells treated with LPS from PARP cleavage. These data suggest that UPR downregulation could be a collateral effect of the LPS treatment. We speculate that UPR is an important factor of hepatic cell damage induced by an innate immune response.
+

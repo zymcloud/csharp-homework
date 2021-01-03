@@ -1,0 +1,4 @@
+30452622
+2019 Jul 4
+Previously we reported that ErbB4 played a protective role in chronic liver injury and hepatocellular carcinoma. Herein, we examined the role of ErbB4 in the development of colitis-associated cancer (CAC) in ErbB4 knockout mice models, in vitro cell lines and clinical samples. We found that ErbB4 deficiency may lead to more severe inflammation, slower recovery and the development of CAC. Further, loss of ErbB4 could activate Kras by upregulating rate-limiting enzymes in cholesterol metabolism pathway through interacting with the transcription factor Srebf1. In clinic samples, ErbB4 is downregulated in colonic tissues from patients with Crohn's disease. And data from The Cancer Genome Atlas also showed significant negative correlation between ErbB4 and several cholesterol metabolic enzymes. In summary, our study uncovers ErbB4 as a protector in the development of CAC, for its loss could activate Kras by upregulating cholesterol metabolism.
+

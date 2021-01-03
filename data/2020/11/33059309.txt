@@ -1,0 +1,4 @@
+33059309
+2020 Nov
+Aberrant methylation is a hallmark of hepatocellular carcinoma and plays an important role in tumor initiation and progression. However, the epigenome-wide methylation patterns of portal vein tumor thrombosis (PVTTs) have not been fully explored. Here, we performed epigenome-wide DNA methylation of adjacent normal tissues (ANTs), paired tumor tissues and paired PVTTs using an Infinium HumanMethylation450 array (n = 11) and conducted the Sequenom EpiTYPER assays to confirm the aberrantly methylated genes. MTS and apoptosis assay were used to assess the synergistic effect of two drugs on the HCC cell lines. We found the mean global methylation levels of HCC tissues and PVTTs were significantly lower than ANTs (P 10%, P
+

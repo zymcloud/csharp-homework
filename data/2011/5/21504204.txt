@@ -1,0 +1,4 @@
+21504204
+2011 May 12
+Novel furoxan-based nitric oxide (NO) releasing derivatives (8a-p) of farnesylthiosalicylic acid (FTS) were synthesized. Compound 8l displayed the strongest inhibition on the proliferation of human hepatocellular carcinoma (HCC) cells in vitro, superior to FTS, sorafenib, and furoxan moiety, selectively induced high frequency of HCC cell apoptosis, and produced high levels of NO in HCC cells but not in nontumor liver cells. Furthermore, 8l exhibited low acute toxicity to mice and significantly inhibited the growth of HCC tumors in vivo and the Ras-related signaling in the tumors. Therefore, our novel findings may provide a new framework for the design of new NO-releasing furoxan/FTS hybrids for the intervention of human HCC.
+

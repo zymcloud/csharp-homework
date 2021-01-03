@@ -1,0 +1,4 @@
+25636448
+2015 Jun
+Previous studies have shown that some microRNAs (miRs) are intensively involved in the development of hepatocellular carcinoma. We analyzed the prognostic role of serum microRNA (miR-122) levels in hepatocellular carcinoma patients using a retrospective design. MiR-122 levels in 122 hepatocellular carcinoma patients were measured, and Cox regression analysis was performed to analyze the prognostic role of miR-122 in hepatocellular carcinoma, and the hazard ratio (HR) with 95 % confidence interval (95 %CI) was used to evaluate its prognostic role. Patients with large tumor size had lower levels of serum miR-122 (P = 0.04). However, there was no significant association of serum miR-122 levels with other clinical characteristics. Kaplan-Meier method showed that there was higher overall survival rate in hepatocellular carcinoma patients with high serum miR-122 levels compared with those with low miR-122 level (P
+

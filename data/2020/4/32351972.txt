@@ -1,0 +1,4 @@
+32351972
+2020 Apr 15
+Heat shock protein 60 (HSP60) is a mitochondrial chaperone that is implicated in physiological and pathological processes. For instance, it contributes to protein folding and stability, translocation of mitochondrial proteins, and apoptosis. Variations in the expression levels of HSP60 have been correlated to various diseases and cancers, including hepatocellular carcinoma (HCC). Unlike other HSPs which clearly increase in some cancers, data about HSP60 levels in HCC are controversial and difficult to interpret. In the current review, we summarize and simplify the current knowledge about the role of HSP60 in HCC. In addition, we highlight the possibility of its targeting, using chemical compounds and/or genetic tools for treatment of HCC.
+cancer therapy; chaperones; chaperonin; heat shock proteins; hepatocellular carcinoma; therapeutic resistance.

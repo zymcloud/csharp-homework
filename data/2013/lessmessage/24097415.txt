@@ -1,0 +1,4 @@
+24097415
+2014
+We evaluated a family with a 16-month-old boy with cirrhosis and hepatocellular carcinoma and his 30-month-old brother with cirrhosis. After failing to identify a diagnosis after routine metabolic evaluation, we utilized a combination of RNA-Seq and whole exome sequencing to identify a novel homozygous p.Ser171Phe Transaldolase (TALDO1) variant in the proband, his brother with cirrhosis, as well as a clinically asymptomatic older 8-year-old brother. Metabolite analysis and enzymatic testing of TALDO1 demonstrated elevated ribitol, sedoheptitol, and sedoheptulose-7P, and lack of activity of TALDO1 in the three children homozygous for the p.Ser171Phe mutation. Our findings expand the phenotype of transaldolase deficiency to include early onset hepatocellular carcinoma in humans and demonstrate that, even within the same family, individuals with the same homozygous mutation demonstrate a wide range of phenotypes.
+

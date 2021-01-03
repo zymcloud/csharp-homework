@@ -1,0 +1,4 @@
+25687183
+2015 Jul
+It has been reported that miR-21 is upregulated in hepatocellular carcinoma (HCC), and overexpressed miR-21 plays a key role in promoting cell cycle progression, reducing cell death and favoring angiogenesis and invasion. Overexpression of hepatocellular carcinoma, downregulated 1 (HEPN1) exhibits an antiproliferative effect on HepG2 cells, suggesting that silencing of HEPN1 may contribute to carcinogenesis of hepatocytes. In silico analysis revealed that HEPN1 may be a potential target of miR-21. Using quantitative reverse transcription PCR and Western blot, we found that HEPN1 was strikingly downregulated in both mRNA (fold change was 33.5, P
+

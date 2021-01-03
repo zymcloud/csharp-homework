@@ -1,0 +1,4 @@
+30280461
+2019 Jan
+Background & aims:We compared the risk of hepatocellular carcinoma (HCC) development between patients with chronic hepatitis B (CHB) who achieved virological response (VR; HBV-DNA Methods:To adjust for imbalances between NUC-VR and ICHBP groups, propensity score matching (PSM) models with 1:1 ratios were performed.Results:This study included 2032 patients (n = 1291 in NUC-VR group and n = 741 in ICHBP group). Before PSM, NUC-VR group was at higher risk of HCC development than ICHBP group at 7 years (9.4% in NUC-VR group vs 3.3% in ICHBP group; P 0.05).Conclusions:After adjusting heavier hepatic fibrosis burden in NUC-VR group, overall clinical outcomes between 2 groups had become comparable. Therefore, if appropriate, NUCs to prevent viral replication and hepatic inflammation are required for achieving better prognosis.
+fibrosis; hepatitis B; hepatocellular carcinoma; matching; prognosis.

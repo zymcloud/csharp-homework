@@ -1,0 +1,4 @@
+30483734
+2019 Jan
+Heat shock protein 90 (HSP90) has been reported to promote the growth and inhibit apoptosis of hepatocellular carcinoma (HCC) cells. However, the underlying mechanisms are not fully understood. Immunostaining of the tissue array demonstrated that HSP90 was upregulated in HCC clinical samples and was associated with clinical features. HSP90 interacted with 3‑hydroxy‑3‑methylglutaryl‑CoA reductase (HMGCR), the rate‑limiting enzyme of mevalonate pathway, in the immunoprecipitation assay and regulated its protein expression level by inhibiting protein degradation. In addition, lovastatin, an inhibitor of HMGCR, impaired the oncogenic functions of HSP90 in the cell growth, migration and colony formation assays. Taken together, this study demonstrated that HSP90 promoted the progression of HCC by positively regulating the mevalonate pathway and indicated that HSP90 may be a promising therapeutic target.
+

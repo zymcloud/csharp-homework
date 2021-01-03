@@ -1,0 +1,4 @@
+31314193
+Apr-Jun 2019
+The study of glycomics is a novel and fascinating approach for the development of biomarkers. It has become clear that in the field of liver disease specific glycomic patters are present in specific disease states, which has led to the development of diagnostic biomarkers. In this manuscript, we will describe two new applications of this technology for the development of prognostic biomarkers. The first biomarker is associated with the risk of hepatocellular carcinoma development in patients with compensated cirrhosis. The second biomarker is present in perfusate and is related to the risk of primary non function occurrence after liver transplantation. The technology used for these biomarkers could easily be implemented on routine capillary electrophoresis equipment.
+biomarker; cirrhosis; glycan; glycomics; glycosylation; hepatocellular carcinoma; primary non function; prognostic.

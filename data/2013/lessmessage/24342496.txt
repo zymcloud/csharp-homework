@@ -1,0 +1,4 @@
+24342496
+Mar-Apr 2014
+Objective:To estimate the diagnostic accuracy of the sum of relative enhancement ratio (sRER) in making a differential diagnosis of hepatocellular carcinoma (HCC) from benign cirrhosis-related nodules.Materials and methods:Eighteen benign cirrhosis-related nodules and 18 HCCs were evaluated. Three radiologists independently reviewed computed tomography images using visual assessment and sRER. sRER was estimated by adding region-of-interest measurement in the arterial phase and the delayed phase. Diagnostic performance and accuracy were evaluated.Results:The mean values of sRER were significantly higher in HCCs than in benign cirrhosis-related nodules.Conclusion:The sRER method improved diagnostic accuracy of differentiating HCCs from benign cirrhosis-related nodules.
+Computed tomography; Hepatocellular carcinoma; Hepatocellular nodule.

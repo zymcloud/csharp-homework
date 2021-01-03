@@ -1,0 +1,4 @@
+19956884
+2010 Jan
+Some membrane transporters in liver, such as P-glycoprotein, multidrug resistance-associated protein 2 (MRP2), MRP3, and MRP5 can lead to a complex multidrug resistance (MDR) to antineoplastic agents. How to inhibit these proteins is still an issue. Tetramethylpyrazine is a bioactive constituent isolated from the root of Ligusticum chuanxiong Hort, a Chinese herb. Recent studies showed that it can enhance the chemosensitivity effects of a drug on human hepatocellular carcinoma cells, acting as a multidrug resistance modulator. In this study, the reversal effect of TMP on MDR was evaluated and its activity mechanism in vitro was explored. The IC50 value shows that TMP reversed the multidrug resistance of BEL-7402/ADM cells 9.23-fold (P
+

@@ -1,0 +1,4 @@
+22863860
+2012
+Orotic acid (OA) is a tumor promoter of experimental liver carcinogenesis initiated by DNA reactive carcinogens, the molecular mechanisms of which have not been fully elucidated. OA increases cell proliferation and decreases apoptosis in serum-starved SK-Hep1 hepatocellular carcinoma cells, which may ascribe to the inhibition of AMP-activated protein kinase (AMPK) phosphorylation and thus activation of mammalian target of rapamycin complex 1 (mTORC1). The effects of OA on mTORC1 activation, cell proliferation, and cell-cycle progression to S and G2/M phases were completely reversed by rapamycin. Activation of AMPK by a constitutively active mutant or aminoimidazole carboxamide ribonucleotide (AICAR) rescued the effects of OA. In conclusion, OA increases the proliferation and decreases the starvation-induced apoptosis of SK-Hep1 cells via mTORC1 activation mediated by negative regulation of AMPK.
+

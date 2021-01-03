@@ -1,0 +1,4 @@
+30154409
+2018 Aug 28
+PARP12 is a mono-ADP-ribosyltransferase, but its function remains largely unknown. Here, we identified four-and-a-half LIM-only protein 2 (FHL2) as a functional partner of PARP12 through protein affinity purification. Although PARP12 did not mono-ADP-ribosylate FHL2 in vitro and in vivo, PARP12 deficiency decreased the protein level of FHL2 by promoting its ubiquitination and increased the expression level of transforming growth factor beta1 (TGF-β1), which is independent of PARP12 enzymatic activity. We also provided evidence that PARP12 deficiency increased the migration and invasion of hepatocellular carcinoma (HCC) cells and promoted HCC metastasis in vivo by regulating the epithelial-mesenchymal transition process. These results indicated that PARP12 is a tumor suppressor that plays an important role in HCC metastasis through the regulation of FHL2 stability and TGF-β1 expression.
+

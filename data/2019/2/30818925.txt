@@ -1,0 +1,4 @@
+30818925
+2019 Feb 20
+Circular RNA is a class of non-coding RNAs, which are covalently closed and circular at both ends, showing dissimilar characteristics from linear RNA. Several studies have shown that circular RNAs play an important role in the occurrence and development of primary hepatic cancer. By combining with the latest research progress of this field at home and abroad, we summarized the mechanism regulating the occurrence and development of liver cancer, abnormal expression, and as potential molecular markers for disease diagnosis and treatment.
+Biomarker; Carcinoma, hepatocellular; Circular RNA; MicroRNA.

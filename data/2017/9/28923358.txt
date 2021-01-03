@@ -1,0 +1,4 @@
+28923358
+2017 Sep 18
+Drug development in hepatocellular carcinoma (HCC) has been characterised by many failures in the past. Despite good rationales and promising phase II data, many phase III trials failed. Immunotherapy represents an alternative treatment approach that has been successful in many different cancer types. As an inflammation induced cancer, HCC represents a very interesting target for immune based approaches. Indeed, early results from clinical trials testing immune checkpoint inhibitors are not only promising, but have already led to evaluation in a phase III setting. Herein, we summarise our current knowledge on the rationale, mechanism of action and clinical data for immune checkpoint blockade in HCC. In addition, we provide an overview of other novel immune based approaches currently under development for the treatment of HCC, such as adoptive cell based and antibody-based approaches.
+Cancer; HCC; Immunotherapy.

@@ -1,0 +1,4 @@
+27542202
+2016 Sep 20
+MicroRNAs (miRNAs) are small non-coding RNAs that post-transcriptionally regulate gene expression. They are involved in almost all biological processes, and many have been identified as potential oncogenes or tumor suppressor genes. miR-506 was recently discovered to play pivotal roles in regulating cell proliferation, differentiation, migration and invasion. Dysregulation of miR-506 has been demonstrated in multiple types of cancers; however, whether it functions as an oncogene or a tumor suppressor seems to be context-dependent. Altered miR-506 expression in cancer is caused by promoter methylation and changes in upstream transcription factors. In this review, we summarize the current understanding of the diverse roles and underlying mechanisms of miR-506 and its involvement in cancer, and suggest the potential therapeutic strategy based on miR-506.
+cancer; miR-506; microRNAs; tumor suppressor.

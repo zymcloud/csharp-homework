@@ -1,0 +1,4 @@
+31579977
+2020 Feb
+Long noncoding RNA, RNA component of mitochondrial RNA processing endoribonuclease (RMRP) plays an important role in cancer development and is closely correlated with prognosis in cancer patients. However, whether RMRP affects prognosis in patients with hepatocellular carcinoma (HCC) remains unclear. The aim of the present study was to investigate the expression level of RMRP in HCC and its correlation with prognosis in patients with HCC and explain the effects and associated mechanisms by conducting an in vitro study. The high expression level of RMRP was correlated with poor prognosis in patients with HCC. Using in vitro analysis, RMRP knockdown suppressed HCC cell proliferation, invasion, and migration (P
+Bel-7402; Huh-7; RMRP; hepatocellular carcinoma; miRNA-206.

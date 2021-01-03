@@ -1,0 +1,4 @@
+29234033
+2017 Dec 12
+Long noncoding RNAs (lncRNAs) have been shown to play critical roles in cancer. lncTCF7 (gene symbol: WSPAR) has been reported to maintain stemness in hepatocellular carcinoma (HCC) stem cells. However, little is known about the role of lncTCF7 in glioma. The aim of this study was to identify the role of lncTCF7 in the pathogenesis of glioma. We analysed the relationship of lncTCF7 expression with clinicopathological characteristics in glioma patients. Our results showed that lncTCF7 expression was increased in glioma tissues compared with that in normal brain tissues (P
+

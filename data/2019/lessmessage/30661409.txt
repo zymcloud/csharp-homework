@@ -1,0 +1,4 @@
+30661409
+2019
+Quercetin, an antioxidant flavonoid, has been known that it can induce the cell cycle arrest and apoptosis of hepatocellular carcinoma (HCC) cells by the stabilization or induction of p53. Here, we found that quercetin reduced the proliferation of HepG2 cells significantly, but not Huh7 cells. Interestingly, quercetin down-regulated the intracellular ROS level in HepG2 cells, but not Huh7 cells. Functional study using siRNA showed that the proliferation of HepG2 cells was still regulated by quercetin in the absence of p53. Furthermore, we confirmed the effect of quercetin on HepG2 cells by H2O2 supplementation. This study demonstrates that the antiproliferative effect of quercetin on HCC cells can be mediated by reducing intracellular ROS, which is independent of p53 expression.
+

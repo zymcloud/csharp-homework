@@ -1,0 +1,4 @@
+27275325
+2016 Mar 15
+Aim:To determine the relation between serum microRNAs and apoptotic markers as regards development of HCC to understand the underlying mechanism of HCV related hepatocarcinogenesis.Patients and methods:A total of 65 serum samples (25 samples from controls, 20 samples from hepatitis and 20 samples from HCC patients) were collected for miRNAs (mir 21, mir 199-a, and mir 155) detection. Human Programmed cell death protein-4 (PDCD-4) and Human Cytochrome-C (CYT-C) were determined.Results:miRNAs 21 and 155 were over expressed in sera of patients with HCC compared to patients with chronic hepatitis (p Conclusion:Both microRNAs and apoptotic markers have roles in HCC pathogenesis. It seems that oncogenic microRNAs induce liver carcinogenesis in HCV patients irrespective of suppression of apoptosis.
+HCC; HCV; apoptosis; microRNAs; pathogenesis.

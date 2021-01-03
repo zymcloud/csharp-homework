@@ -1,0 +1,4 @@
+26152287
+2015 Dec
+In recent years, many researches have shown that OCT4 is overexpressed in both germ cell tumors and somatic cancers. Meanwhile, OCT4 has relationship with poor prognosis in a lot of solid tumors, such as hepatocellular carcinoma, gastric cancer, and esophageal cancer. In our study, we investigated the expression status of OCT4 and its clinical significance in patients with acute myeloid leukemia (AML) using real-time quantitative PCR. The receiver operating characteristic (ROC) curve reveals that the level of OCT4 expression could be available for a potential diagnostic biomarker for differentiating AML from controls with an area under the ROC curve (AUC) of 0.915 (95 % confidence interval (CI) 0.837-0.992; P
+Acute myeloid leukemia; Cancer stem cell; OCT4; PCR.

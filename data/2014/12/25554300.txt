@@ -1,0 +1,4 @@
+25554300
+2014 Dec
+Mismatch between the refractive indexes of immersion media and glass coverslips introduces spherical aberrations in microscopes especially for high numerical aperture objectives. This contribution demonstrates an automated adjustment of the coverslip correction collar in scanning confocal microscopy to compensate for spherical aberrations due to coverslip thickness mismatch. With a motorized coverslip correction collar, the adjustment procedure consists of xz image scans, image processing, correction quality evaluation, the mismatch estimation, and eventually the optimal adjustment of the correction collar. For fast correction with less photodamage, coarse-fine Gaussian fitting algorithms are proposed and evaluated with various specimen for their estimation accuracy. The benefits of the proposed automated correction are demonstrated for various coverslips with biological specimens, showing the optimized resolution of the confocal microscope.
+

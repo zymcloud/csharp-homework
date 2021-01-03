@@ -1,0 +1,4 @@
+31244990
+2019 Jun 4
+Most hepatocellular carcinoma patients could not benefit from or experience disease recurrence after curative treatments. In 2007 sorafenib demonstrated efficacy in first line treatment of advanced hepatocellular carcinoma. After a decade of negative trials, in early 2019 we now have another tyrosine kinase inhibitor available in first line, lenvatinib, three other targeted therapies in second line post-sorafenib (regorafenib, cabozantinib and ramucirumab) and promising data from two immunotherapies (nivolumab and pembrolizumab). Unfortunately, no biomarkers have been identified to help guide our choice. In this short review we summarize the results of these different therapies and propose a therapeutic algorithm based on subgroup analysis. It is most likely that we will not have head-to-head comparisons in second line trials.
+cabozantinib; lenvatinib; nivolumab; pembrolizumab; ramucirumab; regorafenib; sorafenib.

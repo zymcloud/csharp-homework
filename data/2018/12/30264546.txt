@@ -1,0 +1,4 @@
+30264546
+2018 Dec
+Indoleamine 2,3-dioxygenase 1 (IDO1) is a tryptophan-metabolizing enzyme that is widely distributed in normal or malignant tissues and contributes to immunologic tolerance and immune escape. However, in hepatocellular carcinoma (HCC), the characteristics and mechanism of IDO1 expression have not been well defined. In this study, IDO1 expression in tumor cells (T-IDO1) was frequently detected (109/112) by immunohistochemistry in formalin-fixed paraffin-embedded specimens from HCC patients, and the expression patterns were mostly focal (102/109). Expression of T-IDO1 was significantly associated with the infiltration of CD8+ T cells (P = .043), as well as younger age (
+CD8; HCC; IDO1; IFN-γ; inducible expression.

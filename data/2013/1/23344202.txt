@@ -1,0 +1,4 @@
+23344202
+2013 Jan 11
+Metastasis is the major cause of cancer-related deaths. Targeting the process of metastasis has been proposed as a strategy to fight cancer. Scutellaria barbata D. Don (S. barbata), a traditional Chinese medicine, is used for treatment of many diseases, including cancer. This study aimed to determine the anti-metastatic effect of total flavonoids of S. barbata (TF-SB) using the human hepatocarcinoma MHCC97H cell line with high metastatic potential. Our results show that TF-SB could significantly inhibit the proliferation and invasion of MHCC97H cells in a dose-dependent manner. MMP-2 and MMP-9 expression were obviously decreased after TF-SB treatment at both the mRNA and protein level. TIMP-1 and TIMP-2 expression were simultaneously increased. The present study indicates that TF-SB could reduce the metastatic capability of MHCC97H cell, probably through decrease of the MMP expression, and simultaneous increase of the TIMP expression.
+

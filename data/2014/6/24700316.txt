@@ -1,0 +1,4 @@
+24700316
+2014 Jun
+Recent studies have demonstrated that SMG-1, a newly characterized member of the family of phosphatidylinositol 3-kinase-related protein kinases (PIKKs), is involved in tumorigenesis as a new tumor suppressor. However, its expression and significance in hepatocellular carcinoma (HCC) remain obscure. The present study investigated SMG-1 expression in HCC tissue specimens, aimed at defining the association with clinicopathological significance. Both immunohistochemistry and qRT-PCR were employed to analyze SMG-1 expression in 157 HCC and corresponding distant normal tissue specimens. The results revealed that expression of SMG-1 was significantly lower in the HCC tissue specimens than that in the distant normal tissues. Moreover, a lower expression level of SMG-1 was significantly correlated with serum α-fetoprotein level (P=0.001), poorly differentiated tumors (P=0.009) and more advanced TNM stage (P
+

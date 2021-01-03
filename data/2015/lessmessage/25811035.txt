@@ -1,0 +1,4 @@
+25811035
+2015
+Recent studies have demonstrated that polymorphisms near the interleukin-28B (IL-28B) gene could predict the response to Peg-IFN-a/RBV combination therapy in HCV-infected patients. The aim of the study was to correlate the serum level of IL28B in HCV-infected patients with virus genotype/subgenotype and disease progression. IL28B serum level was detected and variations at five single nucleotide polymorphisms (SNPs) in IL28B gene region were genotyped and analyzed. The variation of IL28B genetic polymorphisms was found to be strongly associated with HCV infection when healthy control group was compared to HCV-infected patients with all P values
+

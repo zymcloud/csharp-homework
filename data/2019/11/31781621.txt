@@ -1,0 +1,4 @@
+31781621
+2019 Nov 3
+Aberrant expression of RORγ is implicated in cancer development. A previous study identified that RORγ functions as a tumor promoter to drive hepatocellular carcinoma (HCC) growth. However, its expression and significance in HCC remain unclear. The central finding of this work is that RORγ was overexpressed in HCC due to its dysfunction of promoter methylation, and hepatitis B virus X protein (HBx) can remarkably induce the expression of RORγ in hepatocellular carcinoma through enhancing the transcriptional function. Also, the HBx-induced RORγ could promote the migration and proliferation of hepatoma cells. Hence, these results suggest that RORγ was an important regulator in HCC, and our finding provides new insights into the significance of RORγ in HCC.
+

@@ -1,0 +1,4 @@
+27781198
+2016 Oct
+Objectives:This study aimed to build a prediction score of prognosis for patients with advanced hepatocellular carcinoma (HCC) after sorafenib treatment.Methods:A total of 165 patients with advanced HCC who were treated with sorafenib were analyzed. Readily available baseline factors were used to establish a scoring system for the prediction of survival.Results:The median survival time (MST) was 14.2 months. The independent prognostic factors were C-reactive protein (CRP) 3.5 g/dL (HR =0.55), alpha-fetoprotein Conclusions:A novel prognostic scoring system, which includes the CRP level, has the ability to stratify the prognosis of patients with advanced stage HCC after treatment with sorafenib.
+Hepatocellular carcinoma; Prognostic prediction; Systemic chemotherapy.

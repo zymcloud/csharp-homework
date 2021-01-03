@@ -1,0 +1,4 @@
+24383877
+2014 Jan
+The ability to differentiate tumor initiating stem cells (TISCs) from healthy, normal stem cells (NSCs) could have important diagnostic and therapeutic implications for patients with hepatocellular carcinoma (HCC). The aim of this study was to document and compare cell membrane potentials (PDs) and GABAA receptor subunit expression in hepatic TISCs and NSCs. PD values were determined in CD133(+) Huh-7 TISCs and CD133(+) WBF344 NSCs by single channel microelectrode impalement. GABAA receptor subunit expression was documented using immunohistochemistry (IH) in both cell lines as well as surgically resected HCC and healthy liver tissues. TISCs were significantly depolarized compared with NSCs (-4.0 ± 1.8 versus -11.0 ± 2.4 mV, respectively; p
+

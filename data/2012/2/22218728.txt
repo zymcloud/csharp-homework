@@ -1,0 +1,4 @@
+22218728
+2012 Feb 7
+Bifunctional bacterial magnetic nanoparticles (BBMPs), which present both magnetic drug targeting and tumor bio-targeting properties, have been developed by chemically coupling both doxorubicin and a galactosyl ligand on to the membrane surface of the bacterial magnetic nanoparticles (BMPs). The BBMP product has a high drug load ratio and magnetic respondence, and exhibits a narrow size distribution and is sensitive to pH to enable drug release. In comparison to doxorubicin-coupled BMPs, without modification with a galactosyl ligand, BBMPs present a higher uptake by the target asialoglycoprotein receptor (ASGP-R) expressed by HepG2 cells and display stronger cytotoxicity.
+

@@ -1,0 +1,4 @@
+30906215
+2019 Mar 1
+Long non-coding RNAs (lncRNAs) are transcripts longer than 200 nucleotides (nts) without obvious protein coding potential. lncRNAs act as multiple roles in biological processes of diseases, especially carcinomas. Prostate cancer associated transcript-1 (PCAT-1) is an oncogenic lncRNA that identified by RNA-Sequence in prostate cancer. High expression of PCAT-1 is observed in different types of cancers, including prostate cancer, colorectal cancer, hepatocellular cancer and gastric cancer. High expressed PCAT-1 is correlated with poor overall survival. Furthermore, PCAT-1 regulates cancer cell proliferation, apoptosis, migration and invasion. Additionally, PCAT-1 is involved in EMT and Wnt/β-catenin-signaling pathway. In this review, we focus on the implication of PCAT-1 in human cancers.
+PCAT-1; biomarker; cancer; long non-coding RNA; therapeutic target.

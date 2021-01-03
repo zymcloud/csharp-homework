@@ -1,0 +1,4 @@
+25778319
+Jan-Feb 2015
+Purpose:The purpose of this study was to determine the impact of sorafenib on PI3K/AKT/mTOR signaling pathway and to further define its mechanism for treating hepatocellular carcinoma (HCC).Methods:Human SMMC-7721 hepatic carcinoma cells were treated with or without 4 μmoL/L sorafenib. SMMC- 7721 cells were harvested at various time points (0-48 hrs) and assessed for changes in PI3K, mTOR, and AKT protein and mRNA levels.Results:Human SMMC-7721 hepatic tumor cells exposed to sorafenib had decreased expression of PI3K/mTOR/AKT.Conclusion:Sorafenib appears to inhibit hepatic tumor growth by downregulating PI3k/Akt/mTOR signaling pathway.
+

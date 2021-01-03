@@ -1,0 +1,4 @@
+22160625
+2012 Mar
+Hepatitis C virus (HCV) isolates circulating in Morocco are poorly documented. To determine the subgenotype distribution of HCV in chronically infected patients, serum samples from 185 anti-HCV-positive patients were analyzed. Determination of the HCV genotype and subtype was performed by sequencing the 5'UTR, NS5B and core regions. According to the NS5B phylogeny, the HCV strains primarily belonged to subtypes 1b (75.2%), 2i (19.1%) and 2k (2.8%). Using a Bayesian approach, the mean date of appearance of the most recent common ancestor was estimated to be 1910 for HCV-1b and 1854 for HCV-2i. Although it is currently the most frequent genotype in Morocco and the dominant form in hepatocellular carcinoma, it thus appears that HCV-1b was introduced into the population subsequently to HCV-2i.
+

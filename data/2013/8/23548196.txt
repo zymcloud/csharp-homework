@@ -1,0 +1,4 @@
+23548196
+2013 Aug
+The high failure rate of phase 3 trials in oncology is forcing the scientific community to rethink drug development strategies and optimize trial design. The current paradigm of systemic therapies is progressively favoring molecular-based patient selection. In hepatocellular carcinoma, four out of the five phase 3 trials that tested molecular therapies in the last 5 years have been negative. None of them included enriched populations using predicted biomarkers of response. Hence, there is an increasing need to provide new targets and refine selection criteria in HCC clinical trials using molecular readouts of tumor biology.
+Clinical trials; Liver cancer; Personalized medicine; Sorafenib.

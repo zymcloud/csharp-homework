@@ -1,0 +1,4 @@
+26228076
+2015 Oct
+Background:Ablation for ≤ 3-cm hepatocellular carcinoma (HCC) has been demonstrated to be an effective treatment strategy. The present study sought to examine the outcomes of patients with ≤3 cm HCC after ablation versus resection.Methods:Patients treated by ablation or surgical resection for ≤ 3 cm T1 HCC were identified from the National Cancer Database (2002-2011). Survival outcomes were analysed according to propensity score modelling.Results:A total of 2804 patients underwent ablation (n = 1984) or a resection (n = 820) for solitary HCC ≤ 3 cm. Patients treated with ablation as compared with a resection had a higher frequency in alpha-fetoprotein level (AFP) elevation (46.5% versus 39.1%, P Conclusion:Resection of HCC ≤ 3 cm results in better long-term survival as compared with ablation. Treatment strategies for small solitary HCC should emphasize a resection first approach, with ablation being reserved for patients precluded from surgery.
+

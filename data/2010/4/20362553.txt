@@ -1,0 +1,4 @@
+20362553
+2010 Apr 30
+Previous investigations on proteasomal preparations containing insulin-degrading enzyme (IDE; EC 3.4.24.56) have invariably yielded a co-purifying protein with a molecular weight of about 110kDa. We have now found both in MCF-7 breast cancer and HepG2 hepatoma cells that this associated molecule is the retinoblastoma tumor suppressor protein (RB). Interestingly, the amount of RB in this protein complex seemed to be lower in HepG2 vs. MCF-7 cells, indicating a higher (cytoplasmic) protein turnover in the former vs. the latter cells. Moreover, immunofluorescence showed increased nuclear localization of RB in HepG2 vs. MCF-7 cells. Beyond these subtle differences between these distinct tumor cell types, our present study more generally suggests an interplay between RB and IDE within the proteasome that may have important growth-regulatory consequences.
+

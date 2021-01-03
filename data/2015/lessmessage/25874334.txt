@@ -1,0 +1,4 @@
+25874334
+2015
+A series of selenazolopyridine derivatives have been synthesized and characterized by X-ray diffraction, high resolution NMR and Mass spectrum. The in vitro anticancer activities of the synthetic compounds were screened against a panel of human cancer cell lines, human breast carcinoma MCF-7 cells, human liver carcinoma HepG2 cells and L02 normal cell line by MTT assay. By analyzing the structure-activity relationship among the synthetic compounds, it was found that 2-(phenylamino) selenazolo [5,4-b] pyridine, (PSeD, 7) had higher growth inhibitory effect on MCF-7 cells. The intracellular mechanism of cell death was evaluated by flow cytometric analysis and ROS assay, which revealed that PSeD could induce MCF-7 cells apoptosis by scavenging intracellular ROS. Taken together, we regard PSeD as an antioxidant which could inhibit cancer cell growth through induction of apoptosis.
+Anticancer activity; Cell apoptosis; ROS; Selenazolopyridine derivatives.

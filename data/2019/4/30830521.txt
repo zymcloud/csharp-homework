@@ -1,0 +1,4 @@
+30830521
+2019 Apr
+Hepatocellular carcinoma (HCC) has an increasing incidence and dismal prognosis, with few systemic treatments approved, including several small molecule tyrosine kinase inhibitors. The application of immune checkpoint inhibitors (ICIs) to HCC has resulted in durable activity, and further evaluation is ongoing. In this review, we discuss the immunologic principles and the mechanism of action of the ICIs and present the relevant clinical data. Furthermore, we provide an overview of the current and emerging immunotherapeutic approaches for HCC, such as combination treatments, vaccines, and cellular therapies.
+Adoptive cellular immunotherapy; B7-H1 antigen; CTLA-4 antigen; Hepatocellular carcinoma; Immunotherapy; Programmed cell death 1 receptor.

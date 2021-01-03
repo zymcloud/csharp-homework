@@ -1,0 +1,4 @@
+22370339
+2012 Apr 1
+A novel series of diphenyl 1-(arylamino)-1-(pyridin-3-yl)ethylphosphonates 1-5 was obtained in high yields from reactions of 3-acetyl pyridine with aromatic amines and triphenylphosphite in the presence of lithium perchlorate as a catalyst. The structures of the synthesized compounds were confirmed by IR, (1)H NMR spectral data and microanalyses. Compounds 1-5 showed high antimicrobial activities against Escherichia coli (NCIM2065) as a Gram-negative bacterium, Bacillus subtilis (PC1219) and Staphylococcus aureus (ATCC25292) as Gram-positive bacteria and Candidaalbicans and Saccharomyces cerevisiae as fungi, at low concentrations (10-100 μg/mL). Also, the synthesized compounds showed significant cytotoxicity anticancer activities against liver carcinoma cell line (HepG2) and human breast adenocarcinoma cell line (MCF7). The lethal dose of the synthesized compounds was also determined and indicated that most compounds are safe to use.
+

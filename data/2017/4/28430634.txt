@@ -1,0 +1,4 @@
+28430634
+2017 Apr 25
+The aim of this study was to retrospectively compare the long-term efficacy of MW ablation as a curative therapy for hepatocellular carcinoma(HCC) adjacent to large vessels(≥3 mm) with that in safe location. Between 2010 and 2016, 406 patients diagnosed with early-stage HCC at Chinese PLA general hospital were enrolled. One-to-one matched pairs between the vessel group and the safe group were generated using propensity score matching. The associations of treatment strategy with overall survival and local tumor progression were determined by Cox regression. Before matching, 113 patients were classified into the vessel group and 293 patients were classified into the vessel group. The patients in the vessel group were more frequently classified as larger tumor size (P
+hepatocellular carcinoma; microwave ablation; prognosis; propensity score matching; vessel.

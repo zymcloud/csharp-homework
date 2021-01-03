@@ -1,0 +1,4 @@
+20814944
+2010 Sep
+New nonclassical acridines, quinolines, and quinazolines were prepared starting from cyclic β-diketones, namely dimedone, through application of Hantzsch addition, Michael addition, and Mannich reactions, respectively. The antimicrobial activity revealed that decahydroacridin-1,8-dione 2e bearing a 3-nitrophenyl group and hexahydroquinoline 4e having a 2,4-dichlorophenyl moiety were the most active compounds against both Gram-positive and -negative bacteria based upon using the disc diffusion method. Cytotoxic activity studies for decahydroacridin-1,8-diones 2a-e against liver carcinoma cells (HepG(2)) using the MTT cell viability assay revealed that decahydroacridin-1,8-dione bearing a 4-methylphenyl moiety 2d showed a higher cytotoxic activity (IC(50) = 4.42 µg/mL) than the other derivatives.
+

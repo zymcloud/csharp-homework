@@ -1,0 +1,4 @@
+25130492
+2014 Sep 4
+The liver is thought to utilize facultative stem cells, also known as "oval cells" or "atypical ductal cells" (ADCs), for regeneration following various types of injury. However, this notion has been based largely on in vitro studies and transplantation models; where lineage tracing has been used, results have been conflicting and effect sizes have been small. Here, we used genetic and nucleoside analog-based tools to mark and track the origin and contribution of various cell populations to liver regeneration in vivo following several ADC-inducing insults. We report that, contrary to prevailing stem-cell-based models of regeneration, virtually all new hepatocytes come from preexisting hepatocytes.
+

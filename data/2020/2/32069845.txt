@@ -1,0 +1,4 @@
+32069845
+2020 Feb 13
+Obesity is a major public health concern worldwide. The increased risk of certain types of cancer is now an established deleterious consequence of obesity, although the molecular mechanisms of this are not completely understood. In this review, we aim to explore the links between MAPK signalling and obesity-related cancer. We focus mostly on p38 and JNK MAPK, as the role of ERK remains unclear. These links are seen through the implication of MAPK in obesity-related immune paralysis as well as through effects on the endoplasmic reticulum stress response and activation of aromatase. By way of example, we highlight areas of interest and possibilities for future research in endometrioid endometrial cancer and hepatocellular carcinoma associated with non-alcoholic fatty liver disease (NAFLD), non-alcoholic steatohepatitis (NASH) and MAPK.
+MAPK; cancer; endometrial cancer; hepatocellular cancer; obesity.

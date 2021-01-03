@@ -1,0 +1,4 @@
+24716202
+2014 Mar
+Fibroblast growth factors, or FGFs, are a large family of polypeptide cytokines exhibiting a pleiotropy of functions, from cell growth to angiogenesis, wound healing, and tissue repair. This review broadly covers the genetics and protein expression of the FGF family members and the signaling pathways involved in FGF-mediated growth regulation. We emphasize the role of FGFs in the pathogenesis of hepatocellular carcinoma (HCC), including their effects on regulation of the tumor microenvironment and angiogenesis. Finally, we present current views on FGF's potential role as a prognostic marker in clinical practice, as well as its potential as a therapeutic target in HCC.
+

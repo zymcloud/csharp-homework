@@ -1,0 +1,4 @@
+26451313
+2015 May 26
+In contrast to the accepted notion that tumor-derived signals polarize macrophages toward a protumorigenic M2 phenotype during tumor progression, we recently discovered that the inflammatory microenvironment is capable of driving macrophages toward an M2 phenotype. Moreover, our data suggests that inflammatory education is prominent during the early phases of hepatocellular carcinoma (HCC) suggesting that inflammatory modulation might effectively prevent HCC.
+c-Jun phosphorylation; hepatocellular carcinoma; immune check point drugs; inflammation-induced cancer; macrophage polarization.

@@ -1,0 +1,4 @@
+25839427
+2015 Apr
+Mesenchymal stem cell (MSC) homing and integration into tumors are under evaluation for clinical application. This approach requires the identification of conditions for optimal tumor invasion. We describe a tool for the in vitro comparison of parameters influencing invasion. Human MSC added to experimental tumor spheroids variably migrates toward the center of the structure. To determine MSC distribution inside the three-dimensional specimen, spatial analysis was performed using selective plane illumination microscopy. A standardized method to quantify and compare the invasion potential of variably treated MSC into experimental tumor environments allows efficient screening for optimizing conditions.
+

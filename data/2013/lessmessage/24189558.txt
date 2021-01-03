@@ -1,0 +1,4 @@
+24189558
+2013
+Hepatitis C virus, which affects approximately 170 million people worldwide, is a major causative agent of hepatocellular carcinoma. Anti-HCV treatment is available with the combination of pegylated interferon and ribavirin, and newly approved protease inhibitors. However, because of the diverse anti-HCV efficacy among HCV genotypes and significant side effects, alternative anti-HCV agents are in great demand. Using cell-based systems supporting a part of or the whole HCV life cycle, we identified cyclosporin A, tamoxifen, and benzamide derivatives that inhibited the replication of HCV RNA or the production of infectious HCV particles. In this article, we summarize the mechanistic analyses of the HCV life cycle using these small molecules. Thus, chemical genetics is a powerful approach for revealing molecular mechanisms of the viral life cycle as well as for developing new antiviral agents.
+

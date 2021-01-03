@@ -1,0 +1,4 @@
+23391762
+2013 Mar 18
+The involvement of hepatitis B virus X protein (HBx) in anti-complement-dependent cytotoxicity (CDC) activity during hepatocarcinogenesis is poorly understood. Here, we report that HBx is able to up-regulate membrane-bound complement regulatory protein CD46 in hepatoma cells and human immortalized liver cells through activating the promoter activity involving cAMP response element-binding protein (CREB)/cyclooxygenase-2 (COX-2)/prostaglandin E2 (PGE2)/signal transducers and activators of transcription 3 (STAT3) signaling pathway. In contrast, the down-regulation of CD46 abolishes the resistance capability of hepatoma cells to CDC. Thus, we conclude that HBx contributes to the protection of hepatoma and hepatic cells from CDC by up-regulation of CD46.
+

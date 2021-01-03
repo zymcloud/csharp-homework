@@ -1,0 +1,4 @@
+20353272
+2010
+Telomerase, a ribonuclearprotein complex, functions not only in cancer development but also in apoptosis, and senescence. As a catalytic subunit of telomerase, telomerase reverse transcriptase (TERT) has been confirmed to regulate telomerase activity in a rate-limiting manner. Although a lot of work has been done, the dynamic state of TERT protein and the relationship with telomerase have not been delineated systematically in cancer development. The purpose of this study was to do such an exploration. To investigate the role of TERT in the in vivo carcinogenesis, we performed immunofluorescence and Western blot analysis, respectively, to detect the alteration of TERT status as well as telomeric repeat amplification protocol (TRAP) assay to detect telomerase activity in diethyl nitrosoamine (DENA) induced rat hepatocellular carcinoma (HCC). The course of cancer development was divided into three main stages, which were inflammation (
+

@@ -1,0 +1,4 @@
+26388336
+2015 Sep 21
+Condensed-bicyclic triazolo-thiadiazoles were synthesized via an efficient "green" catalyst strategy and identified as effective inhibitors of PTP1B in vitro. The lead compound, 6-(2-benzylphenyl)-3-phenyl-[1,2,4]triazolo[3][1,3,4]thiadiazole (BPTT) was most effective against human hepatoma cells, inhibits cell invasion, and decreases neovasculature in HUVEC and also tumor volume in EAT mouse models. This report describes an experimentally unidentified class of condensed-bicyclic triazolo-thiadiazoles targeting PTP1B and its analogs could be the therapeutic drug-seeds.
+

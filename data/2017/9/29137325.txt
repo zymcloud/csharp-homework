@@ -1,0 +1,4 @@
+29137325
+2017 Sep 15
+Hepatocellular carcinogenesis results from dysregulation of oncogenes and tumor suppressors that influence cellular proliferation, differentiation and apoptosis. p15 and p21 are cyclin-dependent kinase inhibitors, which arrest cell proliferation and serve as critical tumor suppressors. Here we report that the E3 ubiquitin ligase RLIM expression is downregulated in hepatocellular carcinoma patients, and correlated with p15 and p21 expression in clinical progression. In addition, we showed that RLIM overexpression suppresses the cell growth and arrests cell cycle progression of hepatocellular carcinoma. Mechanistically, we found that RLIM directly binds to MIZ1, disrupting the interaction between c-MYC and MIZ1, and enhancing p15 and p21 transcription. Our results demonstrate that RLIM is an important suppressor in hepatocellular carcinogenesis.
+MIZ1; RLIM; hepatocellular carcinogenesis; p15; p21.

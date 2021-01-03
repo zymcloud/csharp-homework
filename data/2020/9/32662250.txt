@@ -1,0 +1,4 @@
+32662250
+2020 Sep
+Liver cancer stem cells (L-CSCs) are considered to be an important therapeutic target for hepatocellular carcinoma (HCC). This study provides a new in vitro long-term culture model for a specific subpopulation of L-CSCs enriched by cell surface markers. We combined CD13, CD133 and EpCAM to selectively enrich L-CSCs, which we then cultured in modified chemically defined medium. The enriched L-CSCs exhibited enhanced proliferation, self-renewal and long-term clonal maintenance ability as compared with non-CSCs. Compared with wild-type hepatocellular carcinoma, the expression of stemness surface markers, oncogenes, drug resistance and tumorigenicity in enriched L-CSCs was significantly increased. In summary, the subpopulation of L-CSCs still maintains cancer stem cell-related phenotypes after 14 days of culture.
+cell surface markers; chemically defined medium; hepatocellular carcinoma; in vitro culture model; liver cancer stem cells.

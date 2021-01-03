@@ -1,0 +1,4 @@
+29299129
+2017 Oct 26
+In this study, we explored the function and mechanism of CDKN2B genes in verapamil (VER)-induced reversal of resistance to doxorubicin (ADM) chemotherapy in hepatocellular carcinoma (HCC). We examined 4 HCC cell lines and found that the expression levels of CDKN2B genes correlated with the level of apoptosis induced by ADM+VER. Overexpression of CDKN2B genes promoted apoptosis in cells treated with VER+ADM. CDKN2B knockdown using siRNA weakened the effect of ADM+VER, indicating that ADM+VER promotes HCC cell apoptosis and that CDKN2B genes participate in VER-mediated promotion in tumor cell apoptosis. Future research will further explore the functional mechanism, and the associated signal transduction pathways via which CDKN2B affects HCC drug resistance.
+CDKN2B; chemotherapy resistance; doxorubicin (ADM); hepatocellular carcinoma (HCC); verapamil (VER).

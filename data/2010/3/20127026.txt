@@ -1,0 +1,4 @@
+20127026
+2010 Mar
+A small stem-like subpopulation was isolated from human hepatocellular carcinoma (HCC) MHCC97 cells, characterized by their high efflux ability of the Hoechst 33342 dye. These side population (SP) cells were able to generate a heterogeneous mixture of SP and main population (MP) cells, while the MP cells rarely generated SP cells. Cell cycle analysis also revealed that more SP cells were in the G0 phase. They express higher levels of BCRP1, AFP and CK19 than MP cells. SP cells showed significantly higher viability than MP cells following treatment with doxorubicin or methotrexate. Actin polymerization and migration assays indicate that SP cells have a higher migration capacity and in vivo tumorigenicity of these cells is also higher. Collectively, we conclude that the SP is an enriched source of stem-like cells and may be an effective target for therapy and a useful tool to investigate the HCC tumorigenic and metastatic process.
+

@@ -1,0 +1,4 @@
+28294176
+2017 Mar 15
+Hepatocellular carcinoma is the most common liver malignancy. Salvage liver transplantation (SLT) is viewed as a feasible cure for recurrence of HCC after resectomy, but the effect is under dispute. A retrospective study examined data at Renji Hospital for 239 transplants from January 2006 to December 2015, including 211 who received primary liver transplantation (PLT) and 28 who underwent SLT. A multivariable cox regression model was employed to pick out relative factors to overall survival (OS) and recurrence free survival (RFS). Propensity score matching (PSM) was used to balance the bias. Both OS and RFS were worse in SLT group than in PLT group, especially for those patients within Milan criteria. Our study demonstrates that SLT bears higher risk of recurrence and death than PLT, indicating that SLT should be given a more careful thought at performance.
+

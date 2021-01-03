@@ -1,0 +1,4 @@
+28756230
+2017 Sep 30
+Ferroptosis is a novel form of cell death, which is characterized by accumulation of reactive oxygen species (ROS). Sigma 1 receptor (S1R) has been suggested to function in oxidative stress metabolism. Both erastin and sorafenib significantly induced S1R protein expression. Haloperidol strongly promoted erastin- and sorafenib-induced cell death, which was blocked by ferrostatin-1 but not ZVAD-FMK or necrosulfonamide. During ferroptosis, haloperidol substantially increased the cellular levels of Fe2+, GSH and lipid peroxidation. Furthermore, several ferroptosis-related protein targets were up-regulated in the absence of haloperidol. Thus, Our study identified an association between haloperidol and ferroptosis for the first time. Our analyses of a combination of drugs may provide a novel strategy of hepatocellular carcinoma (HCC) therapy.
+Ferroptosis; Haloperidol; Hepatocellular carcinoma; Sorafenib.

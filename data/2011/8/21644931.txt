@@ -1,0 +1,4 @@
+21644931
+2011 Aug
+The major histocompatibility complex (MHC) class I-related gene A (MICA) is a stress-induced antigen and plays a key role in anti-infectious and anti-tumoral immune responses. In this study, we investigated the MICA transmembrane polymorphism in hepatocellular carcinoma (HCC) patients in South China Han population. We found that the MICA-A5.1 polymorphism, which gives rise to a truncated protein, was increased in HCC patients compared with healthy controls (P(c) = 0.036). Furthermore, we found that HCC patients with MICA-A5.1 polymorphism had higher serum levels of soluble MICA (sMICA). These results suggest that MICA-A5.1 polymorphism is associated with HCC patients in South China Han population and the MICA-A5.1 polymorphism may contribute to the development of HCC by promoting the release of sMICA to evade tumor immunosurveillance.
+

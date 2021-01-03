@@ -1,0 +1,4 @@
+25719742
+2015 Feb 24
+Plant metabolites are valuable sources of novel therapeutic compounds. In an anti-telomerase screening study of plant secondary metabolites, the aporphine alkaloid boldine (1,10-dimethoxy-2,9-dihydroxyaporphine) exhibited a dose and time dependent cytotoxicity against hepatocarcinoma HepG-2 cells. Here we focus on the modes and mechanisms of the growth-limiting effects of this compound. Telomerase activity and expression level of some related genes were estimated by real-time PCR. Modes of cell death also were examined by microscopic inspection, staining methods and by evaluating the expression level of some critically relevant genes. The growth inhibition was correlated with down-regulation of the catalytic subunit of telomerase (hTERT) gene (p
+

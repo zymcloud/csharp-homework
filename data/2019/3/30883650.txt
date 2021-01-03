@@ -1,0 +1,4 @@
+30883650
+2019 Mar 1
+Metastasis is the main reason for high recurrence and poor survival of hepatocellular carcinoma (HCC). The molecular mechanism underlying HCC metastasis remains unclear. In this study, we found that argininosuccinate synthase 1 (ASS1) expression was significantly decreased and down-regulation of ASS1 was closely correlated with poor prognosis in HCC patients. DNA methylation led to the down-regulation of ASS1 in HCC. Stable silencing of ASS1 promoted migration and invasion of HCC cells, whereas overexpression of ASS1-inhibited metastasis of HCC cells in vivo and in vitro. We also revealed that ASS1-knockdown increased the phosphorylation level of S727STAT3, which contributed to HCC metastasis by up-regulation of inhibitor of differentiation 1 (ID1). These findings indicate that ASS1 inhibits HCC metastasis and may serve as a target for HCC diagnosis and treatment.
+ASS1; hepatocellular carcinoma; metastasis; prognosis.

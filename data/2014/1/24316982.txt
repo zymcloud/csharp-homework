@@ -1,0 +1,4 @@
+24316982
+2014 Jan
+The most common risk factor for developing hepatocellular carcinoma (HCC) is chronic infection with hepatitis B virus (HBV). To better understand the evolutionary forces driving HCC, we performed a near-saturating transposon mutagenesis screen in a mouse HBV model of HCC. This screen identified 21 candidate early stage drivers and a very large number (2,860) of candidate later stage drivers that were enriched for genes that are mutated, deregulated or functioning in signaling pathways important for human HCC, with a striking 1,199 genes being linked to cellular metabolic processes. Our study provides a comprehensive overview of the genetic landscape of HCC.
+

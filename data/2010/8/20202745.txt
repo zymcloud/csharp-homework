@@ -1,0 +1,4 @@
+20202745
+2010 Aug 28
+LAPTM4B-35, encoded by Lysosomal protein transmembrane 4 beta (LAPTM4B) is over-expressed in more than 71% of hepatocellular carcinomas (HCCs) and associated with prognosis of the patients. But the exact role and molecular mechanism in HCC have not been determined. In this study, we explored the effects and mechanisms of LAPTM4B-35 on tumor growth and metastasis in vitro and in vivo by overexpression and depletion of LAPTM4B in HCC HepG2 and Bel7402 cells. These findings suggest that overexpression of LAPTM4B-35 plays a critical role in the growth and metastasis of HCC, and LAPTM4B-35 may therefore be a therapeutic target for HCC.
+

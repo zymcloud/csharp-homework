@@ -1,0 +1,4 @@
+31371324
+2019 Aug
+About one third of cases of hepatocellular carcinoma (HCC) show gain-of-function mutations of CTNNB1 (β-catenin) that correlate with sparse intratumoral T-cell content, as observed previously in an ample spectrum of malignancies, and there is mounting preliminary evidence that such HCC cases are refractory to treatment with PD-1 checkpoint inhibitors. Elegant hepatocarcinogenesis experiments by in vivo gene transfer to mouse hepatocytes show that coexpression of active forms of β-catenin result in poor T-cell infiltrates, faster progression in immunocompetent hosts, and unresponsiveness to immunotherapy with checkpoint inhibitors.See related article by Ruiz de Galarreta et al., p. 1124.
+

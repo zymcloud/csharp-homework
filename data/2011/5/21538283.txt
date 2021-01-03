@@ -1,0 +1,4 @@
+21538283
+2011 May
+Hepatocellular carcinoma (HCC) and cholangiocarcinoma (CC) are two leading causes of cancer death in the world. Liver carcinogenesis is driven by genetic alterations in combination with viral and environmental factors. β-catenin and P53 mutations represent the two main genetic alterations described in HCC, and P53 and KRAS mutations in CC, but rare genetic alterations could be particularly valuable if they constitute drug-able targets (such as PIK3CA or EGFR mutations). Recent progress using global genomic analysis has highlighted the marked genetic heterogeneity of this disease and this approach has also been used to assess prognosis or refine the diagnosis. The validation of sorafenib as the first targeted therapy useful in HCC has opened up new prospects for biotherapy in this cancer. In the future, mapping of genetic alterations will be essential to adapt treatment to HCC and CC biology.
+

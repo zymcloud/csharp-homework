@@ -1,0 +1,4 @@
+29100306
+2017 Jul 17
+Objective:This study aimed to explore the effects of overexpression of sirtuin 6 (SIRT6) on the tumorigenicity of hepatocellular carcinoma (HCC) cells.Methods:Stable SIRT6-overexpressed HCC cell lines were established by transfecting SIRT6 plasmid. Soft agar assay and tumor xenograft assay in nude mice were applied. Flow cytometry was employed to detect cell cycle distribution. Western blotting analysis was used to detect the expression of proteins.Results:Overexpression of SIRT6 attenuated HepG2 and HCCLM3 cells proliferation, colony formation in vitro and tumor formation in nude mice, and resulted in the G1 phase cell cycle arrest. Overexpression of SIRT6 reduced the expression of cyclin D1 and p-ERK proteins in both HepG2 and HCCLM3 cells.Conclusion:Overexpression of SIRT6 attenuates the tumorigenicity of HCC cells.
+HCC cell; SIRT6; cell cycle; tumorigenicity.

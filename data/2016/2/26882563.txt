@@ -1,0 +1,4 @@
+26882563
+2016 Feb 16
+Hepatocellular carcinoma (HCC) is a common and leading cause of death worldwide. Here, we identified that a cell-cell adhesion gene, CTNNA3, is a tumor suppressor in HCC. CTNNA3 inhibited the proliferation, migration and invasion of HCC cell lines. In these cells, CTNNA3 inhibited Akt signal, and in turn decreased the proliferating cell nuclear antigen (PCNA) and the matrix metallopeptidase MMP-9, and increased the cell cycle inhibitor p21(Cip1/Waf1). Meanwhile, CTNNA3 is inhibited by miR-425 in HCC. The miR-425 directly bound to the 3'UTR of CTNNA3 and inhibited its expression. The tumor suppressor function of CTNNA3 and the oncogenic function of miR-425 were further confirmed in HCC cell xenograft in nude mice. The miR-425/CTNNA3 axis may provide insights into the mechanisms underlying HCC, and contribute to potential therapeutic strategy of HCC.
+CTNNA3; HCC; invasion; miR-425; proliferation.

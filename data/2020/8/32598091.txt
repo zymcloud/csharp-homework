@@ -1,0 +1,4 @@
+32598091
+2020 Aug
+Background:Although sex disparities in hepatocellular carcinoma (HCC) incidence have been well described, there are limited data examining sex disparities in HCC prognosis.Aim:To characterise sex differences in HCC presentation and prognosis.Methods:We performed a retrospective study of consecutive patients (n = 1110, 23.5% women) diagnosed with HCC between 2008 and 2017 at two US health systems. We used Cox proportional hazard and multivariable logistic regression models to identify factors associated with overall survival, early tumour detection and response to HCC treatment (per the modified Response Evaluation Criteria in Solid Tumors [mRECIST] criteria).Results:Women were older at HCC diagnosis (mean 62.5 vs 59.2 years, P Conclusion:In a large cohort of patients with HCC, women had significantly better prognosis than men.
+

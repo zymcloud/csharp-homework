@@ -1,0 +1,4 @@
+24710610
+2014 Jun
+The p53 protein is a key cell-signaling mediator integrating host responses to various types of stress. A common polymorphism of the encoding TP53 gene (codon 72, Pro > Arg, rs1042522) is associated with susceptibility to virus-related and other cancers. The p53 has also been shown to be central for successful Plasmodium liver stage infection. We examined whether the polymorphism is associated with P. falciparum infection in Ghanaian primiparae and Rwandan children. The allele frequency of TP53 codon 72 Arg was 0.30 among 314 Ghanaian primiparae and 0.31 among 545 Rwandan children, respectively, and it was not associated with infection prevalence or parasite density. This does not exclude p53 to be of pathophysiological relevance in malaria but argues against a major respective role of the TP53 codon 72 polymorphism.
+

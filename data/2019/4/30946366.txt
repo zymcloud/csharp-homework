@@ -1,0 +1,4 @@
+30946366
+2019 Apr
+The aim of this study was to evaluate the effects of polymorphisms in excision repair cross-complementation group 1 (ERCC1) and alpha-fetoprotein (AFP) genes and their haplotypes on the susceptibility to hepatocellular carcinoma (HCC), and to decipher the association between single-nucleotide polymorphisms (SNPs) and clinicopathologic characteristics of HCC.Peripheral blood DNA was extracted from 206 subjects. SNaPshot technique was used for genotyping 5 SNP sites of the ERCC1 rs735482, rs1046282, rs3212948, and AFP rs737241, rs4024 genotypes. Chi-squared test and logistic regression model were used to analyze the relationship of different genotypes or haplotype and the susceptibility and clinicopathologic characteristics of HCC.The frequency of GG.GA and AA genotypes at the AFP rs737241 site in the case and control groups showed statistically significant differences (P
+

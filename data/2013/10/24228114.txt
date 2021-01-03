@@ -1,0 +1,4 @@
+24228114
+2013 Oct 15
+Inositol polyphosphate phosphatase-like 1 (INPPL1), also known as SH2-containing inositol 5'-phosphatase 2 (SHIP2), has been suggested to act downstream of the PI3K/AKT pathway and play an important function in tumor development and progression. However, the associations between SHIP2 expression and the clinical features to determine its clinicopathologic significance in hepatocellular carcinoma (HCC) have not been investigated. In the present study, one-step quantitative PCR reverse transcription-polymerase chain reaction (qPCR) and immunohistochemistry (IHC) analysis with HCC tissue microarrays (TMA) were employed to evaluate the expression of SHIP2 in HCC. The results showed that SHIP2 expression in the mRNA and protein levels was significantly higher in HCC tissue than in corresponding non-cancerous tissue (p = 0.0014 and p
+HCC; INPPL1; SHIP2; TMA; immunohistochemistry; qPCR.

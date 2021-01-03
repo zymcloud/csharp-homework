@@ -1,0 +1,4 @@
+32069812
+2020 Feb 13
+PBX3 is a homeodomain-containing transcription factor of the pre-B cell leukemia (PBX) family, members of which have extensive roles in early development and some adult processes. A number of features distinguish PBX3 from other PBX proteins, including the ability to form specific and stable interactions with DNA in the absence of cofactors. PBX3 has frequently been reported as having a role in the development and maintenance of a malignant phenotype, and high levels of PBX3 tumor expression have been linked to shorter overall survival in cancer. In this review we consider the similarities and differences in the function of PBX3 in different cancer types and draw together the core signaling pathways involved to help provide a better insight into its potential as a therapeutic target.
+HOX; PBX; PBX3; acute myeloid leukemia; colorectal cancer; gastric cancer; liver cancer; microRNA.

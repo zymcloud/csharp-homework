@@ -1,0 +1,4 @@
+23385571
+2013
+Chinese tree shrews (Tupaia belangeri chinensis) possess many features valuable in animals used as experimental models in biomedical research. Currently, there are numerous attempts to employ tree shrews as models for a variety of human disorders: depression, myopia, hepatitis B and C virus infections, and hepatocellular carcinoma, to name a few. Here we present a publicly available annotated genome sequence for the Chinese tree shrew. Phylogenomic analysis of the tree shrew and other mammalians highly support its close affinity to primates. By characterizing key factors and signalling pathways in nervous and immune systems, we demonstrate that tree shrews possess both shared common and unique features, and provide a genetic basis for the use of this animal as a potential model for biomedical research.
+

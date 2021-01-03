@@ -1,0 +1,4 @@
+32123493
+2020 Feb 17
+Hepatocellular carcinoma (HCC) is the third main cause of cancer-related death. Cyclin-dependent kinases (CDKs) and their cyclin partners regulate the cell cycle. Since inhibition of CDKs gives some guiding ideas for cancer studies, we aimed to determine the possible effects of R547, a cyclin kinase 1-2-4 inhibitor, on proliferation and apoptotic mechanisms of Hep G2 cells (human) and H-4-II-E cells derived from rat HCC. We determined in vitro survival rates with MTT assay, apoptosis with flow cytometry, morphological changes with confocal microscopy, and ultrastructural changes by transmission electron microscopy. Cisplatin was used as a positive control. After 24 h of culture with 0.1, 1, 10, 50, and 100 µM doses of R547, the corresponding percentages of live Hep G2 cells were 101%, 94%, 93%, 89%, and 79% (P
+H-4-II-E; Hep G2; apoptosis; flow cytometry; hepatocellular carcinoma; microscopy; R547.

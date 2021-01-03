@@ -1,0 +1,4 @@
+27153838
+2016 Dec
+Robotic technology is being utilized in multiple hepatobiliary procedures, including hepatic resections. The benefits of minimally invasive surgical approaches have been well documented; however, there is some concern that robotic liver surgery may be prohibitively costly and therefore should be limited on this basis. A single-institution, retrospective cohort study was performed of robotic and open liver resections performed for benign and malignant pathologies. Clinical and cost outcomes were analyzed using adjusted generalized linear regression models. Clinical and cost data for 71 robotic (RH) and 88 open (OH) hepatectomies were analyzed. Operative time was significantly longer in the RH group (303 vs. 253 min; p = 0.004). Length of stay was more than 2 days shorter in the RH group (4.2 vs. 6.5 days; p
+Hepatectomy; Robotic surgery; Surgical costs.

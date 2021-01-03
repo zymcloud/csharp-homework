@@ -1,0 +1,4 @@
+22999348
+2012 Dec 21
+Fatty acids are abundant constituents of all biological systems, and their metabolism is important for normal function at all levels of an organism. Aberrations in fatty acid metabolism are associated with pathological states and have become a focus of current research, particularly due to the interest in metabolic overload diseases. Here we present a click-chemistry-based method that allows tracing of fatty acid metabolism in virtually any biological system. It combines high sensitivity with excellent linearity and fast sample turnover. Since it is free of radioactivity, it can be combined with any other modern analysis technology and can be used in high-throughput applications. Using the new method, we provide for the first time an analysis of cellular fatty metabolism with high time resolution and a comprehensive comparison of utilization of a broad spectrum of fatty acids in hepatoma and adipose cell lines.
+

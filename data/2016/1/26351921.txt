@@ -1,0 +1,4 @@
+26351921
+2016 Jan
+The antiepileptic drug phenobarbital (PB) exerts hepatic effects related to cell proliferation and tumorigenesis which are closely linked to the Wnt/β-catenin signaling pathway. This pathway is, amongst others, regulated by calpain proteases. We now identified PB as an inhibitor of Wnt/β-catenin signaling in mouse hepatoma cells. Further analyses revealed that PB inhibits calpain activity, an effect which is at least in parts mediated by a transcriptional regulation of calpain mRNA levels and which is furthermore independent of the constitutive androstane receptor, the known mediator of most effects of PB in liver cells.
+

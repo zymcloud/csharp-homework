@@ -1,0 +1,4 @@
+30123345
+2018 Jul 16
+The value of preoperative transcatheter arterial chemoembolization (TACE) for patients with recurrent hepatocellular carcinoma (rHCC) after liver resection is uncertain. We aimed to determine its effect on postoperative complication and survival. There were 33 patients who received preoperative TACE and repeated liver resection (TACE-LR) and 119 patients who received repeated liver resection (LR) alone for rHCC. Seventy-eight patients (TACE-LR, 28; LR, 50) were identified by propensity score matching (PSM) analysis for comparison of postoperative complication, disease-free survival (DFS) and overall survival (OS). Univariable and multivariable analyses were used to identify predictors for survival. Before matching, the TACE-LR group had more intraoperative blood loss than the LR group (P
+Hepatocellular carcinoma; Liver resection; Recurrence; Transcatheter Arterial Chemoembolization..

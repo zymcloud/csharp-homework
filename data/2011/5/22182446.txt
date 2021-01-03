@@ -1,0 +1,4 @@
+22182446
+2012 May 28
+Defects in natural killer (NK) cell function are necessary for tumor immune escape, but the underlying regulatory mechanisms in human cancers remain largely unknown. Here we show that fibroblasts derived from hepatocellular carcinoma (HCC) were significantly superior to foreskin-derived fibroblasts at inducing NK cell dysfunction, which is characterized by low expression of cytotoxic molecules and surface markers for cell activation, impaired production of cytokines, and decreased cytotoxicity against K562 cells in vitro. Our results also indicate that PGE2 and IDO, derived from activated fibroblasts, suppress the activation of NK cells and thereby create favorable conditions for tumor progression.
+

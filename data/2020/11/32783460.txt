@@ -1,0 +1,4 @@
+32783460
+2020 Nov
+Aim: To evaluate sorafenib treatment in Latin American patients with unresectable hepatocellular carcinoma in the real-world GIDEON study. Patients & methods: Sorafenib administration, safety and efficacy were analyzed by Child-Pugh status. Results: Of 90 evaluable patients (37% Child-Pugh A, 46% Child-Pugh B and 3% Child-Pugh C at study entry), 97% started sorafenib at 800 mg/day. Patients with Child-Pugh B7 had the longest median treatment duration of sorafenib (33.1 weeks). Sorafenib-related adverse events occurred in 58% of patients with Child-Pugh A (21% grade 3/4) and 46% with Child-Pugh B (7% grade 3/4). Conclusion: Sorafenib had a similar safety profile across patients with Child-Pugh A and B and is a treatment option for both groups.
+Child–Pugh; GIDEON; HCC; Latin America; hepatocellular carcinoma; real-world; sorafenib; unresectable.

@@ -1,0 +1,4 @@
+32296834
+2020 Apr 20
+Vasculogenic mimicry (VM), a newly defined pattern of tumor blood supply, has been identified in several malignant tumors, including hepatocellular carcinoma (HCC). Rho kinase (ROCK) plays an important role in various types of cancers. However, whether ROCK participates in transforming growth factor-β1 (TGF-β1)-induced VM formation is unclear. Here, we evaluated the role of ROCK in TGF-β1-induced VM formation in HCC. Our findings showed that the TGF-β1/ROCK signaling pathway is involved in VM formation by inducing the epithelial-mesenchymal transition. Furthermore, TGF-β1 and ROCK were found to play distinct roles in the cancer stem cell phenotype during VM formation. These results provide insights into potential antitumor therapies for inhibiting VM by targeting the TGF-β1/ROCK signaling pathway in HCC.
+Rho kinase; cancer stem cell; epithelial–mesenchymal transition; transforming growth factor-β1; vasculogenic mimicry.

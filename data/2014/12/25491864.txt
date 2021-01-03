@@ -1,0 +1,4 @@
+25491864
+2014 Dec
+To develop an efficient probe for targeted magnetic resonance (MR) imaging of liver carcinoma, the surface modification of superparamagnetic iron oxide nanoparticles (SPIONs) was carried out by conjugating a naturally-occurring glycosaminoglycan with specific biological recognition to human hepatocellular liver carcinoma (HepG2) cells. These modified SPIOs have good water dispersibility, superparamagnetic property, cytocompatibility and high magnetic relaxivity for MR imaging. When incubated with HepG2 cells, they demonstrated significant cellular uptake and specific accumulation, as confirmed by Prussian blue staining and confocal microscopy. The in vitro MR imaging of HepG2 cells and in vivo MR imaging of HepG2 tumors confirmed their effectiveness for targeted MR imaging of liver carcinoma.
+Bioactive glycosaminoglycan; Cellular uptake; Iron oxide nanoparticles; Liver carcinoma; Magnetic resonance imaging; Surface functionalization.

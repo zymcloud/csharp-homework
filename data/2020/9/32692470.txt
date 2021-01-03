@@ -1,0 +1,4 @@
+32692470
+2020 Sep
+A microarray-based high-throughput screening of human circulating circular RNA (circRNA) was applied with five patients newly diagnosed with hepatocellular carcinoma (HCC), five patients with HBV-positive chronic hepatitis (CH) and five healthy controls (NC) enrolled. The plasma of HCC patients after hepatectomy was also collected. After multiple staged validation, we obtained five circRNAs as candidate. Based on the stratified risk score analysis, three increased circRNAs including circ_0009582, circ_0037120 and circ_0140117 were confirmed as candidate circulating fingerprints for distinguishing HCC from CH or NC group. With the combination of AFP, higher sensitivity and specificity were further guaranteed, suggesting that circ_0009582, circ_0037120 and circ_0140117 may serve as potential biomarkers for predicting the occurrence of HCC in patients with HBV infection.
+AFP; biomarker; chronic hepatitis; circRNA; extracellular.

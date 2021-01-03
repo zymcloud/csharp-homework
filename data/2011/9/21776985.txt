@@ -1,0 +1,4 @@
+21776985
+2011 Sep 8
+The purpose of this study was to prepare various 4-substituted N-phenyl-1,2,3-triazole derivatives using click chemistry. The derivatives were screened in vitro for antimicrobial activity against Mycobacterium tuberculosis strain H37Rv (ATCC 27294) using the Alamar Blue susceptibility test. The activity was expressed as the minimum inhibitory concentration (MIC) in μg/mL (μM). Derivatives of isoniazid (INH), (E)-N'-[(1-aryl)-1H-1,2,3-triazole-4-yl)methylene] isonicotinoyl hydrazides, exhibited significant activity with MIC values ranging from 2.5 to 0.62 μg/mL. In addition, they displayed low cytotoxicity against liver cells (hepatoma HepG2) and kidney cells (BGM), thereby providing a high therapeutic index. The results demonstrated the potential and importance of developing new INH derivatives to treat mycobacterial infections.
+

@@ -1,0 +1,4 @@
+29068145
+2018 May
+Researchers in a recent multicenter study developed and validated a novel prognostic index, Risk Estimation of Tumor Recurrence After Transplant (RETREAT), which incorporates α-fetoprotein (AFP) at liver transplantation (LT), microvascular invasion, and the sum of the largest viable tumor and number of tumors on explant. We now aim to evaluate RETREAT in the United Network for Organ Sharing (UNOS) database in patients with hepatocellular carcinoma (HCC) who meet Milan criteria by imaging and underwent LT between 2012 and -2014. On explantation (n = 3276), 13% had microvascular invasion, 30% had no viable tumor, and 15% exceeded Milan criteria. Post-LT survival at 3 years decreased with increasing RETREAT score: 91% for a score of 0, 80% for a score of 3, and 58% for a score ≥5 (P
+Organ Procurement and Transplantation Network (OPTN); United Network for Organ Sharing (UNOS); classification systems

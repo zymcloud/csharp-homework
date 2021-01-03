@@ -1,0 +1,4 @@
+21334806
+2011 Apr 28
+The 14-3-3ζ protein plays a key role in regulation of cellular processes. In the present study, we showed that 14-3-3ζ protein was significantly overexpressed in hepatoma cell lines and human tumorous tissues of hepatocellular carcinoma (HCC) patients. Knockdown with RNA interference in hepatoma cell lines with high 14-3-3ζ expression suppressed tumor cell proliferation via activation of c-Jun N-terminal kinase (JNK) and p38/MAPK. Furthermore, suppression of 14-3-3ζ enhanced the anti-cancer effect of cis-diammined dichloridoplatium (CDDP) in hepatoma cell lines. These results suggest that silencing of 14-3-3ζ may be an attractive target for HCC therapeutic development.
+

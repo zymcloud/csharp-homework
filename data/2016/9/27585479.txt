@@ -1,0 +1,4 @@
+27585479
+2016 Sep 2
+A series of novel peptidomimetics bearing dehydroepiandrosterone moiety were designed, synthesized, and evaluated for their inhibition activities against cell proliferation. According to the preliminary studies on inhibitory activities, some of the newly prepared compounds indicated significantly inhibition activities against human hepatoma cancer (HepG2), human lung cancer (A549), human melanoma (A875) cell lines compared with the control 5-fluorouracil. Especially, compounds Ii (IC50 < 14 μM) and Ik (IC50 < 13 μM) exhibited obvious inhibition activities against all tested cell lines. The highly potential compound Ik induced apoptosis in HepG2 cells were analyzed by flow cytometry, and the apoptotic effects of compound Ik were further evaluated using Annexin V-FITC/propidium iodide dual staining assay, which revealed these highly potential compounds induced cell death in HepG2 cells at least partly by apoptosis.
+

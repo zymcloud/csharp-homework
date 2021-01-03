@@ -1,0 +1,4 @@
+31527889
+2019 Sep 17
+Background:PNPLA3 rs738409 minor allele c.444G represents a risk factor for liver steatosis and fibrosis progression also in chronic hepatitis C (HCV). We investigated its impact on the timing of liver transplantation (LT) in patients with genotype 1b HCV cirrhosis.Methods:We genotyped and evaluated 172 LT candidates with liver cirrhosis owing to chronic HCV infection, genotype 1b. One hundred patients needed LT for chronic liver failure (CLF) and 72 for a small hepatocellular carcinoma (HCC) in the cirrhotic liver without CLF. Population controls (n = 647) were selected from the Czech cross-sectional study MONICA.Results:The CLF patients were younger (53.5 ± 7.2 vs. 59.6 ± 6.6, P Conclusions:Our results suggest that PNPLA3 rs738409 G allele carriage may be associated with a faster progression of HCV cirrhosis to chronic liver failure.
+

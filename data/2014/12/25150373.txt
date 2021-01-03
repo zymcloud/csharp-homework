@@ -1,0 +1,4 @@
+25150373
+2014 Dec
+Purpose:The aim was to investigate the expression level of miR-21 in HCC tissues and its prognostic value among Asian population.Methods:In the present study, expression of miR-21 was evaluated by qRT- PCR in tumor and adjacent non-neoplastic tissues in 119 HCC patients. The association of miR-21 expression with clinicopathological factors and the prognosis of HCC patients was also analyzed. Survival analysis was performed using the Kaplan-Meier method and Cox's proportional hazards model.Results:We found that miR-21 expression was significantly higher in HCC tissues compared with normal adjacent liver tissues (PConclusions:The results of the present study suggested miR-21 expression level could be a novel potential biomarker for HCC prognosis.
+

@@ -1,0 +1,4 @@
+25081333
+2014 Nov
+ErbB3 binding protein 1 (EBP1) has been recently reported to function as a tumor suppressor in the progression of multiple cancers, including breast cancer, prostate cancer, salivary adenoid cystic carcinoma (ACC), and oral squamous cell carcinoma (OSCC). However, the expression and physiological significance of EBP1 in hepatocellular carcinoma (HCC) remain unclear. In the study, we showed that EBP1 was significantly downregulated in clinical HCC specimens, and that decreased expression of EBP1 was associated with enhanced proliferation in HCC cells. Western blot and immunohistochemical analyses revealed that EBP1 was remarkably downregulated in HCC tissues compared with the adjacent normal ones. The levels of EBP1 were significantly associated with histological grade (P = 0.034), tumor size (P = 0.001), and Ki67 expression (P
+

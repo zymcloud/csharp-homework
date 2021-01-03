@@ -1,0 +1,4 @@
+30562861
+2017 Feb
+We identified glypican-3 (GPC3) as a carcinoembryonic antigen would be an ideal target for hepatocellular carcinoma (HCC) immunotherapy. We identified HLA-A24- and A2-restricted GPC3-derived peptides that can induce GPC3-reactive CTLs but not autoimmunity. In a phase I using this peptide vaccine in patients with advanced HCC, we collected evidence of immune responses, antitumor effects, and the safety. We could detect peptide-specific CTLs in the peripheral blood of most patients, and established a lot of peptide-specific CTL clones from PBMCs and tumor of patients vaccinated. In a phase II as an adjuvant therapy for HCC patients, it improved the 1-y recurrence rate in patients with GPC3-positive tumors. GPC3 is overexpressed in ovarian clear cell carcinoma, hepatoblastoma, and so on. GPC3 peptide vac- cine or GPC3 peptide specific TCR-T cell therapy has hope for treatment or prevention of these GPC3-positive cancers.
+

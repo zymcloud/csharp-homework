@@ -1,0 +1,4 @@
+24090099
+2013 Oct 18
+The first Pd(II)-catalyzed C-H addition to isatins by direct sp(2)/sp(3) C-H bond activation for the construction of 3-substituted-3-hydroxy-2-oxindoles is reported. The bidentate nitrogen ligands were found to promote this reaction. Specifically, the preliminary bioassay indicated that 3-(5-chlorobenzoxazole)-3-hydroxy-N-benzyl-2-oxindole (2w) is a new inhibitor of human kidney cancer and hepatocellular carcinoma cells. Moreover, this reaction system exhibits great functional group tolerance and requires no directing group, extra base, or additives.
+

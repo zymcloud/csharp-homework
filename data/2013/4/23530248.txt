@@ -1,0 +1,4 @@
+23530248
+2013 Apr 9
+Malignant cells, like all actively growing cells, must maintain their telomeres, but genetic mechanisms responsible for telomere maintenance in tumors have only recently been discovered. In particular, mutations of the telomere binding proteins alpha thalassemia/mental retardation syndrome X-linked (ATRX) or death-domain associated protein (DAXX) have been shown to underlie a telomere maintenance mechanism not involving telomerase (alternative lengthening of telomeres), and point mutations in the promoter of the telomerase reverse transcriptase (TERT) gene increase telomerase expression and have been shown to occur in melanomas and a small number of other tumors. To further define the tumor types in which this latter mechanism plays a role, we surveyed 1,230 tumors of 60 different types. We found that tumors could be divided into types with low (
+

@@ -1,0 +1,4 @@
+25482402
+2015 Feb
+miR-200a suppresses tumor development and progression; however, its role in tumor growth and metastasis of hepatocellular carcinoma (HCC) and the underlying mechanism have not been elucidated. In the present study, we identified that miR-200a was markedly downregulated in HCC and exerted suppressive effects on tumor cell growth and metastasis. We identified that miR-200a suppressed tumor growth and metastasis by directly targeting MACC1. In addition, HCC patients with low miR-200a expression had significantly worse prognosis than those with high expression of miR-200a. These findings suggest that miR-200a may be recognized as a novel potential biomarker to predict the survival of patients with HCCs following liver transplantation.
+

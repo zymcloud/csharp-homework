@@ -1,0 +1,4 @@
+24697743
+2014
+Further chemical investigation on the marine sponge Callyspongia sp. collected from South China Sea led to the isolation of a new diketopiperazine, named callysponine A (1), as well as four known diketopiperazines, namely cyclo-(Gly-Pro) (2), cyclo-(Thr-Pro) (3), cyclo-(Ile-Pro) (4) and cyclo-(Pro-Pro) (5). The new structure was determined on the basis of NMR and MS analysis, and the absolute stereochemistry was defined by analysis of the coupling constants and optical rotation. The structures of the known compounds were identified by comparing their spectroscopic data with those reported in the literature. Compounds 1-5 did not inhibit the growth of HepG2 (hepatoma carcinoma cell), A549 (lung carcinoma cell) and HeLa (cervical cancer cell) cell lines.
+Callyspongia sp.; callysponine A; diketopiperazine.

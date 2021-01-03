@@ -1,0 +1,4 @@
+25746010
+2015 Mar 9
+The hepatitis C virus (HCV) is one of the leading causes of chronic hepatitis, liver cirrhosis and hepatocellular carcinomas and infects approximately 170 million people worldwide. Although several reporter systems have been developed, many shortcomings limit their use in the assessment of HCV infections. Here, we report a real-time live-cell reporter, termed the NIrD (NS3-4A Inducible rtTA-mediated Dual-reporter) system, which provides an on-off switch specifically in response to an HCV infection. Using the NIrD system and a focused CRISPR/Cas9 library, we identified CLDN1, OCLN and CD81 as essential genes for both the cell-free entry and the cell-to-cell transmission of HCV. The combination of this ultra-sensitive reporter system and the CRISPR knockout screening provides a powerful and high-throughput strategy for the identification of critical host components for HCV infections.
+

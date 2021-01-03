@@ -1,0 +1,4 @@
+33155364
+2020 Nov 6.</span
+Hepatocellular carcinoma (HCC) is one of the most common malignancies worldwide. Here, we identified that increased miR-23a expression in HCC tissues was associated with worse survival. More importantly, we found that STAT5A was a target of miR-23a, whose levels significantly decreased in tumor tissues. Stable expression of STAT5A in Huh7 cells suppressed glucose metabolism and tumor growth. Finally, this study showed that increased miR-23a negatively regulated STAT5A, which further activated AKT signaling to enable rapid metabolism for accelerated tumor growth in HCC. Taken together, our results demonstrated that the miR-23a-STAT5A-AKT signaling pathway is critical to alter glucose metabolism in HCC and may offer new opportunities for effective therapy.
+AKT; STAT5A; glucose metabolism; hepatocellular carcinoma; miR-23a; tumor growth.

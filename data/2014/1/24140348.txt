@@ -1,0 +1,4 @@
+24140348
+2014 Jan 21
+Glypican-3 (GPC3) is an emerging therapeutic target in hepatocellular carcinoma (HCC), even though the biological function of GPC3 remains elusive. Currently human (MDX-1414 and HN3) and humanized mouse (GC33 and YP7) antibodies that target GPC3 for HCC treatment are under different stages of preclinical or clinical development. Humanized mouse antibody GC33 is being evaluated in a phase II clinical trial. Human antibodies MDX-1414 and HN3 are under different stages of preclinical evaluation. Here, we summarize current evidence for GPC3 as a new target in liver cancer, discuss both its oncogenic function and its mode of actions for current antibodies, and evaluate potential challenges for GPC3-targeted anti-cancer therapies.
+GC33; Glypican-3 (GPC3); HN3; Heparan sulfate proteoglycan; Hepatocellular carcinoma; YP7.

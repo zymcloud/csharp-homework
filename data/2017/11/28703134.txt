@@ -1,0 +1,4 @@
+28703134
+2017 Nov
+Vitamin D deficiency is prevalent in liver disease and vitamin D has been shown to decrease hepatic fibrosis through an anti-TGFβ-1/SMAD3 effect mediated by the vitamin D receptor. Thus, we hypothesized that genetic variants involved in vitamin D metabolism and/or VDR/TGFβ-1/SMAD3 interaction could impact on the progression of chronic HCV. We obtained or imputed genotypes for 40 single nucleotide polymorphisms (SNPs) located in genes implicated in vitamin D metabolism from the HALT-C cohort via dbGaP. The HALT-C study followed 692 chronic HCV patients over 4 years, evaluating clinical outcomes including worsening of fibrosis, hepatic decompensation (gastric/esophageal bleeding, CTP>7, ascites, spontaneous bacterial peritonitis and encephalopathy), development of hepatocellular carcinoma, and liver death. We tested the selected SNPs for association with these outcomes in 681 HALT-C subjects. Eleven SNPs presented tendency towards significance (P
+

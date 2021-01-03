@@ -1,0 +1,4 @@
+24608572
+2014 May
+Chemoresistance is one of the major obstacles in systemic chemotherapy and targeted therapy for patients with advanced hepatocellular carcinoma. To identify novel chemoresistance-associated targets in hepatocellular carcinoma, chemoresistant hepatocellular carcinoma cell lines were established. By comparing the global gene expression profiles between chemoresistant and chemosensitive cell lines, eight novel chemoresistance-associated genes were identified to be significantly associated with the commonly augmented chemoresistance of hepatocellular carcinoma cells. One upregulated candidate named transmembrane protein 98 (TMEM98) was found to be overexpressed in 80 of 118 (67.80%) of patients with hepatocellular carcinoma. TMEM98 mRNA in tumor tissues was significantly higher than nontumor tissues of patients with hepatocellular carcinoma (P
+

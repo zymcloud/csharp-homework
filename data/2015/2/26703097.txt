@@ -1,0 +1,4 @@
+26703097
+2016 Feb
+Lipotoxicity drives the development of progressive hepatic inflammation and fibrosis in a subgroup of patients with nonalcoholic fatty liver disease (NAFLD), causing nonalcoholic steatohepatitis (NASH) and even progression to cirrhosis and hepatocellular carcinoma (HCC). While the underlying molecular mechanisms responsible for the development of inflammation and fibrosis that characterize progressive NASH remain unclear, emerging evidence now suggests that hepatic free cholesterol (FC) is a major lipotoxic molecule critical in the development of experimental and human NASH. In this review, we examine the effects of excess FC in hepatocytes, Kupffer cells (KCs), and hepatic stellate cells (HSCs), and the subcellular mechanisms by which excess FC can induce cellular toxicity or proinflammatory and profibrotic effects in these cells.
+NAFLD; NASH; cholesterol crystals; fibrosis; inflammation.

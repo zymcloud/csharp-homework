@@ -1,0 +1,4 @@
+25453810
+2014 Dec 15
+This Letter describes the discovery of a number of functionalized bisimidazoles bearing a cyclohexylphenyl, piperidylphenyl, or bicyclo[2,2,2]octylphenyl motif as HCV NS5A inhibitors. Compounds 2c, 4b and 6 have demonstrated low single-digit nM potency in gt-1a replicon and double-digit pM potency in gt-1b replicon, respectively. Moreover, both 4b and 6 have, respectively, exhibited good oral bioavailability in rats with a favorable liver/plasma ratio of the drug concentration.
+Bisimidazole; HCV; NS5A inhibitor.

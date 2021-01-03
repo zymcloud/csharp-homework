@@ -1,0 +1,4 @@
+27793566
+2016 Dec 1
+Based on our previous identification of a disubstituted aminothiazole termed HBF-0079 with promising selective toxicity for HCC-derived cell lines versus non-HCC liver lines, a series of tri-substituted aminothiazole derivatives were prepared and evaluated. This work resulted in the discovery of isopropyl 4-(pyrazin-2-yl)-2-(pyrimidin-2-ylamino)thiazole-5-carboxylate, 14, which displayed EC50 value of 0.11μM and more than 450times of selectivity, and its methyl carbonate prodrug 24 with improved solubility in organic solvents. Furthermore, 14, was shown to reduce the proliferation of several liver cancer cells derived directly from patients.
+Hepatocellular carcinoma (HCC); Prodrug; Substituted aminothiazole.

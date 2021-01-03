@@ -1,0 +1,4 @@
+20807803
+2010 Oct 15
+Autophagy is a protective mechanism that renders cells viable in stressful conditions. Emerging evidence suggests that this cellular process is also a tumor suppressor pathway. Previous studies showed that cyclin-dependent kinase inhibitors (CDKI) induce autophagy. Whether retinoblastoma protein (RB), a key tumor suppressor and downstream target of CDKIs, induces autophagy is not clear. Here, we show that RB triggers autophagy and that the RB activators p16INK4a and p27/kip1 induce autophagy in an RB-dependent manner. RB binding to E2 transcription factor (E2F) is required for autophagy induction and E2F1 antagonizes RB-induced autophagy, leading to apoptosis. Downregulation of E2F1 in cells results in high levels of autophagy. Our findings indicate that RB induces autophagy by repressing E2F1 activity. We speculate that this newly discovered aspect of RB function is relevant to cancer development and therapy.
+

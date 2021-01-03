@@ -1,0 +1,4 @@
+19896459
+2010 Jan 1
+Liver-derived progenitor cells (LDPCs) are recently identified novel stem/progenitor cells from healthy, unmanipulated adult rat livers. They are distinct from other known liver stem/progenitor cells such as the oval cells. In this study, we have generated a LDPC cell line RA1 by overexpressing the simian virus 40 (SV40) large T antigen (TAg) in primary LDPCs. This cell line was propagated continuously for 55 passages in culture, after which it became senescent. Interestingly, following transformation with SV40 TAg, LDPCs decreased in size significantly and the propagating cells measured 1 microm in diameter. RA1 cells proliferated in vitro with a doubling time of 5-7 days, and expressed cell surface markers of LDPCs. In this report, we describe the characterization of this novel progenitor cell line that might serve as a valuable model to study liver cell functions and stem cell origin of liver cancers.
+

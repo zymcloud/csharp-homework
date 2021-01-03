@@ -1,0 +1,4 @@
+21671804
+2011 Aug
+Objective:The goal of this study is to investigate the effects of sorafenib on tumor growth, recurrence and metastasis after curative resection of liver cancer.Research methods:SMMC-7721 and HCCLM3 liver tumors, each with different metastatic potential and basal phosphorylated extracellular signal-regulated kinase (pERK) levels, were orthotopically implanted into 56 nude mice. Mice were divided into a treatment sub study and a prevention sub study.Results:In the treatment sub study, tumor volumes in the high pERK-expressing HCCLM3 model were 2.58 ? 0.83 and 0.38 ? 0.09 cm(3) without and with sorafenib, respectively (p Conclusions:Sorafenib inhibits tumor growth and prevents metastatic recurrence after resection of hepatocellular carcinoma in nude mice. The effect of sorafenib does not exclusively depend on high levels of pERK in tumors.
+

@@ -1,0 +1,4 @@
+20036802
+2010 Jan 1
+The Hepatitis B virus (HBV) can induces severe liver diseases as chronic hepatitis and hepatocellular carcinoma. Actually, apoptosis can play an important role in the progress of these diseases. As apoptosis goes through various extrinsic or intrinsic pathways, with activation of caspases and the possible involvement of mitochondria, HBV proteins can interfere with the various apoptosis processes. So far, four HBV proteins were reported to have such effect: the Large envelope protein, a truncated form of the Middle envelope protein, the HBx protein and HBSP, a protein generated from a spliced mRNA. In addition, our recent results suggest that indirectly the precore protein could have a function in apoptosis. This review focuses on the putative roles of HBV proteins as pro- or anti-apoptotic factors and the relationship which could exist with the HBV life cycle.
+

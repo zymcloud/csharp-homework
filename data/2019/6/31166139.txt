@@ -1,0 +1,4 @@
+31166139
+2019 Jun
+Hepatitis C virus (HCV) is not easily cleared from the human body and in most cases turned into chronic infection. This chronicity is a major cause of liver damage, cirrhosis and hepatocellular carcinoma. Therefore, immediate detection and treatment of HCV guarantees eradication of the virus and prevention of chronicity complications. Since discovery of HCV in 1989, several emerging treatments were developed such as polyethylene glycol(PEG)-ylated interferon/ribavirin, direct acting antivirals and host targeting antivirals. Despite the progress in anti-HCV therapy, there is still a pressing need of new approaches for affordable and effective drug delivery systems using nanomedicine. In this review, the contribution of nanoparticles as a promising delivery system for HCV immunizing, diagnostic and therapeutic agents are discussed.
+anti-HCV; anti-hepatitis C virus; antiviral drugs; hepatitis C virus; nanomedicine; nanoparticles.

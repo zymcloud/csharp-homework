@@ -1,0 +1,4 @@
+21703232
+2011 Jul 15
+Members of the Spred gene family are negative regulators of the Ras/Raf-1/ERK pathway, which has been associated with several features of the tumor malignancy. However, the effect of Spred genes on hepatocellular carcinoma (HCC) remains uninvestigated. In the present work, we analyzed the in vitro and in vivo effects of Spred2 expression on the hepatic carcinoma cell line, SMMC-7721. In addition to attenuated ERK activation, which inhibited the proliferation and migration of unstimulated and HGF-stimulated SMMC-7721 cells. Adenovirus-mediated Spred2 overexpression induced the activation of caspase-3 and apoptosis, as well as reduced the expression level of Mcl-1. Most importantly, the knockdown of Spred2 markedly enhanced tumor growth in vivo. In conclusion, these results suggest that Spred2 could qualify as a potential therapeutic target in HCC.
+

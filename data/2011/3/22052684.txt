@@ -1,0 +1,4 @@
+22052684
+2012 Mar 15
+Background:Hepatocellular carcinoma (HCC) is a major health problem, and identification of new tumor-related genes is an urgent task.Methods:To detect tumor-related genes effectively, we performed double-combination array analysis, which consisted of an expression array and a single nucleotide polymorphism (SNP) array of a single surgical HCC specimen.Results:Expression array analysis identified AKAP12 as one of the genes with reduced expression in HCC tissues when compared with non-cancerous adjacent hepatic tissues. In addition, AKAP12 expression levels in tumor tissues from 48 HCC samples were significantly lower (P Conclusions:The current data suggest that AKAP12 is downregulated in cancer tissues through promoter hypermethylation, and may have a role as a candidate tumor suppressor gene for HCC.
+

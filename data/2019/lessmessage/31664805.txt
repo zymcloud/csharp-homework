@@ -1,0 +1,4 @@
+31664805
+
+Hepatocellular carcinoma is the fastest growing cause of cancer-related mortality worldwide, with few treatment options and a 70% recurrence rate. This trend is driven largely by the recent surge in incidence of metabolic syndrome, non-alcoholic fatty liver disease, and non-alcoholic steatohepatitis. Given the central role of the liver in lipid homeostasis, altered hepatic lipid metabolism has been identified as a contributing factor to hepatocellular carcinoma. Neoplastic cells are highly dependent on lipid metabolism as a source of energy and to support rapid cell division, and fatty acid derivatives play key roles in cell signaling. Aberrant expression of liver fatty acid–binding protein and changes in the ratio of saturated to unsaturated triacylglycerols have been shown to be associated with disease severity and subtype. This chapter focuses on metabolic reprogramming and dysregulation of lipid metabolism as hallmarks of hepatocellular carcinoma.
+

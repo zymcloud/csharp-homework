@@ -1,0 +1,4 @@
+29558404
+2018 Mar 20
+The protein tyrosine phosphatase (PTP) family is involved in multiple cellular functions and plays an important role in various pathological and physiological processes. In many chronic diseases, for example cancer, PTP is a potential therapeutic target for cancer treatment. In the last two decades, dozens of PTP inhibitors which specifically target individual PTP molecules were developed as therapeutic agents. Hepatocellular carcinoma (HCC) is one of the most common malignant tumors and is the second most lethal cancer worldwide due to a lack of effective therapies. Recent studies have unveiled both oncogenic and tumor suppressive functions of PTP in HCC. Here, we review the current knowledge on the involvement of PTP in HCC and further discuss the possibility of targeting PTP in HCC.
+hepatocellular carcinoma; protein-tyrosine phosphatase inhibitors; signaling pathways; therapeutic targets.

@@ -1,0 +1,4 @@
+30536174
+2018
+Many diseases of the gastrointestinal tract have been attributed to chronic inflammation, and a few have identified the role of inflammasomes in their pathogenesis. Inflammasomes are a group of protein complexes comprising of several intracellular proteins that link the sensing of microbial products and metabolic stress to the proteolytic activation of the proinflammatory cytokines. Recent studies have implicated activation of several families of NOD-like receptors (NLRs) which are major components of inflammasomes in the development and exacerbation of many diseases of human systems. In this chapter, we discuss the role of inflammasomes in some of the most prevalent diseases of the gastrointestinal tract and highlight potential targets for treatment.
+Colorectal cancer; Fatty liver disease; Gastric cancer; Gastritis; Hepatitis; Hepatocellular carcinoma; Inflammasome; Inflammatory bowel disease; Liver cirrhosis; Pancreatic cancer; Pancreatitis.

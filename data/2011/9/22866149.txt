@@ -1,0 +1,4 @@
+22866149
+2011 Sep 1
+Excision repair cross‑complementing rodent repair deficiency, complementation group 5 (ERCC5, XPG) is a key molecule in DNA damage repair. We analyzed the contribution of ERCC5 rs751402 polymorphism in increased susceptibility to hepatocellular carcinoma (HCC). A total of 96 patients diagnosed with HCC and 336 healthy controls provided blood samples for analysis of rs751402 genotypes. Demographic data and information on habitual use of tobacco and alcohol were collected. After adjusting for covariates, rs751402 homozygocity for allele C was found to confer a statistically significant protection [adjusted odds ratio (AOR)=0.56; 95% CI, 0.35‑0.89; p=0.01] against HCC, whereas rs751402 T alleles were associated with increased risk (AOR=1.69; 95% CI, 0.74‑3.87). Individuals with the inherited ERCC rs751402 CC genotype may experience significant protection against HCC, whereas individuals with T alleles appear to be exposed to higher risk.
+

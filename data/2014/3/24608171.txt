@@ -1,0 +1,4 @@
+24608171
+2014 Mar 7
+Neuro-oncological ventral antigen 1 (Nova1) is a neuron-specific RNA-binding protein in human paraneoplastic opsoclonus-myoclonus ataxia accompanying with malignant tumors, but its role in hepatocellular carcinoma (HCC) remains elusive. In this study, we found that overexpressed intratumoral Nova1 was associated with poor survival rate and increased recurrence rate of HCC, especially early recurrence, and was an independent prognostic factor for overall survival rate and tumor recurrence. HCC cell lines over-expressing Nova1 exhibited greater potentials in cell proliferation, invasion and migration, while knockdown of Nova1 had the opposite effects. All these findings indicate that Nova1 may act as a prognostic marker for poor outcome and high recurrence in HCC.
+

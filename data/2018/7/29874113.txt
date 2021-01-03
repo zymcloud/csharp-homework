@@ -1,0 +1,4 @@
+29874113
+2018 Jul
+The defects of DNA repair genes may lead to genomic instability and cancer. As an important DNA mismatch repair gene that maintains genomic stability from DNA replication errors, genetic variants of mutS homolog 2 (MSH2) are associated with some cancers. In this study, 1021 hepatocellular carcinoma (HCC) cases and 1021 non-HCC controls from Guangxi were included to explore the association between MSH2 single-nucleotide polymorphisms (SNPs) and HCC. Among the eight MSH2 SNPs, only genotype distribution of rs2303428 was significantly different from HCC and non-HCC patients (p
+MSH2; hepatocellular carcinoma; mismatch repair; single-nucleotide polymorphism.

@@ -1,0 +1,4 @@
+25405367
+2015 Feb
+The staphylococcal nuclease and tudor domain containing 1 (SND1) is a multifunctional protein overexpressed in breast, prostate, colorectal and hepatocellular carcinomas and malignant glioma. Molecular studies have revealed the multifaceted activities of SND1 involved in regulating gene expression at transcriptional as well as post-transcriptional levels. Early studies identified SND1 as a transcriptional co-activator. SND1 is also a component of RNA-induced silencing complex (RISC) thus mediating RNAi function, a regulator of mRNA splicing, editing and stability, and plays a role in maintenance of cell viability. Such diverse actions allow the SND1 to modulate a complex array of molecular networks, thereby promoting carcinogenesis. Here, we describe the crucial role of SND1 in cancer development and progression, and highlight SND1 as a potential target for therapeutic intervention.
+

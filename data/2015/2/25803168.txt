@@ -1,0 +1,4 @@
+25803168
+2015 Feb
+[In the article "Hepatic Resection as a Safe and Effective Treatment for Hepatocellular Carcinoma Involving a Single Large Tumor, Multiple Tumors, or Macrovascular Invasion", which appeared in Volume 94, Issue 3 of Medicine, the word "disorder" was incorrectly substituted for the word "pathology" in the first sentence of the Definitions section. Also, in Figure 3, the y-axis incorrectly read "Overall survival (%)". It should have read "Disease-free survival (%)".].
+

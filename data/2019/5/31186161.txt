@@ -1,0 +1,4 @@
+31186161
+2019 May 20
+Golgi membrane protein 1 (GOLM1/GP73) is a serum marker of hepatocellular carcinoma (HCC). We have previously shown that mTOR promoted tumorigenesis of HCC through stimulating GOLM1 expression. In this study, we demonstrated that the mammalian target of rapamycin (mTOR) was a negative regulator of microRNA-145 (miR-145) expression. miR-145 inhibited GOLM1 expression by targeting a coding sequence of GOLM1 gene. GOLM1 and miR-145 were inversely correlated in human HCC tissues. GOLM1-enriched exosomes activated the glycogen synthase kinase-3β/matrix metalloproteinases (GSK-3β/MMPs) signaling axis of recipient cells and accelerated cell proliferation and migration. In contrast, miR-145 suppressed tumorigenesis and metastasis. We suggest that mTOR/miR-145/GOLM1 signaling pathway should be targeted for HCC treatment.
+Exosome; GOLM1; Hepatocellular carcinoma; mTOR; miR-145.

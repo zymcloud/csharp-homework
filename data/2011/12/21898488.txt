@@ -1,0 +1,4 @@
+21898488
+2011 Dec
+Serum ferritin (SF) concentration is a widely available parameter used to assess iron homeostasis. It has been described as a marker to identify high-risk patients awaiting liver transplantation (LT) but is also elevated in systemic immune-mediated diseases, metabolic syndrome, and in hemodialysis where it is associated with an inferior prognosis. This study analyzed whether SF is not only a predictor of liver-related mortality prior to LT but also an independent marker of survival following LT. In a dual-center, retrospective study, a cohort of 328 consecutive first-LT patients from Hannover Medical School, Germany (2003-2008, follow-up 1260 days), and 82 consecutive LT patients from Regensburg University Hospital, Germany (2003-2007, follow-up 1355 days) as validation cohort were analyzed. In patients exhibiting SF ≥365 μg/L versus Conclusion:SF concentration ≥365 μg/L in combination with TFS
+

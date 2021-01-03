@@ -1,0 +1,4 @@
+21815148
+2011 Dec
+Objective:To evaluate the influence of body mass index (BMI) on postoperative death in patients undergoing surgery for HCC.Methods:Three hundred forty-two patients were enrolled, and divided into three groups: Group A, BMI Results:Kaplan-Meier analysis and log rank test revealed that Group A had a higher rate of postoperative death than Group B or C (P = 0.010). Univariate and multivariate analyses selected being underweight (Group B, C/Group A) (odds ratio, 1.829; 95% C.I., 1.091-3.068; P = 0.022) as one of the factors predictive of postoperative death, together with aspartate aminotransferase level (P = 0.042) and HCC growth pattern (P = 0.032).Conclusions:BMI is a simple but important predictor of postoperative death in patients undergoing surgery for HCC, and is able to classify such patients into three independent groups.
+

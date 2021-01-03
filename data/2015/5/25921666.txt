@@ -1,0 +1,4 @@
+25921666
+2015 May
+The currently accepted major diagnostic criteria for identifying hepatocellular carcinoma (HCC) on dynamic cross-sectional imaging consist of diffuse arterial phase hyperenhancement within the lesion, portal venous or delayed phase washout, and the presence and appearance of a capsule; also included in this criteria is interval threshold growth. Ancillary features such as intralesional fat, blood products, and mosaic architecture also favor a diagnosis of HCC. Tumor in a portal or hepatic vein is a definitive finding for an HCC even if a parenchymal mass is not clearly seen.
+HCC; Imaging; LI-RADS; Liver; MRI.

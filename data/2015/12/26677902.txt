@@ -1,0 +1,4 @@
+26677902
+2015 Dec
+Clioquinol has been shown to have anticancer activity in several carcinoma cells. In this study, we preliminarily examined the effect of clioquinol in human SMMC-7721 hepatoma and QSG-7701 normal hepatic cells. Our results indicated that clioquinol did not significantly affect survival of QSG-7701 cells, whereas it reduced cell viability in a concentration- and time-dependent manner in SMMC-7721 cells. Clioquinol did not trigger autophagy and apoptosis, while it induced cell cycle arrest in the S-phase in SMMC- 7721 cells. Additionally, down-regulation of cyclin D1, A2, E1, Cdk2 and up-regulation of p21, p27 were detected after the treatment with clioquinol. The results demonstrated for the first time that clioquinol suppressed cell cycle progression in the S-phase in SMMC-7721 cells via the p21, p27-cyclin E,A/Cdk2 pathway. This suggests that clioquinol may have a therapeutic potential as an anticancer drug for certain malignances.
+

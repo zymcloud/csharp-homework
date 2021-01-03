@@ -1,0 +1,4 @@
+25980610
+2015 Jul 8
+The role of the RNA-binding protein human antigen R (HuR) in hepatocarcinogenesis is still elusive. By employing short hairpin (sh)RNA-dependent knockdown approach, we demonstrate that lymphotoxin α (LTα) is a target of posttranscriptional gene regulation by HuR in hepatocellular carcinoma (HepG2) cells. Consequently, the increased mRNA decay upon HuR depletion significantly affects lymphotoxin expression at both, the mRNA and protein level. Biotin-pulldown assay showed that HuR specifically interacts with the 3'-untranslated region (3'-UTR) of the LTα mRNA. Furthermore, electrophoretic mobility shift assay (EMSA) implicates that the RNA-binding critically depends on the RNA recognition motif 2 (RRM2) and the hinge region of HuR.
+AU-rich element; Hepatocellular carcinoma; Lymphotoxin α; mRNA-stability.

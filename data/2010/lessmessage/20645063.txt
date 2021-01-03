@@ -1,0 +1,4 @@
+20645063
+2010
+The liver is the major organ metabolising drugs. The hepatocyte contains a number of drug-metabolising enzyme systems, which most often generate a complex pattern of drug metabolites. Isolated primary hepatocytes would be an ideal in vitro model for drug metabolism research but erratic availability and poor stability of functions in culture limit their value. Recently a hepatoma cell line HepaRG was developed showing promising functions and stability. In the differentiated stage the cell line showed stable expression of mRNA coding for key proteins in drug metabolism and liver-specific functions for over 6 weeks. The cell line was found to reflect important hepatic functions and has been evaluated as a convenient model for evaluating cytochrome P450 induction properties of drug compounds. HepaRG cells could therefore be an alternative to human hepatocytes in investigating drug metabolism and induction of drug-metabolising enzymes.
+
